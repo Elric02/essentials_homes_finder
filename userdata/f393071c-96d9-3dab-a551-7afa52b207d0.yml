@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498341527984
+  lastteleport: 1498341613127
+  logout: 1498341624444
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 109.94531813438319
+  y: 63.0
+  z: 77.78104136689731
+  yaw: -115.22824096679688
+  pitch: 50.408470153808594
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -181.09707641601562
+  pitch: 7.001294136047363
+  world-name: ''
+ip-address: 160.176.79.202
+last-account-name: mouatz2003
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

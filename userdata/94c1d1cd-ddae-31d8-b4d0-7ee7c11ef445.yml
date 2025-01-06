@@ -1,0 +1,38 @@
+timestamps:
+  login: 1591731077128
+  logout: 1591731157984
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.87603596093533
+  y: 65.0
+  z: 99.11985581898566
+  yaw: 274.15234375
+  pitch: 5.790661334991455
+  world-name: ''
+ip-address: 89.80.43.143
+last-account-name: Hiokina
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

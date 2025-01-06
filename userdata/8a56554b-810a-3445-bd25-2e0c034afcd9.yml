@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618590723519
+  lastteleport: 1618590735050
+  logout: 1618590747996
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.3003011605629
+  y: 65.0
+  z: 98.14532643487748
+  yaw: 172.7464599609375
+  pitch: 9.240652084350586
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.66866196868133
+  y: 64.0
+  z: 23.34979350834759
+  yaw: -258.6945495605469
+  pitch: 18.275854110717773
+  world-name: ''
+ip-address: 82.142.31.220
+last-account-name: Skinnix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

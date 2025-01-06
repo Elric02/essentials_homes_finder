@@ -1,0 +1,55 @@
+timestamps:
+  login: 1541442478348
+  lastteleport: 1541351900813
+  logout: 1541442843791
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5560.857226137808
+  y: 63.0
+  z: 211.16041010022934
+  yaw: 291.3421630859375
+  pitch: 11.471246719360352
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5388.022188675978
+  y: 58.0
+  z: 869.8144538509857
+  yaw: -285.59466552734375
+  pitch: 23.126922607421875
+  world-name: ''
+homes:
+  salon:
+    world: world
+    x: 5561.230558655411
+    y: 63.0
+    z: 206.30590083493607
+    yaw: 156.3412322998047
+    pitch: 44.62126541137695
+    world-name: ''
+  base:
+    world: world
+    x: -5460.845203056737
+    y: 64.0
+    z: 804.717881241641
+    yaw: 208.65582275390625
+    pitch: 13.226930618286133
+    world-name: ''
+afk: false
+muted: false
+ip-address: 77.148.101.50
+last-account-name: benji4415
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1545943080094
+  lastteleport: 1545943824108
+  logout: 1545944332246
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.24422740335564
+  y: 64.0
+  z: 14.795660496136053
+  yaw: -44.27081298828125
+  pitch: 12.478668212890625
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: -4501.699999988079
+    y: 53.0
+    z: -6637.400068780185
+    yaw: -90.8486328125
+    pitch: 6.900022029876709
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 1955.1643729067644
+    y: 67.0
+    z: 3241.765876056046
+    yaw: 179.84820556640625
+    pitch: 26.85008430480957
+    world-name: ''
+  grotte:
+    world: Ressource
+    x: 406.841705353727
+    y: 13.0
+    z: -3582.699999988079
+    yaw: 347.7645568847656
+    pitch: 34.35000228881836
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 151.50889220745395
+  y: 64.0
+  z: 12.945187545057864
+  yaw: -151.8208465576172
+  pitch: 10.228673934936523
+  world-name: ''
+ip-address: 70.82.77.94
+last-account-name: jeansebm
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

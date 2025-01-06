@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510586741997
+  lastteleport: 1510586916636
+  logout: 1510587256888
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 167.46283332711283
+  y: 150.0
+  z: -126.87719194387637
+  yaw: 89.503173828125
+  pitch: 67.14740753173828
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -598.11539024972
+  y: 66.0
+  z: -848.3132047159493
+  yaw: 292.73291015625
+  pitch: 27.245420455932617
+  world-name: ''
+ip-address: 78.235.236.134
+last-account-name: bps1289
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

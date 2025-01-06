@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521590139920
+  lastteleport: 1521417367717
+  logout: 1521590168199
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 5.586180303559015
+  y: 83.0
+  z: 44.14173732510448
+  yaw: -66.41458129882812
+  pitch: 12.781923294067383
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.60536100727643
+  y: 66.5
+  z: 94.42346001461382
+  yaw: 13.329181671142578
+  pitch: 1.078689694404602
+  world-name: ''
+ip-address: 173.178.131.27
+last-account-name: VintioGamer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

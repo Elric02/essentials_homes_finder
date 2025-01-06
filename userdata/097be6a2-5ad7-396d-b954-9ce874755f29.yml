@@ -1,0 +1,38 @@
+timestamps:
+  login: 1570547906364
+  lastteleport: 1570548717208
+  logout: 1570548841722
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -625.3367647808104
+  y: 64.0
+  z: -753.5361794605428
+  yaw: 6.9974565505981445
+  pitch: 9.690661430358887
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 164.00093261574514
+  y: 64.0
+  z: 19.57404987579305
+  yaw: 78.72911071777344
+  pitch: 10.228671073913574
+  world-name: ''
+ip-address: 91.167.124.129
+last-account-name: yuki
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

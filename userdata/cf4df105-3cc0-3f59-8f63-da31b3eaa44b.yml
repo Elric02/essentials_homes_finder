@@ -1,0 +1,63 @@
+timestamps:
+  login: 1511119068109
+  logout: 1511119857763
+  lastteleport: 1511119833927
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2148.762499988079
+  y: 69.0
+  z: 1835.9645873487707
+  yaw: -235.64990234375
+  pitch: 45.599998474121094
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4101.209433080293
+  y: 90.0
+  z: -6572.031341851406
+  yaw: -20.10015869140625
+  pitch: 23.699974060058594
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: -4102.445213868899
+    y: 90.0
+    z: -6573.680167302947
+    yaw: -95.40016174316406
+    pitch: 32.39997863769531
+    world-name: ''
+  ville:
+    world: world
+    x: 1487.1185941509511
+    y: 66.0
+    z: -2148.0233760417764
+    yaw: -229.64732360839844
+    pitch: 7.649995803833008
+    world-name: ''
+  b2:
+    world: world
+    x: 2148.510390805406
+    y: 69.0
+    z: 1835.4658011694085
+    yaw: -95.99980926513672
+    pitch: 89.69999694824219
+    world-name: ''
+afk: false
+ip-address: 92.92.213.56
+last-account-name: DarkMax62
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

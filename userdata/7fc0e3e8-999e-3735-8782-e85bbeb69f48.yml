@@ -1,0 +1,63 @@
+timestamps:
+  login: 1597265565981
+  logout: 1597269257824
+  lastteleport: 1597268908473
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.90311142018928
+  y: 63.0
+  z: 8.115805710924116
+  yaw: 128.52859497070312
+  pitch: 36.32863998413086
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 220.45127671803857
+  y: 100.0
+  z: -91.06456516410246
+  yaw: -209.87815856933594
+  pitch: 8.128670692443848
+  world-name: ''
+money: '0'
+homes:
+  test:
+    world: world
+    x: 4375.250411903422
+    y: 72.0
+    z: -3129.9273446853726
+    yaw: -81.30264282226562
+    pitch: 8.099979400634766
+    world-name: ''
+  exi:
+    world: world
+    x: 549.315319257397
+    y: 55.0
+    z: 2363.1022179439774
+    yaw: -46.34617233276367
+    pitch: 16.19441032409668
+    world-name: ''
+  hey:
+    world: world
+    x: -3052.7809398353015
+    y: 108.0
+    z: 2277.0664350634934
+    yaw: -341.7020263671875
+    pitch: -75.2998275756836
+    world-name: ''
+ip-address: 196.112.130.220
+last-account-name: ely_on
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

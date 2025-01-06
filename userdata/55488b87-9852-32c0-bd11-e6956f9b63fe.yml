@@ -1,0 +1,38 @@
+timestamps:
+  login: 1613214796251
+  logout: 1613214958176
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3935.4933987481018
+  y: 57.0
+  z: -6913.300000011921
+  yaw: 99.75018310546875
+  pitch: 45.15015411376953
+  world-name: ''
+ip-address: 77.133.103.215
+last-account-name: LeCraCra
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

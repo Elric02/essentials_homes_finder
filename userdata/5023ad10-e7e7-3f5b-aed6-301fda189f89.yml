@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616531152454
+  logout: 1616531219318
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 164.69260119112892
+  y: 63.0
+  z: 61.342584374670274
+  yaw: -296.9012451171875
+  pitch: 6.690654754638672
+  world-name: ''
+ip-address: 88.124.239.177
+last-account-name: andre
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

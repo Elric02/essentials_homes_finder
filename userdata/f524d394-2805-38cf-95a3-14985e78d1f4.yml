@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471533601140
+  lastteleport: 1471533631199
+  logout: 1471533632714
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.9744367091544
+  y: 64.0
+  z: 19.18401636084016
+  yaw: -161.2471923828125
+  pitch: 11.968679428100586
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.2685700361053
+  y: 64.0
+  z: 28.44329469974168
+  yaw: 42.55522155761719
+  pitch: -2.0692057609558105
+  world-name: ''
+ip-address: 176.149.171.191
+last-account-name: Steyni
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

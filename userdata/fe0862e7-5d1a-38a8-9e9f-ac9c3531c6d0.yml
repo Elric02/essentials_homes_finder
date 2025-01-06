@@ -1,0 +1,63 @@
+timestamps:
+  login: 1487500563734
+  lastteleport: 1487500774663
+  logout: 1487500878391
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 204.69999998807907
+  y: 55.0
+  z: -136.31436189295792
+  yaw: -98.6099853515625
+  pitch: 40.3499870300293
+  world-name: ''
+money: '0'
+homes:
+  mineur:
+    world: world
+    x: 209.69999998807907
+    y: 60.0
+    z: -111.30000001192093
+    yaw: -145.11117553710938
+    pitch: 65.99996185302734
+    world-name: ''
+  base2:
+    world: world
+    x: -4999.527807476791
+    y: 69.0
+    z: 268.57122038457146
+    yaw: 185.87106323242188
+    pitch: 18.300060272216797
+    world-name: ''
+  merlin:
+    world: world
+    x: 63.3626359294948
+    y: 94.0
+    z: 55.889573507793635
+    yaw: -358.5625
+    pitch: 26.550004959106445
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 219.48248257532165
+  y: 100.125
+  z: -105.0338758288169
+  yaw: -283.56072998046875
+  pitch: 39.77452087402344
+  world-name: ''
+afk: false
+ip-address: 92.143.91.217
+last-account-name: bleubas30900
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

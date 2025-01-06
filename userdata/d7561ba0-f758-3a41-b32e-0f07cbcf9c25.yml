@@ -1,0 +1,59 @@
+timestamps:
+  login: 1611977259500
+  lastteleport: 1611977802622
+  logout: 1611977903552
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2009.5
+  y: 66.0
+  z: 1442.5
+  yaw: -273.44976806640625
+  pitch: 39.89967346191406
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 2009.7404859517965
+    y: 66.0
+    z: 1442.5266304095574
+    yaw: -273.44976806640625
+    pitch: 39.89967346191406
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1458.5814650278385
+  y: 64.0
+  z: -2168.0889300214294
+  yaw: 9.52606201171875
+  pitch: -24.313993453979492
+  world-name: ''
+afk: false
+ip-address: 173.178.252.235
+last-account-name: DaveDee34
+mail:
+- legacy: true
+  read: false
+  message: §e[§rThesimon59§e] §ryo, je t'envoie ce mail a toi et a davedee car on
+    a trouvé votre base sur le monde ressource... Je sais pas si vous avais faits
+    la quete du prof au spawn mais du coup je vous informe que le monde ressource
+    est régen souvent...
+- legacy: true
+  read: false
+  message: §e[§rThesimon59§e] §rdu coup je vous informe que pour construire votre
+    base, il vous faut se rendre sur la map [world] qui elle n'est pas régen. De plus,
+    n'oubliez pas d'appeller un modo pour claim/protéger votre base du grief
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

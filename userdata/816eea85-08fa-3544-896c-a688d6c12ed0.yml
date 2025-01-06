@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.171.31.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1677177029973
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677177205290
+  login: 1677175779980
+money: '0'
+last-account-name: venenom1
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 62.65358760670307
+  y: 70.92305507574018
+  z: 183.19791031102002
+  yaw: -19.998743057250977
+  pitch: 33.29995346069336
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 69.41346068525662
+  y: 65.0
+  z: 204.36019474343016
+  yaw: 20.3966064453125
+  pitch: 18.449941635131836

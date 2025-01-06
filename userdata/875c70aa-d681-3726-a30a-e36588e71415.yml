@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490800821520
+  lastteleport: 1490801014280
+  logout: 1490801422331
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.9657991010716
+  y: 63.0
+  z: 7.496821551148834
+  yaw: -258.3696594238281
+  pitch: 32.22904586791992
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 177.23466045456834
+  y: 137.0
+  z: -129.00275699904222
+  yaw: -280.2363586425781
+  pitch: 3.260411262512207
+  world-name: ''
+ip-address: 90.110.82.114
+last-account-name: Kyky59
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

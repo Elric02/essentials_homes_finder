@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476641102314
+  logout: 1476641142499
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.2931328890474
+  y: 64.0
+  z: 57.070382616406235
+  yaw: -340.546630859375
+  pitch: 16.747404098510742
+  world-name: ''
+ip-address: 90.4.49.126
+last-account-name: DrAzerTV
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

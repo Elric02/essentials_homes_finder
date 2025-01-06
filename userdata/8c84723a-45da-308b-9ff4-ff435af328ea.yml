@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500562480054
+  lastteleport: 1500562538538
+  logout: 1500562604597
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.73902738168846
+  y: 66.0
+  z: 43.726603976925595
+  yaw: -8.760862350463867
+  pitch: -41.52549743652344
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.30170964766478
+  y: 63.0
+  z: 37.56109114758731
+  yaw: -162.51089477539062
+  pitch: 2.12451434135437
+  world-name: ''
+ip-address: 62.197.100.20
+last-account-name: momo_21
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1495383061384
+  lastteleport: 1495385011586
+  logout: 1495385095318
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4989.804650593466
+  y: 69.0
+  z: -3825.7918666103715
+  yaw: -182.39971923828125
+  pitch: 23.549991607666016
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: -4948.144045404203
+    y: 65.0
+    z: -3867.6698189515064
+    yaw: -176.24960327148438
+    pitch: 36.599979400634766
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4946.966227191067
+  y: 65.875
+  z: -3870.122043098308
+  yaw: -340.34954833984375
+  pitch: 47.849937438964844
+  world-name: ''
+ip-address: 83.198.187.164
+last-account-name: SuperSaiyanDivin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1523726751340
+  lastteleport: 1520071973608
+  logout: 1523726819536
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: 194.69999998807907
+  y: 60.0
+  z: 409.4945452366724
+  yaw: -297.8385314941406
+  pitch: 23.100040435791016
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 697.2312465907914
+  y: 63.5
+  z: 4919.87292430311
+  yaw: -273.9512939453125
+  pitch: 14.324860572814941
+  world-name: ''
+homes:
+  ville:
+    world: world
+    x: 725.3712106013315
+    y: 65.0
+    z: 4907.616005910152
+    yaw: 93.24848937988281
+    pitch: 47.62492752075195
+    world-name: ''
+ip-address: 213.49.173.81
+last-account-name: wilyfe
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

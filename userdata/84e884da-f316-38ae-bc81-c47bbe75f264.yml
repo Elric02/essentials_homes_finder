@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.91.149.102
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1673546303780
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673547125133
+  login: 1673545439757
+money: '150.0'
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 3895.699999988079
+  y: 62.0
+  z: 68.69999998807907
+  yaw: 32.57933807373047
+  pitch: 2.249692916870117
+last-account-name: GustaveFlaubert
+homes:
+  village1:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 1971.8344742370898
+    y: 75.0
+    z: -2059.911349728144
+    yaw: -64.47305297851562
+    pitch: 21.749780654907227
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -105.5
+  y: 99.0
+  z: 147.5
+  yaw: -92.69916534423828
+  pitch: 3.899911642074585

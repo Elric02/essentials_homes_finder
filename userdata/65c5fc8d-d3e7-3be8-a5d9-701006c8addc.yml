@@ -1,0 +1,38 @@
+timestamps:
+  login: 1619714497516
+  lastteleport: 1619714730386
+  logout: 1619715340018
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 122.27069822765941
+  y: 63.0
+  z: 48.54104381063703
+  yaw: 278.0058898925781
+  pitch: 32.375797271728516
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4819.999959958454
+  y: 69.0
+  z: -294.4282992320978
+  yaw: 311.551513671875
+  pitch: 47.54998016357422
+  world-name: ''
+ip-address: 78.113.119.173
+last-account-name: AlexaInnit
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

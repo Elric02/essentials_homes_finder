@@ -1,0 +1,63 @@
+timestamps:
+  login: 1484329591002
+  lastteleport: 1484329603207
+  logout: 1484330041830
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -7423.091675979653
+  y: 56.6838189691886
+  z: -5672.974309432238
+  yaw: 4.799072265625
+  pitch: 9.959766387939453
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -7135.995077151956
+    y: 79.0
+    z: -5634.776657476721
+    yaw: 33.35343933105469
+    pitch: 4.36292839050293
+    world-name: ''
+  lolp:
+    world: world
+    x: -4234.629402309821
+    y: 63.0
+    z: -3626.9223068097367
+    yaw: -177.40863037109375
+    pitch: -3.6912922859191895
+    world-name: ''
+  patate:
+    world: world
+    x: -4599.953385684146
+    y: 80.0
+    z: -3590.351643095247
+    yaw: -308.599365234375
+    pitch: 10.300844192504883
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4753.195605279319
+  y: 75.0
+  z: -3555.699999988079
+  yaw: -91.55339050292969
+  pitch: -15.444692611694336
+  world-name: ''
+muted: false
+ip-address: 109.18.42.69
+last-account-name: thebg79
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

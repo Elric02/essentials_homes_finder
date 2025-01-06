@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472986867074
+  logout: 1472988213854
+  lastteleport: 1472988202511
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: 106.30000001192093
+  y: 73.0
+  z: 614.9560015701983
+  yaw: -204.05999755859375
+  pitch: 18.511266708374023
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.4926620130209
+  y: 64.0
+  z: 16.216272061566176
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+ip-address: 83.115.112.180
+last-account-name: Ganph
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

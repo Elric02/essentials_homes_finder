@@ -1,0 +1,63 @@
+timestamps:
+  login: 1501603842827
+  logout: 1501605035062
+  lastteleport: 1501604741699
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2699.421474042815
+  y: 54.0
+  z: 5868.232630201011
+  yaw: -204.14993286132812
+  pitch: 13.950019836425781
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -5044.485259358889
+  y: 68.0
+  z: -6861.979687589666
+  yaw: -252.599853515625
+  pitch: 19.049983978271484
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 5352.9581066402225
+    y: 63.0
+    z: 4066.1957744017986
+    yaw: -36.9405517578125
+    pitch: 12.749924659729004
+    world-name: ''
+  c:
+    world: Ressource
+    x: -371.7340715462752
+    y: 69.0
+    z: 8287.554478552367
+    yaw: -24.14946746826172
+    pitch: 25.49999237060547
+    world-name: ''
+  b:
+    world: Ressource
+    x: 3265.3386624354475
+    y: 73.0
+    z: 7835.820578830172
+    yaw: 173.995849609375
+    pitch: 24.149978637695312
+    world-name: ''
+afk: false
+ip-address: 93.13.196.9
+last-account-name: xYumiika
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

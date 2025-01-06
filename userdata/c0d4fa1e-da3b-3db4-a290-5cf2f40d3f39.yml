@@ -1,0 +1,38 @@
+timestamps:
+  login: 1627311310644
+  logout: 1627311856401
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 174.57771076314506
+  y: 63.0
+  z: 19.237022134042995
+  yaw: -100.17479705810547
+  pitch: 13.415731430053711
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.30147880310972
+  y: 64.0
+  z: 23.000315152717867
+  yaw: 0.18743896484375
+  pitch: 9.575897216796875
+  world-name: ''
+ip-address: 93.21.3.27
+last-account-name: LMC60
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

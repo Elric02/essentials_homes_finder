@@ -1,0 +1,55 @@
+timestamps:
+  login: 1487731470553
+  lastteleport: 1487733485073
+  logout: 1487733671709
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2543.5655018312027
+  y: 79.0
+  z: -1784.0964349962546
+  yaw: -147.62945556640625
+  pitch: 36.784305572509766
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: -2542.5
+    y: 78.0
+    z: -1788.5
+    yaw: -175.73529052734375
+    pitch: 33.27814865112305
+    world-name: ''
+  nether:
+    world: world_nether
+    x: -4210.5
+    y: 72.0
+    z: 5445.5
+    yaw: -92.36785888671875
+    pitch: 32.06019592285156
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 155.32936952106718
+  y: 64.0
+  z: 29.470086278153843
+  yaw: -198.06103515625
+  pitch: 22.651565551757812
+  world-name: ''
+ip-address: 175.158.154.220
+last-account-name: lilok
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

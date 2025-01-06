@@ -1,0 +1,38 @@
+timestamps:
+  login: 1611977966564
+  lastteleport: 1611978005057
+  logout: 1611978190649
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2817.483604161168
+  y: 83.0
+  z: 3888.0369633801633
+  yaw: -74.70220947265625
+  pitch: 22.499929428100586
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 2671.31117943819
+  y: 14.0
+  z: 1512.2953541381262
+  yaw: -332.6986999511719
+  pitch: 7.49998140335083
+  world-name: ''
+ip-address: 65.92.183.160
+last-account-name: xHecatex
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

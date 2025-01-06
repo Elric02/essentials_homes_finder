@@ -1,0 +1,63 @@
+timestamps:
+  login: 1668624203752
+  lastteleport: 1632946383605
+  logout: 1668624252455
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -4202.04195853702
+  y: 71.0
+  z: 7087.648153732645
+  yaw: 65.41604614257812
+  pitch: 43.694095611572266
+  world-name: world
+money: '0'
+afk: false
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4200.211387160903
+    y: 71.0
+    z: 7095.351758415424
+    yaw: 178.79837036132812
+    pitch: 22.378414154052734
+    world-name: world
+  mine:
+    world: 2bca0cda-a734-4d22-87c5-e7ce78feeb1e
+    x: 469.030579520305
+    y: 11.0
+    z: 20.30000001192093
+    yaw: -289.654296875
+    pitch: 22.21662139892578
+    world-name: Ressource
+  vue:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 150.3965217480866
+    y: 76.0
+    z: 37.62992943798164
+    yaw: -154.2633056640625
+    pitch: 26.929794311523438
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -4202.04195853702
+  y: 71.0
+  z: 7087.648153732645
+  yaw: 65.54608917236328
+  pitch: 44.084224700927734
+  world-name: world
+ip-address: 90.54.164.155
+last-account-name: Louis_51
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

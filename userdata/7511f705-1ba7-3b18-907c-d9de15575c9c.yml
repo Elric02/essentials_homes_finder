@@ -1,0 +1,47 @@
+timestamps:
+  login: 1469121696418
+  logout: 1469122263839
+  lastteleport: 1469122199117
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 827.2638182976086
+  y: 64.0
+  z: 2652.709080083629
+  yaw: -40.847503662109375
+  pitch: 21.14976692199707
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 285.63358350716214
+  y: 11.0
+  z: 78.53088623605052
+  yaw: 183.600341796875
+  pitch: 1.9498995542526245
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 816.3909726893701
+    y: 64.0
+    z: 2654.296203668724
+    yaw: 75.40312194824219
+    pitch: 31.94990348815918
+    world-name: ''
+ip-address: 80.9.1.88
+last-account-name: DragonSharK93
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

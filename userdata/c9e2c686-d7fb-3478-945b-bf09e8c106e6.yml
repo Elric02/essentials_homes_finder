@@ -1,0 +1,38 @@
+timestamps:
+  login: 1522694337662
+  lastteleport: 1522694780741
+  logout: 1522694803215
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: 6.444271795731916
+  y: 66.0
+  z: -15.25253629673525
+  yaw: -57.41228485107422
+  pitch: -2.605031967163086
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 150.03600351254715
+  y: 64.0
+  z: 21.235395566835727
+  yaw: 326.37908935546875
+  pitch: 3.1786746978759766
+  world-name: ''
+ip-address: 176.169.223.220
+last-account-name: SailorSofty
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

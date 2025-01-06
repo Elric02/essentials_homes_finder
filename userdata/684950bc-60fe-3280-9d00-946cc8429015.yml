@@ -1,0 +1,38 @@
+timestamps:
+  login: 1555252228894
+  lastteleport: 1555252302708
+  logout: 1555252496605
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.87591551334907
+  y: 63.0
+  z: 64.47062492222332
+  yaw: 200.12461853027344
+  pitch: 13.298750877380371
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -163.0463884766234
+  y: 76.0
+  z: 13.019823074893724
+  yaw: 84.29230499267578
+  pitch: 25.082792282104492
+  world-name: ''
+ip-address: 109.23.127.112
+last-account-name: Sucre
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

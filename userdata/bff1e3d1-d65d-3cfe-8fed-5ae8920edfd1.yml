@@ -1,0 +1,63 @@
+timestamps:
+  login: 1536937649773
+  lastteleport: 1536942420094
+  logout: 1536944258457
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 892.3315231840255
+  y: 4.0
+  z: -1432.6027045712615
+  yaw: 113.0277099609375
+  pitch: 90.0
+  world-name: ''
+logoutlocation:
+  world: Event
+  x: 895.8702926774596
+  y: 12.5
+  z: -1413.441212438282
+  yaw: -199.8477783203125
+  pitch: 23.612350463867188
+  world-name: ''
+muted: false
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 6726.259545310009
+    y: 97.0
+    z: -2832.300000011921
+    yaw: 184.68702697753906
+    pitch: 28.14952278137207
+    world-name: ''
+  base:
+    world: world
+    x: 6257.483160971441
+    y: 67.0
+    z: -2582.5363364819905
+    yaw: -249.3436279296875
+    pitch: 48.2108039855957
+    world-name: ''
+  adil:
+    world: world
+    x: 1908.890708248394
+    y: 63.0
+    z: 6748.499360902022
+    yaw: -272.278564453125
+    pitch: 11.076377868652344
+    world-name: ''
+ip-address: 85.218.15.89
+last-account-name: JerWing
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1473589523101
+  logout: 1473589546282
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 137.31906005948986
+  y: 63.0
+  z: 20.086938045601627
+  yaw: -269.7217102050781
+  pitch: -0.08130668848752975
+  world-name: ''
+ip-address: 92.155.189.46
+last-account-name: Haken0
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

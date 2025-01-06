@@ -1,0 +1,55 @@
+timestamps:
+  login: 1691342519709
+  lastteleport: 1690583802581
+  logout: 1691342553573
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -2520.299862346525
+  y: 73.0
+  z: -1133.0710903837758
+  yaw: 177.78472900390625
+  pitch: 68.40023040771484
+  world-name: world
+money: '1100.0'
+afk: false
+homes:
+  ville:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 2224.0566163921817
+    y: 48.0
+    z: 5557.975050008713
+    yaw: -254.9228515625
+    pitch: 30.74987030029297
+    world-name: world
+  mesa:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2543.999472250057
+    y: 92.0
+    z: -1081.699999988079
+    yaw: -196.7664337158203
+    pitch: -1.5006288290023804
+    world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 2200.6229609378183
+  y: 56.0
+  z: 5547.322459236087
+  yaw: -59.48508834838867
+  pitch: 12.300477027893066
+  world-name: world
+ip-address: 88.168.10.38
+last-account-name: TLA_off
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

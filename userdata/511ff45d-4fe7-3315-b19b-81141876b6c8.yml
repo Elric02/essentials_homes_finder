@@ -1,0 +1,38 @@
+timestamps:
+  login: 1612268240159
+  lastteleport: 1612263601409
+  logout: 1612271234840
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -66.30000001192093
+  y: 60.08576460744037
+  z: -398.58836726764565
+  yaw: -2.2045047283172607
+  pitch: 13.649846076965332
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 157.79260493142448
+  y: 64.0
+  z: -3.222057841342182
+  yaw: -336.05078125
+  pitch: -0.7501752972602844
+  world-name: ''
+ip-address: 77.133.116.17
+last-account-name: ScytheDeath
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

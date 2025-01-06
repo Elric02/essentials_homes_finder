@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466726615729
+  lastteleport: 1466726771712
+  logout: 1466727705567
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.49150701332837
+  y: 28.0
+  z: 21.35696823734447
+  yaw: 30.631103515625
+  pitch: 8.137249946594238
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 157.12134472616998
+  y: 64.0
+  z: 6.7524374506324385
+  yaw: 356.277099609375
+  pitch: 4.889224052429199
+  world-name: ''
+ip-address: 74.59.108.23
+last-account-name: olidiamond234
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

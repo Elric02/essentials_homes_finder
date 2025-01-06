@@ -1,0 +1,63 @@
+timestamps:
+  login: 1474802626189
+  lastteleport: 1474794896371
+  logout: 1474802667835
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6040.9697268677155
+  y: 64.0
+  z: 5148.2492601556005
+  yaw: -143.84814453125
+  pitch: 24.449966430664062
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 1580.615106556566
+  y: 66.0
+  z: -1533.0143394039137
+  yaw: 194.5025634765625
+  pitch: 81.14982604980469
+  world-name: ''
+homes:
+  m:
+    world: world
+    x: -6051.445164110219
+    y: 64.0
+    z: 5137.162004813348
+    yaw: 279.00189208984375
+    pitch: 34.04998016357422
+    world-name: ''
+  s:
+    world: world
+    x: -124.5
+    y: 46.0
+    z: 412.5
+    yaw: 180.09356689453125
+    pitch: 7.799888610839844
+    world-name: ''
+  r:
+    world: Ressource
+    x: 139.6061948590378
+    y: 64.0
+    z: 326.2197548298342
+    yaw: -99.66007232666016
+    pitch: 28.418930053710938
+    world-name: ''
+muted: false
+ip-address: 88.121.61.85
+last-account-name: crakun54
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

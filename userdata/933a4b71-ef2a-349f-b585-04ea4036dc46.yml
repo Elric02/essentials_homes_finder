@@ -1,0 +1,47 @@
+timestamps:
+  login: 1582967456183
+  lastteleport: 1582968038568
+  logout: 1582968111735
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5818.687950173531
+  y: 72.0
+  z: 5911.926345077876
+  yaw: 35.258758544921875
+  pitch: 30.99365997314453
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 5215.534950165126
+    y: 63.0
+    z: -2267.0800027456394
+    yaw: 268.36859130859375
+    pitch: 23.63723373413086
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5217.1769232129
+  y: 63.0
+  z: -2262.974449214646
+  yaw: 316.2916259765625
+  pitch: 25.71381378173828
+  world-name: ''
+afk: false
+ip-address: 2.83.135.235
+last-account-name: _Hoter4ik
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

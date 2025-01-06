@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476641403740
+  logout: 1476641539425
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.0832236997441
+  y: 27.0
+  z: 20.636987163101416
+  yaw: -91.39749145507812
+  pitch: 9.847394943237305
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.91304822823088
+  y: 64.0
+  z: 17.962236231643942
+  yaw: 251.65264892578125
+  pitch: 11.850025177001953
+  world-name: ''
+ip-address: 86.216.80.80
+last-account-name: Sebiser43
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

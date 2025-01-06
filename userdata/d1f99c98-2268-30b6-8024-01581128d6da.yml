@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474798531255
+  lastteleport: 1474799114187
+  logout: 1474799221772
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.64664474860734
+  y: 63.0
+  z: 44.898421051649336
+  yaw: 48.53829574584961
+  pitch: 2.4244797229766846
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.1846564448913
+  y: 64.0
+  z: 24.587758612910427
+  yaw: -159.0609130859375
+  pitch: -3.1254827976226807
+  world-name: ''
+ip-address: 90.78.16.101
+last-account-name: caillou15
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

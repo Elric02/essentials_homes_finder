@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.85.90.74
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1662755546779
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1662757272412
+  login: 1662754366009
+  kits:
+    debutant: 1662755316512
+money: '0'
+last-account-name: darkents
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 158.60791889793623
+  y: 63.5
+  z: 50.16604132139766
+  yaw: -34.412841796875
+  pitch: 16.343629837036133
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 211.04157353400686
+  y: 64.5
+  z: -43.495504553959314
+  yaw: -32.65625
+  pitch: -61.79289245605469

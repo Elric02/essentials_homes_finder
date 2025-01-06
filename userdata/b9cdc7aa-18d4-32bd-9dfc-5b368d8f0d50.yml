@@ -1,0 +1,38 @@
+timestamps:
+  login: 1532178202155
+  lastteleport: 1532177514373
+  logout: 1532179314447
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.90527617450385
+  y: 64.0
+  z: 15.029288250185234
+  yaw: -6.21685791015625
+  pitch: 8.699592590332031
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 37.299473829622585
+  y: 66.0
+  z: -124.49805779978297
+  yaw: -54.03863525390625
+  pitch: 36.260955810546875
+  world-name: ''
+ip-address: 78.195.202.83
+last-account-name: darkemeline02
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

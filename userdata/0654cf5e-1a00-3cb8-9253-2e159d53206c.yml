@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618138832145
+  lastteleport: 1618138576682
+  logout: 1618138848781
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.29898790141502
+  y: 64.0
+  z: 20.05000001192093
+  yaw: -181.74530029296875
+  pitch: 10.025873184204102
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 704.8069755379397
+  y: 64.0
+  z: 125.90589062681836
+  yaw: -336.9014587402344
+  pitch: 47.435794830322266
+  world-name: ''
+money: '0'
+ip-address: 86.77.122.106
+last-account-name: Azarkooo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

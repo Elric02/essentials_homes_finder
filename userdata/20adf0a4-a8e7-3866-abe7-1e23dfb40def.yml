@@ -1,0 +1,55 @@
+timestamps:
+  login: 1504045478253
+  logout: 1504045524471
+  lastteleport: 1504011677341
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.9098964368764
+  y: 66.0
+  z: 19.664883206027454
+  yaw: -90.3611068725586
+  pitch: 27.750015258789062
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Ressource
+  x: -6.324316020558453
+  y: 89.5
+  z: 0.39122054093339653
+  yaw: -275.58563232421875
+  pitch: -79.46691131591797
+  world-name: ''
+muted: false
+homes:
+  a:
+    world: world
+    x: 10696.318086176505
+    y: 70.0
+    z: -10892.12176133762
+    yaw: -163.11688232421875
+    pitch: -5.814083576202393
+    world-name: ''
+  b:
+    world: Ressource
+    x: 4079.699999988079
+    y: 10.0
+    z: -6809.699999988079
+    yaw: 89.25320434570312
+    pitch: -3.599985361099243
+    world-name: ''
+ip-address: 77.207.169.48
+last-account-name: wendy
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618918160207
+  lastteleport: 1618918205783
+  logout: 1618918278634
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 147.55540904067476
+  y: 58.29634015871605
+  z: 88.67170112554288
+  yaw: 201.68870544433594
+  pitch: -37.34469985961914
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2743.852182245279
+  y: 96.0
+  z: -69.01253554062608
+  yaw: -177.9145050048828
+  pitch: 57.19480895996094
+  world-name: ''
+ip-address: 78.240.230.51
+last-account-name: Xerofor__
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

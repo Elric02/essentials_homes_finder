@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510767831991
+  lastteleport: 1510767878564
+  logout: 1510768082709
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 150.10431450788414
+  y: 64.0
+  z: 19.72277415573035
+  yaw: -266.5712890625
+  pitch: 46.67864990234375
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -268.69999998807907
+  y: 132.0
+  z: -3896.2977430545598
+  yaw: -259.81951904296875
+  pitch: 27.868511199951172
+  world-name: ''
+ip-address: 86.233.147.252
+last-account-name: kitsuda
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

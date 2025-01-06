@@ -1,0 +1,63 @@
+timestamps:
+  login: 1487782938015
+  lastteleport: 1487433329944
+  logout: 1487783066472
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -913.2380760100507
+  y: 28.0
+  z: 570.2259931653865
+  yaw: 275.78472900390625
+  pitch: 16.367650985717773
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 4119.488860501753
+    y: 69.0
+    z: 6627.857544294538
+    yaw: 174.18948364257812
+    pitch: 24.185375213623047
+    world-name: ''
+  darkoak:
+    world: Ressource
+    x: 718.3066944189666
+    y: 71.0
+    z: 758.9499487603464
+    yaw: 156.96435546875
+    pitch: 26.933881759643555
+    world-name: ''
+  mer:
+    world: Ressource
+    x: 646.7493008398976
+    y: 63.0
+    z: 1384.6490880786826
+    yaw: 117.81085205078125
+    pitch: 19.8000545501709
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 4119.757271343483
+  y: 69.0
+  z: 6631.638422011797
+  yaw: -298.6108703613281
+  pitch: 25.34996223449707
+  world-name: ''
+afk: false
+ip-address: 176.149.46.209
+last-account-name: SamDie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

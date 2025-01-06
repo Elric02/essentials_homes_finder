@@ -1,0 +1,47 @@
+timestamps:
+  login: 1491647598035
+  lastteleport: 1491648809359
+  logout: 1491648954699
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2521.699999988079
+  y: 88.0
+  z: -6050.699999988079
+  yaw: 140.0995635986328
+  pitch: 33.9000129699707
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: -583.9588967272726
+  y: 79.0
+  z: -923.2851689544349
+  yaw: -28.147308349609375
+  pitch: 8.85000991821289
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -2495.3909166637713
+    y: 98.0
+    z: -6058.566962230364
+    yaw: -13.95111083984375
+    pitch: 11.099976539611816
+    world-name: ''
+ip-address: 81.141.81.247
+last-account-name: djayce1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

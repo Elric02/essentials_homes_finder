@@ -1,0 +1,63 @@
+timestamps:
+  login: 1590078973460
+  lastteleport: 1590079039121
+  logout: 1590079064718
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 742.6999999880791
+  y: 70.875
+  z: -5497.699999988079
+  yaw: 141.21470642089844
+  pitch: 70.51525115966797
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6402.620221257097
+  y: 84.0
+  z: -2766.551685778557
+  yaw: 191.02410888671875
+  pitch: 0.4283204972743988
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -6330.1582346192745
+    y: 62.0
+    z: -2821.546641083978
+    yaw: 103.2086181640625
+    pitch: 7.168112277984619
+    world-name: ''
+  maison:
+    world: world
+    x: -6396.852302753624
+    y: 87.0
+    z: -2768.1501740737835
+    yaw: 28.806123733520508
+    pitch: 38.06351089477539
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 270.30000001192093
+    y: 13.0
+    z: 164.51074014293513
+    yaw: -215.4550323486328
+    pitch: 47.1601676940918
+    world-name: ''
+ip-address: 78.113.27.100
+last-account-name: Playns
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

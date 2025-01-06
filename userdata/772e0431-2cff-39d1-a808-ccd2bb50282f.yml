@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470587661210
+  lastteleport: 1470588006933
+  logout: 1470588020000
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.64210968889097
+  y: 64.0
+  z: -13.89622159890443
+  yaw: -114.07316589355469
+  pitch: 1.9212826490402222
+  world-name: ''
+ip-address: 173.178.115.203
+last-account-name: Diaval94
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

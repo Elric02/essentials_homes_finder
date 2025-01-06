@@ -1,0 +1,55 @@
+timestamps:
+  login: 1485199298817
+  lastteleport: 1485199472090
+  logout: 1485199499326
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4872.4922057852755
+  y: 70.0
+  z: -469.10837680169556
+  yaw: -203.29440307617188
+  pitch: 11.815186500549316
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 119.16892510406346
+  y: 63.0
+  z: 54.7762643003296
+  yaw: -181.1756591796875
+  pitch: 28.73828125
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -6361.9787769974655
+    y: 68.0
+    z: 4497.11120190965
+    yaw: 91.37165832519531
+    pitch: 29.1120662689209
+    world-name: ''
+  nether:
+    world: world_nether
+    x: -4737.346842936637
+    y: 39.0
+    z: 5383.655479969809
+    yaw: 177.7176513671875
+    pitch: 60.058204650878906
+    world-name: ''
+afk: false
+ip-address: 88.182.207.139
+last-account-name: Phil_Knight
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

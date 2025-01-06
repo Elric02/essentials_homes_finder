@@ -1,0 +1,47 @@
+timestamps:
+  login: 1680976525318
+  lastteleport: 1641484462482
+  logout: 1680976539378
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 25.159452845293792
+  y: 64.5
+  z: -5.6485097788519125
+  yaw: -19.69390869140625
+  pitch: -4.872285842895508
+  world-name: world
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 200.30000001192093
+  y: 60.0
+  z: 21.69999998807907
+  yaw: 73.76062774658203
+  pitch: 59.2500114440918
+  world-name: world
+ip-address: 109.219.158.199
+last-account-name: Baloook
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2885.6371609352063
+    y: 68.0
+    z: 5907.205494165326
+    yaw: 322.4999694824219
+    pitch: 6.599998474121094

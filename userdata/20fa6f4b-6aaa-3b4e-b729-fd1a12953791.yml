@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466858311288
+  logout: 1466858382044
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.8332130483677
+  y: 63.0
+  z: 7.38157691552111
+  yaw: -249.7923583984375
+  pitch: 18.956201553344727
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.45594559567587
+  y: 64.0625
+  z: 19.433668642457526
+  yaw: -176.07693481445312
+  pitch: -11.270194053649902
+  world-name: ''
+ip-address: 217.119.157.29
+last-account-name: Asthurias
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

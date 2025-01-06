@@ -1,0 +1,47 @@
+timestamps:
+  login: 1477340517852
+  lastteleport: 1477327749753
+  logout: 1477340527055
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -323.69999998807907
+  y: 62.0
+  z: 896.4131432593139
+  yaw: -73.80032348632812
+  pitch: 25.350038528442383
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  home:
+    world: world
+    x: -278.30000001192093
+    y: 89.0
+    z: -5586.2231538188325
+    yaw: 43.95059585571289
+    pitch: 23.84998893737793
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -278.69999998807907
+  y: 89.0
+  z: -5583.319918607212
+  yaw: -172.79940795898438
+  pitch: 21.00001335144043
+  world-name: ''
+ip-address: 90.18.20.194
+last-account-name: Burger_59
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

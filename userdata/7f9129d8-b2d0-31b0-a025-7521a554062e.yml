@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615923415346
+  lastteleport: 1615923878164
+  logout: 1615923882651
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -81.69999998807907
+  y: 58.0
+  z: 7.203142276479143
+  yaw: -134.57232666015625
+  pitch: 15.899618148803711
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: End
+  x: -79.5
+  y: 69.0
+  z: -0.5
+  yaw: -90.73135375976562
+  pitch: -1.0494368076324463
+  world-name: ''
+ip-address: 92.105.149.85
+last-account-name: pedro18
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

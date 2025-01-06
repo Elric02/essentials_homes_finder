@@ -1,0 +1,68 @@
+timestamps:
+  login: 1506726451321
+  lastteleport: 1503969666446
+  logout: 1506726469711
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 5545.119035159481
+  y: 109.0
+  z: -5642.326400326199
+  yaw: -241.66958618164062
+  pitch: 32.27778244018555
+  world-name: ''
+money: '0'
+homes:
+  a:
+    world: world
+    x: 2835.482728276478
+    y: 44.0
+    z: -1977.6086142014433
+    yaw: 133.69403076171875
+    pitch: 12.383445739746094
+    world-name: ''
+  b:
+    world: world
+    x: -3683.6034018090086
+    y: 73.0
+    z: -2472.596659162775
+    yaw: -218.32266235351562
+    pitch: 6.789498329162598
+    world-name: ''
+  c:
+    world: world
+    x: -6282.5
+    y: 81.0
+    z: 6741.5
+    yaw: -104.28363800048828
+    pitch: 12.810638427734375
+    world-name: ''
+afk: false
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -6681.529093696487
+  y: 65.0
+  z: -4018.3827638282614
+  yaw: -2.9236037731170654
+  pitch: 14.754156112670898
+  world-name: world
+ip-address: 78.246.13.12
+last-account-name: Limstox
+mail:
+- legacy: true
+  read: false
+  message: §e[§rXxFigthGamerxX§e] §rSalut, j'aimerais acheter le shop devant celui
+    de elric, merci
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

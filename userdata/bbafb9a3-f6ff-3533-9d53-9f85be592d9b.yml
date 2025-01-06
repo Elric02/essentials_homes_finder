@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477916199549
+  lastteleport: 1477916662754
+  logout: 1477917072129
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 230.08400594780437
+  y: 66.0
+  z: 1147.4382411836775
+  yaw: 97.49761962890625
+  pitch: -67.35005187988281
+  world-name: ''
+money: '0'
+muted: true
+logoutlocation:
+  world: world
+  x: -5636.688490879373
+  y: 59.0
+  z: 5908.300000011921
+  yaw: 180.96337890625
+  pitch: 9.600003242492676
+  world-name: ''
+ip-address: 89.159.121.188
+last-account-name: electrozz59
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

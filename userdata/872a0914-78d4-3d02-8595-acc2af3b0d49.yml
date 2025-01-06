@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488628592916
+  logout: 1488628718350
+  lastteleport: 1488628690217
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.8398405041153
+  y: 63.0
+  z: 47.559913856773164
+  yaw: 50.48050308227539
+  pitch: -2.2098941802978516
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -291.2464190992261
+  y: 65.0
+  z: 364.58846538000955
+  yaw: 266.6505432128906
+  pitch: 19.234617233276367
+  world-name: ''
+ip-address: 109.133.144.14
+last-account-name: Lider_Prime
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

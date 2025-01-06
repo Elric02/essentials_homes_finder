@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.49.151.123
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670663636266
+  login: 1670663583151
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.988110115866
+  y: 81.0
+  z: -3111.236907604265
+  yaw: -31.64824104309082
+  pitch: 16.499969482421875
+last-account-name: Headash999
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.988110115866
+  y: 81.0
+  z: -3111.236907604265
+  yaw: -24.598257064819336
+  pitch: 9.899978637695312

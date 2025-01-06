@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.109.92.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1684398793206
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684399229040
+  login: 1684398699932
+money: '0'
+last-account-name: TimouneGames89
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.9924940752059
+  y: 81.0
+  z: -3110.7049508450727
+  yaw: -73.94820404052734
+  pitch: 19.19994354248047
+logoutlocation:
+  world: 1049c39c-53b0-4a8e-b1fc-50afc7933998
+  world-name: Ressource
+  x: -16.69999998807907
+  y: 77.0
+  z: -25.373349145361104
+  yaw: 92.0968017578125
+  pitch: 33.48576736450195

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1471087976140
+  logout: 1471088089276
+  lastteleport: 1471034684570
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3727.416826196126
+  y: 58.0
+  z: -954.85117758333
+  yaw: -189.3046875
+  pitch: 9.149950981140137
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3644.000846838869
+  y: 67.0
+  z: -971.6999999880791
+  yaw: -27.299543380737305
+  pitch: -16.500030517578125
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 3625.1406481293657
+    y: 68.0
+    z: -979.660964327878
+    yaw: -52.350006103515625
+    pitch: 11.849963188171387
+    world-name: ''
+ip-address: 88.139.76.104
+last-account-name: pikaFRagile
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

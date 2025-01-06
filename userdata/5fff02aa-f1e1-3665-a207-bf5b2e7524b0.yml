@@ -1,0 +1,38 @@
+timestamps:
+  login: 1493819489463
+  lastteleport: 1493819668856
+  logout: 1493819806126
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -48.524344206052504
+  y: 52.0
+  z: 70.69999998807907
+  yaw: -326.43585205078125
+  pitch: 49.200035095214844
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -38.22025195670804
+  y: 25.0
+  z: 65.30000001192093
+  yaw: 228.4078369140625
+  pitch: 15.900091171264648
+  world-name: ''
+ip-address: 88.177.120.140
+last-account-name: g_pvp
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

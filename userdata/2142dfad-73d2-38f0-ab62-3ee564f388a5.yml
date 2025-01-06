@@ -1,0 +1,47 @@
+timestamps:
+  login: 1483471297867
+  logout: 1483473726410
+  lastteleport: 1483473517158
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3816.0003658472515
+  y: 67.0
+  z: -3093.699999988079
+  yaw: -112.8232421875
+  pitch: 2.549994707107544
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3887.034431265287
+  y: 59.0
+  z: -3165.695461944735
+  yaw: -267.94287109375
+  pitch: 7.649829387664795
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 3885.780899027347
+    y: 66.5
+    z: -3166.300000011921
+    yaw: -26.145292282104492
+    pitch: 46.649864196777344
+    world-name: ''
+ip-address: 92.161.109.71
+last-account-name: Soldatjouet68
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

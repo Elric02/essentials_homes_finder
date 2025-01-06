@@ -1,0 +1,47 @@
+timestamps:
+  login: 1565360449896
+  lastteleport: 1565368527752
+  logout: 1565370635073
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: -75.47060136471701
+  y: 65.0
+  z: -131.6534334358695
+  yaw: -139.5946044921875
+  pitch: 9.899971008300781
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -328.86881992536473
+  y: 87.0
+  z: 6364.675540662822
+  yaw: 251.31201171875
+  pitch: -14.099981307983398
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: -360.08879255421624
+    y: 72.0
+    z: 6477.407602690915
+    yaw: 219.5197296142578
+    pitch: 20.63288116455078
+    world-name: ''
+afk: false
+ip-address: 92.171.207.79
+last-account-name: DarkMysth
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

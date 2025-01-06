@@ -1,0 +1,63 @@
+timestamps:
+  login: 1584633968474
+  lastteleport: 1584634004611
+  logout: 1584634476683
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3633.1840879565298
+  y: 59.02926701983079
+  z: -2745.951425516909
+  yaw: 4.771392822265625
+  pitch: -3.150345802307129
+  world-name: ''
+homes:
+  bp:
+    world: world
+    x: -3687.5
+    y: 118.0
+    z: -2817.5
+    yaw: 219.74981689453125
+    pitch: 45.60000228881836
+    world-name: ''
+  b:
+    world: world
+    x: -3615.0589068016516
+    y: 85.0
+    z: -2712.2809788126306
+    yaw: -199.04876708984375
+    pitch: 25.349945068359375
+    world-name: ''
+  xp:
+    world: End
+    x: -307.60093664346135
+    y: 66.0
+    z: 3.9736044258248047
+    yaw: -164.03538513183594
+    pitch: 1.7999677658081055
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3687.1917783501544
+  y: 124.9375
+  z: -2814.8460461766863
+  yaw: -211.20501708984375
+  pitch: 18.149425506591797
+  world-name: ''
+afk: false
+ip-address: 78.252.143.42
+last-account-name: TheFlomax43YT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

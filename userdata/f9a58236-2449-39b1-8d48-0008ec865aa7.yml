@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492371265405
+  logout: 1492371309219
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 168.03639908011698
+  y: 63.0
+  z: -19.75705949968205
+  yaw: -103.54756164550781
+  pitch: 4.747400760650635
+  world-name: ''
+ip-address: 90.66.79.214
+last-account-name: MrSouris2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487618029499
+  lastteleport: 1487618153701
+  logout: 1487618303228
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -115.54745483398438
+  pitch: 60.24740219116211
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 203.9229077960506
+  y: 64.0
+  z: 20.219644194369597
+  yaw: -358.8609619140625
+  pitch: 49.37451934814453
+  world-name: ''
+ip-address: 90.59.230.184
+last-account-name: kentin4
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

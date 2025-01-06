@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.1.26.171
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674854422532
+  login: 1674854410978
+money: '0'
+last-account-name: NathanBosss34
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 160.90877793987102
+  y: 65.0
+  z: 99.81744958590451
+  yaw: 95.34695434570312
+  pitch: 3.6906421184539795

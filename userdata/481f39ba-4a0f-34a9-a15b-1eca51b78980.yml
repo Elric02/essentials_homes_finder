@@ -1,0 +1,38 @@
+timestamps:
+  login: 1536325378521
+  logout: 1536326383894
+  jail: 0
+  lastteleport: 1536325824456
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 144.12708083580677
+  y: 63.0
+  z: -18.629213801746776
+  yaw: -227.0029296875
+  pitch: 6.240643501281738
+  world-name: ''
+logoutlocation:
+  world: Donjon
+  x: 2060.8186224400083
+  y: 4.9375
+  z: 1992.5817956621938
+  yaw: -100.0045394897461
+  pitch: 7.552130222320557
+  world-name: ''
+jailed: false
+afk: false
+money: '0'
+ip-address: 96.23.145.40
+last-account-name: PunchingBag
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.170.196.225
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1657729983484
+  login: 1657729976825
+money: '0'
+last-account-name: sentrorigame
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: d097c14e-8288-4547-88dc-d9590a602c7b
+  world-name: Nether
+  x: -131.4875768559558
+  y: 82.0
+  z: -34.95865546392027
+  yaw: -84.76724243164062
+  pitch: -28.83415412902832

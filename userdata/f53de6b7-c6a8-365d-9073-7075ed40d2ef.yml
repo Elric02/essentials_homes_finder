@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.160.96.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1678554052119
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1678554186657
+  login: 1678554122436
+money: '0'
+last-account-name: Elsagranger_16
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 396.4130785354992
+  y: 81.0
+  z: -3109.4840316969394
+  yaw: -138.8981475830078
+  pitch: 10.949926376342773
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -366.0520637980985
+  y: 44.001059425262376
+  z: 215.86679354535437
+  yaw: -70.74132537841797
+  pitch: 7.799091339111328

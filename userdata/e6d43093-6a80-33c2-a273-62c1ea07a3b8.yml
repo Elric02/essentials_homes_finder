@@ -1,0 +1,38 @@
+timestamps:
+  login: 1504177723809
+  logout: 1504177751491
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.4589121997454
+  y: 64.0
+  z: 19.655307825266185
+  yaw: -44.46085739135742
+  pitch: 90.0
+  world-name: ''
+ip-address: 90.29.68.66
+last-account-name: anono
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

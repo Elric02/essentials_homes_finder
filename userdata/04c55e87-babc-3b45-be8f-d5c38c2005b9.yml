@@ -1,0 +1,63 @@
+timestamps:
+  login: 1583193399414
+  logout: 1583193618796
+  lastteleport: 1583193500845
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5706.279947645723
+  y: 64.0
+  z: 453.74142436196524
+  yaw: 82.51702117919922
+  pitch: -31.205684661865234
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -297.6424675232732
+  y: 61.0
+  z: -4821.899657157648
+  yaw: 138.39361572265625
+  pitch: -21.900009155273438
+  world-name: ''
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -301.1625885976437
+    y: 61.0
+    z: -4819.09541070073
+    yaw: 252.39373779296875
+    pitch: 40.464324951171875
+    world-name: world
+  jeux:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -156.23970477720275
+    y: 67.0
+    z: -5400.820289109267
+    yaw: -243.98388671875
+    pitch: 28.34999656677246
+    world-name: world
+  ilou:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5703.485957251011
+    y: 65.0
+    z: 479.16442326702344
+    yaw: 35.56640625
+    pitch: 62.394287109375
+    world-name: world
+afk: false
+ip-address: 109.94.38.2
+last-account-name: derquraider
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

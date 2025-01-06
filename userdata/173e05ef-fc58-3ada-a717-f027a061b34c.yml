@@ -1,0 +1,63 @@
+timestamps:
+  login: 1594914192817
+  logout: 1594915307131
+  lastteleport: 1594915158307
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -1898.5
+  y: 11.0
+  z: -207.5
+  yaw: 66.5033950805664
+  pitch: 43.464962005615234
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1857.9568062205688
+  y: 4.0
+  z: 2083.7944688703788
+  yaw: 75.3741455078125
+  pitch: -33.09889221191406
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: -1859.5297206349273
+    y: 4.0
+    z: 2084.2229362203343
+    yaw: 21.65838623046875
+    pitch: -32.18364715576172
+    world-name: ''
+  dehors:
+    world: world
+    x: -1858.4795908351116
+    y: 63.0
+    z: 2085.7689334003226
+    yaw: 3.522491455078125
+    pitch: 23.29024887084961
+    world-name: ''
+  minage:
+    world: Ressource
+    x: -1898.9370455277274
+    y: 11.0
+    z: -207.69999998807907
+    yaw: 61.621803283691406
+    pitch: 46.21085739135742
+    world-name: ''
+ip-address: 82.126.99.81
+last-account-name: Black_tiger76
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

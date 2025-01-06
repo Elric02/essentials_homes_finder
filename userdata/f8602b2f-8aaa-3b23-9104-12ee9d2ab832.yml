@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467626453437
+  logout: 1467626992646
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 556.3480770811095
+  y: 72.0
+  z: -267.30000001192093
+  yaw: 352.3342590332031
+  pitch: 47.404109954833984
+  world-name: ''
+ip-address: 86.66.190.234
+last-account-name: apollon6600
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

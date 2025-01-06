@@ -1,0 +1,47 @@
+timestamps:
+  login: 1476609557599
+  lastteleport: 1476609587879
+  logout: 1476609596515
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1234.7643702265989
+  y: 68.0
+  z: -5009.33259876401
+  yaw: -8.699493408203125
+  pitch: 8.699970245361328
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -1263.3343292645827
+    y: 75.0
+    z: -5069.689340339899
+    yaw: 47.250038146972656
+    pitch: 37.05002975463867
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 154.51448523658837
+  y: 64.0
+  z: 28.380263669807473
+  yaw: -178.86093139648438
+  pitch: 9.474514961242676
+  world-name: ''
+ip-address: 90.24.45.120
+last-account-name: Octanium
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

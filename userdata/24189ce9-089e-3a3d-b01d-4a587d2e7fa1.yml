@@ -1,0 +1,38 @@
+timestamps:
+  login: 1539803686970
+  lastteleport: 1539804242544
+  logout: 1539804444300
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.60465399084958
+  y: 63.5
+  z: 66.04006020357517
+  yaw: 190.89671325683594
+  pitch: -1.8593580722808838
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -1994.300000011921
+  y: 64.0
+  z: -1351.300000011921
+  yaw: -179.7003631591797
+  pitch: 77.09996795654297
+  world-name: ''
+ip-address: 90.93.156.164
+last-account-name: deucalion
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1575742343163
+  lastteleport: 1575742646530
+  logout: 1575743531280
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.30000001192093
+  y: 64.0
+  z: 120.2295261346759
+  yaw: 94.39826202392578
+  pitch: 8.263486862182617
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 153.73418777844682
+  y: 63.0
+  z: 60.06144681585596
+  yaw: 137.08328247070312
+  pitch: 21.226133346557617
+  world-name: ''
+ip-address: 90.65.66.108
+last-account-name: Touille223
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

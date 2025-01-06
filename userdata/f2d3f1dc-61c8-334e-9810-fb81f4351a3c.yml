@@ -1,0 +1,63 @@
+timestamps:
+  login: 1566549331776
+  lastteleport: 1566553970627
+  logout: 1566555345319
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 66.54761916169033
+  y: 94.0
+  z: 58.855325011268
+  yaw: -353.736328125
+  pitch: 43.07865905761719
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2792.478024150665
+  y: 58.0
+  z: -7035.977051546875
+  yaw: 86.66244506835938
+  pitch: 13.665061950683594
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 2130.7629219827018
+    y: 65.0
+    z: -2940.6599512073267
+    yaw: -195.449951171875
+    pitch: 52.949947357177734
+    world-name: ''
+  shop:
+    world: world
+    x: 1520.088704514955
+    y: 66.0
+    z: -2129.179708836615
+    yaw: -121.4601058959961
+    pitch: 33.22377014160156
+    world-name: ''
+  village:
+    world: world
+    x: -2824.1236953692223
+    y: 62.0
+    z: -7032.013465699937
+    yaw: -166.53607177734375
+    pitch: 18.91506576538086
+    world-name: ''
+afk: false
+ip-address: 85.168.241.200
+last-account-name: aerosmith89
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

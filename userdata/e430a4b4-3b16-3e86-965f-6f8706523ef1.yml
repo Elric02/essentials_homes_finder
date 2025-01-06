@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.132.242.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682171837513
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682171918041
+  login: 1682171749966
+money: '0'
+last-account-name: st_ermile
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 397.2019413755433
+  y: 81.0
+  z: -3108.0381553259313
+  yaw: 170.5518341064453
+  pitch: 7.799952507019043
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 153.43634952927368
+  y: 63.0
+  z: 51.8624839968239
+  yaw: 179.56521606445312
+  pitch: -2.850015163421631

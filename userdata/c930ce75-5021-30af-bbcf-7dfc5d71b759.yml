@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.225.252.44
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1669400382434
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669557372900
+  login: 1669557237282
+money: '250.0'
+last-account-name: Anatole08300
+lastlocation:
+  world: c57b9e2e-e619-4022-bb8b-7925496d5963
+  world-name: HestiaEnd
+  x: -90.96737207262203
+  y: 62.0
+  z: 3.0709490839948583
+  yaw: -128.84986877441406
+  pitch: 12.599925994873047
+logoutlocation:
+  world: c57b9e2e-e619-4022-bb8b-7925496d5963
+  world-name: HestiaEnd
+  x: -68.35906755711827
+  y: 61.495200877005914
+  z: -9.913393541839719
+  yaw: -146.39996337890625
+  pitch: 89.39999389648438

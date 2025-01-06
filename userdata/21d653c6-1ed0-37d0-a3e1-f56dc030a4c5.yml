@@ -1,0 +1,63 @@
+timestamps:
+  login: 1489830844031
+  logout: 1489831080308
+  lastteleport: 1489830906010
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.64762494920197
+  y: 63.0
+  z: 7.450948181997191
+  yaw: -211.4109344482422
+  pitch: 22.374513626098633
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 175.0463345609585
+  y: 63.0
+  z: 40.808113058505235
+  yaw: 341.9365234375
+  pitch: 16.650005340576172
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 3196.0583171663766
+    y: 59.0
+    z: -5638.750311710557
+    yaw: 295.7606201171875
+    pitch: 13.649978637695312
+    world-name: ''
+  merlin:
+    world: world
+    x: 64.35861465205562
+    y: 93.5
+    z: 61.69021967290243
+    yaw: -204.509033203125
+    pitch: 22.950000762939453
+    world-name: ''
+  xp:
+    world: world
+    x: 219.69999998807907
+    y: 76.0625
+    z: -96.30000001192093
+    yaw: -102.51095581054688
+    pitch: 77.72451782226562
+    world-name: ''
+afk: false
+ip-address: 86.223.237.218
+last-account-name: stellman89
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1628776219418
+  logout: 1628777095960
+  lastteleport: 1628776711888
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5934.699999988079
+  y: 10.0
+  z: 4045.4513628753652
+  yaw: 150.54092407226562
+  pitch: 34.61825942993164
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -1363.3777101056396
+  y: 15.0
+  z: 1234.699999988079
+  yaw: -30.04290771484375
+  pitch: 20.012435913085938
+  world-name: ''
+money: '0'
+ip-address: 82.142.7.146
+last-account-name: Identifianttent
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,39 @@
+timestamps:
+  login: 1520702452171
+  lastteleport: 1520702605905
+  mute: 0
+  logout: 1520703219782
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5803.4637748866735
+  y: 84.0
+  z: 4041.284054934229
+  yaw: -281.94268798828125
+  pitch: 75.38307189941406
+  world-name: ''
+jailed: true
+jail: cage
+muted: true
+logoutlocation:
+  world: world
+  x: 198.48744983757823
+  y: 74.0
+  z: 18.516908154051997
+  yaw: -269.6615295410156
+  pitch: 13.685636520385742
+  world-name: ''
+ip-address: 78.115.83.252
+last-account-name: valoux6661
+teleportenabled: true
+teleportauto: false
+godmode: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

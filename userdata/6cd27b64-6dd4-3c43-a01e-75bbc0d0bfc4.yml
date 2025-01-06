@@ -1,0 +1,47 @@
+timestamps:
+  login: 1617551309922
+  lastteleport: 1617551036834
+  logout: 1617551545653
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+homes:
+  base:
+    world: Nether
+    x: -89.69999998807907
+    y: 63.0
+    z: -40.3059581435824
+    yaw: -267.67071533203125
+    pitch: 52.04957580566406
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5338184044732
+  y: 64.0
+  z: 21.5719927548895
+  yaw: -178.4454345703125
+  pitch: 9.575874328613281
+  world-name: ''
+ip-address: 176.164.1.237
+last-account-name: fuzeVV
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

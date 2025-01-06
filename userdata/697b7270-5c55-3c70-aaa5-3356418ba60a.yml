@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.162.64.64
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1665860083745
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665860332781
+  login: 1665859842120
+money: '0'
+last-account-name: Pety21O
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.2453831361541
+  y: 81.0
+  z: -3109.6683670576854
+  yaw: -119.54822540283203
+  pitch: 9.449951171875
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 151.67846172950212
+  y: 65.5
+  z: 98.66937656945629
+  yaw: -83.23997497558594
+  pitch: 41.25001907348633

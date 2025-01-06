@@ -1,0 +1,63 @@
+timestamps:
+  login: 1480862228433
+  lastteleport: 1480863816475
+  logout: 1480863965958
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4871.218386544837
+  y: 84.0
+  z: -453.78469193307217
+  yaw: -186.47271728515625
+  pitch: 16.94998550415039
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 2600.925000011921
+  y: 69.0
+  z: 6893.437171889159
+  yaw: -87.6743392944336
+  pitch: 13.800004005432129
+  world-name: ''
+homes:
+  malou:
+    world: world
+    x: 2613.821682238773
+    y: 70.0
+    z: 6885.300000011921
+    yaw: 355.2755126953125
+    pitch: 31.200016021728516
+    world-name: ''
+  nico:
+    world: world
+    x: -4198.266753879484
+    y: 66.0
+    z: -3629.566345702043
+    yaw: 11.700927734375
+    pitch: 45.60011291503906
+    world-name: ''
+  xp:
+    world: ressource
+    x: 1435.9923592494263
+    y: 24.0
+    z: 1811.0231584799253
+    yaw: 68.70263671875
+    pitch: 20.849924087524414
+    world-name: ''
+money: '0'
+ip-address: 178.192.11.115
+last-account-name: _buttaerfly
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

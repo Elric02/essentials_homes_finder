@@ -1,0 +1,38 @@
+timestamps:
+  login: 1620486891699
+  lastteleport: 1620487335023
+  logout: 1620487382427
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.28970209253572
+  y: 63.0
+  z: 39.36108699261846
+  yaw: 303.054931640625
+  pitch: 12.575629234313965
+  world-name: ''
+logoutlocation:
+  world: Ressourcenether
+  x: 0.5
+  y: 37.0
+  z: -1.5
+  yaw: -177.68020629882812
+  pitch: 2.395209312438965
+  world-name: ''
+ip-address: 78.141.167.120
+last-account-name: Floooux
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

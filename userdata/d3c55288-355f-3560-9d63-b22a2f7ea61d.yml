@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486219106862
+  logout: 1486219285579
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.0562134135012
+  y: 64.0
+  z: 9.694299577468751
+  yaw: -222.1749267578125
+  pitch: 34.05445098876953
+  world-name: ''
+ip-address: 92.144.106.111
+last-account-name: pokke14
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

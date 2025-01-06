@@ -1,0 +1,47 @@
+timestamps:
+  login: 1533572828168
+  lastteleport: 1533515515477
+  logout: 1533572892389
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7.264973571417535
+  y: 67.0
+  z: 10.870026072472996
+  yaw: 185.2103271484375
+  pitch: 24.360963821411133
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: -129.30000001192096
+    y: 54.0
+    z: -314.6432554762332
+    yaw: -305.6776123046875
+    pitch: 38.252994537353516
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1538.8417534146279
+  y: 65.0
+  z: -2258.78066345881
+  yaw: 269.85247802734375
+  pitch: 28.75714683532715
+  world-name: ''
+afk: false
+ip-address: 86.198.5.1
+last-account-name: MrGreenKiwi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

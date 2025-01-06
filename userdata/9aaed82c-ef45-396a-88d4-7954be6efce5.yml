@@ -1,0 +1,63 @@
+timestamps:
+  login: 1682937107750
+  lastteleport: 1611841620497
+  logout: 1682937121385
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 5091.699999988079
+  y: 61.0
+  z: 6953.955979566311
+  yaw: 177.417236328125
+  pitch: 15.61233139038086
+  world-name: world
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 5091.650544237572
+  y: 61.0
+  z: 6953.549615957949
+  yaw: 102.24884033203125
+  pitch: 14.892036437988281
+  world-name: world
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5096.016512213644
+    y: 65.0
+    z: 6949.303037541715
+    yaw: -81.68260192871094
+    pitch: 22.04029083251953
+    world-name: world
+  zombie:
+    world: Ressource
+    x: 643.621092275242
+    y: 13.0
+    z: -779.0277612620453
+    yaw: 8.91357421875
+    pitch: 39.80274963378906
+    world-name: ''
+  pig:
+    world: Ressourcenether
+    x: 297.30000001192093
+    y: 31.0
+    z: 155.69999998807907
+    yaw: 193.1787109375
+    pitch: 16.199989318847656
+    world-name: ''
+ip-address: 91.172.209.136
+last-account-name: Ronron_22
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

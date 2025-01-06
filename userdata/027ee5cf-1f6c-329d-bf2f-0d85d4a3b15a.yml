@@ -1,0 +1,47 @@
+timestamps:
+  login: 1614942264714
+  lastteleport: 1614942929421
+  logout: 1614943026013
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -56.30000001192093
+  y: 19.0
+  z: -23.512499988079064
+  yaw: 170.24716186523438
+  pitch: -19.20016098022461
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 154.69985985422954
+    y: 63.0
+    z: 61.55964957590595
+    yaw: -74.94357299804688
+    pitch: -2.5741536617279053
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 275.841395970062
+  y: 73.0
+  z: -69.26710000402869
+  yaw: 233.30577087402344
+  pitch: 22.325788497924805
+  world-name: ''
+ip-address: 90.6.218.8
+last-account-name: louisan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

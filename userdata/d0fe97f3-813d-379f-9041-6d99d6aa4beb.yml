@@ -1,0 +1,63 @@
+timestamps:
+  login: 1569009166802
+  lastteleport: 1567886969583
+  logout: 1569009288586
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -309.91640903136306
+  y: 66.0
+  z: -4.812507035493846
+  yaw: -37.582489013671875
+  pitch: 12.257699012756348
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2032.4915731927529
+  y: 73.0
+  z: 3620.137499988079
+  yaw: -13.1219482421875
+  pitch: 16.994325637817383
+  world-name: ''
+afk: false
+homes:
+  chateau:
+    world: world
+    x: 1018.1925788101001
+    y: 77.0
+    z: 2891.5802854655294
+    yaw: 130.6576385498047
+    pitch: 20.294374465942383
+    world-name: ''
+  girls:
+    world: world
+    x: -725.9041193095841
+    y: 64.0
+    z: 1693.1583328830704
+    yaw: 120.9206314086914
+    pitch: 24.004762649536133
+    world-name: ''
+  maison:
+    world: world
+    x: -2058.489915154813
+    y: 68.0
+    z: 3629.327938592892
+    yaw: -262.65576171875
+    pitch: 17.413816452026367
+    world-name: ''
+ip-address: 78.122.8.54
+last-account-name: jarmod
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

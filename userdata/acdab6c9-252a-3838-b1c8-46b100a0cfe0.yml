@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.146.158.208
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1631469072003
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1631469243641
+  login: 1631466981925
+money: '0'
+last-account-name: Strykke2222
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.5219706617853
+  y: 64.0
+  z: 24.59015183032405
+  yaw: -185.04522705078125
+  pitch: 10.475876808166504
+logoutlocation:
+  world: c9471d40-f1c9-43db-90e8-e80a4d4f0631
+  world-name: Ressource
+  x: 753.9480003006242
+  y: 52.0
+  z: 1319.213138409156
+  yaw: 86.70367431640625
+  pitch: 14.398954391479492

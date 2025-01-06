@@ -1,0 +1,63 @@
+timestamps:
+  login: 1607797490254
+  lastteleport: 1607798030062
+  logout: 1607798613506
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -124.55582102565981
+  y: 46.0
+  z: 412.1106711936126
+  yaw: 5.342782020568848
+  pitch: 21.92359733581543
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 164.80187498444604
+  y: 63.0
+  z: 61.85040049133471
+  yaw: -260.0231628417969
+  pitch: 16.207366943359375
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 5650.373741304002
+    y: 78.0
+    z: 745.7368203416491
+    yaw: 175.0313720703125
+    pitch: 49.94986343383789
+    world-name: ''
+  shop:
+    world: world
+    x: -124.864516055268
+    y: 46.0
+    z: 411.0987246188959
+    yaw: -359.1603088378906
+    pitch: 55.800052642822266
+    world-name: ''
+  village:
+    world: Ressource
+    x: -917.4368611244179
+    y: 67.0
+    z: 1868.2239511500425
+    yaw: 258.73846435546875
+    pitch: 56.40001678466797
+    world-name: ''
+afk: false
+ip-address: 91.182.217.12
+last-account-name: admiral123457
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

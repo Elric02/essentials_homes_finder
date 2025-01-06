@@ -1,0 +1,38 @@
+timestamps:
+  login: 1507966195253
+  lastteleport: 1507966298408
+  logout: 1507966316695
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.42128196573063
+  y: 64.0
+  z: 22.422934738827617
+  yaw: -173.5984649658203
+  pitch: 1.5087072849273682
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -184.55918884277344
+  pitch: 11.265580177307129
+  world-name: ''
+ip-address: 93.12.147.104
+last-account-name: CaMeLeOnFTGU
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

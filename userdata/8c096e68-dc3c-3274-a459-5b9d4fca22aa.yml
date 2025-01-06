@@ -1,0 +1,38 @@
+timestamps:
+  login: 1560076860963
+  logout: 1560079975301
+  lastteleport: 1560079159574
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3444.2625392457408
+  y: 80.0
+  z: -4096.547254132076
+  yaw: 136.05064392089844
+  pitch: 6.6000237464904785
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+afk: false
+money: '0'
+ip-address: 77.200.61.42
+last-account-name: Tigaumon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

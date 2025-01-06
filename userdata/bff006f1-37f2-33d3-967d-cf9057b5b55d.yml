@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478988136316
+  lastteleport: 1478988858849
+  logout: 1478988886269
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -571.4058013697856
+  y: 82.0
+  z: -738.1869614580935
+  yaw: -92.347900390625
+  pitch: 14.12632942199707
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.8044206208584
+  y: 64.0
+  z: 33.49906616815558
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+ip-address: 176.156.88.100
+last-account-name: Renaud
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

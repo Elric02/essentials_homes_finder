@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521742751121
+  lastteleport: 1521742859385
+  logout: 1521742868226
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.72624254717337
+  y: 66.0
+  z: -4.946746186197068
+  yaw: 179.4962921142578
+  pitch: 11.040653228759766
+  world-name: ''
+logoutlocation:
+  world: world_the_end
+  x: -7.741366399072487
+  y: 64.0
+  z: -8.256837198385451
+  yaw: -29.812259674072266
+  pitch: 8.194966316223145
+  world-name: ''
+ip-address: 176.168.231.125
+last-account-name: juju999
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

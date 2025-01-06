@@ -1,0 +1,38 @@
+timestamps:
+  login: 1515794435879
+  lastteleport: 1515795910675
+  logout: 1515796532320
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.5
+  y: 63.0
+  z: 47.5
+  yaw: 83.322509765625
+  pitch: 6.981593608856201
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -3309.851222261218
+  y: 84.0
+  z: -826.1101067430733
+  yaw: -13.2900390625
+  pitch: 44.0662841796875
+  world-name: ''
+ip-address: 90.23.214.24
+last-account-name: Emilien2727
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

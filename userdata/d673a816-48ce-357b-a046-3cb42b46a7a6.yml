@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474460846838
+  lastteleport: 1474460931495
+  logout: 1474461117121
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 65.03717391335356
+  y: 75.0
+  z: 63.97776956066942
+  yaw: -248.2977294921875
+  pitch: 0.09740801155567169
+  world-name: ''
+logoutlocation:
+  world: Ressources
+  x: 154.79838980823098
+  y: 66.0
+  z: 496.11602742873043
+  yaw: 273.521484375
+  pitch: 2.57761812210083
+  world-name: ''
+ip-address: 84.6.199.188
+last-account-name: Reylia
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

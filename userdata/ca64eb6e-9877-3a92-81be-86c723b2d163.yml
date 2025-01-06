@@ -1,0 +1,38 @@
+timestamps:
+  login: 1625594657396
+  lastteleport: 1625583838696
+  logout: 1625594744099
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4958.288006047838
+  y: 81.0
+  z: 4202.96547260295
+  yaw: 163.5137939453125
+  pitch: 11.009920120239258
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 147.70771810479044
+  y: 64.0
+  z: 10.227596460188417
+  yaw: 120.14470672607422
+  pitch: 19.747541427612305
+  world-name: ''
+ip-address: 86.77.98.218
+last-account-name: mrgz_MKL
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

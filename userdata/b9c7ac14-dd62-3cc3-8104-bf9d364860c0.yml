@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481917296856
+  lastteleport: 1481917566237
+  logout: 1481918167423
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -990.5131656702191
+  y: 62.0
+  z: -390.7172840736901
+  yaw: 22.387481689453125
+  pitch: 10.35000228881836
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1120.300000011921
+  y: 64.0
+  z: -528.3000000119212
+  yaw: 146.208984375
+  pitch: 13.80003547668457
+  world-name: ''
+ip-address: 92.130.11.139
+last-account-name: coco1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1592319161632
+  lastteleport: 1592318454027
+  logout: 1592319180724
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+homes:
+  hydrofr:
+    world: world
+    x: 1049.1751783923364
+    y: 71.0
+    z: -3029.135162413035
+    yaw: -8.25469970703125
+    pitch: 17.100135803222656
+    world-name: ''
+  home:
+    world: world
+    x: 149.43329699283868
+    y: 64.0
+    z: 16.31933563936382
+    yaw: -193.82069396972656
+    pitch: 5.128673553466797
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1049.7468747778137
+  y: 71.0
+  z: -3028.4223360255637
+  yaw: -7.203619003295898
+  pitch: 44.24997329711914
+  world-name: ''
+ip-address: 90.76.185.9
+last-account-name: HydroFR
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

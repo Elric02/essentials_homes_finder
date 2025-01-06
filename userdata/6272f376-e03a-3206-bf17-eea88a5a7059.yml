@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.118.65.93
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1657547374381
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1657547603974
+  login: 1657547452968
+money: '0'
+last-account-name: CubexFR
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -2.7777109306160774
+  y: 98.3729723147575
+  z: 110.77027381675929
+  yaw: -84.35763549804688
+  pitch: 25.183284759521484
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 419.1647921504311
+  y: 81.0
+  z: -3108.3159804451657
+  yaw: 133.66184997558594
+  pitch: 22.29073715209961

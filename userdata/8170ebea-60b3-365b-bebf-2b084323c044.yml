@@ -1,0 +1,38 @@
+timestamps:
+  login: 1539450336418
+  lastteleport: 1539451093062
+  logout: 1539451374030
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -296.9802825897104
+  y: 124.5
+  z: -3895.4516177576756
+  yaw: 91.13784790039062
+  pitch: 25.28724479675293
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 180.92101496036435
+  y: 65.0
+  z: -40.41449729005825
+  yaw: -215.78192138671875
+  pitch: 24.83835792541504
+  world-name: ''
+ip-address: 86.239.148.156
+last-account-name: lugao23140
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

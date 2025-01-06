@@ -1,0 +1,38 @@
+timestamps:
+  login: 1591901410196
+  lastteleport: 1591901259220
+  logout: 1591901485432
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1105.4974886722616
+  y: 16.0
+  z: -1947.4137473339947
+  yaw: -175.26043701171875
+  pitch: 4.949876308441162
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Ressource
+  x: 1094.1883947456502
+  y: 26.049999997764825
+  z: -1912.1355090737213
+  yaw: 22.651033401489258
+  pitch: 14.55001449584961
+  world-name: ''
+ip-address: 90.8.169.121
+last-account-name: ELyssaRussia
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1618575738833
+  lastteleport: 1618579099358
+  logout: 1618579302894
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 49.457040268411205
+  y: 11.0
+  z: -4125.921709354065
+  yaw: -196.20970153808594
+  pitch: 21.90004539489746
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1959.6114503889514
+  y: 91.0
+  z: -6119.057796437673
+  yaw: 204.43161010742188
+  pitch: 16.50010871887207
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 1959.802781156378
+    y: 92.0
+    z: -6120.802137309172
+    yaw: 81.8829345703125
+    pitch: 33.75006866455078
+    world-name: ''
+ip-address: 90.66.233.11
+last-account-name: La_salaumandre
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

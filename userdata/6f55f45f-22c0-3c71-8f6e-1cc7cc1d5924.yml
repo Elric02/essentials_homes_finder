@@ -1,0 +1,47 @@
+timestamps:
+  login: 1509847713362
+  lastteleport: 1509847730583
+  logout: 1509847753893
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4077.348596895138
+  y: 63.0
+  z: 6831.760929007555
+  yaw: -0.7391357421875
+  pitch: 5.178235054016113
+  world-name: ''
+money: '0'
+homes:
+  a:
+    world: world
+    x: -4061.21101459769
+    y: 63.0
+    z: 6838.742432791042
+    yaw: 132.38784790039062
+    pitch: 7.050238609313965
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4071.5099800144417
+  y: 63.0
+  z: 6831.490594140552
+  yaw: -92.24100494384766
+  pitch: -90.0
+  world-name: ''
+ip-address: 88.163.95.106
+last-account-name: Sigma
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

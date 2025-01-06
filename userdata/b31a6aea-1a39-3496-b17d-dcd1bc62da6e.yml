@@ -1,0 +1,47 @@
+timestamps:
+  login: 1497257951079
+  lastteleport: 1497259405975
+  logout: 1497259429935
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 161.30000001192093
+  y: 10.0
+  z: 938.3000000119209
+  yaw: 333.7427978515625
+  pitch: 24.00001335144043
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 3535.23552292328
+    y: 63.0
+    z: -1446.7392070576218
+    yaw: 149.190185546875
+    pitch: 34.50008010864258
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3535.656335340667
+  y: 63.0
+  z: -1445.1681260040075
+  yaw: 4.440199375152588
+  pitch: 7.200060844421387
+  world-name: ''
+afk: false
+ip-address: 176.147.101.162
+last-account-name: oceanabela
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1575049392670
+  lastteleport: 1575050454638
+  logout: 1575051509646
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -52.90471969841018
+  y: 40.54269629800359
+  z: -238.19956513605374
+  yaw: -147.4213409423828
+  pitch: -14.214740753173828
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 140.48073540420668
+  y: 60.0
+  z: 101.07499998807907
+  yaw: -182.02191162109375
+  pitch: 47.96977615356445
+  world-name: ''
+ip-address: 90.24.7.80
+last-account-name: _Orloc_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

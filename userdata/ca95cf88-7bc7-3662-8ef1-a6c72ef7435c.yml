@@ -1,0 +1,38 @@
+timestamps:
+  login: 1565106716305
+  lastteleport: 1565107189577
+  logout: 1565107226193
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -770.8925093484003
+  y: 65.0
+  z: -343.65213437796075
+  yaw: -99.90008544921875
+  pitch: 34.6500358581543
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.64093017056962
+  y: 64.0
+  z: 26.4572792068838
+  yaw: 232.17901611328125
+  pitch: 20.578672409057617
+  world-name: ''
+ip-address: 92.144.222.129
+last-account-name: aymeric_mp4
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

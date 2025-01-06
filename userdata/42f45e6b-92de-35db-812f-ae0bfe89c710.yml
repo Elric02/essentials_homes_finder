@@ -1,0 +1,47 @@
+timestamps:
+  login: 1592477397499
+  lastteleport: 1591874780263
+  logout: 1592477575769
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5398.6970310963725
+  y: 58.0
+  z: 1444.405117801074
+  yaw: -282.7496337890625
+  pitch: 47.36281967163086
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3004.289196240384
+  y: 63.0
+  z: -983.6885940453996
+  yaw: 173.01560974121094
+  pitch: 13.200004577636719
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 2607.7752728781893
+    y: 64.0
+    z: -904.4680532057737
+    yaw: -26.749284744262695
+    pitch: 54.427860260009766
+    world-name: ''
+ip-address: 176.163.156.239
+last-account-name: Liferquest
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

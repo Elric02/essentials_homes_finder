@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481123195069
+  lastteleport: 1481123272832
+  logout: 1481123338920
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 150.36577628173148
+  y: 64.0
+  z: 10.771214232575263
+  yaw: 238.4388427734375
+  pitch: 29.7244815826416
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 107.80922892199779
+  y: 63.0
+  z: -43.572322200281675
+  yaw: -15.055282592773438
+  pitch: 9.932015419006348
+  world-name: ''
+ip-address: 88.142.187.38
+last-account-name: juju180
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

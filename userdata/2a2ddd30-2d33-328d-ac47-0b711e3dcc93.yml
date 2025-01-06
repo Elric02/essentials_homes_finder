@@ -1,0 +1,38 @@
+timestamps:
+  login: 1564602399303
+  lastteleport: 1564602600178
+  logout: 1564602727829
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.77109100614666
+  y: 63.5
+  z: 32.539406036930956
+  yaw: 72.51758575439453
+  pitch: -5.723764419555664
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -66.91933665914839
+  y: 63.0
+  z: -31.49781519771564
+  yaw: -89.80268859863281
+  pitch: 27.016660690307617
+  world-name: ''
+ip-address: 105.101.18.220
+last-account-name: Petit_Rebeu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

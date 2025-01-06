@@ -1,0 +1,47 @@
+timestamps:
+  login: 1567087599459
+  lastteleport: 1567088023867
+  logout: 1567088177359
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4161.523996031738
+  y: 70.0
+  z: -1241.447096653085
+  yaw: -119.0902099609375
+  pitch: 5.549993991851807
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -4069.635102208597
+  y: 69.0
+  z: -1363.9645885284026
+  yaw: -300.29327392578125
+  pitch: 12.749996185302734
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -4069.651807439548
+    y: 69.0
+    z: -1368.762499988079
+    yaw: -9.89306640625
+    pitch: 50.399906158447266
+    world-name: ''
+ip-address: 81.49.96.110
+last-account-name: Heaven_pluton
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

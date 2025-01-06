@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 173.177.121.166
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1687649973678
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1687650795017
+  login: 1687650785474
+money: '0'
+last-account-name: Pinky_hawaii1014
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 399.0449262343497
+  y: 81.0
+  z: -3109.0233174259006
+  yaw: 126.75148010253906
+  pitch: 8.399924278259277
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 37.76579677528245
+  y: 66.0
+  z: 115.1799688410226
+  yaw: -160.3490447998047
+  pitch: 3.299917221069336

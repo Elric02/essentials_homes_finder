@@ -1,0 +1,38 @@
+timestamps:
+  login: 1552237764582
+  logout: 1552237821069
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.76507563414785
+  y: 64.0
+  z: 8.171685332154585
+  yaw: 181.14700317382812
+  pitch: 6.690650939941406
+  world-name: ''
+ip-address: 78.212.176.101
+last-account-name: Ifanoxy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

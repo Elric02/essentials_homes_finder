@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467133988284
+  logout: 1467134067953
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 146.83177265587392
+  y: 63.0
+  z: 55.67443814750385
+  yaw: -343.7972717285156
+  pitch: 18.824169158935547
+  world-name: ''
+ip-address: 94.23.190.196
+last-account-name: darkwolf2517
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

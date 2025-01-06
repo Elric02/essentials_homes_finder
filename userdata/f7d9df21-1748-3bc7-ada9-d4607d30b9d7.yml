@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521300890072
+  logout: 1521300936831
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 136.06352943638637
+  y: 74.24918707874468
+  z: 99.26678929866245
+  yaw: -180.15850830078125
+  pitch: 57.710968017578125
+  world-name: ''
+ip-address: 78.46.254.48
+last-account-name: Zydrec
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1476035647091
+  lastteleport: 1475083153669
+  logout: 1476035724867
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2407.0623791342678
+  y: 11.0
+  z: 81.69999998807907
+  yaw: 187.31094360351562
+  pitch: 22.239498138427734
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 10563.283309168908
+  y: 71.0
+  z: 9993.80245133988
+  yaw: 242.98736572265625
+  pitch: 13.932445526123047
+  world-name: ''
+money: '0'
+homes:
+  m:
+    world: world
+    x: 10571.046112506545
+    y: 72.0
+    z: 9989.269680691048
+    yaw: -178.841796875
+    pitch: 34.61368942260742
+    world-name: ''
+  c:
+    world: world
+    x: -2409.3473416225984
+    y: 11.0
+    z: 94.34814360470915
+    yaw: 56.833251953125
+    pitch: 22.695446014404297
+    world-name: ''
+  s:
+    world: world
+    x: 10692.402887031054
+    y: 64.0
+    z: 9795.088005914595
+    yaw: 237.0625457763672
+    pitch: 23.36688804626465
+    world-name: ''
+ip-address: 176.149.232.43
+last-account-name: yukilo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

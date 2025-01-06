@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.174.150.164
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1689193430899
+  login: 1689193422804
+money: '0'
+last-account-name: kingofclamp
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.83671216533486
+  y: 81.0
+  z: -3111.009286521395
+  yaw: -66.59813690185547
+  pitch: 11.399965286254883
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.83671216533486
+  y: 81.0
+  z: -3111.009286521395
+  yaw: -111.59815216064453
+  pitch: 6.899972915649414

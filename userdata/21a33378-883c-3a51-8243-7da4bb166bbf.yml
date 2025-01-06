@@ -1,0 +1,38 @@
+timestamps:
+  login: 1493283006269
+  logout: 1493283059357
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.40149496136544
+  y: 63.0
+  z: 45.92892663909989
+  yaw: -33.497562408447266
+  pitch: 26.49740219116211
+  world-name: ''
+ip-address: 78.243.46.191
+last-account-name: NiceCombo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

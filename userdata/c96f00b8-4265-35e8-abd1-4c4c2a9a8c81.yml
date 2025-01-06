@@ -1,0 +1,47 @@
+timestamps:
+  login: 1512752520178
+  lastteleport: 1512752622041
+  logout: 1512752651518
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 150.13553683306415
+  y: 65.0
+  z: 62.26926538348198
+  yaw: 267.7584228515625
+  pitch: 5.877729892730713
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 154.4868465110194
+    y: 64.0
+    z: 22.345350298680938
+    yaw: -180.7708282470703
+    pitch: 2.128669500350952
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 136.21123698274778
+  y: 63.0
+  z: -2.628369116476878
+  yaw: -234.01040649414062
+  pitch: 0.6897676587104797
+  world-name: ''
+ip-address: 86.237.102.130
+last-account-name: Mr_yezo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

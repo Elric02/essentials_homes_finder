@@ -1,0 +1,38 @@
+timestamps:
+  login: 1594319341889
+  logout: 1594319413163
+  lastteleport: 1594319408258
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.61743091599388
+  y: 63.0
+  z: 64.10598651006237
+  yaw: 184.4468994140625
+  pitch: 4.590659141540527
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4836.5
+  y: 84.0
+  z: -463.5
+  yaw: -90.60684967041016
+  pitch: -9.600177764892578
+  world-name: ''
+ip-address: 90.40.7.201
+last-account-name: Charyn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

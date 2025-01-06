@@ -1,0 +1,55 @@
+timestamps:
+  login: 1520977536273
+  lastteleport: 1518903528974
+  logout: 1520977971854
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -565.2606529893137
+  y: 64.0
+  z: -770.7065179892816
+  yaw: -88.1998291015625
+  pitch: 33.47520446777344
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: -6510.147749983214
+  y: 100.0
+  z: 3805.8549431652273
+  yaw: 82.42694091796875
+  pitch: 39.004791259765625
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -6577.57365833955
+    y: 77.0
+    z: 3813.7809163126612
+    yaw: 114.79605102539062
+    pitch: -17.761533737182617
+    world-name: ''
+  m2:
+    world: world
+    x: -6529.62668974929
+    y: 102.0
+    z: 3808.699999988079
+    yaw: 193.47943115234375
+    pitch: 50.678348541259766
+    world-name: ''
+ip-address: 104.163.177.37
+last-account-name: MaxMachine47
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

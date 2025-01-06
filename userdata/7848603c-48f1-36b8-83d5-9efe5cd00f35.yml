@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.163.214.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1679777917554
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1679838632243
+  login: 1679838542905
+money: '0'
+last-account-name: Fox_03
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -264.9433085259028
+  y: 33.0
+  z: -639.7301149742501
+  yaw: 14.644941329956055
+  pitch: 7.9545817375183105
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -264.964944455466
+  y: 33.0
+  z: -639.6416186508884
+  yaw: 13.890179634094238
+  pitch: 10.36982250213623

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487276887414
+  lastteleport: 1487257556930
+  mute: 0
+  logout: 1487276946807
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -456.1673259806101
+  y: 65.5
+  z: 144.44456434688266
+  yaw: 50.82989501953125
+  pitch: 15.625725746154785
+  world-name: ''
+money: '0'
+muted: false
+logoutlocation:
+  world: world
+  x: -8.084128222101109
+  y: 76.0
+  z: -14.538835141580163
+  yaw: 142.4886474609375
+  pitch: 26.19971466064453
+  world-name: ''
+ip-address: 31.164.90.16
+last-account-name: Mx_ZIPender
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

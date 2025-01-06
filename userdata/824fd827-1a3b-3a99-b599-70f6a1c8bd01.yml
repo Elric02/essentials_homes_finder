@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483215223135
+  lastteleport: 1483215273208
+  logout: 1483215327667
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -158.02875917683838
+  y: 56.70684967109776
+  z: 560.0238500696194
+  yaw: -22.60888671875
+  pitch: -57.35552215576172
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -203.2522254913558
+  y: 47.0
+  z: 417.6051087732426
+  yaw: 171.67221069335938
+  pitch: 9.263894081115723
+  world-name: ''
+ip-address: 2.6.14.10
+last-account-name: NinoPvP
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

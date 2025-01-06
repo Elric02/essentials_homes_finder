@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.236.85.116
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1658092147646
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1658153474875
+  login: 1658150365368
+money: '0'
+last-account-name: Plouf
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -21.662043217205657
+  y: 72.86249979128931
+  z: -84.690693117578
+  yaw: 159.5897216796875
+  pitch: 6.600062370300293
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -122.66666068507243
+  y: 65.5
+  z: 200.196871689631
+  yaw: -77.8641357421875
+  pitch: 12.750757217407227

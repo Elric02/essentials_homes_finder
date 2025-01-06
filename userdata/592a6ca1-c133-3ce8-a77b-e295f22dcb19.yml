@@ -1,0 +1,38 @@
+timestamps:
+  login: 1565185073159
+  logout: 1565185226872
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 141.3085242754328
+  y: 63.5
+  z: 17.981375734749605
+  yaw: 107.34685516357422
+  pitch: 17.34064292907715
+  world-name: ''
+ip-address: 192.230.46.66
+last-account-name: DannyDJ
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

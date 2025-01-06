@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487855760093
+  lastteleport: 1487782801367
+  logout: 1487855801890
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 353.4144312202015
+  y: 66.67647087614428
+  z: -3665.0541752355703
+  yaw: 12.2037935256958
+  pitch: 11.699974060058594
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 170.30000001192093
+  y: 58.0
+  z: -3780.655771664762
+  yaw: -65.49665069580078
+  pitch: 39.29998016357422
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 90.125.196.227
+last-account-name: Cool_Girl
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

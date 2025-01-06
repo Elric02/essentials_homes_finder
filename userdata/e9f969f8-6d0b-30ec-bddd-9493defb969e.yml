@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466796233324
+  lastteleport: 1466796353792
+  logout: 1466797321239
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 168.98699783006384
+  y: 63.0
+  z: 19.575424164263502
+  yaw: 269.69580078125
+  pitch: 3.5202550888061523
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -512.8156656764143
+  y: 33.0
+  z: -157.75492222759863
+  yaw: 23.602935791015625
+  pitch: 30.31561851501465
+  world-name: ''
+ip-address: 90.47.235.27
+last-account-name: Glassou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

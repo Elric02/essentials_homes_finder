@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.238.232.28
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1634471041162
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1634473911599
+  login: 1634473112816
+money: '0'
+last-account-name: Kody
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -450.8917143943431
+  y: 62.0
+  z: -4007.530723559273
+  yaw: -69.77342987060547
+  pitch: -2.378416061401367
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 4161.833164831691
+    y: 64.0
+    z: 1395.816504592576
+    yaw: 143.37985229492188
+    pitch: 7.397371292114258
+  endfarm:
+    world: ad90bccb-d085-4609-bdd5-83c569cca21b
+    world-name: End
+    x: 296.9657876975922
+    y: 52.0
+    z: -13.855226352820072
+    yaw: 130.71160888671875
+    pitch: 15.741182327270508
+  megabase:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6970.583525344128
+    y: 70.0
+    z: 1839.8837564536755
+    yaw: 41.9099235534668
+    pitch: 1.4974466562271118
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -6973.559690843874
+  y: 70.0
+  z: 1837.5996647922007
+  yaw: -343.06396484375
+  pitch: 33.486572265625

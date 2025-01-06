@@ -1,0 +1,63 @@
+timestamps:
+  login: 1558972457542
+  lastteleport: 1558457064965
+  logout: 1558973303697
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -17.60712219852382
+  y: 63.0
+  z: 8.8129132616283
+  yaw: 295.6143493652344
+  pitch: -26.064571380615234
+  world-name: ''
+money: '0'
+homes:
+  skelete:
+    world: Ressource
+    x: -1527.300000011921
+    y: 6.0
+    z: -415.84042291984537
+    yaw: -165.62464904785156
+    pitch: 19.877246856689453
+    world-name: ''
+  end:
+    world: End
+    x: -295.1153530401087
+    y: 49.5
+    z: -2.3000000119209254
+    yaw: -33.20356750488281
+    pitch: -1.736577033996582
+    world-name: ''
+  residence:
+    world: world
+    x: -607.5774126751437
+    y: 64.0
+    z: -647.3379670673405
+    yaw: -355.9405212402344
+    pitch: 25.541019439697266
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 4108.696613419024
+  y: 87.0
+  z: -2139.614888820087
+  yaw: -271.4298095703125
+  pitch: 18.38623046875
+  world-name: ''
+afk: false
+ip-address: 77.136.16.123
+last-account-name: beefsteack
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

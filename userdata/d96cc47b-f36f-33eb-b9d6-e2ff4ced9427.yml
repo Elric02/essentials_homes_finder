@@ -1,0 +1,47 @@
+timestamps:
+  login: 1499799010107
+  lastteleport: 1499804293928
+  logout: 1499804300199
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -509.2003764864914
+  y: 65.0
+  z: -2569.3895965015213
+  yaw: 9.750244140625
+  pitch: 15.150096893310547
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: -6143.470908274102
+    y: 72.0
+    z: 4756.699999988079
+    yaw: -178.5008544921875
+    pitch: 46.1999397277832
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -6145.464791806799
+  y: 70.0
+  z: 4750.321928651756
+  yaw: -212.25082397460938
+  pitch: 22.649938583374023
+  world-name: ''
+ip-address: 84.5.158.206
+last-account-name: gigigi311
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

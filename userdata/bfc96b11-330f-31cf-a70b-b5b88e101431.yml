@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.171.103.151
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682335930899
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682337056976
+  login: 1682337013264
+money: '0'
+last-account-name: Xerill
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 373.0601173934945
+  y: 95.0
+  z: -222.22700787867927
+  yaw: 104.9903564453125
+  pitch: 4.950179576873779
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 382.9592944723081
+  y: 65.0
+  z: -188.20487677467185
+  yaw: -98.25228881835938
+  pitch: 4.3501458168029785

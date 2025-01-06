@@ -1,0 +1,249 @@
+timestamps:
+  login: 1479047304893
+  lastteleport: 1479055717397
+  logout: 1479056981565
+  kits:
+    vip: 1466946415456
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 869.1481259799316
+  y: 4.0
+  z: -1512.2406367750286
+  yaw: -51.350677490234375
+  pitch: 17.520063400268555
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.83844735163828
+  y: 66.0
+  z: 21.9471894342386
+  yaw: 103.7392578125
+  pitch: 31.651195526123047
+  world-name: ''
+afk: false
+socialspy: false
+homes:
+  desert:
+    world: world
+    x: -350.6695457897564
+    y: 72.0
+    z: 974.2603061800368
+    yaw: -353.5130615234375
+    pitch: 30.40319061279297
+    world-name: ''
+  neige:
+    world: world
+    x: -3805.198012627557
+    y: 72.0
+    z: 16664.246804010396
+    yaw: 184.7650146484375
+    pitch: 18.72957420349121
+    world-name: ''
+  champi:
+    world: world
+    x: 9654.589984721573
+    y: 64.0
+    z: 537.1905912654126
+    yaw: -48.87957763671875
+    pitch: 28.198734283447266
+    world-name: ''
+  home:
+    world: world
+    x: 1611.300000011921
+    y: 69.0
+    z: -969.3000000119209
+    yaw: -141.3660888671875
+    pitch: 2.140827178955078
+    world-name: ''
+  end2:
+    world: world_the_end
+    x: 2966.300000011921
+    y: 115.20000004768372
+    z: -9487.300000011921
+    yaw: 268.671875
+    pitch: 31.651220321655273
+    world-name: ''
+  mine:
+    world: ressource
+    x: 818.3000000119209
+    y: 11.0
+    z: -96.02696966154045
+    yaw: 187.3653564453125
+    pitch: 24.25923728942871
+    world-name: ''
+  end:
+    world: world_the_end
+    x: 1139.0190426161764
+    y: 87.0
+    z: -11467.05984670156
+    yaw: -263.587646484375
+    pitch: 7.056068420410156
+    world-name: ''
+  petrus:
+    world: world
+    x: -593.5969831869038
+    y: 65.0
+    z: -760.429712179533
+    yaw: -315.5172119140625
+    pitch: 2.1407814025878906
+    world-name: ''
+  spawn:
+    world: Test
+    x: -877.7608090749623
+    y: 16.0625
+    z: -91.55253312372439
+    yaw: -86.01606750488281
+    pitch: 19.343992233276367
+    world-name: ''
+  jungle:
+    world: world
+    x: 1061.300000011921
+    y: 64.0
+    z: -4352.572845611245
+    yaw: -38.44891357421875
+    pitch: 0.2976003885269165
+    world-name: ''
+  arbre:
+    world: Test
+    x: -628.5368375355132
+    y: 4.0
+    z: -717.2272480138164
+    yaw: -17.664609909057617
+    pitch: 16.671710968017578
+    world-name: ''
+  ice:
+    world: world
+    x: 7998.300000011921
+    y: 71.0
+    z: -811.3000000119209
+    yaw: -102.47578430175781
+    pitch: 0.2976081967353821
+    world-name: ''
+  asile:
+    world: world
+    x: 2834.430953048103
+    y: 65.0
+    z: 741.3310127499951
+    yaw: -211.73193359375
+    pitch: 0.9120031595230103
+    world-name: ''
+  dark:
+    world: world
+    x: 2720.0464613608397
+    y: 68.0625
+    z: -2587.2919094032954
+    yaw: -133.22900390625
+    pitch: 44.53421401977539
+    world-name: ''
+  messa:
+    world: world
+    x: -2069.8056581249202
+    y: 93.0
+    z: -1077.322390412577
+    yaw: -302.41259765625
+    pitch: 25.48798179626465
+    world-name: ''
+  pyramide:
+    world: world
+    x: 6931.737712246531
+    y: 64.0
+    z: 4144.701062543493
+    yaw: -20.357177734375
+    pitch: 16.271982192993164
+    world-name: ''
+  nature:
+    world: world
+    x: -5315.699999988079
+    y: 80.0
+    z: 626.3000000119209
+    yaw: -35.32525634765625
+    pitch: 5.827167510986328
+    world-name: ''
+  rose:
+    world: Test
+    x: 508.30000001192093
+    y: 58.0
+    z: -513.0304235937665
+    yaw: -66.56478881835938
+    pitch: 41.94963455200195
+    world-name: ''
+  redstone:
+    world: Test
+    x: 85.62809487873665
+    y: 4.0
+    z: -148.36846389800473
+    yaw: -67.50701904296875
+    pitch: 42.691104888916016
+    world-name: ''
+  bryville:
+    world: world
+    x: -500.0995687096254
+    y: 69.0
+    z: -2316.102359412227
+    yaw: -224.01251220703125
+    pitch: 10.742384910583496
+    world-name: ''
+  watter:
+    world: world
+    x: 4344.109064819113
+    y: 64.7970445304689
+    z: -121.18002786321851
+    yaw: -287.45465087890625
+    pitch: 25.487991333007812
+    world-name: ''
+  spartiate76:
+    world: world
+    x: 10873.637839703557
+    y: 67.0
+    z: 10418.522234108292
+    yaw: 357.5570068359375
+    pitch: 34.089542388916016
+    world-name: ''
+  miss:
+    world: world
+    x: -1188.3982702619574
+    y: 73.0
+    z: -5921.880496503917
+    yaw: -245.0604248046875
+    pitch: 10.900782585144043
+    world-name: ''
+  event:
+    world: Ressource
+    x: 1019.9270397472573
+    y: 76.0
+    z: -1345.6601407799542
+    yaw: -142.2464599609375
+    pitch: 38.55400466918945
+    world-name: ''
+  rec:
+    world: Ressource
+    x: 1005.7406918161237
+    y: 15.0
+    z: -1408.8045807217677
+    yaw: -87.69100952148438
+    pitch: 24.278379440307617
+    world-name: ''
+  luca:
+    world: world
+    x: -8421.807416162585
+    y: 77.0
+    z: -4745.702122529669
+    yaw: -162.0654754638672
+    pitch: 6.938480854034424
+    world-name: ''
+money: '0'
+ip-address: 88.169.84.141
+last-account-name: alexis06250
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

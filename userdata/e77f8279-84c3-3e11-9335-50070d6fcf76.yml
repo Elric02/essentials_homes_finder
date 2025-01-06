@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.169.214.169
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1641682978334
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1641683152852
+  login: 1641678861670
+money: '0'
+last-account-name: Tarojirur
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.12951692008068
+  y: 64.0
+  z: 23.686546246845662
+  yaw: 288.75970458984375
+  pitch: 18.105674743652344
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6320.453882808778
+    y: 71.0
+    z: 805.502796948453
+    yaw: 180.07861328125
+    pitch: 1.8766429424285889
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 6319.717217757076
+  y: 71.0
+  z: 818.6074039132968
+  yaw: 325.9486999511719
+  pitch: 11.265135765075684

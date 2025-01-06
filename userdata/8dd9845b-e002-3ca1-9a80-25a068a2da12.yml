@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483832883915
+  lastteleport: 1470905299325
+  logout: 1483833216332
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -136.06121334592171
+  y: 49.0
+  z: 503.84312458058116
+  yaw: 76.598388671875
+  pitch: 23.25011444091797
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -773.5197985433671
+  y: 53.0
+  z: -627.0650192869559
+  yaw: -12.9964599609375
+  pitch: 17.100025177001953
+  world-name: ''
+ip-address: 62.197.66.149
+last-account-name: MrSnakie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

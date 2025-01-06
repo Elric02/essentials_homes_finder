@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472469654445
+  lastteleport: 1472470007101
+  logout: 1472470091481
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 161.10747153582616
+  y: 64.0
+  z: 17.446719026915233
+  yaw: -211.99676513671875
+  pitch: 31.44736099243164
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 139.78579376235453
+  y: 63.0
+  z: 18.78126561096068
+  yaw: 83.03924560546875
+  pitch: 8.424522399902344
+  world-name: ''
+ip-address: 86.195.132.230
+last-account-name: sieka
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

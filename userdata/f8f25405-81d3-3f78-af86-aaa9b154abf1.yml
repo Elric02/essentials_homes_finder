@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.22.106.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667383298392
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667386205027
+  login: 1667383218656
+money: '0'
+last-account-name: bol2soupe
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 166.91955051741172
+  y: 79.04335543322806
+  z: 404.26343953215087
+  yaw: -70.1845474243164
+  pitch: 48.247100830078125
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 177.660591167469
+  y: 66.2631249135236
+  z: 387.2503722609117
+  yaw: 113.297607421875
+  pitch: -4.6984148025512695

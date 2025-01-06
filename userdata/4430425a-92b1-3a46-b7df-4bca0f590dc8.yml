@@ -1,0 +1,64 @@
+timestamps:
+  login: 1482851282504
+  lastteleport: 1482854306321
+  mute: 0
+  logout: 1482854469093
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2524.8896186438214
+  y: 88.0
+  z: 2372.326775257113
+  yaw: -256.50921630859375
+  pitch: 39.63847351074219
+  world-name: ''
+muted: true
+logoutlocation:
+  world: world
+  x: -2523.300000011921
+  y: 88.0
+  z: 2371.933664317853
+  yaw: 101.6866455078125
+  pitch: 14.448027610778809
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -2506.629629305357
+    y: 93.0
+    z: 2381.4677194132996
+    yaw: 300.1380310058594
+    pitch: 26.102418899536133
+    world-name: ''
+  mine:
+    world: world_nether
+    x: -4444.946935616972
+    y: 37.0
+    z: 5585.133078552171
+    yaw: -168.58729553222656
+    pitch: 45.28199005126953
+    world-name: ''
+  a:
+    world: world
+    x: -2568.5683312662036
+    y: 84.0
+    z: 2310.7030120475865
+    yaw: 89.1298828125
+    pitch: 26.716796875
+    world-name: ''
+money: '0'
+afk: false
+nickname: The_Evil_Llama
+ip-address: 78.209.124.51
+last-account-name: The_Evil_Llama
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

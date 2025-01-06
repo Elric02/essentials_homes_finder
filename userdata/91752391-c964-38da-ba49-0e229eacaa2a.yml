@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.64.82.190
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1666441495178
+  login: 1666441408711
+money: '0'
+last-account-name: MiniGunCrafT
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.1082395757772
+  y: 81.0
+  z: -3111.998363839112
+  yaw: 63.72538375854492
+  pitch: 12.874780654907227
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.1082395757772
+  y: 81.0
+  z: -3111.998363839112
+  yaw: -58.604736328125
+  pitch: 17.63063621520996

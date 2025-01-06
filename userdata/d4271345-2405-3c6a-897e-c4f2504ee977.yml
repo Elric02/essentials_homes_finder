@@ -1,0 +1,47 @@
+timestamps:
+  login: 1491922200328
+  lastteleport: 1491925529527
+  logout: 1491926111084
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 81.94122172462669
+  y: 67.0
+  z: -172.30000001192093
+  yaw: -256.683837890625
+  pitch: 13.683073043823242
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 6766.184863145017
+    y: 69.0
+    z: 6613.079355925136
+    yaw: -196.11993408203125
+    pitch: 7.799964904785156
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 6745.205352837866
+  y: 71.0
+  z: 6640.3702582118385
+  yaw: 6.080519199371338
+  pitch: -31.9500789642334
+  world-name: ''
+ip-address: 90.120.220.101
+last-account-name: jade
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

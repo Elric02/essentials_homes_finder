@@ -1,0 +1,38 @@
+timestamps:
+  login: 1589285767869
+  lastteleport: 1589286694717
+  logout: 1589286715992
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -593.5
+  y: 65.0
+  z: -760.5
+  yaw: -199.1977081298828
+  pitch: -0.30880528688430786
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -216.58343272299078
+  y: 62.5
+  z: 364.84863528208706
+  yaw: -79.64957427978516
+  pitch: 12.000003814697266
+  world-name: ''
+ip-address: 5.51.123.232
+last-account-name: WenyZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

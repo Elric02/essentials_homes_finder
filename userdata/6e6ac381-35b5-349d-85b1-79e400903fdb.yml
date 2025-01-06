@@ -1,0 +1,38 @@
+timestamps:
+  login: 1561295899795
+  lastteleport: 1561296005356
+  logout: 1561296120996
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.02508028788026
+  y: 64.0
+  z: 31.701185871930136
+  yaw: -5.609832763671875
+  pitch: 25.448862075805664
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.82902656364845
+  y: 63.5
+  z: 66.0790454409217
+  yaw: -16.35986328125
+  pitch: 7.844699859619141
+  world-name: ''
+ip-address: 86.252.242.55
+last-account-name: totojj
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

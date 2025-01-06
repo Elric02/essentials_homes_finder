@@ -1,0 +1,38 @@
+timestamps:
+  login: 1506522012136
+  lastteleport: 1506522381837
+  logout: 1506522481944
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -179.9109344482422
+  pitch: 6.774515151977539
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 27.699999988079075
+  y: 76.0
+  z: 60.01415071859138
+  yaw: -150.63552856445312
+  pitch: -8.21693229675293
+  world-name: ''
+ip-address: 74.58.58.84
+last-account-name: marcounet
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

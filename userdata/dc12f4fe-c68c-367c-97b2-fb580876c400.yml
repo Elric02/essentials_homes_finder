@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514314461463
+  lastteleport: 1514314506999
+  logout: 1514314524697
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.10540608463097
+  y: 65.0
+  z: 88.37054806594956
+  yaw: 142.39810180664062
+  pitch: -8.310209274291992
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -148.4115603275033
+  y: 67.0
+  z: 570.0184021681902
+  yaw: -81.35968017578125
+  pitch: 51.93603515625
+  world-name: ''
+ip-address: 77.136.41.6
+last-account-name: MoSwordYn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

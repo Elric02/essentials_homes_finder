@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482231272534
+  logout: 1482231513211
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 9.911637037992477
+  y: 98.75000000000004
+  z: -91.66734301442304
+  yaw: -276.6312561035156
+  pitch: 18.22719383239746
+  world-name: ''
+money: '0'
+ip-address: 83.198.130.90
+last-account-name: Xtalite_PvP
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

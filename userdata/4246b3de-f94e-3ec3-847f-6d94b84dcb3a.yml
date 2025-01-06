@@ -1,0 +1,63 @@
+timestamps:
+  login: 1491162563767
+  lastteleport: 1491163601944
+  logout: 1491163618892
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6716.668853064336
+  y: 64.0
+  z: 5586.9994176688115
+  yaw: 335.048095703125
+  pitch: 1.7666301727294922
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6854.999565505056
+    y: 70.0
+    z: 5399.822592721497
+    yaw: -131.25405883789062
+    pitch: 10.050002098083496
+    world-name: ''
+  home2:
+    world: world
+    x: 217.55124632200346
+    y: 100.0
+    z: -98.10779383234016
+    yaw: 188.922607421875
+    pitch: 18.98339080810547
+    world-name: ''
+  home3:
+    world: world_nether
+    x: -4962.058297423696
+    y: 68.0
+    z: 5787.300000011921
+    yaw: 127.9444580078125
+    pitch: 36.435482025146484
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 6853.868956119764
+  y: 70.0
+  z: 5399.471447751716
+  yaw: 93.96328735351562
+  pitch: 27.064430236816406
+  world-name: ''
+afk: false
+ip-address: 2.2.211.172
+last-account-name: asbet21051
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

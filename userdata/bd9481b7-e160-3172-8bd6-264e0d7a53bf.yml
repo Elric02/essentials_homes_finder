@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468690033937
+  logout: 1468690355377
+  lastteleport: 1468690074197
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 89.0947248993685
+  y: 68.0
+  z: -194.98616875626098
+  yaw: 358.9515686035156
+  pitch: 28.574125289916992
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 454.07499998807907
+  y: 64.0
+  z: -508.60318668486
+  yaw: -327.2978515625
+  pitch: -28.125808715820312
+  world-name: ''
+ip-address: 90.55.61.125
+last-account-name: LTerpin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

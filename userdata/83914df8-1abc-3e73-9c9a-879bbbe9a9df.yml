@@ -1,0 +1,38 @@
+timestamps:
+  login: 1506353229263
+  logout: 1506355685282
+  lastteleport: 1506354944222
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 209.93563367210103
+  y: 99.0
+  z: -115.50730322002295
+  yaw: -76.69369506835938
+  pitch: 33.14958190917969
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -358.5475691508774
+  y: 65.0
+  z: 374.3120306638868
+  yaw: -291.8988037109375
+  pitch: 35.099853515625
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 109.218.133.40
+last-account-name: Aratys
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

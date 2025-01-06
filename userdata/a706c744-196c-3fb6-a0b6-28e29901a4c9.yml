@@ -1,0 +1,38 @@
+timestamps:
+  login: 1551443321258
+  lastteleport: 1551443380146
+  logout: 1551445095072
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 107.71944635213511
+  y: 64.0
+  z: -29.768886075851324
+  yaw: 68.3467025756836
+  pitch: 19.140642166137695
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6144.762499988079
+  y: 68.0
+  z: 163.04799498352003
+  yaw: -70.40341186523438
+  pitch: 48.44994354248047
+  world-name: ''
+ip-address: 93.21.106.115
+last-account-name: TheFinestBeard
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

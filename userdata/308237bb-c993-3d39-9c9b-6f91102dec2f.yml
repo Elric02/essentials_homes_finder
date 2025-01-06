@@ -1,0 +1,47 @@
+timestamps:
+  login: 1550687828651
+  lastteleport: 1550687492155
+  logout: 1550687941481
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3638.6001093633763
+  y: 64.0
+  z: -1893.979553360939
+  yaw: -291.895263671875
+  pitch: -17.999996185302734
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -3643.0301937854015
+    y: 82.0
+    z: -1842.115501440038
+    yaw: -305.546142578125
+    pitch: 12.750024795532227
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3657.0644961512235
+  y: 76.0
+  z: -1785.5031859022456
+  yaw: -94.34818267822266
+  pitch: 87.300048828125
+  world-name: ''
+ip-address: 83.204.97.117
+last-account-name: StarTim
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

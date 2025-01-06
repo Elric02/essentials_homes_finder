@@ -1,0 +1,121 @@
+timestamps:
+  login: 1629927574981
+  lastteleport: 1629924982339
+  logout: 1629927656349
+  jail: 0
+  kits:
+    color: 1593192903843
+  onlinejail: 0
+  lastheal: 0
+  mute: 0
+lastlocation:
+  world: world
+  x: -1683.5656762560093
+  y: 88.0625
+  z: 3086.5389817462187
+  yaw: -249.146240234375
+  pitch: 21.93545913696289
+  world-name: ''
+homes:
+  dok:
+    world: world
+    x: -3308.51079129693
+    y: 74.0
+    z: -2660.7656593038905
+    yaw: 331.3638610839844
+    pitch: 30.586793899536133
+    world-name: ''
+  chateau:
+    world: world
+    x: -2034.4800100812533
+    y: 59.33022787896262
+    z: -3798.425618657849
+    yaw: 86.96321868896484
+    pitch: 44.540138244628906
+    world-name: ''
+  m:
+    world: world
+    x: -1669.3773198528277
+    y: 79.0
+    z: 3097.699223404884
+    yaw: 214.27774047851562
+    pitch: 40.820396423339844
+    world-name: ''
+  demeure:
+    world: world
+    x: -2580.258897826565
+    y: 77.0
+    z: -176.94157416077644
+    yaw: -161.99093627929688
+    pitch: 38.39906311035156
+    world-name: ''
+  elysium:
+    world: Nether
+    x: 1085.0879526558085
+    y: 36.0
+    z: -1277.8280775510011
+    yaw: -16.6741943359375
+    pitch: 30.287059783935547
+    world-name: ''
+  _tage:
+    world: world
+    x: 1633.8697905084932
+    y: 199.0
+    z: -2233.1038256198085
+    yaw: -74.581787109375
+    pitch: 14.709787368774414
+    world-name: ''
+  tabaripote:
+    world: world
+    x: -4445.947975587878
+    y: 68.0
+    z: 1564.9413521866898
+    yaw: 6.629045009613037
+    pitch: 29.14993667602539
+    world-name: ''
+  mat:
+    world: world
+    x: 3823.927002317391
+    y: 17.0
+    z: 4993.039408436801
+    yaw: 175.31405639648438
+    pitch: 11.921143531799316
+    world-name: ''
+  _:
+    world: world
+    x: 67.98202596762181
+    y: 70.0
+    z: 1987.8881991621106
+    yaw: -25.4486083984375
+    pitch: 68.0999984741211
+    world-name: ''
+  palais:
+    world: world
+    x: 6216.777665075693
+    y: 64.0
+    z: -1381.2670728381966
+    yaw: 270.28338623046875
+    pitch: -6.966919422149658
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.4479721699384
+  y: 64.0
+  z: 20.86459245468017
+  yaw: -39.287330627441406
+  pitch: 16.531618118286133
+  world-name: ''
+afk: false
+socialspy: true
+jailed: false
+ip-address: 79.95.127.173
+last-account-name: azetisme3576
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

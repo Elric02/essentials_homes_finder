@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476823200161
+  logout: 1476823693952
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.10241452350593
+  y: 27.0
+  z: 20.247215648739747
+  yaw: -85.0974349975586
+  pitch: 6.09739351272583
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 94.64091830158283
+  y: 63.66250001788139
+  z: 64.78639728000039
+  yaw: 54.420902252197266
+  pitch: 44.54997634887695
+  world-name: ''
+ip-address: 90.110.99.149
+last-account-name: LeCanardWC
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

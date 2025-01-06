@@ -1,0 +1,38 @@
+timestamps:
+  login: 1493626928679
+  lastteleport: 1493627579163
+  logout: 1493627579804
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -6465.385613899332
+  y: 85.0
+  z: -4150.120812290888
+  yaw: 191.401611328125
+  pitch: 29.25
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+ip-address: 90.76.74.69
+last-account-name: guipard
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

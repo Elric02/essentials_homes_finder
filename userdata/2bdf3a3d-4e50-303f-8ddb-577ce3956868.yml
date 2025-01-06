@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.168.136.87
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668865435662
+  login: 1668865315725
+money: '0'
+last-account-name: mine
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.99804673804175
+  y: 81.0
+  z: -3111.5648860492192
+  yaw: -83.24823760986328
+  pitch: 15.299951553344727
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.36068548524275
+  y: 81.0
+  z: -3111.6368540447643
+  yaw: -82.79823303222656
+  pitch: 6.749951362609863

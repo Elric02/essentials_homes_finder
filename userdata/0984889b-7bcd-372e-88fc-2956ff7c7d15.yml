@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476463463909
+  lastteleport: 1474293973716
+  logout: 1476463484295
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.590945362653
+  y: 64.0
+  z: 24.998706237934734
+  yaw: 195.68905639648438
+  pitch: 10.224510192871094
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4049.8253478530314
+  y: 88.0
+  z: -6270.396282064294
+  yaw: -205.96160888671875
+  pitch: 22.229948043823242
+  world-name: ''
+ip-address: 77.152.29.70
+last-account-name: Kyojo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

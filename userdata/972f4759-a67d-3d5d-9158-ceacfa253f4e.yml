@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617562257076
+  logout: 1617562278805
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.54089273845867
+  y: 65.5
+  z: 91.32777819654599
+  yaw: -140.15879821777344
+  pitch: 15.928465843200684
+  world-name: ''
+ip-address: 83.198.12.100
+last-account-name: Faalox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

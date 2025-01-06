@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615567200274
+  lastteleport: 1615567365415
+  logout: 1615567710168
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.92826758981312
+  y: 63.5
+  z: 66.57458286976969
+  yaw: 219.99365234375
+  pitch: 2.2499866485595703
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2800.734255575467
+  y: 70.0
+  z: -106.54479312739552
+  yaw: 144.217529296875
+  pitch: 52.51404571533203
+  world-name: ''
+ip-address: 90.76.204.110
+last-account-name: B3MBI64
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

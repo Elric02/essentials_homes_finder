@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.171.248.55
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732472477004
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732472514021
+  login: 1732470988603
+money: '50.0'
+last-account-name: Atlas77789
+lastlocation:
+  world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+  world-name: Ressource
+  x: 29.30000001192093
+  y: 64.79673560066871
+  z: 9.849203269807692
+  yaw: 121.3515625
+  pitch: 27.300006866455078
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -238.45674124925003
+  y: 109.04241206465281
+  z: 247.5014180290413
+  yaw: -64.69683837890625
+  pitch: 21.87169647216797

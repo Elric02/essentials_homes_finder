@@ -1,0 +1,38 @@
+timestamps:
+  login: 1564517485592
+  logout: 1564519332133
+  lastteleport: 1564418900988
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3690.5
+  y: 65.0
+  z: -3119.5
+  yaw: -324.45196533203125
+  pitch: 43.04996109008789
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3698.960642522642
+  y: 65.0
+  z: -3125.9301485411074
+  yaw: -94.5125732421875
+  pitch: 19.95008087158203
+  world-name: ''
+money: '0'
+ip-address: 90.78.30.108
+last-account-name: swetlana
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

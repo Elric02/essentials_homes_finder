@@ -1,0 +1,38 @@
+timestamps:
+  login: 1562351218047
+  logout: 1562351668225
+  lastteleport: 1562351435909
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.2720221024945
+  y: 63.0
+  z: 40.3198505683867
+  yaw: -82.55583190917969
+  pitch: 10.649909973144531
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 125.37307105608232
+  y: 64.0
+  z: -41.66472556731435
+  yaw: 225.8974609375
+  pitch: 38.550018310546875
+  world-name: ''
+ip-address: 176.156.103.87
+last-account-name: sofyann
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1597097056616
+  lastteleport: 1597099347205
+  logout: 1597099350822
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -1576.1022108275188
+  y: 20.0
+  z: -3029.300000011921
+  yaw: 208.79095458984375
+  pitch: 17.24991798400879
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -151.22085571289062
+  pitch: 10.228671073913574
+  world-name: ''
+ip-address: 77.204.197.92
+last-account-name: yadi_lf
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

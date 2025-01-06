@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508512956134
+  logout: 1508512959647
+  jail: 0
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 276.40377767597727
+  y: 100.94551584675209
+  z: -89.01660741101348
+  yaw: -174.1979522705078
+  pitch: 4.650012969970703
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 66.4612969733225
+  y: 70.5
+  z: 110.98258153686471
+  yaw: -153.96200561523438
+  pitch: 22.19996452331543
+  world-name: ''
+money: '0'
+jailed: false
+ip-address: 90.105.46.129
+last-account-name: Ulodin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1473539796189
+  lastteleport: 1473539870653
+  logout: 1473540009936
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -241.68044050173327
+  y: 76.0
+  z: 315.8840109394636
+  yaw: -217.344970703125
+  pitch: 7.800083637237549
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -251.86154906937932
+    y: 79.0
+    z: 291.13830094992414
+    yaw: -359.37548828125
+    pitch: -1.3499596118927002
+    world-name: ''
+  mine:
+    world: ressource
+    x: -18.422601599333927
+    y: 39.0
+    z: -384.3676339235346
+    yaw: -195.89886474609375
+    pitch: 22.350074768066406
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3105.456234502708
+  y: 73.0
+  z: 581.0216522193364
+  yaw: -250.96624755859375
+  pitch: 29.667160034179688
+  world-name: ''
+ip-address: 77.128.145.115
+last-account-name: Maomal
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

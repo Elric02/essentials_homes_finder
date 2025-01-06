@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.64.241.236
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1631467359876
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1631469508539
+  login: 1631467083151
+money: '0'
+last-account-name: Arscanor
+lastlocation:
+  world: c9471d40-f1c9-43db-90e8-e80a4d4f0631
+  world-name: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+logoutlocation:
+  world: c9471d40-f1c9-43db-90e8-e80a4d4f0631
+  world-name: Ressource
+  x: 753.0184336514288
+  y: 52.0
+  z: 1319.2530706390464
+  yaw: -273.1371765136719
+  pitch: 2.2490334510803223

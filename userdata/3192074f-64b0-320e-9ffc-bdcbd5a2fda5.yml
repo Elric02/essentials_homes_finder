@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 41.213.191.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1685513902412
+  login: 1685513882453
+money: '0'
+last-account-name: TWINER
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.55479386554015
+  y: 81.0
+  z: -3111.0147054886406
+  yaw: -52.94806671142578
+  pitch: 18.599958419799805
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.55479386554015
+  y: 81.0
+  z: -3111.0147054886406
+  yaw: -54.14809799194336
+  pitch: -0.15004386007785797

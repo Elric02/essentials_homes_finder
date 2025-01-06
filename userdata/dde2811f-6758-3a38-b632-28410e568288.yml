@@ -1,0 +1,38 @@
+npc: false
+last-account-name: OfficialZice
+money: '0'
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.65.161.37
+afk: false
+socialspy: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1717403687332
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717403791711
+  login: 1717403144693
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -100.93098422008524
+  y: 99.0
+  z: 147.92651735429087
+  yaw: -115.9487533569336
+  pitch: 45.8996467590332
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 413.55067377216915
+  y: 81.0
+  z: -3064.0710125481137
+  yaw: -100.80044555664062
+  pitch: 2.849975109100342

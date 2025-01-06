@@ -1,0 +1,47 @@
+timestamps:
+  login: 1481918177245
+  lastteleport: 1481917494227
+  logout: 1481918243084
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -960.0651386513249
+  y: 62.64676434493064
+  z: -348.2035318243398
+  yaw: -23.90674591064453
+  pitch: 42.90001678466797
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -1118.6431917804332
+    y: 68.0
+    z: -521.7130038456874
+    yaw: 152.9615478515625
+    pitch: 38.40000534057617
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1118.5
+  y: 68.0
+  z: -521.5
+  yaw: 152.9615478515625
+  pitch: 38.40000534057617
+  world-name: ''
+afk: false
+ip-address: 88.126.8.214
+last-account-name: loupusse2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1642353528711
+  lastteleport: 1642355670264
+  logout: 1642355769616
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1729.8435537897099
+  y: 63.0
+  z: 2303.6843958139534
+  yaw: 116.81536865234375
+  pitch: 28.94993019104004
+  world-name: world
+money: '0'
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1729.1682184119372
+    y: 63.0
+    z: 2299.8361129754235
+    yaw: -124.82269287109375
+    pitch: 18.44981575012207
+    world-name: world
+  bebe:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -1853.3379182320125
+    y: 72.0
+    z: -2442.8428699466854
+    yaw: 209.53460693359375
+    pitch: 16.349912643432617
+    world-name: world
+  ville:
+    world: c9471d40-f1c9-43db-90e8-e80a4d4f0631
+    x: -959.3172698594034
+    y: 64.0
+    z: -269.24833815980014
+    yaw: -69.29790496826172
+    pitch: 17.700002670288086
+    world-name: Ressource
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -1852.878406834845
+  y: 64.0
+  z: -2446.5120318255813
+  yaw: -145.96539306640625
+  pitch: 50.85002899169922
+  world-name: world
+afk: false
+ip-address: 176.155.213.195
+last-account-name: ccd5
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

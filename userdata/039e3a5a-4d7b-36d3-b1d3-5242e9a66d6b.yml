@@ -1,0 +1,63 @@
+timestamps:
+  login: 1619557511926
+  lastteleport: 1619557725949
+  logout: 1619560995825
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4919.018354016889
+  y: 71.0
+  z: 6156.913902635345
+  yaw: 347.0478210449219
+  pitch: -75.72561645507812
+  world-name: ''
+socialspy: false
+homes:
+  home:
+    world: world
+    x: 6025.533282200716
+    y: 73.0
+    z: -2303.53156141473
+    yaw: 238.2040252685547
+    pitch: 46.05012893676758
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 306.4098283380518
+    y: 66.0
+    z: -1835.6911598719273
+    yaw: -61.4935302734375
+    pitch: 17.84990119934082
+    world-name: ''
+  merlin:
+    world: world
+    x: 63.45473413112502
+    y: 94.0
+    z: 59.34871672470026
+    yaw: -179.2001953125
+    pitch: 14.675655364990234
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4926.178401653043
+  y: 190.09375
+  z: 6187.380420445981
+  yaw: 351.650146484375
+  pitch: -1.3496983051300049
+  world-name: ''
+afk: false
+ip-address: 86.196.47.140
+last-account-name: Elementaria
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

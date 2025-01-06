@@ -1,0 +1,47 @@
+timestamps:
+  login: 1534261271228
+  lastteleport: 1534261288667
+  logout: 1534261475778
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.8394907530778
+  y: 63.0
+  z: 7.525054022532181
+  yaw: -240.62054443359375
+  pitch: 36.478668212890625
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  f:
+    world: world
+    x: -4600.33727680077
+    y: 64.0
+    z: -3730.8418301769043
+    yaw: -218.3997802734375
+    pitch: 39.59999465942383
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 170.73180015896295
+  y: 141.5
+  z: -120.88030823278125
+  yaw: 11.378173828125
+  pitch: 18.149993896484375
+  world-name: ''
+ip-address: 93.26.161.218
+last-account-name: leane
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

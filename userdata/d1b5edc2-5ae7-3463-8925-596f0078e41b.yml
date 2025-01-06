@@ -1,0 +1,38 @@
+timestamps:
+  login: 1562279328782
+  lastteleport: 1562279630656
+  logout: 1562279786389
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4165.865629728052
+  y: 105.0
+  z: -2874.960200659822
+  yaw: -331.7998046875
+  pitch: 47.24995803833008
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -872.3208284434027
+  y: 70.0
+  z: 1301.5102140694466
+  yaw: -306.4491882324219
+  pitch: 85.05000305175781
+  world-name: ''
+ip-address: 70.81.123.78
+last-account-name: Agent_FBI
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

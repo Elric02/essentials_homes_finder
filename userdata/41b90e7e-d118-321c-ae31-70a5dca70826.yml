@@ -1,0 +1,38 @@
+timestamps:
+  login: 1607283648224
+  lastteleport: 1607283853172
+  logout: 1607283883668
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4914.65352289704
+  y: 71.0
+  z: -614.951404455257
+  yaw: -183.75750732421875
+  pitch: 7.199857711791992
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.48468406709154
+  y: 64.0
+  z: 21.68781865582039
+  yaw: -23.64532470703125
+  pitch: -2.1241276264190674
+  world-name: ''
+ip-address: 109.12.221.174
+last-account-name: mister_mister
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477051543862
+  lastteleport: 1477051964356
+  logout: 1477052423037
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -175.02223433972435
+  y: 50.0
+  z: 361.46532070529526
+  yaw: 274.7109680175781
+  pitch: 4.274843215942383
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 93.0274227493897
+  y: 63.7531999805212
+  z: 3.6787911051428717
+  yaw: -221.4442901611328
+  pitch: -5.618985176086426
+  world-name: ''
+ip-address: 92.135.165.143
+last-account-name: IMBLUEPONEY
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

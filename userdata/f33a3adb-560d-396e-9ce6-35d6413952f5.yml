@@ -1,0 +1,48 @@
+timestamps:
+  login: 1642862233429
+  lastteleport: 1642846991010
+  logout: 1642862337917
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 66.4951078164136
+  y: 70.5
+  z: 111.4670326449167
+  yaw: -186.96189880371094
+  pitch: 37.04995346069336
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 66.61846787031674
+  y: 70.5
+  z: 110.92500001192093
+  yaw: -154.26158142089844
+  pitch: 26.100000381469727
+  world-name: world
+ip-address: 85.190.77.48
+last-account-name: Fromage_Blanc
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: true
+jailed: true
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5315.938209333293
+    y: 79.0
+    z: 5329.077508399244
+    yaw: -236.69244384765625
+    pitch: 9.74993896484375
+jail: pirate

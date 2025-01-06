@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478019272912
+  logout: 1478020031959
+  lastteleport: 1478019442221
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.50995193276833
+  y: 63.0
+  z: 46.8263808514553
+  yaw: 47.802486419677734
+  pitch: -3.6525979042053223
+  world-name: ''
+afk: false
+logoutlocation:
+  world: ressource
+  x: -62.67868259785838
+  y: 64.0
+  z: 554.1284672343313
+  yaw: -339.449462890625
+  pitch: 25.649993896484375
+  world-name: ''
+ip-address: 129.122.113.204
+last-account-name: Popi_Games
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1529950030236
+  lastteleport: 1529950574737
+  logout: 1529950685331
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 62.76754448679374
+  y: 75.0
+  z: 59.899131350411906
+  yaw: -104.3040771484375
+  pitch: 30.240638732910156
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -158.02946221335299
+  y: 47.0
+  z: 548.6948590363683
+  yaw: 177.699462890625
+  pitch: 6.59999942779541
+  world-name: ''
+ip-address: 92.133.110.191
+last-account-name: Louloute
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

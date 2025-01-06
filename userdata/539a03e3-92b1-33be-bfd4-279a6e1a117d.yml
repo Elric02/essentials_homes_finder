@@ -1,0 +1,55 @@
+timestamps:
+  login: 1574864411488
+  lastteleport: 1574865509500
+  logout: 1574865850913
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 778.1346208991446
+  y: 139.0
+  z: -2985.27776501775
+  yaw: -142.34140014648438
+  pitch: 7.881934642791748
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -467.45080108954414
+  y: 66.0
+  z: -1576.0805439277046
+  yaw: 10.909329414367676
+  pitch: 36.29043197631836
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: -894.451878409564
+    y: 79.0
+    z: -3461.5546853343844
+    yaw: 157.44534301757812
+    pitch: 89.69999694824219
+    world-name: ''
+  louison:
+    world: world
+    x: 765.2717685329883
+    y: 140.0
+    z: -2994.031181697905
+    yaw: -92.7613525390625
+    pitch: 23.566410064697266
+    world-name: ''
+ip-address: 90.55.13.144
+last-account-name: Xinawar
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

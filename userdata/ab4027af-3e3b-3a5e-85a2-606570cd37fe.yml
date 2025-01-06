@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.3.121.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670081001069
+  login: 1670080995781
+money: '0'
+last-account-name: axelito77
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.3168199629222
+  y: 81.0
+  z: -3111.0340234584305
+  yaw: -42.7479248046875
+  pitch: 10.949968338012695
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.3532474876252
+  y: 81.0
+  z: -3110.994616842863
+  yaw: -46.04793930053711
+  pitch: 11.249967575073242

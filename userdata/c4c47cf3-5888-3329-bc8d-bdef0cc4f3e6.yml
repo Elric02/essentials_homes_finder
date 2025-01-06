@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616448249579
+  lastteleport: 1616450945186
+  logout: 1616451799679
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 128.30000001192093
+  y: 11.0
+  z: -143.62163985071385
+  yaw: 83.39523315429688
+  pitch: 21.900110244750977
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4.324836017970686
+  y: 70.0
+  z: -70.8301683990607
+  yaw: -18.5482177734375
+  pitch: 34.175907135009766
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 84.102.248.240
+last-account-name: Trafikandu93
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

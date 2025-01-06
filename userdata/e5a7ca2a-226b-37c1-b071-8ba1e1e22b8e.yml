@@ -1,0 +1,38 @@
+timestamps:
+  login: 1553199839274
+  lastteleport: 1553199880311
+  logout: 1553199885508
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 159.28838549995828
+  y: 67.0
+  z: 103.44953632450816
+  yaw: -218.8861541748047
+  pitch: 17.91947364807129
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.51183814008255
+  y: 64.0
+  z: 26.438817461411386
+  yaw: -170.68563842773438
+  pitch: -31.774736404418945
+  world-name: ''
+ip-address: 91.165.13.172
+last-account-name: huhu_gamingyt
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

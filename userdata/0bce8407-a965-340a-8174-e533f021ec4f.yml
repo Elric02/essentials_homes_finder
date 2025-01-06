@@ -1,0 +1,47 @@
+timestamps:
+  login: 1604059276556
+  logout: 1604060644954
+  lastteleport: 1604060170359
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.42780901079644
+  y: 64.0
+  z: 18.723517667399936
+  yaw: -187.22093200683594
+  pitch: 6.478671550750732
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3785.8457710466537
+  y: 71.16610926093821
+  z: -4558.293329893023
+  yaw: 20.0347900390625
+  pitch: 49.38564682006836
+  world-name: ''
+homes:
+  cath_drale:
+    world: world
+    x: -3788.8781613751385
+    y: 69.0
+    z: -4564.8128992714655
+    yaw: 294.6031494140625
+    pitch: 17.849863052368164
+    world-name: ''
+ip-address: 86.75.135.143
+last-account-name: Poussin00
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

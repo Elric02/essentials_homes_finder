@@ -1,0 +1,47 @@
+timestamps:
+  login: 1564360793605
+  lastteleport: 1564361155559
+  logout: 1564361174879
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5485.508599065679
+  y: 63.0
+  z: 682.796141038111
+  yaw: 184.686279296875
+  pitch: 7.424101829528809
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5485.346547525085
+  y: 63.0
+  z: 648.5844732474624
+  yaw: -117.63575744628906
+  pitch: 50.39998245239258
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  bp:
+    world: world
+    x: -5485.25697887714
+    y: 63.0
+    z: 647.4603993732828
+    yaw: 160.6142578125
+    pitch: 77.69999694824219
+    world-name: ''
+ip-address: 24.122.134.118
+last-account-name: Slater45
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

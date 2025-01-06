@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518966411455
+  logout: 1518966920177
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 350.92991460793144
+  y: 91.0
+  z: -4925.443213890827
+  yaw: -152.70184326171875
+  pitch: 21.300025939941406
+  world-name: ''
+ip-address: 88.160.140.210
+last-account-name: kiki78320
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

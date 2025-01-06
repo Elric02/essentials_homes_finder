@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518612342012
+  lastteleport: 1518612414424
+  logout: 1518612478529
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.73038335205692
+  y: 65.0
+  z: 89.61634837851685
+  yaw: -23.002988815307617
+  pitch: 0.8406509160995483
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.35848749398866
+  y: 64.0
+  z: 24.872426762647187
+  yaw: -16.970670700073242
+  pitch: 17.278675079345703
+  world-name: ''
+ip-address: 90.16.210.194
+last-account-name: Belisset2coeur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

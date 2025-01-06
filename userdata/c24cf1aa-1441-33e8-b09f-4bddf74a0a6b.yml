@@ -1,0 +1,38 @@
+timestamps:
+  login: 1567104324922
+  lastteleport: 1567105104917
+  logout: 1567105977029
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 150.5709659123014
+  y: 64.0
+  z: 21.663107205926128
+  yaw: -235.14881896972656
+  pitch: 21.93108558654785
+  world-name: ''
+afk: false
+logoutlocation:
+  world: Ressource
+  x: -179.79623070168913
+  y: 60.0
+  z: -6.3809591846474465
+  yaw: -202.9765625
+  pitch: 42.17036437988281
+  world-name: ''
+money: '0'
+ip-address: 82.232.167.44
+last-account-name: Raptorshinobs
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

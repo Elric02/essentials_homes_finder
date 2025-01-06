@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482086309854
+  logout: 1482086458398
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 154.6424684664832
+  y: 63.0
+  z: 34.22008949933499
+  yaw: 14.50258731842041
+  pitch: 6.547441482543945
+  world-name: ''
+ip-address: 88.219.218.217
+last-account-name: ElectroLight_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

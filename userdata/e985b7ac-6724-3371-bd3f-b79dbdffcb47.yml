@@ -1,0 +1,38 @@
+timestamps:
+  login: 1574880139676
+  lastteleport: 1574009666240
+  logout: 1574880157487
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -126.27476397195967
+  y: 47.0
+  z: 423.9442750290292
+  yaw: 33.840057373046875
+  pitch: 9.150115966796875
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1961.985304480107
+  y: 80.0
+  z: -1914.5560948606492
+  yaw: -111.89846801757812
+  pitch: 4.5000505447387695
+  world-name: ''
+ip-address: 82.64.156.137
+last-account-name: natinath
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

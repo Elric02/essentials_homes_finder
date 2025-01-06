@@ -1,0 +1,38 @@
+timestamps:
+  login: 1625806916041
+  logout: 1625806986254
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.7674192472704
+  y: 81.0
+  z: -62.595520157505575
+  yaw: 88.89643859863281
+  pitch: -6.809289932250977
+  world-name: ''
+ip-address: 160.178.241.31
+last-account-name: Elfa007
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

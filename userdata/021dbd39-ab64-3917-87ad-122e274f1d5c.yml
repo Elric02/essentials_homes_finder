@@ -1,0 +1,63 @@
+timestamps:
+  login: 1500129530651
+  lastteleport: 1498248528521
+  logout: 1500129712600
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4510.20591139267
+  y: 66.0
+  z: 5154.489643796115
+  yaw: 6.000152587890625
+  pitch: 16.500009536743164
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -4514.66179391622
+    y: 67.0
+    z: 5152.668150711231
+    yaw: 66.30021667480469
+    pitch: 12.899994850158691
+    world-name: ''
+  caro:
+    world: world
+    x: -4452.234104114665
+    y: 63.0
+    z: 5437.313751098565
+    yaw: 8.6988525390625
+    pitch: 15.600214958190918
+    world-name: ''
+  village:
+    world: Ressource
+    x: 132.1990588093777
+    y: 71.0
+    z: 4283.134641747107
+    yaw: -147.30029296875
+    pitch: 24.450014114379883
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4425.015251004882
+  y: 69.9375
+  z: 5479.737260048616
+  yaw: 91.35516357421875
+  pitch: 26.24995994567871
+  world-name: ''
+afk: false
+ip-address: 80.201.116.172
+last-account-name: Lushane
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

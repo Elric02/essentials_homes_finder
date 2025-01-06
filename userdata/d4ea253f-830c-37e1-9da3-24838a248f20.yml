@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616278303249
+  lastteleport: 1616278374745
+  jail: 0
+  logout: 1616278888378
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5286.103169462203
+  y: 57.0
+  z: 1459.9186273575312
+  yaw: 36.886993408203125
+  pitch: 54.60004806518555
+  world-name: ''
+money: '0'
+jailed: false
+logoutlocation:
+  world: world
+  x: 153.69999998807907
+  y: 64.0
+  z: 19.091747079825552
+  yaw: -105.39525604248047
+  pitch: 34.32586669921875
+  world-name: ''
+ip-address: 88.162.99.81
+last-account-name: LoLo731
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1564342333322
+  lastteleport: 1564344314017
+  logout: 1564344359088
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -81.39659780516462
+  y: 47.0
+  z: 483.997887568233
+  yaw: 84.8472900390625
+  pitch: 11.017770767211914
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4839.107481632869
+  y: 74.0
+  z: -483.67067276118973
+  yaw: 179.22738647460938
+  pitch: 32.39997482299805
+  world-name: ''
+ip-address: 176.169.128.155
+last-account-name: le_marouxcain
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

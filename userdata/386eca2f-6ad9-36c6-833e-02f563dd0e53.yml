@@ -1,0 +1,47 @@
+timestamps:
+  login: 1614909286953
+  lastteleport: 1614349664232
+  logout: 1614909292749
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 854.6813461302486
+  y: 5.02442408821368
+  z: 952.5984697138866
+  yaw: 5.84368896484375
+  pitch: 8.470423698425293
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: 2228.596838851847
+    y: 63.0
+    z: -4034.1271556752763
+    yaw: -55.68745422363281
+    pitch: 13.347558975219727
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5738.187402327187
+  y: 65.0
+  z: 6530.853194850501
+  yaw: 354.67657470703125
+  pitch: 9.469244956970215
+  world-name: ''
+afk: false
+ip-address: 92.188.148.82
+last-account-name: Bol2soupe
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

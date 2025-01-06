@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.118.36.255
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1659115113739
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1659116156033
+  login: 1659113166618
+money: '0'
+last-account-name: SFX_scepti
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -4929.813310322091
+  y: 78.0
+  z: -157.01249998807907
+  yaw: 158.25372314453125
+  pitch: 28.048961639404297
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 100.52842921416847
+  y: 63.0
+  z: -44.371846880290626
+  yaw: -73.53890991210938
+  pitch: 37.72270202636719

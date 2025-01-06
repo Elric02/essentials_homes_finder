@@ -1,0 +1,63 @@
+timestamps:
+  login: 1619370588052
+  lastteleport: 1619371859454
+  logout: 1619374173112
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1001.6286439021918
+  y: 48.0
+  z: 2860.1782567052633
+  yaw: -177.6932373046875
+  pitch: 7.541088104248047
+  world-name: ''
+money: '0'
+homes:
+  futurbase:
+    world: world
+    x: 1009.70159951099
+    y: 78.0
+    z: 2890.4968880089336
+    yaw: -356.6632995605469
+    pitch: 36.491050720214844
+    world-name: ''
+  farm:
+    world: End
+    x: 20.15160790041295
+    y: 57.0
+    z: -252.20454411790865
+    yaw: -236.47415161132812
+    pitch: 50.726322174072266
+    world-name: ''
+  temple:
+    world: Ressource
+    x: -1945.1908544636685
+    y: 61.0
+    z: -1417.6325456623567
+    yaw: 277.75927734375
+    pitch: 25.524972915649414
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2211.5380191120826
+  y: 71.0
+  z: 5547.373386153338
+  yaw: 29.3895263671875
+  pitch: 23.55083656311035
+  world-name: ''
+afk: false
+ip-address: 176.167.67.31
+last-account-name: SkyZo666
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

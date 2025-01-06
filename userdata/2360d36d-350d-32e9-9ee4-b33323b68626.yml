@@ -1,0 +1,38 @@
+timestamps:
+  login: 1611970934639
+  lastteleport: 1611972123103
+  logout: 1611972755352
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5219706617853
+  y: 64.0
+  z: 24.59015183032405
+  yaw: -171.39524841308594
+  pitch: 35.67587661743164
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 2048.7361764121915
+  y: 69.0
+  z: 1462.5008847026904
+  yaw: -82.6478271484375
+  pitch: 12.449835777282715
+  world-name: ''
+afk: false
+ip-address: 50.100.102.66
+last-account-name: vinc3urb4in
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

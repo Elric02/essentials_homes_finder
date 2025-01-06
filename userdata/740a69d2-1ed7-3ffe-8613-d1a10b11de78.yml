@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498077823730
+  lastteleport: 1498078227841
+  logout: 1498079210016
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 606.5021921800486
+  y: 64.0
+  z: -991.9261424437393
+  yaw: -145.35031127929688
+  pitch: 18.899959564208984
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 5912.31558869229
+  y: 68.0
+  z: -1918.4257532639037
+  yaw: 200.69970703125
+  pitch: 20.85000228881836
+  world-name: ''
+ip-address: 188.60.211.126
+last-account-name: Loth_brok
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

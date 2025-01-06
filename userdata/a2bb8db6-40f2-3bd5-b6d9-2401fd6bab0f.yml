@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.213.36.139
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1659738799327
+  login: 1659738766718
+money: '0'
+last-account-name: Gaimmonne
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.21989720338775
+  y: 81.0
+  z: -3111.419409150137
+  yaw: -74.69781494140625
+  pitch: 26.54993438720703
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 148.13672644467078
+  y: 67.5
+  z: 94.75343093416156
+  yaw: -163.6444549560547
+  pitch: 44.3827018737793

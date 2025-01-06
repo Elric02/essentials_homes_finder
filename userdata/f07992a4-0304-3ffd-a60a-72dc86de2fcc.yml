@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617138969820
+  lastteleport: 1617139342008
+  logout: 1617139453872
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressourcenether
+  x: 0.5
+  y: 37.0
+  z: -1.5
+  yaw: -178.04226684570312
+  pitch: 7.049990177154541
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressourcenether
+  x: -20.699999988079064
+  y: 105.0
+  z: -17.6575282175311
+  yaw: -123.742919921875
+  pitch: -5.550028324127197
+  world-name: ''
+ip-address: 160.176.84.233
+last-account-name: bekismail
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

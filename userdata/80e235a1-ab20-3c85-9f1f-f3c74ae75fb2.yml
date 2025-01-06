@@ -1,0 +1,63 @@
+timestamps:
+  login: 1568966753806
+  lastteleport: 1568974877516
+  logout: 1568974990357
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: 89.9665810889046
+  y: 39.0
+  z: 57.17164299669146
+  yaw: -223.26715087890625
+  pitch: 3.900028705596924
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: End
+  x: 4.891581208899213
+  y: 64.0
+  z: 27.141861149121983
+  yaw: -114.36813354492188
+  pitch: 18.59998893737793
+  world-name: ''
+homes:
+  set:
+    world: world
+    x: -3176.2049674387135
+    y: 63.0
+    z: -2145.7383175350765
+    yaw: -251.85003662109375
+    pitch: 18.599992752075195
+    world-name: ''
+  res:
+    world: world
+    x: 5630.523336268434
+    y: 73.1875
+    z: -2590.2721119033995
+    yaw: -176.38381958007812
+    pitch: 3.1499669551849365
+    world-name: ''
+  b:
+    world: world
+    x: -2562.340881933527
+    y: 91.0
+    z: -1090.6389728206
+    yaw: -183.44857788085938
+    pitch: 47.250022888183594
+    world-name: ''
+ip-address: 83.197.167.250
+last-account-name: fireduck
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

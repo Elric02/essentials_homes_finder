@@ -1,0 +1,55 @@
+timestamps:
+  login: 1634142408623
+  logout: 1634142587552
+  lastteleport: 1634142482298
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 233.32081034365257
+  y: 46.0
+  z: -3288.362730942991
+  yaw: 110.86814880371094
+  pitch: 27.78779411315918
+  world-name: world
+money: '0'
+logoutlocation:
+  world: b7fb2600-9a6b-4455-aa1e-a8df500c3eeb
+  x: 470.52271961014924
+  y: 103.0
+  z: 1045.632297723049
+  yaw: -81.89013671875
+  pitch: 33.029354095458984
+  world-name: Donjon
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 233.2918504553069
+    y: 46.0
+    z: -3291.111395231993
+    yaw: -1.498809814453125
+    pitch: 49.80000686645508
+    world-name: world
+  shop:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1485.6095500169633
+    y: 71.0
+    z: -2202.238877616791
+    yaw: -54.4014892578125
+    pitch: 71.7511978149414
+    world-name: world
+afk: false
+ip-address: 92.184.118.39
+last-account-name: Mycrafitix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

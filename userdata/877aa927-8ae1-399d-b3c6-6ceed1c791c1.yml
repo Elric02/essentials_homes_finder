@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474135073330
+  logout: 1474135420358
+  lastteleport: 1474135331237
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 118.62840274061966
+  y: 63.0
+  z: 30.329965603528763
+  yaw: -1.798095703125
+  pitch: 25.199987411499023
+  world-name: ''
+logoutlocation:
+  world: Ressources
+  x: 128.71698634221946
+  y: 64.0
+  z: 382.8828356122289
+  yaw: 167.92196655273438
+  pitch: 31.977609634399414
+  world-name: ''
+ip-address: 90.40.16.133
+last-account-name: Hydra
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

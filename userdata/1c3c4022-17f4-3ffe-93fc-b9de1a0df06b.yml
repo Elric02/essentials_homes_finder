@@ -1,0 +1,47 @@
+timestamps:
+  login: 1586024715146
+  logout: 1586030304298
+  lastteleport: 1586029725887
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -182.7208251953125
+  pitch: 1.3786695003509521
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -175.97096252441406
+  pitch: 21.178674697875977
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 7.063296778665612
+    y: 58.0
+    z: -2299.3233278579632
+    yaw: 250.34178161621094
+    pitch: 21.300039291381836
+    world-name: ''
+afk: false
+ip-address: 109.29.170.219
+last-account-name: juliooooo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

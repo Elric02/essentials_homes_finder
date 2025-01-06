@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609332645543
+  logout: 1609332810964
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 125.86734070451885
+  y: 66.0
+  z: -141.811379925986
+  yaw: -257.046630859375
+  pitch: 7.625882148742676
+  world-name: ''
+money: '0'
+ip-address: 41.109.49.209
+last-account-name: aroua
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

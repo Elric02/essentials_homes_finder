@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469173573539
+  logout: 1469173664056
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 140.11596797232215
+  y: 63.0
+  z: -40.97634188998691
+  yaw: -289.328857421875
+  pitch: 14.119270324707031
+  world-name: ''
+ip-address: 92.144.134.202
+last-account-name: atlantical
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

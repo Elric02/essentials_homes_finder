@@ -1,0 +1,38 @@
+timestamps:
+  login: 1501712139324
+  lastteleport: 1501712165683
+  logout: 1501712171072
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.12538143776717
+  y: 64.0
+  z: 24.302401737930996
+  yaw: 180.10275268554688
+  pitch: 14.947406768798828
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.2568277264756
+  y: 64.0
+  z: 18.92018923128612
+  yaw: -151.4109649658203
+  pitch: 8.424514770507812
+  world-name: ''
+ip-address: 82.225.127.222
+last-account-name: LuniqueNeoz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

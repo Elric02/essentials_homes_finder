@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477059936595
+  logout: 1477060261538
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2088.8238101330376
+  y: 70.0
+  z: -6473.372731883886
+  yaw: -335.7003173828125
+  pitch: 20.400009155273438
+  world-name: ''
+ip-address: 92.151.143.173
+last-account-name: LadyPimky
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

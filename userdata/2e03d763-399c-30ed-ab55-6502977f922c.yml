@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498750088935
+  logout: 1498750100500
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -516.1204191131588
+  y: 63.0
+  z: 2613.6735828714736
+  yaw: -161.06520080566406
+  pitch: 1.5167162418365479
+  world-name: ''
+ip-address: 82.248.182.116
+last-account-name: JeShitPas
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

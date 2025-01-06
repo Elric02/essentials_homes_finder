@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508997618869
+  lastteleport: 1508953427521
+  logout: 1508997680181
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -55.020438941264715
+  y: 67.0
+  z: 262.7751060092131
+  yaw: -279.81787109375
+  pitch: -5.000326156616211
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 1846.9581472495727
+  y: 75.0
+  z: -172.39567295356323
+  yaw: 191.04446411132812
+  pitch: 40.58586120605469
+  world-name: ''
+ip-address: 193.250.200.117
+last-account-name: taz4hvn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

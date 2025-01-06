@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480264886839
+  lastteleport: 1480265140683
+  logout: 1480265387350
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -86.30000001192093
+  y: 36.0
+  z: 16.366006954261657
+  yaw: -79.41317749023438
+  pitch: -17.549989700317383
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -94.30000001192091
+  y: 30.0
+  z: 16.420034136631553
+  yaw: -122.46072387695312
+  pitch: 62.849979400634766
+  world-name: ''
+ip-address: 88.165.230.93
+last-account-name: didi92130
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

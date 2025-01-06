@@ -1,0 +1,55 @@
+timestamps:
+  login: 1558265643372
+  lastteleport: 1558262505657
+  logout: 1558265978900
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1509.5734264264383
+  y: 72.0
+  z: -2172.496260386083
+  yaw: -204.3726806640625
+  pitch: 22.635955810546875
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Nether
+    x: -278.9267612461024
+    y: 46.0
+    z: 146.03209590664235
+    yaw: 249.5587158203125
+    pitch: 14.849924087524414
+    world-name: ''
+  base:
+    world: world
+    x: 3147.663282268081
+    y: 99.0
+    z: -3956.624382056033
+    yaw: -205.42922973632812
+    pitch: 26.100034713745117
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 6472.107636432437
+  y: 68.0
+  z: -848.7871343523292
+  yaw: 119.9647216796875
+  pitch: 13.950000762939453
+  world-name: ''
+ip-address: 86.221.70.212
+last-account-name: DiukeNico
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

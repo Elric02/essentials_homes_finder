@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476641518402
+  logout: 1476641544529
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.74373037043438
+  y: 63.0
+  z: 47.88868930506511
+  yaw: -302.8974304199219
+  pitch: -9.952598571777344
+  world-name: ''
+ip-address: 89.81.104.249
+last-account-name: D4M8GaMeRz13x
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1510867023126
+  lastteleport: 1510866118167
+  logout: 1510867060212
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5766.310102361647
+  y: 48.0
+  z: -1572.9525308805232
+  yaw: -256.12640380859375
+  pitch: 15.000011444091797
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5685.341104871472
+  y: 64.0
+  z: -1519.589513899
+  yaw: 246.52734375
+  pitch: 25.650066375732422
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -5697.607041478242
+    y: 135.0
+    z: -948.4883651481671
+    yaw: -71.33766174316406
+    pitch: 7.499960899353027
+    world-name: ''
+afk: false
+ip-address: 31.37.49.29
+last-account-name: KalistaKush
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

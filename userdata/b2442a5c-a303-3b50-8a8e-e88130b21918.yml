@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609175342287
+  logout: 1609175398788
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.18532321082137
+  y: 67.0
+  z: 102.77933183288506
+  yaw: -128.00314331054688
+  pitch: 22.140644073486328
+  world-name: ''
+ip-address: 94.238.8.96
+last-account-name: vincenzo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

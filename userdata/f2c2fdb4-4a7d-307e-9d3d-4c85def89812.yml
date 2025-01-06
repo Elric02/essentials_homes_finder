@@ -1,0 +1,63 @@
+timestamps:
+  login: 1475063800021
+  lastteleport: 1475065806793
+  logout: 1475068165916
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3289.0
+  y: 68.0
+  z: -1973.0
+  yaw: -195.0
+  pitch: 14.999999046325684
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 4910.30531653557
+  y: 68.0
+  z: 1247.8213110437234
+  yaw: -252.305419921875
+  pitch: 31.79999542236328
+  world-name: ''
+homes:
+  mouton:
+    world: world
+    x: 818.4158378747313
+    y: 64.0
+    z: -2362.186971146257
+    yaw: -154.6497802734375
+    pitch: 45.149986267089844
+    world-name: ''
+  cochon:
+    world: world
+    x: -368.21834610566134
+    y: 72.0
+    z: -3724.9468636037614
+    yaw: -128.85000610351562
+    pitch: 19.349998474121094
+    world-name: ''
+  miss:
+    world: world
+    x: 4914.998193154736
+    y: 68.0
+    z: 1235.011815102758
+    yaw: 203.2473602294922
+    pitch: 6.749974727630615
+    world-name: ''
+jailed: false
+ip-address: 109.223.35.84
+last-account-name: aquamen
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

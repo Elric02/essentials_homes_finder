@@ -1,0 +1,38 @@
+timestamps:
+  login: 1630286157358
+  logout: 1630286186452
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.0821017694637
+  y: 65.5
+  z: 98.98901537654572
+  yaw: 62.647071838378906
+  pitch: 13.890674591064453
+  world-name: ''
+ip-address: 109.133.207.95
+last-account-name: Mazunata
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

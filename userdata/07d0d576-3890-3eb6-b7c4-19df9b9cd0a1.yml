@@ -1,0 +1,38 @@
+timestamps:
+  login: 1512821725213
+  logout: 1512822127349
+  lastteleport: 1512821998638
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1460.9417937848236
+  y: 68.0
+  z: -4778.613176747205
+  yaw: -348.1734619140625
+  pitch: 2.0650722980499268
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 810.5876516822087
+  y: 58.0
+  z: 6011.1396643203825
+  yaw: -270.3288269042969
+  pitch: 24.962162017822266
+  world-name: ''
+ip-address: 109.214.170.53
+last-account-name: Max87
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1534944456944
+  logout: 1534944478377
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 120.268807079161
+  y: 63.0
+  z: 19.24500132982415
+  yaw: -87.35295867919922
+  pitch: 15.24065113067627
+  world-name: ''
+ip-address: 158.69.220.249
+last-account-name: JetEZEn2_2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

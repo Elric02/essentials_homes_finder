@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467325184316
+  logout: 1467325811211
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.15707182438598
+  y: 27.0
+  z: 20.276303968815224
+  yaw: 264.0038757324219
+  pitch: -4.425807476043701
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -257.8573942690483
+  y: 68.0
+  z: 144.67028053214528
+  yaw: 263.70263671875
+  pitch: 4.724331378936768
+  world-name: ''
+ip-address: 90.22.123.13
+last-account-name: DarkFast76
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

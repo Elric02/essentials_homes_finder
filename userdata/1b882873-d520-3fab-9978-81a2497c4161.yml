@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466769124188
+  lastteleport: 1464435701218
+  logout: 1466769151544
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 123.16956178597351
+  y: 67.0
+  z: -132.67835252647808
+  yaw: -74.09637451171875
+  pitch: 25.12424087524414
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 208.34766619399792
+  y: 69.0
+  z: -389.9137972078065
+  yaw: -180.75946044921875
+  pitch: 20.25003433227539
+  world-name: ''
+ip-address: 88.137.45.29
+last-account-name: ScarletFlower
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

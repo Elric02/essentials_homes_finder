@@ -1,0 +1,55 @@
+timestamps:
+  login: 1475421667176
+  lastteleport: 1475421969005
+  logout: 1475422345454
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 145.60788884602894
+  y: 64.0
+  z: 20.90952477478542
+  yaw: -191.614013671875
+  pitch: 28.50001335144043
+  world-name: ''
+homes:
+  fire:
+    world: world
+    x: -16.321402626298557
+    y: 66.0
+    z: 703.6119444191625
+    yaw: -73.56205749511719
+    pitch: 65.85001373291016
+    world-name: ''
+  shop:
+    world: world
+    x: -583.8388716253053
+    y: 68.0
+    z: -782.8433588802689
+    yaw: -77.90322875976562
+    pitch: 34.959957122802734
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -21.06030467766738
+  y: 65.0
+  z: 703.9701914127543
+  yaw: -69.06109619140625
+  pitch: 22.350004196166992
+  world-name: ''
+ip-address: 109.223.170.195
+last-account-name: fire
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

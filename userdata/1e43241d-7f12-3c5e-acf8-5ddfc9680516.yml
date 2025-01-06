@@ -1,0 +1,47 @@
+timestamps:
+  login: 1475249636331
+  lastteleport: 1475251086621
+  logout: 1475251194254
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 27.316874782113175
+  y: 63.09375
+  z: -401.0415407679411
+  yaw: -241.35003662109375
+  pitch: 30.59995460510254
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6456.876023722768
+  y: 64.0
+  z: -2371.514059372581
+  yaw: -257.70538330078125
+  pitch: 89.8499984741211
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6453.850441307328
+    y: 64.0
+    z: -2371.4329538390602
+    yaw: -276.005126953125
+    pitch: 39.60001754760742
+    world-name: ''
+ip-address: 176.149.220.98
+last-account-name: siphano17
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

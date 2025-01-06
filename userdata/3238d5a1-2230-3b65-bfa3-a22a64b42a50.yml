@@ -1,0 +1,47 @@
+timestamps:
+  login: 1610814111339
+  lastteleport: 1610813738185
+  logout: 1610815158895
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.923461087891
+  y: 64.0
+  z: 24.120869760939215
+  yaw: -65.72537994384766
+  pitch: 24.214570999145508
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.1137627559431
+  y: 64.0
+  z: 20.03279498460064
+  yaw: -250.69976806640625
+  pitch: 14.078365325927734
+  world-name: ''
+money: '0'
+homes:
+  s:
+    world: world
+    x: -1676.5346082809895
+    y: 53.0
+    z: -5119.097079592381
+    yaw: -0.97607421875
+    pitch: -0.9840437173843384
+    world-name: ''
+ip-address: 176.185.20.72
+last-account-name: Typhoon2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

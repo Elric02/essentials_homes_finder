@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.190.168.113
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1639342483432
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1639342952519
+  login: 1639338855307
+money: '0'
+last-account-name: neskikhihi
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 151.87291405266967
+  y: 63.0
+  z: 43.60602801891177
+  yaw: -314.2897644042969
+  pitch: -0.5217790007591248
+homes:
+  home:
+    world: 86d1d27f-93df-4bd4-8f6a-80e1ce66b3ad
+    world-name: Ressource
+    x: 172.2831402733358
+    y: 79.0
+    z: 9.699999988079066
+    yaw: -184.3896484375
+    pitch: -13.650053977966309
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1468.424343668804
+  y: 74.0
+  z: -2453.9680576407395
+  yaw: -203.02752685546875
+  pitch: 51.58583450317383

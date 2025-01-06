@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511290051375
+  lastteleport: 1511290096987
+  logout: 1511290481216
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -246.9474639892578
+  pitch: 66.44999694824219
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 1930.300000011921
+  y: 30.0
+  z: 4796.699999988079
+  yaw: 111.150634765625
+  pitch: 90.0
+  world-name: ''
+ip-address: 88.180.16.200
+last-account-name: charles6
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

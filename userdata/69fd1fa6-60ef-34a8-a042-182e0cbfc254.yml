@@ -1,0 +1,63 @@
+timestamps:
+  login: 1503589350545
+  lastteleport: 1503589395438
+  logout: 1503590280195
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 718.6999999880791
+  y: 4.0
+  z: -1282.300000011921
+  yaw: 137.80581665039062
+  pitch: 2.549983501434326
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: Event
+  x: 718.1384946108898
+  y: 4.0
+  z: -1291.735290062232
+  yaw: 123.46685791015625
+  pitch: 0.1499890387058258
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4324.949202099799
+    y: 55.0
+    z: 4386.267835429524
+    yaw: -172.585693359375
+    pitch: 19.499893188476562
+    world-name: ''
+  arthur:
+    world: world
+    x: -4191.689075879193
+    y: 52.0
+    z: 3807.6400288767954
+    yaw: -341.63543701171875
+    pitch: 10.500005722045898
+    world-name: ''
+  nether:
+    world: world_nether
+    x: -4787.300000011921
+    y: 71.0
+    z: 6276.699771910043
+    yaw: 241.938232421875
+    pitch: 43.949951171875
+    world-name: ''
+ip-address: 90.45.184.33
+last-account-name: Lepgmdu100
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

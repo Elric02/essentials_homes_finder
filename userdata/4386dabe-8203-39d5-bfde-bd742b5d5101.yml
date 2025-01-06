@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.241.176.211
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1638097472964
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1638097489563
+  login: 1638097415603
+money: '0'
+last-account-name: Wizy_BaanzYT
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 143.70858084390213
+  y: 62.0
+  z: 69.61426832744984
+  yaw: -173.60324096679688
+  pitch: 13.890545845031738
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 150.61972811592815
+  y: 63.0
+  z: 36.57942208482541
+  yaw: 24.861236572265625
+  pitch: 23.328413009643555

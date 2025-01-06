@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.123.52.200
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1640715636486
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1640715783887
+  login: 1640714932047
+money: '0'
+last-account-name: lysuii
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -6367.497601261661
+  y: 67.43152384527073
+  z: 6027.529866369885
+  yaw: 69.26123046875
+  pitch: 13.87844181060791
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 5214.71677845037
+  y: 71.0
+  z: -7092.066992519763
+  yaw: -140.17947387695312
+  pitch: 26.760486602783203

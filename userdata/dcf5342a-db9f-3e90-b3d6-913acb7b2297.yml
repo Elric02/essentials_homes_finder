@@ -1,0 +1,38 @@
+timestamps:
+  login: 1620402611038
+  lastteleport: 1619289319664
+  logout: 1620402657483
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.93931371312095
+  y: 63.0
+  z: 41.41965941707339
+  yaw: -135.93789672851562
+  pitch: 8.420157432556152
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 305.6730369501728
+  y: 71.0
+  z: -696.7877387029409
+  yaw: -64.30543518066406
+  pitch: 15.055622100830078
+  world-name: ''
+ip-address: 88.163.253.145
+last-account-name: Firestar2065
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

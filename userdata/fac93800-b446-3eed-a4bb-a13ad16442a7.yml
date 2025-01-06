@@ -1,0 +1,63 @@
+timestamps:
+  login: 1596236050851
+  lastteleport: 1594472972640
+  logout: 1596236289755
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1838.699999988079
+  y: 79.0
+  z: 3208.925008447958
+  yaw: -105.55886840820312
+  pitch: -7.350152492523193
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1495.4672250583435
+  y: 141.0
+  z: 3448.0917209712798
+  yaw: -95.6642074584961
+  pitch: 16.80008888244629
+  world-name: ''
+money: '0'
+homes:
+  t2o_raya:
+    world: world
+    x: 4076.9089634317743
+    y: 72.0
+    z: -1797.8630595862858
+    yaw: 267.0399169921875
+    pitch: 14.211214065551758
+    world-name: ''
+  base:
+    world: world
+    x: 1493.0742633529635
+    y: 140.0
+    z: 3449.6905177893022
+    yaw: 268.0885925292969
+    pitch: 85.94995880126953
+    world-name: ''
+  mesatemp:
+    world: Ressource
+    x: 2796.869116759482
+    y: 70.0
+    z: -2198.8880420323817
+    yaw: -150.30001831054688
+    pitch: 64.05016326904297
+    world-name: ''
+afk: false
+ip-address: 93.158.35.12
+last-account-name: Xyte_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

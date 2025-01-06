@@ -1,0 +1,38 @@
+timestamps:
+  login: 1584805995130
+  lastteleport: 1584809230370
+  logout: 1584809265821
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.50451975378903
+  y: 64.0
+  z: 20.62298999797636
+  yaw: -177.9207763671875
+  pitch: 1.9786020517349243
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.84186532869134
+  y: 64.0
+  z: 23.680336978684597
+  yaw: -358.2165222167969
+  pitch: 15.478675842285156
+  world-name: ''
+ip-address: 62.203.7.179
+last-account-name: lucchl
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

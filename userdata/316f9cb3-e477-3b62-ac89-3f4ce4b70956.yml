@@ -1,0 +1,47 @@
+timestamps:
+  login: 1479314360180
+  lastteleport: 1472121180908
+  logout: 1479314819774
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -105.78923435721242
+  y: 64.0
+  z: 350.0910608663869
+  yaw: 311.4896545410156
+  pitch: 14.318968772888184
+  world-name: ''
+homes:
+  maisongraviton:
+    world: world
+    x: -1021.8273751807354
+    y: 69.0
+    z: 1846.6972151659777
+    yaw: 103.08287048339844
+    pitch: 16.050065994262695
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1023.1219688873314
+  y: 69.0
+  z: 1833.8240083469236
+  yaw: 180.18638610839844
+  pitch: -7.349897861480713
+  world-name: ''
+afk: false
+money: '0'
+ip-address: 90.107.104.239
+last-account-name: Nurbel45
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

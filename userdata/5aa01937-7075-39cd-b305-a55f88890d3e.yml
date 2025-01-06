@@ -1,0 +1,47 @@
+timestamps:
+  login: 1515059322735
+  lastteleport: 1515059393506
+  logout: 1515059561056
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1220.5777552814443
+  y: 65.0
+  z: 3948.300000011921
+  yaw: -258.4391784667969
+  pitch: -88.41398620605469
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -1221.4190874976075
+    y: 73.0625
+    z: 3944.431120638267
+    yaw: -270.5682373046875
+    pitch: 10.94945240020752
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1406.5305052629633
+  y: 60.0
+  z: 4017.605412643229
+  yaw: -198.05104064941406
+  pitch: 90.0
+  world-name: ''
+ip-address: 83.115.28.39
+last-account-name: PIWELCRAFT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

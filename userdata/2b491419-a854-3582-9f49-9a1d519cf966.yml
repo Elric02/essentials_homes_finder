@@ -1,0 +1,38 @@
+timestamps:
+  login: 1577126689530
+  lastteleport: 1577126699984
+  logout: 1577126759358
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 161.9719814679763
+  y: 65.5
+  z: 98.89775885790439
+  yaw: -58.703216552734375
+  pitch: 29.490665435791016
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 7.372676837220939
+  y: 183.23734614277035
+  z: -50.93474826728733
+  yaw: 168.57933044433594
+  pitch: 60.89998245239258
+  world-name: ''
+ip-address: 86.241.56.24
+last-account-name: Dalluk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

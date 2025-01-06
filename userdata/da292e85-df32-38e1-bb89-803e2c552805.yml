@@ -1,0 +1,86 @@
+timestamps:
+  login: 1674232860486
+  lastteleport: 1673709732997
+  logout: 1674233423705
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  kits:
+    stationaute: 1670319476643
+lastlocation:
+  world: d097c14e-8288-4547-88dc-d9590a602c7b
+  x: -3403.896073913347
+  y: 77.0625
+  z: 2671.7446303132347
+  yaw: -11.0299072265625
+  pitch: -0.4505537152290344
+  world-name: Nether
+godmode: false
+afk: false
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: 2321.328658648726
+  y: 64.0
+  z: -575.5843913241226
+  yaw: -155.39337158203125
+  pitch: 27.90052032470703
+  world-name: Althium
+powertools:
+  '401':
+  - gamemode 1
+  '292':
+  - fireball
+socialspy: false
+money: '600.0'
+ip-address: 91.163.22.91
+last-account-name: DeathmelodyRAD
+teleportenabled: true
+teleportauto: false
+muted: false
+jailed: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+homes:
+  a:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 889.4347595438057
+    y: -42.0
+    z: -4282.534394506286
+    yaw: -0.4578857421875
+    pitch: 49.53744888305664
+  mine:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 890.0233667098203
+    y: -50.0
+    z: -4274.6781448085385
+    yaw: 97.04379272460938
+    pitch: 17.437904357910156
+  mine2:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 913.5207647788538
+    y: -50.0
+    z: -2668.699999988079
+    yaw: 73.02799987792969
+    pitch: 17.1005802154541
+  free:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 2311.107508310586
+    y: 66.0
+    z: -576.3207245258147
+    yaw: -152.994140625
+    pitch: 26.100595474243164
+  crystal:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 918.2704852675348
+    y: 27.0
+    z: -2664.970218684082
+    yaw: -6.4542236328125
+    pitch: 4.799902439117432

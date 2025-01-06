@@ -1,0 +1,47 @@
+timestamps:
+  login: 1481215646413
+  lastteleport: 1481213752649
+  logout: 1481216346015
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1904.1343593824197
+  y: 65.0
+  z: 6769.699999988079
+  yaw: -75.82046508789062
+  pitch: 1.064585566520691
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1925.1597590405138
+  y: 69.0
+  z: 6756.984851156003
+  yaw: -214.35089111328125
+  pitch: 14.399707794189453
+  world-name: ''
+muted: true
+afk: false
+homes:
+  home:
+    world: world
+    x: 1926.7614979871269
+    y: 69.0
+    z: 6756.690787915001
+    yaw: 313.9494323730469
+    pitch: 20.69973373413086
+    world-name: ''
+ip-address: 82.241.207.249
+last-account-name: adil
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

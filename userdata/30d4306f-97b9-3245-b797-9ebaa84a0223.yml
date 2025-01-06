@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475693600199
+  lastteleport: 1475693910562
+  logout: 1475694533922
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4826.825764454847
+  y: 67.0
+  z: -4358.462321561804
+  yaw: -269.82708740234375
+  pitch: 15.318571090698242
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4251.300000011921
+  y: 66.0
+  z: -3562.7186204057125
+  yaw: -33.502777099609375
+  pitch: 13.303627014160156
+  world-name: ''
+ip-address: 86.111.137.46
+last-account-name: Limozia
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

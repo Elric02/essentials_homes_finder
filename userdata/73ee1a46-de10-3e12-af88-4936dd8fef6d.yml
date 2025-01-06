@@ -1,0 +1,38 @@
+timestamps:
+  login: 1575376378133
+  logout: 1575376393189
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 148.839006604563
+  y: 61.016994846333084
+  z: 91.04273661509549
+  yaw: 135.00765991210938
+  pitch: 3.0408732891082764
+  world-name: ''
+ip-address: 83.153.31.205
+last-account-name: deadkilleur59540
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

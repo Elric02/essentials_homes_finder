@@ -1,0 +1,68 @@
+timestamps:
+  login: 1591022373970
+  lastteleport: 1591022413230
+  logout: 1591022908585
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 136.6437150083836
+  y: 63.0
+  z: 18.444799286298338
+  yaw: -272.6882629394531
+  pitch: 18.42978286743164
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 3375.467811902319
+    y: 67.0
+    z: -3021.362628254036
+    yaw: -238.65264892578125
+    pitch: 39.449867248535156
+    world-name: ''
+  b:
+    world: world
+    x: -5314.932108831559
+    y: 64.0
+    z: 1429.4938573318814
+    yaw: 125.58346557617188
+    pitch: 6.240198612213135
+    world-name: ''
+  pandat:
+    world: world
+    x: 3376.218532412275
+    y: 48.0
+    z: -3020.016766538832
+    yaw: 44.50896453857422
+    pitch: 19.512393951416016
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3353.9289757087645
+  y: 68.0
+  z: -3066.699999988079
+  yaw: 178.138916015625
+  pitch: 28.29391098022461
+  world-name: ''
+afk: false
+ip-address: 80.118.78.88
+last-account-name: Naruto_7_10
+mail:
+- legacy: true
+  read: false
+  message: §e[§relriclespiques§e] §rcoucou, j'ai retrouvé un stuff t'appartenant dans
+    un mineshaft en ressource. je l'ai mis dans un coffre en 1116 32 -1843 (map ressources)
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

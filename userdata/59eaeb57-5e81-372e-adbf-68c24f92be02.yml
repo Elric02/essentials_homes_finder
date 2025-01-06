@@ -1,0 +1,38 @@
+timestamps:
+  login: 1495550776114
+  lastteleport: 1495550863551
+  logout: 1495550883932
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2248.37215411747
+  y: 66.0
+  z: 2929.5229242333326
+  yaw: -297.6152648925781
+  pitch: 90.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+ip-address: 88.161.83.35
+last-account-name: Driss2003
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

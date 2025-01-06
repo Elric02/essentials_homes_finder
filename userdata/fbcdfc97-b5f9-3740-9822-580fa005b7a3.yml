@@ -1,0 +1,38 @@
+timestamps:
+  login: 1589843817076
+  logout: 1589844513158
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.79716971967227
+  y: 63.0
+  z: 8.047224580976193
+  yaw: -197.72164916992188
+  pitch: 42.02867889404297
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+ip-address: 81.245.168.91
+last-account-name: playeur242
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

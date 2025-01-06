@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.112.134.222
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1683055521879
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683055573540
+  login: 1683055452149
+money: '0'
+last-account-name: Superjaja29
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -386.9369760168141
+  y: 60.0
+  z: 108.43015230302852
+  yaw: 108.05999755859375
+  pitch: 30.298980712890625
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 273.6134175966921
+  y: 33.0
+  z: 446.9409203680957
+  yaw: -98.24998474121094
+  pitch: 13.050076484680176

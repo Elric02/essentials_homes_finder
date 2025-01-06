@@ -1,0 +1,55 @@
+timestamps:
+  login: 1616343269628
+  lastteleport: 1616344173737
+  logout: 1616344233734
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4724.634927862159
+  y: 70.0
+  z: -3736.4734457213412
+  yaw: -269.9890441894531
+  pitch: 24.149900436401367
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4609.759050377025
+  y: 64.0
+  z: -3703.1803811504806
+  yaw: -142.7996063232422
+  pitch: 29.699928283691406
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 2606.241993798868
+    y: 70.0
+    z: -4624.824587520255
+    yaw: 217.4966583251953
+    pitch: 22.276824951171875
+    world-name: ''
+  bp:
+    world: world
+    x: 4607.2326355935775
+    y: 64.0
+    z: -3697.457625641561
+    yaw: -111.74940490722656
+    pitch: 28.64997673034668
+    world-name: ''
+afk: false
+ip-address: 86.200.252.30
+last-account-name: InGen
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

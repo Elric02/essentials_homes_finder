@@ -1,0 +1,38 @@
+timestamps:
+  login: 1535035689612
+  logout: 1535035890533
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.30000001192093
+  y: 66.0
+  z: 101.77730796517754
+  yaw: 88.68801879882812
+  pitch: 28.80693817138672
+  world-name: ''
+ip-address: 158.69.220.249
+last-account-name: VISA654
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

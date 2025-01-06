@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488219957695
+  logout: 1488222935157
+  lastteleport: 1488220244771
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4834.569405453565
+  y: 41.0
+  z: 3389.3921237402665
+  yaw: -66.5165786743164
+  pitch: -15.599994659423828
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4958.300000011921
+  y: 78.0
+  z: 3376.699999988079
+  yaw: 182.1864013671875
+  pitch: 73.34998321533203
+  world-name: ''
+afk: false
+money: '0'
+ip-address: 78.126.181.199
+last-account-name: Mrwolf45
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

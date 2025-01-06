@@ -1,0 +1,38 @@
+timestamps:
+  login: 1569413204779
+  logout: 1569413334405
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.9110411754285
+  y: 64.0
+  z: 120.69999998807907
+  yaw: 4.746429443359375
+  pitch: 14.34066104888916
+  world-name: ''
+ip-address: 86.200.70.7
+last-account-name: lolman123
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

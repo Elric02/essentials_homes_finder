@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467043438617
+  lastteleport: 1467043660048
+  logout: 1467043731698
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 123.59669722980375
+  y: 63.0
+  z: 21.59883850368769
+  yaw: -113.47698211669922
+  pitch: -13.61207389831543
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -0.30000001192093056
+  y: 60.0
+  z: 29.234641191157273
+  yaw: -43.934539794921875
+  pitch: 5.17501974105835
+  world-name: ''
+ip-address: 90.110.139.35
+last-account-name: saints59113
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

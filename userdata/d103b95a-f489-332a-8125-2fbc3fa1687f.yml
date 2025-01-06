@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485619052589
+  lastteleport: 1485619099688
+  logout: 1485619102890
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.22635870602784
+  y: 63.0
+  z: 47.831976484024224
+  yaw: -123.94686889648438
+  pitch: 2.7974092960357666
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.49519838493143
+  y: 64.0
+  z: 20.7542547086631
+  yaw: -180.0609588623047
+  pitch: 4.524514675140381
+  world-name: ''
+ip-address: 85.68.154.129
+last-account-name: ImTeckZaa_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1523296020481
+  lastteleport: 1523296132134
+  logout: 1523296189998
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 222.56978331502506
+  y: 68.0
+  z: -111.69367816278982
+  yaw: -352.11676025390625
+  pitch: 10.313453674316406
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4291.464290165122
+  y: 63.0
+  z: -1520.089186961557
+  yaw: -312.7252502441406
+  pitch: 24.312358856201172
+  world-name: ''
+homes:
+  merlin:
+    world: world
+    x: 63.086435302440435
+    y: 94.0
+    z: 59.359008551677896
+    yaw: -179.820068359375
+    pitch: 19.8197078704834
+    world-name: ''
+  base:
+    world: world
+    x: -4293.497271714588
+    y: 63.0
+    z: -1517.8803797119272
+    yaw: -90.12594604492188
+    pitch: 6.005993843078613
+    world-name: ''
+afk: false
+ip-address: 86.243.152.216
+last-account-name: ByRRog
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

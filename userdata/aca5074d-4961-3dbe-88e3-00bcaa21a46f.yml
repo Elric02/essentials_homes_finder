@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.162.144.85
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1699551280550
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699551369653
+  login: 1699551157575
+money: '0'
+last-account-name: bahia
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 397.9708573302849
+  y: 81.0
+  z: -3109.1837434272966
+  yaw: 139.50186157226562
+  pitch: 10.34997272491455
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 158.3641062810766
+  y: 63.0
+  z: 32.10617353549913
+  yaw: 38.86376953125
+  pitch: 12.600003242492676

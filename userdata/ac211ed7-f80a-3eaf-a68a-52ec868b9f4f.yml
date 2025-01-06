@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615641229623
+  lastteleport: 1615641587316
+  logout: 1615641639892
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.9899851311022
+  y: 63.0
+  z: 40.065928660181264
+  yaw: -4.474305152893066
+  pitch: 12.158315658569336
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -3.9078714406507613
+  y: 60.39705683180972
+  z: -51.85069166654591
+  yaw: -207.77479553222656
+  pitch: -3.2210848331451416
+  world-name: ''
+ip-address: 88.124.1.77
+last-account-name: Hibou360
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

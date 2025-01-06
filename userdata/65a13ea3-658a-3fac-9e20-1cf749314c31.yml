@@ -1,0 +1,38 @@
+timestamps:
+  login: 1564312313078
+  logout: 1564312370608
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.58719636081707
+  y: 66.0
+  z: 95.8867559130902
+  yaw: 159.69717407226562
+  pitch: 29.49065589904785
+  world-name: ''
+ip-address: 105.99.61.92
+last-account-name: snoopisteart7
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1564765710740
+  logout: 1564766897014
+  lastteleport: 1564766406008
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+logoutlocation:
+  world: world
+  x: 1930.645943560635
+  y: 71.0
+  z: 1288.6877570040847
+  yaw: 266.9998779296875
+  pitch: 14.699982643127441
+  world-name: ''
+lastlocation:
+  world: world
+  x: -2619.759793183447
+  y: 82.0
+  z: -1182.2216827503448
+  yaw: -195.29888916015625
+  pitch: 20.250024795532227
+  world-name: ''
+money: '0'
+ip-address: 105.101.60.242
+last-account-name: Oximoz_23
+npc: true
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1578232870178
+  logout: 1578234549785
+  lastteleport: 1578234508610
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1846.136724620863
+  y: 63.0
+  z: -2299.9249499237503
+  yaw: -325.7994384765625
+  pitch: -23.10005760192871
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -1842.7049500698433
+    y: 63.0
+    z: -2301.7449492145247
+    yaw: -301.7990417480469
+    pitch: 24.449983596801758
+    world-name: ''
+  papa:
+    world: Ressource
+    x: 157364.54918735867
+    y: 13.0
+    z: 150060.19785254367
+    yaw: -11.142578125
+    pitch: 8.250024795532227
+    world-name: ''
+afk: false
+ip-address: 91.68.73.75
+last-account-name: Pillardssan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1603913368206
+  lastteleport: 1603904961201
+  logout: 1603913384323
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressourcenether
+  x: -661.4340264232724
+  y: 53.0
+  z: -138.7428148279511
+  yaw: -184.690673828125
+  pitch: -3.7100179195404053
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -317.8060611352964
+  y: 63.0
+  z: 918.3000000119209
+  yaw: -290.6672058105469
+  pitch: 8.400047302246094
+  world-name: ''
+money: '0'
+homes:
+  jungle:
+    world: Ressource
+    x: -2792.179522300222
+    y: 64.0
+    z: -3875.706337177662
+    yaw: -243.14959716796875
+    pitch: 8.850025177001953
+    world-name: ''
+  nether:
+    world: Ressourcenether
+    x: -600.0927115678624
+    y: 67.0
+    z: -190.6484085396981
+    yaw: -268.05023193359375
+    pitch: -4.050013542175293
+    world-name: ''
+  base:
+    world: world
+    x: -320.68149134500067
+    y: 63.0
+    z: 912.5021557289804
+    yaw: -25.6881103515625
+    pitch: 4.608364582061768
+    world-name: ''
+ip-address: 89.2.144.17
+last-account-name: Magic_exe
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

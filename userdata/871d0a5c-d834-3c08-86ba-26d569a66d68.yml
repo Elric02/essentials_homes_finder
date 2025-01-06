@@ -1,0 +1,55 @@
+timestamps:
+  login: 1482083445044
+  lastteleport: 1482085394598
+  logout: 1482088178329
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6040.572629673285
+  y: 71.0
+  z: 4375.066740977943
+  yaw: 358.4176025390625
+  pitch: -2.5647877919254825E-5
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 6072.769576202495
+    y: 96.0
+    z: 4388.116186204136
+    yaw: -272.6466064453125
+    pitch: 26.100034713745117
+    world-name: ''
+  coffre:
+    world: world
+    x: 6045.5215072585015
+    y: 58.0
+    z: 4398.546019717765
+    yaw: -229.74700927734375
+    pitch: 26.100034713745117
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6049.115490714162
+  y: 57.0
+  z: 4403.234107309937
+  yaw: 284.7514953613281
+  pitch: -11.700089454650879
+  world-name: ''
+afk: false
+ip-address: 90.61.152.123
+last-account-name: chaton91
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

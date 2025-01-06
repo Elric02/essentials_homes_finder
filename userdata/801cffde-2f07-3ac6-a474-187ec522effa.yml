@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519410585014
+  lastteleport: 1519411845395
+  logout: 1519411881719
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: 19.05310631450756
+  y: 108.0
+  z: 86.88501981007828
+  yaw: 253.26254272460938
+  pitch: -18.14150619506836
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2532.8410562397794
+  y: 62.0
+  z: -326.04570842270743
+  yaw: 197.70010375976562
+  pitch: -9.300008773803711
+  world-name: ''
+ip-address: 91.162.25.189
+last-account-name: lamoto
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

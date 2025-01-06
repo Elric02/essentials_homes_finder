@@ -1,0 +1,47 @@
+timestamps:
+  login: 1682931427364
+  lastteleport: 1618167818373
+  logout: 1682931445158
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2284.3107678730476
+  y: 83.0
+  z: -2759.4207117918104
+  yaw: -15.69976806640625
+  pitch: -14.300240516662598
+  world-name: ''
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -2267.9521296751045
+  y: 71.0
+  z: -2785.5439026546605
+  yaw: 2.902740478515625
+  pitch: 28.903976440429688
+  world-name: world
+afk: false
+money: '0'
+homes:
+  hugo:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2266.5328771208865
+    y: 72.0
+    z: -2762.300000011921
+    yaw: -184.9271240234375
+    pitch: 37.816123962402344
+    world-name: world
+ip-address: 91.165.173.73
+last-account-name: peyrelade
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

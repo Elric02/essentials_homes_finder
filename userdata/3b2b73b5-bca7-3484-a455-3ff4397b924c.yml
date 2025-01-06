@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586527164851
+  lastteleport: 1576357502755
+  logout: 1586527514558
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -67.5838940557353
+  y: 20.0
+  z: -340.69999998807907
+  yaw: 179.31312561035156
+  pitch: -38.25020980834961
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2738.611489500768
+  y: 76.0
+  z: -176.83542812195938
+  yaw: 86.91949462890625
+  pitch: 28.0500431060791
+  world-name: ''
+money: '0'
+ip-address: 82.252.134.118
+last-account-name: tunderx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

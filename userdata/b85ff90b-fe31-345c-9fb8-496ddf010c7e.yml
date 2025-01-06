@@ -1,0 +1,47 @@
+timestamps:
+  login: 1517592625468
+  lastteleport: 1517593039384
+  logout: 1517596986603
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -547.9106306220573
+  y: 88.0
+  z: -3400.8369739062614
+  yaw: 24.601776123046875
+  pitch: 33.900020599365234
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 157.00591187864896
+  y: 64.0
+  z: 20.80797486617122
+  yaw: -150.620849609375
+  pitch: 7.378668308258057
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -546.4627646491253
+    y: 88.0
+    z: -3401.418487014358
+    yaw: 223.95172119140625
+    pitch: 18.300010681152344
+    world-name: ''
+afk: false
+ip-address: 78.244.248.114
+last-account-name: Reah
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

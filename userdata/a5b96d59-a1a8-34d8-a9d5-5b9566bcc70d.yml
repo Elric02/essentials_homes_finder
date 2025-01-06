@@ -1,0 +1,43 @@
+timestamps:
+  login: 1487190917968
+  lastteleport: 1472550051629
+  logout: 1487191010967
+  jail: 0
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 199.13749998807907
+  y: 74.0
+  z: 18.096304663045547
+  yaw: -122.97413635253906
+  pitch: 36.63372802734375
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 188.02778884005127
+  y: 63.0
+  z: 17.768550429065975
+  yaw: 290.83551025390625
+  pitch: 7.050032615661621
+  world-name: ''
+money: '0'
+jailed: false
+afk: false
+muted: false
+ip-address: 83.205.62.86
+last-account-name: rowingswift
+mail:
+- legacy: true
+  read: false
+  message: §e[§rExidotaku§e] §rsi tu veux être unjail tu dois faire un post forum
+    expliquant ton attitude
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

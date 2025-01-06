@@ -1,0 +1,48 @@
+timestamps:
+  login: 1619105065717
+  lastteleport: 1619107119541
+  logout: 1619107140887
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -368.2033219107363
+  y: 91.0
+  z: 2190.3763373926236
+  yaw: -2.700836658477783
+  pitch: 6.150004863739014
+  world-name: ''
+nickname: Coline
+homes:
+  blah:
+    world: world
+    x: 7018.657059704307
+    y: 72.0
+    z: 2117.5962212649915
+    yaw: 107.69962310791016
+    pitch: 14.400077819824219
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 7020.6172190328825
+  y: 71.0
+  z: 2117.102665563765
+  yaw: 80.24968719482422
+  pitch: 34.8000602722168
+  world-name: ''
+ip-address: 31.32.132.243
+last-account-name: M4LL0RY
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

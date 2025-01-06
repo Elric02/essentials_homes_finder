@@ -1,0 +1,47 @@
+timestamps:
+  login: 1481905839507
+  lastteleport: 1481908768945
+  logout: 1481909036332
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2065.269587187749
+  y: 64.0
+  z: -1888.7922183146063
+  yaw: 48.1846923828125
+  pitch: 6.94702672958374
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 2065.253099695389
+    y: 64.0
+    z: -1897.1065420806035
+    yaw: 283.0543518066406
+    pitch: 16.04416275024414
+    world-name: ''
+afk: false
+logoutlocation:
+  world: Event
+  x: 718.6005825943446
+  y: 11.0
+  z: -1344.4203045325883
+  yaw: 27.54296875
+  pitch: 42.94849395751953
+  world-name: ''
+ip-address: 95.182.197.109
+last-account-name: Dorios
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

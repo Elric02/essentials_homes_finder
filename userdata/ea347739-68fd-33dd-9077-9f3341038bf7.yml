@@ -1,0 +1,38 @@
+timestamps:
+  login: 1527264470215
+  logout: 1527264526904
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.96141927226685
+  y: 63.0
+  z: 62.86429871829377
+  yaw: 190.746826171875
+  pitch: -2.7593472003936768
+  world-name: ''
+ip-address: 31.35.14.62
+last-account-name: V0U5
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1485456301637
+  logout: 1485456442374
+  lastteleport: 1485456439299
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 390.4887640193558
+  y: 56.0
+  z: -6717.023866725376
+  yaw: -98.78875732421875
+  pitch: 12.300024032592773
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 399.1459416480471
+    y: 64.0
+    z: -6714.87627827694
+    yaw: 175.128173828125
+    pitch: 35.43757629394531
+    world-name: ''
+  shop:
+    world: world
+    x: -4771.553863617373
+    y: 65.0
+    z: -337.09744656977233
+    yaw: -13.522638320922852
+    pitch: 15.899977684020996
+    world-name: ''
+  cobblestone:
+    world: ressource
+    x: 358.49308144499736
+    y: 56.0
+    z: 171.63136090568256
+    yaw: -241.35125732421875
+    pitch: 38.25
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 154.4995452515068
+  y: 64.0
+  z: 30.51093487599255
+  yaw: -155.31094360351562
+  pitch: 0.02451505698263645
+  world-name: ''
+afk: false
+ip-address: 91.179.195.205
+last-account-name: amexis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

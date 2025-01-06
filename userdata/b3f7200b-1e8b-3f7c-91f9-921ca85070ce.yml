@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 197.205.104.131
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1632402702781
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1632403385698
+  login: 1632403325771
+money: '0'
+last-account-name: enima1306
+lastlocation:
+  world: 2bca0cda-a734-4d22-87c5-e7ce78feeb1e
+  world-name: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+logoutlocation:
+  world: 2bca0cda-a734-4d22-87c5-e7ce78feeb1e
+  world-name: Ressource
+  x: 11.456340975912521
+  y: 67.0
+  z: 119.82475059175687
+  yaw: -192.60104370117188
+  pitch: 42.45000076293945

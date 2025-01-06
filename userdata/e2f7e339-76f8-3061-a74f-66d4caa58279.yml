@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.69.89.214
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724361322793
+  login: 1724361210707
+money: '0'
+last-account-name: Bluegamma56
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 156.5
+  y: 124.0
+  z: 14.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 410.1623998613979
+  y: 81.0
+  z: -3094.1546209520757
+  yaw: 162.60214233398438
+  pitch: 0.8999224305152893

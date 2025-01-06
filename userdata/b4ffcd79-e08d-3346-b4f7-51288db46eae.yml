@@ -1,0 +1,63 @@
+timestamps:
+  login: 1535534702779
+  lastteleport: 1535533794609
+  logout: 1535534724393
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1340.5270336662431
+  y: 74.0
+  z: 612.717479057052
+  yaw: -63.000732421875
+  pitch: 13.050042152404785
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4000.7787959875327
+    y: 66.0
+    z: -2353.9515644621115
+    yaw: 74.09998321533203
+    pitch: 30.600008010864258
+    world-name: ''
+  maison:
+    world: world
+    x: -2634.2834371773765
+    y: 64.0
+    z: -267.10937331824266
+    yaw: 138.748291015625
+    pitch: 46.949806213378906
+    world-name: ''
+  ressource:
+    world: Ressource
+    x: 1591.5721098576926
+    y: 91.0
+    z: -1776.462308401208
+    yaw: 349.34991455078125
+    pitch: -88.1999740600586
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2629.300000011921
+  y: 64.0
+  z: -265.23750001192093
+  yaw: -3.4517171382904053
+  pitch: 54.59980392456055
+  world-name: ''
+ip-address: 77.141.227.4
+last-account-name: The_Dark
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477486704282
+  logout: 1477486987614
+  lastteleport: 1477486459477
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 165.8802522104833
+  y: 63.875
+  z: 22.31161754281945
+  yaw: 117.85257720947266
+  pitch: 6.547389984130859
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 118.35762158689572
+  y: 63.0
+  z: 31.256775413535273
+  yaw: -147.66064453125
+  pitch: 9.474504470825195
+  world-name: ''
+afk: false
+ip-address: 82.151.1.130
+last-account-name: Tatsuya69
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

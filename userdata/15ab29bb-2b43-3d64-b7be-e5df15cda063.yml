@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484644359501
+  logout: 1484644395106
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 139.27140762968045
+  y: 63.0
+  z: 17.788382629354572
+  yaw: -227.1466827392578
+  pitch: 24.99740219116211
+  world-name: ''
+ip-address: 194.199.255.141
+last-account-name: Siqho
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472154988128
+  logout: 1472155086130
+  lastteleport: 1472155013185
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.93218154783528
+  y: 64.0
+  z: 25.177922091914482
+  yaw: 70.11201477050781
+  pitch: 5.641970157623291
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+ip-address: 82.241.160.181
+last-account-name: Thath0
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

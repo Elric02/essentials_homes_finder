@@ -1,0 +1,47 @@
+timestamps:
+  login: 1497606444601
+  lastteleport: 1497606565065
+  logout: 1497606696656
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1760.8951980900263
+  y: 66.0
+  z: -4255.445645181454
+  yaw: 82.29139709472656
+  pitch: 6.768749237060547
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 1760.8951980900263
+    y: 66.0
+    z: -4255.445645181454
+    yaw: 82.29139709472656
+    pitch: 6.768749237060547
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -48.127978789888715
+  y: 37.0
+  z: 192.30000001192093
+  yaw: -179.13568115234375
+  pitch: 42.214962005615234
+  world-name: ''
+ip-address: 109.11.43.240
+last-account-name: loaks99
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

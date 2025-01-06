@@ -1,0 +1,59 @@
+timestamps:
+  login: 1588935283583
+  logout: 1588936163898
+  lastteleport: 1588936095141
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -1628.0868570898183
+  y: 75.0
+  z: 3854.1748424914513
+  yaw: 162.302490234375
+  pitch: 36.00019454956055
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 541.6999999880791
+  y: 67.0
+  z: 1152.512499988079
+  yaw: -86.39794921875
+  pitch: 14.399880409240723
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  base:
+    world: Ressource
+    x: 553.0741832333501
+    y: 72.0
+    z: 1170.039981707187
+    yaw: 143.5521240234375
+    pitch: 18.299774169921875
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 558.3149160746938
+    y: 24.0
+    z: 1144.300000011921
+    yaw: 62.257843017578125
+    pitch: 4.649982452392578
+    world-name: ''
+ip-address: 90.54.99.192
+last-account-name: Oxyd_pvp
+mail:
+- legacy: true
+  read: false
+  message: §e[§racdc_zdnl§e] §rj'ai tous ton bois cher moi de ta maison en ressource
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1525164529347
+  logout: 1525164608124
+  lastteleport: 1520593542493
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4454.7787552719565
+  y: 73.0
+  z: -1364.2353761023578
+  yaw: -256.19989013671875
+  pitch: 4.049991607666016
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 1187.605257551901
+    y: 57.0
+    z: -6879.857168483369
+    yaw: 111.44979858398438
+    pitch: 11.850000381469727
+    world-name: ''
+  maison2:
+    world: world
+    x: -3370.309835186498
+    y: 74.0
+    z: 343.30000001192093
+    yaw: 95.397705078125
+    pitch: 22.500072479248047
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1861.0587340854145
+  y: 65.0
+  z: -7050.014742312587
+  yaw: 318.89971923828125
+  pitch: 25.499984741210938
+  world-name: ''
+afk: false
+ip-address: 91.160.142.1
+last-account-name: sStrada
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

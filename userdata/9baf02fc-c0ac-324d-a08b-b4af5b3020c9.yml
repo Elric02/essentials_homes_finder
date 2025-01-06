@@ -1,0 +1,47 @@
+timestamps:
+  login: 1517755612657
+  lastteleport: 1517757606199
+  logout: 1517759943793
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.82159681481414
+  y: 66.0
+  z: 19.960643441521828
+  yaw: -91.37089538574219
+  pitch: -7.321333408355713
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -6721.656304888492
+    y: 80.0
+    z: 4006.3561473131385
+    yaw: 64.50042724609375
+    pitch: 19.200029373168945
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 155.60087524007332
+  y: 64.0
+  z: 14.813294937509752
+  yaw: -118.67080688476562
+  pitch: 28.678667068481445
+  world-name: ''
+ip-address: 86.248.104.63
+last-account-name: spirit13007
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

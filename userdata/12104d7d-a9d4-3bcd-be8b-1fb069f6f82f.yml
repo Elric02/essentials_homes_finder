@@ -1,0 +1,38 @@
+timestamps:
+  login: 1598809467170
+  lastteleport: 1598810435385
+  logout: 1598810659423
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5598.088985865058
+  y: 84.0
+  z: -2550.47446364919
+  yaw: -150.10379028320312
+  pitch: -63.299583435058594
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5649.223584758308
+  y: 82.0
+  z: -2588.678972986877
+  yaw: 282.3768310546875
+  pitch: -10.650003433227539
+  world-name: ''
+ip-address: 90.52.215.233
+last-account-name: lulupekex
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477414970919
+  logout: 1477416138909
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 142.30407376074686
+  y: 63.0
+  z: 12.09509759919881
+  yaw: 186.09727478027344
+  pitch: 19.492706298828125
+  world-name: ''
+ip-address: 77.151.26.164
+last-account-name: bull740
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

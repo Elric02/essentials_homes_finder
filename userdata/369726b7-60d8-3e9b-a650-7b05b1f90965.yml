@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488719152568
+  lastteleport: 1488720681800
+  logout: 1488720946498
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2186.254145437952
+  y: 10.0
+  z: 4532.522361257967
+  yaw: -3.75250244140625
+  pitch: 1.0500131845474243
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.4501203612407
+  y: 64.0
+  z: 18.39726993751873
+  yaw: -202.86093139648438
+  pitch: 35.874515533447266
+  world-name: ''
+ip-address: 90.21.40.212
+last-account-name: Destroy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

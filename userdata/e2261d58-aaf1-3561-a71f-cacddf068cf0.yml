@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616272757895
+  lastteleport: 1616273006501
+  logout: 1616274052583
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.14931547693487
+  y: 63.0
+  z: 64.453948372749
+  yaw: 206.7994384765625
+  pitch: 6.090723037719727
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1906.7508341290134
+  y: 66.0
+  z: -2174.91563662069
+  yaw: -67.9580078125
+  pitch: 7.350231647491455
+  world-name: ''
+ip-address: 90.70.72.94
+last-account-name: JL_CliNext
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

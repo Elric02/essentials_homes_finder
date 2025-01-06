@@ -1,0 +1,38 @@
+timestamps:
+  login: 1497953046085
+  logout: 1497954057436
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -611.5609015243733
+  y: 66.11650136792812
+  z: -484.7574331717079
+  yaw: 34.00314712524414
+  pitch: 9.749985694885254
+  world-name: ''
+ip-address: 78.115.255.117
+last-account-name: DidileoYT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

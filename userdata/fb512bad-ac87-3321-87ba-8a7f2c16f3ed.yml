@@ -1,0 +1,63 @@
+timestamps:
+  login: 1622453681740
+  lastteleport: 1622455981200
+  logout: 1622456089015
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1478.2702407373497
+  y: 66.0
+  z: -3569.0338235743734
+  yaw: -194.5262451171875
+  pitch: 18.300111770629883
+  world-name: ''
+money: '0'
+homes:
+  end:
+    world: End
+    x: -395.46815173729004
+    y: 1.0
+    z: -1.8867494264401024
+    yaw: 60.018035888671875
+    pitch: 5.849941730499268
+    world-name: ''
+  a:
+    world: world
+    x: 1469.9249096187634
+    y: 53.0
+    z: -3605.655021514951
+    yaw: -87.57776641845703
+    pitch: 4.049938678741455
+    world-name: ''
+  z:
+    world: Ressource
+    x: 2027.8994467831662
+    y: 11.0
+    z: 2674.4309592238806
+    yaw: 265.49957275390625
+    pitch: 3.8998613357543945
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1488.8870555431713
+  y: 98.0
+  z: -3534.214382602092
+  yaw: 307.0722961425781
+  pitch: 22.050025939941406
+  world-name: ''
+afk: false
+ip-address: 90.109.73.85
+last-account-name: Streetvart
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

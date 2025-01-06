@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.184.110.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1656100409325
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1656100794745
+  login: 1656097857951
+money: '0'
+last-account-name: MedusaNox
+lastlocation:
+  world: c4aa0be1-96e4-4d26-b064-d4d2526e9bea
+  world-name: AlthiumRessource
+  x: 1485.2658888466297
+  y: 64.0
+  z: -422.7851808460719
+  yaw: -79.35113525390625
+  pitch: 7.949447154998779
+homes:
+  home:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -1544.0075123190725
+    y: 70.0
+    z: -163.2717878019615
+    yaw: 140.40274047851562
+    pitch: 22.20000648498535
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -1536.393619881597
+  y: 69.0
+  z: -169.43171964515122
+  yaw: -131.5474853515625
+  pitch: 36.60001754760742

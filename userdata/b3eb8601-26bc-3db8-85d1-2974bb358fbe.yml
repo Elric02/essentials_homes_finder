@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617142570844
+  lastteleport: 1615150238319
+  logout: 1617142596570
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.12584488344348
+  y: 63.0
+  z: 52.48281339434193
+  yaw: -0.9952392578125
+  pitch: 1.925849437713623
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 161.89061355725963
+  y: 63.0
+  z: 60.07052822270293
+  yaw: 93.50475311279297
+  pitch: 3.1258466243743896
+  world-name: ''
+ip-address: 86.194.18.200
+last-account-name: Kiruto_Yt
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

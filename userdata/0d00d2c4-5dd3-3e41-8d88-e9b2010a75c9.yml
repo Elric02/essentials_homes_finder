@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.65.160.29
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713261205790
+  login: 1713261199651
+money: '0'
+last-account-name: KelyannC2011
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.0224577923104
+  y: 81.0
+  z: -3111.3055676448344
+  yaw: -66.76277160644531
+  pitch: 1.100154161453247
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9990455146733
+  y: 81.0
+  z: -3111.3156200319527
+  yaw: -46.216827392578125
+  pitch: 19.07417106628418

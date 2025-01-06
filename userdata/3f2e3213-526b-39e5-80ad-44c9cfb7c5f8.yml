@@ -1,0 +1,38 @@
+timestamps:
+  login: 1551209512485
+  logout: 1551210023213
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -491.346437934917
+  y: 69.0
+  z: -2315.1280396350107
+  yaw: -302.7001953125
+  pitch: 19.949995040893555
+  world-name: ''
+ip-address: 83.155.113.81
+last-account-name: REMI98
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

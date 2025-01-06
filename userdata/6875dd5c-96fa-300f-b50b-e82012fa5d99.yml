@@ -1,0 +1,47 @@
+timestamps:
+  login: 1481405307200
+  lastteleport: 1481407901638
+  logout: 1481409093853
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 415.3374015711893
+  y: 65.0
+  z: -86.08799050423701
+  yaw: -152.70033264160156
+  pitch: -85.5000991821289
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -6430.905006361813
+    y: 123.0
+    z: 6540.222972887239
+    yaw: -259.96044921875
+    pitch: 22.499967575073242
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -6428.966941163746
+  y: 118.0
+  z: 6534.147947330608
+  yaw: -333.578857421875
+  pitch: -1.3499952554702759
+  world-name: ''
+ip-address: 109.20.167.185
+last-account-name: Caspatchow
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

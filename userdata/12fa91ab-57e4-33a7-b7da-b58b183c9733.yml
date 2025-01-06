@@ -1,0 +1,47 @@
+timestamps:
+  login: 1587911509466
+  lastteleport: 1587911747063
+  logout: 1587911751279
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -293.0605389530885
+  y: 59.5
+  z: 5.289428384251666
+  yaw: 88.36871337890625
+  pitch: 18.150650024414062
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -7186.312093065886
+    y: 64.0
+    z: -5600.034625949373
+    yaw: -303.216064453125
+    pitch: 4.499930381774902
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -7189.649966783487
+  y: 63.5
+  z: -5598.182700331862
+  yaw: -270.8159484863281
+  pitch: 20.249929428100586
+  world-name: ''
+ip-address: 69.159.156.233
+last-account-name: OliGCraft
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

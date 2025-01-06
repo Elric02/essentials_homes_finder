@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.220.234.114
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665296997691
+  login: 1665296986752
+money: '0'
+last-account-name: Amitchou10
+lastlocation:
+  world: c4aa0be1-96e4-4d26-b064-d4d2526e9bea
+  world-name: AlthiumRessource
+  x: 0.5634363924693295
+  y: 250.0
+  z: -0.6530697224423846
+  yaw: 5.550079345703125
+  pitch: 1.0491389036178589
+logoutlocation:
+  world: c4aa0be1-96e4-4d26-b064-d4d2526e9bea
+  world-name: AlthiumRessource
+  x: 789.681620663411
+  y: 76.9375
+  z: -857.8520214032214
+  yaw: 117.44982147216797
+  pitch: 27.450010299682617

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1606558795052
+  logout: 1606558807388
+  lastteleport: 1606074261008
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Donjon
+  x: 3012.718621863355
+  y: 37.53752088535352
+  z: 3098.032737284609
+  yaw: 160.0006103515625
+  pitch: 78.25003051757812
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 5520.218651617894
+    y: 63.0
+    z: -2246.533042665112
+    yaw: 98.249267578125
+    pitch: 11.09993839263916
+    world-name: ''
+  or:
+    world: world
+    x: -2802.2955265492833
+    y: 78.0
+    z: -59.29970017009111
+    yaw: 265.880126953125
+    pitch: 21.314159393310547
+    world-name: ''
+  patate:
+    world: world
+    x: -2359.8981774926287
+    y: 63.9375
+    z: -6729.215526328286
+    yaw: 269.143310546875
+    pitch: 35.75963592529297
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5541.300000011921
+  y: 48.0
+  z: -2245.6584108352154
+  yaw: -256.05029296875
+  pitch: 24.299938201904297
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 90.103.108.126
+last-account-name: Elisa2003
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

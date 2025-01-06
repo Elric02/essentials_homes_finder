@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586805421350
+  lastteleport: 1586806319240
+  logout: 1586806548725
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 42.30000001192093
+  y: 90.0
+  z: 72.08435526425072
+  yaw: -228.74853515625
+  pitch: 30.900381088256836
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2804.264089550853
+  y: 64.0
+  z: -188.4422029640728
+  yaw: -8.439352035522461
+  pitch: 13.04991340637207
+  world-name: ''
+ip-address: 89.156.205.145
+last-account-name: Jean_mi_du_13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1489338064959
+  logout: 1489340322372
+  lastteleport: 1489339768151
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 169.41183271777206
+  y: 63.0
+  z: 86.43017354184408
+  yaw: 251.35488891601562
+  pitch: 87.30000305175781
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2771.2513389980727
+  y: 71.0
+  z: -1036.8018761023636
+  yaw: 295.5399169921875
+  pitch: 46.95003128051758
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2764.460944711477
+    y: 64.0
+    z: -1017.5257952655022
+    yaw: 207.0410614013672
+    pitch: 21.749967575073242
+    world-name: ''
+ip-address: 90.13.133.233
+last-account-name: Endo998
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

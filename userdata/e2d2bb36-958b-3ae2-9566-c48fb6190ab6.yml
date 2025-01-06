@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.114.198.28
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1645727669973
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1645728593053
+  login: 1645727946094
+money: '0'
+last-account-name: Masko_
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -4266.2308216483
+  y: 62.550000119209244
+  z: -855.2761803125559
+  yaw: -112.26678466796875
+  pitch: 7.036051273345947
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1807.0600104821121
+  y: 71.0
+  z: 5119.906932443533
+  yaw: 76.24053955078125
+  pitch: 46.853153228759766

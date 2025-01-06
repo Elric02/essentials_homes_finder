@@ -1,0 +1,47 @@
+timestamps:
+  login: 1476553099042
+  lastteleport: 1476553318583
+  logout: 1476554920297
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 141.47461601738507
+  y: 63.0625
+  z: -38.435071721398415
+  yaw: -29.917938232421875
+  pitch: 38.16071701049805
+  world-name: ''
+homes:
+  cc:
+    world: world
+    x: 150.6578072604652
+    y: 63.0
+    z: -18.69999998807907
+    yaw: -253.1109161376953
+    pitch: 23.57451057434082
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -643.5
+  y: 60.0
+  z: 742.5
+  yaw: -22.268001556396484
+  pitch: 46.410728454589844
+  world-name: ''
+ip-address: 90.120.24.125
+last-account-name: mewtwo46
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

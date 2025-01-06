@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481377726649
+  logout: 1481377770984
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.44518638536573
+  y: 63.0
+  z: -17.566718417220635
+  yaw: 193.04281616210938
+  pitch: 16.758798599243164
+  world-name: ''
+ip-address: 92.154.0.220
+last-account-name: Mister_Crazy3107
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

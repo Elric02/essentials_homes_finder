@@ -1,0 +1,65 @@
+timestamps:
+  login: 1521751432574
+  lastteleport: 1521751499752
+  logout: 1521751943573
+  kits:
+    vip: 1499418084898
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 170.8875519600341
+  y: 138.0
+  z: -122.12327264451233
+  yaw: 167.3785400390625
+  pitch: 27.028684616088867
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -105.4508214112357
+  y: 66.0
+  z: -353.3307449512055
+  yaw: -12.1763916015625
+  pitch: 13.049959182739258
+  world-name: ''
+afk: false
+homes:
+  end:
+    world: world_the_end
+    x: -1223.8859978901185
+    y: 62.0
+    z: -1118.112641742552
+    yaw: -237.3036346435547
+    pitch: 18.450029373168945
+    world-name: ''
+  voisin:
+    world: world
+    x: 5474.11602538887
+    y: 128.0
+    z: -727.5065443508277
+    yaw: -339.14208984375
+    pitch: 25.800161361694336
+    world-name: ''
+  maison:
+    world: world
+    x: -5172.825538805816
+    y: 63.0
+    z: -3918.8019841394666
+    yaw: 92.70010375976562
+    pitch: 3.600015640258789
+    world-name: ''
+ip-address: 90.38.203.158
+last-account-name: dieux_33
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

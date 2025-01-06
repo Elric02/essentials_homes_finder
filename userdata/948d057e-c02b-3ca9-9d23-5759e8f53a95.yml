@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477234516363
+  lastteleport: 1477234793653
+  logout: 1477234802344
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -65.45383154350124
+  y: 67.5
+  z: 632.1181714918364
+  yaw: -84.29995727539062
+  pitch: 12.75002670288086
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 106.27222487366522
+  y: 65.1875
+  z: -68.32730212757022
+  yaw: -2.30548095703125
+  pitch: 6.182031154632568
+  world-name: ''
+ip-address: 88.166.65.230
+last-account-name: produ80300
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

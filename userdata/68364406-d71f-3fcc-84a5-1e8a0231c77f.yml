@@ -1,0 +1,38 @@
+timestamps:
+  login: 1503074889714
+  lastteleport: 1503075396169
+  logout: 1503076020577
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.83885472984866
+  y: 66.0
+  z: 20.272328773282727
+  yaw: 268.287109375
+  pitch: -3.8755011558532715
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -3555.02701157843
+  y: 79.0
+  z: -3542.8523227573437
+  yaw: 242.26744079589844
+  pitch: 6.750013828277588
+  world-name: ''
+ip-address: 74.56.32.185
+last-account-name: pirate40
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482247806006
+  lastteleport: 1482247947589
+  logout: 1482248147394
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 121.71473493304971
+  y: 63.0
+  z: 150.13546295337704
+  yaw: -144.03634643554688
+  pitch: 12.79272747039795
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4260.086219125687
+  y: 84.5
+  z: -3613.4588339637685
+  yaw: -15.7161865234375
+  pitch: 23.962677001953125
+  world-name: ''
+ip-address: 78.211.29.52
+last-account-name: NoBack_Rouky
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

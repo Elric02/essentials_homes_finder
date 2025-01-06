@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.125.137.237
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1679329585740
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1679329587481
+  login: 1679329417882
+money: '0'
+last-account-name: Osheun
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 157.58976504482146
+  y: 63.5
+  z: 11.853742183560742
+  yaw: 62.865230560302734
+  pitch: -6.449713230133057
+logoutlocation:
+  world: 0847213e-5591-48bf-9f47-5a48a3cb045a
+  world-name: Ressource
+  x: -2.0494922893413166
+  y: 90.0
+  z: 0.5086189699431262
+  yaw: 88.64716339111328
+  pitch: 1.9857869148254395

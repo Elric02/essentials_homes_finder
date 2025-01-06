@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.173.128.118
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1656800905078
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1656801079970
+  login: 1656799969263
+money: '0'
+last-account-name: Shayzis
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -157.5
+  y: 72.0
+  z: 565.5
+  yaw: -163.73924255371094
+  pitch: -17.35316276550293
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -7120.531993311372
+  y: 75.0
+  z: 257.6968623784838
+  yaw: 2.4287109375
+  pitch: -1.464843511581421

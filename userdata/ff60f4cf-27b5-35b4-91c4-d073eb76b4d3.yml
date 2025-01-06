@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.133.204.81
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720112132443
+  login: 1720112124532
+money: '0'
+last-account-name: Rnya8108
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 399.03606958886775
+  y: 81.0
+  z: -3120.6806255053875
+  yaw: -114.42494201660156
+  pitch: 2.9297876358032227
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 399.03606958886775
+  y: 81.0
+  z: -3120.6806255053875
+  yaw: -83.05323791503906
+  pitch: 6.247947692871094

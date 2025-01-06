@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.227.241.222
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1658332552977
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1658933164527
+  login: 1658933142270
+money: '0'
+last-account-name: thomage
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1801.9585281633363
+  y: 15.0
+  z: 170.5996861478856
+  yaw: -62.74755859375
+  pitch: -2.8183274269104004
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1718.6958020031361
+  y: 64.0
+  z: 514.0145428256271
+  yaw: -78.1925048828125
+  pitch: 0.8045225739479065
+homes:
+  skyblock:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1687.8795966609314
+    y: 64.0
+    z: 525.3328677006966
+    yaw: -142.26124572753906
+    pitch: 38.15666198730469

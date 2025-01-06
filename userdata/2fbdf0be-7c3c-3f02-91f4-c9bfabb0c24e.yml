@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475414291686
+  lastteleport: 1475414324839
+  logout: 1475414326302
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -156.52459073630482
+  y: 47.0
+  z: 511.95050720335075
+  yaw: 171.0989532470703
+  pitch: 1.2000099420547485
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+ip-address: 78.209.86.96
+last-account-name: Raphael8D3_YTB
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

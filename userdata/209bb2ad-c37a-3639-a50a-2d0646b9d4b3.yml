@@ -1,0 +1,38 @@
+timestamps:
+  login: 1564339550611
+  lastteleport: 1564340458885
+  logout: 1564339541087
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.93955399875108
+  y: 63.0
+  z: 7.574547703784846
+  yaw: 139.93060302734375
+  pitch: 19.500038146972656
+  world-name: ''
+logoutlocation:
+  world: Event
+  x: 9897.5
+  y: 0.0
+  z: 10048.5
+  yaw: -219.12295532226562
+  pitch: 33.749935150146484
+  world-name: ''
+money: '0'
+ip-address: 92.171.115.104
+last-account-name: DylanVanne
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

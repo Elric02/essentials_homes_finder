@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617282639682
+  lastteleport: 1616792538493
+  logout: 1617282936474
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressourcenether
+  x: 0.5
+  y: 37.0
+  z: -1.5
+  yaw: -178.04226684570312
+  pitch: 7.049990177154541
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4477.699999988079
+  y: 65.0
+  z: 301.15372074160297
+  yaw: 12.973880767822266
+  pitch: 41.701908111572266
+  world-name: ''
+ip-address: 94.239.167.1
+last-account-name: CTcraft
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

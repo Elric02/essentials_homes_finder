@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490806485350
+  lastteleport: 1490807772414
+  logout: 1490808958200
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.43821292041022
+  y: 63.0
+  z: 35.266109555423796
+  yaw: 28.589061737060547
+  pitch: 18.47451400756836
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 258.35586048615085
+  y: 71.0
+  z: 650.3000000119208
+  yaw: -193.35296630859375
+  pitch: 56.850521087646484
+  world-name: ''
+ip-address: 81.251.217.130
+last-account-name: alshimy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

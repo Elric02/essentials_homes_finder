@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492532778560
+  logout: 1492532812249
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.4744954437296
+  y: 64.0
+  z: 26.269543297138533
+  yaw: -347.59747314453125
+  pitch: 1.297400712966919
+  world-name: ''
+ip-address: 86.253.182.18
+last-account-name: willybillbulles
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

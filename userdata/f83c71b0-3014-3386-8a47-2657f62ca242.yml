@@ -1,0 +1,63 @@
+timestamps:
+  login: 1471354569224
+  lastteleport: 1471357651407
+  logout: 1471359050941
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -7185.5914303524405
+  y: 64.0
+  z: -5595.844757302788
+  yaw: -52.676292419433594
+  pitch: 15.89370059967041
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -7214.872522513402
+    y: 64.0
+    z: -5593.182742965726
+    yaw: -80.27642822265625
+    pitch: 23.843624114990234
+    world-name: ''
+  peche:
+    world: world
+    x: 497.7286961572309
+    y: 89.0
+    z: -4124.332483224121
+    yaw: -169.64991760253906
+    pitch: 6.899984359741211
+    world-name: ''
+  mesa:
+    world: world
+    x: -1977.1100147147126
+    y: 78.0
+    z: -1496.535032233508
+    yaw: 276.60076904296875
+    pitch: 4.800220489501953
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world_nether
+  x: 169.30000001192093
+  y: 45.0
+  z: 460.30000001192093
+  yaw: 290.5272216796875
+  pitch: 5.100114822387695
+  world-name: ''
+ip-address: 81.49.191.26
+last-account-name: Logsnaking
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

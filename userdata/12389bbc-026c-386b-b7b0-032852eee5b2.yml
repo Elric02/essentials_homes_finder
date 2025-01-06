@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519385645813
+  logout: 1519385671840
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.36919130191313
+  y: 64.0
+  z: 8.249140409822896
+  yaw: -238.4029998779297
+  pitch: 25.349985122680664
+  world-name: ''
+ip-address: 74.210.241.7
+last-account-name: sayori_ddlc
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1587660158361
+  lastteleport: 1587660175051
+  logout: 1587660186024
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -308.00550522066095
+  y: 57.0
+  z: 5.761017221193573
+  yaw: -3.305145263671875
+  pitch: 43.86339569091797
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1336.5
+  y: 67.0
+  z: -4359.5
+  yaw: -1.9803920984268188
+  pitch: 22.01213264465332
+  world-name: ''
+ip-address: 91.170.75.142
+last-account-name: buttead2_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

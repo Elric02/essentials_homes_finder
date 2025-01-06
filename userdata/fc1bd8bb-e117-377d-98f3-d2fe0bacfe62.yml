@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500224474463
+  logout: 1500224587953
+  lastteleport: 1500224545811
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.7389408738533
+  y: 63.5
+  z: 6.147725090787091
+  yaw: -201.6475830078125
+  pitch: 37.20001220703125
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 6226.977170435861
+  y: 94.0
+  z: 2052.522419659298
+  yaw: -103.5
+  pitch: 29.39999771118164
+  world-name: ''
+ip-address: 176.155.131.117
+last-account-name: _LeRoiDesChaton_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

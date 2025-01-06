@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 93.23.12.8
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1670252999907
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670253290300
+  login: 1670252622869
+money: '0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 153.77746700143203
+  y: 64.0
+  z: 20.30556620411129
+  yaw: 147.1668243408203
+  pitch: 13.950152397155762
+last-account-name: damsss00
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -431.6263890714762
+  y: 44.569662936853746
+  z: 166.48125211775547
+  yaw: -41.18954849243164
+  pitch: 17.549943923950195

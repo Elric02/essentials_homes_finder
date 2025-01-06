@@ -1,0 +1,38 @@
+timestamps:
+  login: 1535667030919
+  lastteleport: 1535667152661
+  logout: 1535668958228
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 161.98236520384674
+  y: 63.0
+  z: 64.09516630133703
+  yaw: 130.4468994140625
+  pitch: 1.290624737739563
+  world-name: ''
+afk: false
+logoutlocation:
+  world: Ressource
+  x: -165.30000001192096
+  y: 69.0
+  z: -38.69999998807905
+  yaw: 252.029296875
+  pitch: 35.849830627441406
+  world-name: ''
+ip-address: 83.157.239.35
+last-account-name: ZaiKenX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

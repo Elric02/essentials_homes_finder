@@ -1,0 +1,38 @@
+timestamps:
+  login: 1620848028321
+  logout: 1620848141975
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5128.187115182101
+  y: 73.0
+  z: -550.2176287259839
+  yaw: -87.60050964355469
+  pitch: 19.199771881103516
+  world-name: ''
+ip-address: 176.130.145.41
+last-account-name: theoazertyuiopp
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

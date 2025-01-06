@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500850551262
+  lastteleport: 1500850649873
+  logout: 1500851613352
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 185.0070405647432
+  y: 63.0
+  z: -9.73422807799326
+  yaw: -184.9969482421875
+  pitch: 15.397406578063965
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -556.7158810758535
+  y: 68.0
+  z: 50.69999998807906
+  yaw: 81.35623168945312
+  pitch: 24.300018310546875
+  world-name: ''
+ip-address: 82.243.170.80
+last-account-name: Sw0rdzK1llz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509009756872
+  lastteleport: 1509009777587
+  logout: 1509009787994
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.33146829140108
+  y: 63.0
+  z: 47.104049377127055
+  yaw: -186.34738159179688
+  pitch: 9.84739875793457
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.3638958452875
+  y: 64.0
+  z: 20.0098686263701
+  yaw: -51.020816802978516
+  pitch: 40.67866897583008
+  world-name: ''
+ip-address: 213.111.29.1
+last-account-name: N_Alexis_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

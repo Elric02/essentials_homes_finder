@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482082313927
+  lastteleport: 1482082633039
+  logout: 1482082689193
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 355.14757323855497
+  y: 64.0
+  z: 104.97564604584291
+  yaw: -86.4012451171875
+  pitch: 12.149883270263672
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: 236.67692680628656
+  y: 65.0
+  z: 38.718432372805836
+  yaw: -79.95085144042969
+  pitch: 39.449928283691406
+  world-name: ''
+ip-address: 79.93.179.52
+last-account-name: _BoBLeKikoo_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1564064550708
+  logout: 1564065083154
+  lastteleport: 1564065037335
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 139.15541234404466
+  y: 63.0
+  z: 19.763197049954336
+  yaw: 6.464803695678711
+  pitch: 20.92086410522461
+  world-name: ''
+logoutlocation:
+  world: Event
+  x: 9903.516834810021
+  y: 150.0
+  z: 10070.107797062712
+  yaw: -175.90252685546875
+  pitch: 23.029251098632812
+  world-name: ''
+ip-address: 193.250.106.129
+last-account-name: Unity_skrillex2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

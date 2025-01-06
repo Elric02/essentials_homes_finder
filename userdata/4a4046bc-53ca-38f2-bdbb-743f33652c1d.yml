@@ -1,0 +1,63 @@
+timestamps:
+  login: 1477662788838
+  logout: 1477664793099
+  lastteleport: 1477314399558
+  jail: 0
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -928.6368439839687
+  y: 74.0
+  z: -3959.7281637936294
+  yaw: -18.152456283569336
+  pitch: 41.10009002685547
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -928.2579472924524
+  y: 70.0
+  z: -3949.8437288047007
+  yaw: 318.60040283203125
+  pitch: 32.09999465942383
+  world-name: ''
+homes:
+  a:
+    world: world
+    x: -926.3000000119209
+    y: 70.0
+    z: -3946.61417998177
+    yaw: -278.4024353027344
+    pitch: 28.05004119873047
+    world-name: ''
+  vache:
+    world: world
+    x: 433.30000001192093
+    y: 64.0
+    z: -2121.300000011921
+    yaw: -129.8999786376953
+    pitch: 30.299964904785156
+    world-name: ''
+  argent:
+    world: world
+    x: -6134.453602908513
+    y: 66.0
+    z: -6120.01776409284
+    yaw: -109.1978759765625
+    pitch: 33.899837493896484
+    world-name: ''
+money: '0'
+jailed: false
+muted: false
+ip-address: 78.195.160.59
+last-account-name: TheGameuze14
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

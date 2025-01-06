@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475490580398
+  lastteleport: 1472994658978
+  logout: 1475490675226
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 124.87766122569987
+  y: 63.0
+  z: -41.57955289614018
+  yaw: -62.29719161987305
+  pitch: 27.247417449951172
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 146.46235552225932
+  y: 64.0
+  z: -11.579561632957615
+  yaw: -208.11093139648438
+  pitch: 13.224514961242676
+  world-name: ''
+ip-address: 77.203.36.49
+last-account-name: Windows10
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

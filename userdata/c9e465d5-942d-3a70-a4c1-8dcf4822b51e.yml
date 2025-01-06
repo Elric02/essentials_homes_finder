@@ -1,0 +1,63 @@
+timestamps:
+  login: 1482334679546
+  lastteleport: 1482334780463
+  logout: 1482335280493
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2572.894801319599
+  y: 17.0
+  z: -1201.8400328455937
+  yaw: -250.56626892089844
+  pitch: 14.700005531311035
+  world-name: ''
+homes:
+  xp:
+    world: world
+    x: -2573.3287112615935
+    y: 16.875
+    z: -1200.6114189222214
+    yaw: -347.6162109375
+    pitch: 33.450233459472656
+    world-name: ''
+  vache:
+    world: world
+    x: 6152.692246747609
+    y: 83.0
+    z: 6163.822762226595
+    yaw: -279.3002624511719
+    pitch: 15.899967193603516
+    world-name: ''
+  faille:
+    world: world
+    x: 4417.213873157532
+    y: 49.0
+    z: -3282.154034719511
+    yaw: -305.408203125
+    pitch: 31.800024032592773
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4417.699999988079
+  y: 49.0
+  z: -3282.699999988079
+  yaw: -309.7591552734375
+  pitch: 28.95011329650879
+  world-name: ''
+ip-address: 90.32.165.141
+last-account-name: bhou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

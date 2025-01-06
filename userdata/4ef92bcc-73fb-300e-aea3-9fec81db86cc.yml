@@ -1,0 +1,38 @@
+timestamps:
+  login: 1502886011083
+  logout: 1502886167450
+  lastteleport: 1502886101127
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5833527536759
+  y: 63.0
+  z: 43.66156558853146
+  yaw: -314.7474060058594
+  pitch: 3.5473930835723877
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -157.53036378611418
+  y: 47.0
+  z: 538.1984302065937
+  yaw: 114.84918212890625
+  pitch: 6.217765808105469
+  world-name: ''
+ip-address: 176.150.14.14
+last-account-name: dragon12
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

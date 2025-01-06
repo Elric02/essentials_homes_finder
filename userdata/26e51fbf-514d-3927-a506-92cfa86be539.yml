@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.18.79.54
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1654710243297
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1654710968567
+  login: 1654710682314
+money: '0'
+last-account-name: Opalixx
+lastlocation:
+  world: c4aa0be1-96e4-4d26-b064-d4d2526e9bea
+  world-name: AlthiumRessource
+  x: 33.1786164369682
+  y: 230.99840417860722
+  z: -17.69942168430452
+  yaw: 90.45721435546875
+  pitch: 80.40000915527344
+logoutlocation:
+  world: c4aa0be1-96e4-4d26-b064-d4d2526e9bea
+  world-name: AlthiumRessource
+  x: -771.3733925004925
+  y: 102.0
+  z: 161.43029868806468
+  yaw: 97.80077362060547
+  pitch: 26.399734497070312

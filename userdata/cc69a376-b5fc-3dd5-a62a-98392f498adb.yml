@@ -1,0 +1,63 @@
+timestamps:
+  login: 1650206308157
+  lastteleport: 1650206340942
+  logout: 1650206377266
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -5216.182888026469
+  y: 71.0
+  z: -3754.704577256514
+  yaw: -75.62005615234375
+  pitch: 9.000901222229004
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -1447.0691875404423
+  y: 63.5
+  z: -4595.388438002519
+  yaw: -7.0653076171875
+  pitch: 1.8163267374038696
+  world-name: world
+money: '0'
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -1482.5864437999678
+    y: 66.0
+    z: -4586.898875636237
+    yaw: 326.0815734863281
+    pitch: 17.801841735839844
+    world-name: world
+  a:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -1466.2566410715933
+    y: 59.0
+    z: -4588.600003378423
+    yaw: 93.81403350830078
+    pitch: 15.193647384643555
+    world-name: world
+  z:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5219.626121478375
+    y: 70.0
+    z: -3755.253962333259
+    yaw: -352.6533203125
+    pitch: 26.34078598022461
+    world-name: world
+afk: false
+ip-address: 83.197.18.186
+last-account-name: OrezDeLapin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

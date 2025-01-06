@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.171.227.169
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1636284282330
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1636289298238
+  login: 1636289075480
+money: '0'
+last-account-name: gildu29
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3664.719808893979
+  y: 73.0
+  z: -2477.1062808298175
+  yaw: -281.88165283203125
+  pitch: 27.75923728942871
+homes:
+  a:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4578.318595734942
+    y: 73.0
+    z: -832.6952975848308
+    yaw: 268.1131591796875
+    pitch: 35.23180389404297
+  b:
+    world: d2e59b71-a6cc-46c3-9366-582a12c8b4fb
+    world-name: Ressource
+    x: 2766.8687475478528
+    y: 67.0
+    z: -1296.300000011921
+    yaw: -296.251220703125
+    pitch: 16.51384925842285
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -4572.113498497562
+  y: 73.0
+  z: -832.1885355031028
+  yaw: -113.82843017578125
+  pitch: 25.317230224609375

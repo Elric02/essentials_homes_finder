@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.169.186.186
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671550501267
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671550641997
+  login: 1671549954360
+money: '0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 220.07507086121817
+  y: 63.0
+  z: 11.885891956858721
+  yaw: 60.4649658203125
+  pitch: 12.750312805175781
+last-account-name: FromageBlancFR
+logoutlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -18.348438448623593
+  y: 89.5
+  z: 1.809632764751123
+  yaw: 94.1972427368164
+  pitch: 22.98578453063965

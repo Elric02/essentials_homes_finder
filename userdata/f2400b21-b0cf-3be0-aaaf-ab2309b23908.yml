@@ -1,0 +1,38 @@
+timestamps:
+  login: 1531298578443
+  logout: 1531299318945
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -134.39698997685662
+  y: 63.0
+  z: -216.69999998807907
+  yaw: 150.10867309570312
+  pitch: 24.090848922729492
+  world-name: ''
+money: '0'
+ip-address: 78.242.70.216
+last-account-name: Sorator
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

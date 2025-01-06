@@ -1,0 +1,47 @@
+timestamps:
+  login: 1598353497750
+  lastteleport: 1598354229245
+  logout: 1598354825796
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 186.72612843409718
+  y: 63.0
+  z: -16.685365478556477
+  yaw: -330.1639404296875
+  pitch: 21.48023223876953
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2346.5979635942545
+    y: 62.0
+    z: 5896.699999988079
+    yaw: -186.2620849609375
+    pitch: 68.55046844482422
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4223.300000011921
+  y: 67.0
+  z: -5022.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+ip-address: 77.207.18.164
+last-account-name: loadedragon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

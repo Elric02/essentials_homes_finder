@@ -1,0 +1,63 @@
+timestamps:
+  login: 1487333027210
+  lastteleport: 1487333676359
+  logout: 1487333724990
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 148.5
+  y: 78.0
+  z: -58.5
+  yaw: 206.03533935546875
+  pitch: 6.599979877471924
+  world-name: ''
+money: '0'
+homes:
+  jumps:
+    world: world
+    x: -658.4101445158325
+    y: 83.0
+    z: -730.7696445614268
+    yaw: 33.33345031738281
+    pitch: 45.501522064208984
+    world-name: ''
+  prison:
+    world: world
+    x: -159.46966358288742
+    y: 12.0
+    z: 569.3298284023541
+    yaw: -15.51690673828125
+    pitch: 22.093629837036133
+    world-name: ''
+  base:
+    world: world
+    x: -135.41566269172446
+    y: 74.0
+    z: -110.48329059734297
+    yaw: -114.3287353515625
+    pitch: 24.634368896484375
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 166.9171929476069
+  y: 89.0
+  z: -105.3208671269567
+  yaw: 359.1406555175781
+  pitch: 56.85513687133789
+  world-name: ''
+afk: false
+ip-address: 86.237.80.35
+last-account-name: Asterobrine37
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

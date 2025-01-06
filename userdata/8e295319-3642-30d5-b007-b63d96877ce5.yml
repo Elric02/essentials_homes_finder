@@ -1,0 +1,38 @@
+timestamps:
+  login: 1555956741655
+  lastteleport: 1555957509991
+  logout: 1555957799781
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.44615356759584
+  y: 63.0
+  z: 39.17660761528685
+  yaw: 174.731201171875
+  pitch: 12.778681755065918
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 915.5078496534964
+  y: 64.0
+  z: 2760.8924171208137
+  yaw: -16.163192749023438
+  pitch: 7.893194675445557
+  world-name: ''
+ip-address: 89.156.43.219
+last-account-name: Oursfire
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

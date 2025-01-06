@@ -1,0 +1,63 @@
+timestamps:
+  login: 1611849711568
+  lastteleport: 1611795366189
+  logout: 1611849733064
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5101.646152351171
+  y: 61.0
+  z: 6930.606524937416
+  yaw: -117.2507553100586
+  pitch: 6.078151702880859
+  world-name: ''
+homes:
+  bp:
+    world: world
+    x: 5093.330686525611
+    y: 63.0
+    z: 6960.242264383589
+    yaw: -45.850738525390625
+    pitch: -1.8719404935836792
+    world-name: ''
+  mi:
+    world: Ressource
+    x: 3821.648065973469
+    y: 21.0
+    z: -1689.208475511054
+    yaw: -320.6986389160156
+    pitch: 28.352529525756836
+    world-name: ''
+  spruce:
+    world: world
+    x: 3357.5460048110735
+    y: 72.0
+    z: 5089.120647588311
+    yaw: 1.4658176898956299
+    pitch: -33.449989318847656
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5093.669156935433
+  y: 63.0
+  z: 6965.268504177085
+  yaw: -282.5912780761719
+  pitch: 8.549823760986328
+  world-name: ''
+ip-address: 85.192.229.54
+last-account-name: CalysdeCrydee
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1503814095365
+  logout: 1503816897095
+  lastteleport: 1503816537270
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 6656.120733024713
+  y: 46.0
+  z: 1913.647294359369
+  yaw: 269.1070556640625
+  pitch: -47.625675201416016
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.4506389662489
+  y: 63.5
+  z: 32.64518285450617
+  yaw: -187.4337615966797
+  pitch: 3.552518844604492
+  world-name: ''
+money: '0'
+homes:
+  mine:
+    world: world
+    x: -5835.149492630029
+    y: 36.0
+    z: -6035.489530773713
+    yaw: 27.033416748046875
+    pitch: 42.691123962402344
+    world-name: ''
+afk: false
+ip-address: 77.154.204.232
+last-account-name: The_teen
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

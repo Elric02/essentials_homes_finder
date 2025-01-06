@@ -1,0 +1,38 @@
+timestamps:
+  login: 1544727515312
+  logout: 1544727547570
+  lastteleport: 1541194345925
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.87029463266447
+  y: 64.0
+  z: 26.01846009004926
+  yaw: 33.87923812866211
+  pitch: 1.3786617517471313
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 162.98766178831343
+  y: 63.0
+  z: 61.23743774285983
+  yaw: 94.47921752929688
+  pitch: 12.749996185302734
+  world-name: ''
+ip-address: 77.135.23.83
+last-account-name: Zertyoz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

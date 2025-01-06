@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518026287993
+  lastteleport: 1518026412522
+  logout: 1518026541577
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -830.1560943602568
+  y: 72.0
+  z: -62.805853710007916
+  yaw: -143.9999542236328
+  pitch: 21.149995803833008
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 161.8652353671862
+  y: 63.0
+  z: 40.9725379691309
+  yaw: -164.72161865234375
+  pitch: 6.478672027587891
+  world-name: ''
+ip-address: 91.160.29.133
+last-account-name: quillet
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1470843390371
+  lastteleport: 1470843872240
+  logout: 1470843890664
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.09281243034079
+  y: 100.0
+  z: 28.560591796631947
+  yaw: -2.010955810546875
+  pitch: -8.225493431091309
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -331.39501912207
+  y: 126.73999825119971
+  z: 250.13941857977125
+  yaw: -173.910888671875
+  pitch: 90.0
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 8127.619558696022
+    y: 66.0
+    z: 4233.552277460968
+    yaw: -73.7404556274414
+    pitch: 40.38823699951172
+    world-name: ''
+afk: false
+ip-address: 90.32.186.101
+last-account-name: craftblack4
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

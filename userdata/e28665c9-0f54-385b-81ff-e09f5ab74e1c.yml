@@ -1,0 +1,38 @@
+timestamps:
+  login: 1536858175575
+  logout: 1536858475433
+  lastteleport: 1536858358151
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.22428562649446
+  y: 63.0
+  z: 41.0354677082519
+  yaw: -113.87086486816406
+  pitch: 6.328672409057617
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -1582.2882350618006
+  y: 70.0
+  z: 1630.699999988079
+  yaw: -79.4996337890625
+  pitch: 45.149986267089844
+  world-name: ''
+ip-address: 86.254.245.50
+last-account-name: lesgamersdu19
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

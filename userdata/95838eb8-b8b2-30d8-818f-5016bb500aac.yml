@@ -1,0 +1,38 @@
+timestamps:
+  login: 1465644850797
+  lastteleport: 1465644941904
+  logout: 1465645339868
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 123.64335613232353
+  y: 65.0
+  z: -136.1991268355158
+  yaw: -215.54742431640625
+  pitch: 27.824186325073242
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 42.4274679326016
+  y: 64.0
+  z: 121.83943466610549
+  yaw: -155.12002563476562
+  pitch: 3.0000064373016357
+  world-name: ''
+ip-address: 78.209.89.113
+last-account-name: EnderKiller06
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

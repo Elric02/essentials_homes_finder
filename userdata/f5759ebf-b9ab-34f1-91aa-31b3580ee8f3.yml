@@ -1,0 +1,82 @@
+timestamps:
+  login: 1490294488303
+  lastteleport: 1490294508409
+  logout: 1490294637349
+  jail: 0
+  mute: 0
+  kits:
+    vip: 1482842681693
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -662.4183992311944
+  y: 64.0
+  z: -749.1819605678763
+  yaw: 274.40911865234375
+  pitch: -2.2799441814422607
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5901.478179497846
+  y: 66.0
+  z: 1994.555712441177
+  yaw: 146.3507843017578
+  pitch: 23.148311614990234
+  world-name: ''
+money: '0'
+homes:
+  spartiate76:
+    world: world
+    x: 10666.882405233382
+    y: 66.0
+    z: 9795.175561105012
+    yaw: -81.13851928710938
+    pitch: -9.71243667602539
+    world-name: ''
+  bateau:
+    world: world
+    x: 2928.3694396670735
+    y: 65.0
+    z: 6756.519039794621
+    yaw: -194.37428283691406
+    pitch: 34.22200393676758
+    world-name: ''
+  maison:
+    world: world
+    x: -5603.820108113121
+    y: 70.0
+    z: 2132.661402566101
+    yaw: -2.8066775798797607
+    pitch: -25.545265197753906
+    world-name: ''
+  sable:
+    world: ressource
+    x: 1788.9526929855767
+    y: 67.0
+    z: -4600.671579019733
+    yaw: 268.0217590332031
+    pitch: 9.638127326965332
+    world-name: ''
+  villecreep:
+    world: world
+    x: 6414.730391982792
+    y: 63.0
+    z: -404.6710482419505
+    yaw: 88.65021514892578
+    pitch: -1.3499988317489624
+    world-name: ''
+afk: false
+jailed: false
+muted: false
+nickname: §3Spartiate76
+ip-address: 84.7.83.98
+last-account-name: spartiate76
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

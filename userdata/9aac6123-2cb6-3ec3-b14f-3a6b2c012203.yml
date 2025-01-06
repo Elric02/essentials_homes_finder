@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.110.11.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674298115570
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674298166111
+  login: 1674298007460
+money: '0'
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -442.72614145302026
+  y: 42.24313549259176
+  z: 254.62562638695292
+  yaw: 55.70884704589844
+  pitch: 16.64905548095703
+last-account-name: Tyox
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 371.71220449751917
+  y: 33.0
+  z: -512.6431858031642
+  yaw: 56.100006103515625
+  pitch: 9.599998474121094

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1656851052460
+  logout: 1656851089249
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 156.30000001192093
+  y: 59.77173165457256
+  z: 92.64581503586726
+  yaw: 83.458740234375
+  pitch: -2.732419967651367
+  world-name: world
+ip-address: 88.123.12.243
+last-account-name: Dragon_Masters_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

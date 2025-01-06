@@ -1,0 +1,55 @@
+timestamps:
+  login: 1594053019869
+  lastteleport: 1553424195552
+  logout: 1594053383691
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -370.65681144125244
+  y: 53.0
+  z: 9.583801644554878
+  yaw: 112.9950942993164
+  pitch: 21.700714111328125
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 127.25678368672384
+    y: 73.0
+    z: -2230.4880614052004
+    yaw: -85.5512924194336
+    pitch: 29.100011825561523
+    world-name: ''
+  xp:
+    world: End
+    x: -370.7851910605054
+    y: 53.0
+    z: 8.65059836487955
+    yaw: 90.79510498046875
+    pitch: 15.550704956054688
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 127.52861463337365
+  y: 73.0
+  z: -2223.7439752786254
+  yaw: 1.292370319366455
+  pitch: 19.199710845947266
+  world-name: ''
+afk: false
+ip-address: 95.182.161.129
+last-account-name: Sedergine
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

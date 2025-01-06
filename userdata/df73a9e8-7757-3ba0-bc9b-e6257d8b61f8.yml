@@ -1,0 +1,38 @@
+timestamps:
+  login: 1613577298245
+  lastteleport: 1613577856139
+  logout: 1613577862965
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -511.72796417653905
+  y: 81.0
+  z: 600.4140625876996
+  yaw: 4.350573539733887
+  pitch: 30.750001907348633
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.49218335178455
+  y: 64.0
+  z: 23.643000914213683
+  yaw: -181.14532470703125
+  pitch: 9.575874328613281
+  world-name: ''
+ip-address: 86.195.0.155
+last-account-name: Hamros
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

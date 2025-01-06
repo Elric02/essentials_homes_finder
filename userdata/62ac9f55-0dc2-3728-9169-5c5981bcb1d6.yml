@@ -1,0 +1,38 @@
+timestamps:
+  login: 1561885077115
+  lastteleport: 1561886978350
+  logout: 1561887556792
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 131.5138847835423
+  y: 63.0
+  z: -16.35503753488904
+  yaw: -178.82069396972656
+  pitch: -1.1713649034500122
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.278669595718384
+  world-name: ''
+money: '0'
+ip-address: 78.116.37.139
+last-account-name: NeveR_Snaakiii
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

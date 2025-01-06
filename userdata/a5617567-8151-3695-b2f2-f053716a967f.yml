@@ -1,0 +1,38 @@
+timestamps:
+  login: 1597582787558
+  logout: 1597582806032
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.7118718388603
+  y: 76.22328077171878
+  z: 75.8696398308834
+  yaw: 145.7466278076172
+  pitch: 50.19077682495117
+  world-name: ''
+ip-address: 86.229.151.232
+last-account-name: Enjoie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

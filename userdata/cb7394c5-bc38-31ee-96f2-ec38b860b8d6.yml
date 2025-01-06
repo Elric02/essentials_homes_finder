@@ -1,0 +1,47 @@
+timestamps:
+  login: 1531322859056
+  lastteleport: 1531323223484
+  logout: 1531323262567
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 788.9263401450564
+  y: 4.0
+  z: -1413.33100900178
+  yaw: -270.6337890625
+  pitch: 19.76226043701172
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: -660.0476837933287
+    y: 62.0
+    z: 373.2411629249039
+    yaw: 112.65115356445312
+    pitch: 2.3763668537139893
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 149.58736551273694
+  y: 63.0
+  z: 33.286481023143025
+  yaw: -29.48964500427246
+  pitch: 30.32916831970215
+  world-name: ''
+ip-address: 77.148.58.67
+last-account-name: EvilWings
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

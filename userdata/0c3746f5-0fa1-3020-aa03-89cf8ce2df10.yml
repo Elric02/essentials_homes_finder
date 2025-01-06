@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592056522691
+  logout: 1592056639885
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 139.59482406282254
+  y: 63.0
+  z: 64.91989919604526
+  yaw: -195.4607391357422
+  pitch: 2.096529483795166
+  world-name: ''
+ip-address: 86.218.214.181
+last-account-name: Lemon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510402235358
+  lastteleport: 1498937590143
+  logout: 1510402248411
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -225.19369086722622
+  y: 47.0
+  z: 483.2994218734054
+  yaw: 270.24578857421875
+  pitch: 5.917779445648193
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.30000001192093
+  y: 65.0
+  z: 80.30000001192093
+  yaw: 167.33897399902344
+  pitch: 8.274516105651855
+  world-name: ''
+ip-address: 82.231.66.44
+last-account-name: Its_Demon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

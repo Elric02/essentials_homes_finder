@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480848116246
+  logout: 1480803457919
+  lastteleport: 1480849601984
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -67.69999998807907
+  y: 60.0
+  z: 558.4889569097958
+  yaw: 49.95018005371094
+  pitch: 18.600017547607422
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 210.50275179320812
+  y: 104.0
+  z: -113.69697220108783
+  yaw: 355.5889587402344
+  pitch: 42.474510192871094
+  world-name: ''
+ip-address: 81.64.36.130
+last-account-name: mini
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616682819390
+  lastteleport: 1616682887498
+  logout: 1616682963243
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 145.805046158565
+  y: 64.0
+  z: 26.31760849518148
+  yaw: 91.14693450927734
+  pitch: 1.590672492980957
+  world-name: ''
+logoutlocation:
+  world: Donjon
+  x: 2073.582523455587
+  y: 3.9375
+  z: 2009.434470078854
+  yaw: -29.315662384033203
+  pitch: -6.0771942138671875
+  world-name: ''
+ip-address: 78.248.70.23
+last-account-name: Wassim17
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

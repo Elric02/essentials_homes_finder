@@ -1,0 +1,63 @@
+timestamps:
+  login: 1469864120581
+  lastteleport: 1469865983528
+  logout: 1469866088667
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 136.97338022998179
+  y: 76.0
+  z: -270.702163945268
+  yaw: -83.1832504272461
+  pitch: 44.23654556274414
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world_nether
+  x: 143.9385972100559
+  y: 74.0
+  z: -79.69041186485575
+  yaw: -134.18536376953125
+  pitch: 35.16008758544922
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -357.10627336314076
+    y: 73.0
+    z: 418.68522571289367
+    yaw: 274.06317138671875
+    pitch: 22.42552947998047
+    world-name: ''
+  build:
+    world: world
+    x: 104.82596554055011
+    y: 75.0
+    z: -263.32789326715306
+    yaw: -188.61322021484375
+    pitch: 46.301761627197266
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 861.6999999880791
+    y: 44.0
+    z: -32.54998681258398
+    yaw: -316.8030700683594
+    pitch: 30.942787170410156
+    world-name: ''
+afk: false
+ip-address: 165.169.48.249
+last-account-name: Xav974
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

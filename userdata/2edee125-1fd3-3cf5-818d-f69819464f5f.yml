@@ -1,0 +1,55 @@
+timestamps:
+  login: 1522609755348
+  logout: 1522619573559
+  lastteleport: 1522618587624
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -4850.308818688752
+  y: 74.0
+  z: 6432.240447375519
+  yaw: 6.712646484375
+  pitch: 21.478708267211914
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 7376.331975177709
+  y: 77.0
+  z: -294.5475476722705
+  yaw: 204.5635986328125
+  pitch: 33.78838348388672
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 7378.884315746484
+    y: 70.0
+    z: -293.3213131582053
+    yaw: 93.51116943359375
+    pitch: 6.5469841957092285
+    world-name: ''
+  mine:
+    world: Ressource
+    x: -4850.73278280091
+    y: 74.0
+    z: 6432.196333305844
+    yaw: 6.712646484375
+    pitch: 21.478708267211914
+    world-name: ''
+afk: false
+ip-address: 89.2.114.255
+last-account-name: Ptiver
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

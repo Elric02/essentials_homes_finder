@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.159.179.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1706919576742
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1706919804175
+  login: 1706919347158
+money: '0'
+last-account-name: ZED33R
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 398.79068074522786
+  y: 81.0
+  z: -3109.2180902126343
+  yaw: 126.15263366699219
+  pitch: 11.54997444152832
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 98.19264330383048
+  y: 78.27799695135384
+  z: -702.0219022838467
+  yaw: 67.70281982421875
+  pitch: 41.249027252197266

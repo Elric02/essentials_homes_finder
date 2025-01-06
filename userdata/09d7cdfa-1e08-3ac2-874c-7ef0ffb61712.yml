@@ -1,0 +1,47 @@
+timestamps:
+  login: 1515259651627
+  lastteleport: 1515263121897
+  logout: 1515264635392
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 679.848314189483
+  y: 64.0
+  z: 5081.104116769841
+  yaw: -90.7523193359375
+  pitch: 16.34999656677246
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5897.174737499095
+  y: 11.0
+  z: -5638.915950689815
+  yaw: -338.24609375
+  pitch: 12.449994087219238
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -5899.305194553952
+    y: 11.0
+    z: -5641.192087753381
+    yaw: -59.847900390625
+    pitch: 27.59998321533203
+    world-name: ''
+afk: false
+ip-address: 83.197.2.154
+last-account-name: Dark_Games13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

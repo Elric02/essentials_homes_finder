@@ -1,0 +1,38 @@
+timestamps:
+  login: 1563886181793
+  lastteleport: 1563886600597
+  logout: 1563886682032
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -149.9572506707908
+  y: 47.0
+  z: 537.8943400689692
+  yaw: 241.470947265625
+  pitch: 28.953744888305664
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -297.5
+  y: 64.0
+  z: 358.5
+  yaw: -92.24960327148438
+  pitch: 32.10000228881836
+  world-name: ''
+ip-address: 90.29.223.237
+last-account-name: davoolt
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

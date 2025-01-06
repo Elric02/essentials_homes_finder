@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484597237711
+  lastteleport: 1484599243537
+  logout: 1484599862914
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6910.302194566317
+  y: 83.0
+  z: 4381.347699107187
+  yaw: -140.44970703125
+  pitch: -2.457484483718872
+  world-name: ''
+ip-address: 82.216.67.41
+last-account-name: AlbiTek
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

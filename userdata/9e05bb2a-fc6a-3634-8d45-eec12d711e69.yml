@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467325983404
+  logout: 1467326491995
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -497.97610979535256
+  y: 66.0
+  z: 86.80147493599299
+  yaw: -222.59693908691406
+  pitch: 6.224275588989258
+  world-name: ''
+ip-address: 78.129.63.237
+last-account-name: katonai
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

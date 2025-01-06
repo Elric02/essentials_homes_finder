@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618888074236
+  logout: 1618888599624
+  lastteleport: 1618888377928
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -181.14532470703125
+  pitch: 9.575874328613281
+  world-name: ''
+logoutlocation:
+  world: Ressourcenether
+  x: 1.0325957449562113
+  y: 105.0
+  z: 16.10752645006477
+  yaw: 63.9088134765625
+  pitch: 9.300034523010254
+  world-name: ''
+ip-address: 197.10.185.6
+last-account-name: JoueurAnonyme
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

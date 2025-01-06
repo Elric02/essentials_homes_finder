@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477825187579
+  logout: 1477825318978
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.28702908540416
+  y: 63.0
+  z: 49.23643277148627
+  yaw: -69.61417388916016
+  pitch: 17.307907104492188
+  world-name: ''
+ip-address: 90.76.192.207
+last-account-name: HugoMine
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

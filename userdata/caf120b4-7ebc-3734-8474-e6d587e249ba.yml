@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.51.167.245
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1670679155997
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670679445575
+  login: 1670679074230
+money: '0'
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -72.90998185375493
+  y: 67.62756160783519
+  z: 34.59761623382616
+  yaw: 104.25039672851562
+  pitch: 14.849974632263184
+last-account-name: Cactus_II
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -250.894430066204
+  y: 79.27995164541115
+  z: -34.948563029297254
+  yaw: -143.85894775390625
+  pitch: 11.25002384185791

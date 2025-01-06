@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483978493631
+  logout: 1483978590008
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 656.2014680263801
+  y: 87.0
+  z: -3057.3241039233185
+  yaw: -273.30096435546875
+  pitch: 27.299942016601562
+  world-name: ''
+ip-address: 77.153.220.45
+last-account-name: Appletro
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

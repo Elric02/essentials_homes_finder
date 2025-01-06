@@ -1,0 +1,38 @@
+timestamps:
+  login: 1563392753308
+  logout: 1563394426145
+  lastteleport: 1563393523745
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: 288.3626350997964
+  y: 57.0
+  z: 0.2225200273613393
+  yaw: -139.8736572265625
+  pitch: 10.80001163482666
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -1493.926580270734
+  y: 12.0
+  z: 1407.699999988079
+  yaw: 134.10055541992188
+  pitch: -11.700019836425781
+  world-name: ''
+afk: false
+ip-address: 2.3.150.236
+last-account-name: jeremy_sadi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

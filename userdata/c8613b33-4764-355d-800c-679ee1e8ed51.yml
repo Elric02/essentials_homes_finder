@@ -1,0 +1,38 @@
+timestamps:
+  login: 1502439895205
+  lastteleport: 1492769844637
+  logout: 1502439919302
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.78901447381384
+  y: 63.0
+  z: 48.5755002075801
+  yaw: -272.2972412109375
+  pitch: 12.847399711608887
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4855.923256145637
+  y: 71.0
+  z: -570.8835781273018
+  yaw: -180.32264709472656
+  pitch: 9.899996757507324
+  world-name: ''
+ip-address: 81.67.46.227
+last-account-name: Maxime7
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

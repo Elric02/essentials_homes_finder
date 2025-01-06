@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518034725008
+  lastteleport: 1518034839181
+  mute: 0
+  logout: 1518035216755
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.97039242842624
+  y: 63.5
+  z: 65.84707594574851
+  yaw: 204.39691162109375
+  pitch: 0.09065999835729599
+  world-name: ''
+money: '0'
+muted: true
+logoutlocation:
+  world: world
+  x: 154.69842225842666
+  y: 87.0
+  z: -66.77195735063648
+  yaw: -276.3206787109375
+  pitch: 29.27867317199707
+  world-name: ''
+ip-address: 86.249.166.137
+last-account-name: kiler_78654
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

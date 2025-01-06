@@ -1,0 +1,38 @@
+timestamps:
+  login: 1605775777558
+  lastteleport: 1605776277877
+  logout: 1605776403780
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1457.8763550778956
+  y: 63.0
+  z: -2296.9470354056734
+  yaw: -89.32518768310547
+  pitch: -7.200006008148193
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.7269124061879
+  y: 63.0
+  z: 57.31940616533379
+  yaw: 13.179304122924805
+  pitch: -13.621337890625
+  world-name: ''
+ip-address: 92.171.23.97
+last-account-name: raoul_chaton
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

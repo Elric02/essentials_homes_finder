@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482254485320
+  logout: 1482257556186
+  lastteleport: 1482253689102
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.07440385533167
+  y: 64.0
+  z: 27.467721685582482
+  yaw: -238.7132568359375
+  pitch: 1.1961863040924072
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4261.476944649332
+  y: 76.0
+  z: -2625.5559512589793
+  yaw: -138.76123046875
+  pitch: 20.855098724365234
+  world-name: ''
+money: '0'
+ip-address: 176.128.136.170
+last-account-name: loustic
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

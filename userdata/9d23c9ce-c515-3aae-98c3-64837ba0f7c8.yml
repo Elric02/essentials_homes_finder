@@ -1,0 +1,47 @@
+timestamps:
+  login: 1551626310331
+  lastteleport: 1551626526102
+  logout: 1551626847284
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -1483.7622196182328
+  y: 63.0
+  z: 2099.2975090230443
+  yaw: -180.05926513671875
+  pitch: 15.17049789428711
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1855.6901964850233
+  y: 80.0
+  z: -4033.9005840325744
+  yaw: -346.359375
+  pitch: 7.615969657897949
+  world-name: ''
+afk: false
+homes:
+  maison:
+    world: world
+    x: -1876.4054788232622
+    y: 80.0
+    z: -4031.388138539344
+    yaw: -79.50198364257812
+    pitch: 32.99978256225586
+    world-name: ''
+ip-address: 85.168.184.130
+last-account-name: Chocodoc
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

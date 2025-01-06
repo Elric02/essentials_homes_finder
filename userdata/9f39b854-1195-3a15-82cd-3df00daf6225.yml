@@ -1,0 +1,47 @@
+timestamps:
+  login: 1616788401657
+  logout: 1616788875713
+  lastteleport: 1616788719310
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -569.2879493041953
+  y: 66.0
+  z: 2990.8225382771434
+  yaw: -10.048112869262695
+  pitch: 28.79994773864746
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -564.6705323707953
+  y: 67.0
+  z: 2996.7520984529338
+  yaw: 72.45234680175781
+  pitch: -19.949968338012695
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -565.7548544139103
+    y: 67.0
+    z: 2995.664585346415
+    yaw: -91.49810028076172
+    pitch: 27.150041580200195
+    world-name: ''
+ip-address: 88.126.204.146
+last-account-name: diablesse05
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

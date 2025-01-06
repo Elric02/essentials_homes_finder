@@ -1,0 +1,63 @@
+timestamps:
+  login: 1469631829765
+  lastteleport: 1469635322091
+  logout: 1469635451525
+  jail: 0
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1048.0076584768697
+  y: 93.0
+  z: -4045.239321096646
+  yaw: -82.57394409179688
+  pitch: 79.49999237060547
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 675.1305000642058
+  y: 50.0
+  z: -19.82764321013334
+  yaw: 166.1661834716797
+  pitch: 3.300017833709717
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 681.1325021046792
+    y: 50.0
+    z: -28.854918698172867
+    yaw: 188.81614685058594
+    pitch: 11.8500337600708
+    world-name: ''
+  leo:
+    world: world
+    x: 1030.8346175435286
+    y: 70.0
+    z: -4044.5438793353187
+    yaw: -88.873779296875
+    pitch: 87.29991149902344
+    world-name: ''
+  trois:
+    world: world
+    x: -5172.14585442202
+    y: 62.0
+    z: 678.4898528026757
+    yaw: -122.88587188720703
+    pitch: 75.9000015258789
+    world-name: ''
+jailed: false
+socialspy: true
+godmode: false
+muted: false
+ip-address: 90.112.111.208
+last-account-name: Jean_Jean
+teleportenabled: true
+teleportauto: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

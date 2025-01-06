@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477865224629
+  logout: 1477865346509
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.77927388040138
+  y: 63.0
+  z: 43.90387118887155
+  yaw: -268.6974792480469
+  pitch: 2.497398614883423
+  world-name: ''
+ip-address: 88.125.204.244
+last-account-name: MrZivox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

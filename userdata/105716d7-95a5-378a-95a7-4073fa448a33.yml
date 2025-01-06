@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616325930480
+  lastteleport: 1616326120161
+  logout: 1616326184629
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressourcenether
+  x: 0.4214227287559039
+  y: 37.0
+  z: -1.6364684628316029
+  yaw: -178.04226684570312
+  pitch: 7.499990463256836
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressourcenether
+  x: -8.279938100280713
+  y: 30.720513269750775
+  z: -62.40452593820099
+  yaw: -149.69442749023438
+  pitch: -0.149860218167305
+  world-name: ''
+ip-address: 79.80.11.154
+last-account-name: FK_BOY
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

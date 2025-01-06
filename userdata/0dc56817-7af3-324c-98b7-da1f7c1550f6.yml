@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 184.160.197.85
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674416296752
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674515674762
+  login: 1674515670667
+money: '0'
+last-account-name: Micheal__Rosen
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -29.474120065511062
+  y: 72.4766712643849
+  z: -643.0
+  yaw: 124.25877380371094
+  pitch: 33.599021911621094
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -453.64370166706243
+  y: 33.0
+  z: 156.24277551015064
+  yaw: -155.9412841796875
+  pitch: 15.149033546447754

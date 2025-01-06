@@ -1,0 +1,38 @@
+timestamps:
+  login: 1493037762240
+  lastteleport: 1493038222539
+  logout: 1493038250960
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -160.11093139648438
+  pitch: 7.0745134353637695
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 157.0830818415188
+  y: 64.0
+  z: 7.178952015279881
+  yaw: -202.5606231689453
+  pitch: 6.924520015716553
+  world-name: ''
+ip-address: 90.37.97.254
+last-account-name: luc2a
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477409194348
+  lastteleport: 1477409400368
+  logout: 1477409532438
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4183.915610641546
+  y: 64.0
+  z: -3687.8573407641
+  yaw: -19.8203125
+  pitch: 10.127994537353516
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1797.708883770969
+  y: 100.0
+  z: -7098.78615731972
+  yaw: 287.69073486328125
+  pitch: -2.7551984786987305
+  world-name: ''
+ip-address: 82.248.39.39
+last-account-name: luckydiamond
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

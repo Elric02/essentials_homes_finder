@@ -1,0 +1,39 @@
+timestamps:
+  login: 1521231660002
+  mute: 0
+  logout: 1521231677268
+  lastteleport: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 198.48744983757823
+  y: 74.0
+  z: 18.516908154051997
+  yaw: -270.57415771484375
+  pitch: 17.883726119995117
+  world-name: ''
+jailed: true
+jail: cage
+muted: true
+logoutlocation:
+  world: world
+  x: 198.48744983757823
+  y: 74.001
+  z: 18.516908154051997
+  yaw: -73.0
+  pitch: -2.0
+  world-name: ''
+ip-address: 82.102.26.100
+last-account-name: BANMOIPUTAINCON
+teleportenabled: true
+teleportauto: false
+godmode: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

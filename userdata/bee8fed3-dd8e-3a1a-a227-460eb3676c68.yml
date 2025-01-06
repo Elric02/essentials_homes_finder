@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474312723049
+  lastteleport: 1474313689282
+  logout: 1474315592590
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: 322.04482532873567
+  y: 63.0
+  z: 373.7979313123796
+  yaw: -7.710479736328125
+  pitch: 9.429051399230957
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5028.969932294317
+  y: 68.0
+  z: -4327.09939938925
+  yaw: -281.31744384765625
+  pitch: -45.03874588012695
+  world-name: ''
+afk: false
+ip-address: 176.148.159.129
+last-account-name: Flapy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

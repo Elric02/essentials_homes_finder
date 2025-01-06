@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499470866124
+  logout: 1499471004216
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 99.89757618575388
+  y: 63.0
+  z: 25.97662410252523
+  yaw: -302.02496337890625
+  pitch: 9.157398223876953
+  world-name: ''
+ip-address: 74.210.185.125
+last-account-name: revan1016
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

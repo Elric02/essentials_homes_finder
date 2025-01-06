@@ -1,0 +1,63 @@
+timestamps:
+  login: 1582214649272
+  lastteleport: 1581968838621
+  logout: 1582214752446
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 485.3186648854209
+  y: 93.0
+  z: 1807.3710929774093
+  yaw: -275.9989013671875
+  pitch: 26.69996452331543
+  world-name: ''
+homes:
+  karcharos:
+    world: world
+    x: 1394.323603234488
+    y: 65.0
+    z: -3012.772741930488
+    yaw: -272.0701904296875
+    pitch: 27.190608978271484
+    world-name: ''
+  montage:
+    world: world
+    x: 487.1513155537755
+    y: 87.0
+    z: 1810.719666644778
+    yaw: -274.79998779296875
+    pitch: 12.150035858154297
+    world-name: ''
+  donjon:
+    world: world
+    x: -367.7784065460783
+    y: 139.0
+    z: -1821.300000011921
+    yaw: 276.4409484863281
+    pitch: 6.599990367889404
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -225.0908930890553
+  y: 127.0
+  z: -1711.0621965775335
+  yaw: -206.7108917236328
+  pitch: 0.7500951886177063
+  world-name: ''
+afk: false
+ip-address: 78.252.19.9
+last-account-name: emmanuel228
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1495273395512
+  lastteleport: 1495273444100
+  logout: 1495273508599
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -187.74661254882812
+  pitch: 7.928600788116455
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2707.750825367503
+  y: 69.0
+  z: 566.2186832037639
+  yaw: -116.23631286621094
+  pitch: 8.899185180664062
+  world-name: ''
+ip-address: 82.250.213.70
+last-account-name: artelion
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

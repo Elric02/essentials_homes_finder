@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479144212377
+  logout: 1479145623573
+  lastteleport: 1479145343989
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 794.6933968642732
+  y: 16.0
+  z: -1200.2602982914927
+  yaw: -181.2186279296875
+  pitch: 54.89997482299805
+  world-name: ''
+logoutlocation:
+  world: world_the_end
+  x: 20.971928636358758
+  y: 60.0
+  z: -45.34844390764793
+  yaw: -118.96429443359375
+  pitch: 29.25
+  world-name: ''
+ip-address: 90.33.229.233
+last-account-name: ErTyPrince
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

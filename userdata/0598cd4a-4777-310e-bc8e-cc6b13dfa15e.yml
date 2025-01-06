@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.173.36.159
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1697035711199
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697035747869
+  login: 1697035457817
+money: '0'
+last-account-name: ReymonYoYo
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 198.51174252890567
+  y: 63.0
+  z: 33.59478039898371
+  yaw: -123.4350357055664
+  pitch: 10.80026912689209
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 7697.699999988079
+  y: 68.0
+  z: 3336.496684838527
+  yaw: -164.6852264404297
+  pitch: 82.50044250488281

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1584452494014
+  logout: 1584452585349
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.8892361521720886
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.80926442534226
+  y: 63.0
+  z: 40.50317303344814
+  yaw: 90.69705963134766
+  pitch: 17.940706253051758
+  world-name: ''
+ip-address: 91.172.52.37
+last-account-name: thetintin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

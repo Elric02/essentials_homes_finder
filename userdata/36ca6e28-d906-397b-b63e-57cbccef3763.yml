@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514654454771
+  lastteleport: 1514654494049
+  logout: 1514654941352
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.06148666675935
+  y: 65.0
+  z: 85.52415382627491
+  yaw: 186.0969696044922
+  pitch: 1.4406616687774658
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1490.2411457068472
+  y: 66.0
+  z: -2162.9506733160206
+  yaw: -103.875732421875
+  pitch: -1.8000240325927734
+  world-name: ''
+ip-address: 78.198.84.186
+last-account-name: Evan59550
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

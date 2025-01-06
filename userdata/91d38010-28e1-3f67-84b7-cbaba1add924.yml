@@ -1,0 +1,38 @@
+timestamps:
+  login: 1536085769399
+  lastteleport: 1536085877402
+  logout: 1536085937406
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.97029230747287
+  y: 63.0
+  z: 64.40791967377754
+  yaw: -154.45468139648438
+  pitch: 0.8118569850921631
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 404.37695233434533
+  y: 85.0
+  z: -1346.650828104625
+  yaw: -234.08631896972656
+  pitch: 11.99039363861084
+  world-name: ''
+ip-address: 88.180.110.237
+last-account-name: VixenBoy67
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

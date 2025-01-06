@@ -1,0 +1,63 @@
+timestamps:
+  login: 1495630744701
+  lastteleport: 1495631141653
+  logout: 1495631163322
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 266.5
+  y: 59.28526957320212
+  z: 160.5
+  yaw: -193.35708618164062
+  pitch: 61.14240646362305
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -1442.2544650618263
+    y: 71.0
+    z: 570.5325062258389
+    yaw: 93.42732238769531
+    pitch: 32.24640655517578
+    world-name: ''
+  pierre:
+    world: ressource
+    x: 266.8128992601496
+    y: 72.0
+    z: 160.21025551294622
+    yaw: -90.75228881835938
+    pitch: 49.449588775634766
+    world-name: ''
+  cheet:
+    world: Event
+    x: 744.6999999880791
+    y: 7.0
+    z: -1509.699999988079
+    yaw: -6.063666343688965
+    pitch: 26.102378845214844
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+afk: false
+ip-address: 82.248.3.69
+last-account-name: DedS3c
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

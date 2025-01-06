@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 41.108.36.66
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1630872471368
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1630872589368
+  login: 1630871899456
+money: '0'
+last-account-name: kamilMj
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 156.7727856904883
+  y: 63.0
+  z: 41.29991305830537
+  yaw: -188.79872131347656
+  pitch: 22.586435317993164
+logoutlocation:
+  world: 93ff9d95-2d14-489f-9aee-3c95410466ad
+  world-name: Ressource
+  x: -2454.830105504376
+  y: 64.0
+  z: 3756.826660040383
+  yaw: 274.178466796875
+  pitch: 8.72751522064209

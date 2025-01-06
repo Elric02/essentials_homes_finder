@@ -1,0 +1,38 @@
+timestamps:
+  login: 1520281194455
+  logout: 1520281283615
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 141.30000001192093
+  y: 63.0
+  z: -18.11367839437858
+  yaw: 92.79700469970703
+  pitch: 4.2906575202941895
+  world-name: ''
+ip-address: 78.235.50.155
+last-account-name: MmeLaReine
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

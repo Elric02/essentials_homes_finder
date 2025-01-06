@@ -1,0 +1,38 @@
+timestamps:
+  login: 1624746831083
+  lastteleport: 1621270038468
+  logout: 1624746921144
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.3969571755087
+  y: 63.5
+  z: 66.38038437934675
+  yaw: 195.97467041015625
+  pitch: 10.262081146240234
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 293.77010471022334
+  y: 83.0
+  z: -330.2976934714906
+  yaw: 49.08282470703125
+  pitch: 8.477242469787598
+  world-name: ''
+money: '0'
+ip-address: 90.127.47.67
+last-account-name: Rerou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

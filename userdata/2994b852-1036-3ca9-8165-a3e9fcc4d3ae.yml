@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467412935434
+  lastteleport: 1467413136942
+  logout: 1467413272257
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.30000001192092934
+  y: 61.0
+  z: -13.30000001192092
+  yaw: 43.67239761352539
+  pitch: 26.968996047973633
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -136.95583259059944
+  y: 62.9375
+  z: -42.295713215529936
+  yaw: -325.1336669921875
+  pitch: 26.976722717285156
+  world-name: ''
+ip-address: 92.167.156.25
+last-account-name: NeRrozZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

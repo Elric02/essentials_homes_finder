@@ -1,0 +1,47 @@
+timestamps:
+  login: 1490029584373
+  lastteleport: 1490033363158
+  logout: 1490033366063
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1.2573552752766395
+  y: 72.0
+  z: 213.37497045758226
+  yaw: -101.162109375
+  pitch: 21.600040435791016
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 75.93272748478884
+    y: 60.0
+    z: 214.57666974335058
+    yaw: -177.81141662597656
+    pitch: 33.450042724609375
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 75.5
+  y: 60.0
+  z: 214.5
+  yaw: -177.81141662597656
+  pitch: 33.450042724609375
+  world-name: ''
+ip-address: 176.157.254.225
+last-account-name: mimi0607
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

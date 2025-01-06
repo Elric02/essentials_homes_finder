@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467114237363
+  logout: 1467114261411
+  lastteleport: 1467106426121
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -243.58591426229003
+  y: 79.0
+  z: 322.5894828234754
+  yaw: -260.77618408203125
+  pitch: 19.23929214477539
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 58.239302134755434
+  y: 69.0
+  z: 224.56777049513548
+  yaw: -102.05548858642578
+  pitch: 25.959671020507812
+  world-name: ''
+money: '0'
+ip-address: 86.220.130.99
+last-account-name: TM_Boys_Bidiboul
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

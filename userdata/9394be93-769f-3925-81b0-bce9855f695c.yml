@@ -1,0 +1,38 @@
+timestamps:
+  login: 1589026668046
+  lastteleport: 1587910859762
+  logout: 1589026873303
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 148.93041987531683
+  y: 63.0
+  z: 52.75303342651621
+  yaw: 272.0582275390625
+  pitch: -0.9592315554618835
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 159.3993877476077
+  y: 64.0
+  z: 14.368364724336457
+  yaw: 60.27752685546875
+  pitch: 11.878619194030762
+  world-name: ''
+ip-address: 77.153.58.94
+last-account-name: zoenativel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

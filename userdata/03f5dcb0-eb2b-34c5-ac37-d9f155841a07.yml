@@ -1,0 +1,63 @@
+timestamps:
+  login: 1605984210239
+  logout: 1605984688890
+  lastteleport: 1605520010240
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3443.7299827329766
+  y: 63.0
+  z: -2622.6203399735864
+  yaw: 26.609304428100586
+  pitch: 23.779294967651367
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 5521.75125500447
+    y: 63.0
+    z: -2243.8766696054736
+    yaw: -118.96964263916016
+    pitch: 40.65073776245117
+    world-name: ''
+  tortue:
+    world: Ressource
+    x: 2841.553745301928
+    y: 64.0
+    z: -1842.300000011921
+    yaw: 289.49176025390625
+    pitch: 27.000091552734375
+    world-name: ''
+  grenier:
+    world: world
+    x: 5523.110211776864
+    y: 67.0
+    z: -2244.7486949700588
+    yaw: 340.67236328125
+    pitch: 34.350067138671875
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5524.637408843249
+  y: 48.0
+  z: -2229.9282933570344
+  yaw: 117.28216552734375
+  pitch: 21.299610137939453
+  world-name: ''
+afk: false
+ip-address: 81.251.72.82
+last-account-name: balta
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

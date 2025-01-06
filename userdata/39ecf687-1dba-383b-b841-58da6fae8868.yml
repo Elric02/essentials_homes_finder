@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467819692747
+  lastteleport: 1467399526135
+  logout: 1467819777471
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.95421379579233
+  y: 27.5
+  z: 24.063246633655176
+  yaw: 5.461145401000977
+  pitch: -0.31773364543914795
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -340.0055389135413
+  y: 69.5
+  z: 396.93148481190724
+  yaw: 352.07049560546875
+  pitch: 2.9853830337524414
+  world-name: ''
+ip-address: 82.126.225.165
+last-account-name: rieer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

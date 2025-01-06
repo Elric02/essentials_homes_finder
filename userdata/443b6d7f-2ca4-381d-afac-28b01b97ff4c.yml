@@ -1,0 +1,63 @@
+timestamps:
+  login: 1565274664013
+  lastteleport: 1564692797175
+  logout: 1565275113551
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 9998.42894588129
+  y: 132.0
+  z: 10130.20382491067
+  yaw: -43.24884033203125
+  pitch: 32.05864715576172
+  world-name: ''
+money: '0'
+homes:
+  old:
+    world: world
+    x: -5414.772654399238
+    y: 76.0
+    z: 1624.5753786626021
+    yaw: 85.3086166381836
+    pitch: 35.221710205078125
+    world-name: ''
+  home:
+    world: world
+    x: -891.5
+    y: 108.0
+    z: -4096.5
+    yaw: 89.89434814453125
+    pitch: -0.3906075060367584
+    world-name: ''
+  end:
+    world: world
+    x: -4862.320703356752
+    y: 22.0
+    z: -876.5990652534159
+    yaw: 359.1944580078125
+    pitch: 24.673147201538086
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -928.8382550197842
+  y: 113.0
+  z: -4116.158513246566
+  yaw: -232.9744110107422
+  pitch: 6.852496147155762
+  world-name: ''
+afk: false
+jailed: false
+ip-address: 78.224.96.113
+last-account-name: Aurian
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1620223157671
+  lastteleport: 1620224953894
+  logout: 1620225010094
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6529.625954712889
+  y: 61.02355880877491
+  z: 1940.4217629554244
+  yaw: -59.994537353515625
+  pitch: -4.650455951690674
+  world-name: ''
+homes:
+  taha133:
+    world: world
+    x: -454.5991805446515
+    y: 70.0
+    z: -4037.8782200179307
+    yaw: -26.260337829589844
+    pitch: 10.499797821044922
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 128.92658445238493
+  y: 63.0
+  z: -18.847409266872347
+  yaw: -85.14098358154297
+  pitch: 30.425683975219727
+  world-name: ''
+ip-address: 89.83.241.127
+last-account-name: _20_cps_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

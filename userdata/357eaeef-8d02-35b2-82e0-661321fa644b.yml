@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.66.153.96
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1704019441937
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704019520459
+  login: 1704019402768
+money: '50.0'
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -373.60208395066405
+  y: 40.94896501394722
+  z: 160.1524583931956
+  yaw: 13.259002685546875
+  pitch: 31.199047088623047
+last-account-name: Sohran83
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 454.84893101919164
+  y: 32.0
+  z: -544.3868418920268
+  yaw: -86.24996948242188
+  pitch: 32.54996871948242

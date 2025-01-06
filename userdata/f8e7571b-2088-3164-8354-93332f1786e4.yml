@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481719854276
+  lastteleport: 1481720645660
+  logout: 1481720822178
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: -4675.699999988079
+  y: 54.0
+  z: 5591.327811574156
+  yaw: -18.638153076171875
+  pitch: 0.8999909162521362
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: ressource
+  x: 193.69999998807907
+  y: 56.0
+  z: 34.75739131343909
+  yaw: -82.35116577148438
+  pitch: 6.449993133544922
+  world-name: ''
+ip-address: 83.195.111.240
+last-account-name: Toboclic
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

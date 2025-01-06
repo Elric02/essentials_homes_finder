@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498279382724
+  lastteleport: 1498279835102
+  logout: 1498279997730
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 150.8842038948997
+  y: 63.0
+  z: 45.19870924289728
+  yaw: -359.2980041503906
+  pitch: 0.9974055290222168
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 6521.735589336161
+  y: 71.0
+  z: -4054.144782489116
+  yaw: -48.14971923828125
+  pitch: 19.949996948242188
+  world-name: ''
+ip-address: 41.105.218.18
+last-account-name: saiko
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

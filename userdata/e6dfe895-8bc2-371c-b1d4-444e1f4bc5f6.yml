@@ -1,0 +1,188 @@
+timestamps:
+  login: 1681143478397
+  logout: 1681143638155
+  lastteleport: 1681143533424
+  mute: 0
+  kits:
+    color: 1624281026506
+    vip: 1667640332245
+    stationaute: 1667326122796
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 5644.817465031619
+  y: 70.5
+  z: -2602.699999988079
+  yaw: 135.58245849609375
+  pitch: 0.15814214944839478
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 5590.204769783425
+  y: 74.0
+  z: -2606.699999988079
+  yaw: -69.78144836425781
+  pitch: -1.0606369972229004
+  world-name: world
+money: '6126.854545454544829'
+homes:
+  a:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5629.929709957539
+    y: 80.0
+    z: -2589.8762999809674
+    yaw: 38.736732482910156
+    pitch: 32.356727600097656
+    world-name: world
+  o:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 2116.047624912636
+    y: 63.0
+    z: 3682.9725506016734
+    yaw: -3.444732666015625
+    pitch: 27.02961540222168
+    world-name: world
+  q:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 4897.89393020529
+    y: 64.0
+    z: 5740.42741613298
+    yaw: 39.919395446777344
+    pitch: 25.352678298950195
+    world-name: world
+  ilevolante:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: -47.51720191259697
+    y: 88.0
+    z: 507.58664661666927
+    yaw: -271.49468994140625
+    pitch: 90.0
+    world-name: Nether
+  haut:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -71.57828113102634
+    y: 133.0
+    z: -768.5216241324097
+    yaw: -28.59932518005371
+    pitch: 83.48757934570312
+    world-name: world
+  bopaclaim:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2749.3453016323815
+    y: 77.0
+    z: -3709.0632616323855
+    yaw: 125.8077621459961
+    pitch: -0.24487097561359406
+    world-name: world
+  nether2:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: 910.0968914430748
+    y: 60.0
+    z: 120.91188461444312
+    yaw: -85.42479705810547
+    pitch: 20.121713638305664
+    world-name: Nether
+  temple:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2296.7012664952595
+    y: 56.60004601109584
+    z: 1249.3706850507194
+    yaw: 70.966064453125
+    pitch: 10.177908897399902
+    world-name: world
+  nether:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: 2251.6071134326417
+    y: 59.875
+    z: -232.90201633468638
+    yaw: 8.26285457611084
+    pitch: 53.23788833618164
+    world-name: Nether
+  farm2:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: 2274.244052151342
+    y: 28.0
+    z: -232.41884264862884
+    yaw: -258.1852111816406
+    pitch: -11.019726753234863
+    world-name: Nether
+  killian:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5229.300000011921
+    y: 82.0
+    z: 572.3315900523735
+    yaw: -89.92520141601562
+    pitch: 34.880523681640625
+    world-name: world
+  sq:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5516.979580958911
+    y: 64.0
+    z: 356.08467950842044
+    yaw: -191.5753173828125
+    pitch: 5.082604885101318
+    world-name: world
+  truc:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5656.245976241084
+    y: 70.0
+    z: -2591.6297979303554
+    yaw: -49.02804946899414
+    pitch: 30.147735595703125
+    world-name: world
+  i:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5308.049954943573
+    y: 32.0
+    z: 1367.3068658665986
+    yaw: -61.242984771728516
+    pitch: 50.80665969848633
+    world-name: world
+  lava:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5633.300000011921
+    y: 7.480000047683723
+    z: -2581.019645558875
+    yaw: -51.8438720703125
+    pitch: 35.553123474121094
+    world-name: world
+  tour:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3985.9662963326737
+    y: 63.0
+    z: -3017.9944427263886
+    yaw: -332.21826171875
+    pitch: 15.78016185760498
+  farmm:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 5667.699999988079
+    y: 5.0
+    z: -2586.614976806905
+    yaw: -59.62348937988281
+    pitch: 90.0
+  temporelle:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 1070.7044668224412
+    y: 69.0
+    z: -5168.107711702608
+    yaw: 141.41461181640625
+    pitch: 24.292116165161133
+afk: false
+muted: false
+nickname: §1Ma§fMa§491
+ip-address: 92.169.202.220
+last-account-name: MaMa91
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

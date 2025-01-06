@@ -1,0 +1,38 @@
+timestamps:
+  login: 1612450470915
+  lastteleport: 1607364931189
+  logout: 1612450520897
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: -570.5047784962812
+  y: 31.0
+  z: 713.0738247876635
+  yaw: -178.75360107421875
+  pitch: 5.100006580352783
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4626.198197319598
+  y: 67.0
+  z: 6269.993514021772
+  yaw: -194.2884521484375
+  pitch: 10.64970588684082
+  world-name: ''
+afk: false
+ip-address: 88.124.254.222
+last-account-name: KINDERMAXOU
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

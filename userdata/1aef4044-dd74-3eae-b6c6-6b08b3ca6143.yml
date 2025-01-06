@@ -1,0 +1,47 @@
+timestamps:
+  login: 1568217706557
+  lastteleport: 1568219058199
+  logout: 1568220482160
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -122.9866759179632
+  y: 12.0
+  z: -23.26403246511005
+  yaw: 41.7653923034668
+  pitch: 28.479156494140625
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 4790.146723844977
+    y: 64.0
+    z: -2283.654486618925
+    yaw: -78.85092163085938
+    pitch: 25.35596466064453
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 4822.730840546839
+  y: 85.0
+  z: -2228.6637632211136
+  yaw: 174.1707763671875
+  pitch: 3.241266965866089
+  world-name: ''
+ip-address: 92.134.218.83
+last-account-name: menbloody
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

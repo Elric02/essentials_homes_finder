@@ -1,0 +1,38 @@
+timestamps:
+  login: 1612214739661
+  logout: 1612215242508
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 126.86533104969287
+  y: 64.0
+  z: 58.69197897379193
+  yaw: -154.85191345214844
+  pitch: 28.590559005737305
+  world-name: ''
+ip-address: 82.123.5.172
+last-account-name: blaise_91
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

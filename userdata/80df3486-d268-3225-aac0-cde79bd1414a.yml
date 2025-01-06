@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477155989207
+  logout: 1477156163308
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.54967592356476
+  y: 63.0
+  z: 7.882582142456224
+  yaw: -177.12351989746094
+  pitch: 23.170059204101562
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 162.47281744404341
+  y: 63.0
+  z: 33.75207550417993
+  yaw: 91.58345794677734
+  pitch: 13.763265609741211
+  world-name: ''
+ip-address: 78.207.246.18
+last-account-name: Ze_Craft783
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

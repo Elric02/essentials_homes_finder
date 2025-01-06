@@ -1,0 +1,64 @@
+timestamps:
+  login: 1504273996042
+  lastteleport: 1503156199053
+  logout: 1504274764833
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 169.60263098113938
+  y: 81.0
+  z: 129.91536878499383
+  yaw: 284.3665771484375
+  pitch: 13.9500732421875
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2568.112500011921
+  y: 157.0
+  z: 2317.7590550992363
+  yaw: -95.8455810546875
+  pitch: 65.85000610351562
+  world-name: ''
+muted: false
+money: '0'
+homes:
+  base:
+    world: world
+    x: -2519.9941129539816
+    y: 96.0
+    z: 2355.9373165645598
+    yaw: -112.65190887451172
+    pitch: 28.374561309814453
+    world-name: ''
+  data:
+    world: world
+    x: -2587.152168422104
+    y: 93.0
+    z: -1223.4262982191797
+    yaw: 254.155517578125
+    pitch: 46.93449783325195
+    world-name: ''
+  cite:
+    world: world
+    x: -2161.9345994630653
+    y: 63.0
+    z: 6414.827996712668
+    yaw: 244.496337890625
+    pitch: 40.650062561035156
+    world-name: ''
+afk: false
+nickname: creepigy
+jailed: false
+ip-address: 86.214.52.163
+last-account-name: creepigy
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

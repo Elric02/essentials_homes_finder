@@ -1,0 +1,38 @@
+timestamps:
+  login: 1643023402473
+  lastteleport: 1643023572125
+  logout: 1643023702180
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -2391.7417690567722
+  y: 70.0
+  z: -1956.3014440388536
+  yaw: 349.305908203125
+  pitch: 16.8115177154541
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 155.8546817757704
+  y: 63.0
+  z: -17.258345258908687
+  yaw: -181.2741241455078
+  pitch: 6.699442386627197
+  world-name: world
+money: '0'
+afk: false
+ip-address: 77.146.248.210
+last-account-name: zerdias
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

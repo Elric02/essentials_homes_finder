@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485034882009
+  logout: 1485034903976
+  lastteleport: 1483274216332
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4811.89470147135
+  y: 65.0
+  z: -6850.695898150016
+  yaw: 263.078125
+  pitch: 22.37701416015625
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 136.39041028025142
+  y: 63.0
+  z: -10.699999988079071
+  yaw: -257.91082763671875
+  pitch: 8.400003433227539
+  world-name: ''
+afk: false
+ip-address: 93.27.55.15
+last-account-name: _MOJITO
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

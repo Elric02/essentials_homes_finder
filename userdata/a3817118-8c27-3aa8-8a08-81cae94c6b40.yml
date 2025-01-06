@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.35.100.27
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683556159720
+  login: 1683556012280
+money: '0'
+last-account-name: Maelya
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.5
+  y: 81.0
+  z: -3111.5
+  yaw: -29.24805450439453
+  pitch: 4.949899673461914
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 401.2865881174012
+  y: 81.0
+  z: -3119.2469858128497
+  yaw: -84.59813690185547
+  pitch: 41.39982223510742

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485597269397
+  lastteleport: 1485597371874
+  logout: 1485597491358
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.0275720229842
+  y: 63.0
+  z: 34.256334615139316
+  yaw: -318.61383056640625
+  pitch: 90.0
+  world-name: ''
+logoutlocation:
+  world: Event
+  x: 2177.916198757811
+  y: 4.0
+  z: 3130.801538459659
+  yaw: 1.954957127571106
+  pitch: 7.670377731323242
+  world-name: ''
+ip-address: 82.249.221.101
+last-account-name: Hakouchout
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

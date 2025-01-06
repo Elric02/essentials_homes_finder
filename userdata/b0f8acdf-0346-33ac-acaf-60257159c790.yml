@@ -1,0 +1,47 @@
+timestamps:
+  login: 1501401992085
+  lastteleport: 1501409503771
+  logout: 1501409515775
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.9370249027997
+  y: 64.0
+  z: 23.45730838765715
+  yaw: -293.9109191894531
+  pitch: 15.924505233764648
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  home:
+    world: world
+    x: -4819.379316773527
+    y: 73.0
+    z: 5385.7454263611035
+    yaw: -342.2713623046875
+    pitch: 20.5183048248291
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4818.286903720548
+  y: 73.0
+  z: 5385.821447463737
+  yaw: -322.62139892578125
+  pitch: 19.76832389831543
+  world-name: ''
+ip-address: 88.176.246.20
+last-account-name: Liewiglunga
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

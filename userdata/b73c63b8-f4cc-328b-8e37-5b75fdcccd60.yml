@@ -1,0 +1,38 @@
+timestamps:
+  login: 1575140504256
+  lastteleport: 1575140750027
+  logout: 1575141168405
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.82735877567862
+  y: 63.0
+  z: 7.793886457467741
+  yaw: -248.2722625732422
+  pitch: 24.77862548828125
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 109.81689653448386
+  y: 70.0
+  z: -76.92500001192094
+  yaw: -1.67626953125
+  pitch: 54.62922668457031
+  world-name: ''
+ip-address: 87.100.17.253
+last-account-name: Jeanbart64
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

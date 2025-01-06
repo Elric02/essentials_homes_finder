@@ -1,0 +1,55 @@
+timestamps:
+  login: 1474899919078
+  lastteleport: 1474908204452
+  logout: 1474908386898
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4804.696290234164
+  y: 71.0
+  z: -595.3000000119209
+  yaw: 71.30938720703125
+  pitch: 15.529605865478516
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -353.1138036762847
+    y: 63.0
+    z: 4224.442710618625
+    yaw: 90.41773986816406
+    pitch: 3.610515832901001
+    world-name: ''
+  natok:
+    world: world
+    x: -212.77023726842972
+    y: 69.0
+    z: 4198.855212459831
+    yaw: -129.8939208984375
+    pitch: 19.669551849365234
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -337.0175147428144
+  y: 32.0
+  z: 4226.5805422749645
+  yaw: -276.1556701660156
+  pitch: 18.828563690185547
+  world-name: ''
+afk: false
+ip-address: 78.122.160.89
+last-account-name: Lyzius
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

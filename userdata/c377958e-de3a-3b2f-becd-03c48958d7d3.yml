@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499778779996
+  logout: 1499778799695
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.56842747101302
+  y: 63.0
+  z: 49.29939799595417
+  yaw: -166.00152587890625
+  pitch: 10.094096183776855
+  world-name: ''
+ip-address: 78.202.231.46
+last-account-name: tytant
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

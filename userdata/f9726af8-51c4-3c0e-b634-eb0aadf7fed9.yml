@@ -1,0 +1,38 @@
+timestamps:
+  login: 1583766556384
+  lastteleport: 1583766858645
+  logout: 1583766864838
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -157.4086500973697
+  y: 52.0
+  z: 481.4414680470778
+  yaw: 11.77557373046875
+  pitch: 16.54274559020996
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.4912439983309
+  y: 64.0
+  z: 23.643044341806043
+  yaw: -181.2803192138672
+  pitch: 14.016688346862793
+  world-name: ''
+ip-address: 85.192.230.29
+last-account-name: Friskhet
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

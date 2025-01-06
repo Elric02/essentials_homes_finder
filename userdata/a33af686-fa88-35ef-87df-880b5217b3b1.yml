@@ -1,0 +1,63 @@
+timestamps:
+  login: 1515322160061
+  lastteleport: 1515322174577
+  logout: 1515322686590
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -2688.300000011921
+  y: 63.0
+  z: 2738.676744013328
+  yaw: -28.050045013427734
+  pitch: 15.299997329711914
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -5451.364414656255
+    y: 66.0
+    z: 1645.2745557400997
+    yaw: 179.2078857421875
+    pitch: -2.550020456314087
+    world-name: ''
+  m:
+    world: world
+    x: 2330.8900227627555
+    y: 74.875
+    z: -6648.596394760688
+    yaw: -201.59938049316406
+    pitch: 41.54998016357422
+    world-name: ''
+  newhome:
+    world: world
+    x: 3265.9188128814576
+    y: 117.0
+    z: -7371.062056678683
+    yaw: 77.258056640625
+    pitch: -19.16900062561035
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4671.010003061777
+  y: 46.0
+  z: -2778.001795843584
+  yaw: 84.1983413696289
+  pitch: -18.000030517578125
+  world-name: ''
+afk: false
+ip-address: 176.139.48.8
+last-account-name: Alexio0903
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

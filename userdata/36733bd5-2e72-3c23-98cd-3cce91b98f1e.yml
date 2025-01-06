@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.65.41.139
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722116513475
+  login: 1722116489110
+money: '0'
+last-account-name: ThePoupettes
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.4878705420726
+  y: 81.0
+  z: -3111.0157334181517
+  yaw: 14.10193920135498
+  pitch: 19.499942779541016
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.4878705420726
+  y: 81.0
+  z: -3111.0157334181517
+  yaw: -150.7483367919922
+  pitch: 20.849939346313477

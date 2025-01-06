@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466844521638
+  lastteleport: 1466847302884
+  logout: 1466847320403
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 150.88186246984336
+  y: 64.0
+  z: 16.652198591909503
+  yaw: -254.83287048339844
+  pitch: 33.98978042602539
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.52839574328544
+  y: 64.0
+  z: 19.445271162701722
+  yaw: -178.647216796875
+  pitch: -11.475815773010254
+  world-name: ''
+ip-address: 92.155.62.13
+last-account-name: focy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

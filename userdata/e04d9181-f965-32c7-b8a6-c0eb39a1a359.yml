@@ -1,0 +1,38 @@
+timestamps:
+  login: 1503584729153
+  lastteleport: 1503587167320
+  mute: 0
+  logout: 1503587781114
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 140.30000001192093
+  y: 63.0
+  z: 8.300000011920929
+  yaw: 39.33484649658203
+  pitch: -5.825946807861328
+  world-name: ''
+money: '0'
+muted: false
+logoutlocation:
+  world: world
+  x: -5499.709520150657
+  y: 66.0
+  z: 2063.4391779909947
+  yaw: 177.1231689453125
+  pitch: 29.218957901000977
+  world-name: ''
+ip-address: 31.34.5.235
+last-account-name: paulscode
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.152.36.210
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1653832641732
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1653833285347
+  login: 1653832536395
+money: '0'
+last-account-name: soldatf17
+lastlocation:
+  world: ddf65972-e2e1-484e-b68b-78f4e36f8fd9
+  world-name: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 3230.300000011921
+  y: 64.0
+  z: 113.68484522307733
+  yaw: 87.9083251953125
+  pitch: 16.49973487854004

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1489942456534
+  logout: 1489942541353
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 5495.7687174516805
+    y: 78.0
+    z: 5335.426722581491
+    yaw: 168.92941284179688
+    pitch: 54.69121170043945
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5482.142428145511
+  y: 85.0
+  z: 5345.160384475752
+  yaw: -2.30001163482666
+  pitch: 18.91192054748535
+  world-name: ''
+ip-address: 90.33.229.238
+last-account-name: CookieB28
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1593081238512
+  logout: 1593081634453
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.36425356564138
+  y: 63.0
+  z: -8.303286873181229
+  yaw: -27.662206649780273
+  pitch: 12.240699768066406
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.1155825687179
+  y: 65.24918707874468
+  z: 34.19227633039015
+  yaw: 342.401611328125
+  pitch: 26.040761947631836
+  world-name: ''
+ip-address: 82.235.144.187
+last-account-name: MobsKiller
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

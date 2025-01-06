@@ -1,0 +1,47 @@
+timestamps:
+  login: 1522139651128
+  lastteleport: 1522136339932
+  logout: 1522139997054
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2602.4605649482914
+  y: 75.0
+  z: 5364.504516955205
+  yaw: -11.0877685546875
+  pitch: -90.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3579.880507311201
+  y: 68.0
+  z: -3627.5052157228374
+  yaw: -237.87559509277344
+  pitch: 4.644495010375977
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 3584.457598076493
+    y: 68.0
+    z: -3635.307660389364
+    yaw: -169.9048309326172
+    pitch: 87.08939361572266
+    world-name: ''
+ip-address: 84.98.81.33
+last-account-name: Cauchemardesque
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

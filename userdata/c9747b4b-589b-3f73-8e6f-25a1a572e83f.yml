@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517856666272
+  logout: 1517856723628
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.8260305901845
+  y: 63.0
+  z: 62.21099756920688
+  yaw: 171.1141357421875
+  pitch: 12.321736335754395
+  world-name: ''
+ip-address: 78.237.247.220
+last-account-name: marlon2306
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

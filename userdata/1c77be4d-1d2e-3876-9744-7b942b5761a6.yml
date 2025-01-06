@@ -1,0 +1,38 @@
+timestamps:
+  login: 1537716239023
+  lastteleport: 1537716290423
+  logout: 1537716692600
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.7400000669574
+  y: 63.0
+  z: -8.354712669282003
+  yaw: 119.34691619873047
+  pitch: 6.540652275085449
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 273.0819893648784
+  y: 67.92947811872611
+  z: -3301.412700427587
+  yaw: 167.3160858154297
+  pitch: -2.599534511566162
+  world-name: ''
+ip-address: 83.197.105.118
+last-account-name: Donovan35
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

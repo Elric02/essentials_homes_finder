@@ -1,0 +1,63 @@
+timestamps:
+  login: 1485968684695
+  logout: 1485969506803
+  lastteleport: 1485969301576
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -1840.699999988079
+  y: 38.0
+  z: 6378.300000011921
+  yaw: 78.87948608398438
+  pitch: -90.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -794.2086487985079
+  y: 80.0
+  z: -390.734473617565
+  yaw: -138.00064086914062
+  pitch: 29.5739688873291
+  world-name: ''
+homes:
+  mine:
+    world: ressource
+    x: -1840.699999988079
+    y: 38.0
+    z: 6378.300000011921
+    yaw: 78.87948608398438
+    pitch: -90.0
+    world-name: ''
+  wood:
+    world: world
+    x: -869.3265619901225
+    y: 66.0
+    z: -248.27233181185008
+    yaw: -340.5687561035156
+    pitch: 10.27570915222168
+    world-name: ''
+money: '0'
+ip-address: 90.110.202.49
+last-account-name: foliot15111
+mail:
+- legacy: true
+  read: false
+  message: §e[§rBouh§e] §rBalance = argent gagné avec ton métier ou tes shops fais
+    /metier pour voir
+- legacy: true
+  read: false
+  message: §e[§rBouh§e] §ret pour prendre un métier /jobs join <nomdumetier>
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

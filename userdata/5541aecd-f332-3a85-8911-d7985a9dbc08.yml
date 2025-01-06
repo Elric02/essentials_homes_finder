@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466616070517
+  lastteleport: 1463332876453
+  logout: 1463332895242
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.06143591210707
+  y: 27.0
+  z: 20.520388901650694
+  yaw: 288.33563232421875
+  pitch: 22.930591583251953
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.3060554730655
+  y: 64.0
+  z: 27.583972551710715
+  yaw: 59.125633239746094
+  pitch: 13.714583396911621
+  world-name: ''
+ip-address: 80.119.143.200
+last-account-name: 12robotboy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

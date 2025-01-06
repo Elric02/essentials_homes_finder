@@ -1,0 +1,47 @@
+timestamps:
+  login: 1466958585385
+  logout: 1466959152188
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -33.378914973950344
+    y: 69.0
+    z: -154.387189757033
+    yaw: -231.44696044921875
+    pitch: 10.574180603027344
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -403.54555245876264
+  y: 64.34293707874468
+  z: -358.3597603568313
+  yaw: -184.19686889648438
+  pitch: 31.500015258789062
+  world-name: ''
+ip-address: 176.145.70.83
+last-account-name: Rainbow_tim
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

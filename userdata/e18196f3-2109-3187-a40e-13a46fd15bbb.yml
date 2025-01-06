@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516184612530
+  lastteleport: 1516184837569
+  logout: 1516184935050
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 98.85502289294139
+  y: 60.7531999805212
+  z: -187.69999998807904
+  yaw: 178.1156005859375
+  pitch: 8.635055541992188
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -290.85020683108735
+  y: 94.0
+  z: 19395.877285728977
+  yaw: -190.394287109375
+  pitch: 7.976936340332031
+  world-name: ''
+ip-address: 70.51.199.244
+last-account-name: StunieGame
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

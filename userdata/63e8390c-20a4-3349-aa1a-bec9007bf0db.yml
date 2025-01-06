@@ -1,0 +1,38 @@
+timestamps:
+  login: 1527527794229
+  logout: 1527527897594
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1912.300000011921
+  y: 75.0
+  z: 5004.18190297076
+  yaw: 106.4999771118164
+  pitch: 28.199995040893555
+  world-name: ''
+ip-address: 91.165.88.45
+last-account-name: camillttseul
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

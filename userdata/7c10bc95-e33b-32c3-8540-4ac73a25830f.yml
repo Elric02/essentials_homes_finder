@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609502611230
+  lastteleport: 1609502700567
+  logout: 1609503074272
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.72926348662148
+  y: 63.0
+  z: 65.17000282718145
+  yaw: -142.54916381835938
+  pitch: -6.938600540161133
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.61608073247714
+  y: 64.0
+  z: 28.793439632764148
+  yaw: -73.2567367553711
+  pitch: 16.46238899230957
+  world-name: ''
+ip-address: 83.198.89.200
+last-account-name: SOLAL864
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

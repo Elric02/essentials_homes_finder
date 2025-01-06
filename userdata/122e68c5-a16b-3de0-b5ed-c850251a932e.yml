@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618829505728
+  lastteleport: 1618829692671
+  logout: 1618829726916
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.82343732712053
+  y: 63.0
+  z: 65.03892869087669
+  yaw: -152.00363159179688
+  pitch: 6.240715026855469
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1459.5
+  y: 64.0
+  z: -2167.5
+  yaw: -2.772822141647339
+  pitch: -0.7640507221221924
+  world-name: ''
+ip-address: 197.149.60.29
+last-account-name: amelop12
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

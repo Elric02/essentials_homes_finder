@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.108.217.185
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1676542900816
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1676543105228
+  login: 1676541385418
+money: '50.0'
+lastlocation:
+  world: 98291945-f596-49be-b8c4-088500defea2
+  world-name: Ressource
+  x: -1614.300000011921
+  y: 64.0
+  z: -2318.529639479383
+  yaw: 80.97698974609375
+  pitch: 61.0497932434082
+last-account-name: Amethaelle
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 2767.699999988079
+  y: 63.0
+  z: -2882.337523024486
+  yaw: -177.738525390625
+  pitch: -12.449902534484863

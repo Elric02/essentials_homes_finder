@@ -1,0 +1,38 @@
+timestamps:
+  login: 1575318022825
+  logout: 1575318100134
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.07318921689875
+  y: 66.0
+  z: 75.8187078905004
+  yaw: -185.3026580810547
+  pitch: -0.9592908620834351
+  world-name: ''
+ip-address: 85.68.104.88
+last-account-name: BenTag
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

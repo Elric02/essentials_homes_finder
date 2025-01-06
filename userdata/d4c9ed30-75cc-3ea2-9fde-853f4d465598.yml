@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.175.87.121
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1678205439543
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1678205644886
+  login: 1678205349496
+money: '0'
+last-account-name: zehef
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.46472468249897
+  y: 81.0
+  z: -3109.2211117608185
+  yaw: -140.4768829345703
+  pitch: 9.705812454223633
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 94.46300083110089
+  y: 63.0
+  z: 34.604814014467884
+  yaw: 98.48853302001953
+  pitch: 7.680182456970215

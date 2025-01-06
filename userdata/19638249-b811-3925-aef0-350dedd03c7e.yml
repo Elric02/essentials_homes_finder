@@ -1,0 +1,38 @@
+timestamps:
+  login: 1497218602877
+  lastteleport: 1497219061856
+  logout: 1497219275772
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4433.762499988079
+  y: 62.642949662338374
+  z: 5435.1030079740185
+  yaw: -198.06280517578125
+  pitch: 4.650109767913818
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 148.26951136136492
+  y: 64.0
+  z: 25.808141711957767
+  yaw: -250.56088256835938
+  pitch: 7.6745219230651855
+  world-name: ''
+ip-address: 77.198.244.132
+last-account-name: canetteorigina
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

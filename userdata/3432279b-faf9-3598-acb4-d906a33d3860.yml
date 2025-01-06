@@ -1,0 +1,38 @@
+timestamps:
+  login: 1523444212990
+  lastteleport: 1523444547327
+  logout: 1523444636427
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 164.61815749435297
+  y: 63.0
+  z: 36.405880362949084
+  yaw: -21.6209716796875
+  pitch: 2.1286706924438477
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.00421670236057
+  y: 66.5
+  z: 95.86610065356066
+  yaw: -353.57061767578125
+  pitch: -1.1713287830352783
+  world-name: ''
+ip-address: 88.166.126.123
+last-account-name: Pisapou2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.135.50.58
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1666633554495
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669929608169
+  login: 1669929569067
+money: '0'
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -106.11767935477828
+  y: 39.5
+  z: 1.0134061326935495
+  yaw: -5.8665032386779785
+  pitch: 18.321306228637695
+last-account-name: Ramzan
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -106.12114711433576
+  y: 39.5
+  z: 0.9565779528726932
+  yaw: -13.324630737304688
+  pitch: 17.060781478881836

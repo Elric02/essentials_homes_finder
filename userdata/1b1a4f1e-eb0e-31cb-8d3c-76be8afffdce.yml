@@ -1,0 +1,63 @@
+timestamps:
+  login: 1478079918732
+  lastteleport: 1478081088275
+  logout: 1478082288867
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: 126.78298975865417
+  y: 58.0
+  z: -109.39071388010257
+  yaw: -197.48486328125
+  pitch: 33.15398025512695
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: ressource
+    x: 1642.0819288270939
+    y: 72.0
+    z: -6049.524743237112
+    yaw: -188.8298797607422
+    pitch: 12.91299819946289
+    world-name: ''
+  aimery:
+    world: ressource
+    x: 6395.826235322418
+    y: 80.0
+    z: -1722.3555558500134
+    yaw: -88.71417999267578
+    pitch: 34.96589660644531
+    world-name: ''
+  natura:
+    world: world
+    x: -5412.046163992674
+    y: 70.0
+    z: 636.5433292840489
+    yaw: -118.7837142944336
+    pitch: 12.751096725463867
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -5412.656216003808
+  y: 70.0
+  z: 637.0092632828516
+  yaw: -118.7837142944336
+  pitch: 12.751096725463867
+  world-name: ''
+ip-address: 78.200.228.93
+last-account-name: goldengate12
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

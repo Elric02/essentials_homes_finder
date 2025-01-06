@@ -1,0 +1,38 @@
+timestamps:
+  login: 1556804564662
+  lastteleport: 1556806814788
+  logout: 1556806832068
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -181.07086181640625
+  pitch: -3.2713303565979004
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4603.0
+  y: 71.0
+  z: -1473.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+ip-address: 80.215.166.95
+last-account-name: gaelooi49
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

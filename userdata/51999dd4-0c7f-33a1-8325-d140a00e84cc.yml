@@ -1,0 +1,38 @@
+timestamps:
+  login: 1525188087570
+  lastteleport: 1525187460144
+  logout: 1525188306955
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -227.48165299778995
+  y: 129.0
+  z: -3859.132417422815
+  yaw: -241.2542724609375
+  pitch: 15.300027847290039
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.03173331687057
+  y: 64.0
+  z: 17.11459503244203
+  yaw: -136.9708709716797
+  pitch: 5.578668594360352
+  world-name: ''
+ip-address: 87.91.78.10
+last-account-name: Azraelle
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

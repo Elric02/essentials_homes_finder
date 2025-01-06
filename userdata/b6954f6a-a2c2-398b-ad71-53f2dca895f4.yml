@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483793208866
+  logout: 1483793495685
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5121.4322360180395
+  y: 78.0
+  z: 1246.3619828131982
+  yaw: 214.56793212890625
+  pitch: -25.170429229736328
+  world-name: ''
+ip-address: 50.150.17.87
+last-account-name: Bendik98
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

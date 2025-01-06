@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483527714943
+  lastteleport: 1483528685088
+  logout: 1483528810088
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 149.92224881143048
+  y: 64.0
+  z: 29.328330098771453
+  yaw: -213.32260131835938
+  pitch: 15.800142288208008
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -0.7336646272771705
+  y: 72.0
+  z: -95.98084575283858
+  yaw: 152.0530548095703
+  pitch: 19.2424373626709
+  world-name: ''
+ip-address: 85.27.48.100
+last-account-name: aixaur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

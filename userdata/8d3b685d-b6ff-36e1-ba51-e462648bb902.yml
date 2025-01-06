@@ -1,0 +1,47 @@
+timestamps:
+  login: 1537002461955
+  lastteleport: 1537002478310
+  logout: 1537002511122
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5028.709825697504
+  y: 93.0
+  z: 1324.9085560591022
+  yaw: 325.57415771484375
+  pitch: 24.005226135253906
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5268.3294251056195
+  y: 65.0
+  z: 1124.0331693030184
+  yaw: 2.051605224609375
+  pitch: 30.866283416748047
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -5269.978007773287
+    y: 63.0
+    z: 1093.6173533746635
+    yaw: 8.919113159179688
+    pitch: 39.87472152709961
+    world-name: ''
+afk: false
+ip-address: 90.91.174.165
+last-account-name: Nisheyro
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

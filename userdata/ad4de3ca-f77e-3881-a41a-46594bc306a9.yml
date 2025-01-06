@@ -1,0 +1,38 @@
+timestamps:
+  login: 1506098206513
+  logout: 1506098752331
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4934.305275865472
+  y: 182.0
+  z: 6139.783656401667
+  yaw: -340.80023193359375
+  pitch: 17.850101470947266
+  world-name: ''
+logoutlocation:
+  world: Builder
+  x: 351.53188432387594
+  y: 29.737014298121288
+  z: -412.7043766506166
+  yaw: -17.9775390625
+  pitch: -0.6000038385391235
+  world-name: ''
+money: '0'
+ip-address: 90.48.105.99
+last-account-name: Ferith
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

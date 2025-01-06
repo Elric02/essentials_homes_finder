@@ -1,0 +1,38 @@
+timestamps:
+  login: 1497197505205
+  lastteleport: 1496330014215
+  logout: 1497197541267
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.91413559734434
+  y: 66.52442408821369
+  z: 18.483190280580267
+  yaw: 268.7391357421875
+  pitch: 17.724512100219727
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46793846026748
+  y: 64.0
+  z: 13.77911284380743
+  yaw: -33.55534362792969
+  pitch: 10.634139060974121
+  world-name: ''
+ip-address: 88.178.36.49
+last-account-name: BISOUNOURSBLEU
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477909272153
+  logout: 1477909909603
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -219.3609161376953
+  pitch: 32.874515533447266
+  world-name: ''
+ip-address: 78.229.117.186
+last-account-name: dylan45120
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

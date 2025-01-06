@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 128.78.11.158
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1681060001421
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682072709718
+  login: 1682072703372
+money: '50.0'
+last-account-name: Kyan099
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -413.84589786463624
+  y: 67.0
+  z: -132.99722449870433
+  yaw: 61.407325744628906
+  pitch: -28.200124740600586
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -413.84589786463624
+  y: 67.0
+  z: -132.99722449870433
+  yaw: 45.057308197021484
+  pitch: 1.4998764991760254

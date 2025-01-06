@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516560071382
+  logout: 1516561403730
+  lastteleport: 1516560089339
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4090.0970584291945
+  y: 66.0
+  z: -3698.51417458009
+  yaw: -40.200225830078125
+  pitch: 12.274341583251953
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 126.73303494118554
+  y: 64.0
+  z: 9.613247296145417
+  yaw: -306.6207275390625
+  pitch: 26.878690719604492
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 176.157.7.206
+last-account-name: Alkozy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

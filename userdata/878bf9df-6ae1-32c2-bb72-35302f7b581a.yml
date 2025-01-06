@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469974900304
+  logout: 1469975011161
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world_nether
+  x: 74.65949260960345
+  y: 74.5
+  z: -37.282408010601536
+  yaw: 191.98342895507812
+  pitch: 2.354835271835327
+  world-name: ''
+ip-address: 86.71.75.139
+last-account-name: vaan17
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

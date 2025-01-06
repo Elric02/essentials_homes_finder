@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498055205049
+  logout: 1498055352747
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 87.33810418096327
+  y: 64.0
+  z: 23.06526422507689
+  yaw: -340.0528564453125
+  pitch: 47.80873107910156
+  world-name: ''
+ip-address: 176.158.196.216
+last-account-name: Blodborne
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

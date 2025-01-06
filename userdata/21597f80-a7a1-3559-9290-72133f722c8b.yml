@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486394542350
+  logout: 1486394769350
+  lastteleport: 1486394592486
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 193.5
+  y: 67.0
+  z: 118.5
+  yaw: 88.8370361328125
+  pitch: 10.776121139526367
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: ressource
+  x: 254.09895416050682
+  y: 65.24918707874468
+  z: 130.9206011447146
+  yaw: -47.046295166015625
+  pitch: 36.8304443359375
+  world-name: ''
+ip-address: 90.61.174.200
+last-account-name: OrlysTheHitmanTV
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

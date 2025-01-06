@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483897394378
+  logout: 1483898037806
+  lastteleport: 1483897728770
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 143.02931977186392
+  y: 63.0
+  z: 7.768965295274047
+  yaw: -249.5109405517578
+  pitch: 37.82453155517578
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 121.45832492199305
+  y: 63.0
+  z: 29.696274532844285
+  yaw: -193.55242919921875
+  pitch: 14.108061790466309
+  world-name: ''
+money: '0'
+ip-address: 88.140.70.156
+last-account-name: TheIceSldier62
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

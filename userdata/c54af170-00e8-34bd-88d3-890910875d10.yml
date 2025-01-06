@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487429060159
+  lastteleport: 1487429116189
+  logout: 1487429379841
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 457.30000001192093
+  y: 59.0
+  z: 101.74160708769881
+  yaw: 223.8973388671875
+  pitch: 80.40000915527344
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3200.0029562573372
+  y: 59.0
+  z: -5647.514686790799
+  yaw: 347.30078125
+  pitch: 28.949995040893555
+  world-name: ''
+ip-address: 86.218.170.194
+last-account-name: Sarah
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

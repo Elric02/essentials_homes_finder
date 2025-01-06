@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482309853432
+  logout: 1482309786856
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.20639187004434
+  y: 27.0
+  z: 20.541087600560616
+  yaw: -91.247314453125
+  pitch: 12.997395515441895
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.30000001192093
+  y: 64.0
+  z: 18.30000001192093
+  yaw: 95.5026626586914
+  pitch: 44.85000228881836
+  world-name: ''
+ip-address: 92.92.195.9
+last-account-name: Lexy2929
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

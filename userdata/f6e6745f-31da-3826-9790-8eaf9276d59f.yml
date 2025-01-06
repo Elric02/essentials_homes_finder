@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.90.44.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1726936158122
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730673763466
+  login: 1730673763305
+money: '100.0'
+last-account-name: NEWMAN090
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -123.66963363601855
+  y: 64.0
+  z: 45.003190430413994
+  yaw: 21.604339599609375
+  pitch: 4.949892044067383
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -70.24936286253202
+  y: 100.5
+  z: 148.77477480269695
+  yaw: 2.85186767578125
+  pitch: -13.800167083740234

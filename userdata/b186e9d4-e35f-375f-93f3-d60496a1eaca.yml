@@ -1,0 +1,55 @@
+timestamps:
+  login: 1473537603927
+  lastteleport: 1473542514981
+  logout: 1473542705343
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: 382.613261446496
+  y: 5.0
+  z: 346.417574651333
+  yaw: 359.469482421875
+  pitch: 18.000024795532227
+  world-name: ''
+homes:
+  b:
+    world: world
+    x: 928.6560607104022
+    y: 87.0
+    z: -1103.8293378246897
+    yaw: -124.11138916015625
+    pitch: 2.677440716070123E-5
+    world-name: ''
+  spawneur:
+    world: Ressources
+    x: 381.30000001192093
+    y: 14.0
+    z: 287.5473400685658
+    yaw: 183.21961975097656
+    pitch: -68.85003662109375
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressources
+  x: 405.6975573769305
+  y: 4.0
+  z: 270.5170264323075
+  yaw: -177.0826416015625
+  pitch: 35.549983978271484
+  world-name: ''
+ip-address: 90.5.228.52
+last-account-name: Mami04
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

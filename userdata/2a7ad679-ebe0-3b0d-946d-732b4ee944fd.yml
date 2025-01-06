@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486999459949
+  lastteleport: 1483129586336
+  logout: 1487000390902
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1486.2931630972107
+  y: 65.5
+  z: -1495.3759085753975
+  yaw: 266.86761474609375
+  pitch: 35.699974060058594
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3793.300000011921
+  y: 72.0
+  z: -1766.7580458006985
+  yaw: 76.80011749267578
+  pitch: 25.80001449584961
+  world-name: ''
+ip-address: 83.115.66.210
+last-account-name: aymeric1906
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

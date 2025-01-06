@@ -1,0 +1,38 @@
+timestamps:
+  login: 1503047834075
+  lastteleport: 1503047946373
+  logout: 1503047965703
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2757.5449781781813
+  y: 67.0
+  z: -3943.455525386932
+  yaw: -159.90008544921875
+  pitch: 13.350017547607422
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -596.9542113599094
+  y: 64.0
+  z: -783.027245539355
+  yaw: -46.950096130371094
+  pitch: 0.326343297958374
+  world-name: ''
+ip-address: 86.216.40.193
+last-account-name: 2nyx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

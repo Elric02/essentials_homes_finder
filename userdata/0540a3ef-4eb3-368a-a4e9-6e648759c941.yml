@@ -1,0 +1,38 @@
+timestamps:
+  login: 1559676067049
+  lastteleport: 1496515831880
+  logout: 1559676183021
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0010305070505
+  y: 63.0
+  z: 48.21658315295856
+  yaw: -284.447265625
+  pitch: 11.197399139404297
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 165.39797709535557
+  y: 64.0
+  z: 16.49506092310977
+  yaw: 17.6798095703125
+  pitch: 4.650022506713867
+  world-name: ''
+money: '0'
+ip-address: 109.15.5.93
+last-account-name: yxela
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

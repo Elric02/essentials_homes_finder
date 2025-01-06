@@ -1,0 +1,47 @@
+timestamps:
+  login: 1472377439710
+  logout: 1472378887305
+  lastteleport: 1472378838718
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.23750001192093
+  y: 63.0
+  z: 35.59956851754998
+  yaw: -262.7108154296875
+  pitch: 51.62452697753906
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 49.5
+  y: 72.0
+  z: 892.5
+  yaw: -6.316323280334473
+  pitch: 38.549983978271484
+  world-name: ''
+homes:
+  home:
+    world: Ressource
+    x: 49.69999998807908
+    y: 72.0
+    z: 892.2375000119209
+    yaw: 10.183676719665527
+    pitch: 40.94998550415039
+    world-name: ''
+ip-address: 213.111.31.87
+last-account-name: goldensnake54
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

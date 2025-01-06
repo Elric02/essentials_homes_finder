@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472177522955
+  lastteleport: 1472178025679
+  logout: 1472178080490
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 96.5
+  y: 72.0
+  z: 409.5
+  yaw: -45.06048583984375
+  pitch: 2.918929100036621
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 96.5
+  y: 72.0
+  z: 409.5
+  yaw: -45.06048583984375
+  pitch: 2.918929100036621
+  world-name: ''
+ip-address: 208.114.164.44
+last-account-name: MaddoxMB
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

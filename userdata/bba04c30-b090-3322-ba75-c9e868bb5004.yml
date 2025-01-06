@@ -1,0 +1,87 @@
+timestamps:
+  login: 1506675303596
+  lastteleport: 1506676225427
+  logout: 1506677453620
+  kits:
+    vip: 1504609393035
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5149.074677118374
+  y: 63.0
+  z: 812.3000000119209
+  yaw: 315.9873046875
+  pitch: 14.230709075927734
+  world-name: ''
+money: '0'
+homes:
+  lave:
+    world: world
+    x: -2254.971587143875
+    y: 60.0
+    z: -1639.942874904401
+    yaw: 24.97808837890625
+    pitch: 27.00022315979004
+    world-name: ''
+  home:
+    world: world
+    x: 5172.478756172008
+    y: 72.0
+    z: 855.8991883907985
+    yaw: 358.2491455078125
+    pitch: -2.700162887573242
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 4475.513012903918
+    y: 23.0
+    z: 2585.300000011921
+    yaw: 76.5394287109375
+    pitch: 20.418203353881836
+    world-name: ''
+  ring:
+    world: world
+    x: 5142.448770593912
+    y: 169.0
+    z: 785.2100857976353
+    yaw: 122.78707885742188
+    pitch: 43.6495361328125
+    world-name: ''
+  ring2:
+    world: world
+    x: 5144.169292653008
+    y: 129.0
+    z: 845.6259674356511
+    yaw: 191.04566955566406
+    pitch: 60.52475357055664
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 5160.300000011921
+  y: 72.0
+  z: 868.6999999880791
+  yaw: 7.2491455078125
+  pitch: -1.1242568492889404
+  world-name: ''
+nickname: Meowstache
+ip-address: 90.76.43.102
+last-account-name: Meowsky
+mail:
+- legacy: true
+  read: false
+  message: §e[§rExidotaku§e] §rBonjour, quand tu te connectera, hésite pas a demander
+    a ce que l'on te fasse un claim :)
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

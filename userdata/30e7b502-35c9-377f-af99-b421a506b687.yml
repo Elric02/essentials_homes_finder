@@ -1,0 +1,38 @@
+timestamps:
+  login: 1557516735703
+  lastteleport: 1557517511173
+  logout: 1557518053653
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -74.88441320700888
+  y: 68.0
+  z: 12.342365099902068
+  yaw: 261.9829406738281
+  pitch: 16.081342697143555
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 2084.604215826677
+  y: 64.0
+  z: -2484.135717201358
+  yaw: -60.74786376953125
+  pitch: 51.89997863769531
+  world-name: ''
+ip-address: 90.45.155.38
+last-account-name: Dragiibus
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

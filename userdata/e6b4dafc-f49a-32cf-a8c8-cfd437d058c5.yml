@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.90.44.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727722608232
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730673731642
+  login: 1730673731162
+money: '0'
+last-account-name: Bili_Boy
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.79563386381557
+  y: 81.0
+  z: -3109.0650978413496
+  yaw: -152.58665466308594
+  pitch: 12.916969299316406
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -65.53945242137402
+  y: 100.5
+  z: 149.71710613502546
+  yaw: 17.86545753479004
+  pitch: 40.44698715209961

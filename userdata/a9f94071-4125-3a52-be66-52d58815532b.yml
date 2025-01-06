@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.164.233.249
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655660296563
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655660372890
+  login: 1655658833274
+money: '0'
+last-account-name: Grand__Grunt
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 4896.56928267383
+  y: 63.0
+  z: 5894.372630810614
+  yaw: 65.88365936279297
+  pitch: 26.058422088623047
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 4937.480235506536
+    y: 177.0
+    z: 5911.029431255678
+    yaw: 72.144287109375
+    pitch: 65.8758544921875
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 4924.897608610253
+  y: 69.0
+  z: 5939.275311126405
+  yaw: -142.5526885986328
+  pitch: -5.99594259262085

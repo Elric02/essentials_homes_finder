@@ -1,0 +1,55 @@
+timestamps:
+  login: 1565649545228
+  lastteleport: 1565649713127
+  logout: 1565649775594
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6372.407477570937
+  y: 106.0
+  z: -6117.498483847233
+  yaw: -172.75003051757812
+  pitch: 9.900009155273438
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6286.104663112649
+  y: 69.0
+  z: 1699.8221638591083
+  yaw: -297.2888488769531
+  pitch: 38.08066940307617
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 6375.336394710473
+    y: 107.0
+    z: -6113.5544518733395
+    yaw: -197.35006713867188
+    pitch: 13.500008583068848
+    world-name: ''
+  home:
+    world: world
+    x: 6285.996458380128
+    y: 69.0
+    z: 1700.0790563522287
+    yaw: -318.1388244628906
+    pitch: 11.83066177368164
+    world-name: ''
+afk: false
+ip-address: 176.169.76.49
+last-account-name: Azrod
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

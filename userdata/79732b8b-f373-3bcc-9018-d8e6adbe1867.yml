@@ -1,0 +1,55 @@
+timestamps:
+  login: 1490282824172
+  lastteleport: 1490284618006
+  logout: 1490284975409
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 175.90744671711076
+  y: 63.0
+  z: 17.9417193937079
+  yaw: -228.52099609375
+  pitch: 17.626625061035156
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 3982.512499988079
+  y: 28.0
+  z: 4791.376111191769
+  yaw: -80.0517578125
+  pitch: 30.730459213256836
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: 1785.728976356713
+    y: 71.0
+    z: -6625.114779867293
+    yaw: 308.5037841796875
+    pitch: 5.197412490844727
+    world-name: ''
+  c:
+    world: Ressource
+    x: 3983.4426343924733
+    y: 23.0
+    z: 4789.034666866864
+    yaw: -262.6868896484375
+    pitch: 5.177121639251709
+    world-name: ''
+afk: false
+ip-address: 93.15.94.173
+last-account-name: TheBlueStream
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

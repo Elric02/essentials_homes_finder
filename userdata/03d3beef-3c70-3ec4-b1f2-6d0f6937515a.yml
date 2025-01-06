@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478442993636
+  lastteleport: 1478442999861
+  logout: 1478443003599
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.36617100716217
+  y: 64.0
+  z: 29.961051839770665
+  yaw: -218.3109130859375
+  pitch: 8.424514770507812
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.74450323348557
+  y: 63.5
+  z: 32.5266183967428
+  yaw: -2.9109203815460205
+  pitch: 13.074512481689453
+  world-name: ''
+ip-address: 176.144.60.169
+last-account-name: Nans
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

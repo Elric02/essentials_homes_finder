@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.173.65.7
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1704133996258
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704400412029
+  login: 1704399533246
+  kits:
+    stationaute: 1703848560422
+money: '0'
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -134.82242494029012
+  y: 88.8063507642592
+  z: 169.92726336382603
+  yaw: 67.6075439453125
+  pitch: 21.14999008178711
+last-account-name: ledortiste
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -377.2751044286901
+  y: 55.0
+  z: 256.24900170226033
+  yaw: 56.55029296875
+  pitch: 26.100072860717773

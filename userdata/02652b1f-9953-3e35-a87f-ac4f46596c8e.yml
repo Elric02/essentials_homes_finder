@@ -1,0 +1,47 @@
+timestamps:
+  login: 1557765274320
+  logout: 1557765306838
+  lastteleport: 1556904194957
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5522.33527846056
+  y: 63.0
+  z: 2183.699999988079
+  yaw: 9.12269115447998
+  pitch: -90.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5588.873117220004
+  y: 71.0
+  z: 2112.5464978322934
+  yaw: 12.72069263458252
+  pitch: 19.050016403198242
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  home:
+    world: world
+    x: -5605.218815380435
+    y: 70.0
+    z: 2133.981788032385
+    yaw: -75.14148712158203
+    pitch: 7.445920944213867
+    world-name: ''
+ip-address: 77.203.41.18
+last-account-name: Polognaise
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1494062635714
+  lastteleport: 1494062644277
+  logout: 1494062680621
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -153.93487046137653
+  y: 68.0
+  z: 368.7207806971863
+  yaw: -266.5491027832031
+  pitch: 13.661468505859375
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -2308.0981609950704
+    y: 98.0
+    z: -2475.198083679675
+    yaw: -178.10845947265625
+    pitch: 23.30929183959961
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -2312.131882047515
+  y: 98.0
+  z: -2482.7863051925387
+  yaw: -276.260498046875
+  pitch: 19.148658752441406
+  world-name: ''
+afk: false
+ip-address: 88.177.120.140
+last-account-name: dragon_white
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

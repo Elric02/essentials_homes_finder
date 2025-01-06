@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521231312279
+  mute: 0
+  logout: 1521231333590
+  lastteleport: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+muted: true
+logoutlocation:
+  world: world
+  x: 158.5
+  y: 65.001
+  z: 100.5
+  yaw: -73.0
+  pitch: -2.0
+  world-name: ''
+ip-address: 82.102.26.100
+last-account-name: pouloulou
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

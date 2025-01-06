@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.107.233.250
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674745996985
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674747381180
+  login: 1674745923571
+money: '0'
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -48.5
+  y: 66.0
+  z: 49.5
+  yaw: -90.12098693847656
+  pitch: 8.816728591918945
+last-account-name: Stickney
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -119.97683609318767
+  y: 74.42354537746205
+  z: 307.7795687531182
+  yaw: 31.40374755859375
+  pitch: 29.107223510742188

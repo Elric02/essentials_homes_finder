@@ -1,0 +1,63 @@
+timestamps:
+  login: 1610898545527
+  lastteleport: 1610903881831
+  logout: 1610904160636
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5998.699999988079
+  y: 55.0
+  z: 1447.699999988079
+  yaw: -358.00830078125
+  pitch: 21.387840270996094
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6063.916055140784
+  y: 70.0
+  z: 1446.7059148186156
+  yaw: -89.57373046875
+  pitch: 6.178638458251953
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 6066.66778133557
+    y: 65.0
+    z: 1443.9129852554918
+    yaw: -346.6253662109375
+    pitch: 9.85572624206543
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 3086.427879260497
+    y: 10.0
+    z: 95.47139785895247
+    yaw: -179.2098388671875
+    pitch: 14.4932861328125
+    world-name: ''
+  zombie:
+    world: Ressource
+    x: 3171.4242520862126
+    y: 6.0
+    z: 104.28470749681104
+    yaw: -204.4697265625
+    pitch: 89.92860412597656
+    world-name: ''
+afk: false
+ip-address: 91.160.89.200
+last-account-name: kawago17
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

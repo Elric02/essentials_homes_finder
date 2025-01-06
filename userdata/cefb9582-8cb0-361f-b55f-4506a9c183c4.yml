@@ -1,0 +1,55 @@
+timestamps:
+  login: 1482328944291
+  lastteleport: 1482271093950
+  logout: 1482330810524
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.44195942588777
+  y: 64.0
+  z: 8.828069664939948
+  yaw: -214.56088256835938
+  pitch: 12.600003242492676
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 6066.160335938124
+    y: 100.0
+    z: 4400.325701492093
+    yaw: -115.45257568359375
+    pitch: 37.500038146972656
+    world-name: ''
+  base:
+    world: world
+    x: 5939.893663107371
+    y: 63.0
+    z: 4342.538915773328
+    yaw: 273.22784423828125
+    pitch: 9.702363014221191
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5969.440372948476
+  y: 68.5
+  z: 4321.411659679446
+  yaw: -16.714111328125
+  pitch: 33.14996337890625
+  world-name: ''
+afk: false
+ip-address: 82.239.138.18
+last-account-name: crapoutana
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1579208374221
+  lastteleport: 1579211316505
+  logout: 1579211463442
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 12060.472361125236
+  y: 62.608214965946615
+  z: 3415.2117081230153
+  yaw: 71.47430419921875
+  pitch: 11.462590217590332
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 12422.975518491598
+  y: 71.0
+  z: 3371.699999988079
+  yaw: 57.10960006713867
+  pitch: 21.40935516357422
+  world-name: ''
+money: '0'
+ip-address: 185.216.24.52
+last-account-name: noidolpo01
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

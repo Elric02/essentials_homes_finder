@@ -1,0 +1,55 @@
+timestamps:
+  login: 1536937653360
+  logout: 1536943645073
+  lastteleport: 1536942424208
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 904.5286535547724
+  y: 4.495200877005911
+  z: -1432.925289196383
+  yaw: 163.222900390625
+  pitch: 13.929220199584961
+  world-name: ''
+logoutlocation:
+  world: Event
+  x: 887.3000000119209
+  y: 12.421599998474122
+  z: -1408.3181513164436
+  yaw: 99.14981079101562
+  pitch: 11.494799613952637
+  world-name: ''
+money: '0'
+homes:
+  a:
+    world: world
+    x: 6650.357930587557
+    y: 67.0
+    z: -2615.304878473726
+    yaw: 89.04359436035156
+    pitch: 35.938961029052734
+    world-name: ''
+  jerwing:
+    world: world
+    x: 6247.424795262785
+    y: 68.0
+    z: -2582.4408422769775
+    yaw: -75.6240234375
+    pitch: 38.46857833862305
+    world-name: ''
+afk: false
+ip-address: 85.218.15.89
+last-account-name: Lapinagile
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

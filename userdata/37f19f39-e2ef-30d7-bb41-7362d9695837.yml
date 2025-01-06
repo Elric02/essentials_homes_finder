@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609163175412
+  logout: 1609165314746
+  lastteleport: 1609164878514
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.39162268861136
+  y: 64.0
+  z: 28.095398179739618
+  yaw: -155.9456024169922
+  pitch: 3.4258813858032227
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 156.66661768109088
+  y: 63.5
+  z: 5.997242987984911
+  yaw: -111.01020812988281
+  pitch: 16.799705505371094
+  world-name: ''
+money: '0'
+ip-address: 176.136.7.0
+last-account-name: AgarthaNr
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

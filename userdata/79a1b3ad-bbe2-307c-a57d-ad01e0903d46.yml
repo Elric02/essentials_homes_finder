@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487594838438
+  logout: 1487594876171
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.0841389495053
+  y: 27.0
+  z: 21.00652585668446
+  yaw: -85.86173248291016
+  pitch: 34.264686584472656
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5868.907488775717
+  y: 80.0
+  z: 5380.9705447163815
+  yaw: -299.8657531738281
+  pitch: 16.27198600769043
+  world-name: ''
+ip-address: 90.51.201.169
+last-account-name: FreddyFaz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

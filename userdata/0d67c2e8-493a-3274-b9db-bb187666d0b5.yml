@@ -1,0 +1,63 @@
+timestamps:
+  login: 1640631507993
+  logout: 1640633049972
+  lastteleport: 1640632645016
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 157.3194357747343
+  y: 64.0
+  z: 18.80249034111062
+  yaw: -325.8800048828125
+  pitch: 28.27809715270996
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 7027.856647584456
+  y: 76.0
+  z: 2109.6604064599524
+  yaw: -185.84266662597656
+  pitch: 25.950057983398438
+  world-name: world
+homes:
+  alizee:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6962.495021396897
+    y: 61.0
+    z: 2093.6739402898766
+    yaw: 176.8497314453125
+    pitch: 12.750118255615234
+    world-name: world
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 7018.585953515524
+    y: 72.0
+    z: 2118.8093093988923
+    yaw: 260.5498046875
+    pitch: -8.249913215637207
+    world-name: world
+  des:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5917.740929034093
+    y: 62.9375
+    z: -3395.248973277633
+    yaw: 172.3524932861328
+    pitch: 8.550520896911621
+money: '0'
+ip-address: 109.12.225.213
+last-account-name: Ange28
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

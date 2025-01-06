@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.194.230.39
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655667910690
+  login: 1655667900238
+money: '0'
+last-account-name: M4thrix
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.21989720338775
+  y: 81.0
+  z: -3111.419409150137
+  yaw: -74.69781494140625
+  pitch: 26.54993438720703
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 155.03797948267425
+  y: 65.0
+  z: 98.82047779564246
+  yaw: 104.93336486816406
+  pitch: 9.53821086883545

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.102.35.7
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671998768300
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671998931799
+  login: 1671998482796
+  kits:
+    stationaute: 1671998604428
+money: '0.0'
+lastlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -4360.5
+  y: 75.0
+  z: 558.5
+  yaw: -154.8670654296875
+  pitch: 19.16303253173828
+last-account-name: KoalatorLeKoala
+logoutlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: 48.252060815358774
+  y: 64.0
+  z: 111.92269113668507
+  yaw: 99.62640380859375
+  pitch: 13.827635765075684

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511125867829
+  logout: 1511125953332
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 179.9671110754441
+  y: 63.0
+  z: 19.55376545367009
+  yaw: -84.49365234375
+  pitch: 7.632582187652588
+  world-name: ''
+ip-address: 78.218.224.44
+last-account-name: MadW0man
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

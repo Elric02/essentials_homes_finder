@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.179.204.150
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1690039024792
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1690039647357
+  login: 1690038952898
+money: '0'
+last-account-name: leobrt21
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 58.425422143804475
+  y: 70.11319442565794
+  z: 362.3845024746433
+  yaw: -43.19331359863281
+  pitch: 13.277363777160645
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 89.93866328444963
+  y: 72.0
+  z: 356.2405727208317
+  yaw: -89.89889526367188
+  pitch: 48.98733139038086

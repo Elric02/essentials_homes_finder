@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.254.165.46
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667520161517
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667521382102
+  login: 1667521252216
+money: '0'
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -153.21635417261314
+  y: 65.0
+  z: -265.66193093186456
+  yaw: -55.82948684692383
+  pitch: 39.34619903564453
+last-account-name: IamNZED
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -155.5267845368821
+  y: 65.0
+  z: -243.4402402965612
+  yaw: -161.27430725097656
+  pitch: 17.57462501525879

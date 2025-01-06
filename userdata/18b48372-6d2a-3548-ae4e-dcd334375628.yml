@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.65.89.23
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667386917603
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667387097670
+  login: 1667386845891
+money: '0'
+last-account-name: Codyxor
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9535366473124
+  y: 81.0
+  z: -3108.9719220917696
+  yaw: -133.04818725585938
+  pitch: 7.049959659576416
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 242.56911943986495
+  y: 60.87577579133721
+  z: 110.56154324590685
+  yaw: -89.099609375
+  pitch: -9.44996452331543

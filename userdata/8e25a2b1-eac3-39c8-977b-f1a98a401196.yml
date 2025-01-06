@@ -1,0 +1,47 @@
+timestamps:
+  login: 1499686809283
+  lastteleport: 1499688089063
+  logout: 1499688098834
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.04610236805377
+  y: 64.0
+  z: 28.53219201863264
+  yaw: -169.50856018066406
+  pitch: 7.659059047698975
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: 6785.466002544988
+    y: 82.0
+    z: 4028.0517979557158
+    yaw: -41.407344818115234
+    pitch: 18.34585189819336
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.81961059570312
+  pitch: -5.8589935302734375
+  world-name: ''
+ip-address: 82.250.117.136
+last-account-name: LaFrode_Tigre
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

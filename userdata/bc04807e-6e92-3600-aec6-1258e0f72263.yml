@@ -1,0 +1,38 @@
+timestamps:
+  login: 1512921189373
+  logout: 1512921346971
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 174.5766849060877
+  y: 63.0
+  z: 38.34678948256409
+  yaw: -339.80316162109375
+  pitch: 4.440661907196045
+  world-name: ''
+ip-address: 88.186.216.221
+last-account-name: DamsGamer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

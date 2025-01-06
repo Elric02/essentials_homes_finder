@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469641432107
+  logout: 1469642440729
+  lastteleport: 1469641636981
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.79009776465043
+  y: 27.0
+  z: 24.476302420400597
+  yaw: 19.92059326171875
+  pitch: -11.385984420776367
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 246.66763894578125
+  y: 67.0
+  z: 124.05864184308206
+  yaw: -234.53076171875
+  pitch: 30.009267807006836
+  world-name: ''
+ip-address: 90.65.204.81
+last-account-name: juba
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

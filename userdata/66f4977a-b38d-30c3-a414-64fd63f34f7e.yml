@@ -1,0 +1,38 @@
+timestamps:
+  login: 1524910623755
+  logout: 1524911043000
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 104.87111797623916
+  y: 63.5
+  z: -68.88757293803471
+  yaw: -186.3531036376953
+  pitch: 11.850007057189941
+  world-name: ''
+ip-address: 41.102.9.25
+last-account-name: andreasbruun700
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

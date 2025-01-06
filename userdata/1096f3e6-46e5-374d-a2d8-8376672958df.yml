@@ -1,0 +1,63 @@
+timestamps:
+  login: 1627590514988
+  lastteleport: 1603815880892
+  logout: 1627591193781
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.48227496185316
+  y: 64.0
+  z: 22.007402652615045
+  yaw: -189.17083740234375
+  pitch: 8.578668594360352
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -699.5770303839106
+    y: 54.0
+    z: -422.9790810315641
+    yaw: -270.11962890625
+    pitch: 40.04999923706055
+    world-name: ''
+  base:
+    world: world
+    x: -313.41429353386246
+    y: 70.0
+    z: 798.8410816051003
+    yaw: -54.449951171875
+    pitch: 18.899906158447266
+    world-name: ''
+  village:
+    world: Ressource
+    x: -1312.300000011921
+    y: 68.0
+    z: -1278.300000011921
+    yaw: -231.59938049316406
+    pitch: 38.69987106323242
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -320.19469377907853
+  y: 71.5625
+  z: 793.6465698523988
+  yaw: -60.75537109375
+  pitch: 22.950002670288086
+  world-name: ''
+afk: false
+ip-address: 77.128.153.155
+last-account-name: SomberBigood
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

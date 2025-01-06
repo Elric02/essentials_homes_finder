@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471970515413
+  logout: 1471970718077
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 195.84081024303273
+  y: 63.990109238049996
+  z: 19.825325668101893
+  yaw: 276.8392333984375
+  pitch: 73.97445678710938
+  world-name: ''
+ip-address: 80.12.38.12
+last-account-name: TrialJF39
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

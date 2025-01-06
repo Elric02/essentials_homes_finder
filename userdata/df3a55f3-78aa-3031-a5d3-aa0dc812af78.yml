@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 213.223.53.118
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635193231115
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635193363068
+  login: 1635192635900
+money: '0'
+last-account-name: MathRome96
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1405.5639979364546
+  y: 70.0
+  z: -1511.5889382565513
+  yaw: -350.9312744140625
+  pitch: 42.847084045410156
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 5386.300000011921
+  y: 60.0
+  z: 4506.300000011921
+  yaw: 294.48773193359375
+  pitch: 3.9173684120178223

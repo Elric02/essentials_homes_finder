@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526803659043
+  logout: 1526803685069
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.7602842404704
+  y: 65.875
+  z: 97.63899064941428
+  yaw: 242.8795623779297
+  pitch: 90.0
+  world-name: ''
+ip-address: 90.11.164.35
+last-account-name: Drago_Fiennil
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1587888160257
+  lastteleport: 1587889843709
+  logout: 1587890062792
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4827.509737445892
+  y: 101.0
+  z: -573.3079439586888
+  yaw: 24.2314453125
+  pitch: 16.905685424804688
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4978.439818434644
+  y: 71.0
+  z: -420.471060223327
+  yaw: -275.6733703613281
+  pitch: 3.9288742542266846
+  world-name: ''
+ip-address: 89.3.48.92
+last-account-name: Aseltix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

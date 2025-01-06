@@ -1,0 +1,38 @@
+timestamps:
+  login: 1578245904938
+  lastteleport: 1578245356231
+  logout: 1578246043422
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.77336262381755
+  y: 63.0
+  z: 33.75196075710771
+  yaw: -20.4239501953125
+  pitch: 32.25019073486328
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -1564.5809918699817
+  y: 48.231523797587016
+  z: -457.4006119963145
+  yaw: -275.2491760253906
+  pitch: 73.49986267089844
+  world-name: ''
+ip-address: 90.47.163.225
+last-account-name: dhbhtnhs51516
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1600621583552
+  logout: 1600621885920
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: Nether
+  x: 3.699999988079072
+  y: 64.0
+  z: -21.12205828552966
+  yaw: -85.67108917236328
+  pitch: 18.963605880737305
+  world-name: ''
+ip-address: 86.241.42.156
+last-account-name: Rafaelstphant65
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

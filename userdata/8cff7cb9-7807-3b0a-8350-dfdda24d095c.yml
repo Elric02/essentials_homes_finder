@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481970755059
+  lastteleport: 1481970967449
+  logout: 1481971271800
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -155.76836711115237
+  y: 43.0
+  z: 346.29851185166655
+  yaw: -89.85397338867188
+  pitch: -17.879581451416016
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4606.709512039414
+  y: 64.0
+  z: -3637.238744898387
+  yaw: 336.836669921875
+  pitch: 7.865685939788818
+  world-name: ''
+ip-address: 86.203.8.17
+last-account-name: GEOTOPO
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

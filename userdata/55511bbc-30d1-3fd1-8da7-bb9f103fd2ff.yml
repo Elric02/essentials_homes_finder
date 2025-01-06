@@ -1,0 +1,47 @@
+timestamps:
+  login: 1502141589450
+  mute: 0
+  lastteleport: 1502147244199
+  logout: 1502148023351
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -610.2041995632363
+  y: 69.0
+  z: 779.1321136157723
+  yaw: -190.16700744628906
+  pitch: 24.899986267089844
+  world-name: ''
+money: '0'
+muted: false
+afk: false
+logoutlocation:
+  world: world
+  x: -864.4210436484595
+  y: 82.0
+  z: 145.40705392516224
+  yaw: 263.15582275390625
+  pitch: 24.449867248535156
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -865.5450518810844
+    y: 70.5625
+    z: 153.4405415128171
+    yaw: 205.85455322265625
+    pitch: 69.60001373291016
+    world-name: ''
+ip-address: 82.230.166.112
+last-account-name: Yazrodia
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

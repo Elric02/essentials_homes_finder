@@ -1,0 +1,63 @@
+timestamps:
+  login: 1505555865036
+  lastteleport: 1502898357063
+  logout: 1505555883822
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -130.30000001192087
+  y: 15.0
+  z: -24.699999988079064
+  yaw: -350.44036865234375
+  pitch: -59.69991683959961
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -926.090505880993
+    y: 92.0
+    z: -5399.595491882722
+    yaw: 96.1500015258789
+    pitch: 34.50002670288086
+    world-name: ''
+  terre:
+    world: Ressource
+    x: -176.22707664522775
+    y: 13.0
+    z: 61.91109444460713
+    yaw: -237.6396484375
+    pitch: 19.050167083740234
+    world-name: ''
+  ville:
+    world: world_nether
+    x: -4262.635311435506
+    y: 63.0
+    z: 5735.597968307429
+    yaw: -353.42535400390625
+    pitch: 44.850006103515625
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -930.830898809574
+  y: 92.0
+  z: -5398.876507159134
+  yaw: -205.5000762939453
+  pitch: -11.399972915649414
+  world-name: ''
+afk: false
+ip-address: 81.56.67.68
+last-account-name: failaxite92YTB
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

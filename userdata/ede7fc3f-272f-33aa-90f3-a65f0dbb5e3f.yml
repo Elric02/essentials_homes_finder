@@ -1,0 +1,47 @@
+timestamps:
+  login: 1493466364465
+  lastteleport: 1493466571697
+  logout: 1493467247433
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.33582163919476
+  y: 63.5
+  z: 6.614939523288212
+  yaw: -179.7609100341797
+  pitch: 5.574519157409668
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.96717235343365
+  y: 63.0
+  z: 48.10550578743805
+  yaw: -87.66093444824219
+  pitch: 2.274514675140381
+  world-name: ''
+homes:
+  home:
+    world: Ressource
+    x: 6496.865334596847
+    y: 42.0
+    z: -796.5544327461358
+    yaw: 272.54925537109375
+    pitch: 34.19997787475586
+    world-name: ''
+afk: false
+ip-address: 93.43.201.186
+last-account-name: gabroche
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

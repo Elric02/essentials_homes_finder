@@ -1,0 +1,55 @@
+timestamps:
+  login: 1597428194937
+  lastteleport: 1597091225292
+  logout: 1597428440762
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -120.48808935817797
+  y: 25.0
+  z: 177.20053842625944
+  yaw: 90.6090087890625
+  pitch: 14.26150894165039
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6148.681970484892
+  y: 70.0
+  z: 3996.2166953001806
+  yaw: 40.460418701171875
+  pitch: 4.694351673126221
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 4031.7965055136115
+    y: 65.0
+    z: -5286.531303219881
+    yaw: -129.27423095703125
+    pitch: 18.027294158935547
+    world-name: ''
+  bl:
+    world: Ressource
+    x: -105.41419148834814
+    y: 10.0
+    z: -209.85527214527158
+    yaw: -352.9427795410156
+    pitch: 14.122272491455078
+    world-name: ''
+ip-address: 86.216.87.229
+last-account-name: titan8806
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

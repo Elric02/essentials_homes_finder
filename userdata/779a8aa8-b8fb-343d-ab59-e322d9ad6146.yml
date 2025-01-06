@@ -1,0 +1,47 @@
+timestamps:
+  login: 1535575954313
+  logout: 1535575976378
+  lastteleport: 1534897270736
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.05000001192093
+  y: 65.5
+  z: 11.314169962064344
+  yaw: 100.63168334960938
+  pitch: 51.14277267456055
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4232.347626002389
+  y: 95.76636799395752
+  z: 572.6720181081951
+  yaw: 3.5895135402679443
+  pitch: 58.6500129699707
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 4215.685843061211
+    y: 101.0
+    z: 545.2478199547587
+    yaw: -91.50985717773438
+    pitch: 17.100130081176758
+    world-name: ''
+ip-address: 64.190.110.31
+last-account-name: ftwsolidsnake
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

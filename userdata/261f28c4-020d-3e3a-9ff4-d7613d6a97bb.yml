@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.29.124.114
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1669816593995
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669819076618
+  login: 1669816225074
+money: '0'
+last-account-name: Celestiax45
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 309.6071666422458
+  y: 65.0
+  z: -128.98249610468315
+  yaw: 68.187744140625
+  pitch: 1.344801902770996
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 244.4279959030863
+  y: 81.36813569728037
+  z: -113.94066379829437
+  yaw: -175.01544189453125
+  pitch: 28.36800193786621

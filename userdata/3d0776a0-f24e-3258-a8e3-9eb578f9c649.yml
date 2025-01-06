@@ -1,0 +1,63 @@
+timestamps:
+  login: 1519579674741
+  lastteleport: 1519579765848
+  logout: 1519579791677
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -377.5
+  y: 87.0
+  z: 6879.5
+  yaw: 196.27780151367188
+  pitch: 17.065126419067383
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -392.69999998807907
+  y: 86.5
+  z: 6852.699999988079
+  yaw: -123.2697525024414
+  pitch: 85.97977447509766
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -381.66106314133503
+    y: 88.0
+    z: 6842.45614828433
+    yaw: 137.939453125
+    pitch: 20.598079681396484
+    world-name: ''
+  maiso_:
+    world: world
+    x: -377.209027208831
+    y: 87.0
+    z: 6879.932390356269
+    yaw: 64.56231689453125
+    pitch: 40.23435974121094
+    world-name: ''
+  b:
+    world: world
+    x: -386.0387761050893
+    y: 256.0
+    z: 6448.470634567015
+    yaw: 91.13929748535156
+    pitch: 44.931087493896484
+    world-name: ''
+afk: false
+ip-address: 78.201.46.51
+last-account-name: superbonbon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,87 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.199.29.82
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712256206656
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712256214919
+  login: 1712256118575
+money: '1942.0'
+last-account-name: Lau0173
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 2496.3947309245473
+  y: 82.0
+  z: 5494.799695704219
+  yaw: 123.0836181640625
+  pitch: 20.700448989868164
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 2511.4356114229454
+  y: 70.0
+  z: 5503.1288880413285
+  yaw: -73.4251708984375
+  pitch: 25.94886589050293
+homes:
+  patin:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1949.8563200625558
+    y: 96.0
+    z: 5067.207269102371
+    yaw: -80.36691284179688
+    pitch: 16.19994354248047
+  chateau:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2520.724804440838
+    y: 77.0
+    z: 5521.046045368934
+    yaw: 115.282470703125
+    pitch: 14.100510597229004
+  build:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2495.3714785739485
+    y: 69.0
+    z: 5501.541646735159
+    yaw: -73.4251708984375
+    pitch: 25.94886589050293
+  desert:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 2340.466229695307
+    y: 115.0
+    z: -1383.699999988079
+    yaw: -137.833740234375
+    pitch: 2.346348762512207
+  cobble:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 2675.421657939845
+    y: 64.0
+    z: -1404.619409560128
+    yaw: -5.6834716796875
+    pitch: -0.7763636708259583
+  a:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2537.0231750532166
+    y: 92.0
+    z: 5515.300000011921
+    yaw: -96.49331665039062
+    pitch: 21.599647521972656

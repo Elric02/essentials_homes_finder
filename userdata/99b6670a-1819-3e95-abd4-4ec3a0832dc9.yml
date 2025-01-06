@@ -1,0 +1,38 @@
+timestamps:
+  login: 1544140070211
+  lastteleport: 1544140756776
+  logout: 1544140800068
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 213.30000001192093
+  y: 63.0
+  z: -51.30000001192096
+  yaw: -309.7701416015625
+  pitch: 3.628678798675537
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 353.50243323985444
+  y: 99.0
+  z: 1689.657936495852
+  yaw: -86.39971923828125
+  pitch: -0.4500121772289276
+  world-name: ''
+ip-address: 176.174.3.44
+last-account-name: Dwarft_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

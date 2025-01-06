@@ -1,0 +1,38 @@
+timestamps:
+  login: 1541005739451
+  logout: 1541011021562
+  lastteleport: 1541007746431
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.94728813551833
+  y: 66.0
+  z: 19.403613933069476
+  yaw: -85.82223510742188
+  pitch: -1.8000693321228027
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -493.34278020323904
+  y: 65.0
+  z: -850.2375000119209
+  yaw: 237.92425537109375
+  pitch: 25.94994354248047
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 96.22.31.3
+last-account-name: mind_militari
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

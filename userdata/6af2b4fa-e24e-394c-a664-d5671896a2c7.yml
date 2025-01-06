@@ -1,0 +1,38 @@
+timestamps:
+  login: 1528041174819
+  logout: 1528042645240
+  lastteleport: 1528041187226
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5457178954058
+  y: 65.0
+  z: 71.66679468508848
+  yaw: 157.59706115722656
+  pitch: 3.3906521797180176
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -400.6619362880202
+  y: 63.0
+  z: -249.81286740879557
+  yaw: 314.941162109375
+  pitch: 6.449985027313232
+  world-name: ''
+money: '0'
+ip-address: 93.14.173.239
+last-account-name: OoaxeloO
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

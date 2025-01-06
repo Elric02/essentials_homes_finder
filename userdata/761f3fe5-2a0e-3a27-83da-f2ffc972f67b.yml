@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480527978878
+  logout: 1480527982479
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.50037559501283
+  y: 63.0
+  z: 46.39075892731203
+  yaw: -177.94728088378906
+  pitch: 7.297407150268555
+  world-name: ''
+ip-address: 90.16.86.233
+last-account-name: hugo242
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

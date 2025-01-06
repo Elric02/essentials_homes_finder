@@ -1,0 +1,38 @@
+timestamps:
+  login: 1502823332244
+  lastteleport: 1502745043337
+  logout: 1502823668690
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.05482492145987
+  y: 28.0
+  z: 21.880674864735767
+  yaw: -196.13299560546875
+  pitch: 17.725894927978516
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -5197.52892111641
+  y: 65.60100002384186
+  z: 1691.0679803416476
+  yaw: 254.36325073242188
+  pitch: 0.0
+  world-name: ''
+money: '0'
+ip-address: 90.23.220.186
+last-account-name: lilo27
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1529157598094
+  lastteleport: 1529158103177
+  logout: 1529158386339
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -131.04976335826856
+  y: 64.0
+  z: 10.886367349802297
+  yaw: 185.91220092773438
+  pitch: 37.79999923706055
+  world-name: ''
+homes:
+  ressource:
+    world: Ressource
+    x: -116.59015953577538
+    y: 65.0
+    z: -2.428532127502175
+    yaw: 192.06248474121094
+    pitch: -6.599991798400879
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 4831.602742718281
+  y: 63.0
+  z: 6639.87157805059
+  yaw: -356.62127685546875
+  pitch: -2.5500051975250244
+  world-name: ''
+ip-address: 93.26.77.123
+last-account-name: Le_Nils_BG
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

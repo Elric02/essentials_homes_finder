@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482159196164
+  lastteleport: 1482159552704
+  logout: 1482159573995
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1284.5393269993122
+  y: 63.0
+  z: 3929.4050381174725
+  yaw: -33.939971923828125
+  pitch: 64.58984375
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: -1891.7895388815539
+  y: 69.0
+  z: 3048.8547938738984
+  yaw: 218.1982879638672
+  pitch: 45.59778594970703
+  world-name: ''
+money: '0'
+ip-address: 213.245.175.238
+last-account-name: Herhacles
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

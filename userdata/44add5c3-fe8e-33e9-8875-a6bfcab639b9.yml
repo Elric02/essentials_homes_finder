@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472045787481
+  logout: 1472046121329
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.26783197579726
+  y: 27.0
+  z: 19.860074343696763
+  yaw: -62.0163459777832
+  pitch: 31.363801956176758
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 157.24737416768593
+  y: 64.0
+  z: 22.195480657000637
+  yaw: -80.74742889404297
+  pitch: 20.873838424682617
+  world-name: ''
+ip-address: 176.150.48.137
+last-account-name: Blackphenix60
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

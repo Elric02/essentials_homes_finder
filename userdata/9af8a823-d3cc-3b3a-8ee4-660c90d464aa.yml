@@ -1,0 +1,63 @@
+timestamps:
+  login: 1538910361200
+  lastteleport: 1538910899320
+  logout: 1538911957630
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: -7.699999988079071
+  y: 64.0
+  z: 50.30000001192093
+  yaw: -52.368560791015625
+  pitch: 36.0
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 5982.05827301715
+    y: 71.0
+    z: 4461.661285109324
+    yaw: -4.8701171875
+    pitch: 27.30000877380371
+    world-name: ''
+  pillage:
+    world: world
+    x: -4933.234694182268
+    y: 69.0
+    z: -268.4705714127686
+    yaw: 55.3274040222168
+    pitch: 20.8499813079834
+    world-name: ''
+  panque:
+    world: world
+    x: -363.46447621285915
+    y: 72.0
+    z: 6478.408665135503
+    yaw: 117.70791625976562
+    pitch: 26.198257446289062
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5907.300000011921
+  y: 64.0
+  z: 4503.889807599534
+  yaw: 80.1783447265625
+  pitch: 35.54998779296875
+  world-name: ''
+afk: false
+ip-address: 185.178.50.121
+last-account-name: ouioui210
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

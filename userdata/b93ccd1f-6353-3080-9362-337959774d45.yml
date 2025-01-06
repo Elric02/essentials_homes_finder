@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.60.188.184
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1641997576410
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680979431581
+  login: 1680979431111
+money: '0'
+last-account-name: Koizeay
+lastlocation:
+  world: db53b0bc-e109-4366-b93b-66666d9c9185
+  world-name: Ressource
+  x: -4.129337760699105
+  y: 89.5
+  z: 2.059993619181549
+  yaw: -97.65303802490234
+  pitch: 16.235836029052734
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3650.0322000893825
+  y: 11.0
+  z: 1136.4994508367656
+  yaw: 156.9564208984375
+  pitch: 25.350069046020508

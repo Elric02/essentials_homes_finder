@@ -1,0 +1,38 @@
+timestamps:
+  login: 1625139971767
+  lastteleport: 1625140373139
+  logout: 1625140496690
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -79.5
+  y: 69.0
+  z: -0.5
+  yaw: -90.73135375976562
+  pitch: -1.0494368076324463
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 122.83026590590248
+  y: 63.0
+  z: -12.537868057752128
+  yaw: -197.19529724121094
+  pitch: 10.475872039794922
+  world-name: ''
+ip-address: 90.30.188.39
+last-account-name: Dreamy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471946676909
+  lastteleport: 1471946754893
+  logout: 1471946761792
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 93.27259053582141
+  y: 63.0
+  z: 5.189141963923653
+  yaw: -181.69744873046875
+  pitch: 16.747398376464844
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.60608280546845
+  y: 64.0
+  z: 32.15772865183742
+  yaw: -240.0609130859375
+  pitch: 5.574514865875244
+  world-name: ''
+ip-address: 90.18.118.59
+last-account-name: LeMecNormal
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

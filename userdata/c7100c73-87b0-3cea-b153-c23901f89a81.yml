@@ -1,0 +1,38 @@
+timestamps:
+  login: 1626874417791
+  lastteleport: 1626874609874
+  logout: 1626876814233
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 560.8910564908437
+  y: 50.0
+  z: -51.3520997431718
+  yaw: -287.6998596191406
+  pitch: 10.799673080444336
+  world-name: ''
+ip-address: 78.232.179.34
+last-account-name: Lylli28
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

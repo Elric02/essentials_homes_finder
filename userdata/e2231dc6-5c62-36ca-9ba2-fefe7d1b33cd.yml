@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485798889409
+  logout: 1485798928983
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.23969741763932
+  y: 27.0
+  z: 20.719229799857445
+  yaw: -88.92660522460938
+  pitch: 5.088535785675049
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 162.10341979453733
+  y: 64.0
+  z: 15.199818951187975
+  yaw: -29.60271453857422
+  pitch: 30.85546875
+  world-name: ''
+ip-address: 176.156.161.169
+last-account-name: joecreeper
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

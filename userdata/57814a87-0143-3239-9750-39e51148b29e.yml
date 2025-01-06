@@ -1,0 +1,38 @@
+timestamps:
+  login: 1534836280900
+  lastteleport: 1534836635774
+  logout: 1534836683741
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -75.45273434404572
+  y: 63.09375
+  z: 120.56847071207112
+  yaw: 264.14776611328125
+  pitch: 20.73551368713379
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.06483667492532
+  y: 64.0
+  z: 20.728765500630722
+  yaw: -187.22076416015625
+  pitch: -2.221334218978882
+  world-name: ''
+ip-address: 78.112.17.101
+last-account-name: SkySaturn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490290836990
+  lastteleport: 1490291373812
+  logout: 1490291419477
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 193.70353631926818
+  y: 63.0
+  z: -26.27181493474099
+  yaw: -284.61126708984375
+  pitch: 31.374521255493164
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.77702259708238
+  y: 64.0
+  z: 26.765095585485938
+  yaw: -6.210845947265625
+  pitch: -4.3254714012146
+  world-name: ''
+ip-address: 77.203.64.165
+last-account-name: Zenkee
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

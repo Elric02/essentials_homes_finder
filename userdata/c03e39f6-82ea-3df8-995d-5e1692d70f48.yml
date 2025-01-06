@@ -1,0 +1,55 @@
+timestamps:
+  login: 1559755361489
+  logout: 1559756551089
+  lastteleport: 1559756465402
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1086.5459367146236
+  y: 64.0
+  z: 2106.568711665367
+  yaw: 113.93413543701172
+  pitch: -89.70757293701172
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -2118.2725362896576
+  y: 68.0
+  z: -4344.597633600027
+  yaw: -212.6624755859375
+  pitch: 6.07916784286499
+  world-name: ''
+homes:
+  h:
+    world: world
+    x: -2104.7182117172583
+    y: 57.0
+    z: -4359.357761995274
+    yaw: 127.17212677001953
+    pitch: 4.888520240783691
+    world-name: ''
+  village:
+    world: Ressource
+    x: -1015.5607758085167
+    y: 71.0
+    z: -792.3511239321153
+    yaw: 48.24188232421875
+    pitch: 19.821016311645508
+    world-name: ''
+ip-address: 90.103.20.3
+last-account-name: Artoys
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

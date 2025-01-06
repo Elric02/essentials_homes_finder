@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526845761304
+  lastteleport: 1526845796917
+  logout: 1526845850115
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.93619909479997
+  y: 66.75220334025373
+  z: 43.90608369354754
+  yaw: 349.7469482421875
+  pitch: 27.840635299682617
+  world-name: ''
+logoutlocation:
+  world: world_nether
+  x: 69.13278985215415
+  y: 44.0
+  z: 21.752468184921824
+  yaw: -141.33908081054688
+  pitch: 0.10303432494401932
+  world-name: ''
+ip-address: 84.75.115.199
+last-account-name: axoumine
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

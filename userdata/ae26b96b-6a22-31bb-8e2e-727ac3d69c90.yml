@@ -1,0 +1,55 @@
+timestamps:
+  login: 1566638064630
+  lastteleport: 1566638177410
+  logout: 1566638194974
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.28660443551328
+  y: 63.0
+  z: 4.246186924675962
+  yaw: -183.53196716308594
+  pitch: 38.02382278442383
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 312.59346978693924
+  y: 67.0
+  z: -486.2638681749534
+  yaw: -327.3855895996094
+  pitch: -11.876344680786133
+  world-name: ''
+homes:
+  maga:
+    world: world
+    x: -971.6999999880791
+    y: 77.0
+    z: -3540.651625436924
+    yaw: -272.091552734375
+    pitch: 23.33751678466797
+    world-name: ''
+  k:
+    world: world
+    x: 3396.339416752091
+    y: 68.0
+    z: -4011.812981213244
+    yaw: -91.51271057128906
+    pitch: -4.274106502532959
+    world-name: ''
+jailed: false
+ip-address: 90.45.249.83
+last-account-name: valantim
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

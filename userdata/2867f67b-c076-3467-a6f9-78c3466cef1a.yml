@@ -1,0 +1,55 @@
+timestamps:
+  login: 1554569046876
+  lastteleport: 1554570720057
+  logout: 1554572783617
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1340.0374786321108
+  y: 81.0
+  z: -433.5240719479013
+  yaw: 5.2374267578125
+  pitch: 23.399948120117188
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 198.70396686083703
+    y: 104.0
+    z: -1645.3635914510369
+    yaw: -178.40870666503906
+    pitch: 29.850080490112305
+    world-name: ''
+  pillage:
+    world: Ressource
+    x: 1340.0374786321108
+    y: 81.0
+    z: -433.5240719479013
+    yaw: 106.637939453125
+    pitch: 23.399953842163086
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 198.8846029183555
+  y: 104.0
+  z: -1640.4554322833985
+  yaw: 65.089599609375
+  pitch: 31.649850845336914
+  world-name: ''
+ip-address: 92.153.212.194
+last-account-name: dibeo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

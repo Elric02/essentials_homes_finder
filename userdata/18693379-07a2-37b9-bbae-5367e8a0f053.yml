@@ -1,0 +1,38 @@
+timestamps:
+  login: 1596378470772
+  logout: 1596378865755
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5096.702894809977
+  y: 65.0
+  z: -4998.366057503318
+  yaw: 130.95306396484375
+  pitch: 27.450345993041992
+  world-name: ''
+ip-address: 2.4.233.115
+last-account-name: Obigane
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

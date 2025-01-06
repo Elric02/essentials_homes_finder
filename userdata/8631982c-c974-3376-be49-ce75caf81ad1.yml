@@ -1,0 +1,38 @@
+timestamps:
+  login: 1505496985303
+  lastteleport: 1505498405858
+  logout: 1505504139971
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.89657683967286
+  y: 66.0
+  z: 20.32025163294016
+  yaw: 280.5001220703125
+  pitch: -2.7000019550323486
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -671.2176000266171
+  y: 82.0
+  z: -3178.4345345303623
+  yaw: -277.95013427734375
+  pitch: 6.600005149841309
+  world-name: ''
+ip-address: 105.98.183.196
+last-account-name: yanis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

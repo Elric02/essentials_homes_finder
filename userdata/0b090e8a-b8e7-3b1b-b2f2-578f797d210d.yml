@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481108451301
+  lastteleport: 1481108754228
+  logout: 1481109370772
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 161.2483950468504
+  y: 64.0
+  z: 16.951421632481825
+  yaw: -33.71833801269531
+  pitch: 14.563913345336914
+  world-name: ''
+logoutlocation:
+  world: world_the_end
+  x: 1.962903116076149
+  y: 65.0
+  z: 15.119777427912506
+  yaw: 254.59799194335938
+  pitch: 17.683452606201172
+  world-name: ''
+money: '0'
+ip-address: 83.156.97.4
+last-account-name: THELOGBOY
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

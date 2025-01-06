@@ -1,0 +1,63 @@
+timestamps:
+  login: 1474385414537
+  lastteleport: 1474385929620
+  logout: 1474386248532
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: -170.5
+  y: 9.0
+  z: 753.5
+  yaw: -293.32025146484375
+  pitch: 1.0505105257034302
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 1316.653098036224
+    y: 79.0
+    z: -3373.833151331508
+    yaw: -292.20050048828125
+    pitch: 14.399771690368652
+    world-name: ''
+  bois:
+    world: world
+    x: -2996.8361086179316
+    y: 70.0
+    z: -1554.6174208570062
+    yaw: 195.14991760253906
+    pitch: 27.600011825561523
+    world-name: ''
+  mine:
+    world: Ressources
+    x: -170.32611461911188
+    y: 9.0
+    z: 753.5269338721446
+    yaw: -272.47021484375
+    pitch: 37.05051040649414
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1311.1820707293873
+  y: 86.5
+  z: -3365.8855959887587
+  yaw: -262.95770263671875
+  pitch: 83.99970245361328
+  world-name: ''
+ip-address: 93.31.70.237
+last-account-name: Thim0te
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

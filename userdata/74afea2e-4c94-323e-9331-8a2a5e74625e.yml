@@ -1,0 +1,47 @@
+timestamps:
+  login: 1515637050280
+  logout: 1515637068330
+  lastteleport: 1514480138004
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2590.699999988079
+  y: 59.0
+  z: -2075.9117283354185
+  yaw: -81.14994812011719
+  pitch: -6.749992370605469
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6570.946450713329
+  y: 67.0
+  z: 3834.808905741426
+  yaw: -331.6539611816406
+  pitch: 14.400022506713867
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: -6576.190067358007
+    y: 77.0
+    z: 3813.3794323071456
+    yaw: 50.703216552734375
+    pitch: 3.4498658180236816
+    world-name: ''
+ip-address: 96.125.197.196
+last-account-name: Alexiis_RP
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

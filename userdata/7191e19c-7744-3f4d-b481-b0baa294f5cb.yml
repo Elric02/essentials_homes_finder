@@ -1,0 +1,47 @@
+timestamps:
+  login: 1536181997032
+  lastteleport: 1536182406824
+  logout: 1536183278868
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: 2.070837799652533
+  y: 89.5
+  z: 4.488393535499791
+  yaw: 133.45458984375
+  pitch: 5.812939167022705
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1382.2561722237763
+    y: 63.0
+    z: -4619.464069687749
+    yaw: -128.0737762451172
+    pitch: 39.14279556274414
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1382.2561722237763
+  y: 63.0
+  z: -4619.464069687749
+  yaw: -128.0737762451172
+  pitch: 39.14279556274414
+  world-name: ''
+ip-address: 88.124.236.204
+last-account-name: Rystrix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

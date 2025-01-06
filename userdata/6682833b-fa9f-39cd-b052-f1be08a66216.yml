@@ -1,0 +1,38 @@
+timestamps:
+  login: 1473433624704
+  lastteleport: 1473433706987
+  logout: 1473434120656
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46480164536715
+  y: 63.0
+  z: 49.70526469293788
+  yaw: -263.50885009765625
+  pitch: -9.025988578796387
+  world-name: ''
+logoutlocation:
+  world: Ressources
+  x: 57.86362404736289
+  y: 93.0
+  z: 605.5664691741889
+  yaw: -123.79107666015625
+  pitch: 30.91717529296875
+  world-name: ''
+ip-address: 89.85.65.177
+last-account-name: Draxray444
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

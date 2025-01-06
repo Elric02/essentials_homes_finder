@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482499460229
+  lastteleport: 1482422719564
+  logout: 1482499658986
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: 74.95178937267272
+  y: 91.0
+  z: -19.905014504022493
+  yaw: 258.4844665527344
+  pitch: 29.31698989868164
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4112.819951777554
+  y: 11.0
+  z: 3736.1104630943432
+  yaw: 85.12103271484375
+  pitch: 30.164072036743164
+  world-name: ''
+ip-address: 92.146.82.58
+last-account-name: MisterSkyZz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

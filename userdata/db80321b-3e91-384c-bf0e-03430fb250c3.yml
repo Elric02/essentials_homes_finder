@@ -1,0 +1,38 @@
+timestamps:
+  login: 1611938566941
+  logout: 1611938651508
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 64.96770499693979
+  y: 65.0
+  z: 51.69999998807907
+  yaw: 92.4957275390625
+  pitch: 3.749349355697632
+  world-name: ''
+ip-address: 109.88.252.171
+last-account-name: Virus_lucas
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

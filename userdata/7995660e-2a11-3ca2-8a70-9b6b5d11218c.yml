@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481508203846
+  logout: 1481508283688
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 116.61222153939171
+  y: 63.0
+  z: 47.62658642608888
+  yaw: -152.149169921875
+  pitch: 5.947389125823975
+  world-name: ''
+ip-address: 109.20.167.185
+last-account-name: Poshagniole
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

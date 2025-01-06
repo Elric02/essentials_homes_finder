@@ -1,0 +1,38 @@
+timestamps:
+  login: 1543248821570
+  lastteleport: 1543248850798
+  logout: 1543249071880
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1443.990619784916
+  y: 66.0
+  z: 1910.895548539786
+  yaw: -115.75667572021484
+  pitch: 53.91636276245117
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1503.300000011921
+  y: 105.0
+  z: 2556.0718459614022
+  yaw: 219.29254150390625
+  pitch: 66.31523132324219
+  world-name: ''
+ip-address: 176.191.168.81
+last-account-name: On_Fuzzi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

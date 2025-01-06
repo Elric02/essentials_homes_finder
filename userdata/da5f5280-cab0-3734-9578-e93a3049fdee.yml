@@ -1,0 +1,38 @@
+timestamps:
+  login: 1595439548749
+  lastteleport: 1595440309813
+  logout: 1595440490453
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.73043549446118
+  y: 63.0
+  z: 39.29625964762142
+  yaw: 294.2171936035156
+  pitch: 4.912911415100098
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -522.9117434818158
+  y: 64.0
+  z: -830.9240312349696
+  yaw: 309.32635498046875
+  pitch: -2.784203052520752
+  world-name: ''
+ip-address: 86.243.134.61
+last-account-name: ELX_DayRonZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

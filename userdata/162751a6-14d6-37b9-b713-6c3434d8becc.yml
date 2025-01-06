@@ -1,0 +1,63 @@
+timestamps:
+  login: 1563203874681
+  lastteleport: 1520885623012
+  logout: 1563203994932
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6664.4555399159935
+  y: 79.0
+  z: 2805.348410729328
+  yaw: 43.79364013671875
+  pitch: 1.7178364992141724
+  world-name: ''
+money: '0'
+homes:
+  merlin:
+    world: world
+    x: 63.41450164967365
+    y: 94.0
+    z: 55.99041440525622
+    yaw: 5.473357677459717
+    pitch: 8.79300594329834
+    world-name: ''
+  chest:
+    world: world
+    x: -6610.845469611575
+    y: 101.0
+    z: 2857.074406102622
+    yaw: -89.25103759765625
+    pitch: 18.021028518676758
+    world-name: ''
+  maison:
+    world: world
+    x: -6629.300000011921
+    y: 80.0
+    z: 2829.2927119150427
+    yaw: -204.353515625
+    pitch: 13.768945693969727
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -6608.442275602928
+  y: 101.0
+  z: 2855.0645776586252
+  yaw: -342.9082336425781
+  pitch: 13.080411911010742
+  world-name: ''
+afk: false
+ip-address: 176.185.21.248
+last-account-name: Kraken_Mixo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

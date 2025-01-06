@@ -1,0 +1,38 @@
+timestamps:
+  login: 1473513285401
+  logout: 1473513687626
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 104.54958837697842
+  y: 63.0
+  z: 19.501039567459284
+  yaw: -307.6972961425781
+  pitch: 9.697394371032715
+  world-name: ''
+ip-address: 217.121.255.194
+last-account-name: sundee
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

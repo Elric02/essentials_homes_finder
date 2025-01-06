@@ -1,0 +1,63 @@
+timestamps:
+  login: 1521113132652
+  lastteleport: 1521116726270
+  logout: 1521116745422
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.18560579584138
+  y: 63.0
+  z: 3.254076324108539
+  yaw: -74.27081298828125
+  pitch: 25.528669357299805
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 118.69999998807907
+    y: 38.0
+    z: 176.41802894512284
+    yaw: 354.5634765625
+    pitch: 37.94997024536133
+    world-name: ''
+  c:
+    world: Ressource
+    x: 121.86127120275414
+    y: 19.0
+    z: 171.68398380757873
+    yaw: 266.2135009765625
+    pitch: -11.400032997131348
+    world-name: ''
+  clear:
+    world: world
+    x: 154.5
+    y: 64.0
+    z: 24.5
+    yaw: -180.9208221435547
+    pitch: 2.128669500350952
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 109.77789715632913
+  y: 31.0
+  z: 181.64357597455776
+  yaw: 94.61346435546875
+  pitch: 0.4499705731868744
+  world-name: ''
+ip-address: 80.8.192.220
+last-account-name: SuperSegfish
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1485686773529
+  lastteleport: 1485693001204
+  logout: 1485693805332
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -103.5533777964804
+  y: 61.0
+  z: -5334.000847299337
+  yaw: 63.792964935302734
+  pitch: 9.12454891204834
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5618.512984563216
+  y: 64.0
+  z: -4199.137811526362
+  yaw: 348.273193359375
+  pitch: 28.60938262939453
+  world-name: ''
+homes:
+  mine:
+    world: world
+    x: 6212.849266177654
+    y: 62.0
+    z: 235.8374521543109
+    yaw: 200.887451171875
+    pitch: 1.8510953187942505
+    world-name: ''
+  mine1:
+    world: world
+    x: -5640.494930394368
+    y: 64.0
+    z: -4261.300000011921
+    yaw: 2.400005578994751
+    pitch: 34.014400482177734
+    world-name: ''
+  bp:
+    world: world
+    x: -4307.033313136722
+    y: 75.0
+    z: 1316.1829186814794
+    yaw: 185.188232421875
+    pitch: 8.724174499511719
+    world-name: ''
+afk: false
+ip-address: 78.120.22.42
+last-account-name: ErTynoX_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

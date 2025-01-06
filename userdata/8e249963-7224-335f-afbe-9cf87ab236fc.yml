@@ -1,0 +1,47 @@
+timestamps:
+  login: 1490287530010
+  lastteleport: 1490289520424
+  logout: 1490290808488
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1769.300000011921
+  y: 5.0
+  z: 2897.9836597554445
+  yaw: -340.8031005859375
+  pitch: 34.350032806396484
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 5108.44814435679
+    y: 69.0
+    z: 7615.443293932321
+    yaw: -276.3865966796875
+    pitch: 15.299994468688965
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5103.5152700757735
+  y: 67.0
+  z: 7609.629421758598
+  yaw: -76.590087890625
+  pitch: 9.900012016296387
+  world-name: ''
+ip-address: 92.93.140.42
+last-account-name: Dreaknil
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

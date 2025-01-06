@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510160775835
+  logout: 1510161383428
+  lastteleport: 1510160957735
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 173.52001514511764
+  y: 63.0
+  z: 16.63718380566116
+  yaw: 66.5029525756836
+  pitch: 17.437047958374023
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2191.8636699502863
+  y: 65.0
+  z: -1567.300000011921
+  yaw: -153.48095703125
+  pitch: 24.505455017089844
+  world-name: ''
+money: '0'
+ip-address: 78.246.130.129
+last-account-name: Skymogs
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1617797081439
+  lastteleport: 1615733696097
+  logout: 1617797245688
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6112.864173866404
+  y: 41.0
+  z: 5912.462320061272
+  yaw: -285.9288330078125
+  pitch: 1.6501331329345703
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6802.11770418724
+    y: 64.0
+    z: 5564.024668338227
+    yaw: 64.64850616455078
+    pitch: 34.94999313354492
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 6825.300000011921
+  y: 10.0
+  z: 5480.738496200759
+  yaw: -169.6499786376953
+  pitch: 22.20002555847168
+  world-name: ''
+afk: false
+ip-address: 37.170.95.157
+last-account-name: Laurine
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

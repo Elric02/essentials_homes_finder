@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.93.43.84
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1639343171867
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1648916113096
+  login: 1648916047064
+money: '0'
+last-account-name: axel_aiire
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 3722.5
+  y: 74.0
+  z: 3826.5
+  yaw: -95.19195556640625
+  pitch: 13.116996765136719
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3722.731007818742
+    y: 74.0
+    z: 3826.274956088121
+    yaw: -95.19195556640625
+    pitch: 13.116996765136719
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 3740.6492284461488
+  y: 79.0
+  z: 3801.928118811469
+  yaw: 26.03582763671875
+  pitch: 15.615455627441406

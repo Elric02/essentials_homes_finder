@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609491561708
+  lastteleport: 1609492143354
+  logout: 1609492178654
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.38603304986202
+  y: 64.0
+  z: 28.522114702793914
+  yaw: -176.6455078125
+  pitch: 2.6758811473846436
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 148.6709562228955
+  y: 64.0
+  z: 17.71791732079036
+  yaw: -142.8957061767578
+  pitch: 9.576021194458008
+  world-name: ''
+ip-address: 77.145.89.47
+last-account-name: _DArtagnan_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

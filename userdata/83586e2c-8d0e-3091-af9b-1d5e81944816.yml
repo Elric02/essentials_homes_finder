@@ -1,0 +1,47 @@
+timestamps:
+  login: 1511357239764
+  lastteleport: 1511290271209
+  logout: 1511357698154
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.66155659945034
+  y: 65.16610926093821
+  z: 8.318051777902166
+  yaw: -4.970826625823975
+  pitch: 35.27867126464844
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 1920.3764505124177
+    y: 64.0
+    z: 4869.795530993581
+    yaw: 255.29920959472656
+    pitch: 45.750022888183594
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 1905.563870505756
+  y: 64.0
+  z: 4860.909426723957
+  yaw: -312.15234375
+  pitch: 11.999943733215332
+  world-name: ''
+ip-address: 88.180.16.200
+last-account-name: micha111
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1573401261873
+  logout: 1573401700270
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1496.08081223635
+  y: 63.0
+  z: -5.509185842408152
+  yaw: -129.86976623535156
+  pitch: 77.40444946289062
+  world-name: ''
+ip-address: 176.181.8.41
+last-account-name: MosTWanTeD
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609092390455
+  lastteleport: 1609090791121
+  logout: 1609092852600
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 4316.537557364158
+  y: 12.0
+  z: -3426.3545527882584
+  yaw: -180.008544921875
+  pitch: 6.300034046173096
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5286.547490161247
+  y: 61.0
+  z: 1460.1428912598603
+  yaw: -74.66842651367188
+  pitch: 80.2499771118164
+  world-name: ''
+ip-address: 90.125.19.116
+last-account-name: banana71
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

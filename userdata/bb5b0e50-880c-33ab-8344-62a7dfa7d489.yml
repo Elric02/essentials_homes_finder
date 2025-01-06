@@ -1,0 +1,55 @@
+timestamps:
+  login: 1509803397003
+  lastteleport: 1509805642422
+  logout: 1509805894009
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6735.7972504996815
+  y: 24.0
+  z: -674.1825238168534
+  yaw: 126.44921875
+  pitch: 22.950105667114258
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -6708.491420481815
+    y: 63.0
+    z: -664.7574206726185
+    yaw: -275.3999938964844
+    pitch: 7.64999532699585
+    world-name: ''
+  maison:
+    world: world
+    x: -6708.491420481815
+    y: 63.0
+    z: -664.7574206726185
+    yaw: -275.3999938964844
+    pitch: 7.64999532699585
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -6423.4447141172
+  y: 71.0
+  z: 1823.13403898915
+  yaw: 202.64996337890625
+  pitch: 26.400009155273438
+  world-name: ''
+ip-address: 83.154.224.36
+last-account-name: kit_kat
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

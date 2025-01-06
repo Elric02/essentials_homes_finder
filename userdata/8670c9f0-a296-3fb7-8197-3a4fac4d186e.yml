@@ -1,0 +1,63 @@
+timestamps:
+  login: 1521807602395
+  lastteleport: 1521808542067
+  logout: 1521808581948
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -7.573198898342529
+  y: 11.0
+  z: 67.69999998807909
+  yaw: 93.935791015625
+  pitch: 18.150005340576172
+  world-name: ''
+homes:
+  home:
+    world: Ressource
+    x: 11.560966065326845
+    y: 97.0
+    z: 63.699999988079064
+    yaw: -2.5147705078125
+    pitch: 17.731948852539062
+    world-name: ''
+  grotte:
+    world: Ressource
+    x: 20.300000011920922
+    y: 25.0
+    z: 81.10100120657509
+    yaw: 277.3857421875
+    pitch: 22.949970245361328
+    world-name: ''
+  truc:
+    world: Ressource
+    x: 46.35694954285464
+    y: 79.0
+    z: 65.12162052461713
+    yaw: 178.6852569580078
+    pitch: 42.600006103515625
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 47.10755352427211
+  y: 79.0
+  z: 64.91461355230629
+  yaw: 139.53524780273438
+  pitch: 66.33196258544922
+  world-name: ''
+ip-address: 80.8.253.84
+last-account-name: Whathump
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

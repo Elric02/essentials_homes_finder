@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521464889018
+  lastteleport: 1518880931739
+  logout: 1521464956408
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -267.41269560345205
+  y: 70.0
+  z: -5.699999988079083
+  yaw: -128.513916015625
+  pitch: -6.599997043609619
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.34148319164638
+  y: 64.0
+  z: 19.84043146543223
+  yaw: 62.9794921875
+  pitch: -9.571366310119629
+  world-name: ''
+ip-address: 86.218.170.218
+last-account-name: Mimmixe_Holmes
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

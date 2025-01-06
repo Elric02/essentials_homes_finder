@@ -1,0 +1,52 @@
+timestamps:
+  login: 1715101690733
+  lastteleport: 1715102719686
+  logout: 1715102939587
+  kits:
+    color: 1714922615123
+    vip: 1715101705503
+    stationaute: 1714922596924
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+  x: 1232.2869344680487
+  y: 67.0
+  z: -777.6103296291984
+  yaw: -136.08497619628906
+  pitch: 33.32451248168945
+  world-name: Ressource
+money: '202.420000000000001'
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: 2733.5896609614356
+  y: 73.0
+  z: -771.8905949932828
+  yaw: -150.08770751953125
+  pitch: 17.73963737487793
+  world-name: Althium
+afk: false
+nickname: §1IMyzZz
+ip-address: 91.170.134.54
+last-account-name: IMyzZz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+homes:
+  home:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 2732.3511364699325
+    y: 73.0
+    z: -771.0005845091322
+    yaw: 51.9581298828125
+    pitch: 23.237388610839844

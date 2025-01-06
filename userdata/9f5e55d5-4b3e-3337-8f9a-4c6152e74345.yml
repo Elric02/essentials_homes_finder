@@ -1,0 +1,38 @@
+timestamps:
+  login: 1503245810683
+  lastteleport: 1499263169845
+  logout: 1503245858349
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.90173761289358
+  y: 27.0
+  z: 20.646501958811466
+  yaw: -94.8940658569336
+  pitch: 27.200637817382812
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 99.53246469344771
+  y: 71.0
+  z: -65.62263741805896
+  yaw: 111.083740234375
+  pitch: 34.838417053222656
+  world-name: ''
+ip-address: 88.140.33.41
+last-account-name: matoucoucou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

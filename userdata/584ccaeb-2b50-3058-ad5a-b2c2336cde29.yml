@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586107073577
+  logout: 1586107190481
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.75788621756894
+  y: 64.0
+  z: 31.828373846910093
+  yaw: -185.75291442871094
+  pitch: 3.0906341075897217
+  world-name: ''
+ip-address: 92.158.18.23
+last-account-name: Froltin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

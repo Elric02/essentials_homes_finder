@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470767289748
+  lastteleport: 1470767406871
+  logout: 1470768454951
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.26650093380394
+  y: 27.0
+  z: 20.41049566712364
+  yaw: 272.0390319824219
+  pitch: 37.074501037597656
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 162.55645954124154
+  y: 64.0
+  z: 23.230545454588658
+  yaw: 249.98870849609375
+  pitch: 5.874504566192627
+  world-name: ''
+ip-address: 86.216.59.27
+last-account-name: Whisperer15
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

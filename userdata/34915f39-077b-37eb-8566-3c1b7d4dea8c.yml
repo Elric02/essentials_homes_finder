@@ -1,0 +1,47 @@
+timestamps:
+  login: 1482093584530
+  lastteleport: 1481918152066
+  logout: 1482093805412
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1115.4695339238522
+  y: 63.0
+  z: -525.3876471610405
+  yaw: 76.4439697265625
+  pitch: 23.99997329711914
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1123.4437140328837
+  y: 64.0
+  z: -525.1588501238687
+  yaw: 272.6896667480469
+  pitch: -3.5999741554260254
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: -1117.6039853836085
+    y: 63.0
+    z: -525.8959939400139
+    yaw: -157.81002807617188
+    pitch: 21.600000381469727
+    world-name: ''
+ip-address: 90.39.110.250
+last-account-name: havana71
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509455737696
+  lastteleport: 1509457439694
+  logout: 1509457503547
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 25.300000011920936
+  y: 65.82711731432457
+  z: 3.300000011920931
+  yaw: 233.9652862548828
+  pitch: 37.08320999145508
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 153.46336115740516
+  y: 64.0
+  z: 23.177083802006084
+  yaw: -223.0706787109375
+  pitch: 21.328662872314453
+  world-name: ''
+ip-address: 149.154.250.92
+last-account-name: MadamePixel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

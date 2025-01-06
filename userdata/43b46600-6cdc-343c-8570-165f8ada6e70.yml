@@ -1,0 +1,38 @@
+timestamps:
+  login: 1569744305099
+  lastteleport: 1569744316812
+  logout: 1569744335448
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: -4093.285142246124
+  y: 4.0
+  z: -4110.560135065682
+  yaw: -48.26361083984375
+  pitch: -90.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.27881709731494
+  y: 64.0
+  z: 20.6253582722514
+  yaw: -344.0616149902344
+  pitch: 18.234066009521484
+  world-name: ''
+ip-address: 109.14.201.64
+last-account-name: cleope
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

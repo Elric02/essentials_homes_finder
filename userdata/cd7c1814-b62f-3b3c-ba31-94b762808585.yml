@@ -1,0 +1,89 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.26.152.77
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713212246766
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713212303014
+  login: 1713210423494
+  kits:
+    stationaute: 1711036373218
+money: '2750.0'
+last-account-name: kazoku_P
+lastlocation:
+  world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+  world-name: Ressource
+  x: -1067.4962049514247
+  y: -1.0
+  z: -639.8948556728536
+  yaw: 101.18365478515625
+  pitch: 30.026748657226562
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 7541.479369543221
+  y: 65.0
+  z: -6630.202633786428
+  yaw: -159.33489990234375
+  pitch: -19.99100112915039
+homes:
+  lave:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 7434.8291428233
+    y: 8.0
+    z: -6711.273963335682
+    yaw: 115.11749267578125
+    pitch: 22.940519332885742
+  bamboo:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 7377.206196552668
+    y: 80.0
+    z: -6286.544828597399
+    yaw: -69.1402587890625
+    pitch: 27.585641860961914
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 7549.005686191559
+    y: 65.0
+    z: -6621.7266053457215
+    yaw: 175.56964111328125
+    pitch: 15.071283340454102
+  g:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3960.4719184579617
+    y: 63.0
+    z: 6964.391584935556
+    yaw: 151.33673095703125
+    pitch: 44.32331848144531
+  j:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -415.0130948642609
+    y: 63.0
+    z: -3071.8019889158054
+    yaw: 69.72642517089844
+    pitch: 21.640748977661133
+  spawner:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3626.776631099231
+    y: 57.0
+    z: -5574.237500011921
+    yaw: -115.536376953125
+    pitch: 31.9066219329834

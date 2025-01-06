@@ -1,0 +1,38 @@
+timestamps:
+  login: 1567873206178
+  lastteleport: 1567873291053
+  logout: 1567873619080
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.2781733772256
+  y: 63.5
+  z: 66.1101457251774
+  yaw: 194.0440673828125
+  pitch: 15.690670013427734
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 119.33440694906515
+  y: 63.0
+  z: 64.68480849218662
+  yaw: 345.1290588378906
+  pitch: 9.628650665283203
+  world-name: ''
+ip-address: 89.170.76.235
+last-account-name: Bentest60
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477848271490
+  logout: 1477848292139
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.73606758248886
+  y: 63.0
+  z: 2.6274027652176546
+  yaw: -191.9108428955078
+  pitch: 9.17451000213623
+  world-name: ''
+ip-address: 176.148.95.59
+last-account-name: dodopvp60
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

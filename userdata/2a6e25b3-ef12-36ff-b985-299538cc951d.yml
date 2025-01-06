@@ -1,0 +1,38 @@
+timestamps:
+  login: 1560408183949
+  logout: 1560409107947
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 143.04473987324835
+  y: 63.0
+  z: 7.7901260975851905
+  yaw: -205.8529052734375
+  pitch: 32.49060821533203
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 168.43064830195362
+  y: 150.0
+  z: -124.69999998807907
+  yaw: 219.8472900390625
+  pitch: 42.09061050415039
+  world-name: ''
+ip-address: 90.107.151.137
+last-account-name: KingKazume
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

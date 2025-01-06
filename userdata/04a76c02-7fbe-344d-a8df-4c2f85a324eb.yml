@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482503276595
+  lastteleport: 1482503391076
+  logout: 1482503465485
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -603.2826567292454
+  y: 64.0
+  z: -751.5915522624563
+  yaw: -184.7472686767578
+  pitch: 8.876344680786133
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.0441355387185
+  y: 64.5
+  z: -6.9690802846660365
+  yaw: -237.96095275878906
+  pitch: 18.774511337280273
+  world-name: ''
+ip-address: 92.149.31.170
+last-account-name: Romain195
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

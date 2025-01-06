@@ -1,0 +1,47 @@
+timestamps:
+  login: 1618834903871
+  lastteleport: 1618834943673
+  logout: 1618835182277
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5219706617853
+  y: 64.0
+  z: 24.59015183032405
+  yaw: -93.09561157226562
+  pitch: 26.9758243560791
+  world-name: ''
+money: '0'
+homes:
+  soso:
+    world: world
+    x: 6784.87932661886
+    y: 76.0
+    z: -5727.154423224378
+    yaw: 11.399822235107422
+    pitch: 15.749886512756348
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 6738.763614215997
+  y: 78.0
+  z: -5781.878632119501
+  yaw: -294.14984130859375
+  pitch: -18.900205612182617
+  world-name: ''
+afk: false
+ip-address: 86.201.4.168
+last-account-name: soso2LT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

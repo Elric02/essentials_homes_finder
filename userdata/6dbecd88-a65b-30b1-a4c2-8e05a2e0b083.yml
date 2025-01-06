@@ -1,0 +1,47 @@
+timestamps:
+  login: 1472912294724
+  logout: 1472912551716
+  lastteleport: 1472369183576
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -163.51551333884186
+  y: 11.0
+  z: 689.4871421942829
+  yaw: 354.4252014160156
+  pitch: 31.12965965270996
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.9810152240255
+  y: 63.5
+  z: 6.468343308695885
+  yaw: -268.266845703125
+  pitch: 22.60103988647461
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 6557.595500847932
+    y: 64.0
+    z: 6357.824820992213
+    yaw: 350.94000244140625
+    pitch: 12.708215713500977
+    world-name: ''
+money: '0'
+ip-address: 81.57.140.180
+last-account-name: Chronyzer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1465667289807
+  lastteleport: 1465667462590
+  logout: 1465667834865
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.9116122224181
+  y: 63.0
+  z: 39.275478516980456
+  yaw: -8.997206687927246
+  pitch: -11.17581558227539
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.16802378276998
+  y: 64.0
+  z: 14.46295231028245
+  yaw: 21.4527587890625
+  pitch: 0.07418493926525116
+  world-name: ''
+ip-address: 82.243.215.141
+last-account-name: molraft
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

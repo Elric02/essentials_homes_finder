@@ -1,0 +1,47 @@
+timestamps:
+  login: 1486409516956
+  lastteleport: 1486409528885
+  logout: 1486409534686
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6203.741871671229
+  y: 69.0
+  z: 5760.355136258447
+  yaw: -328.8568420410156
+  pitch: 8.549982070922852
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -6214.120951160254
+    y: 63.0
+    z: 5801.898957461099
+    yaw: -132.20346069335938
+    pitch: 18.000011444091797
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 155.18034771231936
+  y: 64.0
+  z: 17.65724953832147
+  yaw: -119.61092376708984
+  pitch: 3.6245150566101074
+  world-name: ''
+ip-address: 82.216.67.41
+last-account-name: Nev
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1474730756544
+  lastteleport: 1474731292353
+  logout: 1474731322106
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.26030259786214
+  y: 64.0
+  z: 26.019921174019736
+  yaw: -171.36094665527344
+  pitch: 18.924516677856445
+  world-name: ''
+logoutlocation:
+  world: Ressources
+  x: 165.36883010842078
+  y: 67.9140114523433
+  z: 519.7562636268083
+  yaw: 18.07177734375
+  pitch: 16.977527618408203
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  home:
+    world: world
+    x: 152.61489986772295
+    y: 63.0
+    z: 43.843135489603824
+    yaw: -348.6608581542969
+    pitch: 13.074508666992188
+    world-name: ''
+ip-address: 88.176.53.193
+last-account-name: Havok
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

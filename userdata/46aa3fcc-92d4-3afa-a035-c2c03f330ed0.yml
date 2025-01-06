@@ -1,0 +1,38 @@
+timestamps:
+  login: 1629392000453
+  lastteleport: 1629392149147
+  logout: 1629392673992
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 147.69999998807907
+  y: 68.5
+  z: 99.50425522243238
+  yaw: -150.5024871826172
+  pitch: 21.240520477294922
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 70.09893405762057
+  y: 62.49314018448189
+  z: 21.560549301636474
+  yaw: -252.3929443359375
+  pitch: -37.80073165893555
+  world-name: ''
+ip-address: 82.125.27.113
+last-account-name: lepro1303
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.172.166.30
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1638710900934
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1638711002931
+  login: 1638710581261
+money: '0'
+last-account-name: yoann
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 4707.446256985475
+  y: 69.0
+  z: -3265.3757450040303
+  yaw: -276.0
+  pitch: -17.250001907348633
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 116.82401044898474
+  y: 64.0
+  z: 62.29705631546632
+  yaw: 90.56010437011719
+  pitch: 68.25

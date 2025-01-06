@@ -1,0 +1,155 @@
+timestamps:
+  login: 1711787778008
+  lastteleport: 1668835382533
+  logout: 1711787818858
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  kits:
+    vip: 1634363172752
+    color: 1633818977454
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1599.0070787494144
+  y: 48.0
+  z: -2992.844182181674
+  yaw: -127.200927734375
+  pitch: 19.649681091308594
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1598.4520783192027
+  y: 48.0
+  z: -2989.762499988079
+  yaw: 92.09937286376953
+  pitch: 26.999597549438477
+  world-name: world
+money: '100.0'
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1601.206755044839
+    y: 62.0
+    z: -2990.3824746309665
+    yaw: -88.95054626464844
+    pitch: 20.099790573120117
+    world-name: world
+  a:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1664.6729538401812
+    y: 71.9375
+    z: -2999.1128004739794
+    yaw: 25.649200439453125
+    pitch: -0.1501033455133438
+  xp:
+    world: e8a47226-047f-4f50-b576-fa4d3411fd02
+    world-name: End
+    x: 35.44692074840809
+    y: 28.0
+    z: -369.9392539594481
+    yaw: -123.27129364013672
+    pitch: -30.29934310913086
+  b:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1642.699999988079
+    y: 75.0
+    z: -2996.699999988079
+    yaw: 71.54903411865234
+    pitch: 23.549694061279297
+  vaches:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1608.0379354530176
+    y: 66.0
+    z: -2944.2339310332773
+    yaw: -24.75043487548828
+    pitch: 44.24979019165039
+  fleuve:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1561.7468683789962
+    y: 64.0
+    z: -3002.062811233814
+    yaw: -284.09869384765625
+    pitch: 10.499741554260254
+  e:
+    world: e8a47226-047f-4f50-b576-fa4d3411fd02
+    world-name: End
+    x: -89.5
+    y: 69.0
+    z: -0.5
+    yaw: -89.83140563964844
+    pitch: -4.649409770965576
+  n:
+    world: df07db1e-b199-46d9-9d37-2fe95ae52b01
+    world-name: Ressourcenether
+    x: 0.5
+    y: 37.0
+    z: -1.5
+    yaw: -178.04226684570312
+    pitch: 7.049990177154541
+  r:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 3963.0
+    y: 83.0
+    z: -3346.0
+    yaw: 0.0
+    pitch: 0.0
+  c:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1599.658860974324
+    y: 48.0
+    z: -2992.7351755811355
+    yaw: -181.80059814453125
+    pitch: 18.1496639251709
+  qg:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 135.5708043203442
+    y: 63.0
+    z: -18.14579516703792
+    yaw: -204.77023315429688
+    pitch: 13.378664016723633
+  euf:
+    world: ad90bccb-d085-4609-bdd5-83c569cca21b
+    world-name: End
+    x: 2.4785919916681434
+    y: 67.0
+    z: 1.1004814794587188
+    yaw: -256.79620361328125
+    pitch: 27.600587844848633
+  mine:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 924.869601635596
+    y: 16.0
+    z: 1022.3214215238127
+    yaw: 174.3018798828125
+    pitch: 7.350064754486084
+  nethermine:
+    world: df07db1e-b199-46d9-9d37-2fe95ae52b01
+    world-name: Ressourcenether
+    x: -554.9868417621783
+    y: 10.0
+    z: 145.5127366329802
+    yaw: 64.79296875
+    pitch: 15.300102233886719
+afk: false
+ip-address: 37.170.238.61
+last-account-name: Zappata
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+nickname: §2Zap

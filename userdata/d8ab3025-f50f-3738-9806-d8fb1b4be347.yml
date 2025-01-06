@@ -1,0 +1,38 @@
+timestamps:
+  login: 1569847008553
+  lastteleport: 1569847027339
+  logout: 1569847030171
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.71250881121472
+  y: 65.0
+  z: 73.38430367769581
+  yaw: -180.2696533203125
+  pitch: 18.84819221496582
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.65408728761525
+  y: 64.0
+  z: 21.430294008436547
+  yaw: -180.5458526611328
+  pitch: 1.734916090965271
+  world-name: ''
+ip-address: 81.53.23.168
+last-account-name: berzerkstrategy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

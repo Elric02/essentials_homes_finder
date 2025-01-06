@@ -1,0 +1,47 @@
+timestamps:
+  login: 1484483594704
+  lastteleport: 1484484517083
+  logout: 1484484583796
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5473.199123301695
+  y: 64.0
+  z: -6388.518337868301
+  yaw: 331.9560546875
+  pitch: 13.199987411499023
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -5474.373862995217
+    y: 64.0
+    z: -6388.50213392615
+    yaw: 282.901123046875
+    pitch: -0.7499892115592957
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 133.6531812960276
+  y: 63.0
+  z: -32.19475723093865
+  yaw: 188.03903198242188
+  pitch: -3.275487184524536
+  world-name: ''
+ip-address: 77.152.142.170
+last-account-name: Ankiller
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

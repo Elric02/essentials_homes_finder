@@ -1,0 +1,63 @@
+timestamps:
+  login: 1584279098998
+  lastteleport: 1584287169403
+  logout: 1584287668866
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5157.692781105606
+  y: 44.0
+  z: -3419.208531928937
+  yaw: 133.26463317871094
+  pitch: 27.374473571777344
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 5132.814214663695
+    y: 64.0
+    z: -3381.560474529518
+    yaw: 171.61798095703125
+    pitch: 4.846582412719727
+    world-name: ''
+  xp:
+    world: world
+    x: 2189.283836534113
+    y: 28.0
+    z: 348.9606083754076
+    yaw: 228.4024658203125
+    pitch: 5.431158542633057
+    world-name: ''
+  ilou:
+    world: world
+    x: -5371.1431999189235
+    y: 24.9375
+    z: 1449.8863554615587
+    yaw: 42.86414337158203
+    pitch: -4.812448978424072
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5156.1890747783555
+  y: 44.0
+  z: -3418.2096061330667
+  yaw: 186.013671875
+  pitch: 16.615528106689453
+  world-name: ''
+afk: false
+ip-address: 91.176.82.92
+last-account-name: ZeKoala
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

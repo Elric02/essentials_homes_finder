@@ -1,0 +1,38 @@
+timestamps:
+  login: 1494543305148
+  lastteleport: 1494545940470
+  logout: 1494546628245
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -9.77876229838151
+  y: 67.0
+  z: 35.12229033751611
+  yaw: 352.7393798828125
+  pitch: 19.524518966674805
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4855.699999988079
+  y: 70.12160004615784
+  z: -340.5979321481885
+  yaw: 28.73681640625
+  pitch: 26.87455177307129
+  world-name: ''
+ip-address: 82.249.70.26
+last-account-name: caby2404
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

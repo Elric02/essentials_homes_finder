@@ -1,0 +1,38 @@
+timestamps:
+  login: 1544902561895
+  lastteleport: 1544903025149
+  logout: 1544903227388
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1473.0525344252665
+  y: 83.0
+  z: 2419.683660310833
+  yaw: -110.39875030517578
+  pitch: -7.199999809265137
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1522.1868650737451
+  y: 72.0
+  z: 2436.3077554377264
+  yaw: -310.7986145019531
+  pitch: 36.7499885559082
+  world-name: ''
+ip-address: 41.250.237.238
+last-account-name: Kloosimoosi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

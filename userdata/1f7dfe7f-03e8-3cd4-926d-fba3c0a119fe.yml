@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483897753401
+  logout: 1483898414135
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 122.68902222959942
+  y: 63.0
+  z: -33.56750478635384
+  yaw: -78.6593017578125
+  pitch: 0.9000124931335449
+  world-name: ''
+ip-address: 78.206.220.174
+last-account-name: djino
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.162.7.12
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667521180430
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667579924697
+  login: 1667579283433
+money: '0'
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -380.2962606762079
+  y: 33.0
+  z: -414.789638468498
+  yaw: -170.24911499023438
+  pitch: 7.5000104904174805
+last-account-name: Mathbandas1003
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -299.08657011175734
+  y: 33.0
+  z: -339.3593255009509
+  yaw: -129.08663940429688
+  pitch: 28.649904251098633

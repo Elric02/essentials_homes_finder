@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471088055509
+  lastteleport: 1471033393057
+  logout: 1471088555155
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.69316499859437
+  y: 100.0
+  z: 23.1350725943385
+  yaw: -308.2234191894531
+  pitch: -0.18930235505104065
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3679.7793669790485
+  y: 64.0
+  z: -1040.8591482911727
+  yaw: -86.40031433105469
+  pitch: -5.250006198883057
+  world-name: ''
+ip-address: 82.233.157.167
+last-account-name: Miksnowborder
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

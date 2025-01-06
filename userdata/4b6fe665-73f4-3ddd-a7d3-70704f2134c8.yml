@@ -1,0 +1,47 @@
+timestamps:
+  login: 1492371822198
+  lastteleport: 1492371991650
+  logout: 1492371995215
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -1151.7760251781895
+  y: 75.0
+  z: 1918.166233512668
+  yaw: -166.1999969482422
+  pitch: 35.84999084472656
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 6748.909420588824
+    y: 79.0
+    z: -4411.997898730884
+    yaw: 179.11846923828125
+    pitch: 28.500022888183594
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6748.5
+  y: 79.0
+  z: -4411.5
+  yaw: 180.46847534179688
+  pitch: -1.3499767780303955
+  world-name: ''
+ip-address: 92.133.17.71
+last-account-name: lesslimes
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

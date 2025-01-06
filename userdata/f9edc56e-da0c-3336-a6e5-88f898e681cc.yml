@@ -1,0 +1,38 @@
+timestamps:
+  login: 1515432594877
+  logout: 1515432620522
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 143.78060082685715
+  y: 69.5
+  z: 101.10441617802157
+  yaw: -181.25311279296875
+  pitch: 25.590641021728516
+  world-name: ''
+ip-address: 77.132.5.246
+last-account-name: antoni75
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

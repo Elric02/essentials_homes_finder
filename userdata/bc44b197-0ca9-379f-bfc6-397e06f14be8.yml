@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 160.120.78.214
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1700987188587
+  login: 1700987143118
+money: '0'
+last-account-name: fadelx5z
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9764075932744
+  y: 81.0
+  z: -3111.4094336383937
+  yaw: -109.798583984375
+  pitch: -67.9500503540039
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9764075932744
+  y: 81.0
+  z: -3111.4094336383937
+  yaw: -178.34854125976562
+  pitch: 32.849952697753906

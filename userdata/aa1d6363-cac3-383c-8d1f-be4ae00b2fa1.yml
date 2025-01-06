@@ -1,0 +1,38 @@
+timestamps:
+  login: 1620323497058
+  lastteleport: 1620324184903
+  logout: 1620324462849
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3528.4118921164527
+  y: 216.0625
+  z: 3621.4313740087387
+  yaw: 176.6304473876953
+  pitch: 10.650012016296387
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2794.4266673811376
+  y: 78.0
+  z: -55.7187038795447
+  yaw: 1.8792136907577515
+  pitch: 2.5643019676208496
+  world-name: ''
+ip-address: 176.156.37.16
+last-account-name: Xenon612
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

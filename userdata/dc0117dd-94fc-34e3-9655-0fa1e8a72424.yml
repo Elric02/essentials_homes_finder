@@ -1,0 +1,38 @@
+timestamps:
+  login: 1613413176302
+  logout: 1613416532977
+  lastteleport: 1613414703764
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 35.99055310010327
+  y: 74.0
+  z: -85.30000001192091
+  yaw: 55.999786376953125
+  pitch: 18.275766372680664
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: -5568.503112874501
+  y: 65.0
+  z: 2034.711278229317
+  yaw: 176.402099609375
+  pitch: 12.899980545043945
+  world-name: ''
+ip-address: 77.56.230.221
+last-account-name: Just_Bl0wy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

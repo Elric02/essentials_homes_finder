@@ -1,0 +1,55 @@
+timestamps:
+  login: 1472573013096
+  lastteleport: 1472410679117
+  logout: 1472573056348
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 106.16984552571715
+  y: 72.0
+  z: -65.20242371616371
+  yaw: -237.81048583984375
+  pitch: 45.32448959350586
+  world-name: ''
+homes:
+  naturacity:
+    world: world
+    x: -1209.9918218686335
+    y: 64.0
+    z: 3052.0704829287447
+    yaw: 59.96142578125
+    pitch: 13.049980163574219
+    world-name: ''
+  home1:
+    world: world
+    x: -685.4630039590286
+    y: 64.0
+    z: -1382.2114141616003
+    yaw: -79.949951171875
+    pitch: 54.75001525878906
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -696.6999999880791
+  y: 64.0
+  z: -1386.6559155430984
+  yaw: 19.950382232666016
+  pitch: 17.099990844726562
+  world-name: ''
+afk: false
+ip-address: 109.89.44.143
+last-account-name: jungishot
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

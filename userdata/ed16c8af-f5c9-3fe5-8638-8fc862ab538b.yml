@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484936280017
+  logout: 1484936504766
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5090.718439026499
+  y: 67.0
+  z: 4868.06010900406
+  yaw: 297.00079345703125
+  pitch: -13.050023078918457
+  world-name: ''
+ip-address: 88.177.215.139
+last-account-name: trilobite
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

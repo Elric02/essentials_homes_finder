@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468170919615
+  lastteleport: 1468171116926
+  logout: 1468171216683
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 121.30000001192093
+  y: 83.0
+  z: -52.52472398596629
+  yaw: 90.00291442871094
+  pitch: 41.32417297363281
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 134.76645035398985
+  y: 66.0
+  z: -130.9144448216628
+  yaw: -207.14715576171875
+  pitch: 14.774194717407227
+  world-name: ''
+ip-address: 88.170.132.106
+last-account-name: LUCIEN77144
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

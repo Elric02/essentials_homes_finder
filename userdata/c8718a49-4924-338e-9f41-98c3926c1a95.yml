@@ -1,0 +1,38 @@
+timestamps:
+  login: 1495626947072
+  logout: 1495626998547
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.45699247131444
+  y: 63.0
+  z: 40.28450194969748
+  yaw: -6.343536376953125
+  pitch: 13.005592346191406
+  world-name: ''
+ip-address: 176.189.35.178
+last-account-name: sha0z
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

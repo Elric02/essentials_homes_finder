@@ -1,0 +1,47 @@
+timestamps:
+  login: 1588774783350
+  logout: 1588780232779
+  lastteleport: 1588779682766
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 683.5594953798795
+  y: 5.0
+  z: -1207.0413045354965
+  yaw: -140.685302734375
+  pitch: 6.000068664550781
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.25068715086627
+  y: 63.0
+  z: -1.6548567576221003
+  yaw: 356.9620056152344
+  pitch: 32.231346130371094
+  world-name: ''
+money: '0'
+homes:
+  r:
+    world: world
+    x: 46.81164296814177
+    y: 64.0
+    z: -1056.3268878679319
+    yaw: 124.2370834350586
+    pitch: 5.100841045379639
+    world-name: ''
+ip-address: 176.166.144.112
+last-account-name: GaetanDu59
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

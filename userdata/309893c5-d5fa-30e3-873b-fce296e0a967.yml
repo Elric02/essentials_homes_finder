@@ -1,0 +1,38 @@
+timestamps:
+  login: 1537975763765
+  lastteleport: 1537975858625
+  logout: 1537976017672
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 148.83249122106344
+  y: 64.5
+  z: 64.03635097997906
+  yaw: 182.045166015625
+  pitch: 36.29996109008789
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 189.97461345587456
+  y: 90.0
+  z: 167.67720002176995
+  yaw: -126.62255859375
+  pitch: -35.821449279785156
+  world-name: ''
+ip-address: 90.66.255.153
+last-account-name: Yoshi26
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

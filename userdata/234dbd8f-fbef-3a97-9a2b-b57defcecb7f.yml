@@ -1,0 +1,55 @@
+timestamps:
+  login: 1549096736605
+  lastteleport: 1548599750031
+  logout: 1549096868842
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2150.6691462836957
+  y: 70.0
+  z: -3989.038782388501
+  yaw: -7.79998779296875
+  pitch: 22.199974060058594
+  world-name: ''
+homes:
+  pnjs:
+    world: Ressource
+    x: -906.9015984053035
+    y: 64.0
+    z: 692.4287407720191
+    yaw: -235.95196533203125
+    pitch: 10.049989700317383
+    world-name: ''
+  b:
+    world: world
+    x: 271.32003871618656
+    y: 46.0
+    z: -3301.8880546256205
+    yaw: 31.20330810546875
+    pitch: 16.20000648498535
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 272.8072432444211
+  y: 42.875
+  z: -3303.466864143057
+  yaw: -88.94537353515625
+  pitch: 20.40001678466797
+  world-name: ''
+afk: false
+ip-address: 176.188.30.92
+last-account-name: 4red4
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

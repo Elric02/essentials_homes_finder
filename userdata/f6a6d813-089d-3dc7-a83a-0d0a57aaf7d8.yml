@@ -1,0 +1,38 @@
+timestamps:
+  login: 1564097372487
+  lastteleport: 1564097650736
+  logout: 1564097660182
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 898.2090481821004
+  y: 95.0
+  z: -234.03413593302326
+  yaw: -145.7999267578125
+  pitch: 7.499815940856934
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.88339500413568
+  y: 63.0
+  z: 38.009529101027276
+  yaw: -41.870521545410156
+  pitch: 2.578674793243408
+  world-name: ''
+ip-address: 176.163.47.15
+last-account-name: DeMoniak1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

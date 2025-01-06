@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.119.39.155
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1631447628622
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1631448270490
+  login: 1631445606055
+money: '0'
+last-account-name: Aya
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -445.1294472694981
+  y: 77.0625
+  z: -4027.363834191615
+  yaw: -134.99998474121094
+  pitch: 0.0
+homes:
+  aya:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5177.394247922389
+    y: 64.0
+    z: -4743.8631337431125
+    yaw: 152.3997802734375
+    pitch: 9.300006866455078
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -446.8745900241812
+    y: 77.0625
+    z: -4029.350018425159
+    yaw: -15.74997615814209
+    pitch: 18.300003051757812
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -5199.272852436438
+  y: 64.0
+  z: -4752.8160399038825
+  yaw: -153.45077514648438
+  pitch: 46.35009002685547

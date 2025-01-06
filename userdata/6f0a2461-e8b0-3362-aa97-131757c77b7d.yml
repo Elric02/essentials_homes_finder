@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586796556969
+  logout: 1586796907651
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -166.57669270598285
+  y: 72.0
+  z: -328.27762288353415
+  yaw: -344.75311279296875
+  pitch: 10.890673637390137
+  world-name: ''
+ip-address: 90.35.50.14
+last-account-name: Azox36000
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

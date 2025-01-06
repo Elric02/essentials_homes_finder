@@ -1,0 +1,81 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.123.238.87
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1666533292435
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1666533368722
+  login: 1666533255961
+  kits:
+    stationaute: 1665851086985
+money: '2393.07'
+lastlocation:
+  world: b7fb2600-9a6b-4455-aa1e-a8df500c3eeb
+  world-name: Donjon
+  x: 2076.233879606671
+  y: 3.9375
+  z: 2009.1379226236495
+  yaw: -73.11558532714844
+  pitch: 9.672818183898926
+last-account-name: Arktrom
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 2022.8543623223475
+  y: 63.5625
+  z: -1674.3431934361004
+  yaw: 40.547035217285156
+  pitch: 30.45000457763672
+homes:
+  slime:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1.7706874939491115
+    y: 70.0
+    z: -68.77865955476328
+    yaw: -133.49014282226562
+    pitch: 14.400002479553223
+  hobbit:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2013.9145875584843
+    y: 64.0
+    z: -1679.5114828393275
+    yaw: -90.40299987792969
+    pitch: 2.999859571456909
+  farm:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2024.424626869575
+    y: 45.0
+    z: -1684.436268830986
+    yaw: 111.49696350097656
+    pitch: 48.89984893798828
+  pnj:
+    world: bd63a69b-f162-438e-8437-fbdb5ea04361
+    world-name: Ressource
+    x: 1820.856084658449
+    y: 81.9375
+    z: -3080.158780137508
+    yaw: -85.51641845703125
+    pitch: 5.550092697143555
+  mending:
+    world: bd63a69b-f162-438e-8437-fbdb5ea04361
+    world-name: Ressource
+    x: 2516.5087898423158
+    y: 65.0
+    z: -3791.699999988079
+    yaw: 0.8561457395553589
+    pitch: 2.7555227279663086E-4

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 93.121.179.214
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1636763419774
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1636763427705
+  login: 1636758524759
+money: '0'
+last-account-name: Kahlyia
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1460.987046628209
+  y: 64.0
+  z: -2175.699999988079
+  yaw: 158.17364501953125
+  pitch: 16.800167083740234
+homes:
+  dessert:
+    world: d2e59b71-a6cc-46c3-9366-582a12c8b4fb
+    world-name: Ressource
+    x: -1370.1371677865106
+    y: 65.9375
+    z: -441.81324827542295
+    yaw: 201.44635009765625
+    pitch: 28.049936294555664
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.5
+  y: 63.5
+  z: 27.5
+  yaw: 183.5605010986328
+  pitch: 2.928393840789795

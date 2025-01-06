@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474371950279
+  logout: 1474372725620
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1317.0786453279013
+  y: 65.0
+  z: 5177.050974751861
+  yaw: 2.0977783203125
+  pitch: 28.200023651123047
+  world-name: ''
+ip-address: 88.211.79.2
+last-account-name: Kowari
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1583589775783
+  logout: 1583448028661
+  lastteleport: 1583589800531
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.7034348554786
+  y: 64.0
+  z: 26.940612530618203
+  yaw: 15.575225830078125
+  pitch: 18.151531219482422
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.24293256601106
+  y: 64.0
+  z: 12.66506291281067
+  yaw: 295.104248046875
+  pitch: 11.640259742736816
+  world-name: ''
+ip-address: 82.252.134.95
+last-account-name: AsterCore
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1659366103569
+  lastteleport: 1614622372615
+  logout: 1659366111578
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2787.3499251529815
+  y: 79.5
+  z: -271.9514083004599
+  yaw: -349.9714050292969
+  pitch: 37.89002990722656
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -2797.211515135356
+  y: 47.5
+  z: -206.14872447167906
+  yaw: 19.178930282592773
+  pitch: 21.72728729248047
+  world-name: world
+ip-address: 2.12.181.214
+last-account-name: NeVer_Gold
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

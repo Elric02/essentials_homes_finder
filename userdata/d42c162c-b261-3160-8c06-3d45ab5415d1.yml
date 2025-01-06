@@ -1,0 +1,47 @@
+timestamps:
+  login: 1513783823389
+  lastteleport: 1513783993520
+  logout: 1513784823383
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 149.08649014226336
+  y: 64.0
+  z: 20.587446714278748
+  yaw: -144.4740753173828
+  pitch: -1.7675930261611938
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 10067.248483189258
+  y: 70.0625
+  z: 10037.350406968242
+  yaw: 316.185791015625
+  pitch: 15.560920715332031
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 10068.699999988079
+    y: 75.0
+    z: 10035.300000011921
+    yaw: 19.43335723876953
+    pitch: 16.795114517211914
+    world-name: ''
+afk: false
+ip-address: 2.13.160.154
+last-account-name: Game876
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1626712034639
+  lastteleport: 1616261083626
+  logout: 1626712077237
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.3181920288782
+  y: 63.0
+  z: 65.62643575671827
+  yaw: 213.52880859375
+  pitch: 6.100334644317627
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 632.4089615920512
+  y: 94.0
+  z: -222.5304656203166
+  yaw: 10.032238960266113
+  pitch: 9.879120826721191
+  world-name: ''
+ip-address: 176.190.31.68
+last-account-name: Benay82
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

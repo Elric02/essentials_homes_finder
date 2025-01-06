@@ -1,0 +1,47 @@
+timestamps:
+  login: 1548243777287
+  lastteleport: 1548251856986
+  logout: 1548252289480
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.43534663292894
+  y: 64.0
+  z: 8.395094387743612
+  yaw: -124.51925659179688
+  pitch: 18.478727340698242
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -4540.37825231596
+  y: 65.0
+  z: -1931.525121580247
+  yaw: 352.2025451660156
+  pitch: 3.6000943183898926
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4545.087773354543
+    y: 65.0
+    z: -1935.823624034463
+    yaw: 186.0007781982422
+    pitch: 30.000085830688477
+    world-name: ''
+ip-address: 90.45.223.54
+last-account-name: tantan_59570
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1503953509425
+  lastteleport: 1503953595935
+  logout: 1503953692357
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.82983756932924
+  y: 64.0
+  z: 27.58042402947658
+  yaw: -177.3609619140625
+  pitch: 5.874515056610107
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 160.9291038439055
+  y: 65.0
+  z: 10.579759561738939
+  yaw: 93.38911437988281
+  pitch: 13.974503517150879
+  world-name: ''
+ip-address: 78.235.104.132
+last-account-name: OhBilBi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

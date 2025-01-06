@@ -1,0 +1,38 @@
+timestamps:
+  login: 1527968727324
+  logout: 1527968833651
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.5
+  y: 65.0
+  z: 100.5
+  yaw: 144.1437225341797
+  pitch: -15.776947021484375
+  world-name: ''
+ip-address: 193.250.154.153
+last-account-name: Tekiro
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1485165338583
+  logout: 1485165923765
+  lastteleport: 1485165916512
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.482673048766
+  y: 64.0
+  z: 26.502713453078524
+  yaw: -181.1109161376953
+  pitch: 7.074515342712402
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4626.5
+  y: 79.0
+  z: 3573.5
+  yaw: -173.56944274902344
+  pitch: 32.54990005493164
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 4626.829678912387
+    y: 79.0
+    z: 3573.6107116962025
+    yaw: -173.56944274902344
+    pitch: 32.54990005493164
+    world-name: ''
+money: '0'
+ip-address: 194.199.255.141
+last-account-name: sangoku
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

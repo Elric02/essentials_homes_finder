@@ -1,0 +1,47 @@
+timestamps:
+  login: 1557852597051
+  lastteleport: 1557853141362
+  logout: 1557853183136
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -69.31250004718663
+  y: 28.0
+  z: -88.48817693912345
+  yaw: 95.341796875
+  pitch: 90.0
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -873.7915348626901
+    y: 77.0
+    z: -963.2162102667281
+    yaw: -222.78125
+    pitch: 41.874080657958984
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -564.6754060680709
+  y: 64.0
+  z: -740.7629517633719
+  yaw: -190.16476440429688
+  pitch: 30.357545852661133
+  world-name: ''
+ip-address: 88.185.227.191
+last-account-name: Impulse_e
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

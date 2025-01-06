@@ -1,0 +1,55 @@
+timestamps:
+  login: 1527869502228
+  lastteleport: 1527816049580
+  logout: 1527869545252
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: -316.69999998807907
+  y: 46.0
+  z: 56.69999998807907
+  yaw: 240.3714599609375
+  pitch: 55.04392623901367
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5491.069839398667
+  y: 63.0
+  z: -2989.2239341596865
+  yaw: 158.15890502929688
+  pitch: 8.713290214538574
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  maison:
+    world: world
+    x: -5489.51560667716
+    y: 63.0
+    z: -2991.479858947918
+    yaw: -321.85174560546875
+    pitch: 16.21219825744629
+    world-name: ''
+  mine:
+    world: world
+    x: 1353.7676923022282
+    y: 87.0
+    z: 1802.726875711298
+    yaw: 357.634033203125
+    pitch: 35.13405990600586
+    world-name: ''
+ip-address: 90.31.191.147
+last-account-name: Kych
+npc: true
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,99 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.141.87.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1696893990366
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696894026618
+  login: 1696893972054
+  kits:
+    debutant: 1665667213441
+    stationaute: 1665689181973
+money: '183742.8287878787750022'
+last-account-name: creubocube25
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -645.7402615624243
+  y: 65.0
+  z: -401.7256267669817
+  yaw: -99.70694732666016
+  pitch: -23.664051055908203
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1007.4764659994429
+    y: 70.0
+    z: 5387.371668718734
+    yaw: -20.462890625
+    pitch: 29.788732528686523
+  ench:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2481.570755802742
+    y: 50.0
+    z: -6771.935170867402
+    yaw: 92.44207763671875
+    pitch: 7.670386791229248
+  ice:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6008.323766013878
+    y: 63.0
+    z: -5521.799858064467
+    yaw: 156.97320556640625
+    pitch: 24.2784366607666
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 610.4413423111424
+    y: 71.0
+    z: 5549.777869701216
+    yaw: 140.495361328125
+    pitch: 9.513531684875488
+  village:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7864.328771190301
+    y: 69.0
+    z: 2604.369118955785
+    yaw: -63.038330078125
+    pitch: 24.575990676879883
+  poules:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -526.5998139776558
+    y: 67.0
+    z: -431.6387848809596
+    yaw: 29.8551025390625
+    pitch: 34.08967208862305
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 5944.889990346612
+  y: 63.0
+  z: -5508.9393371480755
+  yaw: -88.17232513427734
+  pitch: -31.631959915161133
+mail:
+- legacy: false
+  read: true
+  message: Le grief est interdit. Je te demanderai donc de ne pas casser les builds
+    des autres, en l'occurence la ferme de l'end. Merci
+  sender-name: naturalizee
+  sender-uuid: cc702e34-b94b-3106-b41f-f357d3bf3dac
+  timestamp: 1665309413285
+  expire: 0

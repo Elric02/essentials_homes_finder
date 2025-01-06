@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618442421379
+  logout: 1618442676685
+  lastteleport: 1618442514878
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 86.31750005492088
+  y: 63.0
+  z: 96.20787364992292
+  yaw: 278.3865966796875
+  pitch: 6.899714469909668
+  world-name: ''
+ip-address: 92.184.116.179
+last-account-name: Stunter
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

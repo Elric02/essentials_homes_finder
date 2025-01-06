@@ -1,0 +1,39 @@
+timestamps:
+  login: 1478872758292
+  lastteleport: 1478872899809
+  logout: 1478872907043
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.63023283362074
+  y: 62.875
+  z: 49.68432434609071
+  yaw: -256.111083984375
+  pitch: -6.425482749938965
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.32452542374114
+  y: 63.5
+  z: 33.127854298866396
+  yaw: -128.01092529296875
+  pitch: 7.374515533447266
+  world-name: ''
+nickname: CaporalHassrol
+ip-address: 78.198.185.32
+last-account-name: hassrol
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

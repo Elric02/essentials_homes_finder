@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.158.116.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733594162333
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736083373058
+  login: 1736083279808
+money: '17500.0'
+last-account-name: RubyUsa
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.32610470072495
+  y: 63.5
+  z: 27.485086900811865
+  yaw: -6.642622470855713
+  pitch: 40.612300872802734
+homes:
+  home:
+    world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+    world-name: grosPlot
+    x: -245.20002160328036
+    y: 33.0
+    z: -27.920611331352557
+    yaw: 121.88876342773438
+    pitch: 15.475318908691406
+  rubyusa:
+    world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+    world-name: grosPlot
+    x: -263.06407439850784
+    y: 33.54913854522001
+    z: -38.093972161916625
+    yaw: 79.20401763916016
+    pitch: 20.713930130004883
+  ilovestation47:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -235.71505600015973
+    y: 77.0
+    z: -6686.066032020226
+    yaw: 22.14999008178711
+    pitch: 46.01353454589844
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -228.7095315765931
+  y: 81.0
+  z: -6679.9338191575425
+  yaw: -165.97134399414062
+  pitch: 2.5241141319274902

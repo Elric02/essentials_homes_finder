@@ -1,0 +1,38 @@
+timestamps:
+  login: 1613244560741
+  lastteleport: 1613244654069
+  logout: 1613244667655
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 110.31369541788993
+  y: 63.0
+  z: 41.49757916912028
+  yaw: 86.79694366455078
+  pitch: 62.94062805175781
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1461.0933328628964
+  y: 64.0
+  z: -2167.769121796706
+  yaw: -337.722900390625
+  pitch: -1.6640514135360718
+  world-name: ''
+ip-address: 92.92.187.177
+last-account-name: BatonPaille3431
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

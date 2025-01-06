@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 196.217.172.179
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1677160841667
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1685802573336
+  login: 1685802532905
+money: '0'
+last-account-name: Jxst_OldNews
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 381.27124359282806
+  y: 66.0
+  z: -282.60804254941814
+  yaw: 22.582317352294922
+  pitch: -0.7499570250511169
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 331.73278691528174
+  y: 84.7431357548597
+  z: -267.1847235832918
+  yaw: -90.9678726196289
+  pitch: 32.24988555908203

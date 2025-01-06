@@ -1,0 +1,47 @@
+timestamps:
+  login: 1577015854642
+  lastteleport: 1576070577647
+  logout: 1577015925085
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1990.4960885771402
+  y: 47.0
+  z: 1916.358877307843
+  yaw: 262.4964599609375
+  pitch: 7.350004196166992
+  world-name: ''
+money: '0'
+homes:
+  ville:
+    world: world
+    x: 1997.884075034699
+    y: 64.5
+    z: 1878.0611380992284
+    yaw: 278.2496337890625
+    pitch: 32.549922943115234
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 2016.3518314389928
+  y: 69.0
+  z: 1917.920109133615
+  yaw: -223.65000915527344
+  pitch: 32.699989318847656
+  world-name: ''
+ip-address: 81.64.240.242
+last-account-name: RazeLeVrai
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

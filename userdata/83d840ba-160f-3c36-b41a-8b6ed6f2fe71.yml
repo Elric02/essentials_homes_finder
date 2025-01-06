@@ -1,0 +1,63 @@
+timestamps:
+  login: 1488653842336
+  lastteleport: 1488654421300
+  logout: 1488654740597
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4783.308012084227
+  y: 49.0
+  z: 3310.449204867905
+  yaw: -316.9493408203125
+  pitch: 14.0999755859375
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4860.6760272837255
+  y: 50.0
+  z: 3389.024264159188
+  yaw: 116.70199584960938
+  pitch: 23.699979782104492
+  world-name: ''
+homes:
+  coffre:
+    world: world
+    x: -4856.024290477426
+    y: 50.0
+    z: 3399.038028628783
+    yaw: 313.052001953125
+    pitch: 18.449983596801758
+    world-name: ''
+  base:
+    world: world
+    x: -4784.091938713805
+    y: 49.0
+    z: 3311.128360903059
+    yaw: -92.54984283447266
+    pitch: 17.999937057495117
+    world-name: ''
+  elytra:
+    world: world
+    x: 6370.601515216129
+    y: 185.0
+    z: -1731.80080731464
+    yaw: -359.031494140625
+    pitch: 41.24999237060547
+    world-name: ''
+afk: false
+money: '0'
+ip-address: 77.145.87.82
+last-account-name: Alexkill
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

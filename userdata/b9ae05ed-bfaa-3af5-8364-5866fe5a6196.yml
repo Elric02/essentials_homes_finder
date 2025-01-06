@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470400068344
+  logout: 1470400191037
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 90.30491840065852
+  y: 69.0
+  z: -141.47152851845493
+  yaw: -256.63330078125
+  pitch: 0.5407076478004456
+  world-name: ''
+ip-address: 84.6.125.252
+last-account-name: _Crome_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

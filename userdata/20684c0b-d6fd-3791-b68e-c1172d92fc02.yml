@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.120.207.150
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1704568277272
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704619334501
+  login: 1704618340605
+money: '650.0'
+last-account-name: Devo_dlt
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 244.89063018668318
+  y: 132.0
+  z: 139.77846119217128
+  yaw: 141.0210418701172
+  pitch: -4.6496381759643555
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -604.0642697616084
+  y: 33.0
+  z: -467.9586846613876
+  yaw: 130.39585876464844
+  pitch: 15.74997615814209
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3127.210737395544
+    y: 63.0
+    z: -646.5926634458126
+    yaw: 40.07647705078125
+    pitch: 23.70011329650879

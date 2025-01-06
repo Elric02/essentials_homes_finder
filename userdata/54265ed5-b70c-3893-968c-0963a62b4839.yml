@@ -1,0 +1,63 @@
+timestamps:
+  login: 1510160853328
+  lastteleport: 1510081512331
+  logout: 1510161372590
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2168.484581650577
+  y: 63.04289683901332
+  z: -1575.3464409764895
+  yaw: -234.04296875
+  pitch: -15.300004959106445
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2145.699999988079
+  y: 61.0
+  z: -1582.3586861141073
+  yaw: 320.60382080078125
+  pitch: 18.74997901916504
+  world-name: ''
+money: '0'
+homes:
+  hom9:
+    world: world_nether
+    x: -4630.300000011921
+    y: 39.0
+    z: 5854.048812426419
+    yaw: -31.822439193725586
+    pitch: 7.649955749511719
+    world-name: ''
+  hom2:
+    world: world_nether
+    x: -4751.412886019053
+    y: 52.0
+    z: 5854.300000011921
+    yaw: 11.67706298828125
+    pitch: 28.950002670288086
+    world-name: ''
+  hom4:
+    world: world
+    x: -2146.6478145416554
+    y: 63.0
+    z: -1585.2784856138837
+    yaw: 100.35862731933594
+    pitch: 19.5
+    world-name: ''
+afk: false
+ip-address: 88.126.88.174
+last-account-name: toto59
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

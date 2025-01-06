@@ -1,0 +1,60 @@
+timestamps:
+  login: 1488377351092
+  lastteleport: 1487778561238
+  logout: 1488379816408
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3051.917934503953
+  y: 64.0
+  z: 4738.299783530326
+  yaw: -91.94674682617188
+  pitch: 0.4500107169151306
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: -2606.8906536793593
+    y: 75.0
+    z: 6866.422540108213
+    yaw: -81.90010833740234
+    pitch: 5.3999924659729
+    world-name: ''
+  troll:
+    world: world
+    x: -3071.717612547494
+    y: 59.0
+    z: 6984.144062521114
+    yaw: 300.744140625
+    pitch: 6.7498955726623535
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -2600.3015541859936
+  y: 85.0
+  z: 6870.876445775386
+  yaw: 4.9493408203125
+  pitch: 5.999992370605469
+  world-name: ''
+afk: false
+jailed: true
+jail: pirate
+ip-address: 77.151.170.47
+last-account-name: le_babouin07_YT
+mail:
+- legacy: true
+  read: false
+  message: §e[§rbryjnolf§e] §rtu est en prison pour grief. Bryjnolf
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.175.75.25
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1696265006808
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696265250265
+  login: 1696263604777
+money: '600.0'
+last-account-name: SamuelMC85
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -6270.300000011921
+  y: 64.0
+  z: 5389.672542637763
+  yaw: -96.52703857421875
+  pitch: 20.022096633911133
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 3124.3528544811975
+  y: 81.0
+  z: -2236.5787625300063
+  yaw: 6.232086181640625
+  pitch: 78.83613586425781

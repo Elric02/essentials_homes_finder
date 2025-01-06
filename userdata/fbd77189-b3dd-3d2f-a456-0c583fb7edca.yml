@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.249.62.188
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1634839592029
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1634840110828
+  login: 1634839581330
+money: '0'
+last-account-name: toutpareil
+lastlocation:
+  world: 299486cc-f566-4eb7-990b-9b1fcca86de8
+  world-name: Ressource
+  x: 635.7788075822922
+  y: 70.0
+  z: -537.0189741299613
+  yaw: 94.79043579101562
+  pitch: -3.4379281997680664
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.5
+  y: 64.0
+  z: 19.5
+  yaw: -8.045186996459961
+  pitch: 52.710105895996094

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1593197532203
+  lastteleport: 1593197722337
+  logout: 1593197739590
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.77395473449263
+  y: 65.0
+  z: 99.01658242597566
+  yaw: 121.94660949707031
+  pitch: 3.1258370876312256
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+ip-address: 86.208.148.141
+last-account-name: Onixise
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

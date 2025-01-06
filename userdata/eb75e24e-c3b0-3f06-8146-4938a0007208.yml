@@ -1,0 +1,38 @@
+timestamps:
+  login: 1535887258365
+  logout: 1535887358192
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.21694622462135
+  y: 63.0
+  z: 44.82841565047058
+  yaw: -336.95355224609375
+  pitch: 12.39065170288086
+  world-name: ''
+ip-address: 78.233.40.186
+last-account-name: fungirl26
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

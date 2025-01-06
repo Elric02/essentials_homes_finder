@@ -1,0 +1,38 @@
+timestamps:
+  login: 1599858140147
+  logout: 1599858243112
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.4050275344186
+  y: 64.0
+  z: 23.179842630149047
+  yaw: 187.74090576171875
+  pitch: 71.79069519042969
+  world-name: ''
+ip-address: 91.167.171.195
+last-account-name: mrbonthel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

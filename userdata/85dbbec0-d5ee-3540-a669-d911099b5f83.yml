@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482249307733
+  lastteleport: 1482251020939
+  logout: 1482251122385
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2520.699999988079
+  y: 66.0
+  z: 6794.699999988079
+  yaw: -192.5985107421875
+  pitch: -1.9500335454940796
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 116.91742704339394
+  y: 64.0
+  z: -20.872193665252045
+  yaw: -304.41082763671875
+  pitch: -7.17545223236084
+  world-name: ''
+ip-address: 31.32.98.111
+last-account-name: elsakhaiy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

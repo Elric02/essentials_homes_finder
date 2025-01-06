@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.118.157.207
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1632325969913
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1632326067002
+  login: 1632325886699
+money: '0'
+last-account-name: eldamiano1508
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 126.30000001192093
+  y: 63.0
+  z: 26.30000001192093
+  yaw: -182.79534912109375
+  pitch: 12.425826072692871
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 111.66042279164519
+  y: 63.0
+  z: -38.70417516207297
+  yaw: -239.042724609375
+  pitch: 7.025919437408447

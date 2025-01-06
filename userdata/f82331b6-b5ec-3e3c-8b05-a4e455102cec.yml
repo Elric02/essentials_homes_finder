@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.65.88.250
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665595506283
+  login: 1665595113460
+money: '0'
+last-account-name: zigfzfzhfozehui
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 180.99937384273474
+  y: 63.0
+  z: -33.18641634147387
+  yaw: -6.653411865234375
+  pitch: -14.909231185913086
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -5917.9347976356685
+  y: 54.0
+  z: -3375.4891480679676
+  yaw: -35.830482482910156
+  pitch: 25.500713348388672

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1591270950889
+  lastteleport: 1591274293505
+  logout: 1591275795994
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -184.1926727294922
+  pitch: -6.0394487380981445
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: -2934.8888814129896
+    y: 64.0
+    z: 3840.530091343893
+    yaw: -53.912200927734375
+    pitch: 30.761432647705078
+    world-name: ''
+  home:
+    world: Ressource
+    x: -801.9536570313156
+    y: 58.0
+    z: -2523.9691744280753
+    yaw: 161.86505126953125
+    pitch: 0.5921618342399597
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -2937.6501243765842
+  y: 63.0
+  z: 3836.6906194102476
+  yaw: -175.9928436279297
+  pitch: 9.422715187072754
+  world-name: ''
+ip-address: 176.181.117.220
+last-account-name: bigbos
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

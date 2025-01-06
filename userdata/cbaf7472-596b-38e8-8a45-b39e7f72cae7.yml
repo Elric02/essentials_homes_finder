@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.229.192.31
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671390579906
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671651179275
+  login: 1671651153223
+money: '0'
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -481.9670029951297
+  y: 33.0
+  z: 505.0237893191708
+  yaw: -108.99160766601562
+  pitch: 54.14994430541992
+last-account-name: Papiermache
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -482.01774900649576
+  y: 33.0
+  z: 505.0412525342079
+  yaw: -108.99160766601562
+  pitch: 54.14994430541992

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.35.129.25
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709736128431
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714147917985
+  login: 1714147887114
+money: '100.0'
+last-account-name: sisix1212
+lastlocation:
+  world: f6cc7e86-533e-4833-a044-23fb95716522
+  world-name: Ressource
+  x: -92.0
+  y: 112.0
+  z: 3.0
+  yaw: -101.55020141601562
+  pitch: -0.7499821186065674
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.0
+  y: 64.0
+  z: 19.0
+  yaw: -0.6000000834465027
+  pitch: 3.900001049041748

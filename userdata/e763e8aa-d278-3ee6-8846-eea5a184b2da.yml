@@ -1,0 +1,47 @@
+timestamps:
+  login: 1615663866208
+  logout: 1615663999994
+  lastteleport: 1615663896853
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4783.608978949064
+  y: 69.0
+  z: -340.8512067327409
+  yaw: -7.339141845703125
+  pitch: 11.999865531921387
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 184.70139998476847
+  y: 13.0
+  z: 670.6437104576672
+  yaw: -259.9835205078125
+  pitch: 19.856225967407227
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 146.72230314947575
+    y: 17.0
+    z: 650.9448018615251
+    yaw: 106.16700744628906
+    pitch: 15.056233406066895
+    world-name: ''
+ip-address: 88.219.164.148
+last-account-name: SableQuiRoule
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1502142799712
+  lastteleport: 1502145073881
+  logout: 1502147576399
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 485.69999998807907
+  y: 60.0
+  z: -535.8484915539232
+  yaw: -316.99072265625
+  pitch: 62.100013732910156
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -27.81097412109375
+  pitch: 10.07451343536377
+  world-name: ''
+ip-address: 77.204.28.99
+last-account-name: superchaussette
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1502630390120
+  logout: 1502630736877
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 202.90953803302952
+  y: 63.5
+  z: 20.555408050709197
+  yaw: -108.62468719482422
+  pitch: 7.616118907928467
+  world-name: ''
+ip-address: 95.176.28.193
+last-account-name: BoRaScA
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470154480141
+  logout: 1470154689493
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -82.60021534540367
+  y: 62.0
+  z: 169.9109400696844
+  yaw: -320.4998779296875
+  pitch: 38.212738037109375
+  world-name: ''
+ip-address: 88.160.176.66
+last-account-name: ngymichel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

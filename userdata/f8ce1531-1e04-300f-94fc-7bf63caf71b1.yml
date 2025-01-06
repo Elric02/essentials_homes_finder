@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468072486063
+  logout: 1468073447888
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 454.07336449154013
+  y: 96.0
+  z: -149.87762715564082
+  yaw: 110.3887939453125
+  pitch: 30.449508666992188
+  world-name: ''
+ip-address: 109.25.24.32
+last-account-name: Worldofcube76
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

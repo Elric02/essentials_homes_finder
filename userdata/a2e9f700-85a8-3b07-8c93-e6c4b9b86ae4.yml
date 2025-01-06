@@ -1,0 +1,38 @@
+timestamps:
+  login: 1619226657988
+  logout: 1619226829850
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 104.14084981318186
+  y: 70.0
+  z: -78.10388349072547
+  yaw: -182.453369140625
+  pitch: 17.340660095214844
+  world-name: ''
+ip-address: 90.24.60.122
+last-account-name: Wati_Baloook
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558788469305
+  lastteleport: 1558788896191
+  logout: 1558789046315
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1844.8435848878505
+  y: 79.0
+  z: -1774.605602900139
+  yaw: 27.202585220336914
+  pitch: 30.475969314575195
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -781.0801085774049
+  y: 63.0
+  z: 780.0296061445601
+  yaw: -66.57457733154297
+  pitch: 54.809654235839844
+  world-name: ''
+ip-address: 90.108.229.92
+last-account-name: Warker16
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472398882434
+  lastteleport: 1472403471929
+  logout: 1472405677897
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -4761.965397680835
+  y: 68.0
+  z: -1192.2758106391618
+  yaw: 318.3865966796875
+  pitch: 34.65034866333008
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -5008.699999988079
+  y: 21.0
+  z: -1126.699999988079
+  yaw: -49.559326171875
+  pitch: 17.550010681152344
+  world-name: ''
+ip-address: 109.208.253.143
+last-account-name: Lapipuk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

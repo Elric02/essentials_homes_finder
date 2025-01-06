@@ -1,0 +1,47 @@
+timestamps:
+  login: 1610903231579
+  lastteleport: 1610903876331
+  logout: 1610904092823
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5997.215785414519
+  y: 55.0
+  z: 1447.699999988079
+  yaw: -235.859619140625
+  pitch: 17.354372024536133
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6064.679344815566
+    y: 65.5
+    z: 1444.4999171943737
+    yaw: 351.5155944824219
+    pitch: 28.649690628051758
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 6063.712018056891
+  y: 65.0
+  z: 1448.076299896754
+  yaw: -252.23602294921875
+  pitch: 30.180755615234375
+  world-name: ''
+ip-address: 176.145.80.154
+last-account-name: SirOdfrez
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

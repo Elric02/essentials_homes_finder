@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 93.8.29.255
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682173775361
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705673053876
+  login: 1705672991975
+money: '50.0'
+last-account-name: goodnightmare
+lastlocation:
+  world: c69d7224-05f0-46c7-88a5-c9c88dc483cb
+  world-name: Ressource
+  x: 53.18337899119228
+  y: 58.98454397333707
+  z: -24.100296590399893
+  yaw: 87.89633178710938
+  pitch: 8.099849700927734
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -330.1646110101779
+  y: 33.0
+  z: 62.14376479944155
+  yaw: -14.796133995056152
+  pitch: -42.75031661987305

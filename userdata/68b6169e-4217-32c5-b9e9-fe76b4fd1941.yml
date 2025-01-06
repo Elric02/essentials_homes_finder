@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490635525402
+  logout: 1490635579216
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.33343455478752
+  y: 64.0
+  z: 29.709475269269944
+  yaw: -181.54734802246094
+  pitch: 2.047398328781128
+  world-name: ''
+ip-address: 88.185.194.43
+last-account-name: pitipittbull
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

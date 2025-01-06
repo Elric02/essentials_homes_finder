@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586441842974
+  logout: 1586442053100
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 187.6640366656143
+  y: 74.0
+  z: 243.74534031076365
+  yaw: 93.99698638916016
+  pitch: 28.349750518798828
+  world-name: ''
+ip-address: 212.239.179.79
+last-account-name: Rosi_Ytb
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

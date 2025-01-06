@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.65.134.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1708916748533
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709651547124
+  login: 1709651542462
+money: '0'
+last-account-name: Selfinnaa
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 245.22563339422342
+  y: 132.0
+  z: 139.34150430108176
+  yaw: -162.8797607421875
+  pitch: 1.9499799013137817
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -362.9542026523602
+  y: 73.5
+  z: -366.31514233684186
+  yaw: 112.05712890625
+  pitch: 57.450191497802734

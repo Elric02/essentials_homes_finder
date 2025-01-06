@@ -1,0 +1,63 @@
+timestamps:
+  login: 1487185935519
+  lastteleport: 1487186145446
+  logout: 1487186478494
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5653.699999988079
+  y: 21.0
+  z: -3302.6759193142375
+  yaw: -266.88775634765625
+  pitch: 82.73137664794922
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5668.757477613382
+  y: 69.0
+  z: -3336.0498526620026
+  yaw: -7.781768798828125
+  pitch: 27.147733688354492
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -249.53364205852384
+    y: 58.0
+    z: 351.75344101191564
+    yaw: 264.374267578125
+    pitch: 18.99942398071289
+    world-name: ''
+  home:
+    world: world
+    x: -5669.699999988079
+    y: 91.0
+    z: -3323.880916978
+    yaw: -218.4185791015625
+    pitch: 17.74127769470215
+    world-name: ''
+  xp:
+    world: world
+    x: 215.51184477848122
+    y: 101.0
+    z: -92.61152176982887
+    yaw: 13.495147705078125
+    pitch: 30.140684127807617
+    world-name: ''
+afk: false
+muted: false
+ip-address: 93.16.132.52
+last-account-name: Aftor17
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

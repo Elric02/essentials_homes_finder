@@ -1,0 +1,38 @@
+timestamps:
+  login: 1604063484783
+  logout: 1604063629057
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 160.38899177671436
+  y: 64.0
+  z: 27.073059121707928
+  yaw: -79.5090560913086
+  pitch: 12.590348243713379
+  world-name: ''
+ip-address: 31.36.137.183
+last-account-name: rip050
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

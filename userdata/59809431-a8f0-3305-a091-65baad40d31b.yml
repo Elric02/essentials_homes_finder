@@ -1,0 +1,38 @@
+timestamps:
+  login: 1581258329352
+  lastteleport: 1579948411344
+  logout: 1581258374230
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -0.14181873112746013
+  y: 90.0
+  z: 0.5000281868987304
+  yaw: 89.99726104736328
+  pitch: 19.085840225219727
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 51.45028011318788
+  y: 68.0
+  z: -58.98006123890177
+  yaw: -262.0698547363281
+  pitch: 16.52862548828125
+  world-name: ''
+ip-address: 185.216.24.52
+last-account-name: Chocolait20
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

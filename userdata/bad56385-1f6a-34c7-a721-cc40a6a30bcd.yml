@@ -1,0 +1,47 @@
+timestamps:
+  login: 1503574933870
+  logout: 1503575222447
+  lastteleport: 1503575202705
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4657.8008449456
+  y: 80.0
+  z: -3432.141162993337
+  yaw: -325.9821472167969
+  pitch: 11.40002727508545
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4540.479819502316
+  y: 132.0
+  z: -3368.4550376705215
+  yaw: 188.0690155029297
+  pitch: 23.700031280517578
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  maison:
+    world: world
+    x: 4544.440045824688
+    y: 133.0
+    z: -3376.3611596442292
+    yaw: 38.369049072265625
+    pitch: 17.700040817260742
+    world-name: ''
+ip-address: 78.231.32.106
+last-account-name: beberote
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

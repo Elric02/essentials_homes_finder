@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.171.127.218
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1670335611554
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670337709268
+  login: 1670335386840
+money: '0'
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -53.281734286138345
+  y: 33.0
+  z: 235.55193981498513
+  yaw: -4.800000190734863
+  pitch: 39.899993896484375
+last-account-name: Sal_F1sher
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -48.139695535236655
+  y: 45.49390748022948
+  z: 286.61881937595416
+  yaw: 151.79666137695312
+  pitch: 35.85005569458008

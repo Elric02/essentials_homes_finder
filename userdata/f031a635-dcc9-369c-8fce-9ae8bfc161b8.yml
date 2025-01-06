@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510434497049
+  logout: 1510434626760
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.09356589160532
+  y: 64.0
+  z: 30.04824707002879
+  yaw: -63.197662353515625
+  pitch: -7.81938362121582
+  world-name: ''
+ip-address: 86.248.204.218
+last-account-name: _HaRbOX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1567791056478
+  lastteleport: 1567795167416
+  logout: 1567795244542
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Donjon
+  x: 3016.829843466981
+  y: 38.78608123157454
+  z: 3105.213594121949
+  yaw: -108.05389404296875
+  pitch: 22.19991111755371
+  world-name: ''
+money: '0'
+homes:
+  exp:
+    world: End
+    x: -306.47439025716955
+    y: 66.0
+    z: -0.31327229402855833
+    yaw: -102.47866821289062
+    pitch: 16.379241943359375
+    world-name: ''
+  base:
+    world: world
+    x: 3246.3394357277857
+    y: 63.0
+    z: -2393.823706695922
+    yaw: -126.44798278808594
+    pitch: 20.70000457763672
+    world-name: ''
+  slime:
+    world: world
+    x: 43.39726689160349
+    y: 75.0
+    z: -859.5326180428631
+    yaw: -0.32012939453125
+    pitch: 0.9288138747215271
+    world-name: ''
+logoutlocation:
+  world: Donjon
+  x: 2071.7452271246866
+  y: 4.9375
+  z: 1994.7197618830924
+  yaw: -25.59625244140625
+  pitch: 11.421406745910645
+  world-name: ''
+afk: false
+ip-address: 176.154.201.148
+last-account-name: S0unDs
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1527516291921
+  lastteleport: 1527516295941
+  logout: 1527516420421
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.00988484405676
+  y: 63.0
+  z: 53.61586768731071
+  yaw: 184.476806640625
+  pitch: 20.550031661987305
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.72873929237124
+  y: 63.0
+  z: 49.781750615789385
+  yaw: -204.77056884765625
+  pitch: 11.27866268157959
+  world-name: ''
+ip-address: 90.48.211.240
+last-account-name: Dxterminator
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

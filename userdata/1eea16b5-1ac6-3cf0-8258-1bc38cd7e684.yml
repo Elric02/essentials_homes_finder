@@ -1,0 +1,38 @@
+timestamps:
+  login: 1463243972855
+  logout: 1463244344838
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 19.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.45594559567587
+  y: 64.0
+  z: 19.433668642457526
+  yaw: -178.647216796875
+  pitch: -11.475815773010254
+  world-name: ''
+ip-address: 93.23.207.102
+last-account-name: mini_cooki
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

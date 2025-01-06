@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476384987637
+  logout: 1476385019936
+  lastteleport: 1476385008139
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1980.6372162858
+  y: 86.0
+  z: 1766.7771700867272
+  yaw: 150.45001220703125
+  pitch: 11.699993133544922
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -151.71092224121094
+  pitch: -14.225484848022461
+  world-name: ''
+ip-address: 176.161.58.81
+last-account-name: Zorlack06
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

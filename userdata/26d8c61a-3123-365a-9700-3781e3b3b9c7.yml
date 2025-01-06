@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614533925999
+  lastteleport: 1614534812572
+  logout: 1614535609304
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.90829326892973
+  y: 64.0
+  z: 27.407510586248748
+  yaw: -185.49557495117188
+  pitch: -0.7741157412528992
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 1225.41529117475
+  y: 63.0
+  z: -3512.036770711564
+  yaw: -85.5000991821289
+  pitch: 2.3998560905456543
+  world-name: ''
+ip-address: 176.139.21.115
+last-account-name: Klhaine1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

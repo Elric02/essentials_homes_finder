@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.115.18.61
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675873704151
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1676114150826
+  login: 1676114136107
+money: '0'
+last-account-name: Docteur_Renart
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -218.01071992194105
+  y: 65.0
+  z: 320.21043234672777
+  yaw: 175.3461456298828
+  pitch: 26.699993133544922
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -218.01071992194105
+  y: 65.0
+  z: 320.21043234672777
+  yaw: 175.3461456298828
+  pitch: 26.699993133544922

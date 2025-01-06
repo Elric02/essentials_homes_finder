@@ -1,0 +1,38 @@
+timestamps:
+  login: 1530865601596
+  lastteleport: 1530865648787
+  logout: 1530865909411
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.67192570212103
+  y: 52.488405552017895
+  z: 92.88914312156668
+  yaw: 122.02533721923828
+  pitch: 37.06144714355469
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -74.09902606204643
+  y: 67.0
+  z: 268.6791687780189
+  yaw: -301.19384765625
+  pitch: 6.441635608673096
+  world-name: ''
+ip-address: 82.238.240.8
+last-account-name: SpeedyGames83
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

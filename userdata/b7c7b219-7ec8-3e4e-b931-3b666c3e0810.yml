@@ -1,0 +1,38 @@
+timestamps:
+  login: 1507916979804
+  lastteleport: 1507822139182
+  logout: 1507916988191
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.74505389215759
+  y: 63.0
+  z: 44.238252252214984
+  yaw: -135.21099853515625
+  pitch: 19.374513626098633
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4151.152812849436
+  y: 64.0
+  z: 5968.027745325407
+  yaw: 21.599876403808594
+  pitch: 24.449974060058594
+  world-name: ''
+ip-address: 109.217.192.5
+last-account-name: lililove
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

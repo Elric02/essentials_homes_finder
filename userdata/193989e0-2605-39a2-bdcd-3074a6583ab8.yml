@@ -1,0 +1,38 @@
+timestamps:
+  login: 1625499001710
+  lastteleport: 1625500286619
+  logout: 1625500447457
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -3001.5144349878688
+  y: 16.0
+  z: 3476.1487176849982
+  yaw: 194.3201904296875
+  pitch: -11.316474914550781
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.87080847210268
+  y: 65.0
+  z: 86.54323657074393
+  yaw: 1.735421061515808
+  pitch: 4.195415019989014
+  world-name: ''
+ip-address: 2.4.119.248
+last-account-name: hades_boomer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

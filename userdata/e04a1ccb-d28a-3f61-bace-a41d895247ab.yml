@@ -1,0 +1,38 @@
+timestamps:
+  login: 1527553280702
+  logout: 1527553287429
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.5
+  y: 65.0
+  z: 100.5
+  yaw: 161.04693603515625
+  pitch: 2.190652847290039
+  world-name: ''
+ip-address: 66.110.140.176
+last-account-name: KiraJiraZen
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

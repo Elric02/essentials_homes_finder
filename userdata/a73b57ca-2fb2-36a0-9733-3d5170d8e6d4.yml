@@ -1,0 +1,55 @@
+timestamps:
+  login: 1479228048766
+  logout: 1479234999220
+  lastteleport: 1479232710589
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -260.7064105699379
+  y: 12.0
+  z: 1167.300000011921
+  yaw: -85.9373779296875
+  pitch: 10.05005931854248
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: -325.1506189500848
+  y: 16.0
+  z: 1166.0100725074844
+  yaw: 337.8131103515625
+  pitch: 15.599996566772461
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 860.0049081659614
+    y: 70.0
+    z: 2510.6313443193967
+    yaw: 257.83697509765625
+    pitch: 17.09998893737793
+    world-name: ''
+  mine:
+    world: ressource
+    x: -95.13568343070169
+    y: 7.0
+    z: 941.0866525521109
+    yaw: -138.55828857421875
+    pitch: 14.99993896484375
+    world-name: ''
+ip-address: 176.135.228.91
+last-account-name: MKJ72
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

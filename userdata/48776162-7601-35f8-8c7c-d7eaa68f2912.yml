@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.167.68.215
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1666454970894
+  login: 1666454944457
+money: '0'
+last-account-name: fox08
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.0217561114144
+  y: 81.0
+  z: -3111.233428528464
+  yaw: -64.58987426757812
+  pitch: 13.027074813842773
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9707650665273
+  y: 81.0
+  z: -3111.2589634091105
+  yaw: -10.283524513244629
+  pitch: 5.766058921813965

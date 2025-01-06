@@ -1,0 +1,55 @@
+timestamps:
+  login: 1542301860264
+  lastteleport: 1542132929826
+  logout: 1542302259236
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1481.834652252283
+  y: 71.0
+  z: -755.2501492405171
+  yaw: -304.14642333984375
+  pitch: 23.338327407836914
+  world-name: ''
+money: '0'
+homes:
+  o:
+    world: world
+    x: -1771.699999988079
+    y: 90.0
+    z: -817.6999999880791
+    yaw: -43.3321533203125
+    pitch: 14.866884231567383
+    world-name: ''
+  minage:
+    world: Ressource
+    x: 867.3000000119209
+    y: 13.0
+    z: -1064.300000011921
+    yaw: 239.83302307128906
+    pitch: 16.949983596801758
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1767.564866110577
+  y: 90.0
+  z: -823.332233884238
+  yaw: -273.1143798828125
+  pitch: -6.798186302185059
+  world-name: ''
+afk: false
+ip-address: 78.237.231.46
+last-account-name: jadouhappy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

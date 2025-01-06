@@ -1,0 +1,38 @@
+timestamps:
+  login: 1594019906361
+  lastteleport: 1593962971328
+  logout: 1594020036571
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 968.9303250691689
+  y: 60.0
+  z: -73.1832890320102
+  yaw: -199.49847412109375
+  pitch: -23.40005874633789
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.42802665483353
+  y: 64.0
+  z: 19.304562987360832
+  yaw: -193.6707305908203
+  pitch: -4.1713337898254395
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 154.67.220.79
+last-account-name: Luci
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

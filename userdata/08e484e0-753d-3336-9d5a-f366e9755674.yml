@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499015249582
+  lastteleport: 1499015408712
+  logout: 1499020460813
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.84507454985376
+  y: 66.0
+  z: 19.186121040945487
+  yaw: -83.89703369140625
+  pitch: -10.552594184875488
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Ressource
+  x: -25.167751043155945
+  y: 77.0
+  z: 124.8138490175521
+  yaw: -285.18603515625
+  pitch: 36.900001525878906
+  world-name: ''
+ip-address: 105.98.94.166
+last-account-name: magidmegas
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

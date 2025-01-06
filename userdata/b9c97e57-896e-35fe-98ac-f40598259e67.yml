@@ -1,0 +1,63 @@
+timestamps:
+  login: 1603653852443
+  lastteleport: 1603641799024
+  logout: 1603654020371
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+homes:
+  basestockage:
+    world: world
+    x: 3842.2403270768937
+    y: 67.0
+    z: -3922.673239893996
+    yaw: -285.9716796875
+    pitch: 13.110665321350098
+    world-name: ''
+  jungle:
+    world: Ressource
+    x: -2329.699999988079
+    y: 70.0
+    z: -3614.0437165527296
+    yaw: 24.92599105834961
+    pitch: 17.561403274536133
+    world-name: ''
+  iceberg:
+    world: Ressource
+    x: 2699.6361436850966
+    y: 63.0
+    z: 3845.5138754098234
+    yaw: -253.14389038085938
+    pitch: 8.740148544311523
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3848.6525086362335
+  y: 77.0
+  z: -3938.427914960977
+  yaw: 298.6542053222656
+  pitch: -2.84031081199646
+  world-name: ''
+ip-address: 82.126.105.79
+last-account-name: ZeSnake_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

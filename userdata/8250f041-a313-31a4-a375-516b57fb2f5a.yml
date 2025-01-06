@@ -1,0 +1,38 @@
+timestamps:
+  login: 1528639852984
+  lastteleport: 1528640604574
+  logout: 1528640622659
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -30.84874867807773
+  y: 70.0
+  z: 48.34744053097725
+  yaw: 89.66361999511719
+  pitch: 52.77431106567383
+  world-name: ''
+ip-address: 176.186.29.154
+last-account-name: Kobhau
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

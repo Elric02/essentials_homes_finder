@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500910202289
+  logout: 1500910459270
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4732.838815751682
+  y: 98.0
+  z: 760.3238706039522
+  yaw: 126.2999267578125
+  pitch: 5.0999932289123535
+  world-name: ''
+ip-address: 85.26.75.225
+last-account-name: Toshisma
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

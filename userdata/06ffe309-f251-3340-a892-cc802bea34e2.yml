@@ -1,0 +1,38 @@
+timestamps:
+  login: 1624644103541
+  logout: 1624644123092
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.18524717095949
+  y: 65.0
+  z: 19.41638256052086
+  yaw: -178.5506134033203
+  pitch: 32.6405029296875
+  world-name: ''
+ip-address: 109.201.137.50
+last-account-name: ZEM26513
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

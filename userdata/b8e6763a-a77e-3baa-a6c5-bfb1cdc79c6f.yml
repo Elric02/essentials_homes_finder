@@ -1,0 +1,38 @@
+timestamps:
+  login: 1501793265316
+  lastteleport: 1501793638717
+  logout: 1501795359739
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1016.2373619850848
+  y: 63.5
+  z: 132.1937309147395
+  yaw: -129.5556640625
+  pitch: 29.48088836669922
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 87.88.99.120
+last-account-name: Quliford
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

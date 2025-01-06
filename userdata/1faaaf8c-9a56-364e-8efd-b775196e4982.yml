@@ -1,0 +1,38 @@
+timestamps:
+  login: 1515436284335
+  lastteleport: 1515017958546
+  logout: 1515436360049
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.5
+  y: 65.0
+  z: 100.5
+  yaw: 156.54698181152344
+  pitch: 15.240659713745117
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.85676568068988
+  y: 67.0
+  z: 74.97323073406778
+  yaw: -173.27110290527344
+  pitch: 1.2286707162857056
+  world-name: ''
+ip-address: 109.10.5.135
+last-account-name: maxou1210
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

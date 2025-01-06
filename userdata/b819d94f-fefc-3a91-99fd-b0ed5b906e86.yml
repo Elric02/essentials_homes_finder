@@ -1,0 +1,38 @@
+timestamps:
+  login: 1550763408339
+  logout: 1550763565002
+  lastteleport: 1550763508278
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -624.7956904634079
+  y: 72.0
+  z: 595.8614419789998
+  yaw: -146.15066528320312
+  pitch: 17.756616592407227
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.09703371207004
+  y: 63.0
+  z: 60.78401075307401
+  yaw: -83.33710479736328
+  pitch: 13.511113166809082
+  world-name: ''
+ip-address: 90.9.47.22
+last-account-name: gangster15
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

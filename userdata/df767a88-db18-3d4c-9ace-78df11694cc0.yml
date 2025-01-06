@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474194493882
+  logout: 1474194571902
+  lastteleport: 1472313374216
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5505.34346146142
+  y: 64.0
+  z: 2653.2639383999513
+  yaw: -97.00804901123047
+  pitch: 0.1352972388267517
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1980.1166384101955
+  y: 11.0
+  z: 5761.350268935875
+  yaw: -260.5130615234375
+  pitch: 12.4746732711792
+  world-name: ''
+afk: false
+ip-address: 78.228.21.185
+last-account-name: math25
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

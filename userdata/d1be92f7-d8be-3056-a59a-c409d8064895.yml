@@ -1,0 +1,38 @@
+timestamps:
+  login: 1533566228793
+  lastteleport: 1533567247066
+  logout: 1533567862338
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.56249808604892
+  y: 64.0
+  z: 17.79187090043688
+  yaw: -135.32083129882812
+  pitch: 15.028671264648438
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.77960120153622
+  y: 63.5
+  z: 32.989357788325314
+  yaw: -162.3206787109375
+  pitch: -30.899999618530273
+  world-name: ''
+ip-address: 2.10.37.118
+last-account-name: lefourouge
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

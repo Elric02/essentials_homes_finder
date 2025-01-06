@@ -1,0 +1,55 @@
+timestamps:
+  login: 1632027444044
+  logout: 1632027488576
+  lastteleport: 1632027485493
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 72.91911780951908
+  y: 63.0
+  z: -6.477657922022324
+  yaw: -342.17633056640625
+  pitch: 6.234979629516602
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 7837.5
+  y: 80.0
+  z: 284.5
+  yaw: 359.232177734375
+  pitch: 8.55010986328125
+  world-name: world
+homes:
+  itemframes:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 7837.708673743377
+    y: 80.0
+    z: 284.30000001192093
+    yaw: 359.232177734375
+    pitch: 8.55010986328125
+    world-name: world
+  i:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 7837.708673743377
+    y: 80.0
+    z: 284.30000001192093
+    yaw: 359.232177734375
+    pitch: 8.55010986328125
+    world-name: world
+afk: false
+ip-address: 156.146.63.4
+last-account-name: itemframes
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

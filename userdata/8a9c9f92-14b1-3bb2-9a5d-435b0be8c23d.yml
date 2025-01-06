@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519679816713
+  lastteleport: 1519672415106
+  logout: 1519679843011
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.17561316581924
+  y: 66.0
+  z: -4.95624256074769
+  yaw: -161.72084045410156
+  pitch: -13.171338081359863
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world_the_end
+  x: 12.356488386642608
+  y: 61.0
+  z: -4.274779567029958
+  yaw: 14.137740135192871
+  pitch: 4.294986724853516
+  world-name: ''
+ip-address: 82.246.63.176
+last-account-name: Iggypop
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

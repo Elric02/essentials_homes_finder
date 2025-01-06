@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.120.76.92
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1669398604374
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670085556816
+  login: 1670085419326
+money: '50.0'
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -2762.5
+  y: 64.0
+  z: -800.5
+  yaw: 53.37908935546875
+  pitch: 4.6505818367004395
+last-account-name: darkzvellox
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -101.32670805344317
+  y: 99.0
+  z: 143.7843030947118
+  yaw: -97.05160522460938
+  pitch: 13.950138092041016

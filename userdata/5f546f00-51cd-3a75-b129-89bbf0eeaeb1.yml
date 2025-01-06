@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618942924986
+  lastteleport: 1618947722450
+  logout: 1618948226392
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2612.7970166713635
+  y: 14.0
+  z: -3733.538377149666
+  yaw: 346.201416015625
+  pitch: 11.388242721557617
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5057.699999988079
+  y: 162.0
+  z: 6091.221367819128
+  yaw: 283.1379089355469
+  pitch: 23.092891693115234
+  world-name: ''
+afk: false
+ip-address: 90.73.83.4
+last-account-name: Xenouille
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1510160711185
+  lastteleport: 1510161181503
+  logout: 1510161371269
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6049.92594699908
+  y: 95.0
+  z: 1164.2154044418005
+  yaw: 292.19927978515625
+  pitch: 22.650041580200195
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2145.4631001195426
+  y: 67.0
+  z: -1577.237500011921
+  yaw: 186.4967498779297
+  pitch: 26.700031280517578
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6047.393391894542
+    y: 94.0
+    z: 1162.854782064594
+    yaw: 81.29956817626953
+    pitch: 27.0000057220459
+    world-name: ''
+ip-address: 88.126.88.174
+last-account-name: Brayan59
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

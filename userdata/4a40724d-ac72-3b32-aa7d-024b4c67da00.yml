@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.39.58.195
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1686231592913
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686231627636
+  login: 1686231567098
+money: '0'
+last-account-name: Starkiox
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.69762842412695
+  y: 81.0
+  z: -3111.372580645361
+  yaw: -65.69822692871094
+  pitch: 8.399955749511719
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -595.2199858597659
+  y: 33.0
+  z: 125.14597522071097
+  yaw: 175.10940551757812
+  pitch: 27.149080276489258

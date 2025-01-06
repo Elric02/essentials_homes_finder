@@ -1,0 +1,47 @@
+timestamps:
+  login: 1619002318075
+  lastteleport: 1619004881655
+  logout: 1619005025163
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 169.07296393706596
+  y: 63.0
+  z: -19.431899895138322
+  yaw: -269.0455627441406
+  pitch: 10.02597713470459
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  base:
+    world: world
+    x: 3764.8835682346444
+    y: 71.0
+    z: -1912.4959639206616
+    yaw: -36.5999755859375
+    pitch: -1.1999483108520508
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3766.0297151990653
+  y: 71.0
+  z: -1911.3927044724646
+  yaw: 200.09521484375
+  pitch: 33.59999465942383
+  world-name: ''
+ip-address: 95.136.244.130
+last-account-name: FillixN
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509548135628
+  lastteleport: 1509546681394
+  logout: 1509549391471
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -40.51432931781792
+  y: 76.0
+  z: -41.28382873207832
+  yaw: -41.29233932495117
+  pitch: -1.3167779445648193
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 160.73544991856826
+  y: 64.0
+  z: 18.92964476046715
+  yaw: 158.0797576904297
+  pitch: 5.728610038757324
+  world-name: ''
+afk: false
+ip-address: 78.199.74.132
+last-account-name: Potoss
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

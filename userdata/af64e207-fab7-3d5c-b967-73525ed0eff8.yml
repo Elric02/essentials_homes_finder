@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614197491969
+  logout: 1614197515237
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.23612938824766
+  y: 57.92499985992904
+  z: 90.45650125194436
+  yaw: 188.04800415039062
+  pitch: -2.6093673706054688
+  world-name: ''
+ip-address: 88.139.143.208
+last-account-name: Recnut
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

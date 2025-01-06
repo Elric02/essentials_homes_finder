@@ -1,0 +1,63 @@
+timestamps:
+  login: 1551626320999
+  lastteleport: 1551626522852
+  logout: 1551626588278
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -938.3802784040201
+  y: 100.0
+  z: 2089.478025529874
+  yaw: -264.2967529296875
+  pitch: 32.55006408691406
+  world-name: ''
+money: '0'
+homes:
+  mine:
+    world: Ressource
+    x: -421.0994259283506
+    y: 11.0
+    z: -854.2386660343388
+    yaw: -205.4279327392578
+    pitch: 9.59997844696045
+    world-name: ''
+  maison:
+    world: world
+    x: -1877.3491316945986
+    y: 80.0
+    z: -4031.0827792701775
+    yaw: -142.9519805908203
+    pitch: 20.699787139892578
+    world-name: ''
+  fleur:
+    world: Ressource
+    x: -1776.3154223910472
+    y: 72.0
+    z: 1858.0303201675524
+    yaw: 286.7999572753906
+    pitch: 22.950244903564453
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1875.9441624050298
+  y: 80.75
+  z: -4027.2580549122827
+  yaw: -143.40054321289062
+  pitch: 9.899885177612305
+  world-name: ''
+afk: false
+ip-address: 89.92.9.201
+last-account-name: Erosif
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

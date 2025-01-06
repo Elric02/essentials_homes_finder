@@ -1,0 +1,63 @@
+timestamps:
+  login: 1507910921109
+  lastteleport: 1507911221896
+  logout: 1507912116356
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 903.9293400039535
+  y: 100.78608123157454
+  z: -997.8419555892649
+  yaw: -88.71072387695312
+  pitch: 2.249999761581421
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 940.5262309411509
+    y: 87.0
+    z: -1099.7180211758764
+    yaw: -214.5611572265625
+    pitch: 5.100004196166992
+    world-name: ''
+  tb:
+    world: world
+    x: 939.3435870910704
+    y: 93.0
+    z: -1064.3302747568675
+    yaw: -281.76116943359375
+    pitch: 74.70001220703125
+    world-name: ''
+  m2:
+    world: world
+    x: 935.9421603272764
+    y: 100.0
+    z: -1062.1810951925777
+    yaw: -177.96112060546875
+    pitch: 10.800006866455078
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 937.3000000119209
+  y: 87.5
+  z: -1096.237500011921
+  yaw: -184.7093505859375
+  pitch: 22.04999351501465
+  world-name: ''
+afk: false
+muted: false
+jailed: false
+ip-address: 86.239.83.128
+last-account-name: ludovyc
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

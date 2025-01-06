@@ -1,0 +1,38 @@
+timestamps:
+  login: 1557943896005
+  lastteleport: 1557943995000
+  logout: 1557944365525
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -65.70268308404415
+  y: 66.0
+  z: -0.2995570777294053
+  yaw: 52.2828483581543
+  pitch: 47.731346130371094
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 138.11101026255147
+  y: 66.0
+  z: -130.07338050428487
+  yaw: -32.50090408325195
+  pitch: 12.299972534179688
+  world-name: ''
+money: '0'
+ip-address: 79.88.53.185
+last-account-name: Aketo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

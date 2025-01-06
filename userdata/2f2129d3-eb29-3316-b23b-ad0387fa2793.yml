@@ -1,0 +1,47 @@
+timestamps:
+  login: 1478372945040
+  lastteleport: 1478361760885
+  logout: 1478373481466
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.7586127651386
+  y: 64.0
+  z: 22.947706265472746
+  yaw: 242.48895263671875
+  pitch: 0.8999724984169006
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6966.549663256641
+  y: 66.0
+  z: -1154.0140945211226
+  yaw: 119.62846374511719
+  pitch: 14.250004768371582
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 6967.514938679178
+    y: 66.0
+    z: -1169.0021225967405
+    yaw: 57.37843704223633
+    pitch: 6.599944591522217
+    world-name: ''
+afk: false
+money: '0'
+ip-address: 88.123.30.16
+last-account-name: tooosch
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480611811401
+  lastteleport: 1480529071693
+  logout: 1480611835998
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.48226710222661
+  y: 63.0
+  z: 47.64370807048568
+  yaw: -277.24737548828125
+  pitch: 5.647400379180908
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: -165.69999998807907
+  y: 64.0
+  z: 638.5339413927649
+  yaw: -246.14852905273438
+  pitch: 11.999996185302734
+  world-name: ''
+ip-address: 90.16.86.233
+last-account-name: jbmicdu7165
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

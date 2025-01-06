@@ -1,0 +1,47 @@
+timestamps:
+  login: 1465799802168
+  lastteleport: 1465800725610
+  logout: 1465801092603
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -989.428417487612
+  y: 62.0
+  z: 309.9367665086429
+  yaw: -125.6666259765625
+  pitch: 15.900455474853516
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -989.926841365519
+    y: 62.0
+    z: 310.3974228692473
+    yaw: -306.263671875
+    pitch: 16.499828338623047
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 154.45594559567587
+  y: 64.0625
+  z: 19.433668642457526
+  yaw: -92.84710693359375
+  pitch: 15.22417163848877
+  world-name: ''
+ip-address: 92.171.203.64
+last-account-name: bigzoulou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

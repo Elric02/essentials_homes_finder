@@ -1,0 +1,38 @@
+timestamps:
+  login: 1565350964863
+  lastteleport: 1565350999291
+  logout: 1565354885209
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.22339313191196
+  y: 63.0
+  z: 64.64354062459097
+  yaw: 185.94647216796875
+  pitch: 3.090670585632324
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 863.8278484902341
+  y: 66.0
+  z: 1790.090754859843
+  yaw: -233.0179443359375
+  pitch: 24.191089630126953
+  world-name: ''
+ip-address: 85.190.69.77
+last-account-name: Fiften
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

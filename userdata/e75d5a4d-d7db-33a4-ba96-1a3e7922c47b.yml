@@ -1,0 +1,47 @@
+timestamps:
+  login: 1619440071128
+  lastteleport: 1619443667165
+  logout: 1619443803468
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2989.300000011921
+  y: 62.00544302669116
+  z: 2765.7975943490205
+  yaw: 50.81494140625
+  pitch: 62.10009765625
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 1793.699999988079
+    y: 63.0
+    z: -4085.3782738140508
+    yaw: 33.9005126953125
+    pitch: 35.700069427490234
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1787.300000011921
+  y: 64.0
+  z: -4090.699999988079
+  yaw: 327.45123291015625
+  pitch: 38.10014343261719
+  world-name: ''
+ip-address: 78.207.35.75
+last-account-name: le_builder1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

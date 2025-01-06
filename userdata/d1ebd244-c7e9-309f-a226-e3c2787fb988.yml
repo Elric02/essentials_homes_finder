@@ -1,0 +1,38 @@
+timestamps:
+  login: 1587212249746
+  logout: 1587212468807
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4354.540591497607
+  y: 65.0
+  z: 5754.45894537501
+  yaw: 152.55035400390625
+  pitch: 18.599994659423828
+  world-name: ''
+ip-address: 86.217.157.228
+last-account-name: Xxnathan47xx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

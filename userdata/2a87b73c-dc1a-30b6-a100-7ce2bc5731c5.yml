@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479572143865
+  lastteleport: 1479472151891
+  logout: 1479572159992
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.49896648070717
+  y: 64.0
+  z: 29.345157312959582
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 100.6842031899145
+  y: 64.0
+  z: 17.970128772311476
+  yaw: -295.2611389160156
+  pitch: 27.47454261779785
+  world-name: ''
+ip-address: 92.130.11.165
+last-account-name: alexix200
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.125.56.3
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1654882233744
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1654883175927
+  login: 1654876666017
+money: '0'
+last-account-name: SPleNOOB
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 3427.2920894399235
+  y: 16.0
+  z: -3011.7968303354396
+  yaw: 45.44610595703125
+  pitch: 13.051080703735352
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3378.17120938065
+    y: 67.5
+    z: -3025.9240774863015
+    yaw: 39.72573471069336
+    pitch: 19.888023376464844
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 3385.5426540072904
+  y: 66.0
+  z: -3034.0868464088744
+  yaw: 74.81179809570312
+  pitch: 4.500669479370117

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.166.130.131
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705490006166
+  login: 1705489984544
+money: '0'
+last-account-name: Scipion5826
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9883151780457
+  y: 81.0
+  z: -3110.9953467562614
+  yaw: -65.09819793701172
+  pitch: 10.949955940246582
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.95423783781916
+  y: 81.0
+  z: -3111.010841523072
+  yaw: -67.0482177734375
+  pitch: 9.599959373474121

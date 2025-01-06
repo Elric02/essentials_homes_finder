@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485267463489
+  lastteleport: 1485267628477
+  logout: 1485267690696
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 122.79901610204098
+  y: 63.0
+  z: 25.514302933861035
+  yaw: -324.4974365234375
+  pitch: 8.64738941192627
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -179.00856892645882
+  y: 50.0
+  z: 361.90404699654545
+  yaw: -92.24947357177734
+  pitch: 15.000005722045898
+  world-name: ''
+ip-address: 109.129.52.221
+last-account-name: antoine063
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

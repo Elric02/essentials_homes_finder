@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477493037427
+  lastteleport: 1477494661762
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 0
+lastlocation:
+  world: ressource
+  x: -597.025613350804
+  y: 70.0
+  z: 756.7050913216652
+  yaw: -290.2552490234375
+  pitch: 8.850053787231445
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 117.97819356467386
+  y: 63.5
+  z: 49.01920828360953
+  yaw: -333.8111572265625
+  pitch: 36.000003814697266
+  world-name: ''
+ip-address: 82.226.240.224
+last-account-name: charlypigois
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

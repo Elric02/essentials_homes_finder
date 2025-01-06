@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.173.115.143
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682535903059
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682536105385
+  login: 1682535616857
+money: '50.0'
+last-account-name: yanis59bh
+lastlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 156.59654295513596
+  y: 83.0
+  z: -101.70620822200607
+  yaw: 26.04266357421875
+  pitch: 80.37619018554688
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 418.8469901630747
+  y: 81.0
+  z: -3206.003919254533
+  yaw: -138.66551208496094
+  pitch: -11.49303913116455

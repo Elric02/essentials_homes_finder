@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 134.219.227.39
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1665245003726
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665245216180
+  login: 1665244628276
+money: '50.0'
+last-account-name: Mtusic
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 151.87212122264484
+  y: 64.00133597911214
+  z: 61.85229849912016
+  yaw: -8.69848918914795
+  pitch: 13.349971771240234
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 53.186725619009415
+  y: 62.0
+  z: 40.76060252544755
+  yaw: -48.44854736328125
+  pitch: -2.5499837398529053

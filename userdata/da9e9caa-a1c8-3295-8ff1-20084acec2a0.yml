@@ -1,0 +1,38 @@
+timestamps:
+  login: 1569524024372
+  lastteleport: 1566912979684
+  logout: 1569524060886
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -744.656871971219
+  y: 65.8500000178814
+  z: -3640.73434733502
+  yaw: -291.9996032714844
+  pitch: 10.310473442077637
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1014.3111713284743
+  y: 70.0
+  z: -3488.3959503248334
+  yaw: -191.74282836914062
+  pitch: 7.572747230529785
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 88.120.253.209
+last-account-name: Thomascrog
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

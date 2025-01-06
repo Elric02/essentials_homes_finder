@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481056882278
+  lastteleport: 1481056938459
+  logout: 1481056981730
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.10349770289048
+  y: 63.0
+  z: 48.937278496092816
+  yaw: 110.53765106201172
+  pitch: 7.20960807800293
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -628.657296902823
+  y: 64.0
+  z: -787.891779290634
+  yaw: -68.22442626953125
+  pitch: -37.220054626464844
+  world-name: ''
+ip-address: 90.62.242.155
+last-account-name: Neoarneef
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

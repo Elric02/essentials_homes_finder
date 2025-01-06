@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.164.77.9
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1647025422791
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1647194149853
+  login: 1647191576559
+money: '0'
+last-account-name: avionlumiere346
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.29481298697206
+  y: 64.0
+  z: 19.290541625391672
+  yaw: -171.89332580566406
+  pitch: 56.54998779296875
+logoutlocation:
+  world: 6b791b62-b860-492a-aa67-db025bcd5247
+  world-name: world2
+  x: -537.3000000119209
+  y: 68.0
+  z: 355.23221264703716
+  yaw: -172.75094604492188
+  pitch: 23.400117874145508

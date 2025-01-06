@@ -1,0 +1,47 @@
+timestamps:
+  login: 1514999613337
+  logout: 1514999660894
+  lastteleport: 1514999620064
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: -909.6690724219441
+  y: 4.0
+  z: 580.5819130539331
+  yaw: 1.666412353515625
+  pitch: 12.6517915725708
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4079.5603063960098
+  y: 69.0
+  z: 6629.801845061778
+  yaw: -20.067169189453125
+  pitch: 10.813584327697754
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 4077.052736125667
+    y: 64.0625
+    z: 6630.172768812076
+    yaw: -92.49185180664062
+    pitch: 20.47599983215332
+    world-name: ''
+afk: false
+ip-address: 84.101.151.193
+last-account-name: Marackvat
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

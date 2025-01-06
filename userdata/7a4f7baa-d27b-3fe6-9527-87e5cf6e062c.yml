@@ -1,0 +1,63 @@
+timestamps:
+  login: 1482607376467
+  lastteleport: 1482610024974
+  logout: 1482611331392
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4856.987859429109
+  y: 70.0
+  z: -465.3218883309474
+  yaw: 250.78883361816406
+  pitch: 1.6837875843048096
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4271.015847396217
+  y: 72.0
+  z: -3708.6427757867777
+  yaw: -336.48828125
+  pitch: 14.622349739074707
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world_nether
+    x: -5543.325650621164
+    y: 38.0
+    z: 6029.9566257187935
+    yaw: -197.4613037109375
+    pitch: 40.83341598510742
+    world-name: ''
+  nether:
+    world: world_nether
+    x: -5770.4812542907985
+    y: 32.0
+    z: 6290.2899406945535
+    yaw: -167.55029296875
+    pitch: 63.621864318847656
+    world-name: ''
+  maison:
+    world: world
+    x: 4259.352925988035
+    y: 85.0
+    z: -3717.466119908089
+    yaw: -220.3455810546875
+    pitch: 37.9737663269043
+    world-name: ''
+jailed: false
+afk: false
+ip-address: 86.76.5.72
+last-account-name: MrCco
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

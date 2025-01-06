@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511490249680
+  lastteleport: 1511490283352
+  logout: 1511490299371
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.74570304993344
+  y: 64.0
+  z: 46.394133054146025
+  yaw: -106.84738159179688
+  pitch: 0.6974008083343506
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.79881566867087
+  y: 64.0
+  z: 21.93129152558549
+  yaw: -175.67083740234375
+  pitch: -2.0713307857513428
+  world-name: ''
+ip-address: 66.130.33.94
+last-account-name: GameOPatate
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1493140950934
+  lastteleport: 1493138263135
+  logout: 1493141169708
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3437.8338812458273
+  y: 71.0
+  z: 2425.317796640159
+  yaw: 43.657958984375
+  pitch: 40.05000686645508
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.66513992001967
+  y: 64.0
+  z: 12.793068789835708
+  yaw: 285.3890686035156
+  pitch: 1.3745156526565552
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 78.226.114.27
+last-account-name: tia
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

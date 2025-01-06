@@ -1,0 +1,47 @@
+timestamps:
+  login: 1500900421819
+  lastteleport: 1500900511653
+  logout: 1500900681825
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2108.085726278505
+  y: 69.0
+  z: 2883.264656884816
+  yaw: 26.40001106262207
+  pitch: 78.9000473022461
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 2790.0
+    y: 102.0
+    z: -5347.0
+    yaw: 27.599918365478516
+    pitch: 58.20001983642578
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2789.959693049218
+  y: 101.0
+  z: -5348.300000011921
+  yaw: 272.0998840332031
+  pitch: -84.75
+  world-name: ''
+ip-address: 134.157.193.158
+last-account-name: RomainFrtn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

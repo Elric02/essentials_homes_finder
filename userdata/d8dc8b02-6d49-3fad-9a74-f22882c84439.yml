@@ -1,0 +1,38 @@
+timestamps:
+  login: 1556710732486
+  lastteleport: 1556711863331
+  logout: 1556712964896
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7054.974008494728
+  y: 55.024424088213685
+  z: 2883.3029765669357
+  yaw: -272.33001708984375
+  pitch: 46.95010757446289
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3087.66512220522
+  y: 57.58601110562411
+  z: -4338.204991828108
+  yaw: -153.30088806152344
+  pitch: 17.588150024414062
+  world-name: ''
+ip-address: 92.154.162.155
+last-account-name: Gathia
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1597266144444
+  lastteleport: 1597269273939
+  logout: 1597269291826
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -79.5
+  y: 69.0
+  z: -0.5
+  yaw: -90.73135375976562
+  pitch: -1.0494368076324463
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -4375.386588379945
+    y: 70.0
+    z: 6869.795125024832
+    yaw: 185.09640502929688
+    pitch: 27.750118255615234
+    world-name: ''
+  n1:
+    world: Ressource
+    x: -1416.5447314038622
+    y: 64.0
+    z: -2084.705976103947
+    yaw: 47.70013427734375
+    pitch: 3.3001084327697754
+    world-name: ''
+  n2:
+    world: Ressource
+    x: 3195.5411692820508
+    y: 64.0
+    z: -1371.0912590377197
+    yaw: 87.00009155273438
+    pitch: 17.250030517578125
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 154.37588003960616
+  y: 63.5
+  z: 32.56204674368431
+  yaw: -176.12091064453125
+  pitch: 9.178677558898926
+  world-name: ''
+ip-address: 105.104.71.116
+last-account-name: Ultimase
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

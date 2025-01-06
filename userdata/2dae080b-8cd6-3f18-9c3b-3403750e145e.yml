@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480812520309
+  lastteleport: 1480813711342
+  logout: 1480814531046
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 150.83816582929413
+  y: 64.0
+  z: 22.938851531728616
+  yaw: -68.46051025390625
+  pitch: -6.7254838943481445
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: -6156.324327098657
+  y: 67.0
+  z: 5087.057026857949
+  yaw: -356.0975341796875
+  pitch: 27.14997673034668
+  world-name: ''
+money: '0'
+ip-address: 24.212.91.38
+last-account-name: yfire
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

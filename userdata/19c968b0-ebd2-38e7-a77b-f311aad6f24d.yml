@@ -1,0 +1,38 @@
+timestamps:
+  login: 1515944927702
+  lastteleport: 1515945169593
+  logout: 1515946670659
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5701770355712
+  y: 63.0
+  z: 53.18129312123372
+  yaw: -27.71343994140625
+  pitch: -5.672162055969238
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -6283.545289253928
+  y: 11.0
+  z: 1182.4836346896216
+  yaw: 261.60699462890625
+  pitch: 16.544645309448242
+  world-name: ''
+ip-address: 90.30.37.43
+last-account-name: Ice_AlaVanilla
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

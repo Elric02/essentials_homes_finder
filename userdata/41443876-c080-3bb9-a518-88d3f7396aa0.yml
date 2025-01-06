@@ -1,0 +1,38 @@
+timestamps:
+  login: 1535276988663
+  logout: 1535277222573
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.45699462000334
+  y: 63.0
+  z: 53.83004225132434
+  yaw: -168.85707092285156
+  pitch: -1.7355294227600098
+  world-name: ''
+ip-address: 86.66.171.153
+last-account-name: kamikasi78
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

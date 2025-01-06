@@ -1,0 +1,38 @@
+timestamps:
+  login: 1495922458949
+  lastteleport: 1495922818350
+  logout: 1495924502376
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -482.3698721549379
+  y: 67.0
+  z: -515.4426798301402
+  yaw: -31.147369384765625
+  pitch: 16.676366806030273
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -894.9868617541018
+  y: 73.5
+  z: 147.49845887312233
+  yaw: -100.90216064453125
+  pitch: 45.14997100830078
+  world-name: ''
+ip-address: 88.122.59.44
+last-account-name: Weedzy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

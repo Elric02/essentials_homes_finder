@@ -1,0 +1,38 @@
+timestamps:
+  login: 1540569047733
+  logout: 1540569148133
+  lastteleport: 1540569052896
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 313.4991365391179
+  y: 67.0
+  z: -488.56645245947374
+  yaw: -351.5915832519531
+  pitch: 15.900446891784668
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.96661294050725
+  y: 64.0
+  z: 23.739842861032702
+  yaw: -112.68727111816406
+  pitch: -6.566184997558594
+  world-name: ''
+ip-address: 81.56.179.222
+last-account-name: XPvPGarmer2018X
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

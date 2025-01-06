@@ -1,0 +1,38 @@
+timestamps:
+  login: 1515270061248
+  logout: 1515271734106
+  lastteleport: 1515271481162
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -639.3590240478726
+  y: 65.0
+  z: -690.2826743182361
+  yaw: -86.4990234375
+  pitch: 0.9263395071029663
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1436.6244345712569
+  y: 63.0
+  z: -2062.446169834162
+  yaw: -55.72357177734375
+  pitch: 19.63597297668457
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 78.219.241.48
+last-account-name: swagi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

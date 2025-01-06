@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 195.36.149.54
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681235638271
+  login: 1681235631541
+money: '0'
+last-account-name: Zeldadragon76
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.040516508836
+  y: 81.0
+  z: -3111.1739300547324
+  yaw: -115.92375183105469
+  pitch: 27.009376525878906
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.99224926051176
+  y: 81.0
+  z: -3111.15046957877
+  yaw: -106.65122985839844
+  pitch: 27.34053611755371

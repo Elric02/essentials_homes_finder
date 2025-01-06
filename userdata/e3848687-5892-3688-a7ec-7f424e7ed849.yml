@@ -1,0 +1,38 @@
+timestamps:
+  login: 1528964445791
+  lastteleport: 1528964781481
+  logout: 1528964796222
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -173.0294056155953
+  y: 47.0
+  z: 430.20245507964046
+  yaw: -266.448974609375
+  pitch: 2.099841833114624
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -596.7104983233246
+  y: 64.5
+  z: -758.1254179084481
+  yaw: -279.2474365234375
+  pitch: -35.3736572265625
+  world-name: ''
+ip-address: 90.96.151.53
+last-account-name: deathIII
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

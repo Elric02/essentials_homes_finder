@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.171.13.184
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671682345406
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671682461736
+  login: 1671682226664
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.99592236805626
+  y: 81.0
+  z: -3111.375103500612
+  yaw: -69.74769592285156
+  pitch: 15.599956512451172
+last-account-name: qziwar
+logoutlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -23.57670024535843
+  y: 53.0
+  z: 8.368402789864152
+  yaw: 93.89779663085938
+  pitch: 65.70027160644531

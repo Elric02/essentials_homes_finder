@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.165.38.47
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673130201335
+  login: 1673130177078
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.03792246618076
+  y: 81.0
+  z: -3111.263837265742
+  yaw: -94.04825592041016
+  pitch: 4.499910354614258
+last-account-name: radieum
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.98102840297116
+  y: 81.0
+  z: -3111.261073486372
+  yaw: -93.74825286865234
+  pitch: 4.799910545349121

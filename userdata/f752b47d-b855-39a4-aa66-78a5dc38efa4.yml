@@ -1,0 +1,63 @@
+timestamps:
+  login: 1476004949863
+  lastteleport: 1476007191586
+  logout: 1476007257130
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -7220.715147025961
+  y: 63.0
+  z: -5593.762499988079
+  yaw: -124.90637969970703
+  pitch: 25.277551651000977
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -7359.080306239275
+  y: 150.0
+  z: -5568.625138428711
+  yaw: 59.113037109375
+  pitch: 11.004966735839844
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -7211.2225361368055
+    y: 65.0
+    z: -5596.13905448232
+    yaw: -277.6917724609375
+    pitch: 23.997461318969727
+    world-name: ''
+  blaze:
+    world: world_nether
+    x: 878.6220474151498
+    y: 56.0
+    z: 687.3000000119209
+    yaw: -0.426849365234375
+    pitch: -19.828893661499023
+    world-name: ''
+  base:
+    world: world
+    x: -7369.316129933906
+    y: 150.0
+    z: -5574.209736007601
+    yaw: 347.0633544921875
+    pitch: 6.798951148986816
+    world-name: ''
+afk: false
+ip-address: 90.25.18.72
+last-account-name: DJfunk_174
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

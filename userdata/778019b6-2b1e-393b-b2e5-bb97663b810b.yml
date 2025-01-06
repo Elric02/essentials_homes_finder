@@ -1,0 +1,38 @@
+timestamps:
+  login: 1570900868076
+  lastteleport: 1570901258440
+  logout: 1570901724090
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 196.2996988041814
+  y: 66.0
+  z: -4.849468157296194
+  yaw: -187.07110595703125
+  pitch: -7.171327114105225
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 902.0964141474645
+  y: 63.0
+  z: -1105.3695526916974
+  yaw: -301.4998779296875
+  pitch: 9.89996337890625
+  world-name: ''
+ip-address: 78.122.154.26
+last-account-name: sinay
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

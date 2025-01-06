@@ -1,0 +1,74 @@
+timestamps:
+  login: 1618047991651
+  lastteleport: 1618048021222
+  logout: 1618050971656
+  kits:
+    vip: 1546707614089
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 122.9775518598956
+  y: 63.0
+  z: 21.340125746209935
+  yaw: -101.88705444335938
+  pitch: 7.978672504425049
+  world-name: ''
+money: '0'
+homes:
+  bwa:
+    world: world
+    x: 2293.7526309750556
+    y: 52.0
+    z: -2303.3217838957835
+    yaw: 87.49359130859375
+    pitch: 10.08113956451416
+    world-name: ''
+  haut:
+    world: world
+    x: 2288.3047449641426
+    y: 63.0
+    z: -2303.007241154992
+    yaw: -93.89213562011719
+    pitch: 17.479873657226562
+    world-name: ''
+  vip:
+    world: world
+    x: -6679.108505654992
+    y: 65.0
+    z: -4014.3650736012946
+    yaw: -333.0211181640625
+    pitch: 7.845982074737549
+    world-name: ''
+  a:
+    world: Event
+    x: 657.9045683729706
+    y: 4.0
+    z: -1339.4313770137069
+    yaw: 34.65362548828125
+    pitch: 17.699939727783203
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2293.5217910516817
+  y: 67.0
+  z: -2347.498705098415
+  yaw: 293.462646484375
+  pitch: 20.249799728393555
+  world-name: ''
+afk: false
+nickname: §2I_am_Groot
+ip-address: 81.67.90.37
+last-account-name: Ztek1059
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

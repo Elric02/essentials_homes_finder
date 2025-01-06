@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466781468132
+  lastteleport: 1466782027750
+  logout: 1466782064994
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.58613041754532
+  y: 27.0
+  z: 24.305643340659085
+  yaw: -7.306924343109131
+  pitch: 3.269787549972534
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 7.472563206934066
+  y: 63.0
+  z: 52.69999998807907
+  yaw: -64.53965759277344
+  pitch: -25.066795349121094
+  world-name: ''
+ip-address: 90.29.246.121
+last-account-name: sky22
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

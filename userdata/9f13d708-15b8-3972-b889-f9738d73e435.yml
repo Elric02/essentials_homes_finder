@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521245962528
+  logout: 1521245981826
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.27003345756594
+  y: 65.0
+  z: 68.86734243670539
+  yaw: -160.85308837890625
+  pitch: 5.190659523010254
+  world-name: ''
+ip-address: 78.224.158.7
+last-account-name: Okyydo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

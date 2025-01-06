@@ -1,0 +1,38 @@
+timestamps:
+  login: 1463156750444
+  lastteleport: 1463159217410
+  logout: 1463159221193
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -13.052600795589772
+  y: 63.0
+  z: 17.06108960367116
+  yaw: 96.95474243164062
+  pitch: 3.6662211418151855
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 19.5
+  yaw: -177.74725341796875
+  pitch: -1.4258157014846802
+  world-name: ''
+ip-address: 82.247.190.2
+last-account-name: Jojosssw
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

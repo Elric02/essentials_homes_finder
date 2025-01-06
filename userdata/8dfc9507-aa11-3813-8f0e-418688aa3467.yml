@@ -1,0 +1,39 @@
+timestamps:
+  login: 1480864021200
+  lastteleport: 1480865264464
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 0
+lastlocation:
+  world: world
+  x: 6097.103988556278
+  y: 69.0
+  z: 4372.50432408502
+  yaw: -355.9124755859375
+  pitch: 10.499785423278809
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6046.196128255867
+    y: 101.0
+    z: 4388.539239025261
+    yaw: -269.802490234375
+    pitch: 21.59994888305664
+    world-name: ''
+ip-address: 90.28.231.75
+last-account-name: stormT34
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

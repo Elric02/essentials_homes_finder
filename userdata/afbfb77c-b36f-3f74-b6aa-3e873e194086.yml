@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614798570603
+  lastteleport: 1614798792336
+  logout: 1614798824842
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1315.9722312601498
+  y: 63.0
+  z: -2138.4447693455854
+  yaw: 186.0655517578125
+  pitch: 15.285964965820312
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -181.14532470703125
+  pitch: 9.575874328613281
+  world-name: ''
+ip-address: 78.208.35.164
+last-account-name: Maaaaac
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

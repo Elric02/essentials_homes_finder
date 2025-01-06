@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.15.41.33
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1631456950061
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1632950810782
+  login: 1632950678311
+money: '0'
+last-account-name: SalocinSoul
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 658.6961769360778
+  y: 69.0
+  z: 1963.699999988079
+  yaw: 177.1370849609375
+  pitch: 27.899723052978516
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 551.6999999880791
+  y: 75.0
+  z: 2153.300000011921
+  yaw: 156.1864776611328
+  pitch: 14.849382400512695
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 549.6999999880791
+    y: 73.0
+    z: 2160.699999988079
+    yaw: -300.7117919921875
+    pitch: -5.4803547859191895

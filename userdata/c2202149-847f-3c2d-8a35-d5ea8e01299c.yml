@@ -1,0 +1,38 @@
+timestamps:
+  login: 1604684858987
+  logout: 1604685109196
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 235.74270953982665
+  y: 64.0
+  z: -46.0973038307837
+  yaw: -293.87115478515625
+  pitch: 12.478730201721191
+  world-name: ''
+ip-address: 78.113.158.212
+last-account-name: Seriox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

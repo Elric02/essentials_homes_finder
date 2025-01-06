@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481314410179
+  logout: 1481315413820
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 217.11890256500158
+  y: 63.0
+  z: 19.281568050286268
+  yaw: -86.01093292236328
+  pitch: -8.97547721862793
+  world-name: ''
+money: '0'
+ip-address: 105.99.10.65
+last-account-name: lopelip
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

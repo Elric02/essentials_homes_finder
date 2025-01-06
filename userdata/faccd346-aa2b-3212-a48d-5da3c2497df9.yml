@@ -1,0 +1,38 @@
+timestamps:
+  login: 1627919310982
+  lastteleport: 1627919602239
+  logout: 1627919607791
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressourcenether
+  x: 0.5
+  y: 37.0
+  z: -1.5
+  yaw: -178.04226684570312
+  pitch: 7.049990177154541
+  world-name: ''
+logoutlocation:
+  world: Ressourcenether
+  x: -1.3098531798151696
+  y: 37.0
+  z: -4.363068909637673
+  yaw: 27.936914443969727
+  pitch: 7.9518256187438965
+  world-name: ''
+ip-address: 109.215.108.135
+last-account-name: oursaveugle
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

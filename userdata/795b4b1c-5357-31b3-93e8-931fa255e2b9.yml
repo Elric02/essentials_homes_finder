@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.32.178.203
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1666639384473
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1666639411846
+  login: 1666639307611
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.66331374641675
+  y: 81.0
+  z: -3109.7800562031907
+  yaw: -123.74830627441406
+  pitch: 6.29994535446167
+last-account-name: DestYxnia
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -378.055676481893
+  y: 69.7376321796787
+  z: -208.90029351195122
+  yaw: 86.76859283447266
+  pitch: 28.5000057220459

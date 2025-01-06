@@ -1,0 +1,38 @@
+timestamps:
+  login: 1612113389493
+  lastteleport: 1611853316620
+  logout: 1612113397003
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 90.90834213330584
+  y: 64.0
+  z: 29.090545580707072
+  yaw: -147.54483032226562
+  pitch: 25.625850677490234
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: End
+  x: -269.5
+  y: 68.0
+  z: -2.5
+  yaw: -105.40727233886719
+  pitch: 24.74942970275879
+  world-name: ''
+ip-address: 92.157.152.5
+last-account-name: Joker43
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

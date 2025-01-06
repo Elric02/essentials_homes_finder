@@ -1,0 +1,47 @@
+timestamps:
+  login: 1609347247092
+  lastteleport: 1609335275097
+  logout: 1609347503266
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.1183824336966
+  y: 63.0
+  z: 36.95904119917154
+  yaw: -124.99656677246094
+  pitch: 23.969600677490234
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: -1120.472166810604
+    y: 75.0
+    z: 5237.880138897311
+    yaw: 319.0390319824219
+    pitch: 23.226987838745117
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1128.5313059846717
+  y: 72.0
+  z: 5241.267375978497
+  yaw: 0.8209801912307739
+  pitch: 26.62318992614746
+  world-name: ''
+ip-address: 90.20.217.235
+last-account-name: HighAbove
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

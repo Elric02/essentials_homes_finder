@@ -1,0 +1,38 @@
+timestamps:
+  login: 1564420407297
+  lastteleport: 1564419495714
+  logout: 1564421383518
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7.4900649364195955
+  y: 67.0
+  z: 10.809124882994514
+  yaw: 174.00067138671875
+  pitch: 33.74154281616211
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1516.1975518807972
+  y: 66.5
+  z: -1940.401338579597
+  yaw: -355.12518310546875
+  pitch: 26.31671905517578
+  world-name: ''
+money: '0'
+ip-address: 91.167.13.18
+last-account-name: Tp_FeeDnoW
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

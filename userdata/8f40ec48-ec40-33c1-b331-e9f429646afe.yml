@@ -1,0 +1,63 @@
+timestamps:
+  login: 1489222514336
+  logout: 1489224746823
+  lastteleport: 1489224152533
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -178.4152011136572
+  y: 12.0
+  z: 190.69999998807907
+  yaw: -87.5323715209961
+  pitch: 2.237394094467163
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6682.103006999147
+  y: 80.0
+  z: 4997.05764926372
+  yaw: -105.14371490478516
+  pitch: 12.568490982055664
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6679.842002393431
+    y: 80.0
+    z: 4996.699999988079
+    yaw: -78.75064086914062
+    pitch: 27.986804962158203
+    world-name: ''
+  spawner:
+    world: Ressource
+    x: 119.6999999880791
+    y: 12.0
+    z: 125.40974530767454
+    yaw: 89.20361328125
+    pitch: -25.01413345336914
+    world-name: ''
+  ressources:
+    world: Ressource
+    x: -49.69999998807907
+    y: 12.0
+    z: 200.1901812152793
+    yaw: -170.77647399902344
+    pitch: 16.19382667541504
+    world-name: ''
+afk: false
+ip-address: 109.130.163.117
+last-account-name: PetardLeCanard
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

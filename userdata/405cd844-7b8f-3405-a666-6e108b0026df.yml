@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467673668147
+  lastteleport: 1467674186031
+  logout: 1467674259085
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 19.5
+  yaw: -178.647216796875
+  pitch: -11.475815773010254
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 210.42018543510864
+  y: 63.0
+  z: 16.974514239503623
+  yaw: 73.2027359008789
+  pitch: 22.274208068847656
+  world-name: ''
+ip-address: 78.203.16.137
+last-account-name: damiendu51
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

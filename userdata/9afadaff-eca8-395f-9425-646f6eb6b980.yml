@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470329871135
+  logout: 1470330114172
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.69701196287306
+  y: 63.0
+  z: 7.841722786539416
+  yaw: -222.11831665039062
+  pitch: 23.576202392578125
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 198.9181425513158
+  y: 63.0
+  z: -34.90079286667243
+  yaw: -317.1784362792969
+  pitch: 8.674867630004883
+  world-name: ''
+ip-address: 88.126.237.50
+last-account-name: Soufffleur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

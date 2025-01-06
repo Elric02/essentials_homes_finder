@@ -1,0 +1,63 @@
+timestamps:
+  login: 1498000973788
+  lastteleport: 1497999351689
+  logout: 1498002044988
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4887.969817011064
+  y: 63.0
+  z: -552.6309635910902
+  yaw: 93.4697265625
+  pitch: 10.35934829711914
+  world-name: ''
+homes:
+  bite:
+    world: world
+    x: -4887.880304109822
+    y: 63.0
+    z: -556.6071957356564
+    yaw: 75.1741943359375
+    pitch: 22.059295654296875
+    world-name: ''
+  bite1:
+    world: world
+    x: 3875.426553841729
+    y: 63.0
+    z: -2562.4684907178744
+    yaw: 270.3359375
+    pitch: 23.395421981811523
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 2844.300000011921
+    y: 13.0
+    z: -3676.699999988079
+    yaw: -36.867431640625
+    pitch: -13.350253105163574
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3827.6299842983426
+  y: 63.0
+  z: -2563.153657477347
+  yaw: 182.444091796875
+  pitch: -8.099624633789062
+  world-name: ''
+afk: false
+ip-address: 92.169.9.236
+last-account-name: Ken
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

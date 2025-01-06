@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.105.222.218
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669406376334
+  login: 1669406330193
+money: '0'
+last-account-name: daisuke_diaori
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.121267043084
+  y: 81.0
+  z: -3111.971028076858
+  yaw: 145.35191345214844
+  pitch: 25.649951934814453
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.121267043084
+  y: 81.0
+  z: -3111.971028076858
+  yaw: 5.252044200897217
+  pitch: 20.849939346313477

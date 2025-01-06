@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466967089528
+  logout: 1466967418323
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -48.852293040972874
+  y: 70.0
+  z: -93.74195162404226
+  yaw: -158.2469482421875
+  pitch: 8.324172973632812
+  world-name: ''
+ip-address: 105.101.46.223
+last-account-name: wunderkraut
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

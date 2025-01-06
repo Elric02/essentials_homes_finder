@@ -1,0 +1,38 @@
+timestamps:
+  login: 1529754102608
+  lastteleport: 1529754630647
+  logout: 1529755821305
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.87753000855156
+  y: 27.0
+  z: 20.425742184914
+  yaw: -86.69944763183594
+  pitch: 14.473721504211426
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 109.85650394392299
+  y: 63.0
+  z: 78.25334480049979
+  yaw: -165.990234375
+  pitch: 34.61326217651367
+  world-name: ''
+ip-address: 89.94.205.8
+last-account-name: groscheateur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485693267175
+  lastteleport: 1485693014800
+  logout: 1485693765125
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1917.9569515439298
+  y: 53.0
+  z: -865.2895405509431
+  yaw: 75.45050048828125
+  pitch: 44.69999313354492
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 2058.6707240599476
+  y: 57.0
+  z: -821.8036019635216
+  yaw: 229.5
+  pitch: 11.250018119812012
+  world-name: ''
+ip-address: 90.109.201.68
+last-account-name: lisarose52
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.101.81.44
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667072805181
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667072886577
+  login: 1667072520259
+money: '0'
+last-account-name: Nuke_M
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 164.01952797932776
+  y: 63.0
+  z: 65.65358319916608
+  yaw: -158.23980712890625
+  pitch: 11.400023460388184
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -5922.699999988079
+  y: 78.0
+  z: 3733.104549712933
+  yaw: 111.76028442382812
+  pitch: 14.399945259094238

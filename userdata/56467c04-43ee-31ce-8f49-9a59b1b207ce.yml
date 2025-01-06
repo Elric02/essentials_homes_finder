@@ -1,0 +1,47 @@
+timestamps:
+  login: 1488649832842
+  logout: 1488654010934
+  lastteleport: 1488652876976
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.80296857944262
+  y: 64.0
+  z: 29.97791538951956
+  yaw: -280.12933349609375
+  pitch: 19.51170539855957
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2522.914548201177
+  y: 66.0
+  z: 6813.032736013849
+  yaw: -157.767822265625
+  pitch: -2.935450315475464
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: -185.767363024541
+    y: 60.0
+    z: -4276.417260973299
+    yaw: -290.4013977050781
+    pitch: 18.882328033447266
+    world-name: ''
+money: '0'
+ip-address: 95.176.95.31
+last-account-name: YuriOrYaoi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1559240621266
+  lastteleport: 1559240666318
+  logout: 1559240673387
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.71117597464226
+  y: 64.0
+  z: 12.067270545365371
+  yaw: 161.76580810546875
+  pitch: 11.732304573059082
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 130.36084594860884
+  y: 63.0
+  z: 21.31372089512178
+  yaw: -249.50302124023438
+  pitch: 10.405864715576172
+  world-name: ''
+ip-address: 176.164.213.69
+last-account-name: BIGBOSS35390
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

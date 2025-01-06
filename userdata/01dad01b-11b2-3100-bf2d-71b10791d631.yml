@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468657936813
+  lastteleport: 1468427465068
+  logout: 1468658064256
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.7193734822719
+  y: 64.0
+  z: 10.086413881948156
+  yaw: -87.29623413085938
+  pitch: 26.024188995361328
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 161.69999998807907
+  y: 65.0
+  z: 10.171219858931325
+  yaw: -120.7472152709961
+  pitch: 13.724184036254883
+  world-name: ''
+ip-address: 2.5.69.205
+last-account-name: foliot1511
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

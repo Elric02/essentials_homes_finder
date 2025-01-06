@@ -1,0 +1,47 @@
+timestamps:
+  login: 1499753116804
+  lastteleport: 1499755296996
+  logout: 1499755456413
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1264.300000011921
+  y: 57.0
+  z: -604.3000000119209
+  yaw: -88.90253448486328
+  pitch: 29.55008316040039
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 1272.232448597843
+    y: 64.0
+    z: -610.8194422795312
+    yaw: -235.15255737304688
+    pitch: 28.950050354003906
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1262.4496056185894
+  y: 63.0
+  z: -608.505322981566
+  yaw: -200.9527130126953
+  pitch: 28.350025177001953
+  world-name: ''
+money: '0'
+ip-address: 87.66.91.150
+last-account-name: Gabriel_H_2005
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

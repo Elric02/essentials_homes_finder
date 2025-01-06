@@ -1,0 +1,63 @@
+timestamps:
+  login: 1603818112938
+  lastteleport: 1603821242091
+  logout: 1603821864378
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 3126.1668615117974
+  y: 62.0
+  z: 844.6999999880791
+  yaw: -106.96163940429688
+  pitch: 22.83785629272461
+  world-name: ''
+money: '0'
+homes:
+  ff:
+    world: world
+    x: 3802.4688179325353
+    y: 72.0
+    z: 5456.454141926834
+    yaw: -259.6767578125
+    pitch: 19.418081283569336
+    world-name: ''
+  gateau:
+    world: world
+    x: 3792.5499670829695
+    y: 72.0
+    z: 5456.022370843604
+    yaw: -71.82199096679688
+    pitch: 22.915931701660156
+    world-name: ''
+  maison:
+    world: world
+    x: -3062.3097263744735
+    y: 69.0
+    z: 5947.8438165664575
+    yaw: 154.231689453125
+    pitch: 20.777929306030273
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3803.931449264772
+  y: 71.5
+  z: 5455.682594511116
+  yaw: -90.03494262695312
+  pitch: 28.037744522094727
+  world-name: ''
+ip-address: 31.33.202.27
+last-account-name: Nohnoh56
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558296271415
+  logout: 1558296464917
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.55400327881028
+  y: 64.0
+  z: 31.365015333758155
+  yaw: -195.95306396484375
+  pitch: 15.240665435791016
+  world-name: ''
+ip-address: 89.39.107.201
+last-account-name: ItzGrimZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 2.1809234619140625
+  pitch: 0.0
+  world-name: ''
+timestamps:
+  login: 1612463338035
+  logout: 1612463343844
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+logoutlocation:
+  world: world
+  x: 152.25710908990004
+  y: 65.0
+  z: 87.87226123708153
+  yaw: -175.70301818847656
+  pitch: 18.84066390991211
+  world-name: ''
+ip-address: 87.88.243.45
+last-account-name: Zarba
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

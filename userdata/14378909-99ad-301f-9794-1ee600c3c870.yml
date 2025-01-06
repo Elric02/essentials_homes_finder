@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483822005465
+  logout: 1483822067579
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6.285488537827862
+  y: 71.0
+  z: -39.887691634483375
+  yaw: -302.74725341796875
+  pitch: 8.347393989562988
+  world-name: ''
+ip-address: 89.159.121.62
+last-account-name: Erisium_LeKinder
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

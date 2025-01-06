@@ -1,0 +1,38 @@
+timestamps:
+  login: 1531576430687
+  logout: 1531576474164
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 146.90596035860284
+  y: 68.5
+  z: 102.25102515250539
+  yaw: -177.27569580078125
+  pitch: 17.868642807006836
+  world-name: ''
+ip-address: 90.108.69.238
+last-account-name: wek234
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

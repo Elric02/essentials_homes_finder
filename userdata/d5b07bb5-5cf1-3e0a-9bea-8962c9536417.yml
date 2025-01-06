@@ -1,0 +1,38 @@
+timestamps:
+  login: 1557851366430
+  lastteleport: 1557852899465
+  logout: 1557853234352
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -555.0857036339529
+  y: 64.0
+  z: -782.4947969726054
+  yaw: 93.052734375
+  pitch: 20.250009536743164
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1266.1255221999827
+  y: 100.0
+  z: 4538.090981968767
+  yaw: -233.85018920898438
+  pitch: 58.50007247924805
+  world-name: ''
+money: '0'
+ip-address: 81.50.209.208
+last-account-name: Px_UnderTacker
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467066650257
+  logout: 1467066695984
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.3742772881649
+  y: 64.0
+  z: 18.286035084231894
+  yaw: -280.6472473144531
+  pitch: 36.22418212890625
+  world-name: ''
+ip-address: 90.30.186.34
+last-account-name: JeanPart12
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

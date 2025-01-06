@@ -1,0 +1,38 @@
+timestamps:
+  login: 1597603044865
+  logout: 1597603266041
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: End
+  x: -82.65165799926277
+  y: 69.0
+  z: 0.38665209685878965
+  yaw: 274.88299560546875
+  pitch: 6.631436347961426
+  world-name: ''
+ip-address: 88.125.247.68
+last-account-name: williamxyoutube
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

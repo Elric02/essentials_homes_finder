@@ -1,0 +1,38 @@
+timestamps:
+  login: 1623517741079
+  logout: 1623517769074
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 145.8345817291352
+  y: 69.0
+  z: 100.61700195513282
+  yaw: 189.4061279296875
+  pitch: -24.2828369140625
+  world-name: ''
+ip-address: 77.148.96.165
+last-account-name: maphael
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

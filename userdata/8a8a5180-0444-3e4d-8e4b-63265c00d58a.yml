@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.170.52.139
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1694540331013
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1694541526112
+  login: 1694539866860
+money: '100.0'
+last-account-name: Evenqel
+lastlocation:
+  world: cfb36766-38e5-4340-9721-2be8ad6010c4
+  world-name: Ressource
+  x: 1285.8479669712938
+  y: 69.0
+  z: -2061.2499563098195
+  yaw: 108.35089111328125
+  pitch: 13.950170516967773
+logoutlocation:
+  world: cfb36766-38e5-4340-9721-2be8ad6010c4
+  world-name: Ressource
+  x: -119.72150679243182
+  y: 71.0
+  z: 9.003242436250822
+  yaw: 95.85066986083984
+  pitch: 23.999832153320312

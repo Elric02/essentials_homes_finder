@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492250208663
+  lastteleport: 1492250432011
+  logout: 1492250467629
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4836.5
+  y: 84.0
+  z: -462.5
+  yaw: -255.0226287841797
+  pitch: 16.649995803833008
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.49379441319797
+  y: 64.0
+  z: 9.536596190602257
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+ip-address: 78.217.21.89
+last-account-name: emma_falgo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

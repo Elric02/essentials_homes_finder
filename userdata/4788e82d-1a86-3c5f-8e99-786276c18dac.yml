@@ -1,0 +1,47 @@
+timestamps:
+  login: 1577816952295
+  lastteleport: 1577817605964
+  logout: 1577818823474
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 436.30000001192093
+  y: 58.0
+  z: -732.5014715106901
+  yaw: 89.89822387695312
+  pitch: 25.999908447265625
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1540.3512964113806
+  y: 13.249187078744683
+  z: -2293.7553725426965
+  yaw: -191.29345703125
+  pitch: 14.808911323547363
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  base:
+    world: world
+    x: -1497.300000011921
+    y: 63.0
+    z: -2133.869950592216
+    yaw: -90.60035705566406
+    pitch: 1.7999649047851562
+    world-name: ''
+ip-address: 86.200.84.134
+last-account-name: royalmuse
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

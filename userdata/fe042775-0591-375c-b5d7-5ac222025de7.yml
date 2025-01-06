@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510421241742
+  logout: 1510422101419
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5465.2841218106205
+  y: 71.0
+  z: -3613.614330498797
+  yaw: -62.356319427490234
+  pitch: -7.353705406188965
+  world-name: ''
+ip-address: 78.239.46.139
+last-account-name: Martin58
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

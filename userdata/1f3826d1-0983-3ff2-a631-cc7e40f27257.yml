@@ -1,0 +1,41 @@
+timestamps:
+  login: 1507367270679
+  lastteleport: 1503729542660
+  logout: 1507367327745
+  jail: 0
+  mute: 0
+  kits:
+    vip: 1489715835665
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: Builder
+  x: 31.683140174302608
+  y: 39.36819527715334
+  z: 31.84087755313015
+  yaw: -182.40003967285156
+  pitch: 29.099973678588867
+  world-name: ''
+logoutlocation:
+  world: Builder
+  x: 604.5390477031183
+  y: 67.0
+  z: -504.229276066751
+  yaw: 171.44789123535156
+  pitch: 49.50005340576172
+  world-name: ''
+money: '0'
+afk: false
+jailed: false
+muted: false
+nickname: §1Freux123
+ip-address: 184.162.249.37
+last-account-name: Freux123
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

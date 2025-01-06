@@ -1,0 +1,152 @@
+timestamps:
+  login: 1641829958947
+  logout: 1641830057151
+  lastteleport: 1641829704912
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 886c7d43-b736-498b-8648-cad06b6b21d1
+  x: 1317.811184545436
+  y: 102.47222689176519
+  z: -2337.3951481980166
+  yaw: -302.8846740722656
+  pitch: 33.74924087524414
+  world-name: Event
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -4805.87533508442
+  y: 82.64586050911412
+  z: -231.34003290153805
+  yaw: -140.55368041992188
+  pitch: 55.64997100830078
+  world-name: world
+money: '0'
+afk: false
+socialspy: true
+godmode: false
+homes:
+  un:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 2928.577458290101
+    y: 92.0
+    z: -762.8483843756734
+    yaw: -36.79960250854492
+    pitch: 62.85062026977539
+    world-name: world
+  gouffre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3721.510663143344
+    y: 76.809610269154
+    z: 6181.982118962145
+    yaw: -107.1739501953125
+    pitch: 49.49957275390625
+    world-name: world
+  marin:
+    world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+    x: -97.86163750917277
+    y: 67.89598648224609
+    z: 75.60175492401031
+    yaw: -173.917236328125
+    pitch: 36.89983367919922
+    world-name: pvp
+  vieux:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 743.0475543889232
+    y: 67.0
+    z: 23.84593268816691
+    yaw: -183.92111206054688
+    pitch: 10.349658012390137
+    world-name: world
+  element:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6027.259946073594
+    y: 82.03795814915395
+    z: -2303.5306611844253
+    yaw: 269.63922119140625
+    pitch: 83.10005187988281
+    world-name: world
+  nether:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: 1092.0887749008207
+    y: 36.0
+    z: -1148.4150254850626
+    yaw: -2.3126494884490967
+    pitch: 36.8940544128418
+    world-name: Nether
+  arbresg_ants:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    x: -501.4556794309074
+    y: 49.031015507067266
+    z: -1699.0695802860794
+    yaw: -357.45269775390625
+    pitch: 31.80005645751953
+    world-name: Test
+  pvp:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    x: 330.11096114763006
+    y: 4.0
+    z: -1430.5261168558645
+    yaw: 80.2133560180664
+    pitch: 5.549624919891357
+    world-name: Event
+  hunger:
+    world: Test
+    x: 380.877929592529
+    y: 4.0
+    z: -314.69999998807907
+    yaw: -183.7481689453125
+    pitch: 29.10039710998535
+    world-name: ''
+  burny:
+    world: world
+    x: 5076.543282238059
+    y: 77.0
+    z: 6382.100350732311
+    yaw: -137.02879333496094
+    pitch: 53.999595642089844
+    world-name: ''
+  pvpville:
+    world: Event
+    x: 1433.699999988079
+    y: 33.0
+    z: -2461.2305724524567
+    yaw: -304.5341796875
+    pitch: 11.699379920959473
+    world-name: ''
+  coffreburny:
+    world: world
+    x: 4971.025175995789
+    y: 54.0
+    z: 6001.89710377968
+    yaw: 274.78564453125
+    pitch: 7.799695014953613
+    world-name: ''
+  aurian:
+    world: world
+    x: -3143.821969565583
+    y: 39.721845147464734
+    z: 4420.904037596792
+    yaw: -116.38018798828125
+    pitch: 31.650056838989258
+    world-name: ''
+  error:
+    world: pvp
+    x: -32.76510996184486
+    y: 123.99141509511594
+    z: 1366.3803404768437
+    yaw: 60.14697265625
+    pitch: 47.09978103637695
+    world-name: ''
+teleportenabled: false
+nickname: LunneAtik
+ip-address: 109.18.79.54
+last-account-name: LunneAtik
+teleportauto: false
+muted: false
+jailed: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

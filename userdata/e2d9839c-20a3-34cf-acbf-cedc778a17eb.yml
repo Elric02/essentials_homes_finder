@@ -1,0 +1,38 @@
+timestamps:
+  login: 1672591448907
+  logout: 1672591473761
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 154.34743073161187
+  y: 64.0
+  z: 22.01696945321452
+  yaw: 176.90475463867188
+  pitch: 12.425867080688477
+  world-name: world
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 154.28016178508526
+  y: 64.0
+  z: 22.018028764182663
+  yaw: 176.90475463867188
+  pitch: 12.425867080688477
+  world-name: world
+ip-address: 81.220.244.196
+last-account-name: clemboss
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

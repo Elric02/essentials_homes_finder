@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 105.105.235.34
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1715857675167
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1715857746744
+  login: 1715857600432
+money: '0'
+last-account-name: kingboss3
+lastlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 160.64287727330364
+  y: 83.0
+  z: -105.50409642129313
+  yaw: 90.60009765625
+  pitch: 0.30000901222229004
+logoutlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 164.69999998807907
+  y: 83.0
+  z: -106.52201101777182
+  yaw: 83.10006713867188
+  pitch: 27.750022888183594

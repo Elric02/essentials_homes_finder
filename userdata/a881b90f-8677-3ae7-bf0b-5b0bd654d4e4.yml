@@ -1,0 +1,55 @@
+timestamps:
+  login: 1516121700439
+  lastteleport: 1516122202365
+  logout: 1516122210219
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: -13.329653946806555
+  y: 64.0
+  z: -11.555006641074323
+  yaw: -231.08639526367188
+  pitch: 10.712227821350098
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 745.5
+  y: 80.0
+  z: -5423.5
+  yaw: 90.30316162109375
+  pitch: 14.460309982299805
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 817.7007060571186
+    y: 72.0
+    z: -5335.641625716201
+    yaw: -74.20854949951172
+    pitch: 19.966432571411133
+    world-name: ''
+  emmabug21:
+    world: world
+    x: 745.4872619093935
+    y: 80.0
+    z: -5423.39937484886
+    yaw: 90.30316162109375
+    pitch: 14.460309982299805
+    world-name: ''
+ip-address: 109.209.92.87
+last-account-name: Emmabug21
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

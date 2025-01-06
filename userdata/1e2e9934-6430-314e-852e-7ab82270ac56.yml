@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.65.122.94
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1672339208043
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1676466800091
+  login: 1676466364048
+money: '200.0'
+last-account-name: anasbara
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 38.62873445015428
+  y: 33.0
+  z: -366.6344363826578
+  yaw: 148.64137268066406
+  pitch: 12.600044250488281
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 16.952465324409236
+  y: 33.0
+  z: -361.91047233015337
+  yaw: -164.85000610351562
+  pitch: 27.9000301361084
+homes:
+  home:
+    world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+    world-name: grosPlot
+    x: 595.4333421488998
+    y: 95.35845312257447
+    z: 129.61732490627793
+    yaw: -25.3359375
+    pitch: 46.950233459472656

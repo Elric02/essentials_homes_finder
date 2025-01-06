@@ -1,0 +1,38 @@
+timestamps:
+  login: 1538066352193
+  lastteleport: 1537994576173
+  logout: 1538067362033
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1504.3606297682832
+  y: 68.0
+  z: 444.8977438004988
+  yaw: -344.0994873046875
+  pitch: 4.199582576751709
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 3743.452347145151
+  y: 68.0
+  z: -2156.8935540757543
+  yaw: -104.24688720703125
+  pitch: 8.249794006347656
+  world-name: ''
+ip-address: 78.129.92.223
+last-account-name: Cristal82
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

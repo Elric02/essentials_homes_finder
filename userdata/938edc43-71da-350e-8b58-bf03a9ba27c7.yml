@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478968558848
+  lastteleport: 1478969365358
+  logout: 1478969663826
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: 6427.651357599566
+  y: 57.0
+  z: -6682.615862784043
+  yaw: 47.7005615234375
+  pitch: 27.149967193603516
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 153.20306467854417
+  y: 63.0
+  z: -11.094840611197519
+  yaw: 168.3893280029297
+  pitch: 43.80000305175781
+  world-name: ''
+ip-address: 41.97.104.116
+last-account-name: emir
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

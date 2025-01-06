@@ -1,0 +1,171 @@
+timestamps:
+  login: 1607770998397
+  lastteleport: 1607277037539
+  logout: 1607771046645
+  jail: 0
+  kits:
+    color: 1597317284360
+    vip: 1597433338277
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5372.395465793678
+  y: 59.0
+  z: 1453.0239472177168
+  yaw: -177.8947296142578
+  pitch: 16.1970272064209
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -5398.363655565404
+    y: 64.0
+    z: 1414.8857907437807
+    yaw: -26.57177734375
+    pitch: 1.0661594867706299
+    world-name: ''
+  xp:
+    world: world
+    x: 2187.0922201130775
+    y: 28.0
+    z: 352.0364813244797
+    yaw: -145.1663360595703
+    pitch: 27.1602840423584
+    world-name: ''
+  daniel:
+    world: world
+    x: -1475.063325683546
+    y: 69.0
+    z: 989.3212376998101
+    yaw: 200.822265625
+    pitch: 17.33765983581543
+    world-name: ''
+  tortue:
+    world: world
+    x: 2393.699999988079
+    y: 28.0
+    z: -3088.4962079183338
+    yaw: 171.53355407714844
+    pitch: 5.870728015899658
+    world-name: ''
+  shop:
+    world: world
+    x: -4744.4219242106665
+    y: 69.0
+    z: -267.4126974423406
+    yaw: -0.06265827268362045
+    pitch: 22.82303237915039
+    world-name: ''
+  lebuilder:
+    world: world
+    x: 277.0795663016172
+    y: 64.0
+    z: -2605.4122337907365
+    yaw: -197.992431640625
+    pitch: 36.06967544555664
+    world-name: ''
+  lianne:
+    world: world
+    x: -5374.300000011921
+    y: 24.0
+    z: 1449.0355151149165
+    yaw: -271.4140625
+    pitch: 20.413070678710938
+    world-name: ''
+  acdc_zdnl:
+    world: world
+    x: 2039.7685738437406
+    y: 38.0
+    z: -2800.499368615234
+    yaw: 90.30947875976562
+    pitch: -13.608638763427734
+    world-name: ''
+  vip:
+    world: world
+    x: -6662.342017370109
+    y: 65.0
+    z: -4055.1255115250065
+    yaw: 165.9127960205078
+    pitch: 8.946066856384277
+    world-name: ''
+  secret:
+    world: world
+    x: 1349.455853461244
+    y: 94.0
+    z: -5608.507532960342
+    yaw: 1.922776460647583
+    pitch: 12.123156547546387
+    world-name: ''
+  beton:
+    world: world
+    x: -4874.930277745956
+    y: 64.0
+    z: -1140.2048562342854
+    yaw: 214.64852905273438
+    pitch: 23.750307083129883
+    world-name: ''
+  trolgar:
+    world: world
+    x: -6050.381675438671
+    y: 66.0
+    z: -4767.323801409633
+    yaw: 164.5389862060547
+    pitch: 20.695533752441406
+    world-name: ''
+  ville:
+    world: world
+    x: -5574.55452439058
+    y: 65.0
+    z: 534.4926690984151
+    yaw: -45.04150390625
+    pitch: -0.014264604076743126
+    world-name: ''
+  desert:
+    world: Ressource
+    x: 3535.5
+    y: 66.0
+    z: 3656.5
+    yaw: -289.44451904296875
+    pitch: 27.161026000976562
+    world-name: ''
+  mouton:
+    world: world
+    x: 6894.45468723458
+    y: 70.0
+    z: 2109.395526837299
+    yaw: -48.730194091796875
+    pitch: 38.41537094116211
+    world-name: ''
+  4rois:
+    world: world
+    x: 5598.922792333807
+    y: 73.0
+    z: -7000.314470527745
+    yaw: -274.92755126953125
+    pitch: 52.40148162841797
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 145.7520902634174
+  y: 65.24918707874468
+  z: -0.09964841552224121
+  yaw: 6.337890625
+  pitch: 9.781469345092773
+  world-name: ''
+afk: false
+jailed: false
+nickname: §aIlou_§9me§1ve§6nn§eou
+ip-address: 90.59.203.98
+last-account-name: ilou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

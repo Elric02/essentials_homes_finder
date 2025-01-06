@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617536950343
+  lastteleport: 1617537161725
+  logout: 1617537332958
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -393.8043927487579
+  y: 1.0
+  z: 1.0677371511167295
+  yaw: -124.33142852783203
+  pitch: 10.650040626525879
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 64.02747569179373
+  y: 94.0
+  z: 59.031693182065275
+  yaw: -195.84375
+  pitch: 8.37625789642334
+  world-name: ''
+afk: false
+ip-address: 90.17.67.140
+last-account-name: zetfar9000
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

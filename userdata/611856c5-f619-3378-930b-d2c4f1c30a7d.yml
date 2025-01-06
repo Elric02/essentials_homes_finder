@@ -1,0 +1,47 @@
+timestamps:
+  login: 1566728704409
+  lastteleport: 1566569838671
+  logout: 1566729192824
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -88.81496600138674
+  y: 67.0
+  z: 36.74818437961927
+  yaw: -134.7029266357422
+  pitch: 23.286108016967773
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1390.7973757812872
+  y: 72.0
+  z: -3657.449266997562
+  yaw: 9.3021240234375
+  pitch: 31.349945068359375
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 1393.528561833546
+    y: 72.0
+    z: -3657.633039801178
+    yaw: -328.949462890625
+    pitch: 16.500064849853516
+    world-name: ''
+afk: false
+ip-address: 176.130.137.239
+last-account-name: jag339
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

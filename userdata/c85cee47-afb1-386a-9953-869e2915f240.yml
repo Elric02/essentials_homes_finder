@@ -1,0 +1,38 @@
+timestamps:
+  login: 1619973297538
+  logout: 1619973722358
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6.360007130072122
+  y: 65.0
+  z: 36.845891774291985
+  yaw: 357.99688720703125
+  pitch: 31.049978256225586
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -709.4237773199006
+  y: 60.150485156700746
+  z: -766.4488640082104
+  yaw: 21.847015380859375
+  pitch: 7.799973011016846
+  world-name: ''
+money: '0'
+ip-address: 92.141.114.211
+last-account-name: Tintin_2008
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

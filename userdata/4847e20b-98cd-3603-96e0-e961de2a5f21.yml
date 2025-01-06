@@ -1,0 +1,47 @@
+timestamps:
+  login: 1471715565446
+  lastteleport: 1471716793332
+  logout: 1471717394017
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 243.2067807907867
+  y: 64.0
+  z: 556.770333065556
+  yaw: 129.55560302734375
+  pitch: 1.6864972114562988
+  world-name: ''
+homes:
+  iyad:
+    world: world
+    x: 156.34995608757652
+    y: 64.0
+    z: 19.65859899057218
+    yaw: 258.531494140625
+    pitch: 12.060544967651367
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 120.78010944225821
+  y: 63.0
+  z: 588.4714363883487
+  yaw: -320.25836181640625
+  pitch: 5.318613052368164
+  world-name: ''
+ip-address: 105.155.131.208
+last-account-name: geimargamer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1465733905702
+  lastteleport: 1465733987559
+  logout: 1465734045149
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.82757404006367
+  y: 63.0
+  z: 38.08405400838074
+  yaw: 0.29071044921875
+  pitch: -4.575798034667969
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 150.65172707162338
+  y: 64.0
+  z: 17.42487937253086
+  yaw: -205.4969940185547
+  pitch: -15.599994659423828
+  world-name: ''
+ip-address: 80.9.25.81
+last-account-name: worwor13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

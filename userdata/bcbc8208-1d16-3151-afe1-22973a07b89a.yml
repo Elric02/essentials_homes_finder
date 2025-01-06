@@ -1,0 +1,55 @@
+timestamps:
+  login: 1492550185210
+  lastteleport: 1491093533785
+  logout: 1492550426907
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 76.07237038835319
+  y: 63.0
+  z: 46.47146667727935
+  yaw: -98.01095581054688
+  pitch: 10.524507522583008
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 1873.6808480040854
+  y: 71.0
+  z: 6728.125885234746
+  yaw: -310.8004455566406
+  pitch: 19.349998474121094
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 1874.046610654312
+    y: 71.0
+    z: 6728.451164912409
+    yaw: 268.0494384765625
+    pitch: 14.399730682373047
+    world-name: ''
+  messa:
+    world: ressource
+    x: -5268.261507812498
+    y: 74.0
+    z: -4681.37211447839
+    yaw: 163.64999389648438
+    pitch: 13.650004386901855
+    world-name: ''
+ip-address: 174.92.209.150
+last-account-name: Ellutrist
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

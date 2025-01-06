@@ -1,0 +1,47 @@
+timestamps:
+  login: 1465413095650
+  lastteleport: 1465416076309
+  logout: 1465417279365
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 119.01659854654497
+  y: 63.0
+  z: 12.790548193967567
+  yaw: 30.00238037109375
+  pitch: 9.374147415161133
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 838.6636683301265
+  y: 69.0
+  z: 120.53162104455473
+  yaw: -307.39385986328125
+  pitch: 34.799930572509766
+  world-name: ''
+afk: false
+homes:
+  tour:
+    world: world
+    x: 831.0358885803349
+    y: 71.0
+    z: 106.65191564782978
+    yaw: 242.7125244140625
+    pitch: 44.99996566772461
+    world-name: ''
+ip-address: 82.246.39.244
+last-account-name: Rehezark
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

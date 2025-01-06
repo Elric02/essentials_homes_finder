@@ -1,0 +1,47 @@
+timestamps:
+  login: 1472485972956
+  lastteleport: 1472488865350
+  logout: 1472489507503
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -382.5464404736396
+    y: 70.0
+    z: -1385.5260708614198
+    yaw: -135.933837890625
+    pitch: 31.419981002807617
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -356.7216448646345
+  y: 72.0
+  z: -1360.1978263677902
+  yaw: -274.24859619140625
+  pitch: 9.962164878845215
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 78.193.166.100
+last-account-name: _Wuz_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

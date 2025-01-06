@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.193.68.130
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1707685924922
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1707686154782
+  login: 1707684134455
+money: '350.0'
+last-account-name: Z3NNzo
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 5410.149575278756
+  y: 63.0
+  z: -564.061840285924
+  yaw: -54.755859375
+  pitch: 9.450207710266113
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 5355.610502630835
+  y: 67.0
+  z: -1069.1146056404034
+  yaw: -40.37158203125
+  pitch: 30.599273681640625
+homes:
+  ile1:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 5355.13066547184
+    y: 67.0
+    z: -1062.9365202381116
+    yaw: -101.70547485351562
+    pitch: 25.34991455078125
+  ile2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 5390.135344407531
+    y: 63.0
+    z: -540.6169725780012
+    yaw: -125.2559814453125
+    pitch: 16.65018081665039

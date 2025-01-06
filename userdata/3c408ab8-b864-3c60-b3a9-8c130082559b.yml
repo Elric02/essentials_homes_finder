@@ -1,0 +1,38 @@
+timestamps:
+  login: 1493415274237
+  logout: 1493415648645
+  lastteleport: 1493415214854
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.23987254236926
+  y: 63.5
+  z: 6.314436268618158
+  yaw: -246.81094360351562
+  pitch: 11.27452564239502
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -176.4609375
+  pitch: 31.524518966674805
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 90.30.66.86
+last-account-name: maximemopty
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

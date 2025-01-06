@@ -1,0 +1,47 @@
+timestamps:
+  login: 1585349166712
+  lastteleport: 1585269432031
+  logout: 1585349225500
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 138.08757788243972
+  y: 78.0
+  z: 180.60687124005582
+  yaw: -201.16497802734375
+  pitch: 9.028057098388672
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5867.553258890919
+  y: 80.0
+  z: -2545.9708987266035
+  yaw: -20.083984375
+  pitch: 18.749706268310547
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 5836.604798037726
+    y: 80.0
+    z: -2569.8799163607105
+    yaw: -96.1335220336914
+    pitch: 14.849691390991211
+    world-name: ''
+ip-address: 77.159.25.168
+last-account-name: Alexandre2000
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

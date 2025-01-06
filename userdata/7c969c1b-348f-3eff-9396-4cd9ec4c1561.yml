@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.163.218.23
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675010387540
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675011678534
+  login: 1675011455175
+money: '0'
+lastlocation:
+  world: df07db1e-b199-46d9-9d37-2fe95ae52b01
+  world-name: Ressourcenether
+  x: -3.2216758942333112
+  y: 124.7531999805212
+  z: 1.4705110206353507
+  yaw: -101.24620819091797
+  pitch: 41.249855041503906
+last-account-name: MathisFB
+logoutlocation:
+  world: df07db1e-b199-46d9-9d37-2fe95ae52b01
+  world-name: Ressourcenether
+  x: 4.478492446819469
+  y: 37.0
+  z: -6.825734768009564
+  yaw: 30.75347900390625
+  pitch: 9.750204086303711

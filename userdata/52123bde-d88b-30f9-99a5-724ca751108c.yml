@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472663166132
+  logout: 1472664691633
+  lastteleport: 1472664593039
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 436.1835314501354
+  y: 77.0
+  z: -255.07891633778792
+  yaw: 294.7989501953125
+  pitch: 13.8173189163208
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 47.699999988079085
+  y: 77.0
+  z: 280.87081196410026
+  yaw: -185.8084716796875
+  pitch: 3.6386327743530273
+  world-name: ''
+afk: false
+ip-address: 78.219.142.172
+last-account-name: antonin3741
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

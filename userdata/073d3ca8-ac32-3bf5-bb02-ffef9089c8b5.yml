@@ -1,0 +1,47 @@
+timestamps:
+  login: 1477937730153
+  lastteleport: 1477930799717
+  logout: 1477937953814
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -348.3609313964844
+  pitch: 79.07451629638672
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 6064.147150215207
+    y: 69.0
+    z: -1305.699999988079
+    yaw: -179.69970703125
+    pitch: 26.849977493286133
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 6197.519641402557
+  y: 64.0
+  z: -1359.5405875002198
+  yaw: 265.80084228515625
+  pitch: -59.9999885559082
+  world-name: ''
+afk: false
+ip-address: 82.125.139.224
+last-account-name: Maeva
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

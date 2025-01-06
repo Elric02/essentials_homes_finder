@@ -1,0 +1,47 @@
+timestamps:
+  login: 1598898215979
+  lastteleport: 1598898579101
+  logout: 1598898630170
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: -4.4268371566834075
+  y: 33.0
+  z: 7.443646229042877
+  yaw: -176.03640747070312
+  pitch: -0.5309246778488159
+  world-name: ''
+homes:
+  top:
+    world: world
+    x: 169.01196152028055
+    y: 139.0
+    z: -120.46143918734695
+    yaw: 279.22906494140625
+    pitch: 27.449993133544922
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.6204226472984
+  y: 63.0
+  z: 56.95433410315707
+  yaw: -36.46888732910156
+  pitch: -7.921285629272461
+  world-name: ''
+ip-address: 174.89.207.165
+last-account-name: oxyreck
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

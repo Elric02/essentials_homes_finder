@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.163.95.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1664740956493
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673047731120
+  login: 1673047714234
+money: '0'
+last-account-name: Naxflag
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3606.0173065853232
+  y: 71.0
+  z: -883.3494132184327
+  yaw: -106.20026397705078
+  pitch: 14.700023651123047
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3606.0417749487806
+  y: 71.0
+  z: -883.3423048070719
+  yaw: -106.20026397705078
+  pitch: 14.700023651123047

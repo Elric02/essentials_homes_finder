@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482755825385
+  logout: 1482755853783
+  lastteleport: 1482329939713
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.74553407430184
+  y: 64.0
+  z: 30.788240890632277
+  yaw: -195.36097717285156
+  pitch: 25.97451400756836
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.57760216749875
+  y: 64.0
+  z: 27.65234464679532
+  yaw: -201.66094970703125
+  pitch: 9.174515724182129
+  world-name: ''
+ip-address: 78.113.63.1
+last-account-name: Sushikiis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

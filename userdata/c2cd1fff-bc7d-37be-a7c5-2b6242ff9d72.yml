@@ -1,0 +1,38 @@
+timestamps:
+  login: 1542304733257
+  lastteleport: 1542304889072
+  logout: 1542304926350
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 47.90653638040715
+  y: 69.0
+  z: -57.94771605584096
+  yaw: -268.3768310546875
+  pitch: 11.27866268157959
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6715.657010627567
+  y: 66.0
+  z: -4041.512499988079
+  yaw: -182.6046142578125
+  pitch: 8.84998607635498
+  world-name: ''
+ip-address: 109.211.46.99
+last-account-name: Kiiko_Sama
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

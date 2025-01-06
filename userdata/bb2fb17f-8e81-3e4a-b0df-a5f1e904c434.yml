@@ -1,0 +1,48 @@
+timestamps:
+  login: 1478951816302
+  lastteleport: 1478953238891
+  logout: 1478953571798
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 294.37511999578857
+  y: 70.0
+  z: 1050.398740329965
+  yaw: -48.00830078125
+  pitch: 16.18927001953125
+  world-name: ''
+afk: false
+nickname: CaporalNocteris
+logoutlocation:
+  world: world
+  x: 5880.503023488755
+  y: 100.0
+  z: -2898.27698432509
+  yaw: -82.43606567382812
+  pitch: 10.140488624572754
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 5888.58103277702
+    y: 100.0
+    z: -2895.1427802396774
+    yaw: -264.96832275390625
+    pitch: 14.732579231262207
+    world-name: ''
+ip-address: 90.108.29.124
+last-account-name: Nocteris
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

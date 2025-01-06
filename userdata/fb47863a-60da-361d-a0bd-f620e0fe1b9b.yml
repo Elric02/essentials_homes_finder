@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498853758835
+  lastteleport: 1497474580157
+  logout: 1498853769810
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 31.406352495980094
+  y: 64.0
+  z: -18.10807679499711
+  yaw: -222.78515625
+  pitch: 14.433101654052734
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 159.34988409211851
+  y: 64.0
+  z: 13.333446633847071
+  yaw: -20.16107177734375
+  pitch: 15.174492835998535
+  world-name: ''
+ip-address: 86.237.223.173
+last-account-name: Satan
+npc: true
+money: '0'
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

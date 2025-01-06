@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492882903309
+  lastteleport: 1492883109888
+  logout: 1492883133436
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1309.9132470474356
+  y: 77.0
+  z: -2342.8081771808465
+  yaw: 20.549957275390625
+  pitch: 14.099997520446777
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.58500971042537
+  y: 64.0
+  z: 21.674231659278224
+  yaw: -108.21094512939453
+  pitch: 12.89998722076416
+  world-name: ''
+ip-address: 86.208.59.220
+last-account-name: LimboGeek
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

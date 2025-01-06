@@ -1,0 +1,38 @@
+timestamps:
+  login: 1473511715692
+  logout: 1473512522532
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.86925960415604
+  y: 63.0
+  z: 44.19453828776225
+  yaw: -276.253173828125
+  pitch: 0.0
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 154.87623440653454
+  y: 28.0
+  z: 20.381421879072384
+  yaw: -14.203166961669922
+  pitch: -90.0
+  world-name: ''
+ip-address: 176.146.34.189
+last-account-name: BBQgaming
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

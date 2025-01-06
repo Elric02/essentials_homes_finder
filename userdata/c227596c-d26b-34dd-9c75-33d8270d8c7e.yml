@@ -1,0 +1,55 @@
+timestamps:
+  login: 1551009011299
+  lastteleport: 1551009946782
+  logout: 1551010665181
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -189.75468804067881
+  y: 64.0
+  z: -221.27616514767084
+  yaw: 119.52786254882812
+  pitch: 25.64998435974121
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 170.36863656553064
+  y: 60.0
+  z: -6.078878791440507
+  yaw: -113.12078857421875
+  pitch: 24.928647994995117
+  world-name: ''
+homes:
+  nuit:
+    world: world
+    x: -182.69999998807907
+    y: 64.0
+    z: -219.4856870386641
+    yaw: 42.127723693847656
+    pitch: 69.0
+    world-name: ''
+  base:
+    world: world
+    x: -308.26041089990474
+    y: 64.0
+    z: -153.1223817371712
+    yaw: 270.5787658691406
+    pitch: 47.5500373840332
+    world-name: ''
+ip-address: 78.127.21.224
+last-account-name: raphistouille
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

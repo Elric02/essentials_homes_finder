@@ -1,0 +1,38 @@
+timestamps:
+  login: 1606498174965
+  logout: 1606498240197
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.45595376993657
+  y: 63.0
+  z: -22.88800734755958
+  yaw: 188.3469696044922
+  pitch: 2.640662670135498
+  world-name: ''
+ip-address: 91.170.209.92
+last-account-name: Seiiki_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

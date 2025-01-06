@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592145224679
+  lastteleport: 1592145355643
+  logout: 1592145371546
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.396956339561
+  y: 64.0
+  z: 15.329770475524956
+  yaw: 294.4071350097656
+  pitch: 59.49063491821289
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.57574461289434
+  y: 64.0
+  z: 17.625548823237164
+  yaw: -20.42113494873047
+  pitch: 10.07867431640625
+  world-name: ''
+ip-address: 84.97.56.206
+last-account-name: Noctylus
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475512032768
+  logout: 1475512191478
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5331.021690200387
+  y: 89.0
+  z: -5185.552402405566
+  yaw: 200.54986572265625
+  pitch: 40.04999923706055
+  world-name: ''
+ip-address: 2.4.122.106
+last-account-name: blanblan14
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

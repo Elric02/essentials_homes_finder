@@ -1,0 +1,47 @@
+timestamps:
+  login: 1603804859976
+  lastteleport: 1603813334772
+  logout: 1603819776399
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.3164693092192
+  y: 64.0
+  z: 25.952116237156314
+  yaw: -146.87083435058594
+  pitch: 4.828666687011719
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -311.337801068721
+    y: 70.0
+    z: 801.6495720943008
+    yaw: -171.6260223388672
+    pitch: 15.449949264526367
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -256.55393918629426
+  y: 63.0
+  z: 954.5609856079647
+  yaw: -246.718994140625
+  pitch: 5.54995584487915
+  world-name: ''
+ip-address: 90.103.132.1
+last-account-name: Karnalyss
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

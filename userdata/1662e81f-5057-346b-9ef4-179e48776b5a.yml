@@ -1,0 +1,38 @@
+timestamps:
+  login: 1494861576248
+  logout: 1494861662113
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 163.88040135757691
+  y: 64.0
+  z: 56.253349582894245
+  yaw: -269.96356201171875
+  pitch: 5.929080486297607
+  world-name: ''
+ip-address: 86.204.74.90
+last-account-name: 21stCenturyBoys
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1625170855063
+  logout: 1625171062043
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.69700110705077
+  y: 64.0
+  z: 24.320012447691212
+  yaw: 122.267333984375
+  pitch: 12.222286224365234
+  world-name: ''
+ip-address: 213.213.233.232
+last-account-name: Cocokuni
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475925976943
+  lastteleport: 1475927032167
+  logout: 1475927178990
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -481.37072227142744
+  y: 67.0
+  z: 484.6564341902037
+  yaw: 125.86226654052734
+  pitch: 0.2975945472717285
+  world-name: ''
+logoutlocation:
+  world: Ressources
+  x: 268.95596399354895
+  y: 66.0
+  z: 382.5973337094417
+  yaw: 64.00390625
+  pitch: 9.500438690185547
+  world-name: ''
+ip-address: 90.34.58.95
+last-account-name: AVTplay
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

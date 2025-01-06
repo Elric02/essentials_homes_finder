@@ -1,0 +1,47 @@
+timestamps:
+  login: 1616785407961
+  lastteleport: 1616785631466
+  logout: 1616786944218
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.713972187133
+  y: 64.0
+  z: 23.499789365916534
+  yaw: -357.5302734375
+  pitch: 21.45907211303711
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6406.350228887195
+  y: 81.0
+  z: -3958.854999557095
+  yaw: 291.9676513671875
+  pitch: 44.097415924072266
+  world-name: ''
+homes:
+  b:
+    world: world
+    x: 6391.521919709633
+    y: 99.0
+    z: -3925.5176456750305
+    yaw: 116.8073959350586
+    pitch: 12.117534637451172
+    world-name: ''
+ip-address: 88.162.89.70
+last-account-name: Gahkx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

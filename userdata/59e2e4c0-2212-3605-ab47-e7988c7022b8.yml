@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514128691916
+  lastteleport: 1514129086172
+  logout: 1514129123913
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1407.08444888539
+  y: 64.0
+  z: -2180.0557613085525
+  yaw: -183.973388671875
+  pitch: -1.0640616416931152
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 164.36995089203975
+  y: 64.0
+  z: 17.12729238466963
+  yaw: -63.920711517333984
+  pitch: 7.228677749633789
+  world-name: ''
+ip-address: 90.76.12.225
+last-account-name: Feyerwin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

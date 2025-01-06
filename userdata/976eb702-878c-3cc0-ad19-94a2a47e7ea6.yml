@@ -1,0 +1,47 @@
+timestamps:
+  login: 1621178020534
+  lastteleport: 1621180364112
+  logout: 1621181295550
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+money: '0'
+lastlocation:
+  world: Ressource
+  x: 2151.8631264397877
+  y: 71.0
+  z: -2306.013435300474
+  yaw: -91.80718994140625
+  pitch: 21.90001106262207
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5794.913598305666
+  y: 77.0
+  z: 5731.114227042042
+  yaw: -141.14907836914062
+  pitch: 35.24998474121094
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -5774.259208568194
+    y: 77.0
+    z: 5786.705197014042
+    yaw: 108.5999755859375
+    pitch: 15.899998664855957
+    world-name: ''
+ip-address: 90.1.185.163
+last-account-name: Queen
+npc: true
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

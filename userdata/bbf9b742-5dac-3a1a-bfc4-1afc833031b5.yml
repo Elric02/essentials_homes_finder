@@ -1,0 +1,47 @@
+timestamps:
+  login: 1477073914286
+  logout: 1477075082620
+  lastteleport: 1477074461445
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5317.295439426422
+  y: 74.0
+  z: 567.9430049667379
+  yaw: -183.93316650390625
+  pitch: 31.04995346069336
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5337.727484896183
+  y: 115.5
+  z: 531.8659014068378
+  yaw: -28.683271408081055
+  pitch: 44.099937438964844
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -974.8201459612432
+    y: 63.0
+    z: -364.07248306762654
+    yaw: 197.0791015625
+    pitch: 27.750024795532227
+    world-name: ''
+afk: false
+money: '0'
+ip-address: 80.119.56.149
+last-account-name: Mama_1802
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

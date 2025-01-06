@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499616843740
+  logout: 1499616962619
+  lastteleport: 1499616640347
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 168.3914201985062
+  y: 66.0
+  z: -50.374933755244626
+  yaw: -242.8112335205078
+  pitch: 16.467681884765625
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -820.8746092954569
+  y: 69.5
+  z: 652.3687923544192
+  yaw: -86.58438110351562
+  pitch: 43.85999298095703
+  world-name: ''
+money: '0'
+muted: false
+ip-address: 109.11.68.239
+last-account-name: BisounoursVert
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1487249971951
+  lastteleport: 1487252598835
+  logout: 1487254910678
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.100560282537
+  y: 63.0
+  z: 44.389739011453095
+  yaw: 20.78911018371582
+  pitch: -15.599991798400879
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -2330.9079091022013
+    y: 65.0
+    z: -1907.9125760024951
+    yaw: 82.04998016357422
+    pitch: 25.79999351501465
+    world-name: ''
+  fac01:
+    world: world
+    x: -2327.8492246157393
+    y: 60.0
+    z: -1913.300000011921
+    yaw: 200.69998168945312
+    pitch: 58.34999465942383
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -2321.909981346682
+  y: 69.0
+  z: -1889.9327383695888
+  yaw: 89.5513916015625
+  pitch: 14.250051498413086
+  world-name: ''
+ip-address: 79.82.124.209
+last-account-name: xcreepy23
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

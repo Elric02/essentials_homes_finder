@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.66.45.90
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712085657953
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712086511972
+  login: 1712085272462
+money: '0'
+last-account-name: BlackJam
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 72.35087237922711
+  y: 33.0
+  z: 580.9454453244559
+  yaw: 7.40777587890625
+  pitch: 24.00006103515625
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 478.69999998807907
+  y: 39.40038812094063
+  z: 263.5002450570371
+  yaw: -112.80224609375
+  pitch: 9.299992561340332

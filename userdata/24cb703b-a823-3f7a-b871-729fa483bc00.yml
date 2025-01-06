@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.142.4.53
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1646142870441
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1646143046383
+  login: 1646141905401
+money: '0'
+last-account-name: Nexusomega
+lastlocation:
+  world: 6b791b62-b860-492a-aa67-db025bcd5247
+  world-name: world2
+  x: -136.92021462329714
+  y: 64.0
+  z: 424.0857286678077
+  yaw: -20.2421875
+  pitch: 1.1999740600585938
+homes:
+  home:
+    world: 6b791b62-b860-492a-aa67-db025bcd5247
+    world-name: world2
+    x: -136.92021462329714
+    y: 64.0
+    z: 424.0857286678077
+    yaw: -148.6427001953125
+    pitch: 18.599973678588867
+logoutlocation:
+  world: 3a8d725c-ae06-42d4-9c06-df77329a4b5c
+  world-name: Ressource
+  x: -195.06635227404274
+  y: 63.0
+  z: -88.16010781427381
+  yaw: -58.65203857421875
+  pitch: 28.049945831298828

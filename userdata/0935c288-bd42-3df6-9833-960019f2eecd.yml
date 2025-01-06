@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516726899802
+  lastteleport: 1516727085936
+  logout: 1516727879085
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: -4028.718071562161
+  y: 4.0
+  z: -4125.9565839554925
+  yaw: 131.3865966796875
+  pitch: 13.097718238830566
+  world-name: ''
+afk: false
+logoutlocation:
+  world: Ressource
+  x: 70.77919423358468
+  y: 62.07326432466507
+  z: 138.12903260506772
+  yaw: -80.77743530273438
+  pitch: 3.495612621307373
+  world-name: ''
+ip-address: 92.167.210.192
+last-account-name: thedarkgirl35
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

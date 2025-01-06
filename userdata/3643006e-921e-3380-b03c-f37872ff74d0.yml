@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.184.124.46
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716236113637
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723119054850
+  login: 1723119018779
+money: '0'
+last-account-name: WolfyzDBois
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 122.63829477489939
+  y: 63.0
+  z: 24.921942062317868
+  yaw: -1.634048581123352
+  pitch: 4.950301170349121
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 122.63829477489939
+  y: 63.0
+  z: 24.921942062317868
+  yaw: -47.98406982421875
+  pitch: 0.4503004550933838

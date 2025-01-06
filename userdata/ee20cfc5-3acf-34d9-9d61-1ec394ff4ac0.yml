@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617564078593
+  logout: 1617564099948
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.63476058954734
+  y: 65.0
+  z: 100.60320097428892
+  yaw: 167.04672241210938
+  pitch: 35.19062805175781
+  world-name: ''
+ip-address: 109.18.232.65
+last-account-name: Lucgamer62
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

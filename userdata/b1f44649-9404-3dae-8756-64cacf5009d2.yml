@@ -1,0 +1,63 @@
+timestamps:
+  login: 1464013844591
+  lastteleport: 1464013478385
+  logout: 1464013860992
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.4984022123568
+  y: 64.0
+  z: 16.76309488104809
+  yaw: -182.697265625
+  pitch: 69.97418212890625
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -1005.5438111652079
+    y: 69.0
+    z: -958.7089238715987
+    yaw: 221.79441833496094
+    pitch: 14.099994659423828
+    world-name: ''
+  nether:
+    world: world_nether
+    x: 675.3000000119209
+    y: 62.0
+    z: 103.21916634646107
+    yaw: -252.4517822265625
+    pitch: 25.349973678588867
+    world-name: ''
+  bebe:
+    world: world
+    x: -514.0636046208444
+    y: 69.0
+    z: -2305.4561874971964
+    yaw: -43.74962615966797
+    pitch: 6.449989318847656
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1042.310815773362
+  y: 66.0
+  z: -957.7611357121195
+  yaw: -237.8973388671875
+  pitch: 24.299999237060547
+  world-name: ''
+afk: false
+muted: false
+ip-address: 90.13.149.9
+last-account-name: YameteKudasaii
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

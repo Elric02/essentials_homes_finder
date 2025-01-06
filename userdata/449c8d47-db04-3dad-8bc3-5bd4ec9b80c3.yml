@@ -1,0 +1,47 @@
+timestamps:
+  login: 1466066384781
+  lastteleport: 1465896542656
+  logout: 1466067511810
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -2245.9005914908007
+  y: 11.0
+  z: -3979.4711796530873
+  yaw: -66.921875
+  pitch: 39.9586296081543
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -2821.8644567064143
+    y: 64.0
+    z: -1212.2802621972114
+    yaw: -225.71630859375
+    pitch: 17.474023818969727
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -2821.497122109752
+  y: 64.0
+  z: -1213.0301039745852
+  yaw: -301.494140625
+  pitch: 18.284074783325195
+  world-name: ''
+afk: false
+ip-address: 90.55.69.166
+last-account-name: Azubull
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

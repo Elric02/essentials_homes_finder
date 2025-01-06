@@ -1,0 +1,47 @@
+timestamps:
+  login: 1494093559894
+  lastteleport: 1494094366777
+  logout: 1494094753269
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2783.604223604508
+  y: 46.0
+  z: 6150.300000011921
+  yaw: -36.9696044921875
+  pitch: 15.970537185668945
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 2785.2789769828664
+    y: 46.0
+    z: 6150.486044156052
+    yaw: 1.717059850692749
+    pitch: 0.30622100830078125
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3052.838329379575
+  y: 70.0
+  z: -2707.8676996418176
+  yaw: 178.7438201904297
+  pitch: 11.37266731262207
+  world-name: ''
+ip-address: 89.92.102.35
+last-account-name: dimitri
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

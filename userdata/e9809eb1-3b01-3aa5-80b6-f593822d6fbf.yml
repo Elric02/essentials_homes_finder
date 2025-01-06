@@ -1,0 +1,63 @@
+timestamps:
+  login: 1489768075463
+  logout: 1489768688019
+  lastteleport: 1489768174218
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5073.425898845625
+  y: 71.0
+  z: 4680.828886241552
+  yaw: -202.36488342285156
+  pitch: 25.057409286499023
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5015.300000011921
+  y: 72.0
+  z: 4442.699999988079
+  yaw: -65.85037994384766
+  pitch: 17.61607551574707
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 5056.699999988079
+    y: 64.0
+    z: 4542.557100510626
+    yaw: 69.96561431884766
+    pitch: 31.427133560180664
+    world-name: ''
+  ressource:
+    world: ressource
+    x: -74.88250962582484
+    y: 63.0
+    z: 378.67218890895634
+    yaw: 117.59988403320312
+    pitch: 18.66678237915039
+    world-name: ''
+  maison:
+    world: world
+    x: 5017.383541032108
+    y: 72.0
+    z: 4447.6989349011355
+    yaw: 121.40150451660156
+    pitch: 17.082599639892578
+    world-name: ''
+money: '0'
+ip-address: 109.212.252.115
+last-account-name: cat343
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

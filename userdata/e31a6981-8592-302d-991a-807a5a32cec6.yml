@@ -1,0 +1,63 @@
+timestamps:
+  login: 1496503709432
+  lastteleport: 1496505620388
+  logout: 1496505626747
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1128.9668120881843
+  y: 77.0
+  z: -2424.3614951182662
+  yaw: -265.5992431640625
+  pitch: 21.45001792907715
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -1187.3943896124956
+    y: 69.0
+    z: -2530.525831117066
+    yaw: -20.9488525390625
+    pitch: 0.29999393224716187
+    world-name: ''
+  land:
+    world: world
+    x: -1182.5710143891956
+    y: 69.0
+    z: -2553.27784899995
+    yaw: -162.24830627441406
+    pitch: 7.800023078918457
+    world-name: ''
+  il:
+    world: world
+    x: -1076.6438366130508
+    y: 64.0
+    z: -2218.61163505177
+    yaw: -225.9971923828125
+    pitch: 17.85000991821289
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -179.76092529296875
+  pitch: 6.174515247344971
+  world-name: ''
+afk: false
+ip-address: 88.176.81.157
+last-account-name: luck024
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

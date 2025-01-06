@@ -1,0 +1,38 @@
+timestamps:
+  login: 1524654024426
+  lastteleport: 1524655616611
+  logout: 1524655649311
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 177.0657759278682
+  y: 64.0
+  z: 142.07433463613015
+  yaw: -339.716552734375
+  pitch: 18.449987411499023
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 1458.5028775612016
+  y: 64.0
+  z: -2179.5985712910424
+  yaw: 177.2272491455078
+  pitch: 7.335937976837158
+  world-name: ''
+ip-address: 82.240.154.95
+last-account-name: droodzur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

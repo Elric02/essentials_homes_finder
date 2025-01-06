@@ -1,0 +1,38 @@
+timestamps:
+  login: 1505035631713
+  lastteleport: 1504523552817
+  logout: 1505038468816
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.19595776131368
+  y: 63.0
+  z: 49.73661297955345
+  yaw: -260.58331298828125
+  pitch: -5.1363019943237305
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 930.5448250924544
+  y: 73.0
+  z: 2871.204987673161
+  yaw: 151.81466674804688
+  pitch: 7.363230228424072
+  world-name: ''
+money: '0'
+ip-address: 109.11.241.21
+last-account-name: ousam_gaming
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

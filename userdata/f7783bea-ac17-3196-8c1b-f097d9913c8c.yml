@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.65.134.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1708912121004
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709651527127
+  login: 1709651522510
+money: '0'
+last-account-name: Delta_Foxx
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -281.3068074589641
+  y: 65.0
+  z: -372.28161087408944
+  yaw: 27.14776611328125
+  pitch: 33.29997634887695
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -310.9662786483536
+  y: 65.0
+  z: -361.6239554214384
+  yaw: 126.17022705078125
+  pitch: 17.20317268371582

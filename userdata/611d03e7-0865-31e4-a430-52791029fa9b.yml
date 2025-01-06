@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478290943844
+  logout: 1478290988466
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 206.5700587894289
+  y: 63.0
+  z: 17.294824104057163
+  yaw: -73.69915771484375
+  pitch: 16.14739418029785
+  world-name: ''
+ip-address: 90.50.5.6
+last-account-name: Enzo_zozo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

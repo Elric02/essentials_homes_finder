@@ -1,0 +1,63 @@
+timestamps:
+  login: 1640965602020
+  lastteleport: 1640967612242
+  logout: 1640967653304
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -4083.6939601738973
+  y: 45.5
+  z: 3919.0790448098405
+  yaw: -220.4697265625
+  pitch: 11.242905616760254
+  world-name: world
+afk: false
+money: '0'
+homes:
+  titoune:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4096.847089969142
+    y: 53.5
+    z: 3944.0647244359757
+    yaw: -184.3197479248047
+    pitch: 10.192911148071289
+    world-name: world
+  salou:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1013.4884667334512
+    y: 64.0
+    z: -2714.188551957191
+    yaw: 181.557861328125
+    pitch: 15.15004825592041
+    world-name: world
+  sso:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 183.42509618265657
+    y: 64.0
+    z: -6513.742167161163
+    yaw: 8.577380180358887
+    pitch: 25.499916076660156
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1010.5121752241405
+  y: 64.0
+  z: -2717.699999988079
+  yaw: 4.2578840255737305
+  pitch: 14.400042533874512
+  world-name: world
+ip-address: 91.175.189.50
+last-account-name: Salou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

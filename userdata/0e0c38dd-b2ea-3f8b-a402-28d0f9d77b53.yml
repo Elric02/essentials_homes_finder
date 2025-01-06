@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466780497114
+  lastteleport: 1466781932258
+  logout: 1466788335801
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 389.10297055674545
+  y: 72.0
+  z: 977.0934878951957
+  yaw: 117.66525268554688
+  pitch: 8.400046348571777
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 149.8232216376227
+  y: 92.0625
+  z: -190.67911577263428
+  yaw: -27.750003814697266
+  pitch: 7.95001220703125
+  world-name: ''
+afk: false
+ip-address: 90.126.33.216
+last-account-name: timo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

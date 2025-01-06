@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509400249706
+  logout: 1509400676635
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3280.008840148325
+  y: 64.0
+  z: -4567.300000011921
+  yaw: 83.09115600585938
+  pitch: -8.974930763244629
+  world-name: ''
+ip-address: 82.247.201.5
+last-account-name: CatParadoxe
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

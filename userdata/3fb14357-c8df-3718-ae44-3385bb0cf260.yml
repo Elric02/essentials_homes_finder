@@ -1,0 +1,64 @@
+timestamps:
+  login: 1487162199915
+  lastteleport: 1487085213873
+  logout: 1487162391777
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2539.3886372033894
+  y: 96.0
+  z: 2277.636357472204
+  yaw: 60.06837463378906
+  pitch: 18.599910736083984
+  world-name: ''
+afk: false
+homes:
+  base:
+    world: world
+    x: -2511.0207814696587
+    y: 97.0
+    z: 2277.625390447795
+    yaw: 94.71976470947266
+    pitch: 36.6444091796875
+    world-name: ''
+  ile:
+    world: world
+    x: 2616.530005989612
+    y: 70.0
+    z: 6880.476197763782
+    yaw: 3.15179443359375
+    pitch: 31.049976348876953
+    world-name: ''
+  ice:
+    world: ressource
+    x: -1548.6217182109551
+    y: 64.0
+    z: -7146.289810851517
+    yaw: 190.35104370117188
+    pitch: 25.95000648498535
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2618.498393013978
+  y: 70.0
+  z: 6880.327540291552
+  yaw: -291.1484375
+  pitch: 33.29990768432617
+  world-name: ''
+money: '0'
+muted: false
+nickname: aigle
+ip-address: 77.132.228.223
+last-account-name: aigle
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

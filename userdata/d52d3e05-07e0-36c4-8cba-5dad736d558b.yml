@@ -1,0 +1,55 @@
+timestamps:
+  login: 1559677842742
+  lastteleport: 1559638293203
+  logout: 1559677877757
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 109.39382893242282
+  y: 24.0
+  z: -3386.5647316268396
+  yaw: -198.631591796875
+  pitch: -35.550010681152344
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 2856.948009355737
+    y: 64.0
+    z: -759.2779669083047
+    yaw: -203.989013671875
+    pitch: 16.950057983398438
+    world-name: ''
+  bureau:
+    world: world
+    x: 115.49640112703331
+    y: 34.0
+    z: -3399.335425320505
+    yaw: -8.28182601928711
+    pitch: 2.400001287460327
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 109.96776375747623
+  y: 41.0
+  z: -3378.5105465682805
+  yaw: -156.33229064941406
+  pitch: 19.649999618530273
+  world-name: ''
+afk: false
+ip-address: 109.22.168.102
+last-account-name: Codeur_02
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

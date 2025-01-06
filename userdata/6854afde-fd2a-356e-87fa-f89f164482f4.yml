@@ -1,0 +1,47 @@
+timestamps:
+  login: 1473886944328
+  lastteleport: 1473809506443
+  logout: 1473887003269
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -559.383768944881
+  y: 64.0
+  z: -181.41113846801017
+  yaw: -347.2615051269531
+  pitch: 37.499961853027344
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 115.4764949255892
+    y: 63.0
+    z: -169.33451550641166
+    yaw: 188.6392822265625
+    pitch: 25.20000648498535
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 114.14081593003645
+  y: 63.0
+  z: -155.88621531141476
+  yaw: 203.63873291015625
+  pitch: 15.149937629699707
+  world-name: ''
+money: '0'
+ip-address: 86.205.191.22
+last-account-name: polovador
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

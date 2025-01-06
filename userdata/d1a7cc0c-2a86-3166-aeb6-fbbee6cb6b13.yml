@@ -1,0 +1,47 @@
+timestamps:
+  login: 1468432484705
+  lastteleport: 1468432499597
+  logout: 1468432632180
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -569.9216832456685
+  y: 66.0
+  z: -712.5597247249663
+  yaw: 260.38629150390625
+  pitch: 10.822283744812012
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -1209.4673047368024
+    y: 59.0
+    z: -3906.396163407511
+    yaw: -2.2126598358154297
+    pitch: 81.2436752319336
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1228.5318427173672
+  y: 59.0
+  z: -3889.699999988079
+  yaw: 182.4199676513672
+  pitch: -9.571684837341309
+  world-name: ''
+afk: false
+ip-address: 78.244.128.170
+last-account-name: TheKiki730
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

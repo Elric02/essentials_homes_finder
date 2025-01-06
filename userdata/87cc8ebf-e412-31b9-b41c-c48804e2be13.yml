@@ -1,0 +1,221 @@
+timestamps:
+  login: 1689538256330
+  lastteleport: 1689538836507
+  logout: 1689538841794
+  kits:
+    color: 1667640514387
+    vip: 1668195594043
+    stationaute: 1668195606110
+    creatif: 1666868690429
+    explorateur: 1668260702840
+    ambassadeur: 1668195617455
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  lastheal: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1554.137499988079
+  y: 52.200000047683716
+  z: -2085.7894874040717
+  yaw: -178.648681640625
+  pitch: 30.440397262573242
+  world-name: world
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5397.977037058714
+    y: 64.0
+    z: 1414.2781985236466
+    yaw: -51.814247131347656
+    pitch: 0.15008209645748138
+    world-name: world
+  lianne:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5374.5
+    y: 24.0
+    z: 1449.5
+    yaw: -271.4140625
+    pitch: 20.413070678710938
+    world-name: world
+  secret:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1349.5
+    y: 92.0
+    z: -5608.5
+    yaw: 1.922776460647583
+    pitch: 12.123156547546387
+    world-name: world
+  trolgar:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6050.5
+    y: 66.0
+    z: -4767.5
+    yaw: 164.5389862060547
+    pitch: 20.695533752441406
+    world-name: world
+  ville:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5574.5
+    y: 65.0
+    z: 534.5
+    yaw: -45.04150390625
+    pitch: -0.014264604076743126
+    world-name: world
+  nether:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: 1613.7680324823907
+    y: 59.0
+    z: -629.9845273717905
+    yaw: -150.46078491210938
+    pitch: 20.51129722595215
+    world-name: Nether
+  pillard:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -7392.847756307064
+    y: 75.0
+    z: 6666.300000011921
+    yaw: 25.11477279663086
+    pitch: 13.899994850158691
+    world-name: world
+  test:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5279.536135779566
+    y: 69.0
+    z: 1413.3302969625447
+    yaw: -89.33379364013672
+    pitch: 3.170656681060791
+    world-name: world
+  wither:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: 2252.300000011921
+    y: 59.0
+    z: -231.74321136041215
+    yaw: -87.6619873046875
+    pitch: 24.676389694213867
+    world-name: Nether
+  oui:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4626.5
+    y: 63.0
+    z: -4886.5
+    yaw: -64.60257720947266
+    pitch: 12.312819480895996
+    world-name: world
+  natu:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6941.972016960563
+    y: 66.0
+    z: 2060.131288939603
+    yaw: 325.6011657714844
+    pitch: 53.7702751159668
+    world-name: world
+  ville2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 215.4402906467071
+    y: 68.0
+    z: -5409.459025172524
+    yaw: -218.19970703125
+    pitch: 28.23310661315918
+    world-name: world
+  poisson:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6339.351974471654
+    y: 200.0
+    z: 981.5350727153319
+    yaw: -94.63883209228516
+    pitch: 90.0
+  althium:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -994.7137655524971
+    y: 92.0
+    z: -1610.4845850118209
+    yaw: -176.39913940429688
+    pitch: 18.749845504760742
+  baseg:
+    world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+    world-name: grosPlot
+    x: 216.45927217052204
+    y: 60.0
+    z: -431.60037763062684
+    yaw: -43.49981689453125
+    pitch: -0.1500307321548462
+  bastillon:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5239.637274747773
+    y: -20.0
+    z: 1316.574250770913
+    yaw: 86.783935546875
+    pitch: 64.81143188476562
+  patate:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -44.233788727258684
+    y: 32.0
+    z: 101.30000001192093
+    yaw: -15.130111694335938
+    pitch: 23.849746704101562
+  carotte:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 105.73003283170237
+    y: 9.0
+    z: 142.30000001192093
+    yaw: -7.750679969787598
+    pitch: 7.049520969390869
+  araigner:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -3962.6906907784523
+    y: -35.0
+    z: -1976.1097384723023
+    yaw: 121.57928466796875
+    pitch: 6.899932861328125
+money: '413609.57800000000053'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -5382.296524413682
+  y: 64.0
+  z: 1425.638214577854
+  yaw: -49.26423645019531
+  pitch: 0.30008211731910706
+  world-name: world
+nickname: §2Me§ave§enn§6ou
+afk: false
+muted: false
+jailed: false
+ip-address: 37.167.214.59
+last-account-name: mevennou
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+mail:
+- legacy: false
+  read: true
+  message: on fait aller et toi ?
+  sender-name: naturalizee
+  sender-uuid: cc702e34-b94b-3106-b41f-f357d3bf3dac
+  timestamp: 1672240487072
+  expire: 0
+- legacy: false
+  read: true
+  message: quoi ?
+  sender-name: naturalizee
+  sender-uuid: cc702e34-b94b-3106-b41f-f357d3bf3dac
+  timestamp: 1671972667719
+  expire: 0
+- legacy: false
+  read: true
+  message: Ca va la dupli ?
+  sender-name: naturalizee
+  sender-uuid: cc702e34-b94b-3106-b41f-f357d3bf3dac
+  timestamp: 1669847724417
+  expire: 0

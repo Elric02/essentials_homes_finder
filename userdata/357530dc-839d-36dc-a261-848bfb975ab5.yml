@@ -1,0 +1,47 @@
+timestamps:
+  login: 1516191191578
+  lastteleport: 1516051464786
+  logout: 1516192363055
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -4473.701146173662
+  y: 65.0
+  z: -7022.317751166317
+  yaw: 29.024120330810547
+  pitch: 19.017921447753906
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -56.4826108419692
+    y: 67.0
+    z: -354.4600359587372
+    yaw: -133.56744384765625
+    pitch: 18.74996566772461
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 7.300280738940867
+  y: 75.0
+  z: -321.2975098525302
+  yaw: -1.8056640625
+  pitch: 25.458837509155273
+  world-name: ''
+afk: false
+ip-address: 2.8.77.7
+last-account-name: Benny
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1556115154499
+  logout: 1556115231925
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 142.51338139237845
+  y: 64.0
+  z: 22.293817392305076
+  yaw: 138.5581817626953
+  pitch: 14.061001777648926
+  world-name: ''
+ip-address: 184.144.155.69
+last-account-name: Will_Fox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

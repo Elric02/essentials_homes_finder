@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616347222421
+  lastteleport: 1616334146137
+  logout: 1616347262543
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3528.170470899638
+  y: 209.0625
+  z: 3613.223425809514
+  yaw: 76.2806625366211
+  pitch: 12.150038719177246
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4977.208736484491
+  y: 71.0
+  z: -531.3342919325232
+  yaw: 96.44155883789062
+  pitch: -16.500244140625
+  world-name: ''
+ip-address: 91.168.133.223
+last-account-name: Ekoiliseur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

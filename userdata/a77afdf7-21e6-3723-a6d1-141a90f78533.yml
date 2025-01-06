@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480969154600
+  logout: 1480969156864
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 118.95414324854127
+  y: 74.0
+  z: 53.002072374327305
+  yaw: -131.623291015625
+  pitch: 51.66423034667969
+  world-name: ''
+ip-address: 78.237.163.232
+last-account-name: miny_MT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

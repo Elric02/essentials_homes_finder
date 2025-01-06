@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 217.28.29.77
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1641951811248
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1641951899605
+  login: 1641948374007
+money: '0'
+last-account-name: percy
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.46521892831012
+  y: 64.0
+  z: 20.48777056031434
+  yaw: 189.7101593017578
+  pitch: 4.72831916809082
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 145.26620886297223
+  y: 63.0
+  z: 10.254103664378878
+  yaw: 140.8102264404297
+  pitch: 17.328296661376953
+homes:
+  bse:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3002.298097733481
+    y: 63.0
+    z: -1519.8348638196321
+    yaw: -164.396728515625
+    pitch: 40.64980697631836

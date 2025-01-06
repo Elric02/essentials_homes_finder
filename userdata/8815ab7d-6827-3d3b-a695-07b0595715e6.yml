@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.110.31.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1673465998663
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673466102332
+  login: 1673465957994
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.68498177991506
+  y: 81.0
+  z: -3109.9306157260285
+  yaw: -102.29822540283203
+  pitch: 2.5499560832977295
+last-account-name: Shini5005
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -426.2097411051523
+  y: 67.73824005750406
+  z: 374.25496366470855
+  yaw: -44.04833984375
+  pitch: 29.249027252197266

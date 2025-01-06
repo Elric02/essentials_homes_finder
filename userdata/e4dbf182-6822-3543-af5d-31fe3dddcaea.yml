@@ -1,0 +1,39 @@
+timestamps:
+  login: 1520702441079
+  lastteleport: 1520702988223
+  mute: 0
+  logout: 1520703243748
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -11.570831298828125
+  pitch: 10.078670501708984
+  world-name: ''
+jailed: true
+jail: pirate
+muted: true
+logoutlocation:
+  world: world
+  x: 67.07499998807907
+  y: 70.0
+  z: 112.07499998807907
+  yaw: 135.5374755859375
+  pitch: 33.15000534057617
+  world-name: ''
+ip-address: 109.94.34.105
+last-account-name: sosouka
+teleportenabled: true
+teleportauto: false
+godmode: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1588953452548
+  logout: 1588954151040
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 161.02487564000958
+  y: 64.0
+  z: 17.762778575193863
+  yaw: -261.6212463378906
+  pitch: -5.671390533447266
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1314.9916927204963
+  y: 73.0
+  z: -4536.335229825623
+  yaw: -227.83001708984375
+  pitch: 27.77555274963379
+  world-name: ''
+ip-address: 93.22.150.145
+last-account-name: Cvoui77
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

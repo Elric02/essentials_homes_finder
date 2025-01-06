@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514376382946
+  logout: 1514376419470
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 144.67746922419587
+  y: 64.0
+  z: 12.547095872254683
+  yaw: 252.24700927734375
+  pitch: 32.940650939941406
+  world-name: ''
+ip-address: 78.120.178.32
+last-account-name: ZeroxarZ_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

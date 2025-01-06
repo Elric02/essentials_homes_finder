@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.156.178.115
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1666297650152
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1666298166503
+  login: 1666296707251
+  kits:
+    stationaute: 1666297860975
+money: '50.0'
+last-account-name: Maximoo14
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -5198.797403980414
+  y: 71.0
+  z: -4053.382647893554
+  yaw: -157.77178955078125
+  pitch: 23.701793670654297
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 105.58971763384166
+  y: 63.0
+  z: 23.15354375059388
+  yaw: 87.51206970214844
+  pitch: 4.999031066894531

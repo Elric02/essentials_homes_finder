@@ -1,0 +1,38 @@
+timestamps:
+  login: 1620921846002
+  lastteleport: 1620921735265
+  logout: 1620921917205
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 3672.431278895636
+  y: 73.0
+  z: -3321.0174483405667
+  yaw: -106.96804809570312
+  pitch: 17.100006103515625
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 3437.8248237228013
+  y: 63.0
+  z: 3065.094976739269
+  yaw: -43.20579528808594
+  pitch: 27.600126266479492
+  world-name: ''
+ip-address: 90.22.152.25
+last-account-name: RushuSan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

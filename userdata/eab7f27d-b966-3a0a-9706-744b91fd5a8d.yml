@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519493896707
+  lastteleport: 1519493942711
+  logout: 1519493980505
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: 5.169049321149201
+  y: 61.0
+  z: -10.427945457647432
+  yaw: -58.7130241394043
+  pitch: 40.912269592285156
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1458.5227827515048
+  y: 64.0
+  z: -2178.2379970495404
+  yaw: 155.66171264648438
+  pitch: 8.832109451293945
+  world-name: ''
+ip-address: 82.146.210.59
+last-account-name: supernova529
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1623679285391
+  lastteleport: 1623679517449
+  logout: 1623679532338
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 120.37246326769018
+  y: 11.0
+  z: 160.69999998807907
+  yaw: 176.69851684570312
+  pitch: 90.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2855.1147142021946
+  y: 64.0
+  z: -6542.424768392695
+  yaw: 50.24906539916992
+  pitch: 46.50004959106445
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -2852.581054770137
+    y: 64.0
+    z: -6546.470464488985
+    yaw: 142.64907836914062
+    pitch: 90.0
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 121.60714721745867
+    y: 10.0
+    z: 36.30000001192093
+    yaw: 93.900146484375
+    pitch: 90.0
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 109.21.117.153
+last-account-name: WarCookie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

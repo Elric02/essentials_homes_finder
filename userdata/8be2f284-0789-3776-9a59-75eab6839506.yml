@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470401097048
+  logout: 1470401155342
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 162.27852107915726
+  y: 64.875
+  z: 12.56551825650513
+  yaw: -99.14360046386719
+  pitch: 89.8461685180664
+  world-name: ''
+ip-address: 86.215.82.166
+last-account-name: dark_full_angel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

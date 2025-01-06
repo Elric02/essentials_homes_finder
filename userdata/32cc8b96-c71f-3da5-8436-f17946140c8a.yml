@@ -1,0 +1,63 @@
+timestamps:
+  login: 1477686610306
+  lastteleport: 1477687507621
+  logout: 1477687549688
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 167.58137739099533
+  y: 63.5
+  z: 21.553752339875363
+  yaw: -111.06082916259766
+  pitch: 13.52453327178955
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 160.50569720482846
+  y: 64.0
+  z: 21.169658822167467
+  yaw: -57.21084213256836
+  pitch: 12.474520683288574
+  world-name: ''
+afk: false
+homes:
+  de:
+    world: world
+    x: -6982.678754670148
+    y: 64.0
+    z: -5102.960200461141
+    yaw: -179.84588623046875
+    pitch: 11.850038528442383
+    world-name: ''
+  home:
+    world: world
+    x: -6982.405911886761
+    y: 64.0
+    z: -5098.085036913202
+    yaw: -312.89581298828125
+    pitch: 16.500041961669922
+    world-name: ''
+  gameur146:
+    world: world
+    x: -6983.066292418253
+    y: 64.0
+    z: -5098.494479242836
+    yaw: -192.595703125
+    pitch: 8.700044631958008
+    world-name: ''
+ip-address: 24.212.86.21
+last-account-name: Gameur146
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

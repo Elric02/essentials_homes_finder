@@ -1,0 +1,38 @@
+timestamps:
+  login: 1515167482643
+  logout: 1515167565110
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4109.189288943577
+  y: 67.0
+  z: -4076.012679857279
+  yaw: 172.19993591308594
+  pitch: 32.99994659423828
+  world-name: ''
+ip-address: 80.214.210.16
+last-account-name: Geicko71
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1620235239866
+  lastteleport: 1620235963415
+  logout: 1620236617352
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6308.118365407969
+  y: 51.0
+  z: 4334.82222569687
+  yaw: 87.912841796875
+  pitch: 7.988397598266602
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6244.099339991888
+    y: 106.0
+    z: 4420.575911066316
+    yaw: 180.39813232421875
+    pitch: 17.249988555908203
+    world-name: ''
+  arthias:
+    world: world
+    x: 308.65886822215487
+    y: 92.0
+    z: 2156.416938315179
+    yaw: 93.23919677734375
+    pitch: 1.1999839544296265
+    world-name: ''
+  droom:
+    world: world
+    x: 6246.578185611659
+    y: 63.0
+    z: 4562.294234583059
+    yaw: 357.8480224609375
+    pitch: 14.849981307983398
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 6404.0099826846745
+  y: 43.24914838846702
+  z: 4253.2588189236285
+  yaw: -209.27426147460938
+  pitch: 20.463050842285156
+  world-name: ''
+afk: false
+ip-address: 92.107.117.28
+last-account-name: belgie_ni
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

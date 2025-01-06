@@ -1,0 +1,38 @@
+timestamps:
+  login: 1583341919051
+  lastteleport: 1583343147436
+  logout: 1583343363138
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 206.5340479165058
+  y: 63.0
+  z: 21.358413033594683
+  yaw: -86.27091979980469
+  pitch: 0.3287062644958496
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 6029.840968239428
+  y: 63.0
+  z: -5364.173897690948
+  yaw: 300.1506652832031
+  pitch: 4.350036144256592
+  world-name: ''
+money: '0'
+ip-address: 89.84.25.143
+last-account-name: Curu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

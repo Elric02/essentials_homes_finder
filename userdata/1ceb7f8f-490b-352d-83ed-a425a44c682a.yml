@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499686422520
+  lastteleport: 1499686491337
+  logout: 1499686699936
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4738.573672074167
+  y: 82.0
+  z: 6918.375095116124
+  yaw: -32.075836181640625
+  pitch: 5.3999857902526855
+  world-name: ''
+logoutlocation:
+  world: Event
+  x: 625.0729993113285
+  y: 74.0
+  z: -1499.9685895150456
+  yaw: 287.01702880859375
+  pitch: 4.842916011810303
+  world-name: ''
+ip-address: 90.25.126.6
+last-account-name: kylian_du_26
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

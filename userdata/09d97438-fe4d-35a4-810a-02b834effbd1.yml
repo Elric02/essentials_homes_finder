@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.27.10.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1681544623600
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681544709999
+  login: 1681544559585
+money: '0'
+last-account-name: chouchoulebg
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.44641610621716
+  y: 81.0
+  z: -3108.7514432630173
+  yaw: -133.8070068359375
+  pitch: 7.349511623382568
+homes:
+  home:
+    world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+    world-name: grosPlot
+    x: -383.20357959269614
+    y: 43.8939036394895
+    z: 66.22197939257593
+    yaw: -113.18810272216797
+    pitch: 6.599112510681152
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -291.0898219914346
+  y: 33.0
+  z: 143.62487615091314
+  yaw: -31.437747955322266
+  pitch: 56.549259185791016

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1566762506458
+  logout: 1566762785281
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -58.85640009248843
+  y: 65.0
+  z: -162.55049264235063
+  yaw: -73.04151153564453
+  pitch: 43.05020523071289
+  world-name: ''
+ip-address: 86.207.97.18
+last-account-name: portay
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

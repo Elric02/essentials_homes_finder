@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492111441768
+  lastteleport: 1492111473777
+  logout: 1492112582581
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.86854764219964
+  y: 63.0
+  z: 47.855554705430826
+  yaw: -270.3026123046875
+  pitch: -6.986158847808838
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -225.05451669900236
+  y: 47.0
+  z: 507.61455545480226
+  yaw: -97.54632568359375
+  pitch: 13.520628929138184
+  world-name: ''
+ip-address: 91.180.127.151
+last-account-name: LeGlandBleu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

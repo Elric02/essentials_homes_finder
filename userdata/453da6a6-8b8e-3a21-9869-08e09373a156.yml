@@ -1,0 +1,63 @@
+timestamps:
+  login: 1571997138672
+  lastteleport: 1569515772918
+  logout: 1571997596573
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: 1612.4043718287337
+  y: 53.0
+  z: -55.52222265915028
+  yaw: -177.77340698242188
+  pitch: 49.50012969970703
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 150.98333716442247
+    y: 70.0
+    z: -1702.082435035746
+    yaw: -182.81085205078125
+    pitch: -9.750044822692871
+    world-name: ''
+  cacao:
+    world: Ressource
+    x: 291.8939140420877
+    y: 68.0
+    z: -1726.6185988263296
+    yaw: -97.19995880126953
+    pitch: 6.299987316131592
+    world-name: ''
+  poule:
+    world: world
+    x: 142.23094199857476
+    y: 71.5
+    z: -1697.0570594468438
+    yaw: -6.074115753173828
+    pitch: 48.60007095336914
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 143.6304335024987
+  y: 76.0
+  z: -1705.3666193723718
+  yaw: -26.257617950439453
+  pitch: 72.00053405761719
+  world-name: ''
+ip-address: 176.175.32.130
+last-account-name: CYS7
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

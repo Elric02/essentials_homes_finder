@@ -1,0 +1,65 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.190.68.82
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1633370720833
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1634392937840
+  login: 1634392780185
+  kits:
+    vip: 1633266840769
+money: '0'
+last-account-name: neffex123
+lastlocation:
+  world: 32927a96-bbc5-4c1f-99d4-ff633cb0f27a
+  world-name: End
+  x: -329.450069282079
+  y: 1.0
+  z: -2.300000011920929
+  yaw: -69.7276611328125
+  pitch: 2.2505640983581543
+homes:
+  b:
+    world: 72881a70-0539-4344-a645-fa1d7b7818ea
+    world-name: Ressource
+    x: 3619.005655223918
+    y: 12.0
+    z: 3110.7348635050575
+    yaw: -292.5203857421875
+    pitch: 23.100284576416016
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6774.921686480336
+    y: 63.0
+    z: 1761.019175530774
+    yaw: -86.39799499511719
+    pitch: 23.099903106689453
+  end:
+    world: 32927a96-bbc5-4c1f-99d4-ff633cb0f27a
+    world-name: End
+    x: 528.2684586754187
+    y: 57.0
+    z: -46.28328586344511
+    yaw: -91.80874633789062
+    pitch: 20.249662399291992
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 6776.623721595412
+  y: 63.0
+  z: 1761.449259721821
+  yaw: -166.79725646972656
+  pitch: 7.113086700439453

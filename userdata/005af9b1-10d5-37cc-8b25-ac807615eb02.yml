@@ -1,0 +1,38 @@
+timestamps:
+  login: 1555682883136
+  lastteleport: 1555683481500
+  logout: 1555683564633
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1459.0536166218678
+  y: 64.0
+  z: -2168.3213474898016
+  yaw: 5.177181243896484
+  pitch: -16.964048385620117
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 2305.950803493115
+  y: 78.0
+  z: 2099.0282907400556
+  yaw: -0.450531005859375
+  pitch: 4.350050449371338
+  world-name: ''
+ip-address: 90.55.57.79
+last-account-name: Ambrouille
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

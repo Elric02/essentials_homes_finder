@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478892533675
+  lastteleport: 1478892580267
+  logout: 1478892637990
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1814.0
+  y: 101.0
+  z: 4046.0
+  yaw: -112.79997253417969
+  pitch: 58.79999923706055
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -552.6113362451412
+  y: 65.0
+  z: -782.3927309638369
+  yaw: 281.7528991699219
+  pitch: 30.749988555908203
+  world-name: ''
+ip-address: 92.135.137.140
+last-account-name: Mmargaux
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

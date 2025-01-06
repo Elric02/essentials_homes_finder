@@ -1,0 +1,38 @@
+timestamps:
+  login: 1556115748095
+  lastteleport: 1556115095700
+  logout: 1556115823836
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 104.76151037685031
+  y: 64.0
+  z: -38.612242112662074
+  yaw: 27.15203857421875
+  pitch: 40.08394241333008
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4776.281241142549
+  y: 71.0
+  z: -433.3509610818012
+  yaw: -94.11170196533203
+  pitch: 42.59520721435547
+  world-name: ''
+ip-address: 91.177.129.182
+last-account-name: Sharkdipus
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

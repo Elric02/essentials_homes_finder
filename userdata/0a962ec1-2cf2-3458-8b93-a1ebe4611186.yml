@@ -1,0 +1,55 @@
+timestamps:
+  login: 1503405654609
+  lastteleport: 1503407395331
+  logout: 1503407409887
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2046.6626280217129
+  y: 66.0
+  z: 5159.555357615016
+  yaw: -205.34649658203125
+  pitch: 16.28458595275879
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  maison:
+    world: world
+    x: -2072.7249238796367
+    y: 64.0
+    z: 5175.130751097999
+    yaw: -275.8916931152344
+    pitch: 28.746625900268555
+    world-name: ''
+  des:
+    world: world
+    x: -2044.965631574087
+    y: 59.0
+    z: 5156.514723215751
+    yaw: -90.2822265625
+    pitch: 7.957170486450195
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -2043.569264480391
+  y: 59.0
+  z: 5160.088741962472
+  yaw: -65.44583129882812
+  pitch: 8.471224784851074
+  world-name: ''
+ip-address: 79.88.151.175
+last-account-name: bouillle80210
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

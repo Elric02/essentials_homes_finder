@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526218484997
+  lastteleport: 1526219155031
+  logout: 1526219426975
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.12368117659332
+  y: 77.0
+  z: 2159.2116210063273
+  yaw: -117.72305297851562
+  pitch: 17.10003662109375
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 145.27515359333628
+  y: 75.5
+  z: 2171.4376800352297
+  yaw: 264.47283935546875
+  pitch: 56.700016021728516
+  world-name: ''
+ip-address: 149.154.255.72
+last-account-name: Marasane
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

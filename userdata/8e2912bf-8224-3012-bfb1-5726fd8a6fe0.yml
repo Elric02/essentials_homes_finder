@@ -1,0 +1,47 @@
+timestamps:
+  login: 1497635206178
+  lastteleport: 1497638587424
+  mute: 0
+  logout: 1497640043382
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 26.2109856583692
+  y: 89.5
+  z: 2.1429980031249367
+  yaw: -128.23202514648438
+  pitch: 37.81300735473633
+  world-name: ''
+money: '0'
+muted: false
+homes:
+  home:
+    world: world
+    x: -3086.468391549035
+    y: 69.0
+    z: 6078.462067736357
+    yaw: 319.46142578125
+    pitch: 10.9232816696167
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -3114.0208892517835
+  y: 64.0
+  z: 6077.674743434043
+  yaw: 281.04376220703125
+  pitch: 31.28597068786621
+  world-name: ''
+ip-address: 88.168.224.138
+last-account-name: Jump360
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

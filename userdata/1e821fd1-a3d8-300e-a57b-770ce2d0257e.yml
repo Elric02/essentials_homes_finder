@@ -1,0 +1,47 @@
+timestamps:
+  login: 1501543093262
+  logout: 1501543105105
+  lastteleport: 1501361435863
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6683.122708250415
+  y: 75.0
+  z: 2982.699999988079
+  yaw: 92.0997314453125
+  pitch: 4.3499932289123535
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5602.438169482427
+  y: 68.9375
+  z: 2050.829890735761
+  yaw: 136.70126342773438
+  pitch: 14.250018119812012
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  _tarville_:
+    world: world
+    x: -5655.661639652735
+    y: 70.0
+    z: 2138.5400119425926
+    yaw: 177.20018005371094
+    pitch: 20.549949645996094
+    world-name: ''
+ip-address: 78.235.104.132
+last-account-name: FURK0Z
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1559751736009
+  logout: 1559751780316
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.14823212078127
+  y: 65.99789179154453
+  z: 105.35326866731934
+  yaw: -45.20298767089844
+  pitch: 35.70001220703125
+  world-name: ''
+ip-address: 86.218.239.145
+last-account-name: FanPaoloXbox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

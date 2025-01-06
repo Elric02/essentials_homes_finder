@@ -1,0 +1,38 @@
+timestamps:
+  login: 1628887623365
+  logout: 1628889600615
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4848.48001652076
+  y: 82.0
+  z: 5020.71439425632
+  yaw: -355.95599365234375
+  pitch: 6.74988317489624
+  world-name: ''
+money: '0'
+ip-address: 88.169.246.81
+last-account-name: PinkEvilFlower
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

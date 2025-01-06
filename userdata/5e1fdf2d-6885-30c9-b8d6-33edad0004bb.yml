@@ -1,0 +1,38 @@
+timestamps:
+  login: 1540835536036
+  lastteleport: 1540835913174
+  logout: 1540836363600
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.4402189823892
+  y: 64.0
+  z: 24.25200941956761
+  yaw: -104.12081146240234
+  pitch: -2.3713295459747314
+  world-name: ''
+afk: false
+logoutlocation:
+  world: Ressource
+  x: -569.9161784443589
+  y: 71.0
+  z: 1273.9621714869543
+  yaw: 202.349365234375
+  pitch: 35.99995803833008
+  world-name: ''
+ip-address: 105.156.112.134
+last-account-name: ZeTioZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

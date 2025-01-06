@@ -1,0 +1,38 @@
+timestamps:
+  login: 1599845333172
+  logout: 1599845419777
+  lastteleport: 1599845383161
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -4.255177576115882
+  y: 89.5
+  z: -2.402539089034683
+  yaw: 114.37894439697266
+  pitch: -5.47921085357666
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 161.04352718088853
+  y: 64.0
+  z: 19.740738101854603
+  yaw: -87.49920654296875
+  pitch: 22.880571365356445
+  world-name: ''
+money: '0'
+ip-address: 92.188.110.18
+last-account-name: Two_choute_yt
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

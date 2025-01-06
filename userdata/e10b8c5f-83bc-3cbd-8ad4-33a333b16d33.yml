@@ -1,0 +1,47 @@
+timestamps:
+  login: 1541270362726
+  lastteleport: 1541269599036
+  logout: 1541270383700
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.80512125219911
+  y: 64.0
+  z: 17.431978220020213
+  yaw: 4.329238414764404
+  pitch: -14.221335411071777
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2432.477993553774
+    y: 92.0
+    z: 2306.957321779822
+    yaw: -167.54653930664062
+    pitch: 33.29995346069336
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 2428.3627512323255
+  y: 86.0
+  z: 2305.0272224789633
+  yaw: 306.0855407714844
+  pitch: 13.886933326721191
+  world-name: ''
+ip-address: 62.202.183.116
+last-account-name: bestgaeul
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

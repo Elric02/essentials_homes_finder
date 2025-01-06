@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526819407193
+  lastteleport: 1526819417838
+  logout: 1526819460732
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.5
+  y: 65.0
+  z: 100.5
+  yaw: 161.346923828125
+  pitch: 2.0406527519226074
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 160.46906348272577
+  y: 64.0
+  z: 21.478342699412526
+  yaw: -315.9671325683594
+  pitch: 8.914188385009766
+  world-name: ''
+ip-address: 2.4.57.19
+last-account-name: kenjaca
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,71 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.237.182.220
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1644751855340
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644751923989
+  login: 1644751783712
+money: '0'
+last-account-name: MatSkyy
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -397.4358741427462
+  y: 80.0
+  z: 386.48750001192093
+  yaw: 139.79299926757812
+  pitch: 19.649869918823242
+homes:
+  ville:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6273.735343131654
+    y: 63.0
+    z: 5381.362055295342
+    yaw: 111.79000091552734
+    pitch: 25.64995574951172
+  basefk:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 4995.444007948533
+    y: 63.0
+    z: 5491.3185375701705
+    yaw: -268.650146484375
+    pitch: 4.500030517578125
+  ferme_cannasucre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6313.22929662701
+    y: 63.0
+    z: 5258.054242216486
+    yaw: -90.85910034179688
+    pitch: 6.599940776824951
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -6314.279074205623
+  y: 63.0
+  z: 5257.465832257443
+  yaw: 162.64031982421875
+  pitch: 16.499814987182617
+mail:
+- legacy: false
+  read: true
+  message: Dois-je te rappeller que c'est du flood ton "++++[...]++" ?
+  sender-name: naturalizee
+  sender-uuid: cc702e34-b94b-3106-b41f-f357d3bf3dac
+  timestamp: 1642698039402
+  expire: 0

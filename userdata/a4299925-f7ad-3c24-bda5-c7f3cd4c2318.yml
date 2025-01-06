@@ -1,0 +1,55 @@
+timestamps:
+  login: 1477573298422
+  lastteleport: 1477573643231
+  logout: 1477573915137
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 72.38696359991083
+  y: 89.0
+  z: 727.1333931130564
+  yaw: 290.3981628417969
+  pitch: 53.54998779296875
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: ressource
+    x: 6440.300000011921
+    y: 73.0
+    z: -1516.638057363879
+    yaw: -53.1002197265625
+    pitch: 46.65000534057617
+    world-name: ''
+  mine:
+    world: ressource
+    x: 70.30000001192093
+    y: 85.0
+    z: 723.8541565385306
+    yaw: -34.651824951171875
+    pitch: 59.8499870300293
+    world-name: ''
+afk: false
+logoutlocation:
+  world: ressource
+  x: 6441.658402211882
+  y: 73.0
+  z: -1513.6411930346367
+  yaw: 202.65576171875
+  pitch: 43.19997024536133
+  world-name: ''
+ip-address: 86.199.26.27
+last-account-name: LeMineurUltime
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

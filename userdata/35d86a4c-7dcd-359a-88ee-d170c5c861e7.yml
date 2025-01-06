@@ -1,0 +1,47 @@
+timestamps:
+  login: 1526157688656
+  lastteleport: 1526155368317
+  logout: 1526157726134
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 199.55329197265812
+  y: 80.0
+  z: 2190.9060884438727
+  yaw: 25.805328369140625
+  pitch: -2.5445961952209473
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2019.886275586883
+    y: 75.0
+    z: 2981.345045038949
+    yaw: -85.56177520751953
+    pitch: 29.779335021972656
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1995.7463418449543
+  y: 70.0
+  z: 2974.7621177665023
+  yaw: -345.49261474609375
+  pitch: 21.142559051513672
+  world-name: ''
+afk: false
+ip-address: 91.91.55.83
+last-account-name: baba2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

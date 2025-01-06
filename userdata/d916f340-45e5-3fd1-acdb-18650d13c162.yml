@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467372345846
+  logout: 1467372536557
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -97.30695375796185
+  y: 62.0
+  z: 82.04859948567258
+  yaw: -304.3593444824219
+  pitch: 54.72831344604492
+  world-name: ''
+ip-address: 82.241.223.206
+last-account-name: alexandreB94
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

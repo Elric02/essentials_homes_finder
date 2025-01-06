@@ -1,0 +1,38 @@
+timestamps:
+  login: 1535985708024
+  lastteleport: 1535985842025
+  logout: 1535986246330
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.91371751199276
+  y: 63.0
+  z: 57.03375480474679
+  yaw: 311.0475158691406
+  pitch: -3.509340286254883
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -205.30000001192093
+  y: 33.0
+  z: -13.564861357069315
+  yaw: -32.7000732421875
+  pitch: 16.94992446899414
+  world-name: ''
+ip-address: 176.188.106.87
+last-account-name: Axiz7
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

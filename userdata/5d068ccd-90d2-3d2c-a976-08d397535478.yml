@@ -1,0 +1,38 @@
+timestamps:
+  login: 1491766715850
+  lastteleport: 1491767869231
+  logout: 1491768182534
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6758.916562994657
+  y: 70.0
+  z: 6633.984295078565
+  yaw: 286.279052734375
+  pitch: -26.39995765686035
+  world-name: ''
+ip-address: 109.222.101.252
+last-account-name: Pounky
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1502385931299
+  logout: 1502386205966
+  lastteleport: 1500843627284
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 787.8030255168784
+  y: 4.0
+  z: -1413.242516068269
+  yaw: -108.450439453125
+  pitch: 26.153907775878906
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4675.818872366408
+  y: 78.0
+  z: -3757.808206453337
+  yaw: -240.8828125
+  pitch: 2.9162425994873047
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 4678.54268306336
+    y: 67.0
+    z: -3766.050798595981
+    yaw: -182.5192108154297
+    pitch: 36.00053787231445
+    world-name: ''
+ip-address: 93.7.24.45
+last-account-name: Kyoumi_Nakajima
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

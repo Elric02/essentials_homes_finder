@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558997423207
+  lastteleport: 1558997701654
+  logout: 1558999162904
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 161.02651907477016
+  y: 63.0
+  z: 64.78745941146553
+  yaw: 135.24667358398438
+  pitch: 1.5906498432159424
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -1304.2009430125358
+  y: 11.0
+  z: -336.69999998807907
+  yaw: -345.599853515625
+  pitch: 41.09992218017578
+  world-name: ''
+ip-address: 81.254.154.203
+last-account-name: Ohhstreet
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

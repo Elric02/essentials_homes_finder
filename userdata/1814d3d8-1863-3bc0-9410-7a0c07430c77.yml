@@ -1,0 +1,63 @@
+timestamps:
+  login: 1544710584968
+  lastteleport: 1543709650559
+  logout: 1544711327857
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1518.0016329678692
+  y: 66.0
+  z: -2110.4742645001734
+  yaw: -299.4736022949219
+  pitch: 17.535844802856445
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1909.333204303205
+    y: 67.0625
+    z: -2162.4366589486963
+    yaw: -88.65838623046875
+    pitch: 15.599865913391113
+    world-name: ''
+  shop:
+    world: world
+    x: 1522.6709340196535
+    y: 66.0
+    z: -2110.004080611621
+    yaw: -358.423828125
+    pitch: 10.485852241516113
+    world-name: ''
+  sylvie:
+    world: world
+    x: -7360.067048655275
+    y: 40.5
+    z: -1515.0284021782134
+    yaw: -287.40679931640625
+    pitch: 50.6999397277832
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 153.5269690489466
+  y: 64.0
+  z: 22.215791785909474
+  yaw: -204.62086486816406
+  pitch: 13.828669548034668
+  world-name: ''
+ip-address: 86.233.62.124
+last-account-name: BearLegend
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

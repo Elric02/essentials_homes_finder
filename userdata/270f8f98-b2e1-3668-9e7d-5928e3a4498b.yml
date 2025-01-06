@@ -1,0 +1,63 @@
+timestamps:
+  login: 1497796717728
+  lastteleport: 1497801963134
+  logout: 1497803063298
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4286.978546657158
+  y: 99.0
+  z: 5315.970931984129
+  yaw: -273.28955078125
+  pitch: 59.19615173339844
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4295.743451559235
+  y: 90.0
+  z: 5339.632762231544
+  yaw: -155.5910186767578
+  pitch: 20.27240753173828
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 1665.699999988079
+    y: 79.0
+    z: 5344.463900309512
+    yaw: 313.4576721191406
+    pitch: 17.061279296875
+    world-name: ''
+  maison:
+    world: world
+    x: -4299.243794687665
+    y: 64.0
+    z: 5319.078924966149
+    yaw: -101.72200012207031
+    pitch: 2.687760353088379
+    world-name: ''
+  mine:
+    world: Ressource
+    x: -3658.1289514116575
+    y: 11.0
+    z: 3026.6992243123577
+    yaw: -15.819608688354492
+    pitch: 34.81923294067383
+    world-name: ''
+afk: false
+ip-address: 109.88.46.51
+last-account-name: cobraunie2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

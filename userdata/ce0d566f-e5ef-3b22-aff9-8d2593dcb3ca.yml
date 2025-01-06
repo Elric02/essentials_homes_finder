@@ -1,0 +1,47 @@
+timestamps:
+  login: 1469794523880
+  lastteleport: 1467821528795
+  logout: 1469794540672
+  jail: 0
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -156.3560367661819
+  y: 12.0
+  z: 567.4229373892024
+  yaw: 63.9001579284668
+  pitch: 7.950036525726318
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -592.6999999880791
+    y: 63.0
+    z: -447.71592529877046
+    yaw: 56.41965103149414
+    pitch: 25.6500244140625
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -492.2602670098736
+  y: 62.0
+  z: -442.9267592165146
+  yaw: 127.21991729736328
+  pitch: 15.149962425231934
+  world-name: ''
+afk: false
+jailed: false
+muted: true
+ip-address: 77.130.160.227
+last-account-name: TheFoxyGirl
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

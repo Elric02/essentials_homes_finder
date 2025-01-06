@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592300341473
+  lastteleport: 1592301797536
+  logout: 1592302646635
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -80.38442548128513
+  y: 69.0
+  z: -6.019617368468517
+  yaw: -178.78135681152344
+  pitch: 16.950578689575195
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.84719145658119
+  y: 63.0
+  z: 38.26093782196939
+  yaw: 297.12744140625
+  pitch: 11.849968910217285
+  world-name: ''
+ip-address: 90.104.195.250
+last-account-name: arthurgaming72
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511106945500
+  logout: 1511107002786
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.5239451897219
+  y: 63.0
+  z: 50.652056058804746
+  yaw: -0.669525146484375
+  pitch: -8.2059907913208
+  world-name: ''
+ip-address: 86.209.152.160
+last-account-name: Skaz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

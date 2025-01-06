@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480620393293
+  logout: 1480620458476
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.22677496381476
+  y: 64.0
+  z: 31.193036725415524
+  yaw: -179.29736328125
+  pitch: 16.147397994995117
+  world-name: ''
+ip-address: 82.239.106.176
+last-account-name: SSO_Yato
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

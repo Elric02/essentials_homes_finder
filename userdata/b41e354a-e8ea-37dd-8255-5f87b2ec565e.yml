@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518095978583
+  lastteleport: 1518096773840
+  logout: 1518097237055
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1.3862473068156422
+  y: 65.0
+  z: 26.858591687788884
+  yaw: -348.921142578125
+  pitch: 65.42870330810547
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 143.30000001192093
+  y: 81.0
+  z: -240.2494571577582
+  yaw: -144.17529296875
+  pitch: 27.899986267089844
+  world-name: ''
+ip-address: 77.192.94.107
+last-account-name: missouri
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

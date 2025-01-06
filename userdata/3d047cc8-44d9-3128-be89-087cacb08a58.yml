@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.26.224.250
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720595520228
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720595928649
+  login: 1720595264224
+money: '0'
+last-account-name: selyan19012012
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -119.44175698793492
+  y: 35.37429331309656
+  z: -111.65246897245758
+  yaw: -137.3417510986328
+  pitch: 26.09898567199707
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 216.7614743452247
+  y: 65.0
+  z: 489.4442613594531
+  yaw: -155.55270385742188
+  pitch: 6.299989700317383

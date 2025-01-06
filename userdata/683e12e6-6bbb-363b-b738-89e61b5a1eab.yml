@@ -1,0 +1,38 @@
+timestamps:
+  login: 1619273163028
+  lastteleport: 1619128699451
+  logout: 1619273198747
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.83070738950707
+  y: 27.0
+  z: 20.332323880588525
+  yaw: -92.64143371582031
+  pitch: 10.311773300170898
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 188.47095832423773
+  y: 80.0
+  z: -3813.1110712303157
+  yaw: 207.2103271484375
+  pitch: 14.203556060791016
+  world-name: ''
+ip-address: 90.90.137.178
+last-account-name: Nothdude_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

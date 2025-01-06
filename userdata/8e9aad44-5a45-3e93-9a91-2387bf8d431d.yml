@@ -1,0 +1,47 @@
+timestamps:
+  login: 1591727647514
+  lastteleport: 1591730322267
+  logout: 1591730494078
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 134.4152821094967
+  y: 64.5
+  z: -26.313488509670687
+  yaw: -222.77017211914062
+  pitch: 50.42875671386719
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -95.98197065193581
+  y: 75.0
+  z: 85.29794601423195
+  yaw: -337.5013122558594
+  pitch: 60.299415588378906
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -2790.8067505240692
+    y: 76.0
+    z: -5707.608281306515
+    yaw: 66.3069839477539
+    pitch: 25.499919891357422
+    world-name: ''
+ip-address: 92.139.10.65
+last-account-name: ethan2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

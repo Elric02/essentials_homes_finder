@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509825936550
+  logout: 1509827239065
+  lastteleport: 1509826728918
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 112.01466189518757
+  y: 64.5
+  z: -42.536001375647864
+  yaw: -63.9581298828125
+  pitch: 11.094675064086914
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.23019680624216
+  y: 65.0
+  z: 58.435491389396894
+  yaw: -136.16888427734375
+  pitch: 25.92317771911621
+  world-name: ''
+money: '0'
+ip-address: 78.243.123.135
+last-account-name: 3ZOZO3
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

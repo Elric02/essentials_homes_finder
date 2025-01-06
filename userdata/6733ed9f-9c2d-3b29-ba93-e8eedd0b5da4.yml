@@ -1,0 +1,63 @@
+timestamps:
+  login: 1626978732477
+  lastteleport: 1626985290645
+  logout: 1626985313115
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5219706617853
+  y: 64.0
+  z: 24.59015183032405
+  yaw: -181.14532470703125
+  pitch: 9.575874328613281
+  world-name: ''
+money: '0'
+homes:
+  re:
+    world: Ressource
+    x: 2847.699999988079
+    y: 72.0
+    z: 2306.898822871254
+    yaw: 253.943359375
+    pitch: 22.765464782714844
+    world-name: ''
+  ville:
+    world: world
+    x: -1007.7875175958551
+    y: 79.0
+    z: -5977.369952985454
+    yaw: 200.426025390625
+    pitch: 30.96739959716797
+    world-name: ''
+  eau:
+    world: Ressource
+    x: 2830.4904373660847
+    y: 69.0
+    z: 2318.6295745563916
+    yaw: 112.7373046875
+    pitch: 7.2472686767578125
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1011.3751314845057
+  y: 78.0
+  z: -5974.706965396523
+  yaw: 275.465087890625
+  pitch: -12.345555305480957
+  world-name: ''
+ip-address: 92.138.210.69
+last-account-name: DaneTheDinoo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

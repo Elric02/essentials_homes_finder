@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615918188966
+  lastteleport: 1615918409632
+  logout: 1615918782857
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1595.7234338458616
+  y: 63.0
+  z: -4495.093391029953
+  yaw: -63.29817199707031
+  pitch: 2.959517478942871
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2566.9290009693746
+  y: 67.33745340624799
+  z: -6009.398950851123
+  yaw: -104.11138916015625
+  pitch: 24.81175422668457
+  world-name: ''
+money: '0'
+ip-address: 92.152.95.74
+last-account-name: Gaz0pro28_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

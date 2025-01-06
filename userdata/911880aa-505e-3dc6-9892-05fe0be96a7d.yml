@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 93.26.177.106
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1636576906772
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1636577047971
+  login: 1636576327414
+money: '0'
+last-account-name: Sharox
+lastlocation:
+  world: d2e59b71-a6cc-46c3-9366-582a12c8b4fb
+  world-name: Ressource
+  x: -2433.1466857378227
+  y: 65.0
+  z: -1234.316005765756
+  yaw: 9.399751663208008
+  pitch: 1.9501279592514038
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4573.302045603977
+    y: 70.0
+    z: -4743.22769872546
+    yaw: 185.48915100097656
+    pitch: 43.77150344848633
+logoutlocation:
+  world: d2e59b71-a6cc-46c3-9366-582a12c8b4fb
+  world-name: Ressource
+  x: -2402.847098107605
+  y: 35.0
+  z: -1252.2804871626738
+  yaw: 334.342041015625
+  pitch: 22.80025291442871

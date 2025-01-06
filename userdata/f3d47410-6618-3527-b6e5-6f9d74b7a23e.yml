@@ -1,0 +1,47 @@
+timestamps:
+  login: 1618257468092
+  lastteleport: 1617798486087
+  logout: 1618257581714
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -809.521633075405
+  y: 105.0
+  z: 864.3024600501108
+  yaw: 183.60263061523438
+  pitch: 34.3499641418457
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: -814.1568427090615
+    y: 108.0
+    z: 859.6862223116794
+    yaw: 219.75198364257812
+    pitch: 34.79997253417969
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -813.9666422014161
+  y: 109.0
+  z: 859.8437610891789
+  yaw: 184.3517303466797
+  pitch: 26.999988555908203
+  world-name: ''
+afk: false
+ip-address: 90.109.121.196
+last-account-name: loupsauvage1432
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

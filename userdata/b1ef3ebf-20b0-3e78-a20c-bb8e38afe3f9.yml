@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.169.214.36
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1705227749285
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705228817987
+  login: 1705226278871
+money: '100.0'
+last-account-name: ghostryder052
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -508.88466911242796
+  y: 33.0
+  z: 675.4001283741098
+  yaw: -13.14047622680664
+  pitch: 14.099187850952148
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -483.6825305235362
+  y: 41.63048702347811
+  z: 683.0214890946048
+  yaw: -20.407958984375
+  pitch: -12.150123596191406

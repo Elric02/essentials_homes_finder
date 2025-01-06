@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618327823270
+  lastteleport: 1618327330966
+  logout: 1618328032077
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.14097800584187
+  y: 63.0
+  z: 54.9891278734305
+  yaw: -278.9463195800781
+  pitch: 8.975852012634277
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 154.5219706617853
+  y: 64.0
+  z: 24.59015183032405
+  yaw: -201.09547424316406
+  pitch: 19.325881958007812
+  world-name: ''
+money: '0'
+ip-address: 86.193.87.217
+last-account-name: ManuLeManu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

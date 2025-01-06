@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484597117431
+  lastteleport: 1484598737414
+  logout: 1484599331798
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4608.679165640249
+  y: 101.0
+  z: 3644.6697205306764
+  yaw: 185.850830078125
+  pitch: 44.85011291503906
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 6903.699999988079
+  y: 83.0
+  z: 4383.353603203646
+  yaw: -227.2476806640625
+  pitch: 21.149980545043945
+  world-name: ''
+ip-address: 78.232.89.77
+last-account-name: fabrisek
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

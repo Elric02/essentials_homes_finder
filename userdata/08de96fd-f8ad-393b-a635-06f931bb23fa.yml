@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477311281599
+  logout: 1477311333943
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.32923680726412
+  y: 63.0
+  z: 46.754551524893415
+  yaw: -269.56707763671875
+  pitch: 3.638817310333252
+  world-name: ''
+ip-address: 41.250.47.74
+last-account-name: Brako_Chwingom
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

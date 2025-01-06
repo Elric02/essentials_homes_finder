@@ -1,0 +1,87 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 99.227.67.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701546547708
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701546789158
+  login: 1701546284987
+money: '1065.68'
+last-account-name: suhyi
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 3654.5
+  y: 82.0
+  z: -6632.5
+  yaw: 179.95037841796875
+  pitch: 1.0678887367248535
+homes:
+  ? ''
+  : world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3654.5
+    y: 82.0
+    z: -6632.5
+    yaw: 179.95037841796875
+    pitch: 1.0678887367248535
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3654.5
+    y: 82.0
+    z: -6632.5
+    yaw: 179.95037841796875
+    pitch: 1.0678887367248535
+  new:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3393.520434000335
+    y: 66.0
+    z: -7280.5625089973155
+    yaw: -359.589111328125
+    pitch: 0.321439653635025
+  hauteur:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 4227.665090545004
+    y: 60.0
+    z: -5904.300000011921
+    yaw: -100.62060546875
+    pitch: 27.952991485595703
+  temple:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 4246.762499988079
+    y: 63.0
+    z: -5928.035252600853
+    yaw: -139.26254272460938
+    pitch: 31.328763961791992
+  farm:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 4202.539115981809
+    y: 13.0
+    z: -6039.463412531686
+    yaw: -162.7845916748047
+    pitch: 2.4458024501800537
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 3399.1056875781082
+  y: 65.0
+  z: -7278.182479116626
+  yaw: -52.554046630859375
+  pitch: 22.107385635375977

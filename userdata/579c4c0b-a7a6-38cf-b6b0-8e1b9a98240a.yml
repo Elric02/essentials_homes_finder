@@ -1,0 +1,63 @@
+timestamps:
+  login: 1469955917184
+  lastteleport: 1469957525119
+  logout: 1469957695753
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1722.1427006146696
+  y: 71.0
+  z: 1042.0848557213808
+  yaw: 226.5240478515625
+  pitch: 6.274868488311768
+  world-name: ''
+money: '0'
+homes:
+  lol:
+    world: world
+    x: 1720.2368055454374
+    y: 74.0
+    z: 1045.241908015766
+    yaw: 81.61199951171875
+    pitch: 20.465576171875
+    world-name: ''
+  mess:
+    world: world
+    x: 1847.9637612722734
+    y: 69.0
+    z: -5904.67740417052
+    yaw: -110.3427734375
+    pitch: 17.622262954711914
+    world-name: ''
+  ville:
+    world: world
+    x: 5895.74650449827
+    y: 98.0
+    z: 1258.3932680549005
+    yaw: 73.65481567382812
+    pitch: 13.370264053344727
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 169.30000001192093
+  y: 63.0
+  z: 4.699999988079073
+  yaw: -263.6243896484375
+  pitch: 12.564889907836914
+  world-name: ''
+afk: false
+ip-address: 178.83.111.132
+last-account-name: lopilopi1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1513954050374
+  logout: 1513954174734
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.69362603736803
+  y: 64.0
+  z: 22.224320558752943
+  yaw: 164.4221954345703
+  pitch: 44.356510162353516
+  world-name: ''
+ip-address: 105.108.15.197
+last-account-name: ARCHITECTE
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1567861698222
+  lastteleport: 1567100921048
+  logout: 1567861944002
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 240.29395378679763
+  y: 52.0
+  z: -3365.6482076631123
+  yaw: 333.3004150390625
+  pitch: 15.150003433227539
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 272.19704661678907
+    y: 46.0
+    z: -3304.6820778527554
+    yaw: 1.6516541242599487
+    pitch: 22.800029754638672
+    world-name: ''
+  n:
+    world: Nether
+    x: -228.93693731638766
+    y: 79.0
+    z: -65.30000001192096
+    yaw: -171.62405395507812
+    pitch: 1.1107325917691924E-5
+    world-name: ''
+  t:
+    world: world
+    x: 247.49784581399484
+    y: 25.0
+    z: -3349.253994153985
+    yaw: 4.951699256896973
+    pitch: 13.500052452087402
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 248.6795671786718
+  y: 11.0
+  z: -3358.5536183431473
+  yaw: 102.1505126953125
+  pitch: -90.0
+  world-name: ''
+ip-address: 176.134.28.90
+last-account-name: thewinneur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

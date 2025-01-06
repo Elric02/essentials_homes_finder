@@ -1,0 +1,38 @@
+timestamps:
+  login: 1602183578205
+  lastteleport: 1602183597711
+  logout: 1602183813406
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.47132158526475
+  y: 65.0
+  z: 85.19152327875207
+  yaw: 352.6803283691406
+  pitch: 24.31587028503418
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -170.78894496522855
+  y: 68.0
+  z: 2718.6322761410224
+  yaw: 282.339111328125
+  pitch: 14.968057632446289
+  world-name: ''
+ip-address: 24.10.167.93
+last-account-name: gcd321
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

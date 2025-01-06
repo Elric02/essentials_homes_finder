@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477659377237
+  lastteleport: 1477660084118
+  logout: 1477660107718
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -253.17332696203442
+  y: 70.0
+  z: 745.627651102629
+  yaw: -317.902587890625
+  pitch: 5.017871379852295
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -317.15497568636107
+  y: 100.40193392502927
+  z: 787.5723691606104
+  yaw: -116.74984741210938
+  pitch: -24.1500301361084
+  world-name: ''
+ip-address: 90.61.43.212
+last-account-name: hugogaming_YT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

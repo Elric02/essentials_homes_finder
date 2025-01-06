@@ -1,0 +1,38 @@
+timestamps:
+  login: 1540117904122
+  logout: 1540119023177
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 71.76652268119699
+  y: 51.0
+  z: -187.53752590414533
+  yaw: 74.2566146850586
+  pitch: 11.108563423156738
+  world-name: ''
+money: '0'
+ip-address: 77.135.29.36
+last-account-name: acierytb
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

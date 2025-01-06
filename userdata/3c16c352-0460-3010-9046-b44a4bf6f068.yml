@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488393279036
+  logout: 1488393338384
+  lastteleport: 1488393313969
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5336.792397225569
+  y: 63.0
+  z: -4256.218414759232
+  yaw: 8.096961975097656
+  pitch: 13.689056396484375
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.61470696184745
+  y: 64.0
+  z: 16.155211154345384
+  yaw: -135.7317352294922
+  pitch: 9.595332145690918
+  world-name: ''
+afk: false
+ip-address: 77.148.101.50
+last-account-name: benji44
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

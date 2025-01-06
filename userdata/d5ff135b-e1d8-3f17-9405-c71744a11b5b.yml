@@ -1,0 +1,63 @@
+timestamps:
+  login: 1719141755761
+  logout: 1719142182127
+  lastteleport: 1719142107377
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  x: 396.4146823064461
+  y: 81.0
+  z: -3111.3067764166767
+  yaw: -35.847347259521484
+  pitch: 13.049970626831055
+  world-name: station
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 129.51934815410627
+  y: 63.0
+  z: 23.51496517504167
+  yaw: -117.13615417480469
+  pitch: 15.449506759643555
+  world-name: world
+money: '0'
+homes:
+  end:
+    world: 0ab4e58b-7cfc-482e-9deb-4c4b54d677d7
+    world-name: End
+    x: 65.97034435371398
+    y: 66.0
+    z: -1543.9031714385912
+    yaw: -147.18502807617188
+    pitch: 20.700769424438477
+  m:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -44.405484020156315
+    y: 10.0
+    z: -167.3027010886293
+    yaw: 98.5958251953125
+    pitch: 23.58336639404297
+  bp:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 807.3393472577131
+    y: 77.0
+    z: -1115.7499222312556
+    yaw: 40.10697937011719
+    pitch: 53.85899353027344
+afk: false
+ip-address: 169.155.250.28
+last-account-name: ezikille
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

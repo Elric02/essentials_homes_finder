@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476011129663
+  logout: 1476011203530
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.1995136149109
+  y: 27.0
+  z: 21.00939014906724
+  yaw: -102.04730224609375
+  pitch: 5.647399425506592
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 82.091064453125
+  y: 63.85000001788139
+  z: -45.98388671875
+  yaw: 94.66808319091797
+  pitch: 4.5
+  world-name: ''
+ip-address: 2.12.249.72
+last-account-name: sifanoyt
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

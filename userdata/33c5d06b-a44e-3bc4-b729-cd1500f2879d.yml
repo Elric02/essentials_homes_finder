@@ -1,0 +1,38 @@
+timestamps:
+  login: 1497475978196
+  logout: 1497477103107
+  lastteleport: 1497476518456
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.87391953736267
+  y: 66.0
+  z: 19.12175403001051
+  yaw: -89.4599609375
+  pitch: -10.775486946105957
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.39462849023965
+  y: 64.0
+  z: 10.212682523562412
+  yaw: -180.21087646484375
+  pitch: 6.774514675140381
+  world-name: ''
+money: '0'
+ip-address: 79.91.84.79
+last-account-name: Matmat28130
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

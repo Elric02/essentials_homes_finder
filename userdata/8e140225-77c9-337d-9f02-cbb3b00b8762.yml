@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498635217280
+  lastteleport: 1498635347281
+  logout: 1498635367901
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.65889399345392
+  y: 66.0
+  z: 43.971417204482556
+  yaw: -6.346923828125
+  pitch: -15.352594375610352
+  world-name: ''
+logoutlocation:
+  world: world_nether
+  x: -4480.175833298893
+  y: 80.0
+  z: 5665.864115792712
+  yaw: 4.0272216796875
+  pitch: 15.231880187988281
+  world-name: ''
+ip-address: 88.142.241.204
+last-account-name: lamas
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

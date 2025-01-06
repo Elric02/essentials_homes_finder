@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486308268956
+  lastteleport: 1486308287823
+  logout: 1486308307449
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -268.847412109375
+  pitch: -6.20259952545166
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.00377260225974
+  y: 63.0
+  z: 43.016591675366605
+  yaw: -344.7608947753906
+  pitch: -10.775484085083008
+  world-name: ''
+ip-address: 90.65.70.113
+last-account-name: IceFire396
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

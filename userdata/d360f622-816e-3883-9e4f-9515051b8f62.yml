@@ -1,0 +1,55 @@
+timestamps:
+  login: 1491142678819
+  lastteleport: 1491143912856
+  logout: 1491144885222
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1110.699999988079
+  y: 70.0
+  z: -2279.2099213236897
+  yaw: 298.2561950683594
+  pitch: 22.19994354248047
+  world-name: ''
+homes:
+  home:
+    world: Ressource
+    x: 5374.416051385102
+    y: 70.0
+    z: -3456.233426272325
+    yaw: -165.29937744140625
+    pitch: 38.399993896484375
+    world-name: ''
+  maison:
+    world: Ressource
+    x: 5375.532236632366
+    y: 70.0
+    z: -3457.4990373935834
+    yaw: -274.1990966796875
+    pitch: 28.35000228881836
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Ressource
+  x: 5376.8520649580105
+  y: 70.0
+  z: -3457.287936983249
+  yaw: -8.999293327331543
+  pitch: 19.199970245361328
+  world-name: ''
+ip-address: 176.141.212.177
+last-account-name: lolrabits
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

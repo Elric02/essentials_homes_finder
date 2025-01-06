@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466770770009
+  lastteleport: 1466770996211
+  logout: 1466772400169
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 191.85859001109628
+  y: 63.0
+  z: 14.086840565097976
+  yaw: 242.85791015625
+  pitch: 0.004122513346374035
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -224.69999998807907
+  y: 16.0
+  z: 65.32355624599847
+  yaw: 61.58154296875
+  pitch: 33.174320220947266
+  world-name: ''
+ip-address: 31.32.115.98
+last-account-name: KurokoNoBasket
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

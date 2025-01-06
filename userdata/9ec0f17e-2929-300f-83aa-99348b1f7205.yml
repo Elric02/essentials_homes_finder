@@ -1,0 +1,63 @@
+timestamps:
+  login: 1558021973184
+  lastteleport: 1556793785207
+  logout: 1558022139631
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -557.5929436049748
+  y: 69.0
+  z: -1086.9234772983782
+  yaw: -224.24986267089844
+  pitch: 7.200004577636719
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -2556.662717169463
+  y: 60.0
+  z: -803.9432941384241
+  yaw: -84.7525634765625
+  pitch: -15.900064468383789
+  world-name: ''
+homes:
+  e:
+    world: End
+    x: -1501.5956354441932
+    y: 138.0
+    z: -309.0322490276708
+    yaw: 59.5054931640625
+    pitch: 13.800091743469238
+    world-name: ''
+  b:
+    world: world
+    x: -2555.890047605949
+    y: 88.0
+    z: -793.3012923263077
+    yaw: -77.70023345947266
+    pitch: 17.250019073486328
+    world-name: ''
+  n:
+    world: Nether
+    x: -67.60685758334049
+    y: 31.0
+    z: 294.67841965984906
+    yaw: 24.2860107421875
+    pitch: 40.20004653930664
+    world-name: ''
+ip-address: 79.93.168.178
+last-account-name: JKR
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

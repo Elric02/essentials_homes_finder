@@ -1,0 +1,38 @@
+timestamps:
+  login: 1628279387536
+  logout: 1628279432219
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 207.9138651853479
+  y: 63.0
+  z: -34.09214946271659
+  yaw: 159.4091339111328
+  pitch: 16.39826202392578
+  world-name: ''
+ip-address: 90.100.98.71
+last-account-name: Elweth
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

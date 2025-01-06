@@ -1,0 +1,38 @@
+timestamps:
+  login: 1557679644560
+  lastteleport: 1557679833237
+  logout: 1557679931857
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.7576382239563
+  y: 64.0
+  z: 26.571008135184858
+  yaw: 118.17916107177734
+  pitch: 5.878668308258057
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.56207303846085
+  y: 65.0
+  z: 69.86139798865636
+  yaw: -346.670654296875
+  pitch: -9.749996185302734
+  world-name: ''
+ip-address: 176.191.12.71
+last-account-name: skullpurple
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1731914553314
+  lastteleport: 1657787342230
+  logout: 1731914553435
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1561.6721883663831
+  y: 96.0
+  z: -5841.032483285525
+  yaw: 110.63177490234375
+  pitch: 41.25008010864258
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1552.1839370067848
+  y: 74.0
+  z: -5836.699999988079
+  yaw: -122.609130859375
+  pitch: 11.849717140197754
+  world-name: world
+afk: false
+money: '0'
+homes:
+  ok:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    x: -512.2555958824723
+    y: 78.0
+    z: -3477.80190903621
+    yaw: -36.7760009765625
+    pitch: 42.643035888671875
+    world-name: Ressource
+  ma:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1538.1052325460937
+    y: 64.0
+    z: -5835.400464188129
+    yaw: -12.6729736328125
+    pitch: -0.5999487638473511
+    world-name: world
+  oh:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1559.300000011921
+    y: 96.0
+    z: -5840.34310132824
+    yaw: -177.0697021484375
+    pitch: 73.50011444091797
+    world-name: world
+ip-address: 185.213.155.143
+last-account-name: Fleurdelys18
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

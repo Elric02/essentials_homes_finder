@@ -1,0 +1,67 @@
+timestamps:
+  login: 1597349198583
+  lastteleport: 1596917692425
+  logout: 1597349683977
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -896.4312533835817
+  y: 89.0
+  z: 1885.169663410746
+  yaw: 22.227018356323242
+  pitch: 14.499408721923828
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6064.61382174477
+  y: 71.0
+  z: -4825.699999988079
+  yaw: -358.7335205078125
+  pitch: -20.811986923217773
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -6060.696786410165
+    y: 67.0
+    z: -4820.963973862714
+    yaw: -59.914371490478516
+    pitch: 21.38978385925293
+    world-name: ''
+  aaaa:
+    world: world
+    x: -5918.6154825145495
+    y: 72.0
+    z: 249.57530543296846
+    yaw: -147.03884887695312
+    pitch: 34.04486846923828
+    world-name: ''
+  end:
+    world: End
+    x: -896.4312533835817
+    y: 89.0
+    z: 1885.169663410746
+    yaw: 22.227018356323242
+    pitch: 14.499408721923828
+    world-name: ''
+afk: false
+ip-address: 91.179.247.11
+last-account-name: Trolgar
+mail:
+- legacy: true
+  read: false
+  message: §e[§rmevennou§e] §rje te doit 5k (vente de livre)
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

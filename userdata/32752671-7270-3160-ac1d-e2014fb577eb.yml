@@ -1,0 +1,38 @@
+timestamps:
+  login: 1546606085306
+  logout: 1546606248708
+  lastteleport: 1546606217137
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -158.98917120092162
+  y: 47.0
+  z: 429.668980529015
+  yaw: -88.70149993896484
+  pitch: 32.850006103515625
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 149.41015972297578
+  y: 67.0
+  z: 95.30000001192091
+  yaw: -127.97103881835938
+  pitch: 42.7786750793457
+  world-name: ''
+ip-address: 90.47.66.109
+last-account-name: the_ant_62
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

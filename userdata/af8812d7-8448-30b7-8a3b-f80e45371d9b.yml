@@ -1,0 +1,47 @@
+timestamps:
+  login: 1518643170973
+  lastteleport: 1518643920826
+  logout: 1518644989825
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 122.0396817534371
+  y: 64.0
+  z: 16.45957104309271
+  yaw: -79.67080688476562
+  pitch: 15.628647804260254
+  world-name: ''
+homes:
+  home:
+    world: Ressource
+    x: -413.3004241616018
+    y: 31.0
+    z: -2623.699999988079
+    yaw: 56.250083923339844
+    pitch: 70.79998016357422
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -171.32083129882812
+  pitch: 12.928669929504395
+  world-name: ''
+ip-address: 92.184.104.73
+last-account-name: alexandre_bou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

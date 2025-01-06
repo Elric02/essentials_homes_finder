@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.10.249.202
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1640136377894
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1640248844552
+  login: 1640248814744
+money: '0'
+last-account-name: elriclespiques2
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.46521892831012
+  y: 64.0
+  z: 20.48777056031434
+  yaw: 178.61033630371094
+  pitch: 14.628316879272461
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 166.2087135494051
+  y: 63.0
+  z: 6.256982255102589
+  yaw: -268.6916809082031
+  pitch: 4.428359031677246

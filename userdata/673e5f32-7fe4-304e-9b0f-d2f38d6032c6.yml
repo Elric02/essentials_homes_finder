@@ -1,0 +1,63 @@
+timestamps:
+  login: 1664584415136
+  lastteleport: 1664584543168
+  logout: 1664584876356
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3631.784049117929
+  y: 88.0
+  z: -6632.465512975034
+  yaw: 150.82675170898438
+  pitch: 6.2563796043396
+  world-name: world
+money: '100.0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3341.3753208108187
+  y: 113.0
+  z: -7292.122898265546
+  yaw: -32.226318359375
+  pitch: 38.95588302612305
+  world-name: world
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3624.5
+    y: 88.0
+    z: -6655.5
+    yaw: 273.4483642578125
+    pitch: 16.737661361694336
+    world-name: world
+  savane:
+    world: world
+    x: 3355.5
+    y: 86.0
+    z: -7280.5
+    yaw: 48.72594451904297
+    pitch: 15.76593017578125
+    world-name: ''
+  village:
+    world: world
+    x: 1911.5
+    y: 70.0
+    z: -7307.5
+    yaw: 200.66587829589844
+    pitch: 9.254436492919922
+    world-name: ''
+ip-address: 81.249.4.181
+last-account-name: MrTiz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

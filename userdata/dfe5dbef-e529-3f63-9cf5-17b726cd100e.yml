@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.140.15.70
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1633194491936
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633194814454
+  login: 1633193991819
+money: '0'
+last-account-name: MonKeyD_KarMa
+lastlocation:
+  world: 32927a96-bbc5-4c1f-99d4-ff633cb0f27a
+  world-name: End
+  x: -89.5
+  y: 69.0
+  z: -0.5
+  yaw: -84.35586547851562
+  pitch: -1.8533438444137573
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 770.5096918900241
+  y: 75.0
+  z: 6328.478926560537
+  yaw: 250.83206176757812
+  pitch: 36.290401458740234

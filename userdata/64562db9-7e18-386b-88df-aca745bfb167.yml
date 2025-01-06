@@ -1,0 +1,38 @@
+timestamps:
+  login: 1607363996998
+  lastteleport: 1607364949192
+  logout: 1607365765617
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: -570.3429873533449
+  y: 31.0
+  z: 713.6118005804263
+  yaw: 75.4813232421875
+  pitch: 4.350012302398682
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4625.033795531603
+  y: 67.0
+  z: 6261.990320821382
+  yaw: 53.849647521972656
+  pitch: 24.299999237060547
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 37.166.240.241
+last-account-name: Julialny
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

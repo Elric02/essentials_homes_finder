@@ -1,0 +1,38 @@
+timestamps:
+  login: 1564392195446
+  lastteleport: 1564347625269
+  logout: 1564392546693
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5358.337518877647
+  y: 69.0
+  z: 1436.5809511433629
+  yaw: -63.379974365234375
+  pitch: 24.74995994567871
+  world-name: ''
+ip-address: 88.165.163.211
+last-account-name: FerofuretYT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 196.127.65.208
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1688482284471
+  login: 1688481949876
+money: '0'
+last-account-name: zorororo
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 349.5460916275229
+  y: -1727.9274569922204
+  z: -3082.006975705467
+  yaw: -10.16796875
+  pitch: 26.999879837036133
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 407.68596729662215
+  y: 81.0
+  z: -3104.656541887031
+  yaw: -82.94779968261719
+  pitch: 14.099970817565918

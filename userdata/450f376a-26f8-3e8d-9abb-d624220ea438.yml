@@ -1,0 +1,38 @@
+timestamps:
+  login: 1584134021773
+  logout: 1584134657418
+  lastteleport: 1584134270286
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -7246.575774039411
+  y: 17.0
+  z: 483.30000001192093
+  yaw: -266.385009765625
+  pitch: 21.333663940429688
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -7213.747296118992
+  y: 60.125
+  z: 459.81035004712413
+  yaw: -356.2247314453125
+  pitch: 2.840089797973633
+  world-name: ''
+money: '0'
+ip-address: 91.169.151.232
+last-account-name: Miss_Miss
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

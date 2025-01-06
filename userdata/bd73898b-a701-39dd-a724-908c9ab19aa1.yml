@@ -1,0 +1,47 @@
+timestamps:
+  login: 1617863419140
+  lastteleport: 1617868558058
+  logout: 1617868638876
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 4.355517675787172
+  y: 89.5
+  z: 6.953218893448307
+  yaw: 157.046875
+  pitch: 8.585845947265625
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -2343.6855604114917
+    y: 71.0
+    z: 5387.953390688764
+    yaw: 187.5068359375
+    pitch: 13.499629974365234
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 212.82411754645858
+  y: 63.0
+  z: 29.624157364676016
+  yaw: 270.6545715332031
+  pitch: 10.775838851928711
+  world-name: ''
+afk: false
+ip-address: 78.245.120.228
+last-account-name: maniafunika
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

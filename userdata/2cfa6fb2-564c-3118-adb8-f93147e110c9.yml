@@ -1,0 +1,38 @@
+timestamps:
+  login: 1515192627858
+  logout: 1515192710194
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.46657670707995
+  y: 66.0
+  z: 80.617651790685
+  yaw: 179.1868133544922
+  pitch: 33.91860580444336
+  world-name: ''
+ip-address: 95.175.179.18
+last-account-name: Apostrophe362
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

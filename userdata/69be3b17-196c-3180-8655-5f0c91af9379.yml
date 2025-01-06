@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.170.105.199
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1708785318938
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1708785388577
+  login: 1708785262817
+money: '0'
+last-account-name: Tayzen
+lastlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 156.53288607779098
+  y: 83.0
+  z: -101.59533683627117
+  yaw: 95.10009765625
+  pitch: 11.550003051757812
+logoutlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 5.3182036841477816
+  y: 51.0
+  z: 10.208548364010953
+  yaw: 46.35011672973633
+  pitch: 9.150003433227539

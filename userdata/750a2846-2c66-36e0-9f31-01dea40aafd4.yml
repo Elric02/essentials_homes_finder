@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.143.230.195
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1694721576097
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1694867495389
+  login: 1694863415554
+money: '0'
+last-account-name: Le_r00kie
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 187.77463213057217
+  y: 34.063825480952936
+  z: -643.0
+  yaw: -2808.148193359375
+  pitch: 41.69911575317383
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 192.04071902178313
+  y: 34.29932200523997
+  z: -582.7640274287402
+  yaw: -139.68603515625
+  pitch: 48.7496452331543

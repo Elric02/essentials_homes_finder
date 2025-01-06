@@ -1,0 +1,38 @@
+timestamps:
+  login: 1588578817554
+  logout: 1588578836430
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 147.69999998807907
+  y: 68.5
+  z: 102.4014030508351
+  yaw: -62.75223922729492
+  pitch: 17.94060516357422
+  world-name: ''
+ip-address: 77.116.140.238
+last-account-name: King_JL_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

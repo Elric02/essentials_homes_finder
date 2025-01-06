@@ -1,0 +1,63 @@
+timestamps:
+  login: 1566733243564
+  lastteleport: 1566734120303
+  logout: 1566734387278
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -157.5
+  y: 72.0
+  z: 565.5
+  yaw: -180.5012969970703
+  pitch: 11.617757797241211
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1510.7187274494747
+  y: 72.0
+  z: -2199.300000011921
+  yaw: 169.7242431640625
+  pitch: 27.74995994567871
+  world-name: ''
+homes:
+  base1:
+    world: world
+    x: -2161.5
+    y: 63.0
+    z: -1627.5
+    yaw: 29.038171768188477
+    pitch: 24.510238647460938
+    world-name: ''
+  base2:
+    world: world
+    x: -2772.1106882591744
+    y: 63.0
+    z: -656.5574705796579
+    yaw: 315.1502685546875
+    pitch: 24.15000343322754
+    world-name: ''
+  base3:
+    world: world
+    x: -2173.2470020856085
+    y: 240.0
+    z: -1638.2344827428012
+    yaw: 321.08831787109375
+    pitch: 31.050004959106445
+    world-name: ''
+muted: false
+afk: false
+jailed: false
+ip-address: 86.254.240.194
+last-account-name: zozo
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

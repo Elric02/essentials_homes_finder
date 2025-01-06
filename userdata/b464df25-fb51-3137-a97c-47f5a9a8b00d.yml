@@ -1,0 +1,63 @@
+timestamps:
+  login: 1585394109856
+  lastteleport: 1585334109757
+  logout: 1585394608878
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -398.83294452739324
+  y: 77.0
+  z: -2065.7293932843118
+  yaw: -55.1474609375
+  pitch: 43.05025100708008
+  world-name: ''
+money: '0'
+homes:
+  principal:
+    world: world
+    x: -399.72728442092546
+    y: 72.0
+    z: -2066.4437546121353
+    yaw: -357.2340087890625
+    pitch: 29.10001564025879
+    world-name: ''
+  artigan:
+    world: world
+    x: -359.2915508887846
+    y: 139.0
+    z: -1821.8054336288335
+    yaw: -86.77457427978516
+    pitch: 29.773073196411133
+    world-name: ''
+  voisin:
+    world: world
+    x: -460.9171889774012
+    y: 72.0
+    z: -2141.902454210052
+    yaw: -199.8822021484375
+    pitch: 31.04998779296875
+    world-name: ''
+logoutlocation:
+  world: End
+  x: -312.6854792259071
+  y: 48.0
+  z: -15.289613242406094
+  yaw: -4.032873153686523
+  pitch: 26.850709915161133
+  world-name: ''
+afk: false
+ip-address: 90.46.213.39
+last-account-name: NiGhTNaT19
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1522265944124
+  logout: 1522270274803
+  lastteleport: 1522268371998
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: -309.55402545586605
+  y: 7.0
+  z: -9.075402641734886
+  yaw: -6.595947265625
+  pitch: 19.2830810546875
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -6238.6415951389745
+  y: 66.0
+  z: 5899.073597701043
+  yaw: -140.647705078125
+  pitch: -7.72457218170166
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -6233.650670815009
+    y: 67.0
+    z: 5896.009320765024
+    yaw: -173.66580200195312
+    pitch: 42.761234283447266
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 38.699999988079085
+    y: 7.0
+    z: 148.69999998807913
+    yaw: -136.067138671875
+    pitch: 11.65048599243164
+    world-name: ''
+  nether:
+    world: world_nether
+    x: -309.8349818884938
+    y: 7.0
+    z: -9.133701279252172
+    yaw: -319.8409423828125
+    pitch: 18.593406677246094
+    world-name: ''
+money: '0'
+ip-address: 81.249.223.60
+last-account-name: causette
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

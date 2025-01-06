@@ -1,0 +1,38 @@
+timestamps:
+  login: 1548484696076
+  lastteleport: 1548484952158
+  logout: 1548485246888
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1518.7742011996354
+  y: 65.0
+  z: -2240.7480956309987
+  yaw: 163.42710876464844
+  pitch: 8.685946464538574
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -687.9042216860196
+  y: 62.0
+  z: -798.4799741981556
+  yaw: -81.9970703125
+  pitch: 18.626354217529297
+  world-name: ''
+ip-address: 109.214.120.163
+last-account-name: FalconX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

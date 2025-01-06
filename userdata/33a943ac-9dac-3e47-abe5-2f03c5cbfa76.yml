@@ -1,0 +1,63 @@
+timestamps:
+  login: 1467497936482
+  lastteleport: 1465504693412
+  logout: 1467498032179
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 19.5
+  yaw: -27.46099853515625
+  pitch: 17.024187088012695
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 10005.745906636146
+  y: 73.0
+  z: 10127.134864298292
+  yaw: -58.660797119140625
+  pitch: -50.849979400634766
+  world-name: ''
+homes:
+  minage:
+    world: ressource
+    x: -81.69644977518257
+    y: 14.0
+    z: -69.57060406616044
+    yaw: -149.85400390625
+    pitch: 17.549999237060547
+    world-name: ''
+  maison:
+    world: world
+    x: 10008.532135922234
+    y: 73.0
+    z: 10128.0370012755
+    yaw: -263.7109375
+    pitch: 11.550021171569824
+    world-name: ''
+  bois:
+    world: ressource
+    x: 104.30000001192091
+    y: 108.0
+    z: -130.5629839882609
+    yaw: -18.4498291015625
+    pitch: 82.50000762939453
+    world-name: ''
+afk: false
+ip-address: 86.222.254.32
+last-account-name: Anais47
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1574274566559
+  lastteleport: 1574274889005
+  logout: 1574275168541
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -31.350766072527882
+  y: 58.0
+  z: -13.921162070192015
+  yaw: -39.3671989440918
+  pitch: 90.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 206.5015969571723
+  y: 63.0
+  z: -9.313022211032436
+  yaw: -89.72038269042969
+  pitch: -2.549997568130493
+  world-name: ''
+money: '0'
+ip-address: 88.184.167.72
+last-account-name: Obugos4HD
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

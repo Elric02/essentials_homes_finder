@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.173.253.67
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670011842613
+  login: 1670011838400
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 397.8703645941641
+  y: 81.0
+  z: -3107.984290870854
+  yaw: 178.50184631347656
+  pitch: 12.299933433532715
+last-account-name: jambonmojette85
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 397.8703645941641
+  y: 81.0
+  z: -3107.984290870854
+  yaw: 157.8018798828125
+  pitch: 13.499930381774902

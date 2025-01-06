@@ -1,0 +1,63 @@
+timestamps:
+  login: 1558819623624
+  lastteleport: 1544982563681
+  logout: 1558820060805
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3668.303765255881
+  y: 79.0
+  z: -6668.043342373576
+  yaw: 30.83599090576172
+  pitch: -28.068265914916992
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 3656.699864691116
+    y: 91.0
+    z: -6629.451506196059
+    yaw: 90.12320709228516
+    pitch: -0.5633626580238342
+    world-name: ''
+  mesa:
+    world: Ressource
+    x: -1833.7043126279023
+    y: 87.0
+    z: -2821.0595085543655
+    yaw: 0.8642578125
+    pitch: 28.462013244628906
+    world-name: ''
+  mine:
+    world: Ressource
+    x: -1676.6010456466747
+    y: 12.0
+    z: 12.161144497456625
+    yaw: -43.048675537109375
+    pitch: -13.275897979736328
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 3640.468110506624
+  y: 88.0
+  z: -6648.553534480983
+  yaw: -248.17288208007812
+  pitch: 8.267828941345215
+  world-name: ''
+ip-address: 95.157.203.145
+last-account-name: UndeadNobody
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

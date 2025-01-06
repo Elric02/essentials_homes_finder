@@ -1,0 +1,55 @@
+timestamps:
+  login: 1585998880954
+  lastteleport: 1586002140817
+  logout: 1586002410477
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2158.3086920106116
+  y: 22.0
+  z: -5705.723569017693
+  yaw: -107.108642578125
+  pitch: 16.650196075439453
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -137.30000001192093
+  y: 66.0
+  z: -148.4590484486457
+  yaw: -3.92156982421875
+  pitch: 2.699981689453125
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 2158.5018066316366
+    y: 22.0
+    z: -5704.442191422113
+    yaw: -251.85504150390625
+    pitch: 23.400012969970703
+    world-name: ''
+  quete:
+    world: world
+    x: 94.5000432021038
+    y: 73.0
+    z: -131.73059731180945
+    yaw: -10.519669532775879
+    pitch: 7.950015068054199
+    world-name: ''
+ip-address: 89.159.51.53
+last-account-name: VanXodus
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

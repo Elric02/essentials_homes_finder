@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477641741519
+  lastteleport: 1477641815780
+  logout: 1477641842790
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.15736389384298
+  y: 63.0
+  z: 44.39555315658501
+  yaw: 30.38907241821289
+  pitch: -7.475472450256348
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: -112.84412183127559
+  y: 69.0
+  z: 679.2272037201088
+  yaw: -343.050048828125
+  pitch: 20.100027084350586
+  world-name: ''
+ip-address: 90.23.221.192
+last-account-name: suparanoyack
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

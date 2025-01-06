@@ -1,0 +1,38 @@
+timestamps:
+  login: 1622715092673
+  lastteleport: 1622715433077
+  logout: 1622716372133
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 158.64841051494216
+  y: 64.0
+  z: 18.303708558758103
+  yaw: -303.509033203125
+  pitch: 8.038179397583008
+  world-name: ''
+ip-address: 37.166.161.91
+last-account-name: loucario3000YT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

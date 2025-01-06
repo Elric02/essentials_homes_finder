@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.197.235.165
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1645016193361
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1656677205033
+  login: 1656677163026
+money: '0'
+last-account-name: gladiateu
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 140.67864960625266
+  y: 71.17675927506424
+  z: 98.91778614531636
+  yaw: 141.24172973632812
+  pitch: 27.390642166137695
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -90.04934506784949
+  y: 63.0
+  z: -1896.482369416811
+  yaw: 55.6258430480957
+  pitch: 14.996077537536621

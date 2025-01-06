@@ -1,0 +1,38 @@
+timestamps:
+  login: 1537014172900
+  lastteleport: 1537014281302
+  logout: 1537014346528
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.96255445366322
+  y: 66.0
+  z: 20.015256570969512
+  yaw: 266.0997009277344
+  pitch: -6.993649959564209
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 109.97493894819584
+  y: 71.0
+  z: -359.4911976077699
+  yaw: -137.62557983398438
+  pitch: 11.673599243164062
+  world-name: ''
+ip-address: 92.139.90.112
+last-account-name: xSoya
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

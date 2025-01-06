@@ -1,0 +1,47 @@
+timestamps:
+  login: 1472375205805
+  lastteleport: 1472377477812
+  logout: 1472377654983
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: -13.317324580174814
+  y: 104.0
+  z: 216.78456612780053
+  yaw: -121.7880859375
+  pitch: 63.568634033203125
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -418.3351751960445
+    y: 66.0
+    z: 1207.5723042959949
+    yaw: -157.842529296875
+    pitch: 39.819820404052734
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -417.3495946734502
+  y: 66.0
+  z: 1200.1371942801952
+  yaw: -18.7535400390625
+  pitch: 17.577190399169922
+  world-name: ''
+ip-address: 188.62.175.159
+last-account-name: titietmax126
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

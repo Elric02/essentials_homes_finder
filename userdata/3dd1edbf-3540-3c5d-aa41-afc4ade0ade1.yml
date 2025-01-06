@@ -1,0 +1,38 @@
+timestamps:
+  login: 1527883705769
+  logout: 1527884192789
+  lastteleport: 1527883747217
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1042.699999988079
+  y: 69.0
+  z: -480.69999998807907
+  yaw: 302.2500915527344
+  pitch: 35.40000534057617
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -342.3554201796573
+  y: 71.0
+  z: -4203.6279130773355
+  yaw: 173.55059814453125
+  pitch: 20.550031661987305
+  world-name: ''
+money: '0'
+ip-address: 82.251.47.149
+last-account-name: bestojbuild
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1617322391287
+  lastteleport: 1613832047432
+  logout: 1617322447663
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3373.300000011921
+  y: 59.0
+  z: -1810.300000011921
+  yaw: 118.80517578125
+  pitch: 10.6500244140625
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -3378.4868436058364
+    y: 60.0
+    z: -1816.014271560181
+    yaw: 278.1005859375
+    pitch: 27.149982452392578
+    world-name: ''
+logoutlocation:
+  world: Donjon
+  x: 2041.4085499354587
+  y: 4.0
+  z: 2016.9539377449555
+  yaw: -168.21536254882812
+  pitch: 5.999992847442627
+  world-name: ''
+ip-address: 90.23.245.187
+last-account-name: xenagame27
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1559503237051
+  lastteleport: 1559505562117
+  logout: 1559505899355
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.69999998807907
+  y: 76.0
+  z: -93.30000001192093
+  yaw: 200.46368408203125
+  pitch: -1.62786066532135
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 173.1141218003015
+  y: 8.267067245218222
+  z: -90.06958668947654
+  yaw: 349.61492919921875
+  pitch: 8.837295532226562
+  world-name: ''
+ip-address: 92.138.127.32
+last-account-name: barton1357TF2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

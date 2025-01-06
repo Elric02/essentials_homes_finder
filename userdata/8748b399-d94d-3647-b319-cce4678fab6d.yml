@@ -1,0 +1,38 @@
+timestamps:
+  login: 1523397202031
+  logout: 1523397345528
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.93686561738085
+  y: 63.0
+  z: 47.10826729016104
+  yaw: 178.8971405029297
+  pitch: 2.790660858154297
+  world-name: ''
+ip-address: 90.101.129.146
+last-account-name: chromoss
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468250253927
+  logout: 1468250363773
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 349.5134046707149
+  y: 71.0
+  z: 127.72599749423154
+  yaw: -128.02740478515625
+  pitch: 26.549976348876953
+  world-name: ''
+ip-address: 90.109.191.231
+last-account-name: gameover
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

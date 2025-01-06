@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586871677149
+  lastteleport: 1586871887606
+  logout: 1586872302233
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3788.3378116520585
+  y: 76.0
+  z: -1350.300000011921
+  yaw: -334.83575439453125
+  pitch: 14.998856544494629
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 96.62564604271458
+  y: 73.0
+  z: -125.16737866766242
+  yaw: -252.26617431640625
+  pitch: 22.127151489257812
+  world-name: ''
+ip-address: 2.5.48.240
+last-account-name: enzo_tais_toi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

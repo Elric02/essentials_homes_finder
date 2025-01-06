@@ -1,0 +1,38 @@
+timestamps:
+  login: 1496583199337
+  lastteleport: 1496583302218
+  logout: 1496583327397
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: -4522.538376929423
+  y: 47.0
+  z: 5664.839922114667
+  yaw: 47.19486618041992
+  pitch: 5.212244987487793
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 250.86574328541764
+  y: 87.9375
+  z: -332.16814118430455
+  yaw: -59.77219009399414
+  pitch: -2.4270060062408447
+  world-name: ''
+money: '0'
+ip-address: 82.228.170.215
+last-account-name: Stoupy51
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

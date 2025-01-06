@@ -1,0 +1,38 @@
+timestamps:
+  login: 1491639910558
+  logout: 1491640271253
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 554.0508275256673
+  y: 10.0
+  z: -508.38193268414454
+  yaw: 61.4429931640625
+  pitch: 11.699987411499023
+  world-name: ''
+money: '0'
+ip-address: 90.112.189.113
+last-account-name: jpdu38
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

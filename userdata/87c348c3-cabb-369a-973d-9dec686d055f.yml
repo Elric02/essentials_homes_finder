@@ -1,0 +1,47 @@
+timestamps:
+  login: 1479026937262
+  lastteleport: 1479028030405
+  logout: 1479028834783
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 100.94237972680918
+  y: 64.0
+  z: 824.9165962344783
+  yaw: 1.3500189781188965
+  pitch: 41.250030517578125
+  world-name: ''
+homes:
+  yeah:
+    world: ressource
+    x: 471.5227797668339
+    y: 69.0
+    z: -4923.506621011147
+    yaw: -3.450000286102295
+    pitch: 36.75
+    world-name: ''
+logoutlocation:
+  world: ressource
+  x: 470.1135919579608
+  y: 69.0
+  z: -4924.6061101788555
+  yaw: 337.20001220703125
+  pitch: 22.19997215270996
+  world-name: ''
+ip-address: 216.172.142.36
+last-account-name: HackerGroup
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

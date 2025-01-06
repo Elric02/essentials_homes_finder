@@ -1,0 +1,47 @@
+timestamps:
+  login: 1619380946696
+  lastteleport: 1619210324374
+  logout: 1619381318711
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 92.71351920501542
+  y: 73.0
+  z: -136.77349040502617
+  yaw: 87.20458984375
+  pitch: 32.07587432861328
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -757.4827353168007
+  y: 75.0
+  z: 1679.8465448381703
+  yaw: -17.410614013671875
+  pitch: 35.24983596801758
+  world-name: ''
+homes:
+  m:
+    world: world
+    x: -726.7973284641348
+    y: 64.0
+    z: 1696.097172527175
+    yaw: 219.42662048339844
+    pitch: 32.09998321533203
+    world-name: ''
+afk: false
+ip-address: 79.94.164.67
+last-account-name: girl_no_girly
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

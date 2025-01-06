@@ -1,0 +1,47 @@
+timestamps:
+  login: 1518016834864
+  lastteleport: 1518023298086
+  logout: 1518023405496
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2127.6962204620863
+  y: 86.8500000178814
+  z: 2557.155837127707
+  yaw: 258.7247009277344
+  pitch: 11.39999771118164
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 2164.4135178601873
+    y: 60.0
+    z: 2457.2102529896642
+    yaw: 115.647705078125
+    pitch: 13.650050163269043
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2162.813100732466
+  y: 60.0
+  z: 2456.300000011921
+  yaw: 266.54766845703125
+  pitch: 21.300046920776367
+  world-name: ''
+ip-address: 78.127.33.138
+last-account-name: JYDrek
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

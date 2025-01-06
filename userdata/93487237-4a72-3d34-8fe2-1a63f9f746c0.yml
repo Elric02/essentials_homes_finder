@@ -1,0 +1,38 @@
+timestamps:
+  login: 1545856827172
+  lastteleport: 1545856953760
+  logout: 1545856963718
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 159.86216979233325
+  y: 64.0
+  z: 12.672679266785622
+  yaw: 281.79681396484375
+  pitch: -1.109316349029541
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.4344787181929
+  y: 64.0
+  z: 24.837524209276815
+  yaw: -176.57083129882812
+  pitch: 1.9786700010299683
+  world-name: ''
+ip-address: 2.10.146.148
+last-account-name: _Under_Fight22
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

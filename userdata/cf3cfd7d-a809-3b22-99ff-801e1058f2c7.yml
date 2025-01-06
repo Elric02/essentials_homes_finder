@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483227663910
+  logout: 1483227720050
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 111.43311558511716
+  y: 67.0
+  z: 5.423365696120423
+  yaw: -221.1474151611328
+  pitch: 16.297395706176758
+  world-name: ''
+ip-address: 77.145.87.82
+last-account-name: greg230203fun
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

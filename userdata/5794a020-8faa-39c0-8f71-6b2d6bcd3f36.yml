@@ -1,0 +1,39 @@
+timestamps:
+  login: 1556908954187
+  lastteleport: 1556909124110
+  logout: 1556909181272
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 85.94826642574424
+  y: 65.41999998688698
+  z: 62.61736706052759
+  yaw: -263.4287109375
+  pitch: 15.990715026855469
+  world-name: ''
+nickname: Big
+logoutlocation:
+  world: Ressource
+  x: -0.699999988079071
+  y: 82.0
+  z: -27.608942418008297
+  yaw: -276.490478515625
+  pitch: 4.628101348876953
+  world-name: ''
+ip-address: 78.123.18.252
+last-account-name: bigpenis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

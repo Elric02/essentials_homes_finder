@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609607475008
+  logout: 1609607533344
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.9628570751983
+  y: 63.5
+  z: 49.91612788863368
+  yaw: -177.95562744140625
+  pitch: 16.44066047668457
+  world-name: ''
+ip-address: 77.145.89.47
+last-account-name: AhmadAlNaser
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

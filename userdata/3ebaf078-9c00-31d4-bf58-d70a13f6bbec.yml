@@ -1,0 +1,38 @@
+timestamps:
+  login: 1522951913893
+  lastteleport: 1522665194124
+  logout: 1522952599349
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 779.6999999880791
+  y: 53.0
+  z: 6218.237661466285
+  yaw: -132.4500732421875
+  pitch: 39.30004119873047
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 2662.448505713431
+  y: 64.0
+  z: 5138.389798762617
+  yaw: -22.494140625
+  pitch: 18.600006103515625
+  world-name: ''
+ip-address: 90.26.49.219
+last-account-name: Paul
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

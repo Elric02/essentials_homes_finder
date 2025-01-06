@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499515087546
+  lastteleport: 1499513424759
+  logout: 1499516259645
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 72.69999998807907
+  y: 64.0
+  z: -3.4536865280480944
+  yaw: -20.551788330078125
+  pitch: 28.29621124267578
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 1135.7395398095787
+  y: 11.0
+  z: 968.0791020749845
+  yaw: -331.14508056640625
+  pitch: 28.3105411529541
+  world-name: ''
+afk: false
+ip-address: 86.242.212.73
+last-account-name: DEYNISSYT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

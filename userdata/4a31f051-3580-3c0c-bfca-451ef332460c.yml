@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511289408884
+  logout: 1511289468827
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.81645958908842
+  y: 63.0
+  z: 50.95841460285365
+  yaw: -268.6453552246094
+  pitch: 9.611383438110352
+  world-name: ''
+ip-address: 89.89.115.25
+last-account-name: 42a3
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

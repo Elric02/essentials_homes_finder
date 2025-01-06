@@ -1,0 +1,89 @@
+timestamps:
+  login: 1713901772619
+  lastteleport: 1713901843168
+  logout: 1713902110710
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  kits:
+    stationaute: 1669070123801
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -6444.018262268831
+  y: 63.0
+  z: 1369.300000011921
+  yaw: 135.60012817382812
+  pitch: -10.799921989440918
+  world-name: world
+money: '1574.6409999999999883'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -6461.658626706103
+  y: 59.0
+  z: 1287.1499030036025
+  yaw: 147.29965209960938
+  pitch: 18.75005531311035
+  world-name: world
+homes:
+  ressource:
+    world: 662d438a-3236-43b5-be72-96a96955dbc4
+    x: -859.690001897564
+    y: 45.0
+    z: 922.7795860925532
+    yaw: -175.2042694091797
+    pitch: 4.649852275848389
+    world-name: RessourceNether
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6437.123608828225
+    y: 80.0
+    z: 1285.003694199614
+    yaw: 289.800048828125
+    pitch: 8.100000381469727
+    world-name: world
+  monika:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6499.414859225442
+    y: 47.0
+    z: 1307.4488481220951
+    yaw: -2.24920654296875
+    pitch: 18.75007438659668
+    world-name: world
+  farm:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6397.083011368332
+    y: -33.0
+    z: 1287.723066815931
+    yaw: 92.97388458251953
+    pitch: 4.5000104904174805
+  r:
+    world: 662d438a-3236-43b5-be72-96a96955dbc4
+    world-name: RessourceNether
+    x: 257.52791456675124
+    y: 77.0
+    z: 331.4823709132296
+    yaw: -68.24755859375
+    pitch: 10.500035285949707
+  stock:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6491.628537189469
+    y: 73.0
+    z: 1475.6039926673022
+    yaw: -179.6984405517578
+    pitch: 21.150014877319336
+afk: false
+ip-address: 86.216.127.46
+last-account-name: space3045
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

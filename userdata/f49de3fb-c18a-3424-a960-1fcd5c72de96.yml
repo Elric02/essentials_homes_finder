@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482341704557
+  logout: 1482341753849
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 68.46164782707227
+  y: 63.0
+  z: 50.506628316845266
+  yaw: -59.7467041015625
+  pitch: 23.49738121032715
+  world-name: ''
+ip-address: 90.57.155.116
+last-account-name: Minsco
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

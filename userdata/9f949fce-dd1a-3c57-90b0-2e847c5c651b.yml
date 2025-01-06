@@ -1,0 +1,38 @@
+timestamps:
+  login: 1622835935291
+  lastteleport: 1621840215264
+  logout: 1622837037149
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -38.69251444961682
+  y: 66.0
+  z: -32.27747142115996
+  yaw: 341.9969787597656
+  pitch: -5.964146137237549
+  world-name: ''
+afk: false
+logoutlocation:
+  world: Ressource
+  x: 4269.081940420054
+  y: 11.0
+  z: 3020.699999988079
+  yaw: 152.6727294921875
+  pitch: 43.24287796020508
+  world-name: ''
+money: '0'
+ip-address: 89.94.145.124
+last-account-name: Derquraider_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

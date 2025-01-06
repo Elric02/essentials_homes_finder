@@ -1,0 +1,38 @@
+timestamps:
+  login: 1503121311705
+  lastteleport: 1503121699039
+  logout: 1503121935395
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 167.78663930727487
+  y: 63.5
+  z: 17.734095757016973
+  yaw: 86.2225112915039
+  pitch: 7.330421447753906
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 116.73255938157833
+  y: 63.0
+  z: 36.40799731660339
+  yaw: -186.90814208984375
+  pitch: 54.46925735473633
+  world-name: ''
+ip-address: 80.8.12.228
+last-account-name: darioles13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

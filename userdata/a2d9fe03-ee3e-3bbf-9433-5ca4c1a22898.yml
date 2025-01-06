@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617489647471
+  logout: 1617492404778
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -520.9250000119209
+  y: 68.0
+  z: -14.92500001192093
+  yaw: 343.795166015625
+  pitch: 28.200050354003906
+  world-name: ''
+money: '0'
+ip-address: 82.64.63.246
+last-account-name: LUCALASH
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1528356797190
+  lastteleport: 1528357008057
+  logout: 1528357037251
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2129.170330963354
+  y: 68.0
+  z: 4853.230936611242
+  yaw: 27.283218383789062
+  pitch: 7.056009769439697
+  world-name: ''
+money: '0'
+homes:
+  maison2:
+    world: Ressource
+    x: 1052.699999988079
+    y: 30.0
+    z: 1964.4111539479409
+    yaw: 68.19839477539062
+    pitch: 0.2975936830043793
+    world-name: ''
+  coffre001:
+    world: world
+    x: -1937.5
+    y: 88.0
+    z: -1918.5
+    yaw: -224.37135314941406
+    pitch: 14.428815841674805
+    world-name: ''
+  coffre002:
+    world: world
+    x: 2143.925269956711
+    y: 61.0
+    z: 4853.763164779456
+    yaw: 274.06085205078125
+    pitch: 38.09280014038086
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 72.69999998807906
+  y: 64.0
+  z: -4.547697874874671
+  yaw: 58.19233703613281
+  pitch: 37.763858795166016
+  world-name: ''
+afk: false
+muted: true
+jailed: false
+ip-address: 193.250.154.153
+last-account-name: MoonWaaalk_
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

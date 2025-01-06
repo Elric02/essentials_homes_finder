@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511112027627
+  logout: 1511112406455
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5504.546452809449
+  y: 72.0
+  z: -3167.449542626985
+  yaw: -107.02304077148438
+  pitch: 89.53668212890625
+  world-name: ''
+ip-address: 92.162.240.146
+last-account-name: Gamerknight999
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

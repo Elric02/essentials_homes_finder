@@ -1,0 +1,63 @@
+timestamps:
+  login: 1487176889002
+  logout: 1487177082820
+  lastteleport: 1486315320340
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4849.870406564502
+  y: 70.0
+  z: -455.54636077820544
+  yaw: 269.38775634765625
+  pitch: 28.456323623657227
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4604.404254901387
+  y: 65.0
+  z: -3679.7989091148925
+  yaw: 351.61114501953125
+  pitch: 19.493558883666992
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 4602.923743403698
+    y: 63.0
+    z: -3633.2900390212335
+    yaw: 243.1398468017578
+    pitch: 90.0
+    world-name: ''
+  enchant:
+    world: world
+    x: 117.76387137191185
+    y: 58.0
+    z: 51.75936667768101
+    yaw: -13.710845947265625
+    pitch: 24.449993133544922
+    world-name: ''
+  mine:
+    world: ressource
+    x: 95.23427509727271
+    y: 50.0
+    z: -43.77596407044432
+    yaw: 131.51177978515625
+    pitch: 33.99497604370117
+    world-name: ''
+ip-address: 86.205.163.170
+last-account-name: MissTitiGirls
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

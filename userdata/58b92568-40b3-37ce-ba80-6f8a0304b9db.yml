@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617517278551
+  logout: 1617517413394
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 91.40384790560374
+  y: 63.0
+  z: -20.74234388818834
+  yaw: 28.297245025634766
+  pitch: 10.590622901916504
+  world-name: ''
+ip-address: 88.120.125.189
+last-account-name: n5m
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

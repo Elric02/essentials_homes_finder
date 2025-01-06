@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468820741814
+  logout: 1468820766429
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 128.70570486111134
+  y: 63.0
+  z: -34.94999998807907
+  yaw: -236.74859619140625
+  pitch: 6.881409645080566
+  world-name: ''
+ip-address: 212.129.52.140
+last-account-name: Sunpay_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477335573380
+  logout: 1477335637146
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 66.26352671939428
+  y: 63.0
+  z: -9.92949836889047
+  yaw: -267.5108947753906
+  pitch: 10.04998779296875
+  world-name: ''
+ip-address: 79.81.43.3
+last-account-name: MoNsTeR
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1630333964667
+  lastteleport: 1630334681172
+  logout: 1630334732825
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2351.1974570177495
+  y: 90.0
+  z: 2968.012702069523
+  yaw: 171.9496612548828
+  pitch: 22.707080841064453
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -2354.7061080185467
+    y: 66.0
+    z: 2917.194076146249
+    yaw: 75.37448120117188
+    pitch: 16.85624885559082
+    world-name: ''
+  _:
+    world: world
+    x: -1485.3688876262588
+    y: 66.0
+    z: -4540.326548423104
+    yaw: 194.6337432861328
+    pitch: 25.6571044921875
+    world-name: ''
+  ilou:
+    world: world
+    x: -5378.206576458054
+    y: 58.0
+    z: 1442.699999988079
+    yaw: 61.586090087890625
+    pitch: 36.72682189941406
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1460.2653541164013
+  y: 58.5
+  z: -4602.693799935429
+  yaw: 245.43539428710938
+  pitch: 31.704010009765625
+  world-name: ''
+afk: false
+ip-address: 90.16.141.39
+last-account-name: _Orez_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

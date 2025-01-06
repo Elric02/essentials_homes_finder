@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479726894191
+  lastteleport: 1479726939406
+  logout: 1479726991408
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 194.06808232942524
+  y: 63.0
+  z: -22.058447033538275
+  yaw: 83.0165786743164
+  pitch: 20.575889587402344
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: -17.995991011043454
+  y: 63.0
+  z: 706.5837333331307
+  yaw: -53.69990921020508
+  pitch: 18.45002555847168
+  world-name: ''
+ip-address: 77.201.158.90
+last-account-name: titanium12
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

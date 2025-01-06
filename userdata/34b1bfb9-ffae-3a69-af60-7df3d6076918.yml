@@ -1,0 +1,63 @@
+timestamps:
+  login: 1477777937425
+  lastteleport: 1477779147399
+  logout: 1477779251863
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4206.356538542384
+  y: 63.0
+  z: -3796.987199062399
+  yaw: -149.865234375
+  pitch: 19.482585906982422
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4199.297821797355
+  y: 71.5
+  z: -3730.2995561379626
+  yaw: -329.16748046875
+  pitch: 7.804914474487305
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -7025.571545430567
+    y: 66.5625
+    z: 2582.406659388849
+    yaw: 325.26123046875
+    pitch: 42.60959243774414
+    world-name: ''
+  home:
+    world: world
+    x: -3584.333377735044
+    y: 81.0
+    z: 6811.756526633503
+    yaw: 321.7923583984375
+    pitch: -18.484220504760742
+    world-name: ''
+  m:
+    world: world
+    x: -4195.8550383223
+    y: 65.0
+    z: -3726.1669180281265
+    yaw: 210.7147979736328
+    pitch: 90.0
+    world-name: ''
+ip-address: 90.33.250.54
+last-account-name: TNTo_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

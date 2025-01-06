@@ -1,0 +1,63 @@
+timestamps:
+  login: 1686781658104
+  lastteleport: 1686782473339
+  logout: 1686784051018
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 2649b3d7-9636-4254-a8e4-1d605af71137
+  x: -1974.699999988079
+  y: 62.0
+  z: -707.3726101343079
+  yaw: 61.74994659423828
+  pitch: 22.20001983642578
+  world-name: Ressource
+money: '250.0'
+logoutlocation:
+  world: 2649b3d7-9636-4254-a8e4-1d605af71137
+  x: -1595.2172847907614
+  y: 88.0
+  z: 2266.6175086295493
+  yaw: -64.5487060546875
+  pitch: 17.54996681213379
+  world-name: Ressource
+homes:
+  b:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1811.3225828018778
+    y: 64.0
+    z: 2977.6444785189174
+    yaw: 110.13494110107422
+    pitch: 25.349849700927734
+    world-name: world
+  s:
+    world: 2649b3d7-9636-4254-a8e4-1d605af71137
+    world-name: Ressource
+    x: -891.4532255298833
+    y: 73.0
+    z: 1686.1315231216292
+    yaw: 111.4545669555664
+    pitch: 28.200037002563477
+  m:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1842.4969644745574
+    y: 285.0
+    z: 2979.6437760598924
+    yaw: 161.7361602783203
+    pitch: 70.79987335205078
+afk: false
+ip-address: 82.65.84.248
+last-account-name: Colin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

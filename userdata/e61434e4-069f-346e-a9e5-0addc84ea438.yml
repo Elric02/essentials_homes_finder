@@ -1,0 +1,47 @@
+timestamps:
+  login: 1470056518558
+  lastteleport: 1470068593047
+  logout: 1470069072330
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -342.3191004947042
+  y: 71.60100002384186
+  z: 129.42590086458677
+  yaw: -332.31494140625
+  pitch: 30.950035095214844
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 180.3892281395162
+    y: 10.0
+    z: -70.69999998807907
+    yaw: 20.101884841918945
+    pitch: 8.099998474121094
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 154.51043247722595
+  y: 63.0
+  z: 38.843656719403164
+  yaw: -15.74676513671875
+  pitch: -5.4000396728515625
+  world-name: ''
+ip-address: 88.136.38.23
+last-account-name: luffyauchapeau35
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

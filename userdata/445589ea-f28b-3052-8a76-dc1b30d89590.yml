@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.66.30.42
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670156924794
+  login: 1670156850734
+money: '0'
+last-account-name: tyrz
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.7783109872277
+  y: 81.0
+  z: -3111.0510596195886
+  yaw: -37.19813537597656
+  pitch: 20.09995460510254
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 400.14690199287406
+  y: 81.0
+  z: -3110.305773358599
+  yaw: 136.65188598632812
+  pitch: 56.39998245239258

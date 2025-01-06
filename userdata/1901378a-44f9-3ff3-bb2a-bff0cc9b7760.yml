@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519736203001
+  lastteleport: 1519465319391
+  logout: 1519736213295
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.32610840384714
+  y: 63.0
+  z: -15.89661418999917
+  yaw: -180.09776306152344
+  pitch: -6.6221723556518555
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.99520874023438
+  pitch: 2.5774295330047607
+  world-name: ''
+afk: false
+ip-address: 176.131.248.39
+last-account-name: zalvoc
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

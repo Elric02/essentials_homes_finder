@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521829611169
+  logout: 1521830082753
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6763.850545079856
+  y: 79.6625000178814
+  z: -3767.109469530694
+  yaw: 191.85986328125
+  pitch: 4.9421515464782715
+  world-name: ''
+money: '0'
+ip-address: 88.183.7.175
+last-account-name: Gabriellamouche
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

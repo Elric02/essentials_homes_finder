@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.197.66.188
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667050394917
+  login: 1667050342263
+money: '0'
+last-account-name: poussiereux
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.6236003767645
+  y: 81.0
+  z: -3111.0286813162998
+  yaw: -14.69826889038086
+  pitch: 34.04990005493164
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 407.65067970423615
+  y: 81.0
+  z: -3100.566798675567
+  yaw: 98.25131225585938
+  pitch: 11.999961853027344

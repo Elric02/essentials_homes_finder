@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477150684548
+  logout: 1477151487284
+  lastteleport: 1477151373833
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.8641201200115
+  y: 63.0
+  z: 48.84515228469383
+  yaw: 94.43914794921875
+  pitch: 2.8500070571899414
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 123.6035605741456
+  y: 63.0
+  z: 20.518588468831183
+  yaw: 86.78910827636719
+  pitch: 16.224531173706055
+  world-name: ''
+ip-address: 78.252.78.39
+last-account-name: Suicune80
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

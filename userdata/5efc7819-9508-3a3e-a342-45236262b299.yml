@@ -1,0 +1,63 @@
+timestamps:
+  login: 1601117403744
+  lastteleport: 1601117440587
+  logout: 1601117495215
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.6695000154336
+  y: 64.0
+  z: 27.41916810040299
+  yaw: 174.6909942626953
+  pitch: 12.36231803894043
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1099.2924297848429
+  y: 47.0
+  z: 204.5162658972265
+  yaw: 180.8453369140625
+  pitch: -19.902517318725586
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: -1096.5
+    y: 48.0
+    z: 210.5
+    yaw: -93.84193420410156
+    pitch: 17.199644088745117
+    world-name: ''
+  quete:
+    world: world
+    x: 212.78813640480968
+    y: 100.0
+    z: -107.55796894099723
+    yaw: -341.1210632324219
+    pitch: 7.828676223754883
+    world-name: ''
+  xp:
+    world: Ressource
+    x: 855.6077925884463
+    y: 78.0
+    z: -182.98937560489577
+    yaw: 338.95159912109375
+    pitch: 18.976869583129883
+    world-name: ''
+afk: false
+ip-address: 78.206.233.37
+last-account-name: Drago124578
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

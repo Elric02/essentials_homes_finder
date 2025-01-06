@@ -1,0 +1,38 @@
+timestamps:
+  login: 1561930275064
+  lastteleport: 1561930411845
+  logout: 1561930422442
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -157.94648115707216
+  y: 47.0
+  z: 522.4718532120124
+  yaw: 184.77734375
+  pitch: 12.755882263183594
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.46826264832958
+  y: 63.0
+  z: 51.61980001228426
+  yaw: -0.8032153248786926
+  pitch: 12.20473575592041
+  world-name: ''
+ip-address: 70.29.207.223
+last-account-name: MoniqueQc
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

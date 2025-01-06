@@ -1,0 +1,38 @@
+timestamps:
+  login: 1548624387027
+  lastteleport: 1548624466686
+  logout: 1548624504365
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.3909039534256
+  y: 63.0
+  z: 62.856368156819556
+  yaw: 209.11024475097656
+  pitch: 3.883497714996338
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -14.950332948612731
+  y: 84.0
+  z: -37.46830781425194
+  yaw: -225.16354370117188
+  pitch: 45.922332763671875
+  world-name: ''
+ip-address: 92.92.202.108
+last-account-name: Pikachuloulou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.18.79.54
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1651425228164
+  login: 1651424809140
+money: '0'
+last-account-name: Nanosaurusrexx
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -10.072020350199583
+  y: 67.0
+  z: 35.040697662304495
+  yaw: -46.260616302490234
+  pitch: 51.600425720214844
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -4867.412800713121
+  y: 69.0
+  z: -372.30806533360084
+  yaw: -1.7116758823394775
+  pitch: 2.700258255004883

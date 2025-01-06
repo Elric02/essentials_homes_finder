@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.164.200.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698067968988
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698068038774
+  login: 1698067896201
+money: '0'
+last-account-name: Mineco_78
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.39311294128805
+  y: 81.0
+  z: -3111.2229909879998
+  yaw: -68.35429382324219
+  pitch: 12.786223411560059
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -740.4167157694337
+  y: 101.9870779382129
+  z: 263.6439752721941
+  yaw: 39.71929931640625
+  pitch: 12.152376174926758

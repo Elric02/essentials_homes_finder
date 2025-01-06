@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471796746764
+  lastteleport: 1471796950109
+  logout: 1471798653253
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.62377491143604
+  y: 63.0
+  z: 47.70118323494017
+  yaw: -271.697998046875
+  pitch: -2.6026158332824707
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1448.1974001071737
+  y: 69.0
+  z: 775.0922562669081
+  yaw: 32.9999885559082
+  pitch: 0.5998935103416443
+  world-name: ''
+ip-address: 90.113.160.118
+last-account-name: Sixt
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

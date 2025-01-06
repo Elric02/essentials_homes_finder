@@ -1,0 +1,63 @@
+timestamps:
+  login: 1632861609833
+  lastteleport: 1632861894654
+  logout: 1632861978025
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -1286.816905361755
+  y: 63.0
+  z: 3004.380952628672
+  yaw: -228.105712890625
+  pitch: 21.750463485717773
+  world-name: world
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 135.29610270866297
+  y: 63.0
+  z: 20.303719569547233
+  yaw: -272.4911193847656
+  pitch: 13.625875473022461
+  world-name: world
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -1281.6804029704824
+    y: 63.0
+    z: 3019.6967783925566
+    yaw: -334.34893798828125
+    pitch: 27.60000228881836
+    world-name: world
+  g:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6138.407320002298
+    y: 72.0
+    z: -6108.34658467052
+    yaw: -182.37086486816406
+    pitch: 9.149998664855957
+    world-name: world
+  cha:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 4579.604351941478
+    y: 75.0
+    z: -3427.6860042687586
+    yaw: 282.4908142089844
+    pitch: 32.09996795654297
+    world-name: world
+afk: false
+ip-address: 82.142.8.41
+last-account-name: wmb
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

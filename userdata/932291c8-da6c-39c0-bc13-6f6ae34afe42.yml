@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.65.134.133
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709980321464
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1710145688765
+  login: 1710145682000
+money: '0'
+last-account-name: guiraud
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 2388.9424744356334
+  y: 47.0
+  z: -7395.232612276541
+  yaw: 143.7156982421875
+  pitch: 9.149991035461426
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 155.1822680866521
+  y: 65.0
+  z: 79.48617884352038
+  yaw: 21.46528434753418
+  pitch: 1.800158977508545

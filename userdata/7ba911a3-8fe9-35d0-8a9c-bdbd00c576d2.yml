@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.248.181.97
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642183522272
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642183693067
+  login: 1642182627500
+money: '0'
+last-account-name: flannou
+lastlocation:
+  world: db53b0bc-e109-4366-b93b-66666d9c9185
+  world-name: Ressource
+  x: -2160.402218594829
+  y: 84.0
+  z: 3983.6232966446955
+  yaw: -144.14923095703125
+  pitch: 45.44996643066406
+logoutlocation:
+  world: b7fb2600-9a6b-4455-aa1e-a8df500c3eeb
+  world-name: Donjon
+  x: 2066.317548228096
+  y: 4.0
+  z: 2023.516177033081
+  yaw: -148.1154022216797
+  pitch: 27.222702026367188

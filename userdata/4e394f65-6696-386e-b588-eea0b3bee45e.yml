@@ -1,0 +1,38 @@
+timestamps:
+  login: 1604086335962
+  logout: 1604086464167
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5462.866234486961
+  y: 72.0
+  z: 6881.991963866846
+  yaw: -54.00213623046875
+  pitch: 10.200027465820312
+  world-name: ''
+ip-address: 90.110.61.186
+last-account-name: alapeche
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

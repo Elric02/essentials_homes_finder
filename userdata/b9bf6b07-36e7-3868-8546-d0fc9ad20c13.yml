@@ -1,0 +1,63 @@
+timestamps:
+  login: 1667219686362
+  lastteleport: 1667219776051
+  logout: 1667219792582
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -7344.3771388660425
+  y: 66.0
+  z: 2442.2388600662257
+  yaw: -63.18558883666992
+  pitch: 15.11337947845459
+  world-name: world
+money: '100.0'
+logoutlocation:
+  world: bd63a69b-f162-438e-8437-fbdb5ea04361
+  x: 1437.391633660326
+  y: 65.0
+  z: -2241.618734737285
+  yaw: 170.4000244140625
+  pitch: 15.600013732910156
+  world-name: Ressource
+homes:
+  b:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6625.425222163263
+    y: 63.0
+    z: 1590.8275583092131
+    yaw: -168.22926330566406
+    pitch: 3.1499431133270264
+    world-name: world
+  f:
+    world: bd63a69b-f162-438e-8437-fbdb5ea04361
+    x: 1403.863968704511
+    y: 69.0
+    z: -2213.699999988079
+    yaw: -219.14988708496094
+    pitch: 12.000011444091797
+    world-name: Ressource
+  b1:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -7377.428754730908
+    y: 64.0
+    z: 2419.1921620823264
+    yaw: -30.485595703125
+    pitch: 10.613374710083008
+    world-name: world
+afk: false
+ip-address: 86.250.128.144
+last-account-name: b3b3_c0yt3
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

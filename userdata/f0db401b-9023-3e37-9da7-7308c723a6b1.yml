@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477832423997
+  lastteleport: 1477832621974
+  logout: 1477832946233
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5322.98607914711
+  y: 70.0
+  z: 611.2014061739421
+  yaw: -261.6563415527344
+  pitch: 16.649993896484375
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3029.655869521414
+  y: 63.0
+  z: -2272.2186958627603
+  yaw: -21.150238037109375
+  pitch: 30.299985885620117
+  world-name: ''
+ip-address: 88.124.15.71
+last-account-name: MrStick17
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

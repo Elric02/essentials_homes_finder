@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469788717134
+  logout: 1469788771957
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 144.34233769064903
+  y: 63.0
+  z: -19.39864892229204
+  yaw: -205.651123046875
+  pitch: 11.647305488586426
+  world-name: ''
+ip-address: 109.22.88.56
+last-account-name: SoldatJess
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

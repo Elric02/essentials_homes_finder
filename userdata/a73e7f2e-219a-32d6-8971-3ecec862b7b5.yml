@@ -1,0 +1,47 @@
+timestamps:
+  login: 1477151857965
+  lastteleport: 1477153355313
+  logout: 1477153845976
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: -6317.998439005513
+  y: 61.0
+  z: -2456.699999988079
+  yaw: -225.65594482421875
+  pitch: 2.6841156482696533
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5405.315151482787
+  y: 97.0
+  z: 5968.802101232237
+  yaw: -90.05126953125
+  pitch: 34.66400146484375
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 5404.699999988079
+    y: 97.0
+    z: 5965.519781132955
+    yaw: -27.1690673828125
+    pitch: 36.8199462890625
+    world-name: ''
+ip-address: 77.129.29.87
+last-account-name: NoYaKa
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

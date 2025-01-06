@@ -1,0 +1,63 @@
+timestamps:
+  login: 1495394474802
+  lastteleport: 1495394569964
+  logout: 1495396768471
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.10652140963475
+  y: 64.0
+  z: 18.829347728105937
+  yaw: -183.0608673095703
+  pitch: 3.324514389038086
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 3290.9366687396673
+    y: 67.0
+    z: 1245.6743891721594
+    yaw: 71.23297119140625
+    pitch: 33.750022888183594
+    world-name: ''
+  chateau:
+    world: world
+    x: 6105.926265791627
+    y: 72.0
+    z: 2382.246116601357
+    yaw: 147.6920928955078
+    pitch: 9.935853958129883
+    world-name: ''
+  glace:
+    world: Ressource
+    x: 899.6672876600205
+    y: 67.0
+    z: -7045.665693062209
+    yaw: -25.20703125
+    pitch: 12.749975204467773
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 6100.699999988079
+  y: 97.0
+  z: 2384.699999988079
+  yaw: 170.658203125
+  pitch: -39.714111328125
+  world-name: ''
+money: '0'
+ip-address: 82.239.129.134
+last-account-name: anucer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1503654625340
+  lastteleport: 1503656016551
+  logout: 1503656380260
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+money: '0'
+homes:
+  wolf:
+    world: world
+    x: -437.87790512270175
+    y: 80.0
+    z: -3049.164799105221
+    yaw: 256.3938293457031
+    pitch: 30.47173309326172
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 155.55841851106754
+  y: 64.0
+  z: 30.59227080042992
+  yaw: -315.7072448730469
+  pitch: 8.088338851928711
+  world-name: ''
+ip-address: 82.250.80.103
+last-account-name: Lapoche18
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

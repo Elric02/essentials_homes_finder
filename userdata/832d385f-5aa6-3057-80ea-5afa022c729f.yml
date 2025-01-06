@@ -1,0 +1,55 @@
+timestamps:
+  login: 1475880054907
+  lastteleport: 1475885963675
+  logout: 1475888759849
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: -2309.5
+  y: 64.0
+  z: 5178.5
+  yaw: -9.600385665893555
+  pitch: 21.000003814697266
+  world-name: ''
+money: '0'
+homes:
+  farm:
+    world: Ressources
+    x: -2309.4277076720537
+    y: 64.0
+    z: 5178.875820083238
+    yaw: -17.70038604736328
+    pitch: 18.300006866455078
+    world-name: ''
+  home:
+    world: Event
+    x: 728.1504744656918
+    y: 14.0
+    z: -1246.327454229054
+    yaw: -140.83203125
+    pitch: 54.300148010253906
+    world-name: ''
+logoutlocation:
+  world: Event
+  x: 727.5373191013168
+  y: 4.0
+  z: -1258.389963620003
+  yaw: -300.08984375
+  pitch: -9.899796485900879
+  world-name: ''
+ip-address: 86.253.254.155
+last-account-name: inperzoz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

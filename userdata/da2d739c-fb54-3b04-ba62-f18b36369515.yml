@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471764467882
+  logout: 1471765004566
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.0119361590649
+  y: 27.0
+  z: 20.788045810419494
+  yaw: -89.91096496582031
+  pitch: 44.24998474121094
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 60.73738265450376
+  y: 82.00133597911214
+  z: -82.0827814607858
+  yaw: 313.9693603515625
+  pitch: -8.250009536743164
+  world-name: ''
+ip-address: 203.80.48.100
+last-account-name: titiss
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

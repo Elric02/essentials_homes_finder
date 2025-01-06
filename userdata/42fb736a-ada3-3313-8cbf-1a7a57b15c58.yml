@@ -1,0 +1,63 @@
+timestamps:
+  login: 1552326730980
+  lastteleport: 1551637131350
+  logout: 1552326859293
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -865.6968359992186
+  y: 67.0
+  z: -1104.146780102483
+  yaw: 83.39996337890625
+  pitch: 10.500000953674316
+  world-name: ''
+homes:
+  home:
+    world: Ressource
+    x: 973.6999999880791
+    y: 12.0
+    z: 2129.699999988079
+    yaw: 120.7452392578125
+    pitch: 10.050190925598145
+    world-name: ''
+  recolte:
+    world: Ressource
+    x: 2111.8137000736447
+    y: 63.0
+    z: 293.68247744273793
+    yaw: 38.251373291015625
+    pitch: 13.200006484985352
+    world-name: ''
+  vaisseau:
+    world: world
+    x: -2697.3997123981676
+    y: 159.0
+    z: 2684.289642110084
+    yaw: 182.69805908203125
+    pitch: 39.44989013671875
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -2695.156859066215
+  y: 159.0
+  z: 2669.61670370792
+  yaw: 234.7469482421875
+  pitch: 28.79998207092285
+  world-name: ''
+ip-address: 176.144.145.233
+last-account-name: Dragonia35
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

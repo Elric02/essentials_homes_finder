@@ -1,0 +1,38 @@
+timestamps:
+  login: 1533983693562
+  logout: 1533983728890
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.92248060287656
+  y: 65.0
+  z: 73.00409301909832
+  yaw: -183.97406005859375
+  pitch: 17.747264862060547
+  world-name: ''
+ip-address: 90.18.82.141
+last-account-name: popo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

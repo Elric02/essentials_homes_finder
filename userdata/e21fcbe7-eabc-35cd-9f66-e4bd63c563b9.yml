@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616951943906
+  logout: 1616952310350
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.6704484205688
+  y: 65.0
+  z: 81.30202103432201
+  yaw: -20.60247039794922
+  pitch: -0.5774236917495728
+  world-name: ''
+ip-address: 81.251.18.72
+last-account-name: Valerie_damidot_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

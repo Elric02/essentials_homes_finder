@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484424180476
+  lastteleport: 1484424224758
+  logout: 1484424354726
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.11687333516153
+  y: 27.5
+  z: 24.123013551766597
+  yaw: -340.246826171875
+  pitch: 9.997390747070312
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.88638273144505
+  y: 64.0
+  z: 12.845983608947266
+  yaw: -165.66091918945312
+  pitch: 16.824522018432617
+  world-name: ''
+ip-address: 90.47.56.224
+last-account-name: Skyrod93
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

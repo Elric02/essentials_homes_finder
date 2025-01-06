@@ -1,0 +1,38 @@
+timestamps:
+  login: 1534623527397
+  lastteleport: 1534623684078
+  logout: 1534624262419
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 847.5724379692974
+  y: 4.0
+  z: -1264.1626998702036
+  yaw: -172.884033203125
+  pitch: 20.849884033203125
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 425.2816448036614
+  y: 79.0
+  z: 1633.3835796171459
+  yaw: -120.29946899414062
+  pitch: 16.49997901916504
+  world-name: ''
+ip-address: 90.93.181.123
+last-account-name: senseo2000
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

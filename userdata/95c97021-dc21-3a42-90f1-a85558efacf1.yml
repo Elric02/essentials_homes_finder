@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617300459518
+  lastteleport: 1617300516364
+  logout: 1617300563416
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.75765931752395
+  y: 65.0
+  z: 85.71723474475715
+  yaw: 179.7389373779297
+  pitch: 7.724535942077637
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 165.98515756350514
+  y: 64.0
+  z: 15.640979346198979
+  yaw: -255.56488037109375
+  pitch: -9.944339752197266
+  world-name: ''
+ip-address: 90.1.129.252
+last-account-name: Grizzby
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

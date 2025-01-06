@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482254043683
+  lastteleport: 1482254271658
+  logout: 1482255248408
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.8628883780158
+  y: 63.0
+  z: 48.57400761939167
+  yaw: -275.14752197265625
+  pitch: 2.9473986625671387
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: ressource
+  x: 485.30387610089326
+  y: 65.0
+  z: 269.5199639404153
+  yaw: 272.5491943359375
+  pitch: 57.30000686645508
+  world-name: ''
+ip-address: 109.22.153.214
+last-account-name: AyaTakame
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

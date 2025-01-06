@@ -1,0 +1,38 @@
+timestamps:
+  login: 1551291037735
+  logout: 1551291325810
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 119.99523275479937
+  y: 63.0
+  z: -9.69455300204935
+  yaw: 153.39813232421875
+  pitch: 0.8118504881858826
+  world-name: ''
+ip-address: 82.241.189.74
+last-account-name: xloicx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

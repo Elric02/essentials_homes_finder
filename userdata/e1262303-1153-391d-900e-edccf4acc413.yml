@@ -1,0 +1,39 @@
+timestamps:
+  login: 1616270685952
+  logout: 1616270833899
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.03561884195886
+  y: 64.0
+  z: 17.102410078569417
+  yaw: -183.50341796875
+  pitch: 18.240581512451172
+  world-name: ''
+jailed: true
+jail: dunkirschen5
+logoutlocation:
+  world: world
+  x: -2670.092619741535
+  y: 62.0625
+  z: -207.71164022985172
+  yaw: 190.59959411621094
+  pitch: 23.125537872314453
+  world-name: ''
+ip-address: 91.163.43.106
+last-account-name: digitalplaisiw
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

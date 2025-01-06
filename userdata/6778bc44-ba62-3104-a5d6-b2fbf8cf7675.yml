@@ -1,0 +1,161 @@
+timestamps:
+  login: 1665178021709
+  lastteleport: 1665178045167
+  logout: 1665178071609
+  kits:
+    color: 1640040281847
+  jail: 0
+  mute: 0
+  onlinejail: 0
+  lastheal: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -5385.716630971243
+  y: 77.0
+  z: -4374.726018308581
+  yaw: 47.02618408203125
+  pitch: 13.45043659210205
+  world-name: world
+money: '0'
+homes:
+  tnt:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2035.681894639089
+    y: 57.0
+    z: -3805.0129526645255
+    yaw: -93.22218322753906
+    pitch: 38.85002899169922
+    world-name: world
+  adoraka:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: -1612.3969702243844
+    y: 72.0
+    z: 278.44110559248907
+    yaw: 283.28265380859375
+    pitch: 25.193004608154297
+    world-name: Nether
+  itomori:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6661.002108956641
+    y: 63.0
+    z: -3369.754107700054
+    yaw: 276.35498046875
+    pitch: 4.173269271850586
+    world-name: world
+  netheria:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: 1094.1235357878356
+    y: 36.0
+    z: -999.50717976229
+    yaw: 339.6835021972656
+    pitch: 40.79301071166992
+    world-name: Nether
+  adora:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -1924.0790974795934
+    y: 70.0
+    z: 1738.3662608549541
+    yaw: -358.3621826171875
+    pitch: 9.458844184875488
+    world-name: world
+  gigatrou:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: 3922.465210972756
+    y: 5.0
+    z: -3981.9325897618664
+    yaw: -1.0675979852676392
+    pitch: -5.704520225524902
+    world-name: Nether
+  stationlympiques:
+    world: 15c6eb02-0985-4155-b86d-a444bf583192
+    x: -178.40701223401334
+    y: 4.0
+    z: 64.91531698576267
+    yaw: -156.1697540283203
+    pitch: 89.69999694824219
+    world-name: Olympiques
+  autoroom:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2125.019683266732
+    y: 41.0
+    z: -3847.523359560995
+    yaw: 114.81421661376953
+    pitch: 7.500085353851318
+    world-name: world
+  test:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -516.9567080583345
+    y: 4.0
+    z: 831.3965332861383
+    yaw: 207.5525665283203
+    pitch: 31.35003662109375
+  gaetan:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6946.842986664007
+    y: 66.42937827425895
+    z: 2055.9104410662458
+    yaw: -148.70281982421875
+    pitch: 13.1339750289917
+  stuffbiblio:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3594.447963227466
+    y: 189.0
+    z: 3493.6885951096215
+    yaw: -269.57598876953125
+    pitch: 60.52939987182617
+  mesa:
+    world: 3f7450b9-b04e-4475-a8a5-8b4a0f535ddf
+    world-name: Ressource
+    x: 3117.5
+    y: 86.0
+    z: -2571.5
+    yaw: 133.819580078125
+    pitch: 26.16887664794922
+  res:
+    world: 3f7450b9-b04e-4475-a8a5-8b4a0f535ddf
+    world-name: Ressource
+    x: 243.16832053971424
+    y: 63.0
+    z: 668.8666444135023
+    yaw: -17.8501033782959
+    pitch: 11.999999046325684
+  ikari:
+    world: 6b791b62-b860-492a-aa67-db025bcd5247
+    world-name: world2
+    x: -4981.57684973218
+    y: 13.0
+    z: -3625.2431420777166
+    yaw: 23.701690673828125
+    pitch: 19.349966049194336
+  piglin:
+    world: def90391-8710-4a0a-a953-3a057bd754c9
+    world-name: Ressourcenether
+    x: 1478.994642229711
+    y: 82.0
+    z: 151.69999998807907
+    yaw: 159.74795532226562
+    pitch: 30.899612426757812
+afk: false
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -2025.7471884744864
+  y: 58.0
+  z: -3801.448820715436
+  yaw: -3.445127010345459
+  pitch: 10.594963073730469
+  world-name: world
+jailed: false
+muted: false
+socialspy: false
+ip-address: 88.161.104.207
+last-account-name: Dokxym
+teleportenabled: true
+teleportauto: false
+godmode: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472678488689
+  lastteleport: 1472679188973
+  logout: 1472680484025
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.20958996689137
+  y: 63.0
+  z: 40.297658344495304
+  yaw: -330.21099853515625
+  pitch: 9.024511337280273
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -55.58818764549729
+  y: 10.0
+  z: 660.3872856122157
+  yaw: -0.2052001953125
+  pitch: 54.7501106262207
+  world-name: ''
+ip-address: 88.163.234.38
+last-account-name: Samu92130
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

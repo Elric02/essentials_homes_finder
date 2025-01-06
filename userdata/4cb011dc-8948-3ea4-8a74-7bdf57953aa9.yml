@@ -1,0 +1,91 @@
+timestamps:
+  login: 1611337739304
+  logout: 1611339118037
+  lastteleport: 1611339004276
+  kits:
+    color: 1591524864088
+    vip: 1591957881902
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6341.168633781397
+  y: 80.0
+  z: -2861.429666554686
+  yaw: 50.45188522338867
+  pitch: 23.77031707763672
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5467.5283659802435
+  y: 64.0
+  z: 812.728809389904
+  yaw: -116.86466979980469
+  pitch: 24.04837417602539
+  world-name: ''
+homes:
+  farme:
+    world: world
+    x: 567.5
+    y: 67.0
+    z: -3003.5
+    yaw: 88.63758087158203
+    pitch: 25.756404876708984
+    world-name: ''
+  base:
+    world: world
+    x: 3243.5
+    y: 77.0
+    z: -1558.5
+    yaw: -5.625164031982422
+    pitch: 16.19070816040039
+    world-name: ''
+  g4:
+    world: world
+    x: -894.5
+    y: 79.0
+    z: -3471.5
+    yaw: 178.62889099121094
+    pitch: 17.22709083557129
+    world-name: ''
+  ville:
+    world: world
+    x: -1643.5
+    y: 76.0
+    z: -6540.5
+    yaw: -89.76451873779297
+    pitch: 4.049211025238037
+    world-name: ''
+  natu:
+    world: world
+    x: -4971.5
+    y: 71.0
+    z: -531.5
+    yaw: -88.1944580078125
+    pitch: 13.199764251708984
+    world-name: ''
+  cofre:
+    world: world
+    x: -5467.5
+    y: 50.0
+    z: 850.5
+    yaw: 2.40185546875
+    pitch: 23.85000991821289
+    world-name: ''
+money: '0'
+nickname: mildu§f_§1Ve§flk§4oz
+afk: false
+ip-address: 81.220.225.231
+last-account-name: Velkoz_trio
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

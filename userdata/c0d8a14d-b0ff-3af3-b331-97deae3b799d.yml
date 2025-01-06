@@ -1,0 +1,90 @@
+timestamps:
+  login: 1483106269154
+  lastteleport: 1482332326385
+  logout: 1483106558450
+  mute: 0
+  kits:
+    vip: 1479487108151
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5999.6577879980505
+  y: 71.0
+  z: 4377.49275290374
+  yaw: -74.80194091796875
+  pitch: 13.800012588500977
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6039.137499988079
+  y: 101.0
+  z: 4389.276050551943
+  yaw: 97.8509521484375
+  pitch: 90.0
+  world-name: ''
+homes:
+  anes:
+    world: world
+    x: 5750.513624923032
+    y: 96.0
+    z: 3574.961381286609
+    yaw: 93.84228515625
+    pitch: 19.80008888244629
+    world-name: ''
+  res:
+    world: ressource
+    x: -904.096224269043
+    y: 86.0
+    z: 872.4327963302578
+    yaw: 107.10061645507812
+    pitch: 45.599998474121094
+    world-name: ''
+  ship:
+    world: world
+    x: 6073.494760893214
+    y: 96.0
+    z: 4388.49412507908
+    yaw: -268.7493896484375
+    pitch: 20.10009002685547
+    world-name: ''
+  templemarin:
+    world: ressource
+    x: -261.3357754023228
+    y: 64.0
+    z: -154.48184755934105
+    yaw: 39.003692626953125
+    pitch: 12.299969673156738
+    world-name: ''
+  jungle:
+    world: ressource
+    x: -4700.677119794105
+    y: 71.0
+    z: -1072.4717968544157
+    yaw: 7.24969482421875
+    pitch: 33.767578125
+    world-name: ''
+  shop:
+    world: world
+    x: -4930.425169259169
+    y: 86.5
+    z: -263.0667709972014
+    yaw: -110.8620376586914
+    pitch: 22.34993553161621
+    world-name: ''
+muted: false
+nickname: §acube§fblanc
+afk: false
+ip-address: 93.23.201.208
+last-account-name: toutblanc
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477426370444
+  lastteleport: 1477426465056
+  logout: 1477426961554
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 124.21957726812128
+  y: 63.0
+  z: 25.900338178875238
+  yaw: 243.25271606445312
+  pitch: 28.199987411499023
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 7620.135857744161
+  y: 75.0
+  z: 3122.5622586468603
+  yaw: -42.8494873046875
+  pitch: 32.55002212524414
+  world-name: ''
+ip-address: 188.251.69.129
+last-account-name: TechnusX864
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

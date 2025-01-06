@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.158.106.220
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1660462145852
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660462748589
+  login: 1660461017372
+money: '0'
+last-account-name: farmeur2
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -226.45600283801778
+  y: 82.76825082301798
+  z: -218.77028283070038
+  yaw: -172.59194946289062
+  pitch: 44.66109848022461
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 207.03900130846893
+  y: 78.53703984827906
+  z: 218.4572223479243
+  yaw: -40.133544921875
+  pitch: 32.63057327270508

@@ -1,0 +1,30 @@
+timestamps:
+  login: 1568634991428
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 0
+lastlocation:
+  world: world
+  x: 40.5
+  y: 89.81362135610186
+  z: -1594.5
+  yaw: -335.3240051269531
+  pitch: 50.026241302490234
+  world-name: ''
+ip-address: 188.61.197.214
+last-account-name: Shark4242
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

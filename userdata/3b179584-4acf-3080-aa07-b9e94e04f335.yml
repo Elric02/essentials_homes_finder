@@ -1,0 +1,38 @@
+timestamps:
+  login: 1555099396972
+  logout: 1555099410497
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 159.45315213960697
+  y: 65.0
+  z: 100.44581179364795
+  yaw: 331.29693603515625
+  pitch: 29.190658569335938
+  world-name: ''
+ip-address: 78.202.164.26
+last-account-name: IziiCraft
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

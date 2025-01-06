@@ -1,0 +1,38 @@
+timestamps:
+  login: 1538829191629
+  logout: 1538829272888
+  lastteleport: 1538501310059
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 196.21921401226194
+  y: 66.0
+  z: -5.029952882574962
+  yaw: -357.021484375
+  pitch: 21.6286563873291
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 176.41659339177644
+  y: 63.0
+  z: 19.439782365058697
+  yaw: -271.22088623046875
+  pitch: 12.778678894042969
+  world-name: ''
+money: '0'
+ip-address: 41.104.185.160
+last-account-name: abdellah
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

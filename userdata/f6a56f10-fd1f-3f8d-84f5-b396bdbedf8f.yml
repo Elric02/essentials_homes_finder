@@ -1,0 +1,55 @@
+timestamps:
+  login: 1488573552113
+  lastteleport: 1488574486014
+  logout: 1488574513313
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4879.267698894783
+  y: 74.0
+  z: -287.5637781431517
+  yaw: 92.97744750976562
+  pitch: 11.699980735778809
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 3101.5
+    y: 68.0
+    z: -5334.5
+    yaw: 12.899991035461426
+    pitch: 16.80000114440918
+    world-name: ''
+  sh:
+    world: world
+    x: -4879.135482988143
+    y: 70.0
+    z: -286.9660117492921
+    yaw: -110.7225341796875
+    pitch: 15.749990463256836
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3103.040475949444
+  y: 68.0625
+  z: -5334.534642688072
+  yaw: 283.1999816894531
+  pitch: 21.150005340576172
+  world-name: ''
+afk: false
+ip-address: 85.59.228.246
+last-account-name: Onchinette
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

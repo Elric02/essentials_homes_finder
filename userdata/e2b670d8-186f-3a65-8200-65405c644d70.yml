@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477839887468
+  logout: 1477840046767
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 222.69999998807907
+  y: 66.0
+  z: 17.30000001192094
+  yaw: -101.74755859375
+  pitch: -1.8525561094284058
+  world-name: ''
+ip-address: 88.175.85.159
+last-account-name: MSPGB66
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

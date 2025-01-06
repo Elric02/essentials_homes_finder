@@ -1,0 +1,63 @@
+timestamps:
+  login: 1612806875794
+  lastteleport: 1612813267161
+  logout: 1612813373883
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4223.373817901656
+  y: 64.0
+  z: -5509.492325494789
+  yaw: 86.70365142822266
+  pitch: 16.34998321533203
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4065.9188540837454
+  y: 63.0
+  z: -5481.785959106233
+  yaw: -65.5802001953125
+  pitch: 28.351621627807617
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 4231.779208483321
+    y: 64.0
+    z: -5509.348218355848
+    yaw: 92.70257568359375
+    pitch: 10.20001220703125
+    world-name: ''
+  minage:
+    world: world
+    x: 117.47508863211671
+    y: 87.0
+    z: -99.04599555109208
+    yaw: -169.89462280273438
+    pitch: 48.125938415527344
+    world-name: ''
+  base:
+    world: world
+    x: 4081.4801147185904
+    y: 62.5
+    z: -5473.573810358641
+    yaw: -327.308837890625
+    pitch: 40.351409912109375
+    world-name: ''
+afk: false
+ip-address: 46.193.0.164
+last-account-name: Sokawaii
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

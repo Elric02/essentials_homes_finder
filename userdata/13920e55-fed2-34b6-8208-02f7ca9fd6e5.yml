@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514294816319
+  logout: 1514294886822
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4781.482207098357
+  y: 14.0
+  z: -2426.9680719716835
+  yaw: -349.7749328613281
+  pitch: 30.06490707397461
+  world-name: ''
+ip-address: 90.113.181.209
+last-account-name: AriAyko
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

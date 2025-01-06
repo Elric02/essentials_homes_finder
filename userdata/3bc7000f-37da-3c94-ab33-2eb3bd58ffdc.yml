@@ -1,0 +1,63 @@
+timestamps:
+  login: 1736094411222
+  lastteleport: 1736095380930
+  logout: 1736095613513
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  x: 429.9585928318811
+  y: 101.0
+  z: -3153.8812793856823
+  yaw: 93.1336669921875
+  pitch: 27.30002784729004
+  world-name: station
+money: '219.545454545454540'
+homes:
+  town:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 940.2169002818054
+    y: 58.0
+    z: -4457.2575275056115
+    yaw: -174.0597686767578
+    pitch: 12.299247741699219
+    world-name: world
+  freezio:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2352.4155666844335
+    y: 92.0
+    z: -6680.818873667688
+    yaw: 255.30816650390625
+    pitch: 40.949798583984375
+    world-name: world
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1640.4538115082025
+    y: 22.5
+    z: -5940.989412287261
+    yaw: 300.8034973144531
+    pitch: 5.249401569366455
+    world-name: world
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  x: 394.99592236805626
+  y: 80.5
+  z: -3111.375103500612
+  yaw: -72.89768981933594
+  pitch: 18.14995765686035
+  world-name: station
+afk: false
+ip-address: 77.56.227.204
+last-account-name: Razor2759
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

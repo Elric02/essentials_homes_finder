@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.95.94.201
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673643068032
+  login: 1673642948073
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.76068534569634
+  y: 81.0
+  z: -3110.9930473391896
+  yaw: -64.04822540283203
+  pitch: 7.949958324432373
+last-account-name: aej
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.71243159940764
+  y: 81.0
+  z: -3111.0165309509084
+  yaw: 166.50201416015625
+  pitch: -32.550010681152344

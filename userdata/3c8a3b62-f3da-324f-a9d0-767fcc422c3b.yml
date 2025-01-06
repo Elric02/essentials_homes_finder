@@ -1,0 +1,38 @@
+timestamps:
+  login: 1513966575863
+  lastteleport: 1513969847574
+  logout: 1513970868753
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2107.820242295744
+  y: 63.0
+  z: -3102.586160184964
+  yaw: 179.849853515625
+  pitch: 50.099998474121094
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 183.3157930501087
+  y: 64.0
+  z: -6394.092984599944
+  yaw: -32.0994873046875
+  pitch: -90.0
+  world-name: ''
+ip-address: 86.220.249.83
+last-account-name: clara
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

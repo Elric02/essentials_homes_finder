@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518372364542
+  lastteleport: 1518372867253
+  logout: 1518372951502
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 15.541426586193724
+  y: 17.0
+  z: -25.518945519814242
+  yaw: -267.56500244140625
+  pitch: -15.71800422668457
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -280.0774356383598
+  y: 65.0
+  z: 369.9655980679536
+  yaw: -230.0999755859375
+  pitch: 12.449999809265137
+  world-name: ''
+ip-address: 176.135.4.151
+last-account-name: xBlue741
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

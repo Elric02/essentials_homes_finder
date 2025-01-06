@@ -1,0 +1,63 @@
+timestamps:
+  login: 1616867483006
+  lastteleport: 1616867603346
+  logout: 1616867682795
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5219706617853
+  y: 64.0
+  z: 24.59015183032405
+  yaw: -181.14532470703125
+  pitch: 9.575874328613281
+  world-name: ''
+homes:
+  m:
+    world: world
+    x: 4881.443193607394
+    y: 232.5
+    z: 539.5311024925754
+    yaw: -271.19879150390625
+    pitch: 27.44999122619629
+    world-name: ''
+  l:
+    world: Nether
+    x: 2.5052564233778085
+    y: 60.0
+    z: 60.73093628825292
+    yaw: -6.9888715744018555
+    pitch: 30.150102615356445
+    world-name: ''
+  f:
+    world: Nether
+    x: 6.749449522702191
+    y: 8.0
+    z: 55.30862228823638
+    yaw: -282.09100341796875
+    pitch: -5.54996919631958
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4896.579299151306
+  y: 63.0
+  z: 556.3880319806944
+  yaw: -145.9493408203125
+  pitch: 41.84999465942383
+  world-name: ''
+afk: false
+ip-address: 88.126.107.252
+last-account-name: Whrite_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

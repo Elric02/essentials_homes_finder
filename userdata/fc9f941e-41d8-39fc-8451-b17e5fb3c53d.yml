@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478803507962
+  lastteleport: 1478803876217
+  logout: 1478803894649
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.06800888582708
+  y: 27.0
+  z: 20.414013545933898
+  yaw: -89.24539184570312
+  pitch: 17.411888122558594
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 19.5
+  yaw: -89.44515991210938
+  pitch: 17.3120059967041
+  world-name: ''
+ip-address: 79.88.186.186
+last-account-name: Yaya77
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519231604370
+  lastteleport: 1519231975269
+  logout: 1519232048313
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3051.8043843495147
+  y: 77.0
+  z: -5608.300000011921
+  yaw: 271.74725341796875
+  pitch: -19.316679000854492
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 1.4013999985842738
+  y: 89.5
+  z: 19.64259758304862
+  yaw: -208.64813232421875
+  pitch: -4.885913372039795
+  world-name: ''
+ip-address: 78.129.99.226
+last-account-name: SKT_Ayvo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

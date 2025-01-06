@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483752006487
+  logout: 1483752050091
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 161.18193301292362
+  y: 64.0
+  z: 20.827146606888782
+  yaw: -169.99742126464844
+  pitch: 31.897401809692383
+  world-name: ''
+ip-address: 50.150.17.87
+last-account-name: Ssundee
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

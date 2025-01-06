@@ -1,0 +1,47 @@
+timestamps:
+  login: 1523725368159
+  logout: 1523725883837
+  lastteleport: 1522338630085
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6.3365041836294225
+  y: 65.0
+  z: 36.849779123758424
+  yaw: -358.37164306640625
+  pitch: 51.178627014160156
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -567.0094017479762
+  y: 75.0
+  z: -706.8380221909455
+  yaw: 314.2275390625
+  pitch: 35.25003433227539
+  world-name: ''
+homes:
+  home:
+    world: world_nether
+    x: 42.36771924065516
+    y: 46.0
+    z: 84.00492894342635
+    yaw: 7.910957336425781
+    pitch: 18.7030029296875
+    world-name: ''
+afk: false
+ip-address: 197.200.14.131
+last-account-name: walid
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

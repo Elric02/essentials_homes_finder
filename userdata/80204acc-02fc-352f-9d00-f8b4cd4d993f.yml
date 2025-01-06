@@ -1,0 +1,38 @@
+timestamps:
+  login: 1589409482683
+  lastteleport: 1589409487753
+  logout: 1589409495194
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.43198212145944
+  y: 65.0
+  z: 100.05190702331289
+  yaw: 76.53646850585938
+  pitch: 14.090551376342773
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.49081556486988
+  y: 64.0
+  z: 23.382188647105274
+  yaw: -181.69261169433594
+  pitch: 2.128669500350952
+  world-name: ''
+ip-address: 86.202.67.243
+last-account-name: 7Romain7
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

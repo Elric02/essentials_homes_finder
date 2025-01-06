@@ -1,0 +1,38 @@
+timestamps:
+  login: 1612382015639
+  lastteleport: 1612383742854
+  logout: 1612384055257
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5016.627834300119
+  y: 64.0
+  z: 4475.366082320494
+  yaw: -255.087890625
+  pitch: 79.41439056396484
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -391.4008768114521
+  y: 71.0
+  z: 371.2944568727942
+  yaw: -84.89208984375
+  pitch: 38.079402923583984
+  world-name: ''
+ip-address: 37.170.208.155
+last-account-name: KevAdamsOfficiel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1478379896263
+  logout: 1478383754166
+  lastteleport: 1478380624440
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: 138.7251294064448
+  y: 60.0
+  z: -72.30000001192093
+  yaw: -283.2239990234375
+  pitch: 55.005558013916016
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 5772.762499988079
+  y: 50.0
+  z: -3864.3525071334893
+  yaw: -52.9642333984375
+  pitch: -2.3999850749969482
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 5795.319160411901
+    y: 57.0
+    z: -3877.4196519822044
+    yaw: -87.16163635253906
+    pitch: 52.20000457763672
+    world-name: ''
+money: '0'
+ip-address: 84.6.53.208
+last-account-name: gigigi312
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

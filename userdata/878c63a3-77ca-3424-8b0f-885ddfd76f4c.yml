@@ -1,0 +1,63 @@
+timestamps:
+  login: 1526120695009
+  lastteleport: 1526120959679
+  logout: 1526120972501
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 206.1722990945913
+  y: 85.0
+  z: 2183.868715979761
+  yaw: 87.4810562133789
+  pitch: 20.099872589111328
+  world-name: ''
+homes:
+  wikilix:
+    world: world
+    x: -3265.0929460970747
+    y: 63.0
+    z: -4542.225272235963
+    yaw: 181.9207763671875
+    pitch: -4.799923896789551
+    world-name: ''
+  base:
+    world: world
+    x: 3857.05825901674
+    y: 64.0
+    z: -1733.7320364028233
+    yaw: -260.365966796875
+    pitch: 7.950000762939453
+    world-name: ''
+  artigan:
+    world: world
+    x: -899.7666684105981
+    y: 75.0
+    z: -2273.6813635471203
+    yaw: 359.7572021484375
+    pitch: 23.84989356994629
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 3825.0042396441377
+  y: 64.0
+  z: -1721.3099689902717
+  yaw: -148.46597290039062
+  pitch: 34.799991607666016
+  world-name: ''
+money: '0'
+ip-address: 86.215.98.175
+last-account-name: Raya_Gaming
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

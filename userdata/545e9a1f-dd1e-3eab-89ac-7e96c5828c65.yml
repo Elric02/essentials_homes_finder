@@ -1,0 +1,47 @@
+timestamps:
+  login: 1613865839621
+  logout: 1613870212159
+  lastteleport: 1613869704032
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1138.608905894866
+  y: 13.0
+  z: 3193.279791309463
+  yaw: 358.70849609375
+  pitch: 15.449968338012695
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1278.4475715445249
+  y: 90.0
+  z: 3622.2101194583042
+  yaw: 230.66213989257812
+  pitch: 3.1499764919281006
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 1315.964600520443
+    y: 79.0
+    z: 3634.192773490997
+    yaw: -123.45454406738281
+    pitch: 14.549992561340332
+    world-name: ''
+ip-address: 2.15.124.165
+last-account-name: CaptainLorys
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

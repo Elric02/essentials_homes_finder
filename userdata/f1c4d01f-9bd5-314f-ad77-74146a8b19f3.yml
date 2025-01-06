@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509216805215
+  lastteleport: 1509216838791
+  logout: 1509217832434
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -268.6302185058594
+  pitch: -6.20259952545166
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6552.11406824835
+  y: 69.0
+  z: 3942.8342999723804
+  yaw: -57.400474548339844
+  pitch: 22.509952545166016
+  world-name: ''
+ip-address: 88.177.100.48
+last-account-name: Majonnie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

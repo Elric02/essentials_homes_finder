@@ -1,0 +1,47 @@
+timestamps:
+  login: 1468908222184
+  logout: 1468910838623
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.82845786727063
+  y: 27.0
+  z: 20.678853644464567
+  yaw: 265.9528503417969
+  pitch: 17.92418098449707
+  world-name: ''
+homes:
+  home:
+    world: Ressource
+    x: 303.2412117263728
+    y: 84.0
+    z: -566.3539049630162
+    yaw: 1.5450533628463745
+    pitch: 37.200103759765625
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 357.30000001192093
+  y: 11.0
+  z: -480.3000000119209
+  yaw: -89.65133666992188
+  pitch: 21.300167083740234
+  world-name: ''
+ip-address: 77.206.168.255
+last-account-name: kitkat763
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

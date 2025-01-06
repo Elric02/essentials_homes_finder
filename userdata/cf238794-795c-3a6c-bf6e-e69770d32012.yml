@@ -1,0 +1,38 @@
+timestamps:
+  login: 1527442828912
+  logout: 1527442850025
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.91146584621873
+  y: 65.0
+  z: 99.39986807400223
+  yaw: 351.3966979980469
+  pitch: 26.34065055847168
+  world-name: ''
+ip-address: 93.16.166.178
+last-account-name: Yacine
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

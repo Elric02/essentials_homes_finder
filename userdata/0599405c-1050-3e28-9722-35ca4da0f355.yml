@@ -1,0 +1,71 @@
+timestamps:
+  login: 1554001916205
+  lastteleport: 1554001983696
+  logout: 1554002174992
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -896.2167129036285
+  y: 71.0
+  z: -3153.8593532627856
+  yaw: -27.4278564453125
+  pitch: 14.250120162963867
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 101.50111854856124
+  y: 63.0
+  z: 17.753880511756385
+  yaw: -70.66864013671875
+  pitch: 25.649959564208984
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -893.3000000119209
+    y: 71.0
+    z: -3150.457662023741
+    yaw: -232.360107421875
+    pitch: -12.750093460083008
+    world-name: ''
+  p:
+    world: world
+    x: -895.1513623565115
+    y: 71.0
+    z: -3151.790658053292
+    yaw: -278.978759765625
+    pitch: 2.40004825592041
+    world-name: ''
+ip-address: 69.165.208.102
+last-account-name: _regi_
+mail:
+- legacy: true
+  read: false
+  message: §e[§rBouh§e] §ren fait par défaut tout le monde a l'autorisation d'acheter
+    dans les shops des autres, que se passe-t-il quand tu cliques sur un panneau ?
+- legacy: true
+  read: false
+  message: §e[§rBouh§e] §ren fait quand tu fais un clique droit sur le panneau d'un
+    autre ça te met quoi comme message attention clique droit sur panneau pas sur
+    le coffre
+- legacy: true
+  read: false
+  message: §e[§rBouh§e] §rpour ce qui est de tes panneaux j'ai vu que tu avais réussi
+    à les faire cependant 500$ pour 8blocs de bois c'est un peu cher :) chez zdnl
+    à coté de chez toi le demi stack est à 75$ je pense que tu risques de pas vendre
+    grand chose :(
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

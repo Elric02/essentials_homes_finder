@@ -1,0 +1,38 @@
+timestamps:
+  login: 1610611483243
+  lastteleport: 1610611781915
+  logout: 1610611860419
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.10815266722642
+  y: 63.0
+  z: 39.8066314367083
+  yaw: -156.095947265625
+  pitch: 14.525867462158203
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressourcenether
+  x: 6.258231303774612
+  y: 28.52114846009816
+  z: 36.32701381059949
+  yaw: -243.13543701171875
+  pitch: -11.699885368347168
+  world-name: ''
+ip-address: 91.164.196.77
+last-account-name: Jack_Tilol
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476547429410
+  logout: 1476547444972
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.2408441794094
+  y: 63.0
+  z: 46.192669401139696
+  yaw: 51.55267333984375
+  pitch: 0.097404345870018
+  world-name: ''
+ip-address: 85.69.124.193
+last-account-name: wico15
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

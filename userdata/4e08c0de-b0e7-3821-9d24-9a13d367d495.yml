@@ -1,0 +1,38 @@
+timestamps:
+  login: 1535539357996
+  lastteleport: 1519149221997
+  logout: 1535539374999
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1883.990810781149
+  y: 65.0
+  z: -1216.6414351857118
+  yaw: -1.1115604639053345
+  pitch: 20.215179443359375
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -2199.563927468681
+  y: 75.0
+  z: -2384.32056060975
+  yaw: 124.53524780273438
+  pitch: 5.647887229919434
+  world-name: ''
+ip-address: 77.141.227.4
+last-account-name: pois74
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

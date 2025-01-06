@@ -1,0 +1,38 @@
+timestamps:
+  login: 1594132593235
+  lastteleport: 1594134031509
+  logout: 1594135311797
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -81.36643665936715
+  y: 69.0
+  z: -2.8316028429831164
+  yaw: -103.18338012695312
+  pitch: 39.451438903808594
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6300.442103181069
+  y: 90.0
+  z: -5632.498301865205
+  yaw: 39.30000305175781
+  pitch: 7.500002384185791
+  world-name: ''
+ip-address: 109.208.66.25
+last-account-name: Mikrobe
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

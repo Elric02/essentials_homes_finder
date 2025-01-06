@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517732892012
+  lastteleport: 1517732997310
+  logout: 1517733088095
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.92411251725343
+  y: 66.0
+  z: 18.710825405976266
+  yaw: -85.55307006835938
+  pitch: -21.209348678588867
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 44.14449977484838
+  y: 22.0
+  z: 26.592870249719734
+  yaw: 11.43472671508789
+  pitch: 17.39997673034668
+  world-name: ''
+ip-address: 176.168.182.61
+last-account-name: Sariolane
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

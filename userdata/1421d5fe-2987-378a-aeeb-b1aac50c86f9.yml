@@ -1,0 +1,63 @@
+timestamps:
+  login: 1511460563826
+  logout: 1511462471104
+  lastteleport: 1511460880222
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -954.9687368247335
+  y: 94.0
+  z: -1557.6013249660982
+  yaw: -74.71267700195312
+  pitch: 25.19980239868164
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  b:
+    world: world
+    x: 5832.613165558791
+    y: 199.0
+    z: -112.64199515332082
+    yaw: 157.47271728515625
+    pitch: 52.500030517578125
+    world-name: ''
+  a:
+    world: world
+    x: 5894.242617906967
+    y: 79.0
+    z: -106.08719059622116
+    yaw: 136.01565551757812
+    pitch: 31.977087020874023
+    world-name: ''
+  rose:
+    world: world
+    x: -957.2792907190014
+    y: 94.0
+    z: -1557.882094569607
+    yaw: 269.8355712890625
+    pitch: 24.000003814697266
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5896.004539983006
+  y: 79.0
+  z: -105.59516172147937
+  yaw: 65.51573944091797
+  pitch: 24.177093505859375
+  world-name: ''
+ip-address: 212.198.56.99
+last-account-name: BlueMadCat
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

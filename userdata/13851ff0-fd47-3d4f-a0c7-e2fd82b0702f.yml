@@ -1,0 +1,63 @@
+timestamps:
+  login: 1600266905801
+  lastteleport: 1600207620137
+  logout: 1600266935673
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -3874.8237537969576
+  y: 55.521574838544794
+  z: -3300.713195233305
+  yaw: 8.121954917907715
+  pitch: 21.2230224609375
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -3529.193472987421
+    y: 67.0
+    z: 5625.451611879445
+    yaw: 241.28170776367188
+    pitch: 43.62934494018555
+    world-name: ''
+  ender:
+    world: End
+    x: 337.47470058886046
+    y: 57.0
+    z: -6.17263758291357
+    yaw: 317.5104675292969
+    pitch: 14.097264289855957
+    world-name: ''
+  iron:
+    world: world
+    x: 454.3722001264663
+    y: 140.0
+    z: 6085.087034508658
+    yaw: 268.44244384765625
+    pitch: 2.81380033493042
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3527.278139925156
+  y: 45.0
+  z: 5645.6121187593235
+  yaw: 182.83787536621094
+  pitch: 3.1404857635498047
+  world-name: ''
+afk: false
+ip-address: 77.207.154.161
+last-account-name: DropTekK
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

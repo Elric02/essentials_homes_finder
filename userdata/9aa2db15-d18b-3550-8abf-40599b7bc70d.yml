@@ -1,0 +1,64 @@
+timestamps:
+  login: 1490875294319
+  logout: 1490879489173
+  lastteleport: 1490879452284
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5507.344204336715
+  y: 64.0
+  z: -1037.987077585899
+  yaw: 72.21035766601562
+  pitch: 17.399934768676758
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5690.18682896635
+  y: 135.0
+  z: -957.2641895817414
+  yaw: -341.18768310546875
+  pitch: 14.85002326965332
+  world-name: ''
+money: '0'
+homes:
+  h:
+    world: world
+    x: -5694.726001744361
+    y: 135.0
+    z: -948.825877139607
+    yaw: -192.38760375976562
+    pitch: 42.60002136230469
+    world-name: ''
+  n:
+    world: world_nether
+    x: -660.6454567427725
+    y: 67.0
+    z: 1373.1388941751165
+    yaw: -9.521209716796875
+    pitch: 14.85002326965332
+    world-name: ''
+  c:
+    world: world
+    x: -5495.284225110126
+    y: 63.0
+    z: -1045.665197733092
+    yaw: 271.86029052734375
+    pitch: 33.44993591308594
+    world-name: ''
+afk: false
+nickname: Sw0rk
+ip-address: 82.244.106.175
+last-account-name: MamadouGhetto
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

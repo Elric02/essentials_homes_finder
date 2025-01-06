@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474731887398
+  logout: 1474731926896
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 168.58012253106034
+  y: 63.0
+  z: 48.6149778327876
+  yaw: -193.92965698242188
+  pitch: 4.258186340332031
+  world-name: ''
+ip-address: 86.206.190.126
+last-account-name: GenShii
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

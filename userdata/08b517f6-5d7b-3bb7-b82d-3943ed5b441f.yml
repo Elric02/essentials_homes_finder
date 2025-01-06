@@ -1,0 +1,38 @@
+timestamps:
+  login: 1563882734327
+  lastteleport: 1563884092095
+  logout: 1563884727342
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 146.1036067598147
+  y: 69.0
+  z: 103.33485566361755
+  yaw: -86.40115356445312
+  pitch: 23.287776947021484
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 152.61877816641427
+  y: 65.0
+  z: 83.67935429528605
+  yaw: -305.5040283203125
+  pitch: 3.080826759338379
+  world-name: ''
+ip-address: 37.170.125.87
+last-account-name: Nebufak
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1477321105188
+  lastteleport: 1477324353251
+  logout: 1477325071020
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -313.1140381256276
+  y: 73.0
+  z: 329.17760855332745
+  yaw: 94.94970703125
+  pitch: 23.99998664855957
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -385.14402691276825
+    y: 70.0
+    z: -1386.7476907919147
+    yaw: -76.9827880859375
+    pitch: 36.14999008178711
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -5403.300000011921
+  y: 69.0
+  z: 763.7749347711191
+  yaw: 246.71844482421875
+  pitch: 26.053255081176758
+  world-name: ''
+money: '0'
+ip-address: 92.141.204.152
+last-account-name: robin525
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

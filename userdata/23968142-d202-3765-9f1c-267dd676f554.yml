@@ -1,0 +1,55 @@
+timestamps:
+  login: 1532805156845
+  logout: 1532805207153
+  lastteleport: 1532805192385
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -881.4071417813151
+  y: 63.0
+  z: -1623.4838848772017
+  yaw: 41.438385009765625
+  pitch: 15.087427139282227
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 667.7914141782521
+  y: 68.0
+  z: -573.1935653331049
+  yaw: 316.4423522949219
+  pitch: 24.207914352416992
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 365.814768264673
+    y: 68.0
+    z: -799.4879214435829
+    yaw: 263.322265625
+    pitch: 37.199974060058594
+    world-name: ''
+  home2:
+    world: world
+    x: 667.4447809568408
+    y: 68.0
+    z: -573.9286511797578
+    yaw: 318.5380554199219
+    pitch: 22.741071701049805
+    world-name: ''
+ip-address: 105.98.196.78
+last-account-name: raouf
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

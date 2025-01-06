@@ -1,0 +1,55 @@
+timestamps:
+  login: 1483183511072
+  lastteleport: 1483184211555
+  logout: 1483184402524
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3659.6836838093745
+  y: 70.0
+  z: 60.667249804106106
+  yaw: -340.9149169921875
+  pitch: 34.41287612915039
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 112.1482782562452
+  y: 63.0
+  z: -14.109020356764772
+  yaw: -345.8614196777344
+  pitch: 12.998985290527344
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -3628.5336293397136
+    y: 64.0
+    z: 85.41096062568626
+    yaw: -256.380615234375
+    pitch: 17.05927848815918
+    world-name: ''
+  graine:
+    world: world
+    x: -6302.066668421806
+    y: 76.0
+    z: 6695.431354142548
+    yaw: 5.184571743011475
+    pitch: 11.48067855834961
+    world-name: ''
+ip-address: 91.180.230.33
+last-account-name: Bibichon59
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

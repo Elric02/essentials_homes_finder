@@ -1,0 +1,63 @@
+timestamps:
+  login: 1644770298211
+  logout: 1644772582749
+  lastteleport: 1644772513115
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 27d75173-7a5e-49c7-9e35-856f6c1d3e3c
+  x: 4946.300000011921
+  y: -8.0
+  z: 951.2510813751496
+  yaw: -19.586822509765625
+  pitch: 5.243246078491211
+  world-name: Ressource
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 5783.971556903665
+  y: 41.0
+  z: 2247.5905503091035
+  yaw: 93.52413940429688
+  pitch: -26.27651023864746
+  world-name: world
+homes:
+  a:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5791.5
+    y: 45.0
+    z: 2227.5
+    yaw: 0.6033935546875
+    pitch: 0.7500040531158447
+    world-name: world
+  end:
+    world: 27d75173-7a5e-49c7-9e35-856f6c1d3e3c
+    x: 864.3000000119209
+    y: -19.0
+    z: -721.0394299482169
+    yaw: -33.81171798706055
+    pitch: 19.68595314025879
+    world-name: Ressource
+  gold:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5802.8211079959
+    y: 63.5
+    z: 2246.5597748557125
+    yaw: -175.0730438232422
+    pitch: 13.97396183013916
+    world-name: world
+afk: false
+ip-address: 31.10.171.86
+last-account-name: AtomicVirusA7
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

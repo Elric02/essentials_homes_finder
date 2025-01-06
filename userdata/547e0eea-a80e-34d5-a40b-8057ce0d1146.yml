@@ -1,0 +1,63 @@
+timestamps:
+  login: 1499008027767
+  lastteleport: 1499008048227
+  logout: 1499008140320
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3561.22404028824
+  y: 42.0
+  z: -1461.0444601414176
+  yaw: -261.869873046875
+  pitch: 4.337325572967529
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 3547.992778836951
+    y: 63.0
+    z: -1445.726397445676
+    yaw: -27.8286190032959
+    pitch: 7.582197666168213
+    world-name: ''
+  c:
+    world: world
+    x: 3698.9663981410235
+    y: 83.0
+    z: -1266.0078274137666
+    yaw: -180.61058044433594
+    pitch: 33.60252380371094
+    world-name: ''
+  b:
+    world: world
+    x: 3626.217841813016
+    y: 84.0
+    z: -1304.0987324189996
+    yaw: -76.89138793945312
+    pitch: 29.040729522705078
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3616.733935315137
+  y: 64.0
+  z: -1446.1279633957051
+  yaw: 230.22178649902344
+  pitch: 24.538808822631836
+  world-name: ''
+afk: false
+muted: false
+ip-address: 90.37.20.130
+last-account-name: Neralt
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

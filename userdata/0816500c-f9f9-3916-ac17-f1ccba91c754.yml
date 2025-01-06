@@ -1,0 +1,63 @@
+timestamps:
+  login: 1534691300519
+  logout: 1534694139188
+  lastteleport: 1533129577613
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.09787096413467
+  y: 84.0
+  z: -65.08270618523014
+  yaw: 160.7798309326172
+  pitch: 26.42864418029785
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -7200.00010521373
+  y: 58.5
+  z: 538.3000000119209
+  yaw: -104.6971435546875
+  pitch: -10.800023078918457
+  world-name: ''
+money: '0'
+homes:
+  b1:
+    world: world
+    x: -7052.003960972043
+    y: 80.0
+    z: 814.7335835503975
+    yaw: -109.34390258789062
+    pitch: 23.399999618530273
+    world-name: ''
+  c:
+    world: Ressource
+    x: -26.58527044305215
+    y: 60.0
+    z: -88.16694025097972
+    yaw: 164.8153076171875
+    pitch: -61.79997634887695
+    world-name: ''
+  base:
+    world: world
+    x: -7206.912569509557
+    y: 64.0
+    z: 535.1708227439898
+    yaw: -2.394287109375
+    pitch: 38.54996871948242
+    world-name: ''
+afk: false
+ip-address: 88.161.158.52
+last-account-name: boost51
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477568166406
+  logout: 1477568234169
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.43455716578757
+  y: 63.875
+  z: 25.580169370766615
+  yaw: -165.7972412109375
+  pitch: 21.997394561767578
+  world-name: ''
+ip-address: 78.231.66.20
+last-account-name: LEO2003
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

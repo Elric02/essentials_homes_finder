@@ -1,0 +1,89 @@
+timestamps:
+  login: 1732883100558
+  logout: 1732885697429
+  lastteleport: 1732884643203
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 245.5
+  y: 132.0
+  z: 140.5
+  yaw: -142.29730224609375
+  pitch: 14.911397933959961
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3065.311008978719
+  y: 122.0
+  z: -2381.9677844277144
+  yaw: 155.9135284423828
+  pitch: 32.56734085083008
+  world-name: world
+homes:
+  newbase:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3074.613725825755
+    y: 104.0
+    z: -2211.0464942032636
+    yaw: -153.5435028076172
+    pitch: 58.766719818115234
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3888.0815932963455
+    y: 41.0
+    z: -1819.7674655607827
+    yaw: -89.62307739257812
+    pitch: 9.940596580505371
+  plotcreatif:
+    world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+    world-name: plot
+    x: -217.1611460587907
+    y: 67.87380386505903
+    z: 318.0616770916183
+    yaw: 70.05005645751953
+    pitch: 33.00012969970703
+  shop:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -363.89367917649736
+    y: 78.0
+    z: 397.79271004987254
+    yaw: 88.05429077148438
+    pitch: 25.649856567382812
+  bastion:
+    world: 662d438a-3236-43b5-be72-96a96955dbc4
+    world-name: RessourceNether
+    x: 912.877693457649
+    y: 50.155982500731945
+    z: 768.8325578665109
+    yaw: 86.85174560546875
+    pitch: 23.699899673461914
+  bry:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6223.500623649872
+    y: 63.0
+    z: 167.1249913018174
+    yaw: -153.447265625
+    pitch: -10.436254501342773
+money: '500.0'
+afk: false
+ip-address: 88.180.135.106
+last-account-name: T2O_raya
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+ignore:
+- f33a3adb-560d-396e-9ce6-35d6413952f5

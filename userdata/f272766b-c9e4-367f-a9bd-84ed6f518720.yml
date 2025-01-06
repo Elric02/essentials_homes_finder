@@ -1,0 +1,55 @@
+timestamps:
+  login: 1515923331136
+  lastteleport: 1515923693750
+  logout: 1515923871903
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6286.462853132258
+  y: 68.5
+  z: 1699.7503417544067
+  yaw: 30.91131591796875
+  pitch: 34.200008392333984
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -591.8297569693443
+  y: 64.0
+  z: -776.860817921789
+  yaw: 356.72711181640625
+  pitch: 25.371519088745117
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 6275.15515635979
+    y: 69.0
+    z: 1703.204896076141
+    yaw: 167.861328125
+    pitch: 23.54998779296875
+    world-name: ''
+  colby:
+    world: world
+    x: 6394.0582044186895
+    y: 101.5
+    z: -6116.525119752764
+    yaw: -96.39997100830078
+    pitch: 24.000038146972656
+    world-name: ''
+afk: false
+ip-address: 90.112.19.27
+last-account-name: tibas38
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

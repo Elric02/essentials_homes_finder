@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614277113777
+  logout: 1614277168239
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 160.56040807374634
+  y: 64.0
+  z: 21.19182455032588
+  yaw: 89.39885711669922
+  pitch: 28.5577392578125
+  world-name: ''
+ip-address: 92.141.223.22
+last-account-name: Edgourd
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

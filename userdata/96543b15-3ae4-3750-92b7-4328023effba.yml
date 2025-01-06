@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614896816834
+  lastteleport: 1614897171768
+  logout: 1614897185323
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.8059508892056
+  y: 63.0
+  z: 38.86093240869882
+  yaw: -46.14543151855469
+  pitch: 9.425857543945312
+  world-name: ''
+logoutlocation:
+  world: End
+  x: -79.5
+  y: 69.0
+  z: -0.5
+  yaw: -60.5814323425293
+  pitch: 13.950565338134766
+  world-name: ''
+ip-address: 88.127.181.167
+last-account-name: Massacer69
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

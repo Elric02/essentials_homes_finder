@@ -1,0 +1,55 @@
+timestamps:
+  login: 1514993921130
+  lastteleport: 1514995183539
+  logout: 1514995212084
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3953.699999988079
+  y: 84.0
+  z: -2854.3715322758903
+  yaw: -245.5946044921875
+  pitch: 37.80019760131836
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 4261.5
+    y: 67.0
+    z: -3559.5
+    yaw: -84.4947738647461
+    pitch: 31.79996109008789
+    world-name: ''
+  jungle:
+    world: world
+    x: 5141.153028741201
+    y: 73.0
+    z: -2079.11261790684
+    yaw: 288.2547912597656
+    pitch: 16.200008392333984
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 4267.446712376087
+  y: 72.0625
+  z: -3558.9424914237197
+  yaw: -11.744903564453125
+  pitch: -37.20001220703125
+  world-name: ''
+afk: false
+ip-address: 90.126.246.81
+last-account-name: dame2coeur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

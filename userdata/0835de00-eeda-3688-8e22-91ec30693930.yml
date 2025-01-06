@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.45.11.147
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712381526274
+  login: 1712381498235
+money: '0'
+last-account-name: Adrien263
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.02244078795616
+  y: 81.0
+  z: -3111.3623219982746
+  yaw: -62.25092315673828
+  pitch: 5.999815940856934
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.97943065307277
+  y: 81.0
+  z: -3111.3850903572065
+  yaw: -85.20115661621094
+  pitch: -2.250183582305908

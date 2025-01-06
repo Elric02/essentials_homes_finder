@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500900430747
+  logout: 1500900683383
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.1477459928329
+  y: 64.0
+  z: 25.298571951585817
+  yaw: -182.74749755859375
+  pitch: 14.197394371032715
+  world-name: ''
+ip-address: 134.157.193.158
+last-account-name: SkyZyGamerZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

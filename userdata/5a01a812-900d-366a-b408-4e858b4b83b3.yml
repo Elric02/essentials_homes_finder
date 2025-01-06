@@ -1,0 +1,63 @@
+timestamps:
+  login: 1707165532963
+  lastteleport: 1707166680392
+  logout: 1707166688090
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1533.7732945884773
+  y: 72.0
+  z: -2178.934774325966
+  yaw: -98.388671875
+  pitch: 14.099214553833008
+  world-name: world
+money: '200.0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -5479.399576299809
+  y: 77.0625
+  z: 1463.121740744455
+  yaw: -113.4672622680664
+  pitch: 6.450009822845459
+  world-name: world
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5464.498564455742
+    y: 77.0
+    z: 1462.7758772970235
+    yaw: 95.93277740478516
+    pitch: 16.499990463256836
+    world-name: world
+  ville:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5574.514705621517
+    y: 65.0
+    z: 534.3393298766999
+    yaw: -264.0815124511719
+    pitch: 70.590576171875
+    world-name: world
+  claim2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5451.436705787801
+    y: 74.0
+    z: 1622.4862395952814
+    yaw: -85.45063781738281
+    pitch: 17.31271743774414
+    world-name: world
+afk: false
+jailed: false
+ip-address: 90.59.204.219
+last-account-name: Lulu_LT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616859239583
+  logout: 1616859303793
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 169.20732584520036
+  y: 61.605793190982446
+  z: 110.51854221109146
+  yaw: 30.848724365234375
+  pitch: -30.809444427490234
+  world-name: ''
+ip-address: 193.250.12.119
+last-account-name: 6_Blunt_9
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

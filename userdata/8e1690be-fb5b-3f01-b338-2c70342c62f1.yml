@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517941782582
+  lastteleport: 1517942453174
+  logout: 1517942823491
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 21.936724316502573
+  y: 65.0
+  z: 19.013455514012147
+  yaw: 331.296875
+  pitch: -10.650002479553223
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 144.16174066393248
+  y: 66.0
+  z: 99.27329530358791
+  yaw: 220.10296630859375
+  pitch: 13.049975395202637
+  world-name: ''
+ip-address: 82.246.147.20
+last-account-name: Ninjanette
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

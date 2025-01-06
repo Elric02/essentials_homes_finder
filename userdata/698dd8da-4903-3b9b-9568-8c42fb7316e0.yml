@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616501841020
+  lastteleport: 1616503035612
+  logout: 1616503564120
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2742.5
+  y: 98.0
+  z: -56.5
+  yaw: 5.778847694396973
+  pitch: 14.714143753051758
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 155.39976225567233
+  y: 64.0
+  z: 30.568095017708785
+  yaw: -184.2957763671875
+  pitch: 4.175958633422852
+  world-name: ''
+ip-address: 77.140.2.5
+last-account-name: DontAskMeDeco
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1541251004200
+  lastteleport: 1541251535991
+  logout: 1541252064888
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6828.128876119027
+  y: 49.0
+  z: 3109.6720765942987
+  yaw: 13.9720458984375
+  pitch: 23.999942779541016
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6888.836506609428
+  y: 68.0
+  z: 3210.710494563843
+  yaw: -268.1164855957031
+  pitch: 30.89999771118164
+  world-name: ''
+ip-address: 2.6.209.168
+last-account-name: EERyZe
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

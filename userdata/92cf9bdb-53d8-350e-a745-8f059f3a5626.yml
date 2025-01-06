@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478981907939
+  lastteleport: 1478981949845
+  logout: 1478982302365
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.8066051036226
+  y: 63.0
+  z: 48.85972609925792
+  yaw: -101.59735107421875
+  pitch: 3.6974000930786133
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3494.1197656672216
+  y: 70.0
+  z: 5581.271651007751
+  yaw: 138.066162109375
+  pitch: 1.8000200986862183
+  world-name: ''
+ip-address: 86.213.19.183
+last-account-name: MrArleQuin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

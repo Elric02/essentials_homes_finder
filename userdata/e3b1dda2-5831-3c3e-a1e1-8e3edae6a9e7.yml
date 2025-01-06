@@ -1,0 +1,38 @@
+timestamps:
+  login: 1603718501893
+  logout: 1603718535165
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.7767972565582
+  y: 65.5
+  z: 106.27429869208035
+  yaw: 113.04693603515625
+  pitch: 19.590667724609375
+  world-name: ''
+ip-address: 78.204.44.93
+last-account-name: Totor_000
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

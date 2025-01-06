@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.10.43.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671661169049
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671661447138
+  login: 1671654834734
+money: '500.0'
+lastlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -1052.8085076673262
+  y: 63.0
+  z: 3668.7482946293985
+  yaw: 54.430084228515625
+  pitch: 4.185176849365234
+last-account-name: Babouchk
+logoutlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: 2499.4908307273117
+  y: 64.0
+  z: -3770.3530792188917
+  yaw: 134.8082275390625
+  pitch: 34.53847122192383

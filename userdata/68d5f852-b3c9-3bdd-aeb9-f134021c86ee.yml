@@ -1,0 +1,47 @@
+timestamps:
+  login: 1520355576972
+  logout: 1520361568447
+  lastteleport: 1520361176054
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6934.22489751755
+  y: 44.0
+  z: 2987.006533874738
+  yaw: 148.2666015625
+  pitch: 24.80628204345703
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.44551591633353
+  y: 63.0
+  z: 2.268772487784772
+  yaw: -180.35345458984375
+  pitch: 1.6278213262557983
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  faille:
+    world: world
+    x: 6935.045901946206
+    y: 44.0
+    z: 2989.555107177437
+    yaw: 275.404296875
+    pitch: 25.59800910949707
+    world-name: ''
+ip-address: 92.95.206.35
+last-account-name: MrWattouat
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

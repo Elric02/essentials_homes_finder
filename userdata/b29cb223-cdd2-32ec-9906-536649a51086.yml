@@ -1,0 +1,38 @@
+timestamps:
+  login: 1577018124075
+  lastteleport: 1577018255269
+  logout: 1577018300993
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5379.701031223851
+  y: 64.0
+  z: 1427.1193496827334
+  yaw: 14.542470932006836
+  pitch: -38.40001678466797
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 148.76877283060963
+  y: 63.0
+  z: 49.633289678123234
+  yaw: -236.1300506591797
+  pitch: 0.20957444608211517
+  world-name: ''
+ip-address: 86.225.104.208
+last-account-name: JustineDem
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508600409634
+  logout: 1508600481438
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.23923373334634
+  y: 63.0
+  z: 49.09745258086802
+  yaw: -154.097412109375
+  pitch: 1.297379970550537
+  world-name: ''
+ip-address: 88.137.239.137
+last-account-name: Scrimila
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

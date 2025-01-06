@@ -1,0 +1,64 @@
+timestamps:
+  login: 1486570515276
+  lastteleport: 1485260281241
+  mute: 0
+  logout: 1486570816063
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 66.4951078164136
+  y: 70.5
+  z: 111.4670326449167
+  yaw: -178.261962890625
+  pitch: 0.449952632188797
+  world-name: ''
+money: '0'
+muted: true
+homes:
+  home:
+    world: world
+    x: 4621.7686896650175
+    y: 63.0
+    z: -3555.2085679035854
+    yaw: -80.572265625
+    pitch: 28.200002670288086
+    world-name: ''
+  base:
+    world: ressource
+    x: -5268.93038828974
+    y: 74.0
+    z: -4675.453210408867
+    yaw: -176.0999755859375
+    pitch: 20.700008392333984
+    world-name: ''
+  r_ssidences:
+    world: world
+    x: -4257.339979734807
+    y: 63.0
+    z: -3669.300000011921
+    yaw: 252.1856689453125
+    pitch: 10.417011260986328
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 65.92500001192093
+  y: 70.0
+  z: 110.9377006823197
+  yaw: -276.66192626953125
+  pitch: 15.599954605102539
+  world-name: ''
+jailed: true
+jail: pirate
+ip-address: 83.157.250.123
+last-account-name: Liftings
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

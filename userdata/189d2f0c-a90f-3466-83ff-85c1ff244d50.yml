@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511644580373
+  logout: 1511644721943
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 112.37522746800488
+  y: 63.0
+  z: 4.83124204035347
+  yaw: 285.1025390625
+  pitch: 36.247413635253906
+  world-name: ''
+ip-address: 105.154.47.34
+last-account-name: ZikoDiva
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

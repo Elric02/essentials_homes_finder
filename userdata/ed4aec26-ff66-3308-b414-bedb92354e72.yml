@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483290877221
+  lastteleport: 1483291747400
+  logout: 1483292077760
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 202.66462004680602
+  y: 64.66610926093821
+  z: 20.7097439882664
+  yaw: -278.76104736328125
+  pitch: 9.024510383605957
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1945.744771029823
+  y: 65.0
+  z: 3728.210592926061
+  yaw: 64.19974517822266
+  pitch: -10.500082015991211
+  world-name: ''
+ip-address: 90.107.81.246
+last-account-name: totototo5
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

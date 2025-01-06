@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511092354612
+  logout: 1511092360462
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 149.70652904345363
+  y: 63.0
+  z: 48.46527609368786
+  yaw: -268.847412109375
+  pitch: -6.20259952545166
+  world-name: ''
+ip-address: 90.18.30.25
+last-account-name: _DarkWhite
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

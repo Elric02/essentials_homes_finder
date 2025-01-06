@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500737902815
+  lastteleport: 1500738499461
+  logout: 1500738505352
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.7882765097492
+  y: 64.0
+  z: 9.089571939772362
+  yaw: -165.44200134277344
+  pitch: -0.14607343077659607
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.5571061742878
+  y: 64.0
+  z: 30.20370447992507
+  yaw: -159.72157287597656
+  pitch: 4.911141872406006
+  world-name: ''
+ip-address: 92.130.150.14
+last-account-name: NanaGaming
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

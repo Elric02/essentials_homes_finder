@@ -1,0 +1,47 @@
+timestamps:
+  login: 1496930788549
+  lastteleport: 1496939617885
+  logout: 1496940123339
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: -4439.941281172522
+  y: 88.0
+  z: 5688.6480720759155
+  yaw: 19.477859497070312
+  pitch: 1.199994444847107
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -5896.658630620032
+    y: 78.0
+    z: -5837.300000011921
+    yaw: 62.85006332397461
+    pitch: 19.20003318786621
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -5905.149320587733
+  y: 76.0
+  z: -5856.076603584951
+  yaw: -324.2998046875
+  pitch: 22.950054168701172
+  world-name: ''
+ip-address: 46.193.65.27
+last-account-name: x_Bigard
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

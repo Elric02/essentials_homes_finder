@@ -1,0 +1,38 @@
+timestamps:
+  login: 1577115314458
+  lastteleport: 1577116362186
+  logout: 1577116729547
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 92.47713754232171
+  y: 82.0
+  z: 1885.4861074774528
+  yaw: -15.07708740234375
+  pitch: 43.893157958984375
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 151.63442177508168
+  y: 64.0
+  z: 20.652697650897135
+  yaw: -282.53948974609375
+  pitch: -21.94573402404785
+  world-name: ''
+ip-address: 88.124.15.62
+last-account-name: Bisseman63
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

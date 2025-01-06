@@ -1,0 +1,63 @@
+timestamps:
+  login: 1564415927563
+  lastteleport: 1564400550352
+  logout: 1564416073910
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -721.8639534496706
+  y: 57.0
+  z: -703.0339315935407
+  yaw: 84.72782897949219
+  pitch: 13.452953338623047
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6110.67194162864
+  y: 69.0
+  z: -5766.991516758231
+  yaw: -267.4644775390625
+  pitch: 31.103307723999023
+  world-name: ''
+homes:
+  home:
+    world: End
+    x: 287.530932724162
+    y: 57.0
+    z: -1.762499988079071
+    yaw: -122.24588775634766
+    pitch: 34.41047668457031
+    world-name: ''
+  end:
+    world: End
+    x: -527.8889837411994
+    y: 60.0
+    z: -1163.9787164385436
+    yaw: 4.79193115234375
+    pitch: 21.52239227294922
+    world-name: ''
+  m:
+    world: world
+    x: 6116.844361927493
+    y: 69.0
+    z: -5771.04356787667
+    yaw: 61.14435577392578
+    pitch: 5.650119781494141
+    world-name: ''
+afk: false
+ip-address: 2.3.150.236
+last-account-name: Pioustonne
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

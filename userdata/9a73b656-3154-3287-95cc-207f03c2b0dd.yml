@@ -1,0 +1,63 @@
+timestamps:
+  login: 1509111921308
+  lastteleport: 1498219927620
+  logout: 1509112155823
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1802.5209442058149
+  y: 45.0
+  z: -1451.8983498832713
+  yaw: -54.52824783325195
+  pitch: 6.024864196777344
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1808.5469041595613
+  y: 49.621599998474125
+  z: -1290.6275371988822
+  yaw: -2.99554443359375
+  pitch: 58.80000305175781
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -1706.8369599555738
+    y: 68.0
+    z: -1321.345110838528
+    yaw: -239.394775390625
+    pitch: 17.238080978393555
+    world-name: ''
+  shop:
+    world: world
+    x: -109.4583211900741
+    y: 46.0
+    z: 410.3870673931517
+    yaw: 1.435638427734375
+    pitch: 19.486164093017578
+    world-name: ''
+  secondaire:
+    world: world
+    x: 5107.528430497575
+    y: 67.0
+    z: 7611.605625151759
+    yaw: 0.14740891754627228
+    pitch: 41.9364128112793
+    world-name: ''
+afk: false
+ip-address: 88.125.177.184
+last-account-name: Flaman9
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

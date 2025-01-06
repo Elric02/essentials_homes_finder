@@ -1,0 +1,63 @@
+timestamps:
+  login: 1629456240271
+  lastteleport: 1629456554936
+  logout: 1629456841972
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3024.7006122470116
+  y: 123.5
+  z: -6824.999230584658
+  yaw: 31.151655197143555
+  pitch: -50.2160530090332
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 2874.300000011921
+  y: 150.5
+  z: -6824.459092665438
+  yaw: 49.51263427734375
+  pitch: -18.9477481842041
+  world-name: ''
+homes:
+  trolgar:
+    world: world
+    x: -6117.099596154884
+    y: 24.0
+    z: -4713.842099785171
+    yaw: 189.1661376953125
+    pitch: 23.402587890625
+    world-name: ''
+  base:
+    world: world
+    x: 2900.963379342068
+    y: 70.0
+    z: -6743.512499988079
+    yaw: -0.19146728515625
+    pitch: 16.804840087890625
+    world-name: ''
+  co:
+    world: world
+    x: 2879.0394651837946
+    y: 139.0
+    z: -6822.2873508757775
+    yaw: 333.205810546875
+    pitch: 28.434051513671875
+    world-name: ''
+afk: false
+ip-address: 87.64.160.21
+last-account-name: Xx_zebi_xX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

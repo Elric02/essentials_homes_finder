@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.39.110.218
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1691879105767
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1691879178817
+  login: 1691879004298
+money: '0'
+last-account-name: COUCOUlavoila157
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.4177460881424
+  y: 81.0
+  z: -3109.018185301992
+  yaw: -125.23898315429688
+  pitch: 7.161134719848633
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 236.7762895377029
+  y: 59.23042045604452
+  z: 152.27260784540945
+  yaw: 47.940460205078125
+  pitch: 6.374090194702148

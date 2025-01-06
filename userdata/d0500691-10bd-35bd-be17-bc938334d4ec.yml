@@ -1,0 +1,47 @@
+timestamps:
+  login: 1591022133134
+  lastteleport: 1557939862037
+  logout: 1591022651996
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3377.540422359016
+  y: 65.90199999809265
+  z: -3031.5403253906406
+  yaw: 53.24428176879883
+  pitch: 79.79996490478516
+  world-name: ''
+homes:
+  b:
+    world: world
+    x: 3377.1999194591726
+    y: 66.0
+    z: -3031.920545445151
+    yaw: 343.7942810058594
+    pitch: 11.549979209899902
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3355.366986239803
+  y: 66.0
+  z: -3028.3588557117264
+  yaw: 189.0565185546875
+  pitch: 24.92452049255371
+  world-name: ''
+afk: false
+ip-address: 90.46.136.247
+last-account-name: Hellflamme_YTB
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

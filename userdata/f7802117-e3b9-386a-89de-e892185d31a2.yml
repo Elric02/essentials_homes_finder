@@ -1,0 +1,63 @@
+timestamps:
+  login: 1642721231536
+  lastteleport: 1642562849711
+  logout: 1642721239494
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 156.1372802557895
+  y: 64.0
+  z: 15.946408669523436
+  yaw: 24.303892135620117
+  pitch: 14.100081443786621
+  world-name: world
+logoutlocation:
+  world: 886c7d43-b736-498b-8648-cad06b6b21d1
+  x: 1591.300000011921
+  y: 9.0
+  z: -2707.183437046266
+  yaw: 64.63742065429688
+  pitch: 38.09959030151367
+  world-name: Event
+afk: false
+money: '0'
+homes:
+  new:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6699.145575683527
+    y: 69.0
+    z: -6734.1405862164665
+    yaw: -169.34999084472656
+    pitch: 10.799999237060547
+    world-name: world
+  shop:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4918.821516404143
+    y: 69.0
+    z: -264.5011511647235
+    yaw: -44.72290802001953
+    pitch: 20.70001792907715
+    world-name: world
+  kainovaii:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    world-name: Event
+    x: 1593.3943332484812
+    y: 9.0
+    z: -2705.990250738289
+    yaw: 130.18209838867188
+    pitch: 36.29965591430664
+jailed: false
+ip-address: 82.65.135.228
+last-account-name: Tomix_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

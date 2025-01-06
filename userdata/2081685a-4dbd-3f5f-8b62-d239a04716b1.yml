@@ -1,0 +1,38 @@
+timestamps:
+  login: 1531591394235
+  logout: 1531592264892
+  lastteleport: 1531591889618
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.33910337887937
+  y: 63.0
+  z: -3.962537775809839
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 203.72237059528712
+  y: 63.0
+  z: -21.006566509542864
+  yaw: -76.6707763671875
+  pitch: 31.79996681213379
+  world-name: ''
+money: '0'
+ip-address: 92.171.14.130
+last-account-name: Axodique
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

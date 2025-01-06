@@ -1,0 +1,55 @@
+timestamps:
+  login: 1581092878819
+  lastteleport: 1581093060736
+  logout: 1581093189438
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.1379938868825
+  y: 64.0
+  z: 21.81129986021372
+  yaw: -166.38247680664062
+  pitch: -6.530383110046387
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -395.2937320535554
+  y: 63.796735600668704
+  z: -1710.5801775483606
+  yaw: -28.21734619140625
+  pitch: 5.9586992263793945
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 4199.023739475897
+    y: 85.0
+    z: -3025.8526394918104
+    yaw: 7.107391357421875
+    pitch: 56.20534896850586
+    world-name: ''
+  artigan:
+    world: world
+    x: -899.7176258041653
+    y: 75.0
+    z: -2285.8073347997406
+    yaw: 352.735107421875
+    pitch: 25.302234649658203
+    world-name: ''
+ip-address: 185.216.24.52
+last-account-name: Nikouh4175
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

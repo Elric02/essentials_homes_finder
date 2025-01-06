@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.204.237.204
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1681059996277
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681060722772
+  login: 1681059958971
+money: '50.0'
+last-account-name: TAKOSOS
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -421.6580857111748
+  y: 65.0
+  z: -78.13865108313358
+  yaw: -49.6494140625
+  pitch: 13.499902725219727
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -348.1150657607603
+  y: 87.74313595059535
+  z: -109.26319514887386
+  yaw: 66.8983154296875
+  pitch: 25.649757385253906

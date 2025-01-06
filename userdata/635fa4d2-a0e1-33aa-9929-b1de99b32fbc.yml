@@ -1,0 +1,47 @@
+timestamps:
+  login: 1626361354163
+  lastteleport: 1626363703605
+  logout: 1626363885745
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 553.5598757255574
+  y: 74.0
+  z: -241.15339004787512
+  yaw: 350.090576171875
+  pitch: 10.59716510772705
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 149.76742316381768
+  y: 64.0
+  z: -79.30158667084191
+  yaw: 150.40097045898438
+  pitch: 20.928983688354492
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 150.6314733510158
+    y: 64.0
+    z: -80.14129969705769
+    yaw: 138.9520263671875
+    pitch: 5.0484490394592285
+    world-name: ''
+ip-address: 197.205.82.123
+last-account-name: kamokill
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

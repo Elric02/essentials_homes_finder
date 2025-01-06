@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490872355761
+  lastteleport: 1482429855332
+  logout: 1490872616970
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.59784778943256
+  y: 63.0
+  z: 7.932533595953274
+  yaw: -192.21099853515625
+  pitch: 29.574508666992188
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 153.97375789991088
+  y: 64.0
+  z: 20.80325932240019
+  yaw: -138.81092834472656
+  pitch: 22.824522018432617
+  world-name: ''
+ip-address: 82.125.234.144
+last-account-name: pijou9
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

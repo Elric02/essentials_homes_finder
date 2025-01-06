@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.35.6.35
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670541715140
+  login: 1670541678083
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.0223881460348
+  y: 81.0
+  z: -3111.24203353148
+  yaw: -66.61019897460938
+  pitch: 6.0742669105529785
+last-account-name: Erania
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 403.19640706974354
+  y: 81.0
+  z: -3108.0227276665196
+  yaw: -55.93323516845703
+  pitch: 7.675765514373779

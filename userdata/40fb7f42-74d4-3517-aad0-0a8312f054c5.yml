@@ -1,0 +1,47 @@
+timestamps:
+  login: 1497813407562
+  lastteleport: 1497818706271
+  logout: 1497818795986
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4610.544521636939
+  y: 80.0
+  z: 6589.0719761526825
+  yaw: 17.100013732910156
+  pitch: 37.64999008178711
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -4069.6447133180905
+    y: 67.0
+    z: -1520.8351901315264
+    yaw: -4.198251247406006
+    pitch: 22.950057983398438
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 80.48988464351105
+  y: 63.0
+  z: 44.2780385890975
+  yaw: -133.713134765625
+  pitch: 19.82454490661621
+  world-name: ''
+afk: false
+muted: false
+ip-address: 86.202.92.126
+last-account-name: Silver28000
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

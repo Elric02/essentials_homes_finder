@@ -1,0 +1,38 @@
+timestamps:
+  login: 1545309945436
+  lastteleport: 1526651783080
+  logout: 1545309981431
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 117.60879204062859
+  y: 63.0
+  z: -26.382815782809022
+  yaw: -100.25257873535156
+  pitch: 14.940641403198242
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 153.9513274228637
+  y: 64.0
+  z: 8.387790788287457
+  yaw: 173.6769256591797
+  pitch: 8.128758430480957
+  world-name: ''
+ip-address: 78.197.37.176
+last-account-name: thewolf59
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

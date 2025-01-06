@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509759874819
+  logout: 1509760221633
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3113.0726901249677
+  y: 119.14087143098183
+  z: -3637.01582402352
+  yaw: -23.100189208984375
+  pitch: 45.300025939941406
+  world-name: ''
+ip-address: 78.233.168.203
+last-account-name: kuras
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

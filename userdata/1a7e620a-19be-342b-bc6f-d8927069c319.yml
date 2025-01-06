@@ -1,0 +1,38 @@
+timestamps:
+  login: 1527008077130
+  lastteleport: 1527008030431
+  logout: 1527008109760
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -918.9778046256394
+  y: 73.0
+  z: 2070.009942981227
+  yaw: -9.300048828125
+  pitch: 10.799983024597168
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 156.56935689274061
+  y: 63.0
+  z: 57.99183542919432
+  yaw: -23.57082748413086
+  pitch: 9.178668022155762
+  world-name: ''
+ip-address: 77.154.202.110
+last-account-name: YoLoZef
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

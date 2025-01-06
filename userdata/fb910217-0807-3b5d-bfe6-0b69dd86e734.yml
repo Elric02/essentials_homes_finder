@@ -1,0 +1,63 @@
+timestamps:
+  login: 1490296698391
+  lastteleport: 1490297802088
+  logout: 1490298139856
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2431.2615316857255
+  y: 87.5
+  z: -6079.573985748444
+  yaw: -10.5341796875
+  pitch: 16.041418075561523
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 2427.2140771537593
+  y: 87.0
+  z: -6061.757709229442
+  yaw: -156.79180908203125
+  pitch: -47.900146484375
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 6496.5
+    y: 77.0
+    z: -1396.5
+    yaw: 55.978885650634766
+    pitch: 16.37525177001953
+    world-name: ''
+  maison:
+    world: world
+    x: 4533.660898069067
+    y: 63.0
+    z: -5995.438709896908
+    yaw: -179.9462890625
+    pitch: 5.525937557220459
+    world-name: ''
+  ville:
+    world: world
+    x: 2495.3278610565676
+    y: 62.5
+    z: -6065.467350754715
+    yaw: -268.78179931640625
+    pitch: -0.4865756630897522
+    world-name: ''
+afk: false
+muted: false
+ip-address: 78.223.122.33
+last-account-name: nono_gamer85
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

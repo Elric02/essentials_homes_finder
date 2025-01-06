@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614198048323
+  lastteleport: 1614198084484
+  logout: 1614198154581
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.65040385901705
+  y: 65.0
+  z: 70.75566036370809
+  yaw: 194.06570434570312
+  pitch: 8.872411727905273
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -125.03980976965988
+  y: 62.12717795841249
+  z: -21.42868195445242
+  yaw: 64.64485931396484
+  pitch: -54.56422805786133
+  world-name: ''
+ip-address: 90.3.64.178
+last-account-name: jeremiel_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,159 @@
+timestamps:
+  login: 1629836282540
+  lastteleport: 1629835077383
+  logout: 1629836330983
+  kits:
+    color: 1628110669680
+    vip: 1628096577583
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3069.02641713902
+  y: 70.0
+  z: 768.1107430599379
+  yaw: -71.611083984375
+  pitch: 5.1672210693359375
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 3130.198315841008
+    y: 68.0
+    z: 741.706194349615
+    yaw: -134.4364471435547
+    pitch: 18.21169090270996
+    world-name: ''
+  new:
+    world: world
+    x: -3061.2874484773893
+    y: 75.0
+    z: 732.6670443395545
+    yaw: 272.1780090332031
+    pitch: 25.350353240966797
+    world-name: ''
+  field:
+    world: world
+    x: 3116.255000972495
+    y: 79.0
+    z: 751.5930224051888
+    yaw: -138.28424072265625
+    pitch: 17.355058670043945
+    world-name: ''
+  farmend:
+    world: End
+    x: 339.76064599867175
+    y: 2.0
+    z: -6.638922359650275
+    yaw: -9.437583923339844
+    pitch: 18.202438354492188
+    world-name: ''
+  village:
+    world: world
+    x: 3061.3965846842966
+    y: 85.0
+    z: 774.8640790992159
+    yaw: -0.177490234375
+    pitch: 60.34305191040039
+    world-name: ''
+  work:
+    world: world
+    x: 3056.615604364459
+    y: 112.5
+    z: 784.5721781868455
+    yaw: -182.26055908203125
+    pitch: 36.341552734375
+    world-name: ''
+  shop:
+    world: world
+    x: -3452.9206345175494
+    y: 198.5
+    z: 3512.8129861212683
+    yaw: 110.5099105834961
+    pitch: 38.69388961791992
+    world-name: ''
+  projet:
+    world: Event
+    x: 221.78077538725412
+    y: 20.0
+    z: -1807.867592020996
+    yaw: 258.57843017578125
+    pitch: 46.84634780883789
+    world-name: ''
+  sugar:
+    world: world
+    x: 3051.0016632599254
+    y: 70.0
+    z: 768.9223015871936
+    yaw: -180.51434326171875
+    pitch: 32.2723388671875
+    world-name: ''
+  chalet:
+    world: world
+    x: 6800.37530027512
+    y: 77.0625
+    z: -4330.214317673974
+    yaw: -92.34716796875
+    pitch: 10.684810638427734
+    world-name: ''
+  ile:
+    world: Event
+    x: 191.20375640965352
+    y: 103.0
+    z: -1739.7714535247485
+    yaw: 5.425581932067871
+    pitch: 39.32948303222656
+    world-name: ''
+  raidfarm:
+    world: world
+    x: -5497.347087906645
+    y: 84.0
+    z: -5093.875155581573
+    yaw: 47.9559326171875
+    pitch: 38.42162322998047
+    world-name: ''
+  raidfarm2:
+    world: world
+    x: -5448.490002555844
+    y: 99.5625
+    z: -5662.509524823121
+    yaw: 21.06395721435547
+    pitch: 84.344482421875
+    world-name: ''
+  raidfarm3:
+    world: world
+    x: -5445.599778372686
+    y: 247.0
+    z: -5659.2532413443005
+    yaw: 146.49172973632812
+    pitch: 59.584503173828125
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3144.6907331124457
+  y: 68.0
+  z: 735.3048303998831
+  yaw: 119.5068359375
+  pitch: 6.82251501083374
+  world-name: ''
+afk: false
+nickname: §0D§8e§7k
+ip-address: 24.200.87.130
+last-account-name: Deksar
+mail:
+- legacy: true
+  read: false
+  message: §e[§rColin§e] §rBonjour, ton shop Eopia est à sec de livres Mending
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

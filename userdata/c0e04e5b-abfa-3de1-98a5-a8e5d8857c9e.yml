@@ -1,0 +1,63 @@
+timestamps:
+  login: 1620839257324
+  logout: 1620839343380
+  lastteleport: 1620506143436
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1456.9200115039735
+  y: 64.0
+  z: -3597.248466870411
+  yaw: -228.87838745117188
+  pitch: 14.849822044372559
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1446.6504875393755
+  y: 64.0
+  z: -3594.867031732635
+  yaw: 355.3712463378906
+  pitch: 10.949941635131836
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1446.7447888116014
+    y: 64.0
+    z: -3596.0768763078026
+    yaw: -359.978759765625
+    pitch: 11.99983024597168
+    world-name: ''
+  home2:
+    world: Ressource
+    x: 1033.810275193875
+    y: 14.0
+    z: 70.82926887410484
+    yaw: -224.70751953125
+    pitch: 2.2501370906829834
+    world-name: ''
+  home3:
+    world: Ressourcenether
+    x: -1066.7407788050205
+    y: 83.875
+    z: 523.2530045631304
+    yaw: -63.612823486328125
+    pitch: 17.24999237060547
+    world-name: ''
+afk: false
+ip-address: 83.194.254.184
+last-account-name: Whappollow
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

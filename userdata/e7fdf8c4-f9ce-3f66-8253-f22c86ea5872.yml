@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.66.101.200
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1650573193898
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1650573269998
+  login: 1650573133514
+money: '0'
+last-account-name: _Pingouin_
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 148.426546252447
+  y: 70.0
+  z: 104.54207577817597
+  yaw: -174.952880859375
+  pitch: 15.540688514709473
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 5639.808134577861
+  y: 46.0
+  z: 6505.366878452707
+  yaw: 67.21658325195312
+  pitch: 35.0993537902832

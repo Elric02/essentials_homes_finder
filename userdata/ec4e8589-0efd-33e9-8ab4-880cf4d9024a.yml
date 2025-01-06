@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479493438190
+  lastteleport: 1479493571244
+  logout: 1479493633957
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.87157612965487
+  y: 64.0
+  z: 16.392518236593848
+  yaw: 190.9268798828125
+  pitch: 25.48763656616211
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.62058351973388
+  y: 64.0
+  z: 23.323809271351568
+  yaw: -69.08834838867188
+  pitch: 8.855755805969238
+  world-name: ''
+ip-address: 88.140.198.179
+last-account-name: Naukhyo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

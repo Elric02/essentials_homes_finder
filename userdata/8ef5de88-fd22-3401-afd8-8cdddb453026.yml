@@ -1,0 +1,38 @@
+timestamps:
+  login: 1522268715499
+  logout: 1522268868386
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 143.1209642185908
+  y: 63.0
+  z: 7.929238238777673
+  yaw: 102.23079681396484
+  pitch: 39.66587829589844
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 166.9348515771868
+  y: 64.0
+  z: -22.889480506993188
+  yaw: -203.22972106933594
+  pitch: 17.682140350341797
+  world-name: ''
+ip-address: 92.129.150.250
+last-account-name: Lefou46
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

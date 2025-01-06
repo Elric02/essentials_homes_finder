@@ -1,0 +1,38 @@
+timestamps:
+  login: 1494679764849
+  lastteleport: 1493133461287
+  logout: 1494679773025
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4885.099668936376
+  y: 84.0
+  z: -450.80305902704777
+  yaw: 89.03933715820312
+  pitch: 26.874528884887695
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4875.903969953179
+  y: 84.0
+  z: -450.8672818466701
+  yaw: -215.76072692871094
+  pitch: 19.674535751342773
+  world-name: ''
+money: '0'
+ip-address: 2.3.111.217
+last-account-name: chevalzor
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

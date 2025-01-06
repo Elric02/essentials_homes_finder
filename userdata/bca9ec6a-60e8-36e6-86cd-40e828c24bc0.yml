@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499679025092
+  lastteleport: 1499679829072
+  logout: 1499679864818
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.7902439272977839
+  y: 90.0
+  z: -0.30589344133764607
+  yaw: -156.63568115234375
+  pitch: 29.433090209960938
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 190.4076283019473
+  y: 63.5
+  z: 18.303794302363343
+  yaw: 80.03904724121094
+  pitch: -4.175484657287598
+  world-name: ''
+ip-address: 88.125.157.159
+last-account-name: Lmaestro21_YT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

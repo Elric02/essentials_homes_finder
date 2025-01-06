@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467122674593
+  logout: 1467122753408
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 161.63448723482708
+  y: 63.0
+  z: -24.62648969146059
+  yaw: 208.52584838867188
+  pitch: 8.339515686035156
+  world-name: ''
+ip-address: 212.68.244.101
+last-account-name: nathm1609
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

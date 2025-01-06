@@ -1,0 +1,47 @@
+timestamps:
+  login: 1500563215476
+  lastteleport: 1499781600470
+  logout: 1500563255242
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2331.70553030149
+  y: 64.0
+  z: 3092.402365267873
+  yaw: 267.4486083984375
+  pitch: 13.500018119812012
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -509.30000001192093
+  y: 68.0
+  z: 3082.300000011921
+  yaw: 234.00001525878906
+  pitch: 65.54999542236328
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 2331.8190822578763
+    y: 64.0
+    z: 3097.767191352253
+    yaw: 90.298583984375
+    pitch: 35.70000457763672
+    world-name: ''
+afk: false
+money: '0'
+ip-address: 62.62.236.38
+last-account-name: Math53swagg
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

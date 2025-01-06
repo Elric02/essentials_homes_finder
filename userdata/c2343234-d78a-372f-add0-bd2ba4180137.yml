@@ -1,0 +1,38 @@
+timestamps:
+  login: 1512209088741
+  lastteleport: 1508334727160
+  logout: 1512209344682
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.99577276510567
+  y: 66.0
+  z: 19.73257372248555
+  yaw: -85.67089080810547
+  pitch: 16.828655242919922
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 154.42410443973495
+  y: 65.24918707874468
+  z: 17.375615232478626
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+ip-address: 80.215.45.87
+last-account-name: magieprecieuse
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498757418237
+  lastteleport: 1498757564914
+  logout: 1498757668750
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 144.96865141195264
+  y: 64.0
+  z: 20.565431229596623
+  yaw: 151.42886352539062
+  pitch: 13.239940643310547
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 149.0882318684021
+  y: 63.0
+  z: -11.222856199464438
+  yaw: -170.44085693359375
+  pitch: 90.0
+  world-name: ''
+ip-address: 212.68.231.41
+last-account-name: mattetroll
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

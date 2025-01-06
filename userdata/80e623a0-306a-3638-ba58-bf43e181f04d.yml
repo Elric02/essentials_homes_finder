@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618925451763
+  lastteleport: 1618925307862
+  logout: 1618925494696
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 35.73194324982053
+  y: 77.79266386010535
+  z: 83.72984665292418
+  yaw: -60.90289306640625
+  pitch: 15.335996627807617
+  world-name: ''
+ip-address: 86.254.46.68
+last-account-name: Lardony2005
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

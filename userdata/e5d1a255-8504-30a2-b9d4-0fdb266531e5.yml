@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.135.22.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1711734919845
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1711735113540
+  login: 1711734797464
+money: '0'
+last-account-name: GABRIELEONIS
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -373.5
+  y: 37.0
+  z: 169.5
+  yaw: -174.8411865234375
+  pitch: 10.927658081054688
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 477.7552482489847
+  y: 36.1734084593003
+  z: 37.2187231346444
+  yaw: 46.844970703125
+  pitch: 14.185699462890625

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1471900456995
+  lastteleport: 1471906625324
+  logout: 1471908070239
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 145.65639173095624
+  y: 63.0
+  z: -19.651752020944798
+  yaw: -190.41119384765625
+  pitch: -4.92548942565918
+  world-name: ''
+afk: false
+homes:
+  spartiat:
+    world: world
+    x: 141.58871292559462
+    y: 63.5
+    z: 18.47558203789497
+    yaw: 203.074951171875
+    pitch: 55.80000686645508
+    world-name: ''
+  home:
+    world: world
+    x: 1367.9474772638107
+    y: 64.0
+    z: -4861.477357626389
+    yaw: -191.09930419921875
+    pitch: 41.70003890991211
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 175.5387989119461
+  y: 64.0
+  z: -25.07649529547858
+  yaw: -131.65518188476562
+  pitch: 27.599998474121094
+  world-name: ''
+money: '0'
+ip-address: 78.119.93.211
+last-account-name: SKYandPRO
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

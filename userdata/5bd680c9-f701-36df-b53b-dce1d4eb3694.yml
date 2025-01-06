@@ -1,0 +1,55 @@
+timestamps:
+  login: 1501469741465
+  lastteleport: 1501447128199
+  logout: 1501469755513
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4470.699999988079
+  y: 62.0
+  z: -6618.65079400211
+  yaw: -82.24443054199219
+  pitch: 35.242313385009766
+  world-name: ''
+money: '0'
+homes:
+  debut:
+    world: world
+    x: -4501.699999988079
+    y: 53.0
+    z: -6637.440302187093
+    yaw: 217.2186279296875
+    pitch: 28.44603729248047
+    world-name: ''
+  kevin:
+    world: Ressource
+    x: 4824.699999988079
+    y: 71.0
+    z: -696.6999999880791
+    yaw: 50.38591384887695
+    pitch: 90.0
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4518.594918356552
+  y: 60.0
+  z: -6689.440302776935
+  yaw: -89.18096923828125
+  pitch: 62.62115478515625
+  world-name: ''
+ip-address: 24.200.155.11
+last-account-name: Tebaipue
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1530633921160
+  logout: 1530636654412
+  lastteleport: 1530635715782
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -1126.5283850124574
+  y: 64.0
+  z: 1212.2301057047875
+  yaw: 90.99420166015625
+  pitch: 6.900057792663574
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 132.69999998807907
+  y: 63.0
+  z: 46.83547221429856
+  yaw: -89.42105865478516
+  pitch: 3.328615427017212
+  world-name: ''
+money: '0'
+ip-address: 88.189.80.80
+last-account-name: MythicalCo0kie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

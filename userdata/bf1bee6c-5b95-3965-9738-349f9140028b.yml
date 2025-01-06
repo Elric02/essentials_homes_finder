@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616105764158
+  lastteleport: 1616114436311
+  logout: 1616114454873
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressourcenether
+  x: 0.5
+  y: 37.0
+  z: -1.5
+  yaw: -178.04226684570312
+  pitch: 7.049990177154541
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressourcenether
+  x: 2.9657009621959194
+  y: 37.0
+  z: -22.812405744577056
+  yaw: 69.75806427001953
+  pitch: 15.599980354309082
+  world-name: ''
+ip-address: 109.10.206.134
+last-account-name: solyyne
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

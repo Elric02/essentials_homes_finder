@@ -1,0 +1,47 @@
+timestamps:
+  login: 1480278587576
+  lastteleport: 1480278922767
+  logout: 1480278942315
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3299.889278550055
+  y: 35.0
+  z: -2470.659740971154
+  yaw: -247.498779296875
+  pitch: 42.000152587890625
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 3288.7512602440015
+    y: 63.0
+    z: -2418.891088912978
+    yaw: -110.24974822998047
+    pitch: 16.49994659423828
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3288.750617206612
+  y: 63.0
+  z: -2411.7903459047316
+  yaw: -3.749755859375
+  pitch: 33.59993362426758
+  world-name: ''
+afk: false
+ip-address: 83.156.39.184
+last-account-name: Maahdi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1584422772725
+  lastteleport: 1582515414314
+  logout: 1584422778798
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -157.55253140410807
+  y: 64.0
+  z: 5571.847654068048
+  yaw: -169.2862548828125
+  pitch: 23.100025177001953
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 4794.8547221355375
+    y: 64.0
+    z: -6655.539540385604
+    yaw: -247.345458984375
+    pitch: 9.000008583068848
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 4792.217772207868
+  y: 64.0
+  z: -6655.198685123547
+  yaw: -9.5931396484375
+  pitch: 13.649979591369629
+  world-name: ''
+ip-address: 74.58.221.55
+last-account-name: NossKy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

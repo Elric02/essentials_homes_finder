@@ -1,0 +1,64 @@
+timestamps:
+  login: 1488380718285
+  lastteleport: 1488383175766
+  logout: 1488383199783
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -9405.233629340877
+  y: 40.0
+  z: 7248.122588267549
+  yaw: -278.404296875
+  pitch: 28.16439437866211
+  world-name: ''
+money: '0'
+homes:
+  r:
+    world: world
+    x: 195.30000001192093
+    y: 59.0
+    z: -128.3742045477495
+    yaw: -118.04470825195312
+    pitch: 38.39037322998047
+    world-name: ''
+  b:
+    world: world
+    x: 6374.040145524635
+    y: 85.0
+    z: -5439.812983112913
+    yaw: -298.3050537109375
+    pitch: 44.553585052490234
+    world-name: ''
+  e:
+    world: world
+    x: -9404.976090721342
+    y: 40.0
+    z: 7251.743248431403
+    yaw: -222.4554443359375
+    pitch: 5.431615829467773
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 117.74410700795423
+  y: 58.0
+  z: 52.35569758903868
+  yaw: -9.296661376953125
+  pitch: 2.9381492137908936
+  world-name: ''
+afk: false
+nickname: Dragonnets67
+jailed: false
+ip-address: 91.91.231.118
+last-account-name: Dragonnets67
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

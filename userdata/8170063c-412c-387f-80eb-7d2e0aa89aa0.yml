@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.143.25.94
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1678556822501
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1678557187593
+  login: 1678553465208
+money: '50.0'
+last-account-name: Rnya
+lastlocation:
+  world: 0847213e-5591-48bf-9f47-5a48a3cb045a
+  world-name: Ressource
+  x: 537.4968541948925
+  y: 97.0
+  z: -890.4731545690325
+  yaw: -17.575927734375
+  pitch: 25.157609939575195
+logoutlocation:
+  world: 0847213e-5591-48bf-9f47-5a48a3cb045a
+  world-name: Ressource
+  x: -1080.2792929560428
+  y: 65.0
+  z: -1595.2857613188278
+  yaw: -9.097442626953125
+  pitch: 16.181198120117188
+homes:
+  home:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 3413.3154606012104
+    y: 66.0
+    z: -109.97058089929203
+    yaw: -25.810150146484375
+    pitch: 82.30790710449219
+  base:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 3413.438718178883
+    y: 66.0
+    z: -109.37346437926038
+    yaw: -103.6361083984375
+    pitch: 89.84917449951172
+  village:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 918.4271162446089
+    y: 75.0
+    z: -2078.218886758906
+    yaw: -130.46424865722656
+    pitch: 22.171371459960938

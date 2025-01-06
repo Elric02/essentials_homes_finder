@@ -1,0 +1,84 @@
+timestamps:
+  login: 1584968692471
+  lastteleport: 1584975121266
+  logout: 1584975162064
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 64.61282819847361
+  y: 94.0
+  z: 59.51072750814728
+  yaw: -214.655517578125
+  pitch: 13.528804779052734
+  world-name: ''
+money: '0'
+homes:
+  baseprandit:
+    world: world
+    x: 3393.8944904791147
+    y: 48.0
+    z: -3011.245448492799
+    yaw: 150.5758056640625
+    pitch: 8.699909210205078
+    world-name: ''
+  diamond:
+    world: world
+    x: -4876.285311149474
+    y: 69.0
+    z: -349.3556366206319
+    yaw: -169.6597900390625
+    pitch: 22.49958038330078
+    world-name: ''
+  base:
+    world: world
+    x: 3425.637142654029
+    y: 87.875
+    z: -5370.435486580491
+    yaw: 188.52374267578125
+    pitch: 27.299867630004883
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3416.2469338987025
+  y: 88.0
+  z: -5374.657620808905
+  yaw: -61.076759338378906
+  pitch: 52.80004119873047
+  world-name: ''
+afk: false
+ip-address: 78.214.54.27
+last-account-name: J4H09
+mail:
+- legacy: true
+  read: false
+  message: §e[§rBouh§e] §rdis tu as ta base qui est en ressources, on est le 19 mars
+    et ça regen demain vers 19h je crois, il te faudrait déménager le tout en /world
+- legacy: true
+  read: false
+  message: §e[§rBouh§e] §rTout le stuff que tu avais en /warp ressources a été récupéré
+    et mis en sureté pour ne pas que tu le perdes lors du regen. Il te faut contacter
+    acdc_zdnl pour le récupérer.
+- legacy: true
+  read: false
+  message: '§e[§rBouh§e] §rBien s''installer dans le freebuild donc depuis le /spawn
+    faire un /wild et chercher un endroit libre, ne jamais se déconnecter en étant
+    dans le : ressources, nether, end car comme ils sont regen régulièrement tu risques
+    de mourir au retour'
+- legacy: true
+  read: false
+  message: '§e[§rBouh§e] §rPour savoir où tu te trouves : [world] est écrit devant
+    ton pseudo quand tu causes dans le tchat = freebuild puis [ressources] = ressources
+    etc.'
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

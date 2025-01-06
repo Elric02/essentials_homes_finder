@@ -1,0 +1,38 @@
+timestamps:
+  login: 1463509143264
+  lastteleport: 1463511427760
+  logout: 1463512225903
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 199.74296012353346
+  y: 81.0
+  z: -80.4219098409096
+  yaw: 273.0859375
+  pitch: 32.7388916015625
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1032.5032721739617
+  y: 65.0
+  z: -951.7842189308722
+  yaw: -107.098388671875
+  pitch: 14.253722190856934
+  world-name: ''
+ip-address: 81.254.1.133
+last-account-name: Bunn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

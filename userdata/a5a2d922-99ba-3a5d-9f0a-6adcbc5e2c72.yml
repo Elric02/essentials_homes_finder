@@ -1,0 +1,38 @@
+timestamps:
+  login: 1464354524584
+  logout: 1464354581179
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 206.32420167494428
+  y: 63.0
+  z: 15.15323263053336
+  yaw: 145.9052734375
+  pitch: -0.42954370379447937
+  world-name: ''
+ip-address: 88.170.81.20
+last-account-name: Ettydu69
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

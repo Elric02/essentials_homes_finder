@@ -1,0 +1,93 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.65.134.183
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1710624911885
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721993213582
+  login: 1721993213360
+  kits:
+    color: 1668950969174
+    vip: 1710623609177
+money: '1283.71750000000001418'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 245.5
+  y: 135.65116725035435
+  z: 140.5
+  yaw: 179.72105407714844
+  pitch: 7.500364303588867
+last-account-name: Firepeluche
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 2250.3114219639065
+  y: 97.0
+  z: 3048.6857478856273
+  yaw: -174.893310546875
+  pitch: 25.650014877319336
+homes:
+  bd:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5840.27103225353
+    y: 71.0
+    z: 3853.9799183768005
+    yaw: 149.8499298095703
+    pitch: 3.299985885620117
+  shop:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -184.64034464045355
+    y: 71.0
+    z: -104.35663376383131
+    yaw: -177.14808654785156
+    pitch: 67.20015716552734
+  jesaisplus:
+    world: 86d20234-dd69-4689-8384-af7e699ab127
+    world-name: HestiaEnd
+    x: 1380.9153681776954
+    y: 109.0
+    z: 664.3000000119209
+    yaw: 61.947998046875
+    pitch: 22.350004196166992
+  me:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2698.300000011921
+    y: 70.0
+    z: -1241.699999988079
+    yaw: -116.38462829589844
+    pitch: 38.70000076293945
+  r1:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 2239.5
+    y: 97.0
+    z: 3051.5
+    yaw: -32.542564392089844
+    pitch: 19.34954071044922
+  sr:
+    world: 72904504-567d-4815-8388-f0d7ca583f74
+    world-name: Ressource
+    x: -1919.606959952709
+    y: 66.0
+    z: 2440.2270876179045
+    yaw: 59.39716339111328
+    pitch: 41.735721588134766
+ignore:
+- 1e2e9934-6430-314e-852e-7ab82270ac56
+nickname: §eFire§7Pelu§fche

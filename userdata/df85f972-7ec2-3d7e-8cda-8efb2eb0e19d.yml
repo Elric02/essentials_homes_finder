@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481977006920
+  lastteleport: 1481977420216
+  mute: 0
+  logout: 1481977707920
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 141.97571156711822
+  y: 64.0
+  z: 16.47233818036522
+  yaw: -296.0105895996094
+  pitch: 21.92451286315918
+  world-name: ''
+money: '0'
+muted: true
+logoutlocation:
+  world: world
+  x: 155.03385431184546
+  y: 63.0
+  z: -15.430450913287576
+  yaw: 105.39057159423828
+  pitch: 0.3245352804660797
+  world-name: ''
+ip-address: 82.232.224.117
+last-account-name: Oxelox
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

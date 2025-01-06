@@ -1,0 +1,47 @@
+timestamps:
+  login: 1615042946057
+  lastteleport: 1614711825379
+  logout: 1615043081817
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3538.0881883571515
+  y: 65.0
+  z: -5828.313268216775
+  yaw: 292.5877380371094
+  pitch: 29.09992027282715
+  world-name: ''
+money: '0'
+homes:
+  a:
+    world: world
+    x: 1140.2297371833565
+    y: 63.0
+    z: -6572.816708556247
+    yaw: -256.44549560546875
+    pitch: -6.3000006675720215
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1143.991213340746
+  y: 63.0
+  z: -6572.894528045563
+  yaw: -84.39482116699219
+  pitch: 7.050080299377441
+  world-name: ''
+afk: false
+ip-address: 77.200.180.89
+last-account-name: eliamiam
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

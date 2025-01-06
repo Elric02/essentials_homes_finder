@@ -1,0 +1,38 @@
+timestamps:
+  login: 1603227384702
+  lastteleport: 1603227919654
+  logout: 1603228083448
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5144.429053146003
+  y: 75.0
+  z: -2746.064112569309
+  yaw: 224.97601318359375
+  pitch: 11.810399055480957
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5080.463408941153
+  y: 63.875
+  z: 3468.0675452005453
+  yaw: -284.6876220703125
+  pitch: 14.955289840698242
+  world-name: ''
+ip-address: 90.110.189.58
+last-account-name: _Vincy_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1624796930265
+  lastteleport: 1624796971368
+  logout: 1624797304647
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.20260178101663
+  y: 63.0
+  z: 63.735255038594886
+  yaw: -180.51637268066406
+  pitch: 16.227771759033203
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 218.3124210904345
+  y: 11.0
+  z: 85.27402542228408
+  yaw: -2.1192626953125
+  pitch: 7.0216193199157715
+  world-name: ''
+ip-address: 185.228.231.121
+last-account-name: _HEART_BOOST_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

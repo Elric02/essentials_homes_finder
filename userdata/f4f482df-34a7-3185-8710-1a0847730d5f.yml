@@ -1,0 +1,47 @@
+timestamps:
+  login: 1485716524542
+  logout: 1485716719308
+  lastteleport: 1473916747033
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1065.3600601701337
+  y: 63.0
+  z: 1886.3001555494768
+  yaw: -216.7548828125
+  pitch: 30.299949645996094
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 131.25101765612138
+  y: 63.0
+  z: 21.818916993345706
+  yaw: -106.26129150390625
+  pitch: 21.774513244628906
+  world-name: ''
+homes:
+  home:
+    world: Ressources
+    x: 1486.810939892452
+    y: 21.0
+    z: 5483.915736404113
+    yaw: 188.5535888671875
+    pitch: 10.050034523010254
+    world-name: ''
+money: '0'
+ip-address: 90.17.164.50
+last-account-name: flyaca
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

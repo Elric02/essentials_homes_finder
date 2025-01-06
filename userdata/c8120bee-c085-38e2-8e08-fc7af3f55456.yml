@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490293869991
+  logout: 1490295542285
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 181.9841860291938
+  y: 65.0
+  z: 9.009776316089432
+  yaw: -77.44683837890625
+  pitch: 28.199993133544922
+  world-name: ''
+ip-address: 90.21.99.66
+last-account-name: AruYukiteru
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

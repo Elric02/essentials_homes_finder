@@ -1,0 +1,47 @@
+timestamps:
+  login: 1516523208275
+  lastteleport: 1516524592845
+  logout: 1516524701373
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5663.32721953124
+  y: 65.0
+  z: 4017.687930000577
+  yaw: -262.93048095703125
+  pitch: 9.798598289489746
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -5663.1079312345055
+    y: 65.0
+    z: 4018.0757799388725
+    yaw: -199.93798828125
+    pitch: 22.54081916809082
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 168.9427844157093
+  y: 62.0
+  z: 132.69999998807904
+  yaw: -1.873291015625
+  pitch: 0.585676908493042
+  world-name: ''
+afk: false
+ip-address: 79.92.224.243
+last-account-name: ArmanDo52
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

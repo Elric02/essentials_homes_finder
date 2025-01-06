@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 93.27.235.246
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1680443706421
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680444289218
+  login: 1680443634714
+money: '0'
+last-account-name: Chach_267
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -168.99435109284562
+  y: 65.0
+  z: 356.0380906076425
+  yaw: 94.94955444335938
+  pitch: 2.1000523567199707
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -259.51233172687154
+  y: 92.73972289848264
+  z: -131.73616399362575
+  yaw: -80.40023803710938
+  pitch: 47.55013656616211

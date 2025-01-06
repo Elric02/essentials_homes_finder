@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511588923966
+  lastteleport: 1511585603331
+  logout: 1511589136687
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.2794794164056
+  y: 63.0
+  z: 58.22101494341449
+  yaw: -50.747314453125
+  pitch: -2.7526016235351562
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 287.3000000119209
+  y: 80.0
+  z: -5627.518158253271
+  yaw: -101.5498275756836
+  pitch: 30.449979782104492
+  world-name: ''
+ip-address: 212.129.49.75
+last-account-name: KMKJ4
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

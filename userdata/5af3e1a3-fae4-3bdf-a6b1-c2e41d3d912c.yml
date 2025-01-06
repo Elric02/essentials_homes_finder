@@ -1,0 +1,38 @@
+timestamps:
+  login: 1567535308614
+  logout: 1567535314554
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.29032527013274
+  y: 65.0
+  z: 99.25002525469849
+  yaw: 120.6968994140625
+  pitch: 9.690656661987305
+  world-name: ''
+ip-address: 86.193.172.109
+last-account-name: cracked_user
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

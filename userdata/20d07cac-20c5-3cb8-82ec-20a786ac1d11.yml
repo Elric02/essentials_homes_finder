@@ -1,0 +1,38 @@
+timestamps:
+  login: 1576605465231
+  lastteleport: 1576606781696
+  logout: 1576606857926
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -95.69984242487001
+  y: 68.0
+  z: -0.7502374709733471
+  yaw: 88.94969177246094
+  pitch: 19.94346046447754
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 144.74212310914132
+  y: 63.0
+  z: -29.94999998807907
+  yaw: -236.73707580566406
+  pitch: 31.535676956176758
+  world-name: ''
+ip-address: 85.171.68.76
+last-account-name: Keziah93k
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

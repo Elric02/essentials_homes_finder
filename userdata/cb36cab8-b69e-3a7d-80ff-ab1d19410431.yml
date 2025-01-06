@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617635569989
+  lastteleport: 1617635697752
+  logout: 1617635746934
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -4.374241612227479
+  y: 89.5
+  z: 0.13005208124214282
+  yaw: -138.15301513671875
+  pitch: 10.68591594696045
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -148.39055330260257
+  y: 66.0
+  z: 3075.3385247651227
+  yaw: -51.758888244628906
+  pitch: 0.9603833556175232
+  world-name: ''
+ip-address: 176.164.162.129
+last-account-name: NUGUESTGEEK
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

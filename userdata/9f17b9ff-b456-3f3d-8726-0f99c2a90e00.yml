@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468245791954
+  lastteleport: 1468248638062
+  logout: 1468248727963
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -132.18019330349475
+  y: 63.0
+  z: -61.18335909968535
+  yaw: 248.2396240234375
+  pitch: 11.39997673034668
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.5142429701491
+  y: 64.0
+  z: 19.827921128631218
+  yaw: -5.547264099121094
+  pitch: 9.224186897277832
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 78.224.90.37
+last-account-name: Caster10800
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

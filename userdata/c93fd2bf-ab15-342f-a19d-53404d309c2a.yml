@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558184854381
+  logout: 1558185261516
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.7396671582767
+  y: 64.0
+  z: 10.327412078441574
+  yaw: -261.47076416015625
+  pitch: -11.400005340576172
+  world-name: ''
+ip-address: 90.34.66.198
+last-account-name: fdpdu52
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

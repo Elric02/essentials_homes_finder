@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.105.149.241
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682883413529
+  login: 1682883410482
+money: '0'
+last-account-name: Nomis44
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.05137269348637
+  y: 81.0
+  z: -3111.946780822022
+  yaw: -147.2984161376953
+  pitch: 19.050111770629883
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9945072772474
+  y: 81.0
+  z: -3111.9343887053014
+  yaw: -147.2984161376953
+  pitch: 19.050111770629883

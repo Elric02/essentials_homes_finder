@@ -1,0 +1,47 @@
+timestamps:
+  login: 1617731730376
+  lastteleport: 1616253832942
+  logout: 1617732408703
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51415401356985
+  y: 64.0
+  z: 23.733152744537733
+  yaw: -181.14532470703125
+  pitch: 9.575874328613281
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6805.772199664624
+    y: 64.0
+    z: 5567.637004124687
+    yaw: 140.544189453125
+    pitch: 23.25020408630371
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 6717.851572276157
+  y: 8.0
+  z: 5636.349524091691
+  yaw: 269.24462890625
+  pitch: 9.59998607635498
+  world-name: ''
+ip-address: 92.148.90.67
+last-account-name: Sophie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

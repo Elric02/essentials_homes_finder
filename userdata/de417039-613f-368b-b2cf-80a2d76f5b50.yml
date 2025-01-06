@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.135.90.47
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665257295082
+  login: 1665256694192
+money: '0'
+last-account-name: hugoamine
+lastlocation:
+  world: c4aa0be1-96e4-4d26-b064-d4d2526e9bea
+  world-name: AlthiumRessource
+  x: 0.3083417993943329
+  y: 250.5
+  z: 0.31882550356217665
+  yaw: 5.5508928298950195
+  pitch: 7.3490824699401855
+logoutlocation:
+  world: c4aa0be1-96e4-4d26-b064-d4d2526e9bea
+  world-name: AlthiumRessource
+  x: 412.9035530537319
+  y: 63.0
+  z: 878.1720255098353
+  yaw: 70.7977294921875
+  pitch: 5.999131202697754

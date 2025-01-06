@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509274132408
+  logout: 1509274136927
+  lastteleport: 1509136012488
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -9.39224817409485
+  y: 65.0
+  z: 7.753023654469608
+  yaw: 73.56320190429688
+  pitch: 7.013846397399902
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -151.59235847349174
+  y: 71.5
+  z: 568.2129736778006
+  yaw: -168.93777465820312
+  pitch: 37.243961334228516
+  world-name: ''
+afk: false
+ip-address: 62.34.224.231
+last-account-name: CFE_sPHeNe
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

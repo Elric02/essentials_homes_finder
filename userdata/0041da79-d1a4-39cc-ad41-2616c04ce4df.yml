@@ -1,0 +1,47 @@
+timestamps:
+  login: 1496169299486
+  lastteleport: 1495266739361
+  logout: 1496169412098
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 118.32980377553616
+  y: 63.0
+  z: 60.11878205315408
+  yaw: -36.060787200927734
+  pitch: 6.474513053894043
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1978.40257429798
+  y: 88.0
+  z: -6164.677871770114
+  yaw: 81.15179443359375
+  pitch: 11.400301933288574
+  world-name: ''
+homes:
+  a:
+    world: world
+    x: 1973.4805210549755
+    y: 88.0
+    z: -6176.137152785188
+    yaw: 319.2008056640625
+    pitch: 25.50020408630371
+    world-name: ''
+ip-address: 176.184.200.145
+last-account-name: krome2404
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

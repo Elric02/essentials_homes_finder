@@ -1,0 +1,38 @@
+timestamps:
+  login: 1613417487712
+  lastteleport: 1613417665265
+  logout: 1613417808120
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 167.30000001192093
+  y: 140.0
+  z: -122.46454096200388
+  yaw: 110.45501708984375
+  pitch: 58.19992446899414
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 112.81667583302186
+  y: 70.0
+  z: -89.54095930709155
+  yaw: -281.49298095703125
+  pitch: 16.775985717773438
+  world-name: ''
+ip-address: 78.230.224.211
+last-account-name: steeldeadeye
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

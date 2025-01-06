@@ -1,0 +1,47 @@
+timestamps:
+  login: 1606855395383
+  logout: 1606855814566
+  lastteleport: 1606853146857
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 692.8190359869703
+  y: 63.0
+  z: -2308.030863242367
+  yaw: -342.14892578125
+  pitch: 46.1999397277832
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3580.9415103170036
+  y: 59.0
+  z: -1013.7961907166421
+  yaw: -54.149478912353516
+  pitch: 4.500882625579834
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -3595.0769741671124
+    y: 64.0
+    z: -1034.0374405740174
+    yaw: -41.99979782104492
+    pitch: 13.650087356567383
+    world-name: ''
+ip-address: 79.94.213.4
+last-account-name: Bryan5100
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

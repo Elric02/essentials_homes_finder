@@ -1,0 +1,63 @@
+timestamps:
+  login: 1551611909935
+  logout: 1551612221218
+  lastteleport: 1551612009796
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -129.1128876637033
+  y: 67.0
+  z: -103.8238182759126
+  yaw: -246.4679412841797
+  pitch: 25.649982452392578
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 304.69999998807907
+  y: 94.0
+  z: 1137.303134935052
+  yaw: 31.79827880859375
+  pitch: 85.34999084472656
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 275.572384059957
+    y: 79.0
+    z: 1112.4944681290717
+    yaw: -106.65234375
+    pitch: -5.400025367736816
+    world-name: ''
+  cool:
+    world: world
+    x: 151.51008289016974
+    y: 84.0
+    z: 1283.396784792306
+    yaw: 301.04901123046875
+    pitch: 40.35006332397461
+    world-name: ''
+  champi:
+    world: Ressource
+    x: 2339.5957580660897
+    y: 83.0
+    z: 3009.4731646465593
+    yaw: 135.75054931640625
+    pitch: 46.80007553100586
+    world-name: ''
+afk: false
+ip-address: 78.252.143.42
+last-account-name: Flomax43YT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

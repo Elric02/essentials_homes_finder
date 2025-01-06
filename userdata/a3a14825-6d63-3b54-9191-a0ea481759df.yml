@@ -1,0 +1,55 @@
+timestamps:
+  login: 1609357882235
+  lastteleport: 1609364513744
+  logout: 1609368107864
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressourcenether
+  x: -1097.3276519521107
+  y: 68.0
+  z: 235.18155995021263
+  yaw: -204.54806518554688
+  pitch: 28.05008316040039
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 5778.217152522605
+    y: 66.0
+    z: 4953.275643237452
+    yaw: 38.82574462890625
+    pitch: 25.04973793029785
+    world-name: ''
+  pont:
+    world: End
+    x: 191.9360626619771
+    y: 57.0
+    z: 816.5338196306643
+    yaw: -88.67886352539062
+    pitch: 15.751392364501953
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5779.3807287630025
+  y: 66.0
+  z: 4954.991199409264
+  yaw: -354.64599609375
+  pitch: 17.848793029785156
+  world-name: ''
+afk: false
+ip-address: 86.248.114.199
+last-account-name: OxiSunday
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1492092860294
+  lastteleport: 1492093131148
+  logout: 1492093162725
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4895.300000011921
+  y: 76.0
+  z: -286.7393843214413
+  yaw: -180.3638916015625
+  pitch: 4.003207206726074
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -873.8321535131743
+    y: 97.0
+    z: -6668.700467747199
+    yaw: 117.42681884765625
+    pitch: 0.9119551777839661
+    world-name: ''
+  shop:
+    world: world
+    x: -4897.278946023172
+    y: 69.0
+    z: -289.40161883733623
+    yaw: -311.1927490234375
+    pitch: 57.45600891113281
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 214.61949594853002
+    y: 7.0
+    z: 694.6731015357034
+    yaw: -0.6204833984375
+    pitch: 18.729656219482422
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5301.049809047558
+  y: 63.0
+  z: 6106.300000011921
+  yaw: 63.859039306640625
+  pitch: 29.174440383911133
+  world-name: ''
+afk: false
+ip-address: 82.250.80.81
+last-account-name: Futi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1613126700708
+  lastteleport: 1611493129178
+  logout: 1613128440747
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2611.873192721332
+  y: 69.5
+  z: -4626.147977973446
+  yaw: -54.505859375
+  pitch: -7.411997318267822
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: 291.8748693416305
+    y: 64.0
+    z: -2591.833260871602
+    yaw: 112.04106903076172
+    pitch: 22.719572067260742
+    world-name: ''
+  g:
+    world: world
+    x: 2192.146432692266
+    y: 28.0
+    z: 346.48750001192093
+    yaw: -184.4029998779297
+    pitch: 28.923402786254883
+    world-name: ''
+  j:
+    world: world
+    x: 2608.4826593884823
+    y: 70.0
+    z: -4623.846958678268
+    yaw: -204.3560028076172
+    pitch: 31.138002395629883
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 269.8270214313348
+  y: 76.0
+  z: -2467.377458313241
+  yaw: -347.26611328125
+  pitch: 8.849961280822754
+  world-name: ''
+afk: false
+ip-address: 91.172.76.252
+last-account-name: lebuilder
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

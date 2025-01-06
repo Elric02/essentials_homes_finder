@@ -1,0 +1,38 @@
+timestamps:
+  login: 1588360203475
+  lastteleport: 1588354152996
+  logout: 1588360461451
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5401.2295894549
+  y: 64.0
+  z: 1447.647871834665
+  yaw: 127.99588012695312
+  pitch: 2.9113996028900146
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5055998804136
+  y: 64.0
+  z: 23.84088072640197
+  yaw: 59.58984375
+  pitch: 25.237518310546875
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 41.231.233.63
+last-account-name: azertyhamma
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

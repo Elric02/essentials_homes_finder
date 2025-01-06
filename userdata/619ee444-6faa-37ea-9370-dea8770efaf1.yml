@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558453734736
+  logout: 1558453865698
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.76249998807907
+  y: 63.0
+  z: 38.85178737320025
+  yaw: -41.15324401855469
+  pitch: 21.449996948242188
+  world-name: ''
+ip-address: 86.225.103.226
+last-account-name: claralaqueen
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

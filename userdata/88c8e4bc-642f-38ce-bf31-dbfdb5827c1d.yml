@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616956138332
+  logout: 1616956201112
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.13832805273955
+  y: 65.0
+  z: 81.64205345218201
+  yaw: 186.0240936279297
+  pitch: 19.919370651245117
+  world-name: ''
+ip-address: 86.225.88.90
+last-account-name: math86077
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

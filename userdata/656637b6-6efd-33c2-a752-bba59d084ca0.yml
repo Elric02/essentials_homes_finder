@@ -1,0 +1,38 @@
+timestamps:
+  login: 1489357035673
+  lastteleport: 1489357196648
+  logout: 1489357262951
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3469.7538840637503
+  y: 78.0
+  z: -2902.081572432142
+  yaw: 47.399932861328125
+  pitch: 26.84998893737793
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.34838094407036
+  y: 63.0
+  z: -15.958755667134339
+  yaw: 179.03863525390625
+  pitch: -2.9754819869995117
+  world-name: ''
+ip-address: 70.83.141.68
+last-account-name: nicelife90
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

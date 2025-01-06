@@ -1,0 +1,63 @@
+timestamps:
+  login: 1512146260628
+  logout: 1512147667942
+  lastteleport: 1512147618651
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 169.27258886057533
+  y: 130.0
+  z: -122.71931494838306
+  yaw: -93.32072448730469
+  pitch: 20.428667068481445
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2298.4815554552983
+  y: 63.0
+  z: -2305.4350724010465
+  yaw: -80.89962768554688
+  pitch: 49.79999923706055
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -3315.1106094649463
+    y: 63.0
+    z: -880.7288664572734
+    yaw: 48.89999771118164
+    pitch: 25.200000762939453
+    world-name: ''
+  zteck:
+    world: world
+    x: 2284.5377279591626
+    y: 67.0
+    z: -2308.042782942831
+    yaw: -278.6549377441406
+    pitch: 31.681194305419922
+    world-name: ''
+  construct:
+    world: world
+    x: 2557.6327392869543
+    y: 68.0
+    z: -2430.5703765356034
+    yaw: 123.07195281982422
+    pitch: 11.100032806396484
+    world-name: ''
+money: '0'
+afk: false
+muted: false
+ip-address: 88.179.189.131
+last-account-name: hypoce
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

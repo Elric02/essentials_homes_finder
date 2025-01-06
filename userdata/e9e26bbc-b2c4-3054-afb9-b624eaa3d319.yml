@@ -1,0 +1,47 @@
+timestamps:
+  login: 1519428447832
+  lastteleport: 1519399065402
+  logout: 1519428466066
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1392.609012337747
+  y: 23.94357026665327
+  z: -2899.636408347965
+  yaw: -357.638427734375
+  pitch: -46.15542221069336
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1390.4656615200631
+    y: 32.5
+    z: -2887.356205581436
+    yaw: -172.43690490722656
+    pitch: 8.30158805847168
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1388.811454069668
+  y: 32.875
+  z: -2891.699999988079
+  yaw: -351.20281982421875
+  pitch: 34.39037322998047
+  world-name: ''
+ip-address: 94.239.229.203
+last-account-name: Deaad93
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

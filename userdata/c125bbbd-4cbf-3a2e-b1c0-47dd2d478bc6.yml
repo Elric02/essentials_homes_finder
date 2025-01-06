@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472472650223
+  logout: 1472473441170
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 59.07867847939926
+  y: 72.0
+  z: -118.88823066309968
+  yaw: -244.432861328125
+  pitch: 13.050003051757812
+  world-name: ''
+ip-address: 88.168.216.206
+last-account-name: jupitair
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

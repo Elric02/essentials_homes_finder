@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592071893665
+  lastteleport: 1591661998726
+  logout: 1592071910581
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -162.7864330026035
+  y: 73.0
+  z: 571.1283365861694
+  yaw: 11.04859733581543
+  pitch: 82.2000503540039
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 138.01568683710912
+  y: 63.0
+  z: -22.51377645696457
+  yaw: 123.88008880615234
+  pitch: -8.250015258789062
+  world-name: ''
+ip-address: 176.143.189.163
+last-account-name: Chanferd
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

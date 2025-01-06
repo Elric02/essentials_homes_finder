@@ -1,0 +1,63 @@
+timestamps:
+  login: 1513458523276
+  logout: 1513465288589
+  lastteleport: 1513465264199
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: 1954.9956624341949
+  y: 63.0
+  z: 3579.022831225306
+  yaw: 197.912353515625
+  pitch: 19.189367294311523
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -133.5
+  y: 74.0
+  z: -110.5
+  yaw: 268.2388000488281
+  pitch: 21.5709171295166
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -133.42032596283244
+    y: 74.0
+    z: -110.3231345742879
+    yaw: 267.7416076660156
+    pitch: 21.5709171295166
+    world-name: ''
+  base2:
+    world: world_the_end
+    x: -246.5
+    y: 131.0
+    z: 1034.5
+    yaw: 37.153106689453125
+    pitch: 73.45475006103516
+    world-name: ''
+  shop:
+    world: world
+    x: 1511.0658707955276
+    y: 72.0
+    z: -2185.7169756209146
+    yaw: -317.5671081542969
+    pitch: 15.694523811340332
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 176.137.23.98
+last-account-name: sosso1453
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

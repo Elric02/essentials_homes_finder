@@ -1,0 +1,38 @@
+timestamps:
+  login: 1591966131358
+  logout: 1591966733675
+  lastteleport: 1591966296853
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.073058734657
+  y: 63.0
+  z: 63.35283367096139
+  yaw: 233.49932861328125
+  pitch: 4.290637969970703
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -16.441419374194084
+  y: 81.0
+  z: 103.53391769226036
+  yaw: -358.658447265625
+  pitch: -90.0
+  world-name: ''
+money: '0'
+ip-address: 81.254.182.205
+last-account-name: jigal0l
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

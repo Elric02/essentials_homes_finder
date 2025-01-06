@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.125.147.205
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1666454791348
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673789603164
+  login: 1673788319402
+  kits:
+    debutant: 1665226567636
+money: '200.0'
+last-account-name: Lumine62
+lastlocation:
+  world: 695c07f9-e798-4e52-bd51-6ab01549c52e
+  world-name: HestiaEnd
+  x: -101.83429021415101
+  y: 60.0
+  z: 6.615577926524959
+  yaw: 124.13226318359375
+  pitch: 27.100574493408203
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -88.31962841412161
+  y: -59.0
+  z: -599.4266507673333
+  yaw: 10.1744384765625
+  pitch: 14.182868957519531
+homes:
+  home:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -119.89549477182905
+    y: -52.0
+    z: -689.3821912733787
+    yaw: -86.108154296875
+    pitch: 90.0

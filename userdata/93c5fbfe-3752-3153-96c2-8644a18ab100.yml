@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616438037447
+  lastteleport: 1616438580895
+  logout: 1616439231377
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.63348056928206
+  y: 63.0
+  z: 39.44136061577895
+  yaw: 5.004690170288086
+  pitch: 16.475868225097656
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -27.053187053319668
+  y: 59.068555106301766
+  z: -33.04598670784202
+  yaw: 325.33624267578125
+  pitch: -11.849918365478516
+  world-name: ''
+ip-address: 90.24.95.49
+last-account-name: derbibix69
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

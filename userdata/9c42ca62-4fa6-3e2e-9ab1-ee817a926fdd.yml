@@ -1,0 +1,47 @@
+timestamps:
+  login: 1536593268957
+  lastteleport: 1536597831326
+  logout: 1536597990655
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.9748731782958
+  y: 14.0
+  z: -77.51706046899125
+  yaw: -95.5721435546875
+  pitch: -22.950050354003906
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3455.5
+  y: 88.0
+  z: -4591.5
+  yaw: -333.97821044921875
+  pitch: 25.350839614868164
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 3455.0194295213923
+    y: 88.0
+    z: -4591.059854074643
+    yaw: -335.92828369140625
+    pitch: 31.950838088989258
+    world-name: ''
+ip-address: 88.161.187.106
+last-account-name: zouloii
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

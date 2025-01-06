@@ -1,0 +1,55 @@
+timestamps:
+  login: 1595778399502
+  lastteleport: 1595780976673
+  logout: 1595781180037
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4265.038202809419
+  y: 68.0
+  z: 1005.9101688061569
+  yaw: -78.29977416992188
+  pitch: 21.00009536743164
+  world-name: ''
+money: '0'
+homes:
+  hug:
+    world: world
+    x: 4264.487915191697
+    y: 68.0
+    z: 1007.539596320996
+    yaw: -1.2005615234375
+    pitch: 30.449941635131836
+    world-name: ''
+  home:
+    world: Ressource
+    x: 277.6172718654854
+    y: 63.0
+    z: 1542.847869675035
+    yaw: -182.54263305664062
+    pitch: 22.04977798461914
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 118.34578429206942
+  y: 63.0
+  z: -36.38362159523539
+  yaw: -252.62225341796875
+  pitch: 8.72867488861084
+  world-name: ''
+afk: false
+ip-address: 176.134.237.219
+last-account-name: hugmnf
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

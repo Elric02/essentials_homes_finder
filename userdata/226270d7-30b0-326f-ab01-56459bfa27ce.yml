@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.250.82.67
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643561251298
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643561305004
+  login: 1643560993290
+money: '0'
+last-account-name: Shadox44
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 150.7434177698527
+  y: 63.0
+  z: 43.75920590332062
+  yaw: -317.421875
+  pitch: -2.735929012298584
+homes:
+  nether:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    world-name: Nether
+    x: -156.30000001192093
+    y: 14.0
+    z: -19.64897569019415
+    yaw: -94.13269805908203
+    pitch: 9.142662048339844
+  house:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5522.02478803525
+    y: 64.0
+    z: 3245.7932449786017
+    yaw: -267.4372863769531
+    pitch: 36.20054244995117
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -2760.044595934394
+  y: 76.0
+  z: -117.80949166682544
+  yaw: -131.21728515625
+  pitch: 21.095712661743164

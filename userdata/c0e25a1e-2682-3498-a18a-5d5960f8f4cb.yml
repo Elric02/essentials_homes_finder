@@ -1,0 +1,63 @@
+timestamps:
+  login: 1529850565429
+  logout: 1529851616753
+  lastteleport: 1529850753006
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5931.869585766477
+  y: 103.0
+  z: 5589.899360263759
+  yaw: -18.47247314453125
+  pitch: 13.514992713928223
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 1517.300000011921
+  y: 68.0
+  z: -421.5153143402129
+  yaw: 123.89093017578125
+  pitch: -3.2014222145080566
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 5927.674049358307
+    y: 103.0
+    z: 5589.439554484383
+    yaw: -63.372161865234375
+    pitch: 44.84956741333008
+    world-name: ''
+  chateau:
+    world: world
+    x: -1295.1062125758963
+    y: 63.0
+    z: 3005.7746696314543
+    yaw: -120.30152130126953
+    pitch: 22.532852172851562
+    world-name: ''
+  b:
+    world: world
+    x: -822.7453758545513
+    y: 64.0
+    z: 2732.419567820379
+    yaw: -76.86566162109375
+    pitch: 19.278976440429688
+    world-name: ''
+muted: false
+afk: false
+ip-address: 176.152.135.191
+last-account-name: Tibolle
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

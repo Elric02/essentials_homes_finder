@@ -1,0 +1,38 @@
+timestamps:
+  login: 1559086286146
+  logout: 1559086307611
+  lastteleport: 1558728305140
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.88979443686043
+  y: 63.0
+  z: 57.49061606868429
+  yaw: -48.17082214355469
+  pitch: 7.228677272796631
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.31900732511804
+  y: 64.0
+  z: 16.13602548570878
+  yaw: -139.82077026367188
+  pitch: 23.278671264648438
+  world-name: ''
+money: '0'
+ip-address: 84.103.178.89
+last-account-name: Sinternum
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

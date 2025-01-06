@@ -1,0 +1,38 @@
+timestamps:
+  login: 1565644535576
+  lastteleport: 1565648079486
+  logout: 1559580419560
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 794.3785721594969
+  y: 83.0
+  z: 1969.2106721401215
+  yaw: -155.716796875
+  pitch: -4.949976444244385
+  world-name: ''
+money: '0'
+afk: true
+logoutlocation:
+  world: Ressource
+  x: -643.8273360544454
+  y: 82.0
+  z: 328.7845472016323
+  yaw: -61.49951171875
+  pitch: 21.74998664855957
+  world-name: ''
+ip-address: 78.196.0.209
+last-account-name: playphane
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

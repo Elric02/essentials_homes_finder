@@ -1,0 +1,43 @@
+timestamps:
+  login: 1521298889275
+  mute: 0
+  logout: 1521298935888
+  lastteleport: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.46090741556586
+  y: 66.5
+  z: 11.928739314917424
+  yaw: 46.902347564697266
+  pitch: 39.6229248046875
+  world-name: ''
+money: '0'
+muted: true
+logoutlocation:
+  world: Event
+  x: 746.3000000119209
+  y: 4.0
+  z: -1553.699999988079
+  yaw: -7.014190673828125
+  pitch: 90.0
+  world-name: ''
+ip-address: 217.64.113.207
+last-account-name: juliamaria21
+mail:
+- legacy: true
+  read: false
+  message: §e[§rkillian971317§e] §ril faut que tu mettes un post sur le forum pour
+    prévenir comme ça tout le monde est au courant et tu ne risque pas d'être ba,
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

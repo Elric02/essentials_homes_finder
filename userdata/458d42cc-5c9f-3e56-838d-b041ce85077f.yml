@@ -1,0 +1,38 @@
+timestamps:
+  login: 1550596730803
+  lastteleport: 1550597002520
+  logout: 1550597075644
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -1298.8897372422682
+  y: 95.0
+  z: -1647.836468336058
+  yaw: 112.9383544921875
+  pitch: 45.956581115722656
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.79566443016313
+  y: 63.0
+  z: 40.04693896754982
+  yaw: -234.3137664794922
+  pitch: 21.99136734008789
+  world-name: ''
+ip-address: 88.126.24.182
+last-account-name: chacha
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

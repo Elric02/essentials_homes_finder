@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508336892961
+  logout: 1508337164606
+  lastteleport: 1508336455096
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 198.48744983757823
+  y: 74.0
+  z: 18.516908154051997
+  yaw: -270.57415771484375
+  pitch: 17.883726119995117
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 198.9262026863855
+  y: 74.0
+  z: 18.45760484243498
+  yaw: 100.07577514648438
+  pitch: 9.633727073669434
+  world-name: ''
+money: '0'
+jailed: false
+ip-address: 86.217.48.33
+last-account-name: skuyrkels
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

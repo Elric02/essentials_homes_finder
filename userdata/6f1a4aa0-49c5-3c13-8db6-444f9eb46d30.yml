@@ -1,0 +1,38 @@
+timestamps:
+  login: 1582757432994
+  logout: 1582757505262
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 148.76645660967048
+  y: 63.0
+  z: 44.59796681492329
+  yaw: 35.34814453125
+  pitch: -0.9593353867530823
+  world-name: ''
+ip-address: 78.206.207.92
+last-account-name: gymnette
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

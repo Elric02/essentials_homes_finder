@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.168.164.135
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643640548630
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643798707329
+  login: 1643798370845
+money: '0'
+last-account-name: Alexis_Alves1909
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -1900.4351028835129
+  y: 74.0
+  z: -2797.9769745990156
+  yaw: 24.449859619140625
+  pitch: 32.250022888183594
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 883.4844551767817
+  y: 73.0
+  z: -5826.99144508893
+  yaw: -26.113788604736328
+  pitch: 1.9030770063400269
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 880.1704297832941
+    y: 72.0
+    z: -5824.8160691461435
+    yaw: 154.4974365234375
+    pitch: 13.04989242553711

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519059047048
+  lastteleport: 1519059241145
+  logout: 1519059438762
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 192.94580311513172
+  y: 64.0
+  z: 18.699071788351574
+  yaw: 275.29827880859375
+  pitch: 10.270292282104492
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 3751.793085154005
+  y: 70.0
+  z: -4577.769298081865
+  yaw: 88.9111328125
+  pitch: 15.71861457824707
+  world-name: ''
+ip-address: 92.142.146.228
+last-account-name: Felto_22
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

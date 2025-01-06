@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.51.177.75
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698764123708
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698764126291
+  login: 1698764098274
+money: '0'
+last-account-name: Benthekiller398
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.6942464867871
+  y: 81.0
+  z: -3109.4832763408654
+  yaw: -129.64781188964844
+  pitch: 17.657272338867188
+logoutlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 158.14184197038512
+  y: 83.0
+  z: -105.51789319485813
+  yaw: 91.33367156982422
+  pitch: -1.1671570539474487

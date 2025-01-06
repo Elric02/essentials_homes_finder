@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471212204563
+  lastteleport: 1471141782101
+  logout: 1471213279603
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -159.19148731437895
+  y: 47.0
+  z: 481.09254648184964
+  yaw: 214.1470947265625
+  pitch: 29.84998321533203
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 47.38754126204443
+  y: 68.0
+  z: 418.14007525542416
+  yaw: 327.69482421875
+  pitch: 43.95001220703125
+  world-name: ''
+afk: false
+ip-address: 188.250.22.204
+last-account-name: Scott71
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

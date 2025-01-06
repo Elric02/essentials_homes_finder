@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485798899158
+  logout: 1485798928983
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 163.3859260271168
+  y: 64.0
+  z: 16.42802775209084
+  yaw: -341.44732666015625
+  pitch: 20.047386169433594
+  world-name: ''
+ip-address: 89.81.104.249
+last-account-name: GaMeRz13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

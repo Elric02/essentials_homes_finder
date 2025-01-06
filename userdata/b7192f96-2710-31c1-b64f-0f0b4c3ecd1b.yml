@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.124.17.192
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1681716474959
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681716559405
+  login: 1681716388729
+money: '50.0'
+last-account-name: Drxsko
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 398.40077332397175
+  y: 81.0
+  z: -3109.4907262851652
+  yaw: 118.72196197509766
+  pitch: 6.806029319763184
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.24005037131667
+  y: 64.0
+  z: 12.902656170032888
+  yaw: 178.4114227294922
+  pitch: 3.9306485652923584

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616837968380
+  logout: 1616838187782
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.57017495833273
+  y: 63.0
+  z: 37.85350202523409
+  yaw: -27.588417053222656
+  pitch: 5.278824806213379
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5596.8508013659175
+  y: 100.0
+  z: 3040.698134029577
+  yaw: -84.86312866210938
+  pitch: -6.188350677490234
+  world-name: ''
+ip-address: 88.167.75.30
+last-account-name: elmarco_5
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

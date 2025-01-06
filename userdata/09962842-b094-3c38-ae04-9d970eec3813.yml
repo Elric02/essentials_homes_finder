@@ -1,0 +1,47 @@
+timestamps:
+  login: 1484935493451
+  lastteleport: 1484933731143
+  logout: 1484937381239
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 1784.5554446499095
+  y: 4.495200877005911
+  z: 3241.1886922446756
+  yaw: -148.0076141357422
+  pitch: 9.872608184814453
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3184.3352767228143
+  y: 63.9375
+  z: -5657.464125376005
+  yaw: -346.20806884765625
+  pitch: 27.404552459716797
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 3218.1561202943553
+    y: 74.0
+    z: -5659.699999988079
+    yaw: 22.59051513671875
+    pitch: 29.859268188476562
+    world-name: ''
+ip-address: 84.7.62.224
+last-account-name: yolo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

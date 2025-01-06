@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485800275826
+  lastteleport: 1485801836035
+  logout: 1485801953904
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -158.43721022640662
+  y: 62.5
+  z: 576.5999005602953
+  yaw: 79.00476837158203
+  pitch: 28.190893173217773
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -592.8482293570798
+  y: 64.0
+  z: -794.2229894464334
+  yaw: -298.2117919921875
+  pitch: 35.51178741455078
+  world-name: ''
+ip-address: 92.131.84.26
+last-account-name: alban02600
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

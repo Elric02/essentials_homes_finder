@@ -1,0 +1,47 @@
+timestamps:
+  login: 1529695142542
+  logout: 1529696154912
+  lastteleport: 1529695224190
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3005.662745058097
+  y: 67.0
+  z: 7023.706181019419
+  yaw: -188.99404907226562
+  pitch: 2.1593191623687744
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2928.825146786322
+  y: 71.0
+  z: 7003.60918110126
+  yaw: 67.01183319091797
+  pitch: 9.462809562683105
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -3087.4727093506913
+    y: 67.0
+    z: 6980.533584755213
+    yaw: -256.8412170410156
+    pitch: 0.7041975259780884
+    world-name: ''
+ip-address: 2.7.202.78
+last-account-name: KIKI73
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

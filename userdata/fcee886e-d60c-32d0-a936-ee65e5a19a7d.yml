@@ -1,0 +1,38 @@
+timestamps:
+  login: 1627067787826
+  logout: 1627067793352
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.20766384910743
+  y: 65.0
+  z: 88.85928925383563
+  yaw: 157.44578552246094
+  pitch: 22.8906307220459
+  world-name: ''
+ip-address: 86.243.191.245
+last-account-name: Virhec
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

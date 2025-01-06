@@ -1,0 +1,47 @@
+timestamps:
+  login: 1552076411603
+  lastteleport: 1552076450491
+  logout: 1552076478889
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -17.863628787795534
+  y: 64.0
+  z: 130.30000001192093
+  yaw: 192.59796142578125
+  pitch: 66.29997253417969
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -4501.644282061605
+    y: 53.0
+    z: -6637.699999988079
+    yaw: 118.33272552490234
+    pitch: 37.35001754760742
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 147.69999998807907
+  y: 68.5
+  z: 102.47602937381683
+  yaw: 195.7291259765625
+  pitch: 50.128665924072266
+  world-name: ''
+money: '0'
+ip-address: 70.82.143.83
+last-account-name: Koala55_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

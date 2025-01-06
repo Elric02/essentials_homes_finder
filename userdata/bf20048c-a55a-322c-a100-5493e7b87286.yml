@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477996683024
+  logout: 1477998038836
+  lastteleport: 1477997828474
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -128.11100781663424
+  y: 64.0
+  z: 584.9290404405191
+  yaw: -60.59999084472656
+  pitch: 19.350013732910156
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4226.003200971642
+  y: 62.9375
+  z: -3681.4090766349204
+  yaw: 313.19757080078125
+  pitch: 6.599873065948486
+  world-name: ''
+afk: false
+ip-address: 86.211.205.231
+last-account-name: alex
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

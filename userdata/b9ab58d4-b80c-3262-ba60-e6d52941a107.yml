@@ -1,0 +1,38 @@
+timestamps:
+  login: 1536267273572
+  lastteleport: 1536184199931
+  logout: 1536267343572
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -157.41471543113585
+  y: 53.990214883185224
+  z: 557.5777562782213
+  yaw: -5.751251220703125
+  pitch: -16.732242584228516
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -245.74745668646187
+  y: 43.0
+  z: 481.69999998807907
+  yaw: -5.30145263671875
+  pitch: 20.01776885986328
+  world-name: ''
+ip-address: 80.215.78.27
+last-account-name: neox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

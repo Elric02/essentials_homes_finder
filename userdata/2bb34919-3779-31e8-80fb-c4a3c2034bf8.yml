@@ -1,0 +1,55 @@
+timestamps:
+  login: 1607192826539
+  lastteleport: 1607193517335
+  logout: 1607193830008
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -50.805813010587386
+  y: 34.0
+  z: -4.531655377714883
+  yaw: -275.6158752441406
+  pitch: 29.97707748413086
+  world-name: ''
+homes:
+  b1:
+    world: world
+    x: 3835.096362462214
+    y: 64.0
+    z: -4188.428561062461
+    yaw: -72.53710174560547
+    pitch: 28.334802627563477
+    world-name: ''
+  b2:
+    world: world
+    x: 3765.6141259238248
+    y: 89.0
+    z: 6420.4943862713135
+    yaw: -256.99639892578125
+    pitch: 23.942903518676758
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3758.514726844059
+  y: 90.0
+  z: 6422.7996186547725
+  yaw: -103.42198181152344
+  pitch: -0.2463340163230896
+  world-name: ''
+ip-address: 92.148.111.171
+last-account-name: zebozi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

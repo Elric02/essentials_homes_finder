@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618773379307
+  lastteleport: 1618776814145
+  logout: 1618777031250
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.32037065965292
+  y: 64.0
+  z: 19.048852781539576
+  yaw: 79.85606384277344
+  pitch: 49.02597427368164
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2411.0368345211928
+  y: 70.0
+  z: 7006.591739996359
+  yaw: 102.00088500976562
+  pitch: 5.250294208526611
+  world-name: ''
+ip-address: 109.20.107.114
+last-account-name: FRalex1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

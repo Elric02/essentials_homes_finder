@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.29.124.114
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1669816455624
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669819085324
+  login: 1669815494301
+money: '50.0'
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 222.28986106212446
+  y: 65.0
+  z: -128.6584510590834
+  yaw: -67.17961883544922
+  pitch: 32.1126594543457
+last-account-name: LunaX45
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 215.81752309418704
+  y: 82.64593507792027
+  z: -127.08927061810233
+  yaw: -101.90594482421875
+  pitch: 66.55540466308594

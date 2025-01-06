@@ -1,0 +1,63 @@
+timestamps:
+  login: 1640539025589
+  logout: 1640539139581
+  lastteleport: 1634334743029
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -6180.300000011921
+  y: 60.0
+  z: -3630.699999988079
+  yaw: 238.34722900390625
+  pitch: 24.59967613220215
+  world-name: world
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6153.300000011921
+    y: 64.0
+    z: -3531.582428806502
+    yaw: -269.6431884765625
+    pitch: 72.57569122314453
+    world-name: world
+  glace:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3916.35525927497
+    y: 63.0
+    z: -4937.780114430778
+    yaw: 65.45526123046875
+    pitch: 20.6758975982666
+    world-name: world
+  minage:
+    world: c9471d40-f1c9-43db-90e8-e80a4d4f0631
+    world-name: Ressource
+    x: 2859.467300833569
+    y: 12.0
+    z: 3338.371136877725
+    yaw: 207.44012451171875
+    pitch: 9.900419235229492
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 154.46521892831012
+  y: 64.0
+  z: 20.48777056031434
+  yaw: 185.06008911132812
+  pitch: 14.478317260742188
+  world-name: world
+afk: false
+ip-address: 2.14.103.251
+last-account-name: cxampi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

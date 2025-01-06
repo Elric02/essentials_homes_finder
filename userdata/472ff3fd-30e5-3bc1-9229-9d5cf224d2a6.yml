@@ -1,0 +1,63 @@
+timestamps:
+  login: 1614107947588
+  lastteleport: 1614114072810
+  logout: 1614114357121
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2198.220860362502
+  y: 76.0
+  z: 1457.5475549435612
+  yaw: 80.5927963256836
+  pitch: 17.09923553466797
+  world-name: ''
+money: '0'
+homes:
+  flower:
+    world: Ressource
+    x: 2135.697409585007
+    y: 71.6037636546968
+    z: -578.695991431352
+    yaw: 144.3596954345703
+    pitch: 10.362052917480469
+    world-name: ''
+  house:
+    world: world
+    x: -6530.021316645702
+    y: 64.0
+    z: -5232.715305834728
+    yaw: 261.989990234375
+    pitch: 34.83827209472656
+    world-name: ''
+  ressources:
+    world: Ressource
+    x: 37.32354821960221
+    y: 73.0
+    z: 3005.035371718498
+    yaw: -98.18548583984375
+    pitch: 1.129366159439087
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -6532.038550610197
+  y: 64.0
+  z: -5227.759585303987
+  yaw: 278.69134521484375
+  pitch: 48.80789566040039
+  world-name: ''
+afk: false
+ip-address: 46.193.65.47
+last-account-name: Daksha
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

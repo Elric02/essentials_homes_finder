@@ -1,0 +1,38 @@
+timestamps:
+  login: 1503659712917
+  logout: 1503659751949
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 180.64153415791225
+  y: 62.99725604862478
+  z: -30.747698064076282
+  yaw: -185.89736938476562
+  pitch: 2.249979257583618
+  world-name: ''
+ip-address: 92.162.74.33
+last-account-name: Mister_Meuh
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

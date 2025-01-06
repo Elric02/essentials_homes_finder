@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487263081656
+  lastteleport: 1487263176694
+  logout: 1487264877156
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.50673288070246
+  y: 63.0
+  z: 47.89438731206578
+  yaw: 88.43907165527344
+  pitch: 6.024514198303223
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.80329827076508
+  y: 64.0
+  z: 32.16119735868574
+  yaw: -337.410888671875
+  pitch: 35.57451248168945
+  world-name: ''
+money: '0'
+ip-address: 88.125.166.10
+last-account-name: allan57410
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

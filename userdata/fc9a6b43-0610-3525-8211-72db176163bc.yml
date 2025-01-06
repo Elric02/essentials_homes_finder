@@ -1,0 +1,38 @@
+timestamps:
+  login: 1574463016206
+  logout: 1574463102955
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 131.74755531154705
+  y: 64.0
+  z: -28.71315383014302
+  yaw: 314.89117431640625
+  pitch: 21.82503318786621
+  world-name: ''
+ip-address: 85.171.155.197
+last-account-name: frimoussedu67
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

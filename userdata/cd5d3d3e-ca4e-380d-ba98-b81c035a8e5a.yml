@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519326320449
+  lastteleport: 1519326537518
+  logout: 1519326803433
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -156.01730022704893
+  y: 47.0
+  z: 519.6220744179499
+  yaw: 183.9990234375
+  pitch: 14.167825698852539
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2972.3882319234554
+  y: 62.0
+  z: 4773.300000011921
+  yaw: -110.85083770751953
+  pitch: 17.55001449584961
+  world-name: ''
+ip-address: 83.154.67.9
+last-account-name: IlyassGame
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

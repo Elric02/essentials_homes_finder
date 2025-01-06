@@ -1,0 +1,38 @@
+timestamps:
+  login: 1523129960294
+  logout: 1523130049210
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 128.73426798225222
+  y: 63.0
+  z: 19.38319810708412
+  yaw: 90.54689025878906
+  pitch: 3.240664005279541
+  world-name: ''
+ip-address: 78.216.177.37
+last-account-name: mada1717
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

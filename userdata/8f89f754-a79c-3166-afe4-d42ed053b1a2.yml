@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.66.16.133
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668964958837
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670162165803
+  login: 1670162158999
+money: '0'
+last-account-name: Dylanuxx
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -67.12105554003534
+  y: 71.0
+  z: 177.48416936931883
+  yaw: -175.04185485839844
+  pitch: -17.699993133544922
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -67.12105554003534
+  y: 71.0
+  z: 177.48416936931883
+  yaw: 119.55825805664062
+  pitch: -21.90001106262207

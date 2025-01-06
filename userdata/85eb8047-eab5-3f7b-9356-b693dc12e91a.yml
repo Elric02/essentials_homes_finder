@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 196.70.38.221
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1646074468121
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665417382712
+  login: 1665417372261
+money: '0'
+last-account-name: Sidney_UwU
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 112.96633835174089
+  y: 63.0
+  z: -80.64025585848383
+  yaw: 137.49681091308594
+  pitch: 24.240724563598633
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.45921755137553
+  y: 64.0
+  z: 19.02160008842249
+  yaw: 179.4065704345703
+  pitch: 34.3497200012207

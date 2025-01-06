@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508685096493
+  lastteleport: 1508685170551
+  logout: 1508685290900
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2549.1119293430743
+  y: 69.0
+  z: 2707.508425488644
+  yaw: 356.10748291015625
+  pitch: 1.277677059173584
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 122.8707014024449
+  y: 64.0
+  z: -32.38663467606912
+  yaw: -78.9215087890625
+  pitch: 24.39679718017578
+  world-name: ''
+ip-address: 104.255.154.77
+last-account-name: ibrbra11
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

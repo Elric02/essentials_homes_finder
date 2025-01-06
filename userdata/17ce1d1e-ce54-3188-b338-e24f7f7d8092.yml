@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508749510627
+  logout: 1508749693048
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.0259491639901
+  y: 64.0
+  z: 16.44610180811635
+  yaw: -226.2515106201172
+  pitch: -11.727595329284668
+  world-name: ''
+ip-address: 109.23.155.180
+last-account-name: Lopo_PVP
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

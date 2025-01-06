@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614622781492
+  lastteleport: 1614623085796
+  logout: 1614623139504
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -79.5
+  y: 69.0
+  z: -0.5
+  yaw: -90.73135375976562
+  pitch: -1.0494368076324463
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 921.3000000119209
+  y: 71.0
+  z: -1799.8796473879395
+  yaw: 87.29907989501953
+  pitch: 15.00036334991455
+  world-name: ''
+ip-address: 184.160.28.72
+last-account-name: SuperChannel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

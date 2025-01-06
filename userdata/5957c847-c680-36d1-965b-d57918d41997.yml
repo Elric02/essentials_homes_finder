@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510426507617
+  logout: 1510426518766
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.289942385237
+  y: 63.0
+  z: 48.497256834059954
+  yaw: -269.1474914550781
+  pitch: 0.6973999738693237
+  world-name: ''
+ip-address: 89.80.136.207
+last-account-name: RemiNatueur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

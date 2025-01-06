@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467737279426
+  lastteleport: 1467737612578
+  logout: 1467738129039
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.7643456976026
+  y: 63.0625
+  z: 42.030510639867614
+  yaw: -348.7466125488281
+  pitch: 37.87422561645508
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 153.12996736548413
+  y: 27.0
+  z: 24.018453411102954
+  yaw: -3.29876708984375
+  pitch: 4.724274158477783
+  world-name: ''
+ip-address: 109.23.183.193
+last-account-name: Auriel51
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

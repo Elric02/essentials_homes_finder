@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471335384448
+  lastteleport: 1471335833889
+  logout: 1471335995253
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1221.699999988079
+  y: 75.0
+  z: -5938.808850656488
+  yaw: -29.291015625
+  pitch: 7.718730449676514
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -94.14925674276577
+  y: 60.0
+  z: 346.0953696652018
+  yaw: 338.6355285644531
+  pitch: 19.071290969848633
+  world-name: ''
+ip-address: 88.161.216.170
+last-account-name: TheEdwid
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

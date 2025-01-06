@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499015251593
+  lastteleport: 1499015407549
+  logout: 1499019861654
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.8288778864116
+  y: 66.0
+  z: 19.401164324217408
+  yaw: -86.59732055664062
+  pitch: 10.949997901916504
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -53.6864744698063
+  y: 106.0
+  z: 81.55856893678396
+  yaw: 289.5927734375
+  pitch: 43.20020294189453
+  world-name: ''
+ip-address: 90.112.146.247
+last-account-name: OveRDiabloxYTB
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

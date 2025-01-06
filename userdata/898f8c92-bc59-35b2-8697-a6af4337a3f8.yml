@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490783916717
+  lastteleport: 1490784701411
+  logout: 1490785593492
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -3034.651176125361
+  y: 66.0
+  z: -6228.329430299246
+  yaw: -87.75001525878906
+  pitch: 10.500008583068848
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 151.1053293206342
+  y: 63.0
+  z: -16.118862250062367
+  yaw: -169.71102905273438
+  pitch: -6.875482559204102
+  world-name: ''
+ip-address: 80.8.62.237
+last-account-name: nonotxh
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

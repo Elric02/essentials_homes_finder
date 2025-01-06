@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498297567299
+  logout: 1498297764721
+  lastteleport: 1498297759385
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 67.30000001192097
+  y: 64.0
+  z: 97.93883039786755
+  yaw: 60.552490234375
+  pitch: -1.8000205755233765
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.47972436004784
+  y: 64.0
+  z: 24.338501309046627
+  yaw: -139.41091918945312
+  pitch: 90.0
+  world-name: ''
+ip-address: 90.93.37.160
+last-account-name: elodie_12
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

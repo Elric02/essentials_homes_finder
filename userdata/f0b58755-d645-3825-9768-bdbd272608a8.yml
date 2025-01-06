@@ -1,0 +1,47 @@
+timestamps:
+  login: 1597617036925
+  lastteleport: 1597617734033
+  logout: 1597619053229
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.5747582636925
+  y: 63.0
+  z: 40.86871087182542
+  yaw: -117.57245635986328
+  pitch: 10.020462036132812
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 160.9440552284294
+    y: 63.0
+    z: 64.98623724990527
+    yaw: 131.8153076171875
+    pitch: 22.306838989257812
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -185.70511709020957
+  y: 18.0
+  z: 188.28251867150416
+  yaw: 246.9921875
+  pitch: 7.198415756225586
+  world-name: ''
+ip-address: 90.54.21.233
+last-account-name: NoahYade
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

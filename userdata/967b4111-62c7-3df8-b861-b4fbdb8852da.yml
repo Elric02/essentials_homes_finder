@@ -1,0 +1,38 @@
+timestamps:
+  login: 1578100188327
+  lastteleport: 1578101607443
+  logout: 1578101833237
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7.242321306988119
+  y: 67.0
+  z: 10.90901453192404
+  yaw: -171.62176513671875
+  pitch: 7.67864990234375
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1422.0104556073857
+  y: 68.0
+  z: -2168.3732001461867
+  yaw: -101.12188720703125
+  pitch: 24.178653717041016
+  world-name: ''
+ip-address: 176.185.4.197
+last-account-name: LOOKY
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

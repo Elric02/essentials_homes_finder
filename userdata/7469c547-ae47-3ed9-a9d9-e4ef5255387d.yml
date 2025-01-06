@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.127.116.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1686230671949
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686230798779
+  login: 1686230656682
+money: '0'
+last-account-name: nitaysimchi
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -39.863672423028476
+  y: 65.0
+  z: 56.77564252555475
+  yaw: -27.94921875
+  pitch: 3.238485336303711
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 283.015185097783
+  y: 65.0
+  z: 171.0261890366398
+  yaw: -73.004638671875
+  pitch: 7.3795952796936035

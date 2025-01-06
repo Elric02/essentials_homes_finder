@@ -1,0 +1,38 @@
+timestamps:
+  login: 1531672351585
+  lastteleport: 1531672510563
+  logout: 1531672563595
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.45007101839118
+  y: 63.0
+  z: 51.27533199486942
+  yaw: 346.1790466308594
+  pitch: 13.500007629394531
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 0.7982517868106433
+  y: 89.5
+  z: 26.292339352071068
+  yaw: 206.69717407226562
+  pitch: 12.935835838317871
+  world-name: ''
+ip-address: 176.131.233.62
+last-account-name: alicia
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477492664846
+  logout: 1477492911153
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.05349452602087
+  y: 64.0
+  z: 28.96947896875676
+  yaw: -248.611083984375
+  pitch: 10.049983978271484
+  world-name: ''
+ip-address: 160.178.96.34
+last-account-name: sefla
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+lastlocation:
+  world: Ressource
+  x: 2750.247731844492
+  y: 26.0
+  z: -185.74776815828608
+  yaw: 26.096649169921875
+  pitch: 15.150729179382324
+  world-name: ''
+timestamps:
+  login: 1616520223215
+  lastteleport: 1616524645082
+  logout: 1616524655072
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+money: '0'
+logoutlocation:
+  world: Donjon
+  x: 2050.0519248536957
+  y: 4.0
+  z: 1977.6682530994299
+  yaw: -98.01556396484375
+  pitch: 6.222835540771484
+  world-name: ''
+ip-address: 85.27.83.176
+last-account-name: Bkiller7
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.92.132.49
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1634840151782
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1634840156223
+  login: 1634837473126
+money: '0'
+last-account-name: AKATSUKI_Charly
+lastlocation:
+  world: 299486cc-f566-4eb7-990b-9b1fcca86de8
+  world-name: Ressource
+  x: 3329.8756106118094
+  y: 32.0
+  z: -1368.300000011921
+  yaw: 320.8759765625
+  pitch: 47.00880813598633
+homes:
+  b:
+    world: 299486cc-f566-4eb7-990b-9b1fcca86de8
+    world-name: Ressource
+    x: 3319.0462985296854
+    y: 71.0
+    z: -1403.2462880263524
+    yaw: 193.4757080078125
+    pitch: 3.2255005836486816
+logoutlocation:
+  world: 299486cc-f566-4eb7-990b-9b1fcca86de8
+  world-name: Ressource
+  x: 3318.7007560714114
+  y: 71.0
+  z: -1403.250743681061
+  yaw: 88.71553039550781
+  pitch: 10.967225074768066

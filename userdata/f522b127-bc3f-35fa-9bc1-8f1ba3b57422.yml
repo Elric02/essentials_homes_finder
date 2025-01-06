@@ -1,0 +1,63 @@
+timestamps:
+  login: 1511968861796
+  logout: 1511968933320
+  lastteleport: 1511110774456
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2821.0974602112888
+  y: 62.0
+  z: -7033.839006741091
+  yaw: 179.51742553710938
+  pitch: 22.04999351501465
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 128.3525151334013
+  y: 63.0
+  z: 52.058119960628794
+  yaw: -127.7243423461914
+  pitch: 53.85000228881836
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  village:
+    world: world
+    x: -2834.6413215428624
+    y: 69.0
+    z: -7042.880341380901
+    yaw: 351.86529541015625
+    pitch: 17.55002212524414
+    world-name: ''
+  shop:
+    world: world
+    x: -166.99275673687333
+    y: 47.0
+    z: 415.67083722300623
+    yaw: -319.4013366699219
+    pitch: 12.900009155273438
+    world-name: ''
+  desert:
+    world: world
+    x: -5108.5826916117985
+    y: 69.0
+    z: -2540.1550398253858
+    yaw: -150.4510498046875
+    pitch: 2.8499159812927246
+    world-name: ''
+muted: false
+ip-address: 85.68.26.175
+last-account-name: guizmowordl59
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

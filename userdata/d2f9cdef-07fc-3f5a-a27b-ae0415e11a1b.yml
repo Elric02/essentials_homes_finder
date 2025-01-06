@@ -1,0 +1,38 @@
+timestamps:
+  login: 1557254413214
+  lastteleport: 1557254891127
+  logout: 1557254904840
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.9913399393698
+  y: 66.30485759192793
+  z: 19.017496938073986
+  yaw: -94.52081298828125
+  pitch: 7.378676414489746
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+ip-address: 213.111.11.24
+last-account-name: michou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1485504456071
+  lastteleport: 1485504510418
+  logout: 1485504530627
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2049.1431382745654
+  y: 69.0
+  z: -4540.941057283971
+  yaw: -309.749755859375
+  pitch: 51.14999008178711
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1800.7322224692903
+  y: 66.0
+  z: -5256.473966399597
+  yaw: -36.599884033203125
+  pitch: 44.149959564208984
+  world-name: ''
+afk: false
+homes:
+  maison:
+    world: world
+    x: 1798.3580246193017
+    y: 66.0
+    z: -5258.260720161011
+    yaw: 1.8001177310943604
+    pitch: 36.04996109008789
+    world-name: ''
+  nether:
+    world: world_nether
+    x: 6265.699999988079
+    y: 67.0
+    z: -1200.6728766562685
+    yaw: 305.0999755859375
+    pitch: 37.50000762939453
+    world-name: ''
+  shop:
+    world: ressource
+    x: 4201.478333502059
+    y: 31.0
+    z: -5869.699999988079
+    yaw: -120.14892578125
+    pitch: 70.800048828125
+    world-name: ''
+muted: false
+jailed: false
+ip-address: 90.56.185.71
+last-account-name: akerck71
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

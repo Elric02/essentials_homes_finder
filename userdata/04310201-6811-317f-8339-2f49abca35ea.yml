@@ -1,0 +1,47 @@
+timestamps:
+  login: 1486764319572
+  lastteleport: 1486763773146
+  logout: 1486764334752
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -339.45550359342894
+  y: 72.0
+  z: -290.6950398513453
+  yaw: -27.654964447021484
+  pitch: 24.200029373168945
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: ressource
+  x: 52.99549912156231
+  y: 68.0
+  z: 184.9860763371161
+  yaw: -59.764862060546875
+  pitch: 44.399986267089844
+  world-name: ''
+homes:
+  home:
+    world: ressource
+    x: -87.36165804498496
+    y: 53.0
+    z: 113.51251836924496
+    yaw: -145.9774169921875
+    pitch: 50.249881744384766
+    world-name: ''
+ip-address: 86.204.190.83
+last-account-name: Elesaard
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1496581507027
+  lastteleport: 1496581613358
+  logout: 1496582080903
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.66270503777264
+  y: 63.0
+  z: 40.20196456650251
+  yaw: -179.05613708496094
+  pitch: 5.584562301635742
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -870.8005718273967
+  y: 70.0
+  z: 141.3740454893328
+  yaw: 249.38040161132812
+  pitch: 16.084331512451172
+  world-name: ''
+ip-address: 78.237.88.20
+last-account-name: floflo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

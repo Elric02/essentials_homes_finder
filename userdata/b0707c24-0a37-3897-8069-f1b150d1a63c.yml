@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521017583497
+  lastteleport: 1521017762108
+  logout: 1521017841443
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.91168054594323
+  y: 63.0
+  z: 64.8247436925889
+  yaw: 170.04713439941406
+  pitch: 0.690657377243042
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4865.676312352709
+  y: 74.0
+  z: -481.9440308520867
+  yaw: -179.8727569580078
+  pitch: 20.699989318847656
+  world-name: ''
+ip-address: 80.8.38.163
+last-account-name: nat
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

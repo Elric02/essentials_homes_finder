@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488743619996
+  logout: 1488743652970
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.83345960884765
+  y: 64.0
+  z: 14.922008782583987
+  yaw: -247.9973907470703
+  pitch: 9.697405815124512
+  world-name: ''
+ip-address: 92.88.118.181
+last-account-name: Shadowsing
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

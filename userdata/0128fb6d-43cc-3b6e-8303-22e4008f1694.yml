@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483283325075
+  lastteleport: 1483275552201
+  logout: 1483283703842
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 120.8950350735539
+  y: 63.0
+  z: 71.82654151582778
+  yaw: 232.88833618164062
+  pitch: 20.521852493286133
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: ressource
+  x: 785.5096656970743
+  y: 11.0
+  z: 64.1040436687935
+  yaw: 177.7852783203125
+  pitch: 38.381317138671875
+  world-name: ''
+ip-address: 109.28.92.73
+last-account-name: Itake68210
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

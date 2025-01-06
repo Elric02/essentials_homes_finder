@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516134819055
+  lastteleport: 1516134913316
+  logout: 1516135251680
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.4928300022123
+  y: 65.0
+  z: 80.04278200189854
+  yaw: -155.903076171875
+  pitch: 31.740631103515625
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -6832.73568725373
+  y: 68.0
+  z: -3837.6775883167743
+  yaw: -310.019287109375
+  pitch: 14.250008583068848
+  world-name: ''
+ip-address: 77.129.193.24
+last-account-name: __MissCookies__
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

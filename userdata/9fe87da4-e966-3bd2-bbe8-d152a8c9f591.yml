@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586274269177
+  lastteleport: 1586274363856
+  logout: 1586274523272
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 138.50868914921557
+  y: 63.0
+  z: 21.405675959114486
+  yaw: 274.63616943359375
+  pitch: 16.4521541595459
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -965.0583407879735
+  y: 102.5
+  z: -1551.5557354960847
+  yaw: 226.7713623046875
+  pitch: 30.21373748779297
+  world-name: ''
+ip-address: 2.83.135.235
+last-account-name: Mr_Galaxou_v5
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

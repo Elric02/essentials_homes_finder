@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499621638082
+  lastteleport: 1499619189468
+  logout: 1499623169369
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 151.0
+  y: 64.0
+  z: 26.0
+  yaw: -22.6978759765625
+  pitch: -17.221378326416016
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Event
+  x: 151.0
+  y: 64.0
+  z: 26.0
+  yaw: 85.88041687011719
+  pitch: 21.496017456054688
+  world-name: ''
+afk: false
+ip-address: 86.250.150.86
+last-account-name: kyliangamer46
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.126.184.82
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731968988351
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731969272659
+  login: 1731966444993
+money: '350.0'
+last-account-name: Minedore
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -225.41528094014865
+  y: 64.0
+  z: 351.72613019680296
+  yaw: 177.45045471191406
+  pitch: 8.849989891052246
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3462.359961976192
+  y: 196.5
+  z: 3621.51883686209
+  yaw: 22.878875732421875
+  pitch: 17.54997444152832
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -652.5287599731635
+    y: 64.0
+    z: 932.420579211335
+    yaw: -131.24652099609375
+    pitch: 47.849918365478516

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1499724744834
+  logout: 1499725755747
+  lastteleport: 1499725666337
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.33144233676416
+  y: 63.0
+  z: 33.43545436894405
+  yaw: 124.5888442993164
+  pitch: 18.92451286315918
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 899.2142547323198
+  y: 53.0
+  z: -702.3000000119209
+  yaw: 89.78877258300781
+  pitch: 1.2000396251678467
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 898.8268031139612
+    y: 53.0
+    z: -702.3000000119209
+    yaw: 137.9387969970703
+    pitch: 2.700043201446533
+    world-name: ''
+ip-address: 88.136.21.186
+last-account-name: RTxX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

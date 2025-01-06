@@ -1,0 +1,63 @@
+timestamps:
+  login: 1671897417289
+  logout: 1671897453966
+  lastteleport: 1671543216189
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 147.95538926563927
+  y: 63.0
+  z: -2.5582851234845503
+  yaw: 49.819732666015625
+  pitch: 9.900131225585938
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 72.23750001192093
+  y: 64.0
+  z: -4.069837410318669
+  yaw: 107.4212417602539
+  pitch: 27.000232696533203
+  world-name: world
+money: '0'
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5081.927191936633
+    y: 48.0
+    z: 5716.469544148958
+    yaw: -269.05108642578125
+    pitch: 33.40937423706055
+    world-name: world
+  i:
+    world: 6b791b62-b860-492a-aa67-db025bcd5247
+    x: 3219.9957851093222
+    y: 70.0
+    z: -1846.2342374826937
+    yaw: -85.40695190429688
+    pitch: 21.711042404174805
+    world-name: world2
+  bazoir:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1934.2113435797658
+    y: 82.0
+    z: 3865.8942886923323
+    yaw: 255.80322265625
+    pitch: -7.672947883605957
+afk: false
+ip-address: 176.152.9.217
+last-account-name: VinsTmS37
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

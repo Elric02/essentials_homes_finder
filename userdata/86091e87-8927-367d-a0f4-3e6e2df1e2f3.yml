@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614959315398
+  lastteleport: 1614957603425
+  logout: 1614959612283
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -77.69160872253167
+  y: 67.0
+  z: -1.1040914135878281
+  yaw: 0.7686768174171448
+  pitch: 18.900596618652344
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 103.55548814673057
+  y: 64.0
+  z: -27.70238174439097
+  yaw: -298.299072265625
+  pitch: 31.500301361083984
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 93.31.98.24
+last-account-name: puccie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

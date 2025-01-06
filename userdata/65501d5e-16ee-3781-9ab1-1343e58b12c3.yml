@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477602318815
+  logout: 1477602364520
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 139.1831552018631
+  y: 63.0
+  z: -21.56235414348457
+  yaw: -63.347198486328125
+  pitch: 12.097418785095215
+  world-name: ''
+ip-address: 78.114.190.224
+last-account-name: zozo56
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

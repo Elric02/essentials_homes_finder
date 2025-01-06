@@ -1,0 +1,38 @@
+timestamps:
+  login: 1541933354469
+  logout: 1541933553317
+  lastteleport: 1541933398067
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.28452534484123
+  y: 64.0
+  z: 66.88824510795575
+  yaw: 203.91448974609375
+  pitch: 10.293477058410645
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1369.0748344809554
+  y: 63.0
+  z: -2190.3743622070397
+  yaw: 77.73687744140625
+  pitch: 13.94490909576416
+  world-name: ''
+ip-address: 176.181.196.219
+last-account-name: ethan71
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

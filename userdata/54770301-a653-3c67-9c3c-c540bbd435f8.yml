@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467385425179
+  logout: 1467385462231
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 120.17111698870971
+  y: 63.0
+  z: 18.72524883484861
+  yaw: -206.09727478027344
+  pitch: 24.37418556213379
+  world-name: ''
+ip-address: 88.181.38.159
+last-account-name: monopterix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1486405586409
+  lastteleport: 1486406972304
+  logout: 1486407116167
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -481.3000000119209
+  y: 67.0
+  z: -35.09803408032323
+  yaw: -85.46148681640625
+  pitch: 13.050003051757812
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: -1384.8500927647738
+    y: 64.0
+    z: -6317.87660050431
+    yaw: -67.0465087890625
+    pitch: 9.450004577636719
+    world-name: ''
+logoutlocation:
+  world: ressource
+  x: 207.14265202585443
+  y: 66.5
+  z: 123.13342656028146
+  yaw: -265.61297607421875
+  pitch: 12.726120948791504
+  world-name: ''
+ip-address: 81.246.128.132
+last-account-name: Emilien03
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

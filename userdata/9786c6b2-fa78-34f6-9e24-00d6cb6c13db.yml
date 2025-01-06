@@ -1,0 +1,38 @@
+timestamps:
+  login: 1598472710959
+  lastteleport: 1598474970911
+  logout: 1598475035304
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.65207756338538
+  y: 63.0
+  z: 41.087470589344385
+  yaw: 246.12950134277344
+  pitch: 31.678539276123047
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -12.300000011920929
+  y: 61.0
+  z: -7.34510197100625
+  yaw: -89.40308380126953
+  pitch: 84.30000305175781
+  world-name: ''
+ip-address: 41.143.154.130
+last-account-name: Irongamer_13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

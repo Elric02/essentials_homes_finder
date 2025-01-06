@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466875449621
+  logout: 1466875512338
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.2142181374965
+  y: 27.0
+  z: 20.561976922545806
+  yaw: 267.7529296875
+  pitch: 14.324183464050293
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.38155658065722
+  y: 64.0
+  z: 19.450605147634633
+  yaw: 268.2029113769531
+  pitch: 14.17418384552002
+  world-name: ''
+ip-address: 82.239.211.10
+last-account-name: Valentino974
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

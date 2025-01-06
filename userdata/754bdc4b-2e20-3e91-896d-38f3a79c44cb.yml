@@ -1,0 +1,38 @@
+timestamps:
+  login: 1515096801810
+  lastteleport: 1515096781309
+  logout: 1515096806564
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.77398452309134
+  y: 63.0
+  z: 63.03555810906155
+  yaw: 224.3472137451172
+  pitch: -9.600007057189941
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.23902699321346
+  y: 64.0
+  z: 29.889231591387805
+  yaw: -175.07086181640625
+  pitch: 1.0786675214767456
+  world-name: ''
+ip-address: 81.48.235.157
+last-account-name: TheDirkNight
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

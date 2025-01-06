@@ -1,0 +1,38 @@
+timestamps:
+  login: 1596917135806
+  lastteleport: 1596917886912
+  logout: 1596918255730
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -336.6063621005688
+  y: 64.0
+  z: 65.37496135796921
+  yaw: -96.0191650390625
+  pitch: 6.7554545402526855
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -1012.1682046247375
+  y: 80.0
+  z: -98.57237835682024
+  yaw: -154.6256103515625
+  pitch: 31.344879150390625
+  world-name: ''
+ip-address: 193.250.155.124
+last-account-name: CodeBeatboxBG
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

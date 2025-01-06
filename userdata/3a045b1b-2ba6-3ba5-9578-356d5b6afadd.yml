@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492453753205
+  logout: 1492453951095
+  lastteleport: 1492453896103
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6492.416950050915
+  y: 72.0
+  z: 5691.141524925233
+  yaw: -126.5999755859375
+  pitch: 15.300015449523926
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 197.85172560051564
+  y: 64.0
+  z: 22.80498465379164
+  yaw: 149.03903198242188
+  pitch: 0.3245212435722351
+  world-name: ''
+ip-address: 109.15.251.2
+last-account-name: Audrandu63
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

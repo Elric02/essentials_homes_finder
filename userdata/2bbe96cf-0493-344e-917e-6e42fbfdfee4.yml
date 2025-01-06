@@ -1,0 +1,38 @@
+timestamps:
+  login: 1623242450950
+  logout: 1623242468844
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.72557087552676
+  y: 65.0
+  z: 78.19832154552338
+  yaw: 183.5767364501953
+  pitch: 10.027175903320312
+  world-name: ''
+ip-address: 86.210.193.17
+last-account-name: Odeuxzero
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

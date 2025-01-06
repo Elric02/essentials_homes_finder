@@ -1,0 +1,38 @@
+timestamps:
+  login: 1583940294866
+  logout: 1583940428666
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1780.699999988079
+  y: 111.0
+  z: -1011.9482494427914
+  yaw: 119.24974060058594
+  pitch: 49.50016403198242
+  world-name: ''
+ip-address: 188.188.227.232
+last-account-name: SkyyApple
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

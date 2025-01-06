@@ -1,0 +1,38 @@
+timestamps:
+  login: 1539529615976
+  logout: 1539529682352
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 161.22148396612616
+  y: 64.0
+  z: 16.32696804062803
+  yaw: 266.9473876953125
+  pitch: 10.740653991699219
+  world-name: ''
+ip-address: 81.64.127.155
+last-account-name: Jerem_mine
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

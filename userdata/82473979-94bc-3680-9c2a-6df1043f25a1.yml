@@ -1,0 +1,38 @@
+timestamps:
+  login: 1626292402542
+  logout: 1626292597082
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 108.25677962212501
+  y: 70.0
+  z: -81.23500829534939
+  yaw: -35.60771942138672
+  pitch: 25.440685272216797
+  world-name: ''
+ip-address: 176.163.227.172
+last-account-name: sanaeoka
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.103.231.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674066240768
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674067551476
+  login: 1674065886456
+  kits:
+    stationaute: 1674067377230
+money: '50.0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 3515.699999988079
+  y: 74.0
+  z: -1809.8619878515215
+  yaw: 58.45587158203125
+  pitch: 50.999855041503906
+last-account-name: Lk_Kuro
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1154.3076757388385
+  y: 81.0
+  z: 7579.33745473317
+  yaw: 173.95628356933594
+  pitch: 29.699817657470703

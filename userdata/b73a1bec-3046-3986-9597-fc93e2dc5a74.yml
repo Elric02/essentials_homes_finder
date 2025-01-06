@@ -1,0 +1,38 @@
+timestamps:
+  login: 1540306397684
+  logout: 1540306436948
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.61135209315023
+  y: 63.0
+  z: 59.30000001192094
+  yaw: -179.1529998779297
+  pitch: 5.1906538009643555
+  world-name: ''
+ip-address: 5.48.12.233
+last-account-name: ChiefRenegade_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1520092527920
+  lastteleport: 1520092555444
+  logout: 1520092863065
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 680.2040745508916
+  y: 64.0
+  z: 5096.957295255671
+  yaw: -206.44439697265625
+  pitch: 11.366584777832031
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 672.2397518985923
+  y: 65.0
+  z: 4909.050000011921
+  yaw: -56.283935546875
+  pitch: 9.169170379638672
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 676.0258759890147
+    y: 58.0
+    z: 4937.040373523017
+    yaw: -102.89324951171875
+    pitch: 33.52935791015625
+    world-name: ''
+afk: false
+ip-address: 62.235.49.131
+last-account-name: Francescor
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

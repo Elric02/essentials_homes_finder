@@ -1,0 +1,47 @@
+timestamps:
+  login: 1497635867179
+  lastteleport: 1497642019720
+  logout: 1497642212450
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -190.41087341308594
+  pitch: 12.024515151977539
+  world-name: ''
+homes:
+  nether:
+    world: world_nether
+    x: -4467.461135590044
+    y: 84.0
+    z: 5690.59792727218
+    yaw: 355.9272766113281
+    pitch: 34.581886291503906
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world_nether
+  x: -4418.776084502733
+  y: 76.0
+  z: 5609.254477579808
+  yaw: -84.780029296875
+  pitch: 62.24998474121094
+  world-name: ''
+ip-address: 72.11.184.77
+last-account-name: jakethesnake
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

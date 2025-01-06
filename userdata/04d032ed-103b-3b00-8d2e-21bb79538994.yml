@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618676161452
+  lastteleport: 1618676273666
+  logout: 1618676688651
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressourcenether
+  x: 0.5127463639991396
+  y: 37.41999998688698
+  z: -1.9294818885240312
+  yaw: -178.04226684570312
+  pitch: 7.349990367889404
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressourcenether
+  x: -40.57406769774443
+  y: 35.0
+  z: 43.46951871751179
+  yaw: -17.6927490234375
+  pitch: -12.750067710876465
+  world-name: ''
+ip-address: 84.7.58.223
+last-account-name: Max_du_62
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

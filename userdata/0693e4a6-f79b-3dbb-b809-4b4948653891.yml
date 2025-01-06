@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467584246319
+  lastteleport: 1467585725351
+  logout: 1467586036289
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -358.01960034825197
+  y: 73.0
+  z: 450.18201118412145
+  yaw: 203.204345703125
+  pitch: 9.445133209228516
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 106.56389771629262
+  y: 63.0
+  z: 27.69520701296589
+  yaw: 135.61866760253906
+  pitch: 15.133438110351562
+  world-name: ''
+ip-address: 90.16.38.82
+last-account-name: Jaihkosy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

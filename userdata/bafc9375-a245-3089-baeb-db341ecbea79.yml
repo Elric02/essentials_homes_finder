@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475335292627
+  logout: 1475335408859
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 162.1334772008383
+  y: 64.0
+  z: 15.814195791056513
+  yaw: -281.89776611328125
+  pitch: 29.19740104675293
+  world-name: ''
+ip-address: 2.9.155.242
+last-account-name: Crackly
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

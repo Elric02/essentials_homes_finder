@@ -1,0 +1,38 @@
+timestamps:
+  login: 1512930634471
+  lastteleport: 1512931078679
+  logout: 1512931487410
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.80627055735422
+  y: 63.0
+  z: 8.083158032682366
+  yaw: -229.071044921875
+  pitch: 8.728686332702637
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 172.24436010996308
+  y: 150.0
+  z: -120.85823120347402
+  yaw: 77.978759765625
+  pitch: 14.399991035461426
+  world-name: ''
+ip-address: 90.116.181.247
+last-account-name: Ghitixe
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1576347804694
+  logout: 1576347909421
+  lastteleport: 1527433056972
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3700.2820307395127
+  y: 72.0
+  z: -6707.842157662537
+  yaw: 44.5832633972168
+  pitch: 2.575242280960083
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3624.94584657172
+  y: 92.0
+  z: -6664.699999988079
+  yaw: -0.9074262380599976
+  pitch: 10.015564918518066
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 3624.1139215810695
+    y: 88.0
+    z: -6655.761176480415
+    yaw: 273.4483642578125
+    pitch: 16.737661361694336
+    world-name: ''
+  savane:
+    world: world
+    x: 3355.5402987463804
+    y: 86.0
+    z: -7280.56086262454
+    yaw: 54.8779296875
+    pitch: 11.548312187194824
+    world-name: ''
+  village:
+    world: world
+    x: 1911.7796505938322
+    y: 71.0
+    z: -7307.865540960704
+    yaw: 200.66587829589844
+    pitch: 9.254436492919922
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 79.83.197.233
+last-account-name: MrTiz45
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

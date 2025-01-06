@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481216239804
+  lastteleport: 1481216318917
+  logout: 1481216346015
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 147.11387660521012
+  y: 64.0
+  z: 15.529517488877556
+  yaw: -175.6973876953125
+  pitch: 21.397397994995117
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1926.24364486058
+  y: 69.0
+  z: 6756.91631040417
+  yaw: -225.90081787109375
+  pitch: 2.549708843231201
+  world-name: ''
+ip-address: 82.241.207.249
+last-account-name: furious_jemper
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

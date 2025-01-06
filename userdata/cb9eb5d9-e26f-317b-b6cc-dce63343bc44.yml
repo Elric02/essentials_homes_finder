@@ -1,0 +1,47 @@
+timestamps:
+  login: 1512506716323
+  lastteleport: 1512506798619
+  logout: 1512506868592
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.88662341772584
+  y: 63.0
+  z: 7.877086750073335
+  yaw: -227.9718017578125
+  pitch: 33.77061080932617
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.1810567378997803
+  world-name: ''
+money: '0'
+homes:
+  loin:
+    world: world
+    x: -3358.868156342415
+    y: 68.0
+    z: -4008.327933801086
+    yaw: -268.37371826171875
+    pitch: 20.74600601196289
+    world-name: ''
+ip-address: 77.151.170.47
+last-account-name: Ozmog_YT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1502306126935
+  lastteleport: 1502306005186
+  logout: 1502306426984
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -168.682373046875
+  pitch: 0.3408491909503937
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 167.74152088747243
+  y: 63.0
+  z: 49.60885960290927
+  yaw: 136.66983032226562
+  pitch: -5.603161334991455
+  world-name: ''
+ip-address: 86.68.162.28
+last-account-name: Toulysiano
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

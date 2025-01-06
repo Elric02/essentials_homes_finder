@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.132.86.174
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683398530983
+  login: 1683398489898
+money: '0'
+last-account-name: knolesmotorola
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.14713938862593
+  y: 81.0
+  z: -3111.99323987203
+  yaw: -156.14817810058594
+  pitch: 13.649972915649414
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.14713938862593
+  y: 81.0
+  z: -3111.99323987203
+  yaw: -113.54817199707031
+  pitch: 13.049971580505371

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1635872652288
+  lastteleport: 1635875103408
+  logout: 1635876333120
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 14.163440478914078
+  y: 75.0
+  z: 75.15460026584232
+  yaw: 45.910675048828125
+  pitch: 43.128170013427734
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -4409.2391744803035
+  y: 88.0
+  z: -6668.85707428918
+  yaw: 80.78551483154297
+  pitch: 2.1700820922851562
+  world-name: world
+money: '0'
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1440.449634507721
+    y: 64.0
+    z: -2231.655746960403
+    yaw: 269.1966247558594
+    pitch: 86.08552551269531
+    world-name: world
+  end:
+    world: ad90bccb-d085-4609-bdd5-83c569cca21b
+    x: -395.68400432919566
+    y: 1.0
+    z: -2.971552687200181
+    yaw: 156.01806640625
+    pitch: 45.59988784790039
+    world-name: End
+  mqsd:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 9.558106462145114
+    y: 68.5
+    z: 79.28605483528376
+    yaw: 219.4107666015625
+    pitch: 5.028615474700928
+afk: false
+ip-address: 88.169.46.82
+last-account-name: walid31300
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

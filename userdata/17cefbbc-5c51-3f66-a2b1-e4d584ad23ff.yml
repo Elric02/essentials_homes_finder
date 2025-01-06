@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.121.56.87
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671661200640
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671661256454
+  login: 1671654982044
+money: '300.0'
+last-account-name: Bapt_3006
+lastlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -0.9182149047066175
+  y: 90.0
+  z: 0.3636959266272354
+  yaw: 82.1971206665039
+  pitch: 4.23579216003418
+logoutlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -1044.8903456848727
+  y: 52.0
+  z: 3746.9079681807957
+  yaw: -163.6915283203125
+  pitch: 35.3037109375

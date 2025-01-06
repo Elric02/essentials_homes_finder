@@ -1,0 +1,47 @@
+timestamps:
+  login: 1596030609375
+  lastteleport: 1596031737735
+  logout: 1596031741932
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1280.300000011921
+  y: 80.0
+  z: -11.699999988079073
+  yaw: -84.15486907958984
+  pitch: 9.635878562927246
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 3085.8275344190934
+    y: 63.0
+    z: 4866.039939750984
+    yaw: -321.928466796875
+    pitch: 24.899812698364258
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3085.5
+  y: 62.9375
+  z: 4866.5
+  yaw: -321.928466796875
+  pitch: 24.899812698364258
+  world-name: ''
+afk: false
+ip-address: 92.142.113.9
+last-account-name: mau_lsgn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

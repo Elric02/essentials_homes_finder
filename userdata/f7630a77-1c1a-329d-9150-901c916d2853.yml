@@ -1,0 +1,38 @@
+timestamps:
+  login: 1495360884715
+  lastteleport: 1495360956503
+  logout: 1495361104459
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.4912815382704
+  y: 63.0
+  z: 49.45966413954058
+  yaw: -268.847412109375
+  pitch: -6.20259952545166
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 368.83519153211506
+  y: 90.6747141719849
+  z: 4037.824634473785
+  yaw: -208.28184509277344
+  pitch: 5.232006072998047
+  world-name: ''
+ip-address: 82.250.64.163
+last-account-name: DarkCreeper
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

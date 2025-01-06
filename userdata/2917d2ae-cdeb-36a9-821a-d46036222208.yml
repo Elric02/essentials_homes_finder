@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.126.243.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665312227789
+  login: 1665312107574
+money: '0'
+last-account-name: loguibadas
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.21989720338775
+  y: 81.0
+  z: -3111.419409150137
+  yaw: -74.69781494140625
+  pitch: 26.54993438720703
+logoutlocation:
+  world: 438b4f3b-f6b3-4095-b3db-751126eef01d
+  world-name: AlthiumNether
+  x: -128.39365278161483
+  y: 62.5
+  z: 12.72113649476923
+  yaw: 92.49209594726562
+  pitch: 17.135093688964844

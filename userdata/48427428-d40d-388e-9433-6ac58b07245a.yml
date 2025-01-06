@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477859034329
+  logout: 1477859066923
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.20637039877582
+  y: 63.0
+  z: 47.97541517849921
+  yaw: -123.6474609375
+  pitch: 8.047401428222656
+  world-name: ''
+ip-address: 2.6.204.45
+last-account-name: erisuim_danwalex
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

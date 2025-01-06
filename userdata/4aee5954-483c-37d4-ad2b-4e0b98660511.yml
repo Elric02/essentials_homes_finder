@@ -1,0 +1,63 @@
+timestamps:
+  login: 1562658815108
+  lastteleport: 1562662396463
+  logout: 1562662647193
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: -149.3314003087841
+  y: 22.8430053427743
+  z: -338.8626299086641
+  yaw: -187.4713134765625
+  pitch: 53.54967498779297
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4530.791947425614
+  y: 114.0
+  z: -1806.5378295377952
+  yaw: -246.81365966796875
+  pitch: 6.975815773010254
+  world-name: ''
+afk: false
+homes:
+  maise:
+    world: world
+    x: 2076.937762619955
+    y: 38.0
+    z: -2817.6445227289655
+    yaw: 8.00933837890625
+    pitch: 19.251482009887695
+    world-name: ''
+  base:
+    world: world
+    x: 4538.299446987712
+    y: 129.0
+    z: -1792.4158971595225
+    yaw: 82.08576202392578
+    pitch: 52.77302551269531
+    world-name: ''
+  minage:
+    world: Nether
+    x: -156.56597816760825
+    y: 74.0
+    z: -263.4175755100472
+    yaw: -169.63470458984375
+    pitch: 22.49938201904297
+    world-name: ''
+ip-address: 90.55.32.43
+last-account-name: soubie17
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

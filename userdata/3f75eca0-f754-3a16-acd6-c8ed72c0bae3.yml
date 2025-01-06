@@ -1,0 +1,38 @@
+timestamps:
+  login: 1546443316518
+  lastteleport: 1546443327145
+  logout: 1546443844348
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.02325085413756
+  y: 65.0
+  z: 100.18680405302531
+  yaw: 93.69684600830078
+  pitch: 4.890661239624023
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 268.76249998807907
+  y: 42.0
+  z: -3305.5340874102417
+  yaw: -259.34222412109375
+  pitch: -7.799962520599365
+  world-name: ''
+ip-address: 176.188.30.92
+last-account-name: theoribleytb
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

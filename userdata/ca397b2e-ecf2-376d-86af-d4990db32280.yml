@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485950839363
+  lastteleport: 1485951056693
+  logout: 1485951139953
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2754.1569379670423
+  y: 76.0
+  z: -3591.904464963801
+  yaw: 95.13534545898438
+  pitch: 19.499807357788086
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.51305267794032
+  y: 63.0
+  z: -1.3043695252282106
+  yaw: -190.1063232421875
+  pitch: -10.807135581970215
+  world-name: ''
+ip-address: 88.127.95.215
+last-account-name: kewannnn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

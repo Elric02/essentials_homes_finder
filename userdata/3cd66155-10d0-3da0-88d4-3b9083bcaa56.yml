@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.65.38.70
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667138741224
+  login: 1667138725527
+money: '0'
+last-account-name: Zeratyx
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.54584542335493
+  y: 81.0
+  z: -3111.002546758834
+  yaw: -56.33187484741211
+  pitch: 6.908217430114746
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.54584542335493
+  y: 81.0
+  z: -3111.002546758834
+  yaw: -62.2949333190918
+  pitch: -8.616256713867188

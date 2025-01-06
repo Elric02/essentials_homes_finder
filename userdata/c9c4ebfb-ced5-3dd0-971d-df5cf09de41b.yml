@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.210.186.97
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1669303142247
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669303264850
+  login: 1669302965319
+money: '0'
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -96.89211855216982
+  y: 99.0
+  z: 151.4710819478703
+  yaw: 29.55099868774414
+  pitch: 8.99990177154541
+last-account-name: Navesti_Officiel
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -369.6280552437444
+  y: 68.9375
+  z: -452.6039105876914
+  yaw: 119.70470428466797
+  pitch: 11.399922370910645

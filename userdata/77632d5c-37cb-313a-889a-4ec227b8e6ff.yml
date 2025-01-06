@@ -1,0 +1,47 @@
+timestamps:
+  login: 1488713250911
+  lastteleport: 1488714880182
+  logout: 1488715212810
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2403.300000011921
+  y: 57.0
+  z: -6312.053288395172
+  yaw: 81.15379333496094
+  pitch: 62.84999084472656
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 2404.547822811585
+    y: 58.0
+    z: -6314.534283433802
+    yaw: 43.65379333496094
+    pitch: 29.699979782104492
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 186.30000001192093
+  y: 63.0
+  z: 42.69999998807907
+  yaw: -176.76089477539062
+  pitch: 12.474513053894043
+  world-name: ''
+ip-address: 154.67.52.123
+last-account-name: GougouCoC
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1491921499849
+  lastteleport: 1491921711048
+  logout: 1491921729609
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -254.29747009277344
+  pitch: 0.847404420375824
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 0.021776269137898513
+  y: 89.5
+  z: 25.9176046906029
+  yaw: -301.235595703125
+  pitch: 26.883085250854492
+  world-name: ''
+ip-address: 85.68.172.18
+last-account-name: Carosel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

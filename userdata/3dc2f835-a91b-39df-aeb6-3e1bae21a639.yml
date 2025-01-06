@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.142.13.196
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722273863335
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722274582586
+  login: 1722273455929
+money: '50.0'
+last-account-name: Werox
+lastlocation:
+  world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+  world-name: Ressource
+  x: -1.6345617480262191
+  y: 90.0
+  z: 0.3831877782975973
+  yaw: 89.32534790039062
+  pitch: -7.692734241485596
+logoutlocation:
+  world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+  world-name: Ressource
+  x: -2635.5436741544063
+  y: 64.0
+  z: -2513.6600808081535
+  yaw: 9.6971435546875
+  pitch: 59.627967834472656

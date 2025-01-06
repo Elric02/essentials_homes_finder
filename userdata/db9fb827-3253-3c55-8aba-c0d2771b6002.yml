@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480760919753
+  logout: 1480760979468
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.87298646025758
+  y: 64.0
+  z: 7.811039354397023
+  yaw: -207.04730224609375
+  pitch: 8.6474027633667
+  world-name: ''
+ip-address: 83.195.241.227
+last-account-name: EvoliBouleDePoil
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

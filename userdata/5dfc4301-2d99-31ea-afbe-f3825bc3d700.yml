@@ -1,0 +1,38 @@
+timestamps:
+  login: 1512130809663
+  lastteleport: 1512131060462
+  logout: 1512132880519
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -124.52084350585938
+  pitch: -3.1213274002075195
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 145.5351077009072
+  y: 18.0
+  z: -23.373476096154747
+  yaw: -170.286376953125
+  pitch: 12.749999046325684
+  world-name: ''
+ip-address: 86.239.84.113
+last-account-name: lulu_boss
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

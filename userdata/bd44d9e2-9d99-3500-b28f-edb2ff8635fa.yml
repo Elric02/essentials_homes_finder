@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.170.63.7
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683488617812
+  login: 1683488479902
+money: '0'
+last-account-name: gakogoka1
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.80767578315255
+  y: 81.0
+  z: -3111.3973391352115
+  yaw: -71.54817962646484
+  pitch: 15.749953269958496
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 417.7761992445348
+  y: -2044.6830976360548
+  z: -3238.1829106749897
+  yaw: -117.29692077636719
+  pitch: -79.94993591308594

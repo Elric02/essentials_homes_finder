@@ -1,0 +1,64 @@
+timestamps:
+  login: 1477494491509
+  lastteleport: 1477493794328
+  logout: 1477494675715
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7615.501141871044
+  y: 76.0
+  z: 3090.539127848949
+  yaw: 46.37174987792969
+  pitch: 19.396265029907227
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5449.875662643304
+  y: 70.0
+  z: 668.3597296040823
+  yaw: 154.6383056640625
+  pitch: 31.805625915527344
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 7619.68695766536
+    y: 71.0
+    z: 3117.24367182621
+    yaw: 165.48887634277344
+    pitch: 19.151426315307617
+    world-name: ''
+  panda:
+    world: world_the_end
+    x: 5890.046278219596
+    y: 81.0
+    z: 5211.437879054902
+    yaw: 334.17572021484375
+    pitch: 12.79929256439209
+    world-name: ''
+  prout:
+    world: world
+    x: 6160.632074870229
+    y: 68.0
+    z: -2705.5286920325375
+    yaw: 228.84898376464844
+    pitch: 51.61726379394531
+    world-name: ''
+money: '0'
+afk: false
+jailed: true
+jail: natura
+ip-address: 93.16.134.141
+last-account-name: Cececraft_YT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

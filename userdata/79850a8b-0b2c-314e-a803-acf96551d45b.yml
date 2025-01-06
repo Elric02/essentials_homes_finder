@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477260223373
+  logout: 1477260257285
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.16422924318115
+  y: 63.0
+  z: -3.654169665873007
+  yaw: -189.3363494873047
+  pitch: -11.490278244018555
+  world-name: ''
+ip-address: 78.227.75.109
+last-account-name: PvPGo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1471787834276
+  lastteleport: 1471791699426
+  logout: 1471792213709
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1871.9645370826602
+  y: 64.0
+  z: 3893.822939062283
+  yaw: -245.4517822265625
+  pitch: 12.750053405761719
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1933.8827526314847
+  y: 77.0
+  z: 3876.0968863103253
+  yaw: -175.3095703125
+  pitch: 25.799917221069336
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -1943.7342964136674
+    y: 69.0
+    z: 3870.699999988079
+    yaw: 127.39029693603516
+    pitch: 11.776288032531738
+    world-name: ''
+  farm:
+    world: world
+    x: 2614.363631698121
+    y: 69.0
+    z: -4614.442105989196
+    yaw: -83.4010009765625
+    pitch: 14.399984359741211
+    world-name: ''
+  pnj:
+    world: world
+    x: -1420.2480716528369
+    y: 72.0
+    z: -199.30527844150723
+    yaw: -89.85015869140625
+    pitch: 16.350013732910156
+    world-name: ''
+afk: false
+ip-address: 87.89.24.84
+last-account-name: ViciousKestrel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

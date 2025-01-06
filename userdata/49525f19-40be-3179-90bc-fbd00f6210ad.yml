@@ -1,0 +1,38 @@
+timestamps:
+  login: 1548599095321
+  lastteleport: 1548599212675
+  logout: 1548599083144
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5496442896496
+  y: 64.0
+  z: 24.11046186110671
+  yaw: -170.9952392578125
+  pitch: 4.331185817718506
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 1749.7447994832485
+  y: 70.0
+  z: -998.3875719857181
+  yaw: 21.01031494140625
+  pitch: 36.80923080444336
+  world-name: ''
+money: '0'
+ip-address: 77.199.219.114
+last-account-name: goloxo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

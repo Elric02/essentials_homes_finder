@@ -1,0 +1,55 @@
+timestamps:
+  login: 1567195852570
+  logout: 1567196269621
+  lastteleport: 1567196010135
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.60645676097926
+  y: 65.0
+  z: 88.04884636860245
+  yaw: -340.5207214355469
+  pitch: 4.528670310974121
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.94834564741035
+  y: 64.0
+  z: 9.764079567274797
+  yaw: 205.7783203125
+  pitch: -0.7213689088821411
+  world-name: ''
+money: '0'
+homes:
+  here:
+    world: Ressource
+    x: -319.69999998807907
+    y: 55.0
+    z: 1281.6744942570363
+    yaw: -143.2496337890625
+    pitch: 31.050086975097656
+    world-name: ''
+  home:
+    world: Ressource
+    x: -304.61798611328567
+    y: 42.0
+    z: 1279.699999988079
+    yaw: 99.30072021484375
+    pitch: 10.349982261657715
+    world-name: ''
+ip-address: 92.153.105.104
+last-account-name: Essen_re
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

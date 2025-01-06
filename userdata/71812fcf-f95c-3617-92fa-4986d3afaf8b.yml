@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.93.32.158
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635187756106
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635187861513
+  login: 1635187615090
+money: '0'
+last-account-name: grolo
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 147.39938025360868
+  y: 62.875
+  z: 43.66756982824119
+  yaw: 80.04855346679688
+  pitch: 67.80001831054688
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 71.62449170261137
+  y: 62.0
+  z: -0.749816205802261
+  yaw: -255.64837646484375
+  pitch: 34.49993133544922

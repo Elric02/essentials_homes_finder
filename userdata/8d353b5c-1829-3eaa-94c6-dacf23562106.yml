@@ -1,0 +1,47 @@
+timestamps:
+  login: 1586383402574
+  lastteleport: 1586379915302
+  logout: 1586383426936
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -409.5
+  y: 71.0
+  z: -1123.5
+  yaw: -246.56539916992188
+  pitch: 90.0
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -409.4000669170012
+    y: 71.0
+    z: -1123.8764000816243
+    yaw: -228.8660125732422
+    pitch: 18.14900016784668
+    world-name: ''
+logoutlocation:
+  world: Nether
+  x: 578.6373958572868
+  y: 60.0
+  z: 2920.300000011921
+  yaw: -94.25274658203125
+  pitch: 11.249520301818848
+  world-name: ''
+afk: false
+ip-address: 90.96.0.15
+last-account-name: sarovewer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

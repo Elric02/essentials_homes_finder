@@ -1,0 +1,38 @@
+timestamps:
+  login: 1621880871428
+  logout: 1621881738514
+  lastteleport: 1621881009808
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5045.22243942891
+  y: 76.0
+  z: -4614.719414959673
+  yaw: 290.67291259765625
+  pitch: 12.832418441772461
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6573.559331153051
+  y: 63.0
+  z: 5281.776797391867
+  yaw: -9.750042915344238
+  pitch: 22.199983596801758
+  world-name: ''
+money: '0'
+ip-address: 88.121.214.216
+last-account-name: xamaxx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

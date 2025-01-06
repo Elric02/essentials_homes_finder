@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466785543988
+  logout: 1466785608136
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1.7263475778990003
+  y: 73.0
+  z: -113.80440344322479
+  yaw: 171.52853393554688
+  pitch: 28.425138473510742
+  world-name: ''
+ip-address: 92.145.84.75
+last-account-name: Yougoz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477569894600
+  logout: 1477570188920
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world_nether
+  x: 75.22228983717758
+  y: 77.0
+  z: -35.95905514099811
+  yaw: -5.273947238922119
+  pitch: 23.65557289123535
+  world-name: ''
+ip-address: 176.152.190.143
+last-account-name: DADA18
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

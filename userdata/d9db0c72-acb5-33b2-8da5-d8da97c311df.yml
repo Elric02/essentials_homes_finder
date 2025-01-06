@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499440940029
+  lastteleport: 1499441623467
+  logout: 1499441645881
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 196.85061454808576
+  y: 66.0
+  z: 43.94759628881112
+  yaw: -9.83770751953125
+  pitch: 9.998888969421387
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world_nether
+  x: -4470.300000011921
+  y: 74.0
+  z: 5661.5551802206255
+  yaw: 253.94712829589844
+  pitch: 24.6766300201416
+  world-name: ''
+ip-address: 78.228.153.200
+last-account-name: WayStand
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509729409695
+  lastteleport: 1508613701332
+  logout: 1509729548523
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 98.04101422730616
+  y: 64.5
+  z: 21.477340789160927
+  yaw: -314.59759521484375
+  pitch: 10.49999713897705
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 145.8563162259955
+  y: 64.0
+  z: 16.68454736113709
+  yaw: -235.53695678710938
+  pitch: 18.624509811401367
+  world-name: ''
+ip-address: 109.222.200.102
+last-account-name: Maxime115
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

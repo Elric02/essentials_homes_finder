@@ -1,0 +1,38 @@
+timestamps:
+  login: 1506717280079
+  lastteleport: 1504396556004
+  logout: 1506717389565
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 128.1440223216261
+  y: 72.0
+  z: -64.69999998807904
+  yaw: -215.90997314453125
+  pitch: 37.52444839477539
+  world-name: ''
+afk: false
+ip-address: 91.68.72.2
+last-account-name: MineBlack
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

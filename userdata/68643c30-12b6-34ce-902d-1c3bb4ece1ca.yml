@@ -1,0 +1,63 @@
+timestamps:
+  login: 1480778837607
+  lastteleport: 1480782405116
+  logout: 1480782409830
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -40.69999998807907
+  y: 8.0
+  z: 517.3000000119209
+  yaw: -196.94979858398438
+  pitch: 70.04999542236328
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 30.804721484191447
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -4798.2494165798835
+    y: 25.0
+    z: 5019.699999988079
+    yaw: -83.24957275390625
+    pitch: 10.350014686584473
+    world-name: ''
+  m:
+    world: world
+    x: -4560.2892996588225
+    y: 70.0
+    z: -4433.350102725513
+    yaw: -265.91326904296875
+    pitch: 27.4499568939209
+    world-name: ''
+  n:
+    world: world
+    x: -4797.032421169673
+    y: 26.0
+    z: 5024.553944856302
+    yaw: -47.549598693847656
+    pitch: 28.650007247924805
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 78.247.249.233
+last-account-name: bibi801000
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

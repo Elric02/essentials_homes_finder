@@ -1,0 +1,55 @@
+timestamps:
+  login: 1692705528649
+  lastteleport: 1687546461823
+  logout: 1692705778617
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 382f5f5b-6751-44e0-a359-2721467cf229
+  x: 222.30000001192093
+  y: 13.0
+  z: -235.30000001192093
+  yaw: 40.98032760620117
+  pitch: 10.350220680236816
+  world-name: RessourceNether
+money: '1355.884848484848336'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -2683.7675558749283
+  y: 55.0
+  z: -1418.9841431540747
+  yaw: -127.3314208984375
+  pitch: 12.930691719055176
+  world-name: world
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2681.499038544948
+    y: 67.0
+    z: -1425.1469962811793
+    yaw: 5.716064453125
+    pitch: 21.630699157714844
+    world-name: world
+  tour:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2711.9302322168
+    y: 173.0
+    z: -1386.5269090980873
+    yaw: 163.8024444580078
+    pitch: 25.3806095123291
+    world-name: world
+afk: false
+ip-address: 90.8.69.119
+last-account-name: Tinou56
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

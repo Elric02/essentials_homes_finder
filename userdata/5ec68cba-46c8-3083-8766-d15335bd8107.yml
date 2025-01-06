@@ -1,0 +1,38 @@
+timestamps:
+  login: 1538492156194
+  logout: 1538492173248
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.3362729033613
+  y: 65.0
+  z: 81.04723574462204
+  yaw: 200.0469970703125
+  pitch: 25.290660858154297
+  world-name: ''
+ip-address: 84.102.62.179
+last-account-name: Torikoyo78foxy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

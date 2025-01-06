@@ -1,0 +1,38 @@
+timestamps:
+  login: 1497732865655
+  logout: 1497732871137
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 161.56736786519366
+  y: 64.0
+  z: 23.017598648054342
+  yaw: 66.239013671875
+  pitch: 17.574548721313477
+  world-name: ''
+ip-address: 66.203.208.198
+last-account-name: Billynetwork
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.161.225.229
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1669607205313
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669607726994
+  login: 1669606896735
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 398.489180475277
+  y: 81.0
+  z: -3110.055593866533
+  yaw: 108.110107421875
+  pitch: 21.593067169189453
+last-account-name: Volrod
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3342.9726589289708
+  y: 205.0
+  z: 3617.8758968440134
+  yaw: 151.09664916992188
+  pitch: 45.89627456665039

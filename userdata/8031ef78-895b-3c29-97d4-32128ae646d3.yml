@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519502149524
+  lastteleport: 1519502325492
+  logout: 1519502530735
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 4.558596932286271
+  y: 89.5
+  z: -16.7069047131521
+  yaw: -5.1353759765625
+  pitch: -4.766884803771973
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 118.46719018344946
+  y: 71.0
+  z: -58.72329227431028
+  yaw: 121.32994079589844
+  pitch: 27.028705596923828
+  world-name: ''
+ip-address: 86.254.211.174
+last-account-name: LECARIBOUSAUVAGE
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1496583160499
+  lastteleport: 1496583199093
+  logout: 1496583265406
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.9633618040799
+  y: 66.0
+  z: 19.05855556129229
+  yaw: -94.39749908447266
+  pitch: 16.597396850585938
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 14.87999382227895
+  y: 64.0
+  z: 66.71574708785212
+  yaw: -249.33567810058594
+  pitch: 6.783079624176025
+  world-name: ''
+ip-address: 176.148.91.164
+last-account-name: _Kysel_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

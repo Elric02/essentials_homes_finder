@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482752830190
+  logout: 1482753597732
+  lastteleport: 1482753078994
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 214.21432192637576
+  y: 71.5
+  z: 95.65271927785025
+  yaw: -1.6510459184646606
+  pitch: 58.49991989135742
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4852.79059095107
+  y: 69.0
+  z: -2338.257512469444
+  yaw: -318.9017639160156
+  pitch: 23.9999942779541
+  world-name: ''
+ip-address: 92.188.8.217
+last-account-name: matthias84
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

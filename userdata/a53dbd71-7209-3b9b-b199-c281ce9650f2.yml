@@ -1,0 +1,38 @@
+timestamps:
+  login: 1463156754687
+  lastteleport: 1463159375980
+  logout: 1463159426723
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -25.1049696421909
+  y: 63.0
+  z: 11.614621818110223
+  yaw: -206.8730926513672
+  pitch: -4.4424638748168945
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 165.69621463695375
+  y: 63.0
+  z: -30.51316567391359
+  yaw: 29.00714111328125
+  pitch: -21.469736099243164
+  world-name: ''
+money: '0'
+ip-address: 90.112.108.39
+last-account-name: tikron74
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

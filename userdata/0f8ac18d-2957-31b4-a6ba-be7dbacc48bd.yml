@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 146.70.144.54
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1665395811229
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672104975221
+  login: 1672104973130
+money: '100.0'
+last-account-name: BavouilleTheBest
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 662.3735588453628
+  y: 76.0
+  z: -1585.1899595089476
+  yaw: -171.083251953125
+  pitch: 45.89970397949219
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1039.919432393444
+  y: 63.0
+  z: -2621.3364770019034
+  yaw: -35.138763427734375
+  pitch: -90.0

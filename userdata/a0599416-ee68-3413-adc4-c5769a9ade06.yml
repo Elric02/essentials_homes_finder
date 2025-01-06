@@ -1,0 +1,47 @@
+timestamps:
+  login: 1470584855084
+  lastteleport: 1470586693482
+  logout: 1470586940533
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 31.300000011920922
+  y: 71.0
+  z: -159.11387425595632
+  yaw: -254.03518676757812
+  pitch: 32.51543426513672
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 32.893498586277374
+    y: 71.0
+    z: -159.69999998807907
+    yaw: -164.55760192871094
+    pitch: 39.1162109375
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Ressource
+  x: 349.2108977416511
+  y: 80.0
+  z: 202.73293844193756
+  yaw: -28.57052993774414
+  pitch: 6.44224739074707
+  world-name: ''
+ip-address: 89.217.123.244
+last-account-name: Timographgrim
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476873747440
+  logout: 1476873784244
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.67183096151473
+  y: 63.0
+  z: 48.08557917975559
+  yaw: -178.84738159179688
+  pitch: -4.102603912353516
+  world-name: ''
+ip-address: 88.140.190.210
+last-account-name: Lizro_Games
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

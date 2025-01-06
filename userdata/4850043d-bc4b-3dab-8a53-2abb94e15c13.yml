@@ -1,0 +1,38 @@
+timestamps:
+  login: 1619947744496
+  logout: 1619947841305
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 106.81028573504935
+  y: 63.0
+  z: -41.38713777286975
+  yaw: 129.6145782470703
+  pitch: 14.734899520874023
+  world-name: ''
+ip-address: 91.169.64.9
+last-account-name: __StonK__
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

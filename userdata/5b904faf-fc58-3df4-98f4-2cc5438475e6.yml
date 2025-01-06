@@ -1,0 +1,63 @@
+timestamps:
+  login: 1625749073354
+  lastteleport: 1625752986799
+  logout: 1625753065435
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2045.3000000119214
+  y: 73.0
+  z: -1759.3651328508122
+  yaw: 25.145721435546875
+  pitch: 21.23923683166504
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 736.8563558580717
+  y: 95.0
+  z: -5434.232327979474
+  yaw: -84.94807434082031
+  pitch: 19.9493350982666
+  world-name: ''
+homes:
+  nether:
+    world: Nether
+    x: 169.5008517313196
+    y: 86.0
+    z: -1399.5103609702337
+    yaw: 269.5191955566406
+    pitch: -4.663379192352295
+    world-name: ''
+  montagne:
+    world: world
+    x: 729.6340850825263
+    y: 95.0
+    z: -5447.211957970295
+    yaw: -339.66265869140625
+    pitch: 26.42654800415039
+    world-name: ''
+  sable:
+    world: Ressource
+    x: 2060.2703599763936
+    y: 77.0
+    z: -1751.319841344262
+    yaw: -59.67823791503906
+    pitch: 33.68906021118164
+    world-name: ''
+ip-address: 78.116.164.202
+last-account-name: raffle
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

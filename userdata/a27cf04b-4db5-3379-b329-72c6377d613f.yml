@@ -1,0 +1,55 @@
+timestamps:
+  login: 1621377233169
+  lastteleport: 1621376888776
+  logout: 1621383877050
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2402.3732147948535
+  y: 20.0
+  z: 6996.582425741132
+  yaw: -91.794677734375
+  pitch: 5.732751846313477
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2435.7920564318238
+  y: 167.0
+  z: 7002.704220358427
+  yaw: -151.4075927734375
+  pitch: 5.640238285064697
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -2404.099419551222
+    y: 70.0
+    z: 6997.6055238840145
+    yaw: 288.6334228515625
+    pitch: 11.126708030700684
+    world-name: ''
+  a:
+    world: world
+    x: -2089.5
+    y: 125.0
+    z: 6251.5
+    yaw: -92.21932983398438
+    pitch: 2.836555004119873
+    world-name: ''
+afk: false
+ip-address: 176.145.39.108
+last-account-name: ProloFR
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

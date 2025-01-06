@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510607222297
+  logout: 1510607291908
+  lastteleport: 1510607280257
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: -7.5
+  y: 60.0
+  z: -8.5
+  yaw: 79.61359405517578
+  pitch: 6.158054828643799
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -1.8380140494270862
+  y: 89.5
+  z: 15.249268190845406
+  yaw: -148.5357666015625
+  pitch: 3.782999277114868
+  world-name: ''
+money: '0'
+ip-address: 78.206.88.56
+last-account-name: TheGeekGamer_91
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

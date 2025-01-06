@@ -1,0 +1,55 @@
+timestamps:
+  login: 1489342574559
+  lastteleport: 1489345809115
+  logout: 1489345812614
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 117.30000001192093
+  y: 13.5
+  z: 124.96501203454478
+  yaw: -308.11767578125
+  pitch: 19.722375869750977
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6671.5
+  y: 75.0
+  z: 4995.5
+  yaw: -3.883544921875
+  pitch: 28.047922134399414
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 6671.494315755327
+    y: 75.0
+    z: 4995.331568683741
+    yaw: -3.883544921875
+    pitch: 22.66078758239746
+    world-name: ''
+  spawner:
+    world: Ressource
+    x: 119.17968769501798
+    y: 13.0
+    z: 125.11523268021365
+    yaw: -241.7470703125
+    pitch: 36.61842346191406
+    world-name: ''
+afk: false
+ip-address: 109.88.220.194
+last-account-name: JointLOursin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.251.205.98
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1640263313418
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1640263679961
+  login: 1640262727841
+money: '0'
+last-account-name: eluminatixmaxytb
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3796.708056092287
+  y: 64.0
+  z: 857.472122295508
+  yaw: 175.05084228515625
+  pitch: -62.6999626159668
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -6140.142038319431
+  y: 65.0
+  z: -3382.9288054262774
+  yaw: -118.61077880859375
+  pitch: -49.20001220703125

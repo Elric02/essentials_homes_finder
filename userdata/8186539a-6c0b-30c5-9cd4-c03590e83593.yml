@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480775642893
+  logout: 1480776265857
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.39490198941928
+  y: 64.0
+  z: 7.722238187333181
+  yaw: -4.94384765625
+  pitch: 12.176960945129395
+  world-name: ''
+ip-address: 78.204.76.136
+last-account-name: Dark_daisy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521301196138
+  mute: 0
+  logout: 1521301239828
+  lastteleport: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+muted: true
+logoutlocation:
+  world: world
+  x: 151.8142576460702
+  y: 71.0
+  z: 92.26184741478583
+  yaw: -45.030120849609375
+  pitch: 45.30422592163086
+  world-name: ''
+ip-address: 217.147.94.149
+last-account-name: LysaLou
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

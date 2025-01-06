@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 196.64.58.214
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1707053909650
+  login: 1707053736273
+money: '0'
+last-account-name: PoweRYonkO
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.0046691883555
+  y: 81.0
+  z: -3111.0214734453584
+  yaw: -160.79486083984375
+  pitch: 32.39952850341797
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 391.43148654507064
+  y: 81.0
+  z: -3104.3333287311775
+  yaw: -53.6956787109375
+  pitch: 9.899564743041992

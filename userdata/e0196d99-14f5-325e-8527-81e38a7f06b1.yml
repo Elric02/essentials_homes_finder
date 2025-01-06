@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.175.228.138
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668291420396
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668955694367
+  login: 1668955665753
+money: '0'
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -38.465380660869286
+  y: 67.0
+  z: -347.0149490340409
+  yaw: 45.59885787963867
+  pitch: 42.450294494628906
+last-account-name: thepetase78
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -19.823336366129773
+  y: 68.0
+  z: -298.37873776126486
+  yaw: 95.54794311523438
+  pitch: 24.450273513793945

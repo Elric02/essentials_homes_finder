@@ -1,0 +1,55 @@
+timestamps:
+  login: 1551891944537
+  lastteleport: 1551891968934
+  logout: 1551892107477
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -591.1893563069534
+  y: 65.0
+  z: -726.7167764452395
+  yaw: -42.74635314941406
+  pitch: 10.201133728027344
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 4952.091287663717
+    y: 67.0
+    z: 343.4275157328088
+    yaw: 252.9026641845703
+    pitch: -40.50438690185547
+    world-name: ''
+  b1:
+    world: world
+    x: 4925.829845746393
+    y: 63.5
+    z: 311.0963206041411
+    yaw: 92.02090454101562
+    pitch: 44.308082580566406
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1610.54548229163
+  y: 68.0
+  z: -3496.240644368503
+  yaw: 336.119140625
+  pitch: 23.938310623168945
+  world-name: ''
+ip-address: 31.22.233.255
+last-account-name: Agent_Oozeman
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

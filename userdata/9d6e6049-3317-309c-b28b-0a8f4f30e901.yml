@@ -1,0 +1,38 @@
+timestamps:
+  login: 1552952922645
+  logout: 1552953124555
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2932.3112766269683
+  y: 62.0
+  z: -4693.824468434808
+  yaw: 243.59893798828125
+  pitch: 10.2000150680542
+  world-name: ''
+ip-address: 69.51.245.64
+last-account-name: 8DX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

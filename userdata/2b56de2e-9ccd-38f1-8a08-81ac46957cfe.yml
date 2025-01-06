@@ -1,0 +1,47 @@
+timestamps:
+  login: 1511890336713
+  lastteleport: 1511690403733
+  logout: 1511890469291
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2156.6539808132643
+  y: 63.0
+  z: -1628.0680279977619
+  yaw: -324.8789367675781
+  pitch: 42.00468063354492
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: -1594.5101409668705
+    y: 9.0
+    z: -761.5784784925947
+    yaw: 244.0782470703125
+    pitch: 47.435062408447266
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -1598.699999988079
+  y: 9.0
+  z: -762.5136229145804
+  yaw: -265.0710754394531
+  pitch: 13.116557121276855
+  world-name: ''
+ip-address: 77.197.65.176
+last-account-name: lyonnais69
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

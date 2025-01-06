@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476631248760
+  logout: 1476631268765
+  lastteleport: 1476631257464
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.51221778129698
+  y: 64.0
+  z: 18.86953636569856
+  yaw: -125.28679656982422
+  pitch: 32.31077575683594
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -155.28680419921875
+  pitch: 6.624515056610107
+  world-name: ''
+ip-address: 109.210.248.145
+last-account-name: LeGamemode1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

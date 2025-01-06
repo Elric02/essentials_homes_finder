@@ -1,0 +1,38 @@
+timestamps:
+  login: 1531830695464
+  logout: 1531830713276
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.88306767621768
+  y: 65.0
+  z: 99.87926394360501
+  yaw: 105.02763366699219
+  pitch: -1.3360952138900757
+  world-name: ''
+ip-address: 109.89.40.87
+last-account-name: jujufagan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

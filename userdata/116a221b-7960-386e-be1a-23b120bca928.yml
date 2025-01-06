@@ -1,0 +1,38 @@
+timestamps:
+  login: 1465124753295
+  lastteleport: 1465126213389
+  logout: 1465126337852
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.25806929763263
+  y: 64.0625
+  z: 19.461408047738818
+  yaw: 168.9028778076172
+  pitch: 48.59996032714844
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: ressource
+  x: 1103.2357214984572
+  y: 11.0
+  z: 2912.1518525776687
+  yaw: -149.39566040039062
+  pitch: 12.477519989013672
+  world-name: ''
+ip-address: 88.168.29.129
+last-account-name: JeremPaslTemps
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

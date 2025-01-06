@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478888041407
+  logout: 1478888184169
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.84622519739554
+  y: 63.0
+  z: 7.300000011920917
+  yaw: -232.8543701171875
+  pitch: 11.399982452392578
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 108.23642936035579
+  y: 63.0
+  z: -44.3743110798235
+  yaw: 180.39004516601562
+  pitch: -3.2754387855529785
+  world-name: ''
+ip-address: 109.219.59.162
+last-account-name: DKK500
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

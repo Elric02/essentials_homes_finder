@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481131105086
+  logout: 1481131403585
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -292.9349829178175
+  y: 69.0
+  z: 11.957273963413561
+  yaw: 42.4100341796875
+  pitch: -4.382299423217773
+  world-name: ''
+ip-address: 86.194.138.157
+last-account-name: XzoxDead
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

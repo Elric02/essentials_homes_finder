@@ -1,0 +1,38 @@
+timestamps:
+  login: 1537023251111
+  logout: 1537024085398
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.51065439736703
+  y: 64.0
+  z: 31.73246691414407
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+ip-address: 88.178.66.77
+last-account-name: latomatepasmure
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

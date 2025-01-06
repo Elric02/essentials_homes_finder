@@ -1,0 +1,47 @@
+timestamps:
+  login: 1554640674879
+  lastteleport: 1554645082125
+  logout: 1554645256694
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3195.5934290550927
+  y: 59.0
+  z: -5639.953754257387
+  yaw: -77.78828430175781
+  pitch: 17.250904083251953
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1448.300000011921
+    y: 75.0
+    z: 3114.5991437391385
+    yaw: -267.4486083984375
+    pitch: 26.999971389770508
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 1447.3378092364592
+  y: 79.0
+  z: 3117.699999988079
+  yaw: 19.501220703125
+  pitch: 40.1999397277832
+  world-name: ''
+ip-address: 88.189.14.160
+last-account-name: Kewolf53
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

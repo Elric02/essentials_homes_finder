@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472145151828
+  logout: 1472145989982
+  lastteleport: 1472145979023
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: 2750.055483580631
+  y: 73.0
+  z: 3945.870041718165
+  yaw: 159.11041259765625
+  pitch: 11.086385726928711
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.61674446068838
+  y: 63.0
+  z: 35.49605792196421
+  yaw: -185.3118438720703
+  pitch: 7.824504852294922
+  world-name: ''
+ip-address: 90.23.152.9
+last-account-name: Blowtekk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514993927773
+  lastteleport: 1514994384574
+  logout: 1514994505950
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4142.196678982969
+  y: 73.0
+  z: -3807.108483943526
+  yaw: 121.15291595458984
+  pitch: 7.349978923797607
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -210.62083435058594
+  pitch: -7.321331024169922
+  world-name: ''
+ip-address: 82.234.106.1
+last-account-name: Charle_Manson
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

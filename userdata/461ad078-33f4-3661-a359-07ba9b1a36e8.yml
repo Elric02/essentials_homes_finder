@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479569022479
+  logout: 1479569154286
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.0132324725843
+  y: 27.0
+  z: 20.54420658834269
+  yaw: -92.89736938476562
+  pitch: 37.89738845825195
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 222.69999998807907
+  y: 66.0
+  z: 19.29782902360753
+  yaw: 134.93472290039062
+  pitch: 17.017356872558594
+  world-name: ''
+ip-address: 81.66.143.75
+last-account-name: Tris_Link
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

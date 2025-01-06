@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480090298153
+  logout: 1480090471414
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3704.7097396670288
+  y: 66.0
+  z: 6152.847818119457
+  yaw: 354.3003845214844
+  pitch: 11.549978256225586
+  world-name: ''
+ip-address: 90.34.196.233
+last-account-name: herazor
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

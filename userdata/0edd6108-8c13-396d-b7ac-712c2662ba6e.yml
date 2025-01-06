@@ -1,0 +1,47 @@
+timestamps:
+  login: 1480974546645
+  lastteleport: 1480975160983
+  logout: 1480975182458
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -158.43986328756512
+  y: 22.0
+  z: 571.2137516133349
+  yaw: -3.801462173461914
+  pitch: 38.017765045166016
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -261.81366291371774
+  y: 65.0
+  z: 367.11075589093866
+  yaw: -89.24978637695312
+  pitch: 11.550004005432129
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: ressource
+    x: -4979.4072717593945
+    y: 71.0
+    z: -6348.7981068367135
+    yaw: -263.0551452636719
+    pitch: 28.800033569335938
+    world-name: ''
+ip-address: 90.6.76.108
+last-account-name: Foulegeek
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

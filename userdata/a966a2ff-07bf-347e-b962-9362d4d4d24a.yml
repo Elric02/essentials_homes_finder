@@ -1,0 +1,87 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.128.85.156
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731877841065
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731877851159
+  login: 1731877383372
+money: '39900.0'
+last-account-name: __Saturne__
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 2534.600167713717
+  y: 82.0
+  z: 5496.7355272432105
+  yaw: 89.28488159179688
+  pitch: 24.00017738342285
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -5993.875234936522
+  y: 72.0625
+  z: 1156.9483420334698
+  yaw: -89.39997100830078
+  pitch: 13.349980354309082
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5990.816006191339
+    y: 72.0
+    z: 1156.971252263716
+    yaw: 107.86334228515625
+    pitch: 2.7000176906585693
+  patin:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1969.0698089023765
+    y: 10.0
+    z: 5067.789003226014
+    yaw: 87.03536987304688
+    pitch: 21.899860382080078
+  coffre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5996.136359137221
+    y: 62.0
+    z: 1155.4745798191016
+    yaw: -89.98648834228516
+    pitch: 0.7501459121704102
+  ensab:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6641.102606774999
+    y: 68.0
+    z: 952.4266923111024
+    yaw: -140.81185913085938
+    pitch: 7.649960041046143
+  lauryne:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2530.0458797702204
+    y: 77.0
+    z: 5528.050092666122
+    yaw: 179.8846893310547
+    pitch: -28.799936294555664
+  champ:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5829.3009019794235
+    y: 69.0
+    z: 1036.510131091065
+    yaw: 89.52819061279297
+    pitch: 6.966075420379639

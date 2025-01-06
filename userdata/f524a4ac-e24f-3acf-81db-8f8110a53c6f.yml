@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509548134656
+  logout: 1509549394182
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 159.63463208402933
+  y: 64.0
+  z: 10.791478131380721
+  yaw: -114.32077026367188
+  pitch: -2.67132306098938
+  world-name: ''
+ip-address: 92.129.67.132
+last-account-name: Bclilou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

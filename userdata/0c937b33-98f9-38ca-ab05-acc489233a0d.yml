@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521575234376
+  lastteleport: 1521576376117
+  logout: 1521577379741
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: -15.935699462890625
+  pitch: 3.7830896377563477
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 2046.300000011921
+  y: 66.0
+  z: -1838.3440810060752
+  yaw: -125.25003051757812
+  pitch: 16.49999237060547
+  world-name: ''
+ip-address: 90.103.119.43
+last-account-name: witchone
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

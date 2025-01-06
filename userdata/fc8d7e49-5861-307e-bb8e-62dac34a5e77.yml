@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471610246235
+  lastteleport: 1471592618346
+  logout: 1471610271910
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -2.1588219993338282
+  y: 68.0
+  z: 357.65659995417917
+  yaw: 202.13963317871094
+  pitch: 26.618934631347656
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.38900097757764
+  y: 63.5
+  z: 32.77152808336971
+  yaw: -180.8109130859375
+  pitch: 0.3000304698944092
+  world-name: ''
+ip-address: 82.244.64.236
+last-account-name: mister50
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

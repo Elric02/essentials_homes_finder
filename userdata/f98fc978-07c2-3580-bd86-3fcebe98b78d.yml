@@ -1,0 +1,63 @@
+timestamps:
+  login: 1614159752825
+  lastteleport: 1614160101119
+  logout: 1614160113871
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6840.300000011921
+  y: 85.0
+  z: 3875.699999988079
+  yaw: 90.84075927734375
+  pitch: 31.892236709594727
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6206.19080308286
+  y: 64.0
+  z: -5623.353804518084
+  yaw: 81.95315551757812
+  pitch: 4.431312561035156
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -6858.4020160715145
+    y: 76.0
+    z: 3882.1248786789706
+    yaw: -241.25958251953125
+    pitch: 3.3922719955444336
+    world-name: ''
+  imeuble:
+    world: world
+    x: -6195.30354726867
+    y: 64.0
+    z: -5630.208392416855
+    yaw: 341.0030517578125
+    pitch: -12.81878662109375
+    world-name: ''
+  home:
+    world: world
+    x: -6195.5
+    y: 64.0
+    z: -5630.5
+    yaw: 341.0030517578125
+    pitch: -12.81878662109375
+    world-name: ''
+afk: false
+ip-address: 86.244.234.163
+last-account-name: Natael
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

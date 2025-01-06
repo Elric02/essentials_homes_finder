@@ -1,0 +1,38 @@
+timestamps:
+  login: 1594236566948
+  lastteleport: 1594236791025
+  logout: 1594237857527
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -76.64711170148608
+  y: 68.0
+  z: -1.7185975636407083
+  yaw: -147.18670654296875
+  pitch: 12.343862533569336
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5534.913985642002
+  y: 70.0
+  z: -6340.300000011921
+  yaw: -59.48711013793945
+  pitch: 45.67264938354492
+  world-name: ''
+ip-address: 31.33.218.200
+last-account-name: FastBiker_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

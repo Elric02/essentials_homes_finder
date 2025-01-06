@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492531292379
+  lastteleport: 1491077668633
+  logout: 1492531337314
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -541.5547582101744
+  y: 64.0
+  z: -753.9417480057027
+  yaw: 7.55272102355957
+  pitch: 33.17633819580078
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4792.587795059208
+  y: 55.7499248243516
+  z: -639.023808728924
+  yaw: 180.7274169921875
+  pitch: 25.34999656677246
+  world-name: ''
+ip-address: 176.181.227.242
+last-account-name: Liamc76
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484584461462
+  logout: 1484584480092
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.27110214360894
+  y: 61.35793222566602
+  z: 91.37391556798354
+  yaw: -20.250568389892578
+  pitch: 2.9910995960235596
+  world-name: ''
+ip-address: 83.114.169.240
+last-account-name: iShynGu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

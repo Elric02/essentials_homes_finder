@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.169.124.215
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1664210584991
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1664211004597
+  login: 1664209741894
+money: '102.0'
+last-account-name: NEKOF2
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 6792.394138775863
+  y: 64.0
+  z: -3865.7423376949682
+  yaw: 4.04931640625
+  pitch: 4.650026321411133
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.4123121975804
+  y: 81.0
+  z: -3111.300027590441
+  yaw: 43.051788330078125
+  pitch: 39.14992141723633

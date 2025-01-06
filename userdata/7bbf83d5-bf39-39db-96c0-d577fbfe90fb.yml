@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.184.97.231
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1659124540401
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1659124573126
+  login: 1659124470918
+money: '0'
+last-account-name: MyCrafitix
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.33708230543715
+  y: 64.0
+  z: 17.001867935422442
+  yaw: -178.37994384765625
+  pitch: 0.20688098669052124
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -103.49910524624345
+  y: 99.0
+  z: 147.50467264207558
+  yaw: -87.99716186523438
+  pitch: -2.1965413093566895

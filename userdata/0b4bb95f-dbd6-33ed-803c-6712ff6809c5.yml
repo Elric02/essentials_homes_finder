@@ -1,0 +1,47 @@
+timestamps:
+  login: 1613908196958
+  lastteleport: 1613908363983
+  logout: 1613908366393
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2401.0102523836154
+  y: 86.0
+  z: -576.5865509936249
+  yaw: 101.85912322998047
+  pitch: 8.399551391601562
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4112.499033770905
+    y: 63.0
+    z: -82.64982208835482
+    yaw: 85.53253173828125
+    pitch: 75.44996643066406
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4112.5
+  y: 63.0
+  z: -82.5
+  yaw: 25.382291793823242
+  pitch: 66.14987182617188
+  world-name: ''
+afk: false
+ip-address: 94.238.228.40
+last-account-name: PeakyFrem
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

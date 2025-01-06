@@ -1,0 +1,55 @@
+timestamps:
+  login: 1484594177666
+  lastteleport: 1483183901918
+  logout: 1484594217024
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 567.477966108382
+  y: 71.0
+  z: -116.06977118212613
+  yaw: 77.98262786865234
+  pitch: 45.63168716430664
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -3646.3601621412786
+    y: 70.0
+    z: 25.300000011920933
+    yaw: 111.95199584960938
+    pitch: 43.71772384643555
+    world-name: ''
+  bois:
+    world: ressource
+    x: 482.4077172221376
+    y: 73.0
+    z: -7.41952808941834
+    yaw: -71.47789764404297
+    pitch: 3.7824273109436035
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -3646.300000011921
+  y: 70.0
+  z: 27.26914168276316
+  yaw: -101.5240478515625
+  pitch: 44.58772277832031
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 92.89.204.41
+last-account-name: Lord_Guardian
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

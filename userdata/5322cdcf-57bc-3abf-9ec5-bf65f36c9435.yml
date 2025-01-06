@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.165.77.138
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674392326264
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674392348304
+  login: 1674392237742
+money: '0'
+last-account-name: NRatX
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 397.7395095678421
+  y: 81.0
+  z: -3109.3931657534367
+  yaw: 142.50234985351562
+  pitch: 13.49998950958252
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -408.2426501920705
+  y: 74.37950570462559
+  z: 148.6815307785013
+  yaw: -54.99147415161133
+  pitch: 46.199127197265625

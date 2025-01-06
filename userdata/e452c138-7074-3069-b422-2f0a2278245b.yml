@@ -1,0 +1,38 @@
+timestamps:
+  login: 1502919210115
+  lastteleport: 1502923230344
+  logout: 1502923321421
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.4323762635434
+  y: 64.0
+  z: 19.605020028820473
+  yaw: -180.9609375
+  pitch: 3.02451491355896
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 2.2503106628615166
+  y: 89.5
+  z: -22.971446023628648
+  yaw: -58.23553466796875
+  pitch: -25.199993133544922
+  world-name: ''
+ip-address: 90.108.140.51
+last-account-name: mimiimik
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

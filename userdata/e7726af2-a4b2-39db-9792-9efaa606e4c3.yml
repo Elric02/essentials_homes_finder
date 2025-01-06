@@ -1,0 +1,38 @@
+timestamps:
+  login: 1527422584531
+  lastteleport: 1527426392451
+  logout: 1527427771001
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.9638971336641
+  y: 64.0
+  z: 10.406038585011753
+  yaw: 274.1826171875
+  pitch: -10.500011444091797
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Ressource
+  x: -1093.699999988079
+  y: 8.0
+  z: 751.3119229960779
+  yaw: 95.47671508789062
+  pitch: 86.85005950927734
+  world-name: ''
+ip-address: 88.167.124.169
+last-account-name: Sdb0301
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

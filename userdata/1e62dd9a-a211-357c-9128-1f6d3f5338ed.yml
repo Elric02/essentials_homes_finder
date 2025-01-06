@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614118273806
+  logout: 1614118361501
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 0.18951408451170815
+  y: 70.0
+  z: -69.88299000478301
+  yaw: 141.99856567382812
+  pitch: 14.340689659118652
+  world-name: ''
+ip-address: 109.214.126.45
+last-account-name: Terrazo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

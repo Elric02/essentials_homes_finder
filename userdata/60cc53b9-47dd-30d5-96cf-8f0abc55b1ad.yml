@@ -1,0 +1,63 @@
+timestamps:
+  login: 1527598472510
+  logout: 1527598520453
+  lastteleport: 1527598338778
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1592.915513716329
+  y: 146.0
+  z: 872.0645912187955
+  yaw: -48.67184066772461
+  pitch: 15.841596603393555
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6895.437260705304
+  y: 66.20997916170545
+  z: -3063.859821933942
+  yaw: 146.0745849609375
+  pitch: 30.72268295288086
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -1723.9041611296536
+    y: 67.0
+    z: 480.34826619160197
+    yaw: -240.821533203125
+    pitch: 19.682514190673828
+    world-name: ''
+  bb:
+    world: world
+    x: -1595.699999988079
+    y: 148.0
+    z: 876.482714194044
+    yaw: 55.32720947265625
+    pitch: 22.04613494873047
+    world-name: ''
+  pi:
+    world: world
+    x: 6954.300890015292
+    y: 64.0
+    z: -2937.397772767591
+    yaw: -2.382080078125
+    pitch: 15.063760757446289
+    world-name: ''
+afk: false
+muted: false
+jailed: false
+ip-address: 92.129.186.226
+last-account-name: patrick2
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

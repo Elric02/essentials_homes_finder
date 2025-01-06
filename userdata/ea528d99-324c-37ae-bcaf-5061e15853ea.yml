@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472724968340
+  lastteleport: 1472725006439
+  logout: 1472725064222
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.4919269146925
+  y: 27.5
+  z: 23.429296100220792
+  yaw: -2.594386100769043
+  pitch: 2.6092944145202637
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 169.58801501023035
+  y: 68.0
+  z: 447.25577463589724
+  yaw: 303.95745849609375
+  pitch: 5.707512378692627
+  world-name: ''
+ip-address: 176.156.147.22
+last-account-name: killer_sniper
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

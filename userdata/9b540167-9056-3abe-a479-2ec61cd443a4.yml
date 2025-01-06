@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517094363809
+  lastteleport: 1517094392949
+  logout: 1517094532306
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.60155504392108
+  y: 63.5
+  z: 65.96284203174467
+  yaw: 199.74685668945312
+  pitch: 24.540653228759766
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 105.45862722850883
+  y: 63.0
+  z: -60.723103535170615
+  yaw: -165.6208953857422
+  pitch: 10.0786714553833
+  world-name: ''
+ip-address: 197.26.183.107
+last-account-name: 1NeS
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

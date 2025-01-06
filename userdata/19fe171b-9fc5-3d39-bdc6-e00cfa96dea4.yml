@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.189.203.87
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1666178692741
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1666179225357
+  login: 1666178647134
+money: '0'
+last-account-name: Haku2Kujo
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 396.3265549001115
+  y: 81.0
+  z: -3108.9868457785533
+  yaw: -161.84072875976562
+  pitch: 11.242313385009766
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -12.291348857640804
+  y: 67.67647087614428
+  z: 308.3711163567802
+  yaw: 89.875
+  pitch: 32.552635192871094

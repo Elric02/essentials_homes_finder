@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.15.173.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635192165959
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635192572106
+  login: 1635192331309
+money: '0'
+last-account-name: Nicho_Nifroa
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 148.4941795579425
+  y: 70.0
+  z: 102.61402873456016
+  yaw: -172.85330200195312
+  pitch: 7.740681171417236
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 6.5
+  y: 65.0
+  z: 21.5
+  yaw: -91.4156494140625
+  pitch: 19.350339889526367

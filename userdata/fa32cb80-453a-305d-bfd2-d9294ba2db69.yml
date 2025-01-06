@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.134.126.6
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1666532304745
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670962821232
+  login: 1670962809793
+money: '0'
+last-account-name: meumy
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -70.99003743776382
+  y: 67.125
+  z: 359.098335408132
+  yaw: -68.5985336303711
+  pitch: 14.162115097045898
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -70.99003743776382
+  y: 67.125
+  z: 359.098335408132
+  yaw: -160.053466796875
+  pitch: 41.7287483215332

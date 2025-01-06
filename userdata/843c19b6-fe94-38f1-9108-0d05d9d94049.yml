@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471898583183
+  logout: 1471898638767
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.82395189964632
+  y: 27.0
+  z: 20.556192767888952
+  yaw: -99.04737091064453
+  pitch: 51.09740447998047
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 193.72473455079853
+  y: 64.0
+  z: 20.5630252776206
+  yaw: 68.65243530273438
+  pitch: 12.247386932373047
+  world-name: ''
+ip-address: 78.222.16.25
+last-account-name: lexa35
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

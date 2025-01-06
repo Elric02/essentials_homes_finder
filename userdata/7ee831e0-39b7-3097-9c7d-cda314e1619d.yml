@@ -1,0 +1,47 @@
+timestamps:
+  login: 1500129550301
+  lastteleport: 1498245020439
+  logout: 1500129710271
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3069.1237174512567
+  y: 67.0
+  z: 6086.524581190044
+  yaw: 235.351318359375
+  pitch: 29.0999813079834
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4446.352021441207
+    y: 63.0
+    z: 5421.527859406521
+    yaw: -161.9994354248047
+    pitch: 12.90054988861084
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4496.027949782357
+  y: 74.0
+  z: 5462.552545488479
+  yaw: 263.3948059082031
+  pitch: -2.850041389465332
+  world-name: ''
+afk: false
+ip-address: 62.197.65.83
+last-account-name: Rowrilyn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

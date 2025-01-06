@@ -1,0 +1,38 @@
+timestamps:
+  login: 1528229557762
+  lastteleport: 1528229765287
+  logout: 1528229774884
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.00002006553257
+  y: 64.0
+  z: 23.990292541265337
+  yaw: -192.03897094726562
+  pitch: 21.369449615478516
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -101.14224243164062
+  pitch: -4.863133430480957
+  world-name: ''
+ip-address: 109.88.143.203
+last-account-name: kilimoki
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

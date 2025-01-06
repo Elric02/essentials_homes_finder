@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478626612012
+  logout: 1478626755400
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.0990848960411
+  y: 27.0
+  z: 20.32635725977501
+  yaw: -94.2474594116211
+  pitch: 11.647403717041016
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.12548619092624
+  y: 64.0
+  z: 31.17100541896502
+  yaw: -159.64747619628906
+  pitch: 18.847402572631836
+  world-name: ''
+ip-address: 78.235.195.190
+last-account-name: siph77
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

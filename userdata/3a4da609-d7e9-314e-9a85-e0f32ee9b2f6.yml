@@ -1,0 +1,38 @@
+timestamps:
+  login: 1556441817640
+  lastteleport: 1556445342468
+  logout: 1556445418340
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2061.0752461865727
+  y: 70.0
+  z: -2564.9370121132692
+  yaw: 303.150146484375
+  pitch: 7.949965000152588
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 152.49234926249108
+  y: 64.0
+  z: 21.45542055064977
+  yaw: -178.3712158203125
+  pitch: 13.528629302978516
+  world-name: ''
+afk: false
+ip-address: 86.211.74.116
+last-account-name: Shaze
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1506521739681
+  lastteleport: 1506522446798
+  logout: 1506522465605
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: -358.6856689453125
+  pitch: 4.833090305328369
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: -358.6856689453125
+  pitch: 4.833090305328369
+  world-name: ''
+afk: false
+homes:
+  sally:
+    world: world
+    x: -2867.224092157285
+    y: 80.0
+    z: -4067.562129076192
+    yaw: 272.25128173828125
+    pitch: 21.899927139282227
+    world-name: ''
+ip-address: 70.31.215.196
+last-account-name: PrincesseRena
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

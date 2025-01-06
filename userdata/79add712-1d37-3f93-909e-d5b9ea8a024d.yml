@@ -1,0 +1,38 @@
+timestamps:
+  login: 1495262046566
+  lastteleport: 1495262196020
+  logout: 1495263235085
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -1.2563280859014694
+  y: 90.0
+  z: 0.6154538791742814
+  yaw: -276.4859619140625
+  pitch: 3.18310809135437
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.68233423161098
+  y: 64.0
+  z: 24.17995795702309
+  yaw: -185.16094970703125
+  pitch: 10.224514961242676
+  world-name: ''
+ip-address: 81.254.38.68
+last-account-name: MrSpider02YTB
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514654445165
+  logout: 1514654717521
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 138.50819409680554
+  y: 63.0
+  z: 3.079771202388775
+  yaw: -100.42599487304688
+  pitch: 4.617579460144043
+  world-name: ''
+ip-address: 86.242.73.38
+last-account-name: oceane
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

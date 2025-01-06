@@ -1,0 +1,47 @@
+timestamps:
+  login: 1540980404603
+  lastteleport: 1540588327132
+  logout: 1540980522119
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3399.7292202955127
+  y: 73.0
+  z: -1708.288454114421
+  yaw: -131.237060546875
+  pitch: 7.499984264373779
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 3469.147466610466
+    y: 72.0
+    z: -1672.2926503914682
+    yaw: 72.76290130615234
+    pitch: -6.450045108795166
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3403.196405612775
+  y: 69.5
+  z: -1695.2821196883906
+  yaw: -304.1872863769531
+  pitch: 57.900001525878906
+  world-name: ''
+ip-address: 90.73.2.29
+last-account-name: Loicmayou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

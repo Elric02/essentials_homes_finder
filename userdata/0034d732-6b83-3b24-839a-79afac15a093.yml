@@ -1,0 +1,38 @@
+timestamps:
+  login: 1489948600555
+  lastteleport: 1489948714144
+  logout: 1489948750126
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 170.1459027072255
+  y: 65.0
+  z: 54.54971558438771
+  yaw: -209.28900146484375
+  pitch: 13.8143949508667
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4870.5
+  y: 69.0
+  z: -349.5
+  yaw: 47.72607421875
+  pitch: 90.0
+  world-name: ''
+ip-address: 82.250.46.113
+last-account-name: MinecraftMom
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

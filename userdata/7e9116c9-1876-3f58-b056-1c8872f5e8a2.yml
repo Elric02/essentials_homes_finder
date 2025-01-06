@@ -1,0 +1,38 @@
+timestamps:
+  login: 1489691393026
+  lastteleport: 1489692366525
+  logout: 1489692514103
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4900.558284808574
+  y: 71.0
+  z: -590.4957987524803
+  yaw: -261.3226623535156
+  pitch: 3.5999648571014404
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 211.40444257169062
+  y: 63.0
+  z: 22.760847116377384
+  yaw: -303.6609802246094
+  pitch: 2.274526834487915
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 88.167.127.85
+last-account-name: mrloul
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

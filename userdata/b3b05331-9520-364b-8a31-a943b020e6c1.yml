@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.170.84.75
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667144959253
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673717254491
+  login: 1673717230061
+money: '0'
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -361.2328340000814
+  y: 39.288268801880335
+  z: 51.384854842902996
+  yaw: 93.36845397949219
+  pitch: 10.349900245666504
+last-account-name: NEOGamer_42
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -399.75577767731437
+  y: 33.0
+  z: 10.03821805476442
+  yaw: 100.95095825195312
+  pitch: 34.95000457763672

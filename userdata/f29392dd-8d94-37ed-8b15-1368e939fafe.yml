@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592395951102
+  logout: 1592396033860
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.7303313725489
+  y: 65.0
+  z: 84.99221364646237
+  yaw: 161.2987060546875
+  pitch: 36.40037155151367
+  world-name: ''
+ip-address: 213.176.209.156
+last-account-name: saphira1233
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

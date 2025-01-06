@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466690513946
+  lastteleport: 1466690601000
+  logout: 1466690779860
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.43211231877913
+  y: 64.0
+  z: 17.363111448191326
+  yaw: -190.74867248535156
+  pitch: -7.441992282867432
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 271.6135789059658
+  y: 64.0
+  z: -322.1733828015766
+  yaw: 137.08242797851562
+  pitch: 28.300884246826172
+  world-name: ''
+ip-address: 82.125.84.131
+last-account-name: Cala200
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

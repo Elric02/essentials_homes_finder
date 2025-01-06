@@ -1,0 +1,63 @@
+timestamps:
+  login: 1679307075453
+  lastteleport: 1679245345474
+  logout: 1679307085982
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -4547.057964720035
+  y: 68.0
+  z: 1569.8566861325455
+  yaw: -4.084856033325195
+  pitch: 22.79995346069336
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -4306.602784945845
+  y: 74.0
+  z: 1316.9377998765415
+  yaw: -146.8780975341797
+  pitch: 15.600059509277344
+  world-name: world
+homes:
+  b:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4306.16681423647
+    y: 75.0
+    z: 1315.0707163787497
+    yaw: -155.43443298339844
+    pitch: -1.574088454246521
+    world-name: world
+  tom:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3197.1605735048433
+    y: 59.0
+    z: -5637.789534612357
+    yaw: -96.47931671142578
+    pitch: 15.027341842651367
+    world-name: world
+  noracli:
+    world: End
+    x: -427.11534159165626
+    y: 99.0
+    z: -1.8184032166501685
+    yaw: -277.2673645019531
+    pitch: 55.649993896484375
+    world-name: ''
+money: '100.0'
+afk: false
+muted: false
+ip-address: 93.23.248.114
+last-account-name: ErTy_HeinKen
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

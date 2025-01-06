@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508776801762
+  lastteleport: 1508695587198
+  logout: 1508776814503
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.95299651524167
+  y: 66.0
+  z: 19.6725197143948
+  yaw: -87.94744110107422
+  pitch: 14.947400093078613
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 348.2766370832382
+  y: 103.76521605347513
+  z: 787.5471344204285
+  yaw: -106.98555755615234
+  pitch: 31.650056838989258
+  world-name: ''
+money: '0'
+ip-address: 78.208.1.196
+last-account-name: jepudespieds
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

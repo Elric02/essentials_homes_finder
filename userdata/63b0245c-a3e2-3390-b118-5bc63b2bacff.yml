@@ -1,0 +1,63 @@
+timestamps:
+  login: 1553093911776
+  logout: 1552938724145
+  lastteleport: 1553096332414
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: 25.300000011920925
+  y: 69.0
+  z: 11.30000001192093
+  yaw: 108.3450698852539
+  pitch: 50.65070343017578
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4472.8075710399135
+  y: 92.0
+  z: 4173.651122806798
+  yaw: -209.45404052734375
+  pitch: 51.449981689453125
+  world-name: ''
+money: '0'
+homes:
+  ender:
+    world: End
+    x: 20.669325446801007
+    y: 57.0
+    z: -252.27019348022793
+    yaw: -4.012045860290527
+    pitch: 2.070124864578247
+    world-name: ''
+  base:
+    world: world
+    x: -2262.685797041076
+    y: 98.0
+    z: -3552.2062072667222
+    yaw: 135.74981689453125
+    pitch: 21.59999656677246
+    world-name: ''
+  elec:
+    world: Ressource
+    x: -1364.5507352664658
+    y: 26.0
+    z: 1181.6623124797682
+    yaw: 90.00018310546875
+    pitch: 31.19995880126953
+    world-name: ''
+afk: false
+ip-address: 90.47.46.125
+last-account-name: lefoudelamoto
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

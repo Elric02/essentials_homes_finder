@@ -1,0 +1,63 @@
+timestamps:
+  login: 1601579729732
+  lastteleport: 1601579549574
+  logout: 1601579774013
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 84.74725341796875
+  pitch: 5.135838985443115
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressourcenether
+  x: 154.69999998807907
+  y: 37.0
+  z: -5.44989948324495
+  yaw: -146.3919677734375
+  pitch: 52.7998046875
+  world-name: ''
+homes:
+  tour:
+    world: world
+    x: -4911.118759354348
+    y: 79.5
+    z: 2361.419566563908
+    yaw: -94.2047119140625
+    pitch: 35.10006332397461
+    world-name: ''
+  t:
+    world: world
+    x: -4911.530806954626
+    y: 91.0
+    z: 2229.6796161773264
+    yaw: -222.1944580078125
+    pitch: 51.00004577636719
+    world-name: ''
+  h:
+    world: world
+    x: -4788.5
+    y: 64.0
+    z: 2311.5
+    yaw: -356.85601806640625
+    pitch: 19.80033302307129
+    world-name: ''
+afk: false
+ip-address: 93.8.216.176
+last-account-name: shotloof
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

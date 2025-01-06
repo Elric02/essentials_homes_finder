@@ -1,0 +1,38 @@
+timestamps:
+  login: 1491076228764
+  logout: 1491079138208
+  lastteleport: 1491076590140
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3081.8655461575017
+  y: 54.0
+  z: 6831.495455547112
+  yaw: 171.290771484375
+  pitch: -53.3999137878418
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2996.8919832769025
+  y: 67.0
+  z: 6884.522721573801
+  yaw: 199.1985626220703
+  pitch: 14.100118637084961
+  world-name: ''
+money: '0'
+ip-address: 90.44.160.227
+last-account-name: Werim
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

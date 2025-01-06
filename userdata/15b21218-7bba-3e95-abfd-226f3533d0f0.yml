@@ -1,0 +1,38 @@
+timestamps:
+  login: 1507629854948
+  lastteleport: 1507631188631
+  logout: 1507631594394
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -209.1645326065557
+  y: 47.0
+  z: 538.2476989368195
+  yaw: 264.6713562011719
+  pitch: 7.723760604858398
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -552.2358825898582
+  y: 73.0
+  z: -784.0317410085679
+  yaw: -129.54248046875
+  pitch: 81.91929626464844
+  world-name: ''
+ip-address: 81.251.74.221
+last-account-name: SpeedyCraft
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

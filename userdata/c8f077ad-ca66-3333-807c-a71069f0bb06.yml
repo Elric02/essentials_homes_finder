@@ -1,0 +1,38 @@
+timestamps:
+  login: 1626621436400
+  lastteleport: 1626622936476
+  logout: 1626623186744
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -36.157270901110216
+  y: 58.0
+  z: 22.08070792026419
+  yaw: 44.567901611328125
+  pitch: 14.100568771362305
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 157.58113333995342
+  y: 63.0
+  z: 39.319385550482195
+  yaw: 83.60465240478516
+  pitch: 22.475879669189453
+  world-name: ''
+ip-address: 86.246.50.134
+last-account-name: kevinsayan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

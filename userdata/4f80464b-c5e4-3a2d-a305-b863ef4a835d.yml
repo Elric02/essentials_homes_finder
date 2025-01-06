@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.90.44.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1728997054204
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730673699414
+  login: 1730673699263
+money: '50.0'
+last-account-name: Rose_Violette
+lastlocation:
+  world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+  world-name: Ressource
+  x: -22.4770874395973
+  y: 89.5
+  z: 0.4459768504159019
+  yaw: 86.98956298828125
+  pitch: 8.699235916137695
+logoutlocation:
+  world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+  world-name: Ressource
+  x: -1710.964499650153
+  y: 64.0
+  z: 1246.9439354627343
+  yaw: -162.15435791015625
+  pitch: 16.201099395751953

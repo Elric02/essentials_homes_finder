@@ -1,0 +1,63 @@
+timestamps:
+  login: 1502148652093
+  lastteleport: 1502145420507
+  logout: 1502148837214
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -848.5736549780704
+  y: 65.90199999809265
+  z: 180.45021467562765
+  yaw: -263.2057189941406
+  pitch: 90.0
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -963.3592846448856
+    y: 102.60100002384186
+    z: -1578.0115446435038
+    yaw: 300.19720458984375
+    pitch: 18.749963760375977
+    world-name: ''
+  maison:
+    world: world
+    x: -865.8423005714136
+    y: 70.5
+    z: 146.55169401746963
+    yaw: 91.99462890625
+    pitch: -1.799931287765503
+    world-name: ''
+  ville:
+    world: world
+    x: -735.3000000119209
+    y: 76.0
+    z: 80.10810068608738
+    yaw: 80.44500732421875
+    pitch: 16.35005760192871
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -869.5702664760773
+  y: 69.9375
+  z: 142.37862833307798
+  yaw: 178.844482421875
+  pitch: 18.150033950805664
+  world-name: ''
+afk: false
+jailed: false
+ip-address: 82.236.135.38
+last-account-name: Diokhless
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

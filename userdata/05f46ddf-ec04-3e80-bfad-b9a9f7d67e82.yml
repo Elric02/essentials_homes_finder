@@ -1,0 +1,38 @@
+timestamps:
+  login: 1515100693814
+  lastteleport: 1515100725370
+  logout: 1515100768905
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 140.92709202515044
+  y: 70.0
+  z: 99.41561145049302
+  yaw: 96.37764739990234
+  pitch: 8.62196159362793
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.51155318567072
+  y: 64.0
+  z: 14.082785838401174
+  yaw: 78.53260040283203
+  pitch: 8.429084777832031
+  world-name: ''
+ip-address: 89.85.18.153
+last-account-name: CookieLeBeauf
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

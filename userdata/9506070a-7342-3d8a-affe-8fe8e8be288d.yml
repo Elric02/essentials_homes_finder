@@ -1,0 +1,38 @@
+timestamps:
+  login: 1496251847447
+  logout: 1496251876170
+  lastteleport: 1483317948013
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.01427458915714
+  y: 65.02442408821369
+  z: 28.552426700418515
+  yaw: -224.0108642578125
+  pitch: 2.724515914916992
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 174.84130529794652
+  y: 63.0
+  z: 22.542884575017307
+  yaw: -232.84808349609375
+  pitch: 9.900053024291992
+  world-name: ''
+afk: false
+money: '0'
+ip-address: 90.92.136.74
+last-account-name: FgTitou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

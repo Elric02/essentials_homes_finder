@@ -1,0 +1,47 @@
+timestamps:
+  login: 1479066702993
+  lastteleport: 1479068626824
+  logout: 1479070272918
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2354.477327560325
+  y: 67.0
+  z: 3563.0413607908563
+  yaw: 289.89453125
+  pitch: 35.55008316040039
+  world-name: ''
+homes:
+  m:
+    world: world
+    x: -2363.353010204292
+    y: 64.0
+    z: 3585.5653882675692
+    yaw: 48.4011116027832
+    pitch: 11.542472839355469
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -2362.1458066911973
+  y: 64.0
+  z: 3581.257427064111
+  yaw: 44.94482421875
+  pitch: 14.9998197555542
+  world-name: ''
+ip-address: 90.108.161.178
+last-account-name: Horqy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

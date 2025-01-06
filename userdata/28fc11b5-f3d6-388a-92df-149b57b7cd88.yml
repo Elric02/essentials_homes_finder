@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.200.198.206
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699693777740
+  login: 1699693657713
+money: '0'
+last-account-name: FunWolf2013
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.0077820762172
+  y: 81.0
+  z: -3111.2086470929185
+  yaw: -51.598236083984375
+  pitch: 33.44999694824219
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.96572536163444
+  y: 81.0
+  z: -3111.2419800402163
+  yaw: -51.598236083984375
+  pitch: 33.44999694824219

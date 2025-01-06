@@ -1,0 +1,38 @@
+timestamps:
+  login: 1491319317701
+  lastteleport: 1491319380560
+  logout: 1491319720178
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 195.92350469081833
+  y: 66.0
+  z: -4.885680931856104
+  yaw: -187.9976806640625
+  pitch: 8.947389602661133
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world_the_end
+  x: 0.6032149146090973
+  y: 58.15552175294311
+  z: 2.1960758514924055
+  yaw: 5.8441162109375
+  pitch: 89.8499984741211
+  world-name: ''
+ip-address: 105.101.124.196
+last-account-name: vinsky150
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

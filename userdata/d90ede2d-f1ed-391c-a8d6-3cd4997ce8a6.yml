@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483472215754
+  lastteleport: 1483473985547
+  logout: 1483474000337
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4833.43702587651
+  y: 70.0
+  z: -335.78235561300215
+  yaw: -174.7727508544922
+  pitch: 39.600013732910156
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 3887.133234562074
+  y: 69.5625
+  z: -3155.732026836578
+  yaw: 284.56732177734375
+  pitch: 68.69999694824219
+  world-name: ''
+ip-address: 78.204.140.42
+last-account-name: Ewilhan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

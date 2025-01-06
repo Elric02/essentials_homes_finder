@@ -1,0 +1,63 @@
+timestamps:
+  login: 1470478203164
+  logout: 1470478323761
+  lastteleport: 1470475144015
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 192.5719891770359
+  y: 128.0
+  z: -136.99813213479334
+  yaw: 332.09637451171875
+  pitch: 22.100465774536133
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -608.8199871212701
+  y: 65.0
+  z: -776.1254536790847
+  yaw: -191.16796875
+  pitch: 19.413846969604492
+  world-name: ''
+afk: false
+homes:
+  maison:
+    world: world
+    x: -115.35655312374382
+    y: 62.0
+    z: -43.95457553407392
+    yaw: -268.46807861328125
+    pitch: 23.181072235107422
+    world-name: ''
+  base:
+    world: world
+    x: -549.4340911642241
+    y: 63.0
+    z: -447.53804543128365
+    yaw: 92.7269287109375
+    pitch: 9.538764953613281
+    world-name: ''
+  a:
+    world: world
+    x: 10066.00573804165
+    y: 69.9375
+    z: 10051.219111501408
+    yaw: -0.570160984992981
+    pitch: 2.2051661014556885
+    world-name: ''
+muted: false
+jailed: false
+ip-address: 89.2.42.34
+last-account-name: KingZ371
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

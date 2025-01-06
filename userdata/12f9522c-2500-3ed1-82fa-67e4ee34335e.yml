@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486893843072
+  lastteleport: 1486896063805
+  logout: 1486896344813
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -492.46035458744853
+  y: 11.0
+  z: -6937.596525039174
+  yaw: 173.30747985839844
+  pitch: 8.850099563598633
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: -469.5878079082393
+  y: 5.0
+  z: -6929.379979293127
+  yaw: -92.44366455078125
+  pitch: 29.25006103515625
+  world-name: ''
+ip-address: 90.41.238.163
+last-account-name: Zafrogs
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

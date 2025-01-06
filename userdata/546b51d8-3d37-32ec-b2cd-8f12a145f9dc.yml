@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615144079686
+  logout: 1615144107654
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 144.13820442899922
+  y: 69.5
+  z: 100.41620705128513
+  yaw: -72.8031234741211
+  pitch: 24.840700149536133
+  world-name: ''
+ip-address: 88.127.35.78
+last-account-name: rayou2009
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

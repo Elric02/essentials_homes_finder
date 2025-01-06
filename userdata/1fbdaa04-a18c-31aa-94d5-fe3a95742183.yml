@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 197.158.119.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1637407543886
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1637407759728
+  login: 1637406969872
+money: '0'
+last-account-name: PalaceYt
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -4348.420385978798
+  y: 67.0
+  z: 4965.781369915134
+  yaw: -119.40078735351562
+  pitch: 15.449943542480469
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -5215.08759990313
+  y: 65.0
+  z: -3905.2869749482275
+  yaw: 2.941730260848999
+  pitch: -5.8263654708862305

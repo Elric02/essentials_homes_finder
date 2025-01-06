@@ -1,0 +1,38 @@
+timestamps:
+  login: 1566850873113
+  lastteleport: 1566851881858
+  logout: 1566852090245
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4091.8783273036797
+  y: 68.0
+  z: -516.9976362939508
+  yaw: -211.32846069335938
+  pitch: 6.63228178024292
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 151.39390289731438
+  y: 65.0
+  z: 58.3950185907525
+  yaw: -178.26458740234375
+  pitch: 38.44907760620117
+  world-name: ''
+ip-address: 77.132.211.115
+last-account-name: metamaster7
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

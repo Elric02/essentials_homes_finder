@@ -1,0 +1,38 @@
+timestamps:
+  login: 1525797880035
+  lastteleport: 1525798195996
+  logout: 1525798265012
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -47.39297535241751
+  y: 69.0
+  z: 2.0853068856453016
+  yaw: 86.73516845703125
+  pitch: 9.181950569152832
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 139.19876286848535
+  y: 63.0
+  z: -19.571330157974668
+  yaw: 304.4791259765625
+  pitch: -2.671330690383911
+  world-name: ''
+ip-address: 85.171.143.115
+last-account-name: Lugu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

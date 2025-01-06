@@ -1,0 +1,38 @@
+timestamps:
+  login: 1563875596310
+  lastteleport: 1563875606547
+  logout: 1563875808714
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -100.37616039373337
+  y: 47.0
+  z: 506.38113374853185
+  yaw: 269.4985656738281
+  pitch: 6.217757225036621
+  world-name: ''
+logoutlocation:
+  world: Donjon
+  x: 2050.191121480726
+  y: 3.9375
+  z: 1980.5856743706886
+  yaw: 38.744720458984375
+  pitch: 3.952162504196167
+  world-name: ''
+money: '0'
+ip-address: 41.140.46.97
+last-account-name: RunIII
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

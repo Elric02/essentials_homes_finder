@@ -1,0 +1,38 @@
+timestamps:
+  login: 1520614903322
+  logout: 1520617315171
+  lastteleport: 1520615003175
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -343.67083740234375
+  pitch: 86.27867126464844
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -6278.945794835115
+  y: 65.0
+  z: -5718.572611732498
+  yaw: 301.388427734375
+  pitch: -44.850013732910156
+  world-name: ''
+afk: false
+money: '0'
+ip-address: 86.221.247.6
+last-account-name: yaunis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

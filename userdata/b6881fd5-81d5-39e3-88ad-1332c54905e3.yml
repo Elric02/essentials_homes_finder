@@ -1,0 +1,63 @@
+timestamps:
+  login: 1481984109006
+  lastteleport: 1481983946787
+  logout: 1481984137688
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3719.6409980304466
+  y: 75.0
+  z: -731.3833532848083
+  yaw: 24.76544189453125
+  pitch: 6.899998664855957
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: 6290.5
+  y: 11.0
+  z: 650.5
+  yaw: -79.64140319824219
+  pitch: 9.564372062683105
+  world-name: ''
+money: '0'
+homes:
+  sable:
+    world: ressource
+    x: 3545.5057592189123
+    y: 64.0
+    z: 4567.769561652011
+    yaw: -112.64997863769531
+    pitch: 13.350066184997559
+    world-name: ''
+  maison:
+    world: world
+    x: 3671.300000011921
+    y: 105.0
+    z: -733.1789171469023
+    yaw: 335.541748046875
+    pitch: 22.65010643005371
+    world-name: ''
+  magasin:
+    world: world
+    x: -4901.444084423877
+    y: 69.0
+    z: -260.33041457992454
+    yaw: 180.16598510742188
+    pitch: 0.08805904537439346
+    world-name: ''
+afk: false
+ip-address: 89.88.171.4
+last-account-name: Hoshisann
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

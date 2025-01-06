@@ -1,0 +1,55 @@
+timestamps:
+  login: 1472155217478
+  lastteleport: 1472159911258
+  logout: 1472160114700
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1337.4756541687468
+  y: 74.0
+  z: -4843.473767458648
+  yaw: 297.6092834472656
+  pitch: 13.523824691772461
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 1449.817356086161
+    y: 63.0
+    z: -4972.431901290517
+    yaw: 76.16902160644531
+    pitch: 35.60443878173828
+    world-name: ''
+  villa:
+    world: world
+    x: 1449.817356086161
+    y: 63.0
+    z: -4972.431901290517
+    yaw: 76.16902160644531
+    pitch: 35.60443878173828
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1455.158762637232
+  y: 63.5
+  z: -4972.9289325374275
+  yaw: -62.45623016357422
+  pitch: 37.651634216308594
+  world-name: ''
+ip-address: 82.241.160.181
+last-account-name: Thatch0
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

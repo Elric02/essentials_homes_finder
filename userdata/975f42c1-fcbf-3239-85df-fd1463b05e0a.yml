@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478214159724
+  lastteleport: 1478214379398
+  logout: 1478214894582
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -77.3985903788346
+  y: 67.5
+  z: 641.4120511521344
+  yaw: -284.24993896484375
+  pitch: 8.250021934509277
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: -497.69999998807907
+  y: 53.0
+  z: 705.6996786574787
+  yaw: 90.01904296875
+  pitch: 51.59993362426758
+  world-name: ''
+money: '0'
+ip-address: 74.59.69.59
+last-account-name: Ellutrou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

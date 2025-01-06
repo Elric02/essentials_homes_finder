@@ -1,0 +1,38 @@
+timestamps:
+  login: 1555365318493
+  lastteleport: 1555366983459
+  logout: 1555367062734
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 953.9424677159413
+  y: 63.0
+  z: 3255.463652241363
+  yaw: -319.9500427246094
+  pitch: -4.349998950958252
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 149.02747794887088
+  y: 64.0
+  z: 19.558434895564353
+  yaw: -69.6207275390625
+  pitch: 6.478679180145264
+  world-name: ''
+ip-address: 176.130.146.21
+last-account-name: matlol33
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

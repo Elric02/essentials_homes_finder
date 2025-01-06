@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.197.137.205
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1673707324396
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673707427550
+  login: 1673707114754
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 398.3274579673564
+  y: 81.0
+  z: -3109.653540795166
+  yaw: 115.80160522460938
+  pitch: 17.8499755859375
+last-account-name: ichiro13
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 22.85141402452111
+  y: 66.0
+  z: 31.541210385179912
+  yaw: -97.64854431152344
+  pitch: 26.250076293945312

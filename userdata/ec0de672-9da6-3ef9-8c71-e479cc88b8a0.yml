@@ -1,0 +1,47 @@
+timestamps:
+  login: 1558548654618
+  logout: 1558552224960
+  lastteleport: 1558552025640
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2568.6297096648545
+  y: 65.0
+  z: 2412.2919939227136
+  yaw: 190.9498291015625
+  pitch: -0.44999104738235474
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -2611.3320970669165
+  y: 67.0
+  z: 2417.688915032976
+  yaw: 103.3504638671875
+  pitch: 26.40001106262207
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -2611.365602692683
+    y: 67.0
+    z: 2417.399794761625
+    yaw: -264.7494812011719
+    pitch: 27.44999885559082
+    world-name: ''
+money: '0'
+ip-address: 90.34.64.60
+last-account-name: teamlover52
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

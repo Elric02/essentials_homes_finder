@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.167.10.211
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635175732057
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635175737671
+  login: 1635173735524
+money: '0'
+last-account-name: Trajectoryyy
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 162.16153157418995
+  y: 63.5
+  z: 23.14646685809948
+  yaw: -25.089839935302734
+  pitch: 10.577776908874512
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.5
+  y: 64.0
+  z: 19.5
+  yaw: -80.13920593261719
+  pitch: 6.5277814865112305

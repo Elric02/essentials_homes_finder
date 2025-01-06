@@ -1,0 +1,47 @@
+timestamps:
+  login: 1582054517251
+  lastteleport: 1582054543972
+  logout: 1582054654580
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.78692327833204
+  y: 63.0
+  z: 8.174373290619526
+  yaw: -210.77378845214844
+  pitch: 24.928646087646484
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 154.6014779207676
+    y: 66.5
+    z: 95.72136390185264
+    yaw: 198.99729919433594
+    pitch: 6.390655517578125
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 159.95362241103578
+  y: 63.0
+  z: 56.50663012996882
+  yaw: -353.4188537597656
+  pitch: 1.5000861883163452
+  world-name: ''
+ip-address: 176.187.219.201
+last-account-name: SwaLaste_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

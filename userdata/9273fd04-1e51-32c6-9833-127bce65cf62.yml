@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510510581257
+  logout: 1510510938294
+  lastteleport: 1510510698647
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.79777865142938
+  y: 66.0
+  z: 20.29151524412012
+  yaw: -94.0969009399414
+  pitch: -44.302581787109375
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 150.88438573680293
+  y: 63.0
+  z: -14.708141036936889
+  yaw: -170.57083129882812
+  pitch: 11.72867202758789
+  world-name: ''
+money: '0'
+muted: true
+ip-address: 2.8.149.224
+last-account-name: Biloucheman
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

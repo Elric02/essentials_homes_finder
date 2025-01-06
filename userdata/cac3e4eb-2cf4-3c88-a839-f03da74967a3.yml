@@ -1,0 +1,47 @@
+timestamps:
+  login: 1544134840615
+  lastteleport: 1543982086420
+  logout: 1544135290676
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2776.4277199232783
+  y: 69.0
+  z: -4237.207108149295
+  yaw: -217.35565185546875
+  pitch: 13.949980735778809
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2695.300000011921
+    y: 53.0
+    z: -4144.38270409672
+    yaw: -131.10162353515625
+    pitch: 36.60002899169922
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2611.4280168663176
+  y: 25.0
+  z: -4166.74529174043
+  yaw: -214.6278076171875
+  pitch: 33.449989318847656
+  world-name: ''
+ip-address: 88.175.33.88
+last-account-name: WizzHezio
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

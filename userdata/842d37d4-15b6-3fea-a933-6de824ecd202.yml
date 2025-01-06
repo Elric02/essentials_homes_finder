@@ -1,0 +1,39 @@
+timestamps:
+  login: 1611957707853
+  lastteleport: 1611958337912
+  jail: 1611960036077
+  onlinejail: 0
+  logout: 1611959311708
+  lastheal: 0
+  mute: 0
+lastlocation:
+  world: Ressource
+  x: 55.30000001192093
+  y: 9.0
+  z: 115.68931797997807
+  yaw: -231.1588134765625
+  pitch: 17.849838256835938
+  world-name: ''
+money: '0'
+jailed: true
+jail: cage
+logoutlocation:
+  world: world
+  x: 198.49876843754714
+  y: 74.0
+  z: 19.08679539796142
+  yaw: -265.1744384765625
+  pitch: 11.433038711547852
+  world-name: ''
+ip-address: 109.129.204.116
+last-account-name: lucasbonomo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

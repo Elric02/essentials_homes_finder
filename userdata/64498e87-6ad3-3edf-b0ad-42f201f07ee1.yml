@@ -1,0 +1,63 @@
+timestamps:
+  login: 1555694255391
+  logout: 1555694270876
+  lastteleport: 1552165721426
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1772.7661707668583
+  y: 70.0
+  z: -4029.598725938639
+  yaw: -65.99998474121094
+  pitch: 21.750051498413086
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3937.047195049825
+  y: 30.0
+  z: 1017.6999999880792
+  yaw: 101.5784912109375
+  pitch: 48.74994659423828
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -579.598801939214
+    y: 64.0
+    z: -644.4727078122326
+    yaw: 1.2515869140625
+    pitch: 20.24998664855957
+    world-name: ''
+  champs:
+    world: world
+    x: -4120.968370909259
+    y: 67.0
+    z: -1843.699999988079
+    yaw: -157.0501708984375
+    pitch: 13.649975776672363
+    world-name: ''
+  casino:
+    world: world
+    x: 1332.7765293723587
+    y: 67.0
+    z: -2031.2719601661079
+    yaw: 189.15036010742188
+    pitch: 26.250049591064453
+    world-name: ''
+afk: false
+ip-address: 91.68.72.2
+last-account-name: MineBlack_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

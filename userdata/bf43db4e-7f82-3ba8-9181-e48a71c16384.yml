@@ -1,0 +1,38 @@
+timestamps:
+  login: 1594406790149
+  lastteleport: 1594406837588
+  logout: 1594407057386
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.75876138642724
+  y: 65.0
+  z: 99.43647062910298
+  yaw: 275.9471740722656
+  pitch: 13.740654945373535
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5508.394398461478
+  y: 64.0
+  z: 821.4790802291519
+  yaw: -62.004241943359375
+  pitch: -0.4621351659297943
+  world-name: ''
+ip-address: 80.200.2.216
+last-account-name: skillordeYTB
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

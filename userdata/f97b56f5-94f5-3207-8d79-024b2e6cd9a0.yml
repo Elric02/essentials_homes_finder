@@ -1,0 +1,38 @@
+timestamps:
+  login: 1507483055948
+  lastteleport: 1507483063671
+  logout: 1507483522708
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -46.902723833567364
+  y: 71.0
+  z: -15.940724612531536
+  yaw: 255.5398712158203
+  pitch: 1.965673565864563
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4863.2201392425395
+  y: 69.0
+  z: 5804.072271894745
+  yaw: -46.317138671875
+  pitch: 17.969799041748047
+  world-name: ''
+ip-address: 90.125.88.27
+last-account-name: Mephoque
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

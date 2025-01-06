@@ -1,0 +1,38 @@
+timestamps:
+  login: 1690463948796
+  logout: 1690463966746
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 251.9498180419755
+  y: 81.0
+  z: -298.30000001192093
+  yaw: 21.93917465209961
+  pitch: 50.0732421875
+  world-name: world
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 252.006412590513
+  y: 81.0
+  z: -298.31092060325415
+  yaw: 20.58917808532715
+  pitch: 50.97325134277344
+  world-name: world
+ip-address: 86.192.8.179
+last-account-name: Boby855
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

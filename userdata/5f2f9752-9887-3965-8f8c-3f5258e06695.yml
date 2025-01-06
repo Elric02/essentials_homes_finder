@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476988410920
+  logout: 1476988839505
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 114.34953904450607
+  y: 64.0
+  z: 15.863252521922988
+  yaw: -0.8021240234375
+  pitch: 48.1501579284668
+  world-name: ''
+ip-address: 90.59.87.221
+last-account-name: Agentgb
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

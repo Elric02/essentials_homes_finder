@@ -1,0 +1,38 @@
+timestamps:
+  login: 1611503861294
+  lastteleport: 1611504053884
+  logout: 1611504064590
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4836.5
+  y: 84.0
+  z: -463.5
+  yaw: -85.95679473876953
+  pitch: 3.299821615219116
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1459.505698970046
+  y: 64.0
+  z: -2180.634208984807
+  yaw: 131.02723693847656
+  pitch: 16.185949325561523
+  world-name: ''
+ip-address: 88.127.40.76
+last-account-name: readyplayer281
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

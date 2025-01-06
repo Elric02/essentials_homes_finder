@@ -1,0 +1,38 @@
+timestamps:
+  login: 1630509545581
+  logout: 1630509556409
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.61233319894168
+  y: 66.5
+  z: 94.44424497534156
+  yaw: 175.2803955078125
+  pitch: 23.781356811523438
+  world-name: ''
+ip-address: 88.121.45.137
+last-account-name: Contilis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

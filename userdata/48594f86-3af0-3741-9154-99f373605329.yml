@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526404829693
+  logout: 1526404835354
+  lastteleport: 1524913342547
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 196.99471504500812
+  y: 66.0
+  z: -4.951897561410414
+  yaw: 197.74525451660156
+  pitch: 24.346704483032227
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 175.6953343927276
+  y: 74.0
+  z: 210.87119673374474
+  yaw: 40.012794494628906
+  pitch: 26.936290740966797
+  world-name: ''
+ip-address: 78.219.90.20
+last-account-name: Zaassar
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

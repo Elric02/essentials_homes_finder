@@ -1,0 +1,38 @@
+timestamps:
+  login: 1725488850323
+  logout: 1725488850366
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 156.60607229960252
+  y: 64.0
+  z: 20.413611361500074
+  yaw: 81.30018615722656
+  pitch: 10.950067520141602
+  world-name: world
+ip-address: 129.80.82.129
+last-account-name: Herobrine
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

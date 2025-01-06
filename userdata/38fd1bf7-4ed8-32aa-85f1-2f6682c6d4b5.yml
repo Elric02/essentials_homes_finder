@@ -1,0 +1,38 @@
+timestamps:
+  login: 1620417898791
+  logout: 1620420231681
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 146.6843903486905
+  y: 63.0
+  z: 49.41170730587774
+  yaw: 7.89794921875
+  pitch: 23.040508270263672
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5459.6846193078
+  y: 69.0
+  z: 1746.6134555874212
+  yaw: 144.9161376953125
+  pitch: -7.8001604080200195
+  world-name: ''
+ip-address: 86.196.141.255
+last-account-name: Santoryu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

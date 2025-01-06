@@ -1,0 +1,38 @@
+timestamps:
+  login: 1610882422698
+  lastteleport: 1610882666930
+  logout: 1610882693809
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.30000001192093
+  y: 65.0
+  z: 97.4306860132935
+  yaw: 76.44647216796875
+  pitch: 17.190597534179688
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.09672655166545
+  y: 64.0
+  z: 9.65353828532947
+  yaw: 84.80521392822266
+  pitch: 20.67588233947754
+  world-name: ''
+ip-address: 176.181.23.22
+last-account-name: Dokorochan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

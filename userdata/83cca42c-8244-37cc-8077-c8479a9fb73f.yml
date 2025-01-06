@@ -1,0 +1,219 @@
+timestamps:
+  login: 1735906793645
+  lastteleport: 1735914251191
+  logout: 1735914262857
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  kits:
+    creatif: 1735571229174
+    explorateur: 1669021090823
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 246.83164037796317
+  y: 132.1875
+  z: 140.49518947008156
+  yaw: 179.72105407714844
+  pitch: 7.500364303588867
+  world-name: world
+money: '189088.06000000000003'
+homes:
+  sdc:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5194.096467097872
+    y: 45.0
+    z: -3816.8541413901153
+    yaw: 114.26760864257812
+    pitch: 32.17863464355469
+  a:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5158.840039437634
+    y: -21.875
+    z: -3366.739813311046
+    yaw: 175.27294921875
+    pitch: 29.384523391723633
+  b:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4936.993583054055
+    y: 70.0
+    z: -4183.919619602794
+    yaw: -41.34014892578125
+    pitch: 18.70567512512207
+  neufwanstein1:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 1237.3989420462249
+    y: 93.5
+    z: -3442.901753744843
+    yaw: -102.70474243164062
+    pitch: 31.991729736328125
+  neuschwanstein:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -685.2999840843308
+    y: 33.0
+    z: -896.730694557039
+    yaw: 179.7484130859375
+    pitch: -16.660409927368164
+  zoonatu:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2954.830648012701
+    y: 72.5
+    z: 6895.502540089101
+    yaw: 72.37692260742188
+    pitch: 8.010886192321777
+  aachlist:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 5775.883541485262
+    y: 69.0
+    z: 6924.75280192549
+    yaw: 178.85903930664062
+    pitch: 40.08462905883789
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5202.226234147062
+    y: 70.0
+    z: -3833.0057263711774
+    yaw: 106.70407104492188
+    pitch: 17.97040557861328
+  kaino:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3736.0424699187547
+    y: 69.0
+    z: -2468.7510824253113
+    yaw: 20.495361328125
+    pitch: 31.190227508544922
+  joujou:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -249.5512103350423
+    y: 31.0
+    z: -282.7730160340819
+    yaw: -18.087799072265625
+    pitch: 17.121902465820312
+  artifice:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -541.197927197677
+    y: 44.0
+    z: -1800.813631978819
+    yaw: 32.7904052734375
+    pitch: 11.968796730041504
+  pvp:
+    world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+    world-name: pvp
+    x: -77.94522549756529
+    y: 54.0
+    z: -47.880699423434265
+    yaw: -9.407438278198242
+    pitch: 9.349635124206543
+  cathedral:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -455.1905364315532
+    y: 6.0
+    z: -842.7157277837839
+    yaw: 173.01219177246094
+    pitch: 11.408187866210938
+  base:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -396.69237967260995
+    y: 47.9375
+    z: -720.5113228366748
+    yaw: 15.756097793579102
+    pitch: 5.698063373565674
+  ressource:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 2182.764966403869
+    y: 59.0
+    z: -1597.1578089400607
+    yaw: -17.2408447265625
+    pitch: 31.257373809814453
+  rouen:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -311.958006946434
+    y: 4.0
+    z: -903.9608730423646
+    yaw: -90.486328125
+    pitch: 1.6071910858154297
+  balmoral:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -329.47515100249973
+    y: 4.0
+    z: -977.8109128244361
+    yaw: 170.47084045410156
+    pitch: 4.110153675079346
+  avalon:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -271.36775192733734
+    y: 4.0
+    z: -1071.4018166386427
+    yaw: -90.353515625
+    pitch: 19.454320907592773
+  garnier:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -214.97761638060248
+    y: 27.0
+    z: -1116.3916466034711
+    yaw: -90.1665267944336
+    pitch: 19.641477584838867
+logoutlocation:
+  world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+  x: -135.5
+  y: 31.0
+  z: -1116.5
+  yaw: 155.65121459960938
+  pitch: 27.086606979370117
+  world-name: Builder
+afk: false
+ip-address: 37.65.36.159
+last-account-name: Poulotscotch
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+mail:
+- legacy: false
+  read: true
+  message: Hey, désolé si je passe pas souvent mais j'ai beaucoup de taf en ce moment,
+    tu pourrais m'envoyer le schematics du terrain sur lequel je pourrais faire un
+    manoir stp ? Mon pc a du mal à supporter le "léger" litematic xD
+  sender-name: azetisme
+  sender-uuid: a5708e2d-0adf-3d59-94f8-3afd0931f872
+  timestamp: 1646343320634
+  expire: 0
+- legacy: false
+  read: true
+  message: salut mec je voulais avoir si tu cherchais du monde pour ton projet de
+    Alfort?
+  sender-name: Artigan
+  sender-uuid: b696d763-65ee-377b-97c8-386f404be79c
+  timestamp: 1643897058650
+  expire: 0
+- legacy: false
+  read: true
+  message: biome messa en -1322/91/4111
+  sender-name: T2O_raya
+  sender-uuid: a719611c-2de3-3096-ad6e-b7e536b94fa5
+  timestamp: 1641654938257
+  expire: 0

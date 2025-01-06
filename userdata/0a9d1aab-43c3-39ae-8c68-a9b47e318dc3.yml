@@ -1,0 +1,38 @@
+timestamps:
+  login: 1598355647666
+  logout: 1598356607019
+  lastteleport: 1598355705503
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -69.76777233610797
+  y: 65.0
+  z: 341.9721355720453
+  yaw: 220.0423583984375
+  pitch: -0.30026471614837646
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 159.05432099817847
+  y: 63.0
+  z: -4.080626382084799
+  yaw: 36.278900146484375
+  pitch: 26.428340911865234
+  world-name: ''
+ip-address: 77.147.88.181
+last-account-name: Haiemielun
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

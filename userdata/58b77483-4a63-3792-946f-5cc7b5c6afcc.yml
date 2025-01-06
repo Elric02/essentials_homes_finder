@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609601946818
+  lastteleport: 1609601965015
+  logout: 1609601968068
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.69999998807907
+  y: 65.0
+  z: 100.50788583472576
+  yaw: 144.84689331054688
+  pitch: 2.0406508445739746
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.44082350665394
+  y: 64.5
+  z: 31.731509394946052
+  yaw: -177.69546508789062
+  pitch: -0.02411934733390808
+  world-name: ''
+ip-address: 91.167.131.101
+last-account-name: Maskyy___
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,72 @@
+timestamps:
+  login: 1538332525349
+  lastteleport: 1538333553093
+  logout: 1538333809991
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5483.738673160981
+  y: 84.02442408821369
+  z: 1466.4558746020407
+  yaw: -105.95040893554688
+  pitch: 17.14984893798828
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -5481.380433135822
+    y: 77.0
+    z: 1460.5027673249997
+    yaw: -24.20013427734375
+    pitch: 14.149877548217773
+    world-name: ''
+  jungle:
+    world: world
+    x: 1448.3574525116524
+    y: 69.0
+    z: -4048.7149614077775
+    yaw: 164.39993286132812
+    pitch: 22.5000057220459
+    world-name: ''
+  me:
+    world: world
+    x: -5270.088905268833
+    y: 63.0
+    z: 1095.446271055644
+    yaw: -336.53912353515625
+    pitch: 12.29994010925293
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1509.1210280071878
+  y: 72.5
+  z: -2169.612752269713
+  yaw: -130.87255859375
+  pitch: -0.15000849962234497
+  world-name: ''
+afk: false
+ip-address: 78.112.8.245
+last-account-name: _Light_Phoenix_
+mail:
+- legacy: true
+  read: false
+  message: §e[§rServer§e] §rSalut, je t'invite à rejoindre notre discord ( https://discord.gg/9GX644E
+    ) pour être au courant en temps réel de ce qui se passe sur le serveur. Merci
+    de jouer sur Station 47!
+- legacy: true
+  read: false
+  message: §e[§rDiaval93§e] §rMerci de ne pas toucher à la déco de la maison de Lulu!
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

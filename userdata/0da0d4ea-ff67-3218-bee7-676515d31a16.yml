@@ -1,0 +1,55 @@
+timestamps:
+  login: 1570017716154
+  lastteleport: 1570018679943
+  logout: 1570019052233
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1089.0571996993601
+  y: 68.0
+  z: -4111.699999988079
+  yaw: 31.8177490234375
+  pitch: 23.233430862426758
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -297.64078727641083
+    y: 62.0
+    z: -4830.638140290728
+    yaw: -172.20330810546875
+    pitch: 15.667718887329102
+    world-name: ''
+  sky:
+    world: world
+    x: -319.5
+    y: 246.0
+    z: -4837.5
+    yaw: 29.717365264892578
+    pitch: 88.45783233642578
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -297.5
+  y: 62.0
+  z: -4830.5
+  yaw: -73.2991714477539
+  pitch: -82.59761047363281
+  world-name: ''
+afk: false
+ip-address: 176.185.37.225
+last-account-name: alix190
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

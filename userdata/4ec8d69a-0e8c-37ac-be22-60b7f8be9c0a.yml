@@ -1,0 +1,38 @@
+timestamps:
+  login: 1605629264725
+  logout: 1605629327380
+  lastteleport: 1605629311635
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.488046253729
+  y: 63.0
+  z: 65.20154299418773
+  yaw: 174.2469024658203
+  pitch: 20.19061851501465
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -16.012259383816335
+  y: 61.380035064243245
+  z: -19.75837493787873
+  yaw: 6.896859169006348
+  pitch: -7.164133071899414
+  world-name: ''
+ip-address: 88.122.148.17
+last-account-name: X3NO
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

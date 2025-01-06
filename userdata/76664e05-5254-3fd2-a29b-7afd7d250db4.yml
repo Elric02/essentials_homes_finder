@@ -1,0 +1,38 @@
+timestamps:
+  login: 1619113331887
+  lastteleport: 1619113541154
+  logout: 1619114091027
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.70765079055974
+  y: 84.0
+  z: 136.07654289671063
+  yaw: -263.4945373535156
+  pitch: 17.525955200195312
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.4913517459972
+  y: 63.0
+  z: 40.30845723207493
+  yaw: -119.6041259765625
+  pitch: -21.826688766479492
+  world-name: ''
+ip-address: 176.188.128.66
+last-account-name: Hateroi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

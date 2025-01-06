@@ -1,0 +1,38 @@
+timestamps:
+  login: 1670001567537
+  lastteleport: 1638212273174
+  logout: 1670001584902
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 5b84aa24-864f-443f-8002-c90c409e7e97
+  x: 0.5
+  y: 37.0
+  z: -1.5
+  yaw: -178.04226684570312
+  pitch: 7.049990177154541
+  world-name: Ressourcenether
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 21.69999998807907
+  y: 21.0
+  z: -1.3896439147300463
+  yaw: 97.2078857421875
+  pitch: 68.09986877441406
+  world-name: world
+ip-address: 90.17.46.66
+last-account-name: picetco
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

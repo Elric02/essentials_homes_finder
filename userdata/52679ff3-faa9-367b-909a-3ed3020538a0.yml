@@ -1,0 +1,38 @@
+timestamps:
+  login: 1539971287113
+  logout: 1539971344655
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 190.69999998807907
+  y: 65.0
+  z: -16.57970561718161
+  yaw: 329.79693603515625
+  pitch: 14.040657043457031
+  world-name: ''
+ip-address: 176.145.184.1
+last-account-name: HytzQuazer13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

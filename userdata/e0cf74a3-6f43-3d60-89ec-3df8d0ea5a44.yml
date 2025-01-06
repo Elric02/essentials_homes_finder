@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485021530737
+  lastteleport: 1485021606492
+  logout: 1485021679993
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.94667286591704
+  y: 28.0
+  z: 20.154584759976892
+  yaw: -88.25042724609375
+  pitch: 10.848467826843262
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: 440.9190366922832
+  y: 60.59560121562666
+  z: 170.11162289418573
+  yaw: -101.67173767089844
+  pitch: 12.009872436523438
+  world-name: ''
+ip-address: 83.199.113.182
+last-account-name: Igniis___
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

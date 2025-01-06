@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617395709233
+  lastteleport: 1617395426878
+  logout: 1617395790302
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.3390171698022
+  y: 63.0
+  z: 64.14797673352199
+  yaw: 167.94651794433594
+  pitch: -6.509336471557617
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 127.12661346844584
+  y: 64.16610926093821
+  z: 18.194396567280748
+  yaw: 68.75440979003906
+  pitch: 7.325876712799072
+  world-name: ''
+ip-address: 90.70.107.201
+last-account-name: chevaldu27
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

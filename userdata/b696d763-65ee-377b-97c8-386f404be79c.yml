@@ -1,0 +1,63 @@
+timestamps:
+  login: 1666362080241
+  lastteleport: 1666362104342
+  logout: 1666362213283
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -3604.342431328747
+  y: 187.0
+  z: 3379.1124430809905
+  yaw: -137.891845703125
+  pitch: 30.5574893951416
+  world-name: world
+afk: false
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 148.2292315654129
+  y: 63.0
+  z: 31.454942687693837
+  yaw: -6.7674560546875
+  pitch: 21.14226531982422
+  world-name: world
+money: '0.0'
+homes:
+  f:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -362.6111165094326
+    y: 139.0
+    z: -1820.2491732677852
+    yaw: 90.41609191894531
+    pitch: 35.01411056518555
+    world-name: world
+  st:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4235.487500011921
+    y: 63.0
+    z: -3706.985008459425
+    yaw: -272.8644104003906
+    pitch: 21.21823501586914
+    world-name: world
+  bonsim:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3606.0321985151936
+    y: 184.0
+    z: 3406.396037385841
+    yaw: 182.09226989746094
+    pitch: 23.899635314941406
+muted: false
+ip-address: 89.156.178.115
+last-account-name: Artigan
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

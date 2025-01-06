@@ -1,0 +1,47 @@
+timestamps:
+  login: 1472152341806
+  lastteleport: 1472153020404
+  logout: 1472154982946
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -180.06092834472656
+  pitch: 7.173256874084473
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 109.37716605265706
+  y: 23.200000047683716
+  z: 241.46946154461088
+  yaw: 186.77215576171875
+  pitch: 68.05033874511719
+  world-name: ''
+afk: false
+homes:
+  molk:
+    world: Event
+    x: 555.1976090382802
+    y: 35.35271146413082
+    z: -1205.4130537293365
+    yaw: 1.1112315654754639
+    pitch: 0.006373154930770397
+    world-name: ''
+money: '0'
+ip-address: 88.161.210.18
+last-account-name: Molk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

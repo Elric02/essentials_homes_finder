@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508073068035
+  lastteleport: 1507997022646
+  logout: 1508073898738
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4711.139928593019
+  y: 72.0
+  z: 6085.734697369475
+  yaw: -128.89300537109375
+  pitch: 18.518524169921875
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4758.699999988079
+  y: 64.0
+  z: 5904.366719057036
+  yaw: -66.72014617919922
+  pitch: 16.424564361572266
+  world-name: ''
+ip-address: 82.232.165.111
+last-account-name: yoannlebg
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

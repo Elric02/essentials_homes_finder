@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.162.145.208
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712082159736
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712082175569
+  login: 1712082010047
+money: '0'
+last-account-name: taoj
+lastlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 160.5
+  y: 83.0
+  z: -105.5
+  yaw: 3.729060411453247
+  pitch: -26.902132034301758
+logoutlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 157.69871180727867
+  y: 83.0
+  z: -105.49670213643185
+  yaw: 89.853271484375
+  pitch: 0.45000994205474854

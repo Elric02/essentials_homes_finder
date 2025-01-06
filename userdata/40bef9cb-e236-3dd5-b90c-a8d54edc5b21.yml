@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614724652344
+  lastteleport: 1614725851680
+  logout: 1614725862340
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 753.7032924376092
+  y: 57.0
+  z: -4696.268507646121
+  yaw: -49.27863693237305
+  pitch: 14.408537864685059
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 165.548324317241
+  y: 64.0
+  z: 19.69107994693222
+  yaw: 7.26275634765625
+  pitch: 4.487998962402344
+  world-name: ''
+ip-address: 92.169.42.109
+last-account-name: elovic9
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

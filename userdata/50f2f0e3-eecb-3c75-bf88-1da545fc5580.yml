@@ -1,0 +1,55 @@
+timestamps:
+  login: 1519428057682
+  lastteleport: 1519428090788
+  logout: 1519428463865
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 216.6092977794385
+  y: 63.0
+  z: 22.104305312879756
+  yaw: 263.07928466796875
+  pitch: 13.97867202758789
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 1390.3025053678991
+    y: 32.5
+    z: -2887.427751984438
+    yaw: -165.3778533935547
+    pitch: 22.41970443725586
+    world-name: ''
+  b:
+    world: world
+    x: 1390.5
+    y: 32.5
+    z: -2887.5
+    yaw: -165.3778533935547
+    pitch: 22.41970443725586
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1388.2462136032025
+  y: 32.0
+  z: -2889.9069962239214
+  yaw: 278.6221008300781
+  pitch: 15.449984550476074
+  world-name: ''
+ip-address: 93.4.59.237
+last-account-name: ImperiaZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

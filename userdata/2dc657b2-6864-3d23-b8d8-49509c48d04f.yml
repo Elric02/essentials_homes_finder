@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.139.49.44
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701452216670
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701452373070
+  login: 1701452022173
+money: '0'
+last-account-name: Rosario56
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 396.04744848604304
+  y: 81.0
+  z: -3111.137605365647
+  yaw: -47.99832534790039
+  pitch: 25.499988555908203
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -376.309477629064
+  y: 129.50683461426297
+  z: -38.25359384342381
+  yaw: 116.45751953125
+  pitch: 70.65003204345703

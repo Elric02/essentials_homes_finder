@@ -1,0 +1,38 @@
+timestamps:
+  login: 1584881369543
+  logout: 1584881519249
+  lastteleport: 1584881414733
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.27633839312267
+  y: 63.0
+  z: -0.7230721611493456
+  yaw: 179.0442352294922
+  pitch: 19.5090389251709
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 12.658942869869058
+  y: 65.0
+  z: 19.977142053300458
+  yaw: 11.482224464416504
+  pitch: 8.652149200439453
+  world-name: ''
+ip-address: 176.139.135.241
+last-account-name: Aypinn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

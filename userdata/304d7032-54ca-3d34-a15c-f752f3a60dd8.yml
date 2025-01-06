@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478898825714
+  logout: 1478899272478
+  lastteleport: 1478898898211
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -268.39739990234375
+  pitch: -3.9526002407073975
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1871.650467447315
+  y: 73.0
+  z: 3775.0187887132174
+  yaw: -237.45045471191406
+  pitch: 10.49992847442627
+  world-name: ''
+ip-address: 81.51.69.215
+last-account-name: cris21
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

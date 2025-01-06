@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518636420511
+  lastteleport: 1514581296606
+  logout: 1518636510351
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.26353635754072
+  y: 65.0
+  z: 69.57066127027676
+  yaw: 179.95562744140625
+  pitch: 16.125749588012695
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -345.35428848650815
+  y: 66.0
+  z: 379.36895616115186
+  yaw: -176.3626708984375
+  pitch: 11.537781715393066
+  world-name: ''
+ip-address: 88.185.187.174
+last-account-name: loulou2303
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

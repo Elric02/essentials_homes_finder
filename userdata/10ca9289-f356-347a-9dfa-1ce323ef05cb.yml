@@ -1,0 +1,38 @@
+timestamps:
+  login: 1538755461669
+  logout: 1538755636503
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 233.4873286465183
+  y: 63.0
+  z: -3.680960335721967
+  yaw: -17.45318603515625
+  pitch: 25.440662384033203
+  world-name: ''
+ip-address: 217.162.196.35
+last-account-name: leo7boss
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

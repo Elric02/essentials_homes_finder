@@ -1,0 +1,55 @@
+timestamps:
+  login: 1565686374626
+  lastteleport: 1565689756033
+  logout: 1565691373381
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5484.485901177604
+  y: 63.0
+  z: 1016.2752886713558
+  yaw: -181.93336486816406
+  pitch: 27.749988555908203
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -5519.944132669563
+    y: 67.0
+    z: 993.4167498109427
+    yaw: -186.590576171875
+    pitch: 37.50000762939453
+    world-name: ''
+  base2:
+    world: world
+    x: -5630.913384410663
+    y: 63.0
+    z: 1187.7407666945428
+    yaw: -8.69061279296875
+    pitch: 15.300053596496582
+    world-name: ''
+ip-address: 88.175.205.159
+last-account-name: superchou67
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

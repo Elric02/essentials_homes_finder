@@ -1,0 +1,81 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 93.23.249.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1679342721828
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1679344636756
+  login: 1679337704166
+  kits:
+    stationaute: 1679245984716
+money: '1150.0'
+last-account-name: GibrilSalah
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 1943.5169811784376
+  y: 62.9375
+  z: -2540.529176961253
+  yaw: -3.641082763671875
+  pitch: 1.022033452987671
+homes:
+  n:
+    world: a6fa93b2-53d7-45d9-96e4-95d57c48e044
+    world-name: RessourceNether
+    x: 207.48625758473153
+    y: 121.0
+    z: -67.4212336806752
+    yaw: -83.2701416015625
+    pitch: 7.9500017166137695
+  b:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 1700.9577382872276
+    y: 63.0
+    z: -2833.325923056653
+    yaw: 152.2218017578125
+    pitch: 46.64997482299805
+  m:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 1661.4391634230012
+    y: 63.0
+    z: -2849.575925569693
+    yaw: -127.724365234375
+    pitch: 24.512929916381836
+  e:
+    world: 0023f058-ee08-4ce0-bdb3-e8aeef02d8ae
+    world-name: HestiaEnd
+    x: 323.69798057687353
+    y: 45.0
+    z: 4.64672360772003
+    yaw: -90.12408447265625
+    pitch: 3.20493221282959
+  e1:
+    world: 0023f058-ee08-4ce0-bdb3-e8aeef02d8ae
+    world-name: HestiaEnd
+    x: 321.60811560698977
+    y: 82.0
+    z: 6.1260443624435865
+    yaw: -53.59292984008789
+    pitch: 90.0
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 1655.6807197004546
+  y: 63.0
+  z: -2837.9833938222314
+  yaw: -126.13124084472656
+  pitch: 76.35013580322266

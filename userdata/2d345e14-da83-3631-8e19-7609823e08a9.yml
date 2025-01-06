@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468949448294
+  lastteleport: 1468949549269
+  logout: 1468949658521
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 194.93179972438372
+  y: 64.0
+  z: 19.923608792939756
+  yaw: -50.54721450805664
+  pitch: 0.8241803050041199
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 539.9490805983031
+  y: 84.0
+  z: 2195.695180866678
+  yaw: 198.2513427734375
+  pitch: 6.899775981903076
+  world-name: ''
+ip-address: 88.187.190.78
+last-account-name: KLASS
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

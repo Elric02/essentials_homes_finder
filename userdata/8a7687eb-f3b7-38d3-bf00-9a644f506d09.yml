@@ -1,0 +1,38 @@
+timestamps:
+  login: 1549811631172
+  lastteleport: 1549813006108
+  logout: 1549814601668
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1528.005464884527
+  y: 62.48403747830935
+  z: -4271.363336352632
+  yaw: -91.1998291015625
+  pitch: 19.500038146972656
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -1214.4838742273096
+  y: 35.0
+  z: 294.3060628903738
+  yaw: -328.505859375
+  pitch: 32.09994888305664
+  world-name: ''
+ip-address: 77.146.249.22
+last-account-name: Aureliengame360
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

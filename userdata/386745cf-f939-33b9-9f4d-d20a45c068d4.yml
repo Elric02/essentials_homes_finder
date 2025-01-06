@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479323906691
+  logout: 1479327018462
+  lastteleport: 1479325117597
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -551.2260050128841
+  y: 59.0
+  z: -783.1031064719898
+  yaw: 109.56271362304688
+  pitch: 21.372802734375
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1402.450609601571
+  y: 76.0
+  z: -208.40701145632772
+  yaw: 25.29705810546875
+  pitch: 8.03099250793457
+  world-name: ''
+ip-address: 89.89.207.63
+last-account-name: entitix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

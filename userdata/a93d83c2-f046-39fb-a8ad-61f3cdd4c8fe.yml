@@ -1,0 +1,38 @@
+timestamps:
+  login: 1512048583107
+  lastteleport: 1512048611207
+  logout: 1512048623076
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.8178634911294
+  y: 65.0
+  z: 84.63024167829623
+  yaw: 183.24685668945312
+  pitch: 25.049991607666016
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.9223995213694
+  y: 64.0
+  z: 19.11548082686633
+  yaw: -154.82078552246094
+  pitch: 27.478670120239258
+  world-name: ''
+ip-address: 84.74.252.255
+last-account-name: Ev_ok_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

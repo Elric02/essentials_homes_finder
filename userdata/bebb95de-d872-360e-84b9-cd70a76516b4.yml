@@ -1,0 +1,46 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.174.217.133
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1640623627008
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1640624401232
+  login: 1640622649416
+money: '0'
+last-account-name: wolfire
+lastlocation:
+  world: 886c7d43-b736-498b-8648-cad06b6b21d1
+  world-name: Event
+  x: 961.4853542224074
+  y: 6.0
+  z: -1227.3019483243809
+  yaw: -50.394287109375
+  pitch: -2.1007614135742188
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -4885.75176078868
+  y: 76.0
+  z: -123.94355557352799
+  yaw: 73.29833984375
+  pitch: 13.199332237243652
+mail:
+- legacy: false
+  read: false
+  message: Ta recompense est dans ton inventaire (shulker orange)
+  sender-name: naturalizee
+  sender-uuid: cc702e34-b94b-3106-b41f-f357d3bf3dac
+  timestamp: 1640625453550
+  expire: 0

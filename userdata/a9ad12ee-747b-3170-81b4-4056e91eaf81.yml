@@ -1,0 +1,38 @@
+timestamps:
+  login: 1495662026368
+  logout: 1495662063697
+  lastteleport: 1495661864970
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.72967567095336
+  y: 63.0
+  z: 47.92687588483665
+  yaw: 88.75255584716797
+  pitch: 2.4000260829925537
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -68.0207968900516
+  y: 67.0
+  z: -16.168240965734952
+  yaw: 179.96463012695312
+  pitch: 31.08302879333496
+  world-name: ''
+ip-address: 79.95.117.188
+last-account-name: Mathis0007
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1672012694742
+  logout: 1672012756411
+  lastteleport: 1652721937881
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 156.1252153754416
+  y: 64.0
+  z: 16.053365613987978
+  yaw: -18.67316436767578
+  pitch: 8.249127388000488
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 156.70437591426526
+  y: 64.0
+  z: 15.767350296920728
+  yaw: -21.417797088623047
+  pitch: 9.033308029174805
+  world-name: world
+money: '0'
+ip-address: 176.169.76.49
+last-account-name: RowerMusic
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1549826795745
+  lastteleport: 1549827252834
+  logout: 1549827456877
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.6946964452916
+  y: 63.5
+  z: 66.52270967256125
+  yaw: 209.37860107421875
+  pitch: 2.7286295890808105
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1593.1691798751012
+  y: 63.0
+  z: -2570.717046833347
+  yaw: -104.77352905273438
+  pitch: 16.035972595214844
+  world-name: ''
+ip-address: 86.204.174.106
+last-account-name: VdX31
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

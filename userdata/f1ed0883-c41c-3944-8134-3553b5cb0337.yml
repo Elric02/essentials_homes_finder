@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472399607020
+  lastteleport: 1472399767983
+  logout: 1472402132937
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 153.0348865115262
+  y: 67.0
+  z: 416.60109391291303
+  yaw: -193.86045837402344
+  pitch: 11.468911170959473
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -5254.699999988079
+  y: 12.0
+  z: 5038.301300629014
+  yaw: -177.26953125
+  pitch: 58.19990158081055
+  world-name: ''
+ip-address: 82.246.162.78
+last-account-name: pizzatore
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

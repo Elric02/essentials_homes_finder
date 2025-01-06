@@ -1,0 +1,63 @@
+timestamps:
+  login: 1478105646917
+  logout: 1478105987313
+  lastteleport: 1478105952711
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1952.698246518031
+  y: 65.0
+  z: 3930.2310729406463
+  yaw: 129.8926239013672
+  pitch: 33.680782318115234
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -7868.383252814859
+  y: 79.0
+  z: -5069.8134324291495
+  yaw: 346.47186279296875
+  pitch: 10.333271026611328
+  world-name: ''
+muted: false
+money: '0'
+afk: false
+homes:
+  base:
+    world: world
+    x: 4650.474832207287
+    y: 80.0
+    z: 862.897276096601
+    yaw: 97.14816284179688
+    pitch: 16.753232955932617
+    world-name: ''
+  maison:
+    world: world
+    x: -4119.588084315495
+    y: 70.0
+    z: -3641.34419731711
+    yaw: 174.2900390625
+    pitch: 30.650997161865234
+    world-name: ''
+  projet:
+    world: world
+    x: -7880.123738988925
+    y: 84.0
+    z: -5052.490029501467
+    yaw: 253.066650390625
+    pitch: 9.449881553649902
+    world-name: ''
+jailed: false
+ip-address: 176.157.7.206
+last-account-name: Synchro_YTB
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

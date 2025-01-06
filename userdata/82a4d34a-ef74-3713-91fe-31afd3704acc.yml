@@ -1,0 +1,63 @@
+timestamps:
+  login: 1487685656203
+  lastteleport: 1487685824809
+  logout: 1487686022027
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.8039895274037
+  y: 63.0
+  z: 7.823054593324828
+  yaw: -241.2608184814453
+  pitch: 28.374521255493164
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 153.66410807971627
+    y: 64.0
+    z: 10.373198492717089
+    yaw: -84.05712890625
+    pitch: 14.850011825561523
+    world-name: ''
+  maero:
+    world: world
+    x: 153.5
+    y: 64.0
+    z: 10.5
+    yaw: -156.05712890625
+    pitch: 14.25001049041748
+    world-name: ''
+  maerlo:
+    world: world
+    x: 6586.699999988079
+    y: 64.0
+    z: -6013.300000011921
+    yaw: -241.4996337890625
+    pitch: 27.450136184692383
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 158.69492353508952
+  y: 76.0
+  z: -88.66338971385466
+  yaw: -60.8099365234375
+  pitch: -4.025508403778076
+  world-name: ''
+ip-address: 78.122.2.173
+last-account-name: Maerlo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

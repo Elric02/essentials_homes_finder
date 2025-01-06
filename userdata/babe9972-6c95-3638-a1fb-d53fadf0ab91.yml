@@ -1,0 +1,63 @@
+timestamps:
+  login: 1622806359430
+  lastteleport: 1620163322004
+  logout: 1622806399797
+  jail: 0
+  onlinejail: 0
+  lastheal: 0
+  mute: 0
+lastlocation:
+  world: world
+  x: -3523.5
+  y: 66.0
+  z: -5834.5
+  yaw: 88.59370422363281
+  pitch: 24.300003051757812
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1940.0262256478877
+    y: 110.0
+    z: -3513.2942754441997
+    yaw: -235.24681091308594
+    pitch: 0.4500004053115845
+    world-name: ''
+  tortue2:
+    world: world
+    x: -3523.8588681696356
+    y: 65.0
+    z: -5834.852392809957
+    yaw: 84.24370574951172
+    pitch: 22.20000457763672
+    world-name: ''
+  home22:
+    world: world
+    x: 217.51495294669868
+    y: 56.0
+    z: 6307.523472827093
+    yaw: -101.8499755859375
+    pitch: 29.999990463256836
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 214.18742191620672
+  y: 56.0
+  z: 6308.09874311623
+  yaw: 195.2996826171875
+  pitch: 43.34992218017578
+  world-name: ''
+afk: false
+jailed: false
+ip-address: 77.204.46.243
+last-account-name: VorloxFR
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

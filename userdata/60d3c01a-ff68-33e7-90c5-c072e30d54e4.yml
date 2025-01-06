@@ -1,0 +1,38 @@
+timestamps:
+  login: 1588704301450
+  lastteleport: 1588704904076
+  logout: 1588706622899
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3527.629636088227
+  y: 227.0
+  z: 3614.456900970276
+  yaw: 28.989990234375
+  pitch: 28.79965591430664
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1699.5555167391203
+  y: 64.0
+  z: 3095.561691671266
+  yaw: -318.01751708984375
+  pitch: 33.986976623535156
+  world-name: ''
+afk: false
+ip-address: 82.125.223.233
+last-account-name: TheSpaceMan88
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

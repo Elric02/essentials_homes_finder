@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.170.220.56
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1679507853071
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1679508703880
+  login: 1679505363215
+  kits:
+    stationaute: 1679505683364
+money: '400.0'
+last-account-name: Triox9
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.13086274072234
+  y: 64.0
+  z: 19.51003798668316
+  yaw: -179.68475341796875
+  pitch: -1.6498417854309082
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1214.0422297138662
+  y: 87.0
+  z: -3631.5140707873184
+  yaw: 88.9132080078125
+  pitch: -9.749981880187988

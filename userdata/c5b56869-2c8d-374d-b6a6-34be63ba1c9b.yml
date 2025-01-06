@@ -1,0 +1,38 @@
+timestamps:
+  login: 1502139826942
+  lastteleport: 1502140511747
+  logout: 1502141323978
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6.283511652844028
+  y: 65.0
+  z: 37.43646533330939
+  yaw: 0.9901496171951294
+  pitch: 10.674515724182129
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -578.1543959450206
+  y: 64.0
+  z: -636.5765270346284
+  yaw: -119.31103515625
+  pitch: 31.20001220703125
+  world-name: ''
+ip-address: 91.68.161.160
+last-account-name: aceroue1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1556908331128
+  lastteleport: 1556909098193
+  logout: 1556909170821
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 9.676613277628947
+  y: 89.5
+  z: -3.0277503069081515
+  yaw: -95.26608276367188
+  pitch: 22.806150436401367
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 2.3569497752847277
+  y: 88.0
+  z: -30.762062941274195
+  yaw: -165.17108154296875
+  pitch: 18.506139755249023
+  world-name: ''
+ip-address: 78.219.100.97
+last-account-name: Bilal_Hassani
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

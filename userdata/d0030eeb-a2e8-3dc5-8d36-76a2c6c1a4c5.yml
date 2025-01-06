@@ -1,0 +1,47 @@
+timestamps:
+  login: 1554025729975
+  lastteleport: 1554025191065
+  logout: 1554025887317
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 193.89295233487005
+  y: 63.0
+  z: 157.69999998807907
+  yaw: 314.2267150878906
+  pitch: -1.697218656539917
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -1685.180341106241
+    y: 80.0
+    z: -2821.830597053598
+    yaw: 149.70233154296875
+    pitch: 15.221551895141602
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1645.579709254498
+  y: 69.0
+  z: -2714.699999988079
+  yaw: -144.98828125
+  pitch: 35.426815032958984
+  world-name: ''
+ip-address: 88.163.215.27
+last-account-name: linny
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

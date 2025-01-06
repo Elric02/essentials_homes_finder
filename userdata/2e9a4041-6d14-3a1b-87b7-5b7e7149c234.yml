@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475244895877
+  lastteleport: 1474816933675
+  logout: 1475246313040
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -378.2281230265605
+  y: 78.93050451123717
+  z: 404.96558908640105
+  yaw: 230.086669921875
+  pitch: 31.982318878173828
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 99.49001152600337
+  y: 67.0
+  z: -286.4030215810568
+  yaw: 34.00708770751953
+  pitch: 15.273908615112305
+  world-name: ''
+ip-address: 213.55.59.187
+last-account-name: TheBubix974
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

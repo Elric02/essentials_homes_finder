@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.202.67.95
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1676034889859
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1676035056738
+  login: 1676034136039
+money: '300.0'
+last-account-name: Galtyx
+lastlocation:
+  world: 98291945-f596-49be-b8c4-088500defea2
+  world-name: Ressource
+  x: -97.5
+  y: 65.0
+  z: 0.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 98291945-f596-49be-b8c4-088500defea2
+  world-name: Ressource
+  x: -76.66825320558333
+  y: 36.0
+  z: -5.185640198176757
+  yaw: 101.94525146484375
+  pitch: 53.877750396728516
+homes:
+  home:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -1670.6607406392884
+    y: 79.0
+    z: -314.2014302705127
+    yaw: -84.02574157714844
+    pitch: 13.913134574890137

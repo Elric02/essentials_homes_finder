@@ -1,0 +1,38 @@
+timestamps:
+  login: 1546724229148
+  lastteleport: 1546724330938
+  logout: 1546724522568
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.98185259011112
+  y: 66.0
+  z: 18.27168252741811
+  yaw: -93.94224548339844
+  pitch: 36.528114318847656
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -203.37045288085938
+  pitch: 4.343462944030762
+  world-name: ''
+ip-address: 92.188.91.130
+last-account-name: wompadan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1597939937158
+  lastteleport: 1597941889398
+  logout: 1597942037092
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -837.6999999880791
+  y: 73.0
+  z: -690.1370721498282
+  yaw: -259.35009765625
+  pitch: 51.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6813.506582518268
+  y: 74.0
+  z: 1641.909736987284
+  yaw: -60.7515869140625
+  pitch: 33.1500129699707
+  world-name: ''
+ip-address: 90.120.104.42
+last-account-name: da_helpy01
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

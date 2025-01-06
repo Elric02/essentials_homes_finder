@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517165244800
+  lastteleport: 1516821706431
+  logout: 1517165492559
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 39.872956590012116
+  y: 56.181413902070545
+  z: 103.92898640835497
+  yaw: -33.86431884765625
+  pitch: 21.00001335144043
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 645.0
+  y: 75.0
+  z: -6508.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+ip-address: 81.49.243.174
+last-account-name: deadpoolthan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

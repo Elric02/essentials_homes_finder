@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615139498036
+  lastteleport: 1615140506226
+  logout: 1615140515116
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -4.614622797424223
+  y: 58.48924673295013
+  z: 35.94306319340938
+  yaw: -38.703086853027344
+  pitch: -4.014144420623779
+  world-name: ''
+ip-address: 109.13.83.200
+last-account-name: Bonnie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

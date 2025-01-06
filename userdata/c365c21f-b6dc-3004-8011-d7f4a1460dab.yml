@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470853549539
+  lastteleport: 1470855508236
+  logout: 1470856238350
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -14.585194424739777
+  y: 72.0
+  z: -2.8443905627204806
+  yaw: 335.06878662109375
+  pitch: 20.3844051361084
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -117.76612854003906
+  pitch: -90.0
+  world-name: ''
+ip-address: 84.100.88.229
+last-account-name: thomasfief
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

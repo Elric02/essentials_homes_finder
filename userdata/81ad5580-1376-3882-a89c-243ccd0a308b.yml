@@ -1,0 +1,63 @@
+timestamps:
+  login: 1519568268933
+  lastteleport: 1519568324047
+  logout: 1519568367037
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.45672509254655
+  y: 64.0
+  z: 22.8905241055368
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -389.7843735832658
+  y: 64.0
+  z: 1112.435269982902
+  yaw: 47.16839599609375
+  pitch: -1.408664584159851
+  world-name: ''
+money: '0'
+homes:
+  ez:
+    world: world
+    x: -404.7002914177918
+    y: 66.0625
+    z: 1202.553991938261
+    yaw: 87.4822769165039
+    pitch: 26.106454849243164
+    world-name: ''
+  e:
+    world: world
+    x: -404.5
+    y: 66.0
+    z: 1202.5
+    yaw: 87.4822769165039
+    pitch: 26.106454849243164
+    world-name: ''
+  v:
+    world: world
+    x: -455.9427084945802
+    y: 116.0
+    z: 1118.1521190205672
+    yaw: 123.47282409667969
+    pitch: 25.608951568603516
+    world-name: ''
+ip-address: 86.236.227.131
+last-account-name: Aragon44
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

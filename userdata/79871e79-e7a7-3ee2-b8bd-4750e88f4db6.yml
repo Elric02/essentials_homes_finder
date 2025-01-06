@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478960047185
+  logout: 1478960188622
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.21781973862443
+  y: 27.0
+  z: 20.810472420543867
+  yaw: 257.5025634765625
+  pitch: 36.900020599365234
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 124.951068470466
+  y: 63.0
+  z: 36.560495330070395
+  yaw: 39.2525634765625
+  pitch: 10.80000114440918
+  world-name: ''
+ip-address: 87.64.129.225
+last-account-name: fgtgrh
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

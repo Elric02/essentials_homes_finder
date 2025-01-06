@@ -1,0 +1,57 @@
+timestamps:
+  login: 1735670549619
+  lastteleport: 1684002594927
+  logout: 1735670755702
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 5682.016642082174
+  y: 51.0
+  z: 6541.824877709315
+  yaw: 72.72271728515625
+  pitch: 36.656681060791016
+  world-name: world
+money: '100.0'
+homes:
+  zaz:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5713.004161107029
+    y: 48.0
+    z: 6529.504044829477
+    yaw: -40.93679428100586
+    pitch: 45.599449157714844
+    world-name: world
+  minage:
+    world: db53b0bc-e109-4366-b93b-66666d9c9185
+    x: -5129.300000011921
+    y: 12.0
+    z: -1998.9042080956017
+    yaw: 138.58819580078125
+    pitch: 50.69973373413086
+    world-name: Ressource
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 5681.18079428573
+  y: 51.0
+  z: 6545.538288308824
+  yaw: 139.00146484375
+  pitch: 40.73524856567383
+  world-name: world
+afk: false
+ignore:
+- 1f3502e8-0647-3008-8368-ee749f266e13
+ip-address: 88.139.223.34
+last-account-name: Bastoubilou_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

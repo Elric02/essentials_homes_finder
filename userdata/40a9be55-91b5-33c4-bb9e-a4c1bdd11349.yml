@@ -1,0 +1,55 @@
+timestamps:
+  login: 1608550676384
+  logout: 1608553486196
+  lastteleport: 1608553221615
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1806.699999988079
+  y: 41.0
+  z: -5329.699999988079
+  yaw: 184.9088134765625
+  pitch: -4.950008392333984
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 1806.7009807340332
+    y: 63.0
+    z: -5352.553563894177
+    yaw: 217.45855712890625
+    pitch: 2.5497710704803467
+    world-name: ''
+  mine:
+    world: world
+    x: 1847.7632665035176
+    y: 12.0
+    z: -5223.696015752871
+    yaw: 256.6094970703125
+    pitch: 30.30007553100586
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1809.699999988079
+  y: 63.0
+  z: -5351.155459330014
+  yaw: 313.9075927734375
+  pitch: 46.34979248046875
+  world-name: ''
+money: '0'
+ip-address: 77.205.166.35
+last-account-name: BlueSkyFR
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

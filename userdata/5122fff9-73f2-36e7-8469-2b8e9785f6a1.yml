@@ -1,0 +1,38 @@
+timestamps:
+  login: 1565972519613
+  logout: 1565975378001
+  lastteleport: 1565974851944
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 7995.004452611468
+  y: 9.0
+  z: 8018.156757100694
+  yaw: 8.72186279296875
+  pitch: 9.615885734558105
+  world-name: ''
+logoutlocation:
+  world: Event
+  x: 8106.699999988079
+  y: 10.0
+  z: 8067.487500011921
+  yaw: -189.577880859375
+  pitch: 2.1000239849090576
+  world-name: ''
+money: '0'
+ip-address: 41.136.235.241
+last-account-name: jadboy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

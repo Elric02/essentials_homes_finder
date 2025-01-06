@@ -1,0 +1,47 @@
+timestamps:
+  login: 1599379457866
+  lastteleport: 1599381240281
+  logout: 1599381292570
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 519.137492915225
+  y: 61.55840000373125
+  z: -1319.0595407767062
+  yaw: -205.4384765625
+  pitch: 1.318711757659912
+  world-name: ''
+money: '0'
+homes:
+  end:
+    world: End
+    x: 335.6135343703893
+    y: 57.0
+    z: -2.1950777685030047
+    yaw: -124.63818359375
+    pitch: 5.2790422439575195
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 161.94907070195896
+  y: 64.0
+  z: 14.29553021018955
+  yaw: 196.76199340820312
+  pitch: 27.278690338134766
+  world-name: ''
+ip-address: 78.208.116.81
+last-account-name: Terrana54
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

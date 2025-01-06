@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481295698212
+  logout: 1481297993067
+  lastteleport: 1481297964639
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.7975681276148
+  y: 63.0
+  z: -17.077164718789106
+  yaw: 186.9920654296875
+  pitch: -21.749988555908203
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: 232.12371032093665
+  y: 46.0
+  z: 149.62623253457454
+  yaw: 46.648895263671875
+  pitch: 16.049942016601562
+  world-name: ''
+afk: false
+money: '0'
+ip-address: 92.150.60.28
+last-account-name: thor
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

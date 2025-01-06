@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.20.178.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1634839413471
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1634840626827
+  login: 1634836696245
+money: '0'
+last-account-name: lulu_la_biscotte
+lastlocation:
+  world: 299486cc-f566-4eb7-990b-9b1fcca86de8
+  world-name: Ressource
+  x: 3319.33352603738
+  y: 71.0
+  z: -1405.95441736035
+  yaw: -247.62579345703125
+  pitch: -5.854764938354492
+homes:
+  b:
+    world: 299486cc-f566-4eb7-990b-9b1fcca86de8
+    world-name: Ressource
+    x: 3315.246907613728
+    y: 71.0
+    z: -1407.670997502164
+    yaw: -192.93865966796875
+    pitch: 3.8799784183502197
+logoutlocation:
+  world: 299486cc-f566-4eb7-990b-9b1fcca86de8
+  world-name: Ressource
+  x: 107.55174358134056
+  y: 10.0
+  z: 2.7573063712087165
+  yaw: 319.75299072265625
+  pitch: 9.184341430664062

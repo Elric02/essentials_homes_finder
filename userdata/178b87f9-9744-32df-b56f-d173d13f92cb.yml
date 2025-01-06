@@ -1,0 +1,38 @@
+timestamps:
+  login: 1462983235802
+  logout: 1462983511574
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 19.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 185.12789381782747
+  y: 63.0
+  z: 9.315799742286462
+  yaw: -93.52873229980469
+  pitch: 0.6838650703430176
+  world-name: ''
+ip-address: 89.2.59.8
+last-account-name: Weazeria
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

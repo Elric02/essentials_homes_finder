@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479144827812
+  lastteleport: 1479144924421
+  logout: 1479144932784
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.7731207401267
+  y: 63.0
+  z: 49.92712146616748
+  yaw: -234.59117126464844
+  pitch: 2.347468376159668
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.92632468082076
+  y: 64.0
+  z: 21.487370918065277
+  yaw: -159.5294647216797
+  pitch: 16.243350982666016
+  world-name: ''
+ip-address: 90.12.180.100
+last-account-name: totokiller85
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.114.182.103
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668250352795
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668250956476
+  login: 1668250767279
+money: '0'
+last-account-name: masterofgame09
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -68.35520396992207
+  y: 61.0
+  z: -316.97196131077527
+  yaw: 106.75326538085938
+  pitch: -1.799807071685791
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -76.45132312358358
+  y: 66.0
+  z: -307.7130254684972
+  yaw: -130.84136962890625
+  pitch: 23.999683380126953

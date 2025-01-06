@@ -1,0 +1,63 @@
+timestamps:
+  login: 1515324947687
+  lastteleport: 1515329240334
+  logout: 1515329363434
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 180.00150422366477
+  y: 80.0
+  z: -254.8589942400548
+  yaw: -12.036407470703125
+  pitch: 10.800192832946777
+  world-name: ''
+money: '0'
+homes:
+  ressource:
+    world: Ressource
+    x: 174.67139930865545
+    y: 87.0
+    z: -242.99968859099602
+    yaw: 37.3145751953125
+    pitch: 24.90005111694336
+    world-name: ''
+  maison:
+    world: world
+    x: 5250.5050024491975
+    y: 64.0
+    z: 4397.871657315567
+    yaw: -59.24928283691406
+    pitch: 13.950057029724121
+    world-name: ''
+  jungle:
+    world: Ressource
+    x: 1931.019629549681
+    y: 69.0
+    z: -6218.336867552443
+    yaw: -262.4997863769531
+    pitch: -20.099924087524414
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5250.190078358606
+  y: 64.0
+  z: 4388.8480874211655
+  yaw: 325.0503845214844
+  pitch: 8.550148010253906
+  world-name: ''
+afk: false
+ip-address: 82.240.52.179
+last-account-name: Eliosh
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

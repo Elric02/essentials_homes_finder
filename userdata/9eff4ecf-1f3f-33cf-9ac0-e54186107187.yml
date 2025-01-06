@@ -1,0 +1,38 @@
+timestamps:
+  login: 1628177950043
+  lastteleport: 1628178013632
+  logout: 1628178111140
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 79.34424244387925
+  y: 63.0
+  z: 108.7000740966976
+  yaw: 54.578826904296875
+  pitch: 28.15776252746582
+  world-name: ''
+ip-address: 91.166.69.65
+last-account-name: azer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

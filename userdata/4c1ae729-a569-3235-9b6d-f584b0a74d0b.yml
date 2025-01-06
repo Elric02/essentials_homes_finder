@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510417395966
+  lastteleport: 1510417601554
+  logout: 1510417674503
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -581.4913882540757
+  y: 64.0
+  z: -760.2675415407364
+  yaw: -212.94744873046875
+  pitch: 19.376338958740234
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -119.2309021287966
+  y: 47.0
+  z: 537.556113896478
+  yaw: 269.6486511230469
+  pitch: 8.85000228881836
+  world-name: ''
+ip-address: 90.76.190.81
+last-account-name: JeTeMesEnY
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

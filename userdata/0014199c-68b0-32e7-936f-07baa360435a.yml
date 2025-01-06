@@ -1,0 +1,138 @@
+timestamps:
+  login: 1731451704345
+  lastteleport: 1667425716184
+  logout: 1731451742705
+  jail: 0
+  kits:
+    vip: 1521388552499
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  x: -357.1025177363552
+  y: 29.58779417185845
+  z: 169.02783630492584
+  yaw: -168.54701232910156
+  pitch: 19.949106216430664
+  world-name: grosPlot
+money: '0'
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6617.509377087052
+    y: 55.0
+    z: -4214.665216562043
+    yaw: -179.4744873046875
+    pitch: 1.0981262922286987
+    world-name: world
+  house:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 2814.6775313553376
+    y: 64.0
+    z: -1935.8555980585563
+    yaw: -179.6876220703125
+    pitch: -0.9019899368286133
+    world-name: world
+  builder:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    x: -1151.7122134872182
+    y: 33.0
+    z: -1156.6554539481328
+    yaw: -90.5411376953125
+    pitch: 52.35162353515625
+    world-name: Builder
+  event:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    x: -5970.810784184365
+    y: 4.0
+    z: -5954.348662216559
+    yaw: 3.3153076171875
+    pitch: 18.985366821289062
+    world-name: Event
+  nether:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: -11.610108398877243
+    y: 34.0
+    z: -155.66503104613318
+    yaw: -84.98889923095703
+    pitch: 25.79999542236328
+    world-name: Nether
+  koh:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    world-name: Event
+    x: 1588.8248669452457
+    y: 8.0
+    z: -2728.725983102755
+    yaw: -165.8982696533203
+    pitch: 20.250228881835938
+  lynix:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4761.050127274373
+    y: 63.0
+    z: -2575.5197123534613
+    yaw: 151.54873657226562
+    pitch: -10.949738502502441
+  spawnend:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 1416.396567317522
+    y: 4.0
+    z: -1938.3601900230403
+    yaw: -105.75135803222656
+    pitch: 3.2996950149536133
+  spawncrea:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -142.01728096020463
+    y: 3.0
+    z: 122.06447774193131
+    yaw: 144.1258544921875
+    pitch: 29.70005989074707
+  dac:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3909.7144035730876
+    y: 71.0
+    z: -7500.6833178655925
+    yaw: 154.209228515625
+    pitch: 15.300616264343262
+  t:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -912.3770106053321
+    y: 63.0
+    z: -368.4434560467912
+    yaw: 87.4130859375
+    pitch: 59.25043487548828
+  spawn:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 176.1929384163588
+    y: 63.0
+    z: 19.075552245845778
+    yaw: 66.4517822265625
+    pitch: 14.700179100036621
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  x: -356.66977993757035
+  y: 30.607017487284455
+  z: 168.91217782005168
+  yaw: -98.3470687866211
+  pitch: -5.550894260406494
+  world-name: grosPlot
+afk: false
+jailed: false
+nickname: §aLim§estox§c360
+muted: false
+socialspy: false
+ip-address: 86.214.100.157
+last-account-name: Limstox360
+teleportenabled: true
+teleportauto: false
+godmode: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

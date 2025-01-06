@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480968727067
+  lastteleport: 1480809086722
+  logout: 1480968758706
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -647.3259302510334
+  y: 64.0
+  z: -718.2030046478781
+  yaw: -262.4256896972656
+  pitch: 17.539470672607422
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -283.9626492195515
+  y: 65.0
+  z: 393.69999998807907
+  yaw: 113.9428482055664
+  pitch: 18.630144119262695
+  world-name: ''
+ip-address: 76.68.209.60
+last-account-name: CardinalPoirier
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

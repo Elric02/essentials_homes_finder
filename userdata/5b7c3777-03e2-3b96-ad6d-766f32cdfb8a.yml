@@ -1,0 +1,38 @@
+timestamps:
+  login: 1507714702994
+  logout: 1507714912114
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2164.4295528509138
+  y: 67.0
+  z: 2614.9201957514224
+  yaw: -98.751708984375
+  pitch: 19.575641632080078
+  world-name: ''
+ip-address: 37.70.227.8
+last-account-name: BadWolf831
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

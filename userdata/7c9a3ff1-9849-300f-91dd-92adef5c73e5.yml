@@ -1,0 +1,49 @@
+timestamps:
+  login: 1674573127357
+  lastteleport: 1674569643393
+  logout: 1674573172318
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  kits:
+    stationaute: 1674481043803
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: 1873.7445760887556
+  y: 64.0
+  z: 1497.9348984832227
+  yaw: -101.99896240234375
+  pitch: 25.95003318786621
+  world-name: Althium
+money: '102611.16999999999999187'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -3039.630776791079
+  y: 64.0
+  z: 5790.347553222228
+  yaw: -100.949462890625
+  pitch: 30.30044174194336
+  world-name: world
+homes:
+  b:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3100.255894106608
+    y: 64.0
+    z: 5923.04460290419
+    yaw: 221.10125732421875
+    pitch: 22.500133514404297
+    world-name: world
+afk: false
+ip-address: 86.225.175.231
+last-account-name: steve_mcgarette
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

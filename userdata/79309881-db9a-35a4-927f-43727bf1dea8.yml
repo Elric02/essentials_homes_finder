@@ -1,0 +1,38 @@
+timestamps:
+  login: 1596037452846
+  logout: 1596038014545
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: Nether
+  x: -5.894813808150072
+  y: 37.0
+  z: -2.425177835847719
+  yaw: 205.77899169921875
+  pitch: 17.250036239624023
+  world-name: ''
+ip-address: 78.228.102.83
+last-account-name: JEAN_PIC
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

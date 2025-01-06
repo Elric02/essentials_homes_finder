@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.214.100.157
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731451814350
+  login: 1731451728603
+money: '0'
+last-account-name: Naaskel
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.5269302136004
+  y: 81.0
+  z: -3110.997148930038
+  yaw: -56.54806137084961
+  pitch: 5.699970722198486
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 412.38409800523607
+  y: 82.24918707874468
+  z: -3105.1298143798454
+  yaw: -54.897911071777344
+  pitch: 8.400029182434082

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1505066234435
+  logout: 1505066323948
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.59151263378402
+  y: 64.0
+  z: -13.84286644696429
+  yaw: -328.9972839355469
+  pitch: -10.8525972366333
+  world-name: ''
+ip-address: 89.94.176.53
+last-account-name: mama31
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

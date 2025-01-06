@@ -1,0 +1,47 @@
+timestamps:
+  login: 1583587770788
+  logout: 1583584001418
+  lastteleport: 1583588837083
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 111.10502973375682
+  y: 63.0
+  z: 41.333567547313045
+  yaw: 99.42854309082031
+  pitch: 27.178646087646484
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.05652414568164
+  y: 63.0
+  z: 38.6947057485146
+  yaw: -336.9206848144531
+  pitch: 15.328686714172363
+  world-name: ''
+homes:
+  cobol:
+    world: Ressource
+    x: -5836.12191726315
+    y: 80.0
+    z: -2277.300000011921
+    yaw: -22.199846267700195
+    pitch: -0.8999941349029541
+    world-name: ''
+money: '0'
+ip-address: 82.247.214.218
+last-account-name: zebra6
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

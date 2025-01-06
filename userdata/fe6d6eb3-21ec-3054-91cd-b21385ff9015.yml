@@ -1,0 +1,63 @@
+timestamps:
+  login: 1608753661367
+  lastteleport: 1608757419467
+  logout: 1608759388180
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1349.3551718754536
+  y: 92.0
+  z: 2924.3045970274616
+  yaw: 276.737548828125
+  pitch: -9.899951934814453
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  maison:
+    world: world
+    x: -2729.5569280842024
+    y: 82.0625
+    z: -184.95187854191613
+    yaw: 220.54505920410156
+    pitch: 19.364181518554688
+    world-name: ''
+  shop:
+    world: world
+    x: -2784.734535217275
+    y: 75.0
+    z: -93.38181716079069
+    yaw: 95.97248077392578
+    pitch: 18.450231552124023
+    world-name: ''
+  mesa:
+    world: Ressource
+    x: 1417.9256603300307
+    y: 16.0
+    z: 2896.7859167561783
+    yaw: 155.2611083984375
+    pitch: 42.60039138793945
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -2730.7633999856475
+  y: 82.0625
+  z: -185.86900181569936
+  yaw: 83.52099609375
+  pitch: 20.849411010742188
+  world-name: ''
+ip-address: 88.161.0.131
+last-account-name: balkany
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

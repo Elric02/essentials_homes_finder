@@ -1,0 +1,38 @@
+timestamps:
+  login: 1554666173068
+  lastteleport: 1554666838570
+  logout: 1554668071889
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2928.6099455388426
+  y: 70.0
+  z: -1578.4936475522563
+  yaw: -142.95004272460938
+  pitch: 25.199995040893555
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2076.3408384776963
+  y: 93.0
+  z: -3967.4168445495256
+  yaw: 109.80014038085938
+  pitch: 54.29998779296875
+  world-name: ''
+money: '0'
+ip-address: 86.243.94.1
+last-account-name: Ray81194
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

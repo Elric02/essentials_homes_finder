@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488988178214
+  logout: 1488988213535
+  lastteleport: 1487359452887
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 143.11932577044587
+  y: 63.0
+  z: 7.8555781314053
+  yaw: -220.80458068847656
+  pitch: 23.266101837158203
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 215.89868175268936
+  y: 63.0
+  z: -66.38714944558399
+  yaw: -95.7679443359375
+  pitch: 40.21778106689453
+  world-name: ''
+money: '0'
+ip-address: 90.33.26.204
+last-account-name: NikerdrakYT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

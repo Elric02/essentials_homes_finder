@@ -1,0 +1,65 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.35.169.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1672833270263
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672834042639
+  login: 1672832336882
+  kits:
+    stationaute: 1672733622057
+money: '500.0'
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -3417.5
+  y: 64.0
+  z: -3305.5
+  yaw: 88.07937622070312
+  pitch: 0.0
+last-account-name: oneill25
+logoutlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -0.9182149047066175
+  y: 90.0
+  z: 0.3636959266272354
+  yaw: 78.44718933105469
+  pitch: -0.26422953605651855
+homes:
+  mais:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -3415.248821322987
+    y: 64.0
+    z: -3304.9222965563736
+    yaw: -100.47116088867188
+    pitch: 8.550535202026367
+  mine:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -2117.300000011921
+    y: 2.0
+    z: -2505.300000011921
+    yaw: 178.474853515625
+    pitch: 17.849376678466797
+  mine2:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -2094.958572096477
+    y: -59.0
+    z: -2464.5051079732916
+    yaw: 14.644940376281738
+    pitch: 4.3493971824646

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1504006013030
+  lastteleport: 1504013818861
+  logout: 1504013907147
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.4430955645668
+  y: 63.0
+  z: 34.785823192805296
+  yaw: -80.90685272216797
+  pitch: 24.853076934814453
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: 6575.465554962589
+    y: 141.875
+    z: -2653.198065415733
+    yaw: 356.6498107910156
+    pitch: 20.336668014526367
+    world-name: ''
+  nether:
+    world: world_nether
+    x: -4312.169323539417
+    y: 40.0
+    z: 5568.833805791568
+    yaw: 98.9788818359375
+    pitch: 33.533992767333984
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 6572.997566914769
+  y: 141.875
+  z: -2654.1844274351242
+  yaw: 77.696044921875
+  pitch: 26.490392684936523
+  world-name: ''
+ip-address: 87.66.107.100
+last-account-name: Feazunder
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

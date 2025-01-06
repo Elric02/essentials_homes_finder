@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.213.155.143
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1729541327538
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731914564956
+  login: 1731914563981
+money: '50.0'
+last-account-name: Zackbulle
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 216.2883394644062
+  y: 132.0
+  z: 140.41418952239687
+  yaw: -87.42889404296875
+  pitch: 2.100370407104492
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -72.13402973731887
+  y: 65.0
+  z: -479.67307989285996
+  yaw: -99.9156494140625
+  pitch: 36.44975280761719
+homes:
+  home:
+    world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+    world-name: plot
+    x: -64.39764640715366
+    y: 65.0
+    z: -451.2747760378114
+    yaw: -55.06622314453125
+    pitch: 15.599723815917969

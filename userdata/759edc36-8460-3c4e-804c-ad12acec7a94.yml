@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.162.67.239
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1633641649681
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633692255432
+  login: 1633691827878
+money: '0'
+last-account-name: WhoDoctor37
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1576.0536098699033
+  y: 65.0
+  z: 4061.055247150081
+  yaw: 291.750244140625
+  pitch: 30.000017166137695
+homes:
+  zap:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1599.8775552303189
+    y: 48.0
+    z: -2988.9038546633674
+    yaw: -285.4587097167969
+    pitch: 21.449935913085938
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1576.1233472092144
+    y: 65.0
+    z: 4060.073261531829
+    yaw: 46.49981689453125
+    pitch: 13.200004577636719
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1590.7077187205507
+  y: 69.9375
+  z: -2972.5444821696947
+  yaw: -197.07766723632812
+  pitch: 2.099829912185669

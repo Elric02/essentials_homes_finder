@@ -1,0 +1,47 @@
+timestamps:
+  login: 1539360958442
+  lastteleport: 1538426869072
+  logout: 1539360993334
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4367.85021049221
+  y: 76.0
+  z: -3460.978181883488
+  yaw: -148.1999969482422
+  pitch: 52.6500129699707
+  world-name: ''
+money: '0'
+homes:
+  mine:
+    world: Ressource
+    x: -1417.699999988079
+    y: 26.0
+    z: 524.8444656416409
+    yaw: -111.8089599609375
+    pitch: 9.150126457214355
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 158.82151091272647
+  y: 64.0
+  z: 10.456166452643567
+  yaw: 85.17929077148438
+  pitch: 3.0286552906036377
+  world-name: ''
+ip-address: 77.136.86.249
+last-account-name: SkyLord_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

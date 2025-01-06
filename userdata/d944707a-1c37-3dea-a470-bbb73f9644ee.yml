@@ -1,0 +1,38 @@
+timestamps:
+  login: 1581516623551
+  lastteleport: 1581274334276
+  logout: 1581517047322
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 72.9659384761547
+  y: 11.0
+  z: -2629.6026601607805
+  yaw: 89.13536071777344
+  pitch: 17.400529861450195
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: -238.6794345717765
+  y: 21.0
+  z: -2678.445190784254
+  yaw: -263.08013916015625
+  pitch: 10.199769973754883
+  world-name: ''
+ip-address: 185.216.24.52
+last-account-name: MlleIlona
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

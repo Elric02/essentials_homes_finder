@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508484984699
+  logout: 1508484998568
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 161.6385638755446
+  y: 64.0
+  z: 22.191944251246653
+  yaw: 146.78878784179688
+  pitch: 26.250017166137695
+  world-name: ''
+ip-address: 89.2.246.158
+last-account-name: Yolo_Seby_YT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

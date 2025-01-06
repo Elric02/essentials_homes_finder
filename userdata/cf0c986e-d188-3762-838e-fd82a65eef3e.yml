@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498166058383
+  logout: 1498166296697
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 43.017321642760834
+  y: 64.0
+  z: 9.363918857055392
+  yaw: -229.69671630859375
+  pitch: -6.150038242340088
+  world-name: ''
+ip-address: 70.82.37.197
+last-account-name: SgtBolt
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

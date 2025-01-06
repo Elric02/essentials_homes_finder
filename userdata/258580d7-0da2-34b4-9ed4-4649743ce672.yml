@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480873329159
+  lastteleport: 1480873841108
+  logout: 1480874030024
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -146.76049610904522
+  y: 47.0625
+  z: 506.35401945810736
+  yaw: 270.8487548828125
+  pitch: 8.399983406066895
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4780.239295460634
+  y: 69.0
+  z: -322.00623295372884
+  yaw: -236.42138671875
+  pitch: 5.849999904632568
+  world-name: ''
+ip-address: 85.170.97.134
+last-account-name: funnybeber
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

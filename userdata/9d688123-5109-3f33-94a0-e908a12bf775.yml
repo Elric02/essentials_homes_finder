@@ -1,0 +1,38 @@
+timestamps:
+  login: 1564419976557
+  lastteleport: 1564421641708
+  logout: 1564423118281
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -621.4673655134096
+  y: 65.0
+  z: 346.31076279097147
+  yaw: -128.0811767578125
+  pitch: 32.70005416870117
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 208.0735061329658
+  y: 64.5
+  z: -40.82173932705375
+  yaw: -174.92022705078125
+  pitch: 4.5286078453063965
+  world-name: ''
+ip-address: 31.36.81.41
+last-account-name: LaBriocheChaude
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

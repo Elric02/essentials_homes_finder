@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499021035610
+  lastteleport: 1499021126782
+  logout: 1499021310856
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.78607993905604
+  y: 66.0
+  z: 19.22883633153026
+  yaw: -90.3609390258789
+  pitch: 4.074514389038086
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 2072.4130726709845
+  y: 73.0
+  z: -2804.0746725046783
+  yaw: -326.8497314453125
+  pitch: 14.700008392333984
+  world-name: ''
+ip-address: 78.229.142.172
+last-account-name: dragon310
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

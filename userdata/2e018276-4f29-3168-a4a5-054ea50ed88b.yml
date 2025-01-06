@@ -1,0 +1,38 @@
+timestamps:
+  login: 1611093097111
+  logout: 1611094025811
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 164.53293600831512
+  y: 64.0
+  z: 16.946630582746067
+  yaw: 292.2921142578125
+  pitch: 14.69999885559082
+  world-name: ''
+money: '0'
+ip-address: 108.171.72.82
+last-account-name: niicotron
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

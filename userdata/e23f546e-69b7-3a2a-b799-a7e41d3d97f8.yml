@@ -1,0 +1,38 @@
+timestamps:
+  login: 1603134537562
+  lastteleport: 1603135140746
+  logout: 1603135179095
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1459.1586664483093
+  y: 64.0
+  z: -2167.1537030196087
+  yaw: 0.21786212921142578
+  pitch: -20.13445472717285
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.95242808237919
+  y: 63.0
+  z: 59.41304706229096
+  yaw: -50.48583984375
+  pitch: -2.583136796951294
+  world-name: ''
+ip-address: 85.190.77.57
+last-account-name: Petit_Ortolan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

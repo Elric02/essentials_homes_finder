@@ -1,0 +1,38 @@
+timestamps:
+  login: 1515861509949
+  lastteleport: 1515861622345
+  logout: 1515861969221
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3421.5151983285596
+  y: 68.0
+  z: -5907.119581902853
+  yaw: 49.34988784790039
+  pitch: 3.2999939918518066
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1798.5921312575554
+  y: 62.0
+  z: 3510.2700331874926
+  yaw: 262.92578125
+  pitch: 40.53042221069336
+  world-name: ''
+ip-address: 78.220.163.18
+last-account-name: OpakeZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

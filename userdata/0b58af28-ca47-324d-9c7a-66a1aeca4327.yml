@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498244431408
+  lastteleport: 1498244494248
+  logout: 1498244525455
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 198.35931990459792
+  y: 66.0
+  z: 43.931085312801976
+  yaw: -354.66790771484375
+  pitch: -1.449171543121338
+  world-name: ''
+logoutlocation:
+  world: world_nether
+  x: -4461.430877552045
+  y: 84.0
+  z: 5701.516852156439
+  yaw: 196.62445068359375
+  pitch: 9.68457317352295
+  world-name: ''
+ip-address: 90.9.242.250
+last-account-name: Isithran_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

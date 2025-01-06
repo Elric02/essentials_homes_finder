@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482423377300
+  lastteleport: 1482423440147
+  logout: 1482423439381
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.43103715578783
+  y: 63.0
+  z: 50.83033967992323
+  yaw: -233.9409637451172
+  pitch: -10.938005447387695
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4836.5
+  y: 84.0
+  z: -462.5
+  yaw: -90.62261962890625
+  pitch: -10.200005531311035
+  world-name: ''
+ip-address: 80.219.212.181
+last-account-name: MrADiL_YTHCK
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

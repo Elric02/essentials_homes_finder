@@ -1,0 +1,63 @@
+timestamps:
+  login: 1514306927176
+  lastteleport: 1512824532269
+  logout: 1514307010278
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -8456.740725051726
+  y: 88.0
+  z: -759.5254578233847
+  yaw: -254.999755859375
+  pitch: 83.9998550415039
+  world-name: ''
+money: '0'
+homes:
+  gravier:
+    world: Ressource
+    x: -2901.4033777316026
+    y: 76.0
+    z: 755.1834785115147
+    yaw: 268.2000427246094
+    pitch: 14.400003433227539
+    world-name: ''
+  a:
+    world: world
+    x: -7807.35806392336
+    y: 71.0
+    z: -1244.85097494837
+    yaw: -157.75787353515625
+    pitch: 20.072345733642578
+    world-name: ''
+  pro:
+    world: Ressource
+    x: -5499.300000011921
+    y: 11.0
+    z: -1926.7096888612914
+    yaw: 50.8466796875
+    pitch: 48.75031661987305
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -8446.328364005667
+  y: 70.0
+  z: -737.6571350371224
+  yaw: 120.29454040527344
+  pitch: 4.050008773803711
+  world-name: ''
+afk: false
+ip-address: 90.50.55.101
+last-account-name: Nanodry
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

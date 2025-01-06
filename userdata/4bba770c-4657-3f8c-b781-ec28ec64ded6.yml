@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617874563139
+  logout: 1617875299786
+  lastteleport: 1617822700758
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 149.32789370701408
+  y: 96.0
+  z: -43.74410089847484
+  yaw: 73.25432586669922
+  pitch: 41.825904846191406
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.2597098344368
+  y: 72.84403584128806
+  z: 11.929930492732032
+  yaw: -84.39541625976562
+  pitch: -56.87413787841797
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 88.168.94.88
+last-account-name: Bouteille2Koka
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

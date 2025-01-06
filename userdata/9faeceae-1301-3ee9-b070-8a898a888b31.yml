@@ -1,0 +1,55 @@
+timestamps:
+  login: 1621263652691
+  lastteleport: 1621266021008
+  logout: 1621266079810
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 12.480879397296738
+  y: 22.0
+  z: 411.1078754634483
+  yaw: 17.878173828125
+  pitch: 13.199958801269531
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -8.187625053628052
+  y: 12.0
+  z: 427.5710959110525
+  yaw: 152.25103759765625
+  pitch: 7.199947834014893
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -2559.83924238853
+    y: 77.0
+    z: -190.7533904579025
+    yaw: 170.62843322753906
+    pitch: 36.59996795654297
+    world-name: ''
+  mine:
+    world: Ressource
+    x: -8.187625053628052
+    y: 12.0
+    z: 427.5710959110525
+    yaw: 187.650634765625
+    pitch: 19.499950408935547
+    world-name: ''
+ip-address: 92.184.97.204
+last-account-name: PrepaBio
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

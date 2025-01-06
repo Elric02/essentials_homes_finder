@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615627834629
+  lastteleport: 1615627928983
+  logout: 1615630015278
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.40753007399945
+  y: 63.0
+  z: 65.1042216912375
+  yaw: 236.72445678710938
+  pitch: 15.816190719604492
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 3416.8022707241626
+  y: 77.0
+  z: -3817.956586246525
+  yaw: 10.282975196838379
+  pitch: 22.215591430664062
+  world-name: ''
+ip-address: 77.134.142.115
+last-account-name: Xavier
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1565180767285
+  lastteleport: 1565181171564
+  logout: 1565181412467
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5360.984563576468
+  y: 64.0
+  z: 1401.0811559359388
+  yaw: -281.44744873046875
+  pitch: 2.4346940517425537
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4792.603373367861
+  y: 73.0
+  z: -1985.2473907162916
+  yaw: -224.84912109375
+  pitch: 1.8000504970550537
+  world-name: ''
+ip-address: 176.154.55.237
+last-account-name: naytemair50
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

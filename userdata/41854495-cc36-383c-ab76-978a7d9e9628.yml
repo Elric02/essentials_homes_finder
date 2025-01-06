@@ -1,0 +1,47 @@
+timestamps:
+  login: 1540820606234
+  lastteleport: 1540821277917
+  logout: 1540821415230
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 135.9835029249147
+  y: 66.0
+  z: -130.57792674190443
+  yaw: -214.23345947265625
+  pitch: 23.375690460205078
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 362.7891129095532
+  y: 53.875
+  z: -6309.699999988079
+  yaw: 75.8909912109375
+  pitch: 59.788021087646484
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 362.57944607609056
+    y: 53.0
+    z: -6304.26152653812
+    yaw: 224.26007080078125
+    pitch: 22.7075252532959
+    world-name: ''
+muted: false
+ip-address: 89.82.92.142
+last-account-name: Illyes
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

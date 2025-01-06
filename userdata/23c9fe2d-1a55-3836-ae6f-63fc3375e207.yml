@@ -1,0 +1,47 @@
+timestamps:
+  login: 1539358407498
+  logout: 1539358412304
+  lastteleport: 1537095600543
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -802.524042115825
+  y: 65.0
+  z: -3470.300000011921
+  yaw: 186.7498779296875
+  pitch: 26.09994125366211
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -290.69999998807907
+  y: 63.0
+  z: 4984.306669622194
+  yaw: -89.8499755859375
+  pitch: 14.399985313415527
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: -286.44546731877705
+    y: 64.0
+    z: 4985.968360263243
+    yaw: -353.7000427246094
+    pitch: 25.950002670288086
+    world-name: ''
+ip-address: 90.103.136.120
+last-account-name: shakyni
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

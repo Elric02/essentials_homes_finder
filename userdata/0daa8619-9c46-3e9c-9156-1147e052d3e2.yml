@@ -1,0 +1,47 @@
+timestamps:
+  login: 1498989026409
+  lastteleport: 1498989595471
+  logout: 1498991386386
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5045.16456729396
+  y: 65.00133597911214
+  z: -1521.4614388341658
+  yaw: -254.8499755859375
+  pitch: 17.40001678466797
+  world-name: ''
+homes:
+  d:
+    world: world
+    x: 2573.1973002194763
+    y: 87.0
+    z: -6111.786832796268
+    yaw: 170.40182495117188
+    pitch: 21.449983596801758
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 695.6083802361038
+  y: 61.0
+  z: 2334.4648804607
+  yaw: -45.450191497802734
+  pitch: 48.149993896484375
+  world-name: ''
+muted: false
+afk: false
+ip-address: 90.104.250.170
+last-account-name: dark_blaine
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

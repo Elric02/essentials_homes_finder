@@ -1,0 +1,47 @@
+timestamps:
+  login: 1493216433450
+  lastteleport: 1493218951557
+  logout: 1493219091159
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.47489301963074
+  y: 63.0
+  z: 5.229503303417463
+  yaw: -194.3374786376953
+  pitch: 10.811203956604004
+  world-name: ''
+money: '0'
+homes:
+  faille:
+    world: world
+    x: 2382.789554928609
+    y: 76.0
+    z: -1427.3312283349896
+    yaw: -294.3429260253906
+    pitch: 31.554040908813477
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2405.300000011921
+  y: 46.0
+  z: -1424.6755786293322
+  yaw: 103.47628021240234
+  pitch: 3.1682541370391846
+  world-name: ''
+ip-address: 78.200.115.60
+last-account-name: HAWKS_S
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

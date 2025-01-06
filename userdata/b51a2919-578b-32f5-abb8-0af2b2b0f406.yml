@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.142.197.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684254564809
+  login: 1684254521964
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.2216233780588
+  y: 81.0
+  z: -3111.0457110946368
+  yaw: -14.332571029663086
+  pitch: 3.682000160217285
+last-account-name: Voryx2000
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.2216233780588
+  y: 81.0
+  z: -3111.0457110946368
+  yaw: 83.3714599609375
+  pitch: 64.8844223022461

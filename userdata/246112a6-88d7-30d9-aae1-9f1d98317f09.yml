@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510956968659
+  logout: 1510957064601
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.50552673499283
+  y: 63.0
+  z: 42.835838754651974
+  yaw: -5.51141357421875
+  pitch: 7.001030445098877
+  world-name: ''
+ip-address: 78.243.43.2
+last-account-name: rio75
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

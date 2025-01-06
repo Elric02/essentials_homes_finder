@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479230666124
+  lastteleport: 1479230802766
+  logout: 1479230879588
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5259.751306650619
+  y: 83.0
+  z: 584.4686959235886
+  yaw: -185.1652374267578
+  pitch: 17.741487503051758
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4756.580514793535
+  y: 95.0
+  z: 3742.914848784134
+  yaw: 18.626781463623047
+  pitch: 76.40790557861328
+  world-name: ''
+ip-address: 213.111.54.74
+last-account-name: malolefevre
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

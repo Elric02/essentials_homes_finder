@@ -1,0 +1,38 @@
+timestamps:
+  login: 1556729599217
+  logout: 1556729993507
+  lastteleport: 1556729616114
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 52.66862248026494
+  y: 64.0
+  z: -286.8333422269311
+  yaw: 106.92860412597656
+  pitch: 2.7286667823791504
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 159.13850891579435
+  y: 63.5
+  z: 5.819629769605557
+  yaw: 125.52913665771484
+  pitch: 23.578685760498047
+  world-name: ''
+money: '0'
+ip-address: 90.112.119.179
+last-account-name: Dideee
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

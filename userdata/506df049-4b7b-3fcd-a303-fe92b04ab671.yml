@@ -1,0 +1,38 @@
+timestamps:
+  login: 1534263098749
+  logout: 1534263176363
+  lastteleport: 1483821317238
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 138.08984145903568
+  y: 63.0
+  z: -25.984067085146684
+  yaw: -113.81890869140625
+  pitch: 23.57622528076172
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 228.01775466331162
+  y: 61.0
+  z: -67.89961689182996
+  yaw: 95.60581970214844
+  pitch: 2.157287120819092
+  world-name: ''
+money: '0'
+ip-address: 78.247.56.25
+last-account-name: SiqhoFX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1591722526662
+  logout: 1591723072622
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 137.6409638917905
+  y: 63.0
+  z: -19.809446105110233
+  yaw: 107.98641967773438
+  pitch: 12.466590881347656
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 156.14051871035187
+  y: 64.0
+  z: 8.05519698907884
+  yaw: -272.7076416015625
+  pitch: 35.989688873291016
+  world-name: ''
+ip-address: 77.135.115.195
+last-account-name: Ezthink
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

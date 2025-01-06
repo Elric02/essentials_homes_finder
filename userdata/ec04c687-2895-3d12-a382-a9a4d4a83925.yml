@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.145.64.245
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1651090723946
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1651179068357
+  login: 1651176443019
+money: '0'
+last-account-name: diiabllooo
+lastlocation:
+  world: 93714a8d-e743-4d67-95ef-b0f6f725600b
+  world-name: End
+  x: -396.01786887576776
+  y: 1.375
+  z: 541.4022068849408
+  yaw: 61.979515075683594
+  pitch: 2.8495640754699707
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 768.4407676240834
+  y: 55.5625
+  z: -3328.699999988079
+  yaw: 0.6000164747238159
+  pitch: 41.25006103515625
+homes:
+  coupine:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 771.8133926706017
+    y: 67.0
+    z: -3327.376579255028
+    yaw: 47.400325775146484
+    pitch: 22.049972534179688
+  mine:
+    world: 3f7450b9-b04e-4475-a8a5-8b4a0f535ddf
+    world-name: Ressource
+    x: 2875.5065108082636
+    y: -24.0
+    z: -484.69999998807907
+    yaw: 130.25196838378906
+    pitch: 66.89976501464844

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1521575286711
+  lastteleport: 1521578181426
+  logout: 1521578260357
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -624.4663437440277
+  y: 64.0
+  z: -728.42697265221
+  yaw: -32.673583984375
+  pitch: 13.137192726135254
+  world-name: ''
+homes:
+  mine:
+    world: Ressource
+    x: 255.904016634603
+    y: 12.0
+    z: -799.6999999880791
+    yaw: -316.261962890625
+    pitch: 23.738239288330078
+    world-name: ''
+  home:
+    world: world
+    x: -5083.109489256086
+    y: 63.0
+    z: 1519.7731129111442
+    yaw: -90.82290649414062
+    pitch: 10.400035858154297
+    world-name: ''
+  foret:
+    world: Ressource
+    x: 6957.552054120928
+    y: 66.0
+    z: -3105.4512467240415
+    yaw: 2.627685546875
+    pitch: 19.801177978515625
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5068.338973658986
+  y: 63.0
+  z: 1513.3993659744806
+  yaw: -48.449771881103516
+  pitch: -6.482364654541016
+  world-name: ''
+afk: false
+muted: false
+ip-address: 176.137.250.99
+last-account-name: NTX_puiseux4ever
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

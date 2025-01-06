@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 207.253.166.234
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682196532171
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682196636499
+  login: 1682195588986
+money: '0'
+last-account-name: Polopro10
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.523177074857
+  y: 81.0
+  z: -3110.189908792531
+  yaw: -94.49718475341797
+  pitch: 8.849977493286133
+logoutlocation:
+  world: c69d7224-05f0-46c7-88a5-c9c88dc483cb
+  world-name: Ressource
+  x: 121.71708799787658
+  y: 63.0
+  z: -104.15768616811229
+  yaw: 28.345733642578125
+  pitch: 0.18563009798526764

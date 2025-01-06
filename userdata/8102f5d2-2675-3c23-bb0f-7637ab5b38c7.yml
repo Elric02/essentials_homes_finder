@@ -1,0 +1,38 @@
+timestamps:
+  login: 1612261699683
+  lastteleport: 1612263966499
+  logout: 1612264511653
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 112.3828902771227
+  y: 63.0
+  z: 40.767779027934075
+  yaw: -271.74432373046875
+  pitch: 14.3758544921875
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1611.487584113675
+  y: 64.0
+  z: -2026.1566893461586
+  yaw: -91.27201080322266
+  pitch: -0.1500733643770218
+  world-name: ''
+ip-address: 176.143.81.99
+last-account-name: neyzix35
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

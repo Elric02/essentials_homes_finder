@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482253042256
+  lastteleport: 1482070407697
+  logout: 1482253657980
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -239.69186401367188
+  pitch: 9.122739791870117
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4633.6875
+  y: 62.07326432466507
+  z: -3727.3184799259775
+  yaw: -52.481632232666016
+  pitch: 85.32762908935547
+  world-name: ''
+ip-address: 81.251.104.11
+last-account-name: Ar0xFX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

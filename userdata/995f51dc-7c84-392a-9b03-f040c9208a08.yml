@@ -1,0 +1,38 @@
+timestamps:
+  login: 1583888840216
+  logout: 1583888850880
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 158.03819347736493
+  y: 64.0
+  z: 14.769797168540848
+  yaw: 333.4897766113281
+  pitch: 9.893440246582031
+  world-name: ''
+ip-address: 74.59.93.38
+last-account-name: Joueur1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

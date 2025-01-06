@@ -1,0 +1,47 @@
+timestamps:
+  login: 1551887281272
+  lastteleport: 1551887939851
+  logout: 1551889971229
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 990.3497697760957
+  y: 72.0
+  z: 2856.6422908703357
+  yaw: 301.45635986328125
+  pitch: -3.3000881671905518
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1003.562861091568
+  y: 48.0
+  z: 2858.764737656405
+  yaw: 157.48681640625
+  pitch: 15.900040626525879
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 1004.6022689235123
+    y: 18.0
+    z: 2741.8012198231136
+    yaw: -91.23749542236328
+    pitch: 0.45003125071525574
+    world-name: ''
+ip-address: 176.135.173.73
+last-account-name: Ikky
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

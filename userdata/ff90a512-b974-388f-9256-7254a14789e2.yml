@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586264973569
+  lastteleport: 1586265090020
+  logout: 1586265855209
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 215.11220729090618
+  y: 63.0
+  z: 19.26832457812136
+  yaw: -90.92261505126953
+  pitch: 23.12862205505371
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1745.1948181582995
+  y: 101.0
+  z: 3180.7356414120263
+  yaw: -348.919921875
+  pitch: 54.900028228759766
+  world-name: ''
+money: '0'
+ip-address: 90.49.116.48
+last-account-name: spagalapof
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

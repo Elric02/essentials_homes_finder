@@ -1,0 +1,47 @@
+timestamps:
+  login: 1596569408816
+  lastteleport: 1596128916054
+  logout: 1596569452263
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1189.5
+  y: 65.0
+  z: 4165.5
+  yaw: 113.85001373291016
+  pitch: 9.600000381469727
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 6208.5
+  y: 68.5
+  z: 2739.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+homes:
+  rider:
+    world: world
+    x: 879.0981702795622
+    y: 70.0
+    z: 5881.300000011984
+    yaw: -90.158935546875
+    pitch: 43.80006790161133
+    world-name: ''
+jailed: false
+ip-address: 88.122.156.15
+last-account-name: niniro
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

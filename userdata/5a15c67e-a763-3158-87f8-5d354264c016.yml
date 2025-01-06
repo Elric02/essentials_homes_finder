@@ -1,0 +1,38 @@
+timestamps:
+  login: 1535384974596
+  lastteleport: 1535385050010
+  logout: 1535385117774
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.78809425905465
+  y: 64.0
+  z: 15.42112856432374
+  yaw: -353.3041687011719
+  pitch: 3.990652561187744
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 145.19288328789168
+  y: 66.0
+  z: 102.42553854586549
+  yaw: -89.72293090820312
+  pitch: 11.578661918640137
+  world-name: ''
+ip-address: 176.181.248.195
+last-account-name: EviilRegals
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

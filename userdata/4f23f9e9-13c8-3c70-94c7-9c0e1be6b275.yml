@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487509786121
+  lastteleport: 1487509552932
+  logout: 1487510864854
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.91524973745004
+  y: 63.0
+  z: 47.1524309053978
+  yaw: -181.91175842285156
+  pitch: 0.5134519338607788
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5820.237500011921
+  y: 67.0
+  z: 4439.35477785911
+  yaw: -269.87603759765625
+  pitch: 86.6419677734375
+  world-name: ''
+ip-address: 90.54.46.115
+last-account-name: matetgame
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

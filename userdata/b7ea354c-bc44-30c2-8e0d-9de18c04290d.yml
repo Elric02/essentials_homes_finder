@@ -1,0 +1,38 @@
+timestamps:
+  login: 1513452043915
+  logout: 1513452427825
+  lastteleport: 1513452174453
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -169.33176155109686
+  y: 62.0
+  z: -205.30000001192093
+  yaw: 350.8291931152344
+  pitch: 60.60350036621094
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+ip-address: 86.212.9.174
+last-account-name: vendredi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

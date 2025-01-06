@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488644613483
+  logout: 1488644971324
+  lastteleport: 1488644642333
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 513.6999999880791
+  y: 10.0
+  z: 167.69999998807907
+  yaw: 112.96160888671875
+  pitch: 30.0885009765625
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.0823195354298
+  y: 64.0
+  z: 19.074159895621577
+  yaw: 43.46615219116211
+  pitch: -1.4557900428771973
+  world-name: ''
+money: '0'
+ip-address: 88.179.132.238
+last-account-name: Mayomat
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

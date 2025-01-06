@@ -1,0 +1,38 @@
+timestamps:
+  login: 1496424642017
+  lastteleport: 1496424685464
+  logout: 1496424785542
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.44013658590387
+  y: 63.0
+  z: 48.33968863675609
+  yaw: -288.4974365234375
+  pitch: -5.302601337432861
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4856.9097257198455
+  y: 72.0
+  z: -501.95191838757665
+  yaw: -137.1219024658203
+  pitch: 29.249977111816406
+  world-name: ''
+ip-address: 88.164.93.181
+last-account-name: Narkotiix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

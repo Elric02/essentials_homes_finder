@@ -1,0 +1,38 @@
+timestamps:
+  login: 1539795578329
+  logout: 1539798495339
+  lastteleport: 1539797672717
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.61885147777895
+  y: 63.0
+  z: 38.678838976490056
+  yaw: -10.177148818969727
+  pitch: 9.081774711608887
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -334.3859558105469
+  pitch: 27.192190170288086
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 91.181.168.131
+last-account-name: DrahoxYTB
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

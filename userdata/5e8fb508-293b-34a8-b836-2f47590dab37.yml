@@ -1,0 +1,47 @@
+timestamps:
+  login: 1523717327747
+  logout: 1523718989602
+  lastteleport: 1523718792945
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.06539882420225
+  y: 64.0
+  z: 8.636370693764462
+  yaw: 3.129179000854492
+  pitch: 4.678670406341553
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1436.9095201632267
+  y: 63.0
+  z: -2053.723513523442
+  yaw: 358.2769775390625
+  pitch: 6.585964679718018
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1896.1780487054232
+    y: 64.0
+    z: -4152.80275969629
+    yaw: 121.126953125
+    pitch: 18.599987030029297
+    world-name: ''
+ip-address: 86.74.65.86
+last-account-name: TerraFlow
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

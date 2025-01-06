@@ -1,0 +1,55 @@
+timestamps:
+  login: 1529000849237
+  lastteleport: 1529001759321
+  logout: 1529002324881
+  jail: 0
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6570.216167064053
+  y: 75.0
+  z: -13.384678739246175
+  yaw: 72.70970153808594
+  pitch: 20.024415969848633
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 6511.945121905601
+    y: 105.0
+    z: 16.47557165229314
+    yaw: 6.573486328125
+    pitch: 9.549598693847656
+    world-name: ''
+  village:
+    world: Ressource
+    x: -223.57921527772137
+    y: 62.0
+    z: -2275.300000011921
+    yaw: -0.6035095453262329
+    pitch: 26.230154037475586
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 357.62382925882457
+  y: 76.0
+  z: 1826.1390499603942
+  yaw: 211.5289764404297
+  pitch: 3.979696750640869
+  world-name: ''
+afk: false
+jailed: false
+muted: false
+ip-address: 78.223.33.52
+last-account-name: EYDENS
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

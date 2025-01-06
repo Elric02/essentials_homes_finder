@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467976897204
+  logout: 1467977290815
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4063.2494131905537
+  y: 89.0
+  z: -6241.699999988079
+  yaw: -116.24169921875
+  pitch: -7.212162245195941E-7
+  world-name: ''
+ip-address: 93.27.161.8
+last-account-name: Damio66
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

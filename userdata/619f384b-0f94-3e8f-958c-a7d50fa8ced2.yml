@@ -1,0 +1,55 @@
+timestamps:
+  login: 1553193897415
+  lastteleport: 1553193918416
+  logout: 1553193955395
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -961.2961389859726
+  y: 78.0
+  z: -1533.1448430101138
+  yaw: -209.86520385742188
+  pitch: 18.541263580322266
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -4488.486367376043
+  y: 91.0
+  z: 4140.7126339876495
+  yaw: 109.34078216552734
+  pitch: 31.77665901184082
+  world-name: ''
+homes:
+  b:
+    world: world
+    x: -4457.100240979505
+    y: 91.0
+    z: 4182.1626393780225
+    yaw: -5.039439678192139
+    pitch: 6.321630001068115
+    world-name: ''
+  mine:
+    world: Ressource
+    x: -794.3527840051929
+    y: 15.0
+    z: -1638.6284940660933
+    yaw: -84.80189514160156
+    pitch: 53.36654281616211
+    world-name: ''
+ip-address: 77.132.101.72
+last-account-name: acilNos
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

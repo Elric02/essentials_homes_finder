@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.55.159.182
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1666484348817
+  login: 1666484325123
+money: '0'
+last-account-name: GLASSgaming
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.58526539594374
+  y: 81.0
+  z: -3111.949583713495
+  yaw: 18.669668197631836
+  pitch: 42.59060287475586
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.58526539594374
+  y: 81.0
+  z: -3111.949583713495
+  yaw: 9.511466979980469
+  pitch: 15.726548194885254

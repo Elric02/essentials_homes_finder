@@ -1,0 +1,47 @@
+timestamps:
+  login: 1470384230340
+  logout: 1470384936254
+  lastteleport: 1470384776763
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 306.5885720963279
+  y: 76.0
+  z: 789.2934296768294
+  yaw: -49.879852294921875
+  pitch: 4.403938293457031
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1015.5337940575392
+  y: 68.0
+  z: -3822.306552341291
+  yaw: -163.142822265625
+  pitch: 5.875577926635742
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 1017.3060916985233
+    y: 68.0
+    z: -3823.1451631009845
+    yaw: -102.747314453125
+    pitch: 24.543338775634766
+    world-name: ''
+money: '0'
+ip-address: 176.151.39.93
+last-account-name: Louis780
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

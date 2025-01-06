@@ -1,0 +1,98 @@
+timestamps:
+  login: 1727230688328
+  lastteleport: 1723480884463
+  logout: 1727230688475
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  kits:
+    explorateur: 1669327511664
+    stationaute: 1673546119013
+lastlocation:
+  world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+  x: -700.3000000119209
+  y: -61.0
+  z: -2108.5223670399846
+  yaw: 6.468994140625
+  pitch: 80.84990692138672
+  world-name: Ressource
+money: '43698.3899999999995366'
+logoutlocation:
+  world: d097c14e-8288-4547-88dc-d9590a602c7b
+  x: -3416.8866465807814
+  y: 79.5
+  z: 2688.739329168349
+  yaw: 59.01639175415039
+  pitch: 13.500164031982422
+  world-name: Nether
+afk: false
+homes:
+  mobfarm:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6756.443106346431
+    y: 53.0
+    z: 2958.203839781721
+    yaw: 148.1244659423828
+    pitch: 27.149473190307617
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6779.03812364478
+    y: 137.0
+    z: 3006.249833018456
+    yaw: -2.0276622772216797
+    pitch: 17.250131607055664
+  stock:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6776.137615074155
+    y: 87.0
+    z: 3038.5571933436127
+    yaw: 1.1222660541534424
+    pitch: 8.699851036071777
+  roof:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6762.430608943795
+    y: 190.0
+    z: 3014.369164501107
+    yaw: -8.330352783203125
+    pitch: 14.999715805053711
+  books:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3068.826427268161
+    y: 70.0
+    z: 789.6761809718016
+    yaw: -171.73802185058594
+    pitch: 15.449532508850098
+  wardens:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 2343.303908190144
+    y: -34.0
+    z: -1359.4777611822922
+    yaw: -88.5748291015625
+    pitch: 9.149747848510742
+  maison2:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    world-name: Nether
+    x: -3402.482363232819
+    y: 77.0625
+    z: 2685.3947908423856
+    yaw: 109.11679077148438
+    pitch: 15.60015869140625
+ip-address: 185.204.1.184
+last-account-name: MonMauvais
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

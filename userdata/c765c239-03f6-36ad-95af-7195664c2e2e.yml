@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474795456761
+  lastteleport: 1474795483257
+  logout: 1474795540812
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.1413189642898
+  y: 63.0
+  z: 48.611087303916
+  yaw: -281.429931640625
+  pitch: -0.9452404975891113
+  world-name: ''
+logoutlocation:
+  world: Ressources
+  x: 178.3941944912751
+  y: 73.0
+  z: 484.65334773251834
+  yaw: 162.18991088867188
+  pitch: 15.566743850708008
+  world-name: ''
+ip-address: 81.14.39.201
+last-account-name: _DreeZ_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

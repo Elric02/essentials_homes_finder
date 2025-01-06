@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.214.218.33
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671990240555
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671990789205
+  login: 1671990111093
+money: '0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 153.7792653660598
+  y: 63.0
+  z: 7.5538474557659985
+  yaw: -8.703729629516602
+  pitch: -8.54516315460205
+last-account-name: Leondebruxelles
+homes:
+  leon:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 55.14944006902066
+    y: 63.0
+    z: 113.92582859915774
+    yaw: 85.89892578125
+    pitch: 15.832165718078613
+logoutlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: 52.613422376007215
+  y: 68.0
+  z: 108.93198458360182
+  yaw: -1.1207275390625
+  pitch: 15.609399795532227

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1620141252919
+  lastteleport: 1620144603765
+  logout: 1620148355507
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3129.237496271647
+  y: 57.0625
+  z: -2291.5294071389712
+  yaw: 9.277029037475586
+  pitch: 21.150014877319336
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 779.2241365774497
+    y: 139.0
+    z: -2986.9311127856286
+    yaw: 82.86824035644531
+    pitch: 23.84964942932129
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 775.6071351870955
+  y: 105.0
+  z: -3006.5198813876614
+  yaw: -204.6796875
+  pitch: 7.499815940856934
+  world-name: ''
+ip-address: 92.139.161.253
+last-account-name: cyberewolf
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

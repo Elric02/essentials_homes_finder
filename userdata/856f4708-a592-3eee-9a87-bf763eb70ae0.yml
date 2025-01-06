@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.202.158.59
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1658227442731
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1658227465276
+  login: 1658226802968
+money: '0'
+last-account-name: Atchalapotetsoe
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 412.7548273174898
+  y: 65.0
+  z: 114.06043990550435
+  yaw: 140.9073944091797
+  pitch: 16.110830307006836
+logoutlocation:
+  world: c4aa0be1-96e4-4d26-b064-d4d2526e9bea
+  world-name: AlthiumRessource
+  x: 1.5
+  y: 250.0
+  z: 0.5
+  yaw: -1.4991201162338257
+  pitch: 7.499080657958984

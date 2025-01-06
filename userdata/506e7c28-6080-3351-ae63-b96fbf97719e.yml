@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474037258851
+  logout: 1474037359771
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.50429598732836
+  y: 64.0
+  z: 13.127759246015625
+  yaw: -181.1108856201172
+  pitch: 9.474512100219727
+  world-name: ''
+ip-address: 109.215.149.43
+last-account-name: kalemshad
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

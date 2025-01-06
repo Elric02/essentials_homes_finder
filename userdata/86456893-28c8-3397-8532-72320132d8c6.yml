@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.148.240.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1652631763849
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1652631977345
+  login: 1652628612161
+money: '0'
+last-account-name: S69lecrack
+lastlocation:
+  world: 158f63a7-37cc-420e-a860-ab8cb54c9591
+  world-name: Ressource
+  x: 1172.6197849764503
+  y: 72.0
+  z: -672.9044195505505
+  yaw: -28.20501708984375
+  pitch: 24.335853576660156
+homes:
+  tourelle:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -646.0171029902372
+    y: 64.0
+    z: 123.84793966806856
+    yaw: 2.11187744140625
+    pitch: 18.45000648498535
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -646.2837583512005
+  y: 64.0
+  z: 123.88686213756218
+  yaw: 172.6585693359375
+  pitch: -11.700037002563477

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1475596948056
+  lastteleport: 1474036795121
+  logout: 1475597024421
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: 121.2570047711553
+  y: 65.0
+  z: 307.27877795852356
+  yaw: 286.8793640136719
+  pitch: 21.150121688842773
+  world-name: ''
+homes:
+  claim:
+    world: world
+    x: 4812.4943795154195
+    y: 70.0
+    z: -3377.582100636151
+    yaw: -210.61431884765625
+    pitch: -5.7000226974487305
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 4757.053897475923
+  y: 69.0
+  z: -3339.3648380805785
+  yaw: -13.65692138671875
+  pitch: 11.561321258544922
+  world-name: ''
+ip-address: 90.7.195.225
+last-account-name: Blueks
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

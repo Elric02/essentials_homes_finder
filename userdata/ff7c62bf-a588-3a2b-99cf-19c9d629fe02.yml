@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.212.180.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683932065439
+  login: 1683932046793
+money: '0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 146.5
+  y: 124.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+last-account-name: Vanyr
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.5
+  y: 81.0
+  z: -3111.5
+  yaw: -57.13768768310547
+  pitch: -7.306869029998779

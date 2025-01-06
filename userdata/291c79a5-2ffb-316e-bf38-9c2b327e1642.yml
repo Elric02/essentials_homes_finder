@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.15.2.169
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1656094843167
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1656094878018
+  login: 1656094497437
+money: '0'
+last-account-name: NuthyVI
+lastlocation:
+  world: bd63a69b-f162-438e-8437-fbdb5ea04361
+  world-name: Ressource
+  x: -6.594217368842343
+  y: 69.0
+  z: -37.99653405600337
+  yaw: 154.64744567871094
+  pitch: 28.685781478881836
+logoutlocation:
+  world: bd63a69b-f162-438e-8437-fbdb5ea04361
+  world-name: Ressource
+  x: 1768.7179579714393
+  y: 79.0
+  z: -1009.9302045507136
+  yaw: -133.41668701171875
+  pitch: 29.286523818969727

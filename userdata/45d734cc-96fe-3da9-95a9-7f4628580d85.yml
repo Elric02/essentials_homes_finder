@@ -1,0 +1,38 @@
+timestamps:
+  login: 1507988934596
+  lastteleport: 1507989119556
+  logout: 1507989329954
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5317.300000011921
+  y: 65.0
+  z: -1486.3730878198392
+  yaw: -240.30023193359375
+  pitch: -0.5999892950057983
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 85.90505422868442
+  y: 63.0
+  z: 39.893502446164824
+  yaw: -314.3109130859375
+  pitch: 5.274514198303223
+  world-name: ''
+money: '0'
+ip-address: 88.124.216.158
+last-account-name: Lulu7991
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

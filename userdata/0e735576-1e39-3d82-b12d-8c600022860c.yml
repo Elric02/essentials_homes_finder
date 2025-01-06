@@ -1,0 +1,47 @@
+timestamps:
+  login: 1576708264944
+  lastteleport: 1576372660452
+  logout: 1576708557994
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1509.2248315107604
+  y: 68.0
+  z: 1524.1052196581268
+  yaw: 59.700164794921875
+  pitch: 21.899951934814453
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 120.86854483470393
+  y: 63.0
+  z: -35.06715780199416
+  yaw: 286.62896728515625
+  pitch: 9.749967575073242
+  world-name: ''
+jailed: false
+afk: false
+homes:
+  b:
+    world: world
+    x: -106.69999998807907
+    y: 71.0
+    z: 31.30000001192093
+    yaw: -1.817523717880249
+    pitch: 89.54999542236328
+    world-name: ''
+ip-address: 142.59.51.107
+last-account-name: jeangab
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

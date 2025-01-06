@@ -1,0 +1,38 @@
+timestamps:
+  login: 1589381888738
+  lastteleport: 1589381943659
+  logout: 1589382172805
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.6869580507262
+  y: 63.5
+  z: 66.04741418275113
+  yaw: 184.44677734375
+  pitch: 9.39065170288086
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -243.86623312524355
+  y: 71.0
+  z: 13.603990612186251
+  yaw: -272.70330810546875
+  pitch: 22.499980926513672
+  world-name: ''
+ip-address: 90.1.165.67
+last-account-name: FanScarabee5419
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

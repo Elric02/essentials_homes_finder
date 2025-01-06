@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470659472209
+  lastteleport: 1470659519834
+  logout: 1470659570426
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 494.844129313724
+  y: 71.0
+  z: -5479.5886781516065
+  yaw: 20.618328094482422
+  pitch: 29.099620819091797
+  world-name: ''
+muted: false
+jailed: false
+afk: false
+ip-address: 82.243.225.12
+last-account-name: DeathAdder_YTB
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

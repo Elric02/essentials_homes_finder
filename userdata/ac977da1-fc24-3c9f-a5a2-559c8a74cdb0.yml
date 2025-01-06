@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616765261450
+  logout: 1616765300219
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 143.33148184718715
+  y: 69.5
+  z: 102.8575901456699
+  yaw: -31.854185104370117
+  pitch: 1.7406399250030518
+  world-name: ''
+ip-address: 88.162.150.229
+last-account-name: ByclickOfficiel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1585648258880
+  lastteleport: 1585580678168
+  logout: 1585648281412
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -4579.96147968616
+  y: 84.0
+  z: -6169.3438438527055
+  yaw: 10.799901008605957
+  pitch: 20.249971389770508
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 2483.7579189118337
+    y: 67.0
+    z: 2690.93172235789
+    yaw: -271.7998352050781
+    pitch: 18.449987411499023
+    world-name: ''
+  tmrafale:
+    world: world
+    x: 3956.3634193418493
+    y: 63.0
+    z: -4186.150640734833
+    yaw: -285.6182861328125
+    pitch: 11.70020866394043
+    world-name: ''
+  dzhuyzhdu:
+    world: world
+    x: 4262.98813649266
+    y: 77.0
+    z: 5540.27149498134
+    yaw: -67.20030975341797
+    pitch: 24.149816513061523
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 2494.6201931777105
+  y: 75.1212968405392
+  z: 2685.698040366079
+  yaw: -47.2476692199707
+  pitch: 90.0
+  world-name: ''
+ip-address: 92.188.110.18
+last-account-name: Tmrafale
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

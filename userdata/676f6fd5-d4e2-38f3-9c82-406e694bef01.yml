@@ -1,0 +1,38 @@
+timestamps:
+  login: 1612448559297
+  lastteleport: 1612449806199
+  logout: 1612450656746
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 138.7791359693172
+  y: 64.0
+  z: 28.471864863671023
+  yaw: -274.8951416015625
+  pitch: 18.750017166137695
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 158.1016510739031
+  y: 63.0
+  z: 38.30000001192093
+  yaw: 52.55438995361328
+  pitch: 32.075904846191406
+  world-name: ''
+ip-address: 65.94.168.134
+last-account-name: LlamamasterWoW
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

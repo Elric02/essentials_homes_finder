@@ -1,0 +1,38 @@
+timestamps:
+  login: 1629596477144
+  logout: 1629598010340
+  lastteleport: 1629597677235
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressourcenether
+  x: 0.5006707171599561
+  y: 37.0
+  z: -1.5195885207087132
+  yaw: -178.04226684570312
+  pitch: 7.049990177154541
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressourcenether
+  x: 3.7345638449724543
+  y: 20.0
+  z: -15.912105660400204
+  yaw: -57.740264892578125
+  pitch: -90.0
+  world-name: ''
+ip-address: 41.96.212.217
+last-account-name: theenjoyidk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

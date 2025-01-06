@@ -1,0 +1,38 @@
+timestamps:
+  login: 1602865672341
+  logout: 1602865780550
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 148.99107260769185
+  y: 63.0
+  z: 51.81279136125866
+  yaw: 152.64682006835938
+  pitch: 4.440664768218994
+  world-name: ''
+ip-address: 82.243.29.229
+last-account-name: the_silent_fury
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

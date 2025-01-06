@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.113.15.207
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1661951926279
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1662201898446
+  login: 1662201880442
+money: '0'
+last-account-name: Maxouxou7777
+lastlocation:
+  world: bd63a69b-f162-438e-8437-fbdb5ea04361
+  world-name: Ressource
+  x: 560.6130668481039
+  y: 67.0
+  z: -174.32211401938275
+  yaw: 175.1976776123047
+  pitch: 54.449947357177734
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 29.675396215816082
+  y: 65.0
+  z: 70.33106100572867
+  yaw: 79.97665405273438
+  pitch: 10.500240325927734

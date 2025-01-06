@@ -1,0 +1,38 @@
+timestamps:
+  login: 1536949104318
+  logout: 1536949243456
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.49413319373198
+  y: 64.0
+  z: 7.349988961479772
+  yaw: 171.697265625
+  pitch: 10.440677642822266
+  world-name: ''
+ip-address: 188.141.203.232
+last-account-name: titidu64
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

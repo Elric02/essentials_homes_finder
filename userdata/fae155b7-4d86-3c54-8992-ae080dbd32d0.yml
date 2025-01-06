@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483346296803
+  logout: 1483346414819
+  lastteleport: 1483345539870
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.04399240092036
+  y: 63.0
+  z: 45.665517531899596
+  yaw: -237.36126708984375
+  pitch: 9.62452220916748
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5108.702435386095
+  y: 71.0
+  z: -5847.355614957028
+  yaw: 131.8525390625
+  pitch: 39.000083923339844
+  world-name: ''
+money: '0'
+ip-address: 89.94.35.91
+last-account-name: pigman42
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

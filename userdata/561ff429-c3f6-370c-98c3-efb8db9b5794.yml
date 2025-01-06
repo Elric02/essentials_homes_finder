@@ -1,0 +1,47 @@
+timestamps:
+  login: 1564520594206
+  lastteleport: 1564522335435
+  logout: 1564524620421
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -1307.9676332894835
+  y: 69.0
+  z: -1293.2962486004315
+  yaw: -260.547607421875
+  pitch: 4.799957752227783
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 760.6727747205268
+  y: 68.0
+  z: -489.16911009538944
+  yaw: -182.40380859375
+  pitch: 11.699997901916504
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: Ressource
+    x: -1267.8452676928885
+    y: 64.0
+    z: -1287.5962717005232
+    yaw: -279.59991455078125
+    pitch: 19.199975967407227
+    world-name: ''
+ip-address: 2.3.62.110
+last-account-name: Audrey431
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

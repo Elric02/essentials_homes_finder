@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521887551657
+  lastteleport: 1521887643034
+  logout: 1521887740744
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.2459202669517
+  y: 63.0
+  z: 63.04036738352576
+  yaw: 244.93487548828125
+  pitch: 0.37677237391471863
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -240.52857416812438
+  y: 47.0
+  z: 482.88420593875895
+  yaw: 96.2196044921875
+  pitch: 10.286688804626465
+  world-name: ''
+ip-address: 81.53.8.82
+last-account-name: cocacolin22
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

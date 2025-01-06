@@ -1,0 +1,38 @@
+timestamps:
+  login: 1531752392542
+  lastteleport: 1531752682847
+  logout: 1531754257635
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.25150135060596
+  y: 64.0
+  z: 67.00734241698659
+  yaw: -173.04957580566406
+  pitch: 8.329095840454102
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 1328.699999988079
+  y: 15.0
+  z: -297.69999998807907
+  yaw: -287.494873046875
+  pitch: 28.30467414855957
+  world-name: ''
+ip-address: 86.236.27.212
+last-account-name: andy53220
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

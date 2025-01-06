@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516704984665
+  lastteleport: 1516705069049
+  logout: 1516705206656
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.0125707491699
+  y: 63.0
+  z: 65.03398279189221
+  yaw: -165.0530242919922
+  pitch: -2.0093421936035156
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -279.66037851424113
+  y: 65.0
+  z: 373.1729216749169
+  yaw: -242.09959411621094
+  pitch: -1.3500088453292847
+  world-name: ''
+ip-address: 90.85.150.89
+last-account-name: Paulolesang
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

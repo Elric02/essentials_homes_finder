@@ -1,0 +1,38 @@
+timestamps:
+  login: 1522582855359
+  lastteleport: 1491120608918
+  logout: 1522582876131
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.47018547529095
+  y: 63.0
+  z: 44.820158643494935
+  yaw: -339.3610534667969
+  pitch: -3.725489854812622
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -1518.909506744842
+  y: 52.79349116690277
+  z: 1733.559141088277
+  yaw: -264.3052978515625
+  pitch: 0.4500187337398529
+  world-name: ''
+ip-address: 88.174.21.29
+last-account-name: NobodIZperfect
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

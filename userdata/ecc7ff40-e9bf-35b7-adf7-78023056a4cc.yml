@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.163.44.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720485997936
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720486087136
+  login: 1720480386375
+money: '150.0'
+last-account-name: Dynamomino
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -289.446607131756
+  y: 72.0
+  z: 344.2441363586588
+  yaw: 87.4500732421875
+  pitch: 12.00001049041748
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -76.2989962126637
+  y: 119.0
+  z: 184.67431471036022
+  yaw: 100.80072021484375
+  pitch: 18.14984130859375

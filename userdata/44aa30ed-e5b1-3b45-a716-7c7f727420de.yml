@@ -1,0 +1,55 @@
+timestamps:
+  login: 1596127227559
+  lastteleport: 1562183594325
+  logout: 1596127451208
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4843.512900280994
+  y: 75.0
+  z: 4204.328804210481
+  yaw: 74.73147583007812
+  pitch: 38.24964904785156
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4860.585653309259
+  y: 75.0
+  z: 4217.6451556917045
+  yaw: 168.44952392578125
+  pitch: -5.850010395050049
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -4839.963529202307
+    y: 76.0
+    z: 4212.292375380422
+    yaw: -174.2187042236328
+    pitch: 8.808432579040527
+    world-name: ''
+  nether:
+    world: Nether
+    x: -514.062329876348
+    y: 68.0
+    z: 39.398551923756244
+    yaw: 150.71484375
+    pitch: -11.999963760375977
+    world-name: ''
+afk: false
+ip-address: 90.50.200.202
+last-account-name: Roidumineur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

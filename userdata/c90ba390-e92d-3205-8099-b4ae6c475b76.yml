@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472648363786
+  lastteleport: 1472648387471
+  logout: 1472648419400
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -268.847412109375
+  pitch: -6.20259952545166
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 77.29561951632282
+  y: 63.0
+  z: 504.3408742004169
+  yaw: -30.085784912109375
+  pitch: 19.363195419311523
+  world-name: ''
+ip-address: 82.250.27.92
+last-account-name: gamefrk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,64 @@
+timestamps:
+  login: 1478961981545
+  lastteleport: 1478963689158
+  logout: 1478964704874
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2460.184761208056
+  y: 86.0
+  z: 2367.889988930555
+  yaw: 89.87239837646484
+  pitch: 39.044979095458984
+  world-name: ''
+nickname: SoldatAzmog
+homes:
+  home:
+    world: world
+    x: 2153.8536856828823
+    y: 66.0
+    z: -6903.0485804855725
+    yaw: 178.5264892578125
+    pitch: 22.80002212524414
+    world-name: ''
+  clear:
+    world: world
+    x: 2155.1760082657142
+    y: 68.0
+    z: -6917.386428413184
+    yaw: 265.22637939453125
+    pitch: 47.55000305175781
+    world-name: ''
+  maison:
+    world: world
+    x: -2460.249806229597
+    y: 86.0
+    z: 2366.6071229640397
+    yaw: 30.022377014160156
+    pitch: 15.794970512390137
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -2459.762499988079
+  y: 86.0
+  z: 2365.762580688646
+  yaw: 64.3720932006836
+  pitch: -7.949997901916504
+  world-name: ''
+ip-address: 109.22.58.69
+last-account-name: AzMoG
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

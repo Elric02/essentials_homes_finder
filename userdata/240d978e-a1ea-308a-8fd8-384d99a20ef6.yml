@@ -1,0 +1,63 @@
+timestamps:
+  login: 1492987665560
+  lastteleport: 1492990917166
+  logout: 1492990971461
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -2851.2860856978327
+  y: 63.0
+  z: -2175.666361327699
+  yaw: -181.6502685546875
+  pitch: 9.899992942810059
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -3392.1523261034376
+    y: 67.0
+    z: -953.4900238760753
+    yaw: 97.8000717163086
+    pitch: -79.95002746582031
+    world-name: ''
+  bois:
+    world: Ressource
+    x: -2922.5480028150514
+    y: 77.0
+    z: -2155.5025130680096
+    yaw: 258.9000244140625
+    pitch: 16.79998016357422
+    world-name: ''
+  affaire:
+    world: world
+    x: -4805.939109850447
+    y: 69.0
+    z: -306.64686787826724
+    yaw: -79.2225341796875
+    pitch: 30.600000381469727
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -2867.8738468807273
+  y: 64.0
+  z: -2149.7933342264746
+  yaw: 120.44998931884766
+  pitch: 36.300010681152344
+  world-name: ''
+ip-address: 78.229.115.101
+last-account-name: ToiToines
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

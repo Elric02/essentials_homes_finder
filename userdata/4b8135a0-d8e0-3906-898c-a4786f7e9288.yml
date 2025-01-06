@@ -1,0 +1,47 @@
+timestamps:
+  login: 1684411153333
+  lastteleport: 1656161588614
+  logout: 1684411163572
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -2825.8066547543744
+  y: 58.4282161840497
+  z: -3112.6380583702644
+  yaw: 0.026689201593399048
+  pitch: 41.10034942626953
+  world-name: world
+logoutlocation:
+  world: d097c14e-8288-4547-88dc-d9590a602c7b
+  x: -118.79385676131247
+  y: 113.0
+  z: 88.8970584301557
+  yaw: -1.6263173818588257
+  pitch: 24.30007553100586
+  world-name: Nether
+money: '1340.0'
+homes:
+  base1:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: -119.5
+    y: 109.0
+    z: 93.5
+    yaw: -151.0078125
+    pitch: 5.55011510848999
+    world-name: Nether
+afk: false
+ip-address: 90.58.35.31
+last-account-name: tarengales
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

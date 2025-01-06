@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484660350994
+  lastteleport: 1484644196807
+  logout: 1484660477376
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.2646825353471
+  y: 63.0
+  z: 48.341341177165425
+  yaw: 83.5025634765625
+  pitch: 6.397404193878174
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 118.22934912708038
+  y: 58.0
+  z: 53.31336430803392
+  yaw: 189.538818359375
+  pitch: 0.7499102354049683
+  world-name: ''
+ip-address: 194.199.255.141
+last-account-name: MAXANCE_GAMING
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

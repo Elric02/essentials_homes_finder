@@ -1,0 +1,38 @@
+timestamps:
+  login: 1600519766140
+  lastteleport: 1600520240645
+  logout: 1600520546919
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -645.1484825183808
+  y: 58.012792628741614
+  z: -457.35568456194267
+  yaw: -304.4844055175781
+  pitch: 16.097816467285156
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -592.1621328687726
+  y: 63.0
+  z: -564.9830584536877
+  yaw: -94.83392333984375
+  pitch: 13.426487922668457
+  world-name: ''
+money: '0'
+ip-address: 90.104.83.220
+last-account-name: the_killeur_1900
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

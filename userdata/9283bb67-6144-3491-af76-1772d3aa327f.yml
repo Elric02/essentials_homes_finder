@@ -1,0 +1,126 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.208.24.198
+afk: false
+socialspy: true
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1672321255862
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672321781150
+  login: 1672320948239
+  kits:
+    debutant: 1665313011162
+    color: 1665586290026
+    vip: 1671541849389
+    explorateur: 1670161744263
+    stationaute: 1670161751113
+money: '280098.50351010099444708'
+last-account-name: OozemanV2
+lastlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -0.5
+  y: 90.0
+  z: 0.5
+  yaw: 88.64715576171875
+  pitch: 12.035789489746094
+homes:
+  s:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2696.7390388864123
+    y: 85.0
+    z: -134.92170599137216
+    yaw: -90.6005859375
+    pitch: 0.9546189308166504
+  w:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    world-name: Nether
+    x: 2268.6067552689588
+    y: 33.0
+    z: -234.3110704466016
+    yaw: -0.868621826171875
+    pitch: 7.698433876037598
+  d:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1312.0363892254609
+    y: 77.0625
+    z: 2921.89201309788
+    yaw: -179.86029052734375
+    pitch: -1.0312697887420654
+  t:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -1135.3586651135233
+    y: 5.0
+    z: 322.27779963364713
+    yaw: 179.80955505371094
+    pitch: -1.427970051765442
+  j:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4016.5
+    y: 65.0
+    z: 7911.5
+    yaw: 0.3099365234375
+    pitch: 0.7503280639648438
+  b:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5397.138428412585
+    y: 58.0
+    z: 1443.5689999235426
+    yaw: 90.38268280029297
+    pitch: 0.5463525056838989
+  p:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7399.548285571636
+    y: 93.0
+    z: 6681.766926077853
+    yaw: -0.48028564453125
+    pitch: 7.906070709228516
+  v:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5239.552635992733
+    y: -20.0
+    z: 1316.7655763709345
+    yaw: -1.0927224159240723
+    pitch: 10.156224250793457
+  c:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5137.376912566936
+    y: 87.0
+    z: 1241.7517682650644
+    yaw: 178.9704132080078
+    pitch: 0.398479700088501
+  sp2:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -686.566328103701
+    y: 8.0
+    z: -2818.50775717541
+    yaw: 90.24147033691406
+    pitch: -2.3512046337127686
+logoutlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -2581.8952358795486
+  y: 40.0
+  z: 3754.4639188872266
+  yaw: 56.031707763671875
+  pitch: 15.659051895141602
+nickname: §fOozeman§dLicorne§9Spatiale

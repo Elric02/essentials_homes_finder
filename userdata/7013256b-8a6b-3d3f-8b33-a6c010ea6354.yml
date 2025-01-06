@@ -1,0 +1,63 @@
+timestamps:
+  login: 1495272077335
+  lastteleport: 1495274470388
+  logout: 1495274505709
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5587.778868183537
+  y: 47.0
+  z: 396.1338195357598
+  yaw: 165.312255859375
+  pitch: 10.128028869628906
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 5705.14903613957
+    y: 66.0
+    z: -3453.251085825647
+    yaw: -138.24002075195312
+    pitch: 7.987198829650879
+    world-name: ''
+  lol:
+    world: world
+    x: -2866.4494401560414
+    y: 64.0
+    z: -6835.952669129308
+    yaw: 216.344970703125
+    pitch: 29.788818359375
+    world-name: ''
+  mesa:
+    world: world
+    x: -1970.6594708422924
+    y: 76.0
+    z: -982.3000000119209
+    yaw: 55.910400390625
+    pitch: 11.35679817199707
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5711.360307460836
+  y: 66.0
+  z: -3454.9505556001877
+  yaw: 20.889585494995117
+  pitch: 7.987203121185303
+  world-name: ''
+afk: false
+ip-address: 82.250.213.70
+last-account-name: VinsPlay33
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

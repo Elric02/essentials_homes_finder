@@ -1,0 +1,38 @@
+timestamps:
+  login: 1465038918789
+  logout: 1465038957702
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.01644022352892
+  y: 64.0
+  z: 26.76848377589193
+  yaw: -199.34738159179688
+  pitch: 3.674180746078491
+  world-name: ''
+ip-address: 85.168.53.85
+last-account-name: Kris13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

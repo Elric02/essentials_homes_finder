@@ -1,0 +1,38 @@
+timestamps:
+  login: 1587157860446
+  lastteleport: 1587157966615
+  logout: 1587158073687
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -143.1339230163453
+  y: 63.457499980926514
+  z: -152.2868758914714
+  yaw: 181.6667938232422
+  pitch: 15.414131164550781
+  world-name: ''
+ip-address: 37.171.3.70
+last-account-name: Fever65
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

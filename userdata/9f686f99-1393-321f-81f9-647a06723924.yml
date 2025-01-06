@@ -1,0 +1,203 @@
+timestamps:
+  login: 1659114992368
+  logout: 1659115736582
+  lastteleport: 1659115306653
+  kits:
+    color: 1594908445608
+    vip: 1659089423708
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -5176.801351443092
+  y: 68.0
+  z: -3817.0028507864035
+  yaw: -90.70489501953125
+  pitch: 11.099971771240234
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -136.34901706145513
+  y: 76.20000004768372
+  z: -121.90603386600274
+  yaw: 0.16693115234375
+  pitch: 22.64996910095215
+  world-name: world
+homes:
+  navlys:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3680.6583298413584
+    y: 75.0
+    z: -2459.9980225743584
+    yaw: -186.74981689453125
+    pitch: 16.649805068969727
+    world-name: world
+  g4:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -1190.0054284775126
+    y: 65.0
+    z: -3494.50778993579
+    yaw: 59.33673095703125
+    pitch: 32.25001525878906
+    world-name: world
+  noracli:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 4886.4490141266015
+    y: 22.0625
+    z: -6922.308031189751
+    yaw: 189.63719177246094
+    pitch: 21.300643920898438
+    world-name: world
+  villeyann:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -548.6815908152539
+    y: 69.0
+    z: -2246.1459147210353
+    yaw: -85.75662231445312
+    pitch: 25.17591094970703
+    world-name: world
+  villearthias:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 153.1872337121907
+    y: 79.0
+    z: 2067.3656324847825
+    yaw: -1.602508544921875
+    pitch: 3.3000292778015137
+    world-name: world
+  vip:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6680.190902881435
+    y: 65.0
+    z: -4011.2234230850863
+    yaw: -358.32196044921875
+    pitch: 0.5999412536621094
+    world-name: world
+  nether:
+    world: 889c592f-aaa9-4fbd-abc8-8414e32cfca2
+    x: -135.25246597897984
+    y: 17.0
+    z: -1314.9370177806259
+    yaw: 240.30783081054688
+    pitch: 30.00063705444336
+    world-name: Ressourcenether
+  secondhome:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5197.440221840507
+    y: 68.0
+    z: 809.1840455823125
+    yaw: 207.7579345703125
+    pitch: 4.649446964263916
+    world-name: world
+  alin:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1527.2607407447472
+    y: 71.0
+    z: -1600.4472200430666
+    yaw: 272.2535705566406
+    pitch: 12.327757835388184
+  dany:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 842.6015240078341
+    y: 68.0
+    z: 45.753821643552506
+    yaw: 193.33880615234375
+    pitch: 24.299890518188477
+  k2d:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1861.0531602226197
+    y: 212.0
+    z: -3034.2368493658064
+    yaw: -97.23112487792969
+    pitch: 10.799427032470703
+  maison_roselfe:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1375.6016694029192
+    y: 67.0
+    z: -2496.337220442308
+    yaw: -47.78564453125
+    pitch: 6.29991340637207
+  eopia_maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3436.536105136646
+    y: 198.0
+    z: 3762.617767192542
+    yaw: -0.5326442718505859
+    pitch: 11.249456405639648
+  coco:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7132.788794979896
+    y: 64.0
+    z: 388.28785853496197
+    yaw: -172.09457397460938
+    pitch: 38.84959030151367
+  asile_alexis:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2837.2232634742772
+    y: 65.0
+    z: 735.5673353191589
+    yaw: -2.39288330078125
+    pitch: 15.149702072143555
+  noracli2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -199.69999998807907
+    y: 88.0
+    z: 3372.300000011921
+    yaw: -64.34679412841797
+    pitch: 45.449676513671875
+  stationlanta:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    world-name: Event
+    x: 1591.300000011921
+    y: 9.0
+    z: -2707.4873923535347
+    yaw: -114.00006103515625
+    pitch: 3.5999503135681152
+  poulot:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4907.857714883255
+    y: 63.0
+    z: -3907.79600412254
+    yaw: 109.4141845703125
+    pitch: 7.8904500007629395
+  secondhome2:
+    world: 6b791b62-b860-492a-aa67-db025bcd5247
+    world-name: world2
+    x: 1431.1243319862197
+    y: 77.0
+    z: 1544.6052488353407
+    yaw: -28.5030517578125
+    pitch: -19.350059509277344
+  maison4:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 5348.543083026623
+    y: 76.5625
+    z: 6135.542915189034
+    yaw: 93.23905181884766
+    pitch: 32.248199462890625
+money: '28002.0'
+afk: false
+jailed: false
+ip-address: 92.188.222.105
+last-account-name: KainoVaii
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+nickname: §bKaino

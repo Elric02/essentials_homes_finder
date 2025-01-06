@@ -1,0 +1,63 @@
+timestamps:
+  login: 1629127140165
+  lastteleport: 1629127214554
+  logout: 1629127349193
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 1535.9623129169668
+  y: 4.0
+  z: -1078.903825986359
+  yaw: -91.15740966796875
+  pitch: 5.8522138595581055
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2647.300000011921
+  y: 79.0
+  z: -173.30000001192093
+  yaw: -51.25439453125
+  pitch: -12.761011123657227
+  world-name: ''
+money: '0'
+homes:
+  base2:
+    world: world
+    x: 1932.7338209925347
+    y: 110.0
+    z: -3521.2812848492404
+    yaw: 253.04248046875
+    pitch: 9.77347183227539
+    world-name: ''
+  farmtortues:
+    world: world
+    x: -3523.9185950214
+    y: 68.0
+    z: -5824.944425206973
+    yaw: -155.7225341796875
+    pitch: 29.823848724365234
+    world-name: ''
+  mending:
+    world: world
+    x: 215.30000001192093
+    y: 65.0
+    z: 6304.300000011921
+    yaw: -38.00217056274414
+    pitch: 19.95353126525879
+    world-name: ''
+afk: false
+jailed: false
+ip-address: 93.2.21.87
+last-account-name: V_I_N_O
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

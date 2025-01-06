@@ -1,0 +1,63 @@
+timestamps:
+  login: 1540304774381
+  logout: 1540305890184
+  lastteleport: 1532815025254
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: -1993.3305808882808
+  y: 12.0
+  z: -1967.115833494878
+  yaw: -264.28631591796875
+  pitch: 9.623900413513184
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -7479.300628780762
+  y: 64.0
+  z: 7520.649715820689
+  yaw: 286.59027099609375
+  pitch: -17.850234985351562
+  world-name: ''
+homes:
+  t:
+    world: world
+    x: -7705.106386297578
+    y: 64.0
+    z: 7566.48571457288
+    yaw: 88.08718872070312
+    pitch: 15.71843147277832
+    world-name: ''
+  sable:
+    world: Ressource
+    x: -198.8747599626274
+    y: 67.0
+    z: -30.870433658612036
+    yaw: -1.652587890625
+    pitch: 35.10028839111328
+    world-name: ''
+  end:
+    world: End
+    x: -3826.300000011921
+    y: 110.0
+    z: -1903.300000011921
+    yaw: 161.25421142578125
+    pitch: 28.950239181518555
+    world-name: ''
+afk: false
+ip-address: 82.64.13.165
+last-account-name: EverestTigre
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

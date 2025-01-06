@@ -1,0 +1,63 @@
+timestamps:
+  login: 1550401811552
+  lastteleport: 1550402687839
+  logout: 1550402854246
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 480.7688700063887
+  y: 63.5
+  z: -1650.9798950318357
+  yaw: 359.2469787597656
+  pitch: 90.0
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -1243.300000011921
+  y: 43.0
+  z: 551.3785533145796
+  yaw: 240.6229248046875
+  pitch: -24.75004768371582
+  world-name: ''
+money: '0'
+homes:
+  kachalow:
+    world: Ressource
+    x: -1261.9192809652468
+    y: 12.0
+    z: 606.3566202905275
+    yaw: 290.87237548828125
+    pitch: 26.99999237060547
+    world-name: ''
+  maison:
+    world: world
+    x: 469.2196629712336
+    y: 63.0
+    z: -1668.699999988079
+    yaw: 336.4469909667969
+    pitch: 38.54996871948242
+    world-name: ''
+  temple:
+    world: Ressource
+    x: 3384.921151752688
+    y: 63.0
+    z: -1686.300000011921
+    yaw: 180.53895568847656
+    pitch: 24.30000114440918
+    world-name: ''
+afk: false
+ip-address: 88.120.195.173
+last-account-name: KaChAloW
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

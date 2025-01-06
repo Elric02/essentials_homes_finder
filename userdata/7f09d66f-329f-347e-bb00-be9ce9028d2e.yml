@@ -1,0 +1,38 @@
+timestamps:
+  login: 1522862447662
+  lastteleport: 1522862480809
+  logout: 1522862502508
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.8237226830851
+  y: 67.0
+  z: 104.06876428639809
+  yaw: 266.79705810546875
+  pitch: 13.74065113067627
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 149.94493085294278
+  y: 64.0
+  z: 24.34501029866975
+  yaw: -348.7708435058594
+  pitch: 7.078669548034668
+  world-name: ''
+ip-address: 90.46.47.19
+last-account-name: Tritounet
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

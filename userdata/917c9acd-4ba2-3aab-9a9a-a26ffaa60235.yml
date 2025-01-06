@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.66.149.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714925202266
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714926107269
+  login: 1714920679040
+money: '300.0'
+last-account-name: Mr_Habert
+lastlocation:
+  world: 662d438a-3236-43b5-be72-96a96955dbc4
+  world-name: RessourceNether
+  x: 0.591382818003238
+  y: 37.0
+  z: -7.721379144831509
+  yaw: -178.76486206054688
+  pitch: 5.866588592529297
+logoutlocation:
+  world: 662d438a-3236-43b5-be72-96a96955dbc4
+  world-name: RessourceNether
+  x: 2.6726897214298333
+  y: 37.0
+  z: -6.159023553909637
+  yaw: -147.80442810058594
+  pitch: -2.669149398803711

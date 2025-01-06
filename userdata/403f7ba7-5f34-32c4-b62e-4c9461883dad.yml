@@ -1,0 +1,63 @@
+timestamps:
+  login: 1473830404091
+  lastteleport: 1473619678553
+  logout: 1473830427512
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: 637.1547936558015
+  y: 69.0
+  z: -723.8512230024644
+  yaw: -175.35305786132812
+  pitch: 21.77311134338379
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.76219185405873
+  y: 63.0
+  z: 34.04559115609921
+  yaw: 24.080598831176758
+  pitch: 5.263574600219727
+  world-name: ''
+homes:
+  home:
+    world: Ressources
+    x: -1459.0518957316685
+    y: 64.0
+    z: 1929.5981317509224
+    yaw: 229.29232788085938
+    pitch: 27.857648849487305
+    world-name: ''
+  loloadri1:
+    world: Ressources
+    x: 641.4582443390075
+    y: 69.0
+    z: -724.5197899716136
+    yaw: 170.870849609375
+    pitch: 23.950603485107422
+    world-name: ''
+  mine:
+    world: Ressources
+    x: -1872.9545820657531
+    y: 75.0
+    z: 2039.037037398333
+    yaw: 352.8670654296875
+    pitch: 28.401975631713867
+    world-name: ''
+money: '0'
+ip-address: 148.66.64.168
+last-account-name: loloadri1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

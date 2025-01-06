@@ -1,0 +1,96 @@
+timestamps:
+  login: 1615263058559
+  lastteleport: 1615263088978
+  logout: 1615263119373
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4946.6554476729225
+  y: 64.0
+  z: -614.5874134222479
+  yaw: 153.57310485839844
+  pitch: 5.125205993652344
+  world-name: ''
+homes:
+  moi:
+    world: world
+    x: 3904.5
+    y: 64.0
+    z: -2503.5
+    yaw: -131.06478881835938
+    pitch: 24.422744750976562
+    world-name: ''
+  home:
+    world: world
+    x: -1902.5
+    y: 74.0
+    z: -1565.5
+    yaw: -230.73190307617188
+    pitch: 8.291741371154785
+    world-name: ''
+  maison:
+    world: world
+    x: -4887.5
+    y: 63.0
+    z: -556.5
+    yaw: -80.71066284179688
+    pitch: 14.697671890258789
+    world-name: ''
+  merlin:
+    world: world
+    x: 64.33225715950785
+    y: 94.0
+    z: 59.32136816220831
+    yaw: -205.24862670898438
+    pitch: 14.71651840209961
+    world-name: ''
+  rose:
+    world: world
+    x: -500.5
+    y: 169.0
+    z: 470.5
+    yaw: -141.83592224121094
+    pitch: 4.077127456665039
+    world-name: ''
+  bichon:
+    world: world
+    x: 601.0629233982538
+    y: 64.0
+    z: 759.9246897756145
+    yaw: -129.91021728515625
+    pitch: 44.39986038208008
+    world-name: ''
+  chaton:
+    world: world
+    x: 766.7582072023505
+    y: 63.0
+    z: 84.00380657947278
+    yaw: 146.5341033935547
+    pitch: 13.199512481689453
+    world-name: ''
+money: '0'
+nickname: §0MIMIdxxSTYL2
+logoutlocation:
+  world: world
+  x: 660.4272063773502
+  y: 63.0
+  z: 745.4650038741972
+  yaw: -109.9535903930664
+  pitch: 10.450080871582031
+  world-name: ''
+afk: false
+ip-address: 91.167.216.16
+last-account-name: mimidx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

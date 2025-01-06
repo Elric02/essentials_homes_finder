@@ -1,0 +1,38 @@
+timestamps:
+  login: 1625659962756
+  lastteleport: 1625659970742
+  logout: 1625660199535
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 77.28690888556261
+  y: 13.000511608640693
+  z: 159.5166228991234
+  yaw: -109.24778747558594
+  pitch: 14.523883819580078
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 49.69999998807906
+  y: 78.257600107193
+  z: 75.83261875272645
+  yaw: -86.13671875
+  pitch: -48.208953857421875
+  world-name: ''
+money: '0'
+ip-address: 31.36.7.214
+last-account-name: Titou_couscous
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1603466783171
+  lastteleport: 1603473126113
+  logout: 1603473136465
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4256.403562724977
+  y: 69.0
+  z: -1674.9249324030325
+  yaw: 49.6735954284668
+  pitch: 5.673539638519287
+  world-name: ''
+money: '0'
+homes:
+  bp:
+    world: world
+    x: -4536.777840779089
+    y: 64.0
+    z: -1911.7022299959822
+    yaw: 144.73492431640625
+    pitch: 14.336373329162598
+    world-name: ''
+  exp:
+    world: End
+    x: 411.15763385644414
+    y: 57.0
+    z: 2.2156519345482915
+    yaw: -133.8285369873047
+    pitch: 21.450580596923828
+    world-name: ''
+  enchante:
+    world: world
+    x: 117.24729229198589
+    y: 87.0
+    z: -98.09472690437752
+    yaw: -174.78607177734375
+    pitch: 8.967986106872559
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4536.5
+  y: 64.0
+  z: -1911.5
+  yaw: 155.67771911621094
+  pitch: 24.367259979248047
+  world-name: ''
+ip-address: 92.154.247.107
+last-account-name: moiise
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

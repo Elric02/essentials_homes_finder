@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483821890726
+  lastteleport: 1483818565409
+  logout: 1483821916793
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 159.05000001192093
+  y: 64.0
+  z: 14.699999988079071
+  yaw: -126.94833374023438
+  pitch: 9.697410583496094
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2643.7160745539254
+  y: 84.0
+  z: -1060.3994804211484
+  yaw: 99.84965515136719
+  pitch: 28.950206756591797
+  world-name: ''
+ip-address: 89.159.121.62
+last-account-name: Kin3er
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

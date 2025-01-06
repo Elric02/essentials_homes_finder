@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508950938775
+  lastteleport: 1508952990441
+  logout: 1508953030593
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4570.928239621234
+  y: 84.0
+  z: 5991.699999988079
+  yaw: -102.15225219726562
+  pitch: 18.649248123168945
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 151.65782268719954
+  y: 64.0
+  z: 18.17851675752617
+  yaw: -311.75201416015625
+  pitch: 8.914194107055664
+  world-name: ''
+ip-address: 87.231.183.92
+last-account-name: Slimers_game
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1633804095903
+  lastteleport: 1633805025510
+  logout: 1633806952520
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -3719.2838474899704
+  y: 67.0
+  z: 7008.193479139465
+  yaw: -215.1949462890625
+  pitch: -40.6313591003418
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -3704.6109702249883
+  y: 67.0
+  z: 7013.862500011921
+  yaw: -2.4093017578125
+  pitch: 9.328328132629395
+  world-name: world
+money: '0'
+homes:
+  base2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3595.36204759956
+    y: 41.0
+    z: -4145.237500011921
+    yaw: -141.94229125976562
+    pitch: -6.505881309509277
+    world-name: world
+  base1:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3702.266500221231
+    y: 67.0
+    z: 7018.365333186901
+    yaw: -190.0474853515625
+    pitch: 15.750057220458984
+afk: false
+ip-address: 92.184.102.87
+last-account-name: Bazoir
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514554510314
+  lastteleport: 1514554538412
+  logout: 1514555843091
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 255.6024343854292
+  y: 62.07326432466228
+  z: 133.97377427453668
+  yaw: 176.71875
+  pitch: 8.061356544494629
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 64.30000001192094
+  y: 78.0
+  z: 60.66202137338009
+  yaw: -271.298828125
+  pitch: 23.284753799438477
+  world-name: ''
+money: '0'
+ip-address: 81.50.16.175
+last-account-name: coeur_de_feu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

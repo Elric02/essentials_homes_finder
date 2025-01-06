@@ -1,0 +1,63 @@
+timestamps:
+  login: 1585917031748
+  lastteleport: 1585918164420
+  logout: 1585918166660
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -44.17001088983662
+  y: 58.0
+  z: 17.163826753455222
+  yaw: -23.66693115234375
+  pitch: 4.599562168121338
+  world-name: ''
+money: '0'
+homes:
+  salope:
+    world: world
+    x: -361.2721308426816
+    y: 139.0
+    z: -1821.8740232161601
+    yaw: 271.0763854980469
+    pitch: 2.289665699005127
+    world-name: ''
+  hobbit:
+    world: world
+    x: -153.25293729298653
+    y: 77.0
+    z: -2038.0866180860141
+    yaw: -176.9620819091797
+    pitch: 14.546600341796875
+    world-name: ''
+  spawner:
+    world: world
+    x: -134.07571347186342
+    y: 20.0
+    z: -1845.0131672891337
+    yaw: -278.69854736328125
+    pitch: 42.474117279052734
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -153.5
+  y: 77.0
+  z: -2038.5
+  yaw: -176.9620819091797
+  pitch: 14.546600341796875
+  world-name: ''
+ip-address: 2.7.235.211
+last-account-name: GamaRyu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

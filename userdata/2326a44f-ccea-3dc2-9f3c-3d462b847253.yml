@@ -1,0 +1,38 @@
+timestamps:
+  login: 1594368742593
+  lastteleport: 1594368953766
+  logout: 1594369089475
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.43083838630884
+  y: 65.5
+  z: 90.2556238217353
+  yaw: 164.94642639160156
+  pitch: 13.51263427734375
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1459.5
+  y: 64.0
+  z: -2167.5
+  yaw: 72.7504653930664
+  pitch: -0.3800429403781891
+  world-name: ''
+ip-address: 86.195.206.170
+last-account-name: xXx_TheNexus_xXx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

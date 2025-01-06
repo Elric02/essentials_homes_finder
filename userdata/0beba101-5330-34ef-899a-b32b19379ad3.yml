@@ -1,0 +1,38 @@
+timestamps:
+  login: 1547316531294
+  lastteleport: 1547317263659
+  logout: 1547317331266
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 119.40101595985192
+  y: 63.0
+  z: 51.69504235491003
+  yaw: 4.739593505859375
+  pitch: -19.98973846435547
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -2327.699763189263
+  y: 91.0
+  z: 1719.6568988711258
+  yaw: 103.83340454101562
+  pitch: 31.33439826965332
+  world-name: ''
+ip-address: 90.50.102.235
+last-account-name: afrelien
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

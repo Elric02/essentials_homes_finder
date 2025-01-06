@@ -1,0 +1,69 @@
+timestamps:
+  login: 1534864549064
+  lastteleport: 1534861454951
+  logout: 1534864768137
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 117.01816793451967
+  y: 63.0
+  z: 44.47614629040894
+  yaw: -172.67079162597656
+  pitch: 16.978668212890625
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -5271.588466128392
+    y: 63.0
+    z: 1093.9462451415473
+    yaw: -213.13812255859375
+    pitch: 23.09996795654297
+    world-name: ''
+  loups:
+    world: world
+    x: -5620.352349254314
+    y: 70.0
+    z: 1526.6881346985251
+    yaw: -102.88789367675781
+    pitch: 8.550009727478027
+    world-name: ''
+  mason:
+    world: world
+    x: 1033.121766440354
+    y: 63.0
+    z: 2424.6839978880216
+    yaw: -110.8498764038086
+    pitch: 46.95001220703125
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -5284.184784547397
+  y: 49.0
+  z: 1079.508753902658
+  yaw: -142.088623046875
+  pitch: 16.200040817260742
+  world-name: ''
+afk: false
+ip-address: 78.112.8.245
+last-account-name: LaPetiteManon
+mail:
+- legacy: true
+  read: false
+  message: §e[§rServer§e] §rSalut, je t'invite à rejoindre notre discord ( https://discord.gg/9GX644E
+    ) pour être au courant en temps réel de ce qui se passe sur le serveur. Merci
+    de jouer sur Station 47!
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

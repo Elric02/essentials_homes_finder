@@ -1,0 +1,38 @@
+timestamps:
+  login: 1628288654984
+  lastteleport: 1628205245819
+  logout: 1628288777740
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.42797209331738
+  y: 64.0
+  z: 15.61147187085805
+  yaw: -179.79534912109375
+  pitch: 25.175857543945312
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 139.920877297228
+  y: 63.0
+  z: 21.7741340022551
+  yaw: -10.594970703125
+  pitch: 18.875852584838867
+  world-name: ''
+afk: false
+ip-address: 88.142.164.178
+last-account-name: louve_5874
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

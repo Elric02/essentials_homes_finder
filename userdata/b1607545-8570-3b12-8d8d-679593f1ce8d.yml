@@ -1,0 +1,73 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.39.108.170
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1696783175992
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696783312688
+  login: 1696783041956
+  kits:
+    vip: 1693065851734
+money: '29281.27'
+last-account-name: BloodRavenQC
+lastlocation:
+  world: e929909b-d39e-492b-9ab3-07c468f510b6
+  world-name: Ressource
+  x: -1.8401307100701256
+  y: 90.0
+  z: 0.4872784789724607
+  yaw: 91.19718170166016
+  pitch: 5.735797882080078
+logoutlocation:
+  world: e929909b-d39e-492b-9ab3-07c468f510b6
+  world-name: Ressource
+  x: -2560.300000011921
+  y: 72.0
+  z: -1817.122813085903
+  yaw: -22.653289794921875
+  pitch: 25.19942855834961
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 5921.4039584913535
+    y: 64.0
+    z: 252.52531756727296
+    yaw: -143.91986083984375
+    pitch: 30.146623611450195
+  bunker:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6332.440692776937
+    y: 97.0
+    z: 5405.165143996371
+    yaw: 166.98580932617188
+    pitch: 14.466867446899414
+  pnj:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7838.282759387784
+    y: 63.0
+    z: 2604.3958068301454
+    yaw: -143.22679138183594
+    pitch: 7.484655380249023
+  ferme:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7293.990097760784
+    y: 72.0
+    z: -2240.7042742659914
+    yaw: 91.87078857421875
+    pitch: 15.82958984375

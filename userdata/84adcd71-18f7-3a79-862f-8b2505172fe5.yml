@@ -1,0 +1,47 @@
+timestamps:
+  login: 1615402823022
+  lastteleport: 1615404471923
+  logout: 1615404529303
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 166.0297165240731
+  y: 64.02442408821369
+  z: 42.78351694551092
+  yaw: 201.8135528564453
+  pitch: 24.725847244262695
+  world-name: ''
+homes:
+  home:
+    world: Ressource
+    x: 2926.699999988079
+    y: 64.0
+    z: 1745.6986880410086
+    yaw: -174.75039672851562
+    pitch: 57.300086975097656
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 2723.9531839917545
+  y: 17.0
+  z: 1679.6526671274842
+  yaw: 91.79327392578125
+  pitch: 33.60035705566406
+  world-name: ''
+ip-address: 92.184.97.133
+last-account-name: samsam12394
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

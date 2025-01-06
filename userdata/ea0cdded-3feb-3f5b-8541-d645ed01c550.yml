@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471212205017
+  logout: 1471213287140
+  lastteleport: 1471141783247
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -98.68356663620482
+  y: 47.0
+  z: 504.67679165827553
+  yaw: 64.1487045288086
+  pitch: 35.249996185302734
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 45.83691389812969
+  y: 72.0
+  z: 414.1262053329342
+  yaw: 217.28855895996094
+  pitch: 34.95001983642578
+  world-name: ''
+ip-address: 188.250.22.204
+last-account-name: ruben9798
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

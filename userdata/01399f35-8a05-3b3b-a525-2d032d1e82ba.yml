@@ -1,0 +1,38 @@
+timestamps:
+  login: 1535080206728
+  logout: 1535080824456
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -321.51541643420603
+  y: 63.0
+  z: -145.39533646766475
+  yaw: 26.66918182373047
+  pitch: 4.368154525756836
+  world-name: ''
+ip-address: 185.93.2.122
+last-account-name: XxGamerDu52xX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

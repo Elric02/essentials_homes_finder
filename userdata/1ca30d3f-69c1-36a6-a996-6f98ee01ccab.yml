@@ -1,0 +1,47 @@
+timestamps:
+  login: 1504780255919
+  lastteleport: 1504717144649
+  logout: 1504780330275
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: -314.6546829399234
+  y: 58.0
+  z: 16.463943879913614
+  yaw: -271.53753662109375
+  pitch: 8.558026313781738
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4689.300000011921
+  y: 84.0
+  z: 6894.201605757297
+  yaw: -79.1799545288086
+  pitch: 30.300045013427734
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 4687.214909717122
+    y: 84.5625
+    z: 6895.46746529815
+    yaw: 89.4200668334961
+    pitch: 79.65008544921875
+    world-name: ''
+afk: false
+ip-address: 176.186.157.1
+last-account-name: LinkGamer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

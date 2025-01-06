@@ -1,0 +1,38 @@
+timestamps:
+  login: 1507979805014
+  lastteleport: 1507980437398
+  logout: 1507981556543
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5223.699999988079
+  y: 64.0
+  z: 573.3000000119209
+  yaw: -29.099573135375977
+  pitch: 84.9000015258789
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -5113.487063470016
+  y: 71.0
+  z: 463.3419098087376
+  yaw: 5.699676513671875
+  pitch: 10.499998092651367
+  world-name: ''
+ip-address: 78.206.253.99
+last-account-name: Shutupbitch
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

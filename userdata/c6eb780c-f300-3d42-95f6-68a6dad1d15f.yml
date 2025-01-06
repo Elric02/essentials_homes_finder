@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500223634917
+  lastteleport: 1500224067727
+  logout: 1500224381679
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -4.680298114664838
+  y: 42.451619715314195
+  z: 35.83346071423919
+  yaw: -218.4353485107422
+  pitch: 1.0500099658966064
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.09538197719826
+  y: 63.0
+  z: 50.62316531136453
+  yaw: 181.13906860351562
+  pitch: 9.324511528015137
+  world-name: ''
+ip-address: 88.126.88.174
+last-account-name: Kevin59
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

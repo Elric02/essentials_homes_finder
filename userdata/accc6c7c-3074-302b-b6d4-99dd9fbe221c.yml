@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617460590418
+  lastteleport: 1617460790401
+  logout: 1617461249085
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.13555573272095
+  y: 63.0
+  z: 62.17732498453327
+  yaw: 176.19715881347656
+  pitch: 5.940666198730469
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -86.11586083546985
+  y: 25.0
+  z: 170.20020143082496
+  yaw: -274.144775390625
+  pitch: 37.475765228271484
+  world-name: ''
+ip-address: 80.214.151.43
+last-account-name: Youora
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

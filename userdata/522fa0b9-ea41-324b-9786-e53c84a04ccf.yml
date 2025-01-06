@@ -1,0 +1,38 @@
+timestamps:
+  login: 1529950005586
+  logout: 1529952934817
+  lastteleport: 1529951754362
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.9326645287814
+  y: 64.0
+  z: 13.105378404243828
+  yaw: -177.32081604003906
+  pitch: -0.8713304400444031
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1649.7050682660033
+  y: 64.0
+  z: 2613.2465795946323
+  yaw: -325.5
+  pitch: 10.649937629699707
+  world-name: ''
+money: '0'
+ip-address: 86.194.146.247
+last-account-name: Orieus
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

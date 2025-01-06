@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479250680940
+  logout: 1479251526506
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 4726.300000011921
+  y: 68.0
+  z: 5661.300000011921
+  yaw: -34.800384521484375
+  pitch: 12.299982070922852
+  world-name: ''
+ip-address: 24.212.87.67
+last-account-name: Agent_Jean
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

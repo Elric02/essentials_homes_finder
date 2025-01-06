@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472151085684
+  lastteleport: 1472151528694
+  logout: 1472156708148
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: 53.11017641285939
+  y: 74.0
+  z: -68.49818011078632
+  yaw: 115.32623291015625
+  pitch: 73.00556945800781
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 474.99953886220544
+  y: 57.0
+  z: -6463.922762159661
+  yaw: -142.07553100585938
+  pitch: 29.850038528442383
+  world-name: ''
+ip-address: 95.157.161.172
+last-account-name: Darky
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

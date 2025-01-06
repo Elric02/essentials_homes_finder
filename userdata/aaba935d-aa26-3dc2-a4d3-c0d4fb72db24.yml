@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488657191731
+  logout: 1488657249835
+  lastteleport: 1488657231504
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.7732432372766
+  y: 63.0
+  z: 8.071612460866167
+  yaw: -221.15875244140625
+  pitch: 26.272512435913086
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 169.67116881536106
+  y: 131.5
+  z: -120.03804550583789
+  yaw: 95.79129028320312
+  pitch: 13.822513580322266
+  world-name: ''
+ip-address: 86.249.15.102
+last-account-name: Nemsushi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

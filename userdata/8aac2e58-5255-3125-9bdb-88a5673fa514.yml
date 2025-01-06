@@ -1,0 +1,63 @@
+timestamps:
+  login: 1532166082612
+  logout: 1532166451499
+  lastteleport: 1531467285594
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6941.699999988079
+  y: 62.0
+  z: -2915.300000011921
+  yaw: -231.75030517578125
+  pitch: 22.199954986572266
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6911.587937234798
+  y: 71.0
+  z: -2942.5105632702284
+  yaw: -22.283447265625
+  pitch: -21.000106811523438
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -3960.4636288532292
+    y: 74.0
+    z: -5799.612587815082
+    yaw: -355.8037109375
+    pitch: 7.200075626373291
+    world-name: ''
+  aqua:
+    world: world
+    x: -2776.518238155977
+    y: 58.0
+    z: -667.7355827253207
+    yaw: 74.5501480102539
+    pitch: 19.499988555908203
+    world-name: ''
+  snow:
+    world: world
+    x: 6943.681083295046
+    y: 64.0
+    z: -2944.9754523765537
+    yaw: -269.85015869140625
+    pitch: 3.299954414367676
+    world-name: ''
+afk: false
+ip-address: 79.83.29.109
+last-account-name: Shandowings
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

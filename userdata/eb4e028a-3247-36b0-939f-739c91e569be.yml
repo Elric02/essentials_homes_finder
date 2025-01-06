@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618243105681
+  lastteleport: 1618243144673
+  logout: 1618243184415
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.34197941925925
+  y: 63.0
+  z: 63.78228160249961
+  yaw: 228.13876342773438
+  pitch: 8.847026824951172
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4913.936226443438
+  y: 71.0
+  z: -538.6546390343622
+  yaw: 161.1058349609375
+  pitch: 50.29219436645508
+  world-name: ''
+ip-address: 86.195.226.204
+last-account-name: DalexXx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

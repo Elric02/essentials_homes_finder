@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483751894179
+  lastteleport: 1483751927923
+  logout: 1483751980010
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 127.97579533781595
+  y: 64.0
+  z: 25.25985769791479
+  yaw: -337.99774169921875
+  pitch: 16.147397994995117
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 127.1014128599938
+  y: 63.0
+  z: 21.250960006588397
+  yaw: -23.400449752807617
+  pitch: 26.325542449951172
+  world-name: ''
+ip-address: 50.150.17.87
+last-account-name: DanTDM
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

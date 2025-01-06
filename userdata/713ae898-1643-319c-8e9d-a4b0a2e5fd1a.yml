@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614019330826
+  logout: 1614019382174
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 164.69999998807907
+  y: 66.0
+  z: 101.92241977477889
+  yaw: -117.3736801147461
+  pitch: 47.483062744140625
+  world-name: ''
+ip-address: 77.141.7.194
+last-account-name: JCHRST
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,90 @@
+timestamps:
+  login: 1556891533232
+  lastteleport: 1556897798942
+  logout: 1556901873300
+  kits:
+    vip: 1529919933098
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 115.2745646833474
+  y: 92.0
+  z: 2116.204518495326
+  yaw: 358.0806884765625
+  pitch: 12.900020599365234
+  world-name: ''
+homes:
+  forgefer:
+    world: world
+    x: 209.9674388010137
+    y: 80.0
+    z: 2162.469356196294
+    yaw: 359.88067626953125
+    pitch: 21.75002670288086
+    world-name: ''
+  banque:
+    world: world
+    x: 167.08868500043383
+    y: 71.0
+    z: 2118.219092767298
+    yaw: 1.67938232421875
+    pitch: 13.950020790100098
+    world-name: ''
+  du:
+    world: Ressource
+    x: 95.38299333917931
+    y: 102.28260091214483
+    z: -3114.7082072064295
+    yaw: -71.70034790039062
+    pitch: -21.75001335144043
+    world-name: ''
+  ferme:
+    world: world
+    x: 561.2915977432549
+    y: 55.0
+    z: 2366.2176697756827
+    yaw: 178.8294219970703
+    pitch: 14.399964332580566
+    world-name: ''
+  ferme2:
+    world: world
+    x: -1639.7416762330972
+    y: 76.9375
+    z: 4135.305516447774
+    yaw: 166.80239868164062
+    pitch: 21.899948120117188
+    world-name: ''
+  id_e:
+    world: world
+    x: 2361.7235656743333
+    y: 85.76573106190791
+    z: -2374.3482528822205
+    yaw: 106.20001220703125
+    pitch: 5.550009727478027
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 107.1088736832275
+  y: 97.0
+  z: 2132.6090763361367
+  yaw: -256.32098388671875
+  pitch: 9.14992618560791
+  world-name: ''
+afk: false
+nickname: §5Arthias
+socialspy: false
+ip-address: 109.131.105.194
+last-account-name: Arthias
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

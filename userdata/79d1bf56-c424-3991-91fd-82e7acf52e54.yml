@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.100.4.191
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1639342825369
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1639342930670
+  login: 1639338853311
+money: '0'
+last-account-name: matrixg20
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1571.8564681213227
+  y: 72.24918707874468
+  z: -2219.6918653102516
+  yaw: 219.09063720703125
+  pitch: 42.13595199584961
+homes:
+  home:
+    world: 86d1d27f-93df-4bd4-8f6a-80e1ce66b3ad
+    world-name: Ressource
+    x: 173.69999998807907
+    y: 79.0
+    z: 7.884470939342259
+    yaw: 68.72802734375
+    pitch: 25.950319290161133
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1467.22894362504
+  y: 73.0
+  z: -2456.300000011921
+  yaw: 19.727230072021484
+  pitch: 23.235929489135742

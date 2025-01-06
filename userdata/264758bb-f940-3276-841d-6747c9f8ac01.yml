@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.124.136.56
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1633206165621
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633206189765
+  login: 1633203351358
+money: '0'
+last-account-name: _Tartiflette
+lastlocation:
+  world: 9f558405-e9a0-48ce-9c3e-d633a67539fd
+  world-name: Ressource
+  x: -337.9906267431205
+  y: 73.0
+  z: 210.16884098415218
+  yaw: 144.2935791015625
+  pitch: 19.499183654785156
+homes:
+  b:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 4276.726747773092
+    y: 90.0
+    z: -1552.0511689157006
+    yaw: -358.57720947265625
+    pitch: 36.59866714477539
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 157.7348876824497
+  y: 63.0
+  z: 38.940515205052115
+  yaw: -38.94189453125
+  pitch: 12.425867080688477

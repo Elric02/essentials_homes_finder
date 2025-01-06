@@ -1,0 +1,47 @@
+timestamps:
+  login: 1517654294970
+  lastteleport: 1517655223858
+  logout: 1517655731639
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6441.723712073062
+  y: 77.0
+  z: -1767.382060316937
+  yaw: 35.82861328125
+  pitch: 34.33087158203125
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 6413.255355282778
+    y: 115.0
+    z: -1715.6877235823765
+    yaw: -179.1719970703125
+    pitch: 38.38119888305664
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 6415.699999988079
+  y: 115.0
+  z: -1726.699999988079
+  yaw: 47.6141357421875
+  pitch: 28.961769104003906
+  world-name: ''
+ip-address: 78.230.139.115
+last-account-name: DalekSupreme
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1488026903938
+  lastteleport: 1486763742660
+  logout: 1488026947949
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -331.21810009236435
+  y: 72.0
+  z: -293.59694502609375
+  yaw: 53.18753433227539
+  pitch: 9.691636085510254
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 62.32212753032167
+  y: 75.0
+  z: 188.65791561984238
+  yaw: -74.71636199951172
+  pitch: 18.491268157958984
+  world-name: ''
+homes:
+  home:
+    world: ressource
+    x: -87.40021004431736
+    y: 53.0
+    z: 112.14203936230408
+    yaw: 77.20868682861328
+    pitch: 50.09576416015625
+    world-name: ''
+ip-address: 88.179.182.116
+last-account-name: violette
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

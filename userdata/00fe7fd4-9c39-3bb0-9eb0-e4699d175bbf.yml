@@ -1,0 +1,47 @@
+timestamps:
+  login: 1603406220941
+  lastteleport: 1603407411468
+  logout: 1603407724855
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 114.56268366231654
+  y: 63.0
+  z: 48.98542198760556
+  yaw: -9.80291748046875
+  pitch: 15.08798599243164
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -318.22832605436656
+    y: 71.0
+    z: 795.6038903306475
+    yaw: -27.34418296813965
+    pitch: 14.3443603515625
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 105.73867675512882
+  y: 63.0
+  z: 21.60697771841603
+  yaw: -92.97598266601562
+  pitch: 6.14423131942749
+  world-name: ''
+ip-address: 91.170.50.210
+last-account-name: Ainao_owo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.197.103.130
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1673818202121
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673818276713
+  login: 1673818167079
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.53148926854465
+  y: 81.0
+  z: -3111.1856099360775
+  yaw: -70.21288299560547
+  pitch: 13.346467971801758
+last-account-name: Ducatreid
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -560.7389865855066
+  y: 35.15814676123661
+  z: 74.90206065462478
+  yaw: 10.427746772766113
+  pitch: 21.280229568481445

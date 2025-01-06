@@ -1,0 +1,38 @@
+timestamps:
+  login: 1493457878702
+  lastteleport: 1493458697471
+  logout: 1493460708279
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4862.925000011921
+  y: 84.0
+  z: -452.92500001192093
+  yaw: 151.4928741455078
+  pitch: 18.507993698120117
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 154.55689300162874
+  y: 64.0
+  z: 30.831395230661318
+  yaw: -281.4035949707031
+  pitch: 56.10382080078125
+  world-name: ''
+ip-address: 90.24.31.169
+last-account-name: blumikalialo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

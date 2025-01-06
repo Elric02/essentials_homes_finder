@@ -1,0 +1,47 @@
+timestamps:
+  login: 1526766814321
+  lastteleport: 1526766834711
+  logout: 1526767707208
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.2632843656183
+  y: 65.0
+  z: 98.23750001192093
+  yaw: -129.95306396484375
+  pitch: 12.390654563903809
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  home:
+    world: world
+    x: 159.42503499786528
+    y: 99.90290000319482
+    z: 2155.5000170646904
+    yaw: 82.52051544189453
+    pitch: 39.19996643066406
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 96.13691923999842
+  y: 42.0
+  z: 2001.2018185362026
+  yaw: -9.13104248046875
+  pitch: 29.70001983642578
+  world-name: ''
+ip-address: 86.250.122.141
+last-account-name: FallenGuy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

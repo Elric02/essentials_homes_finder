@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615650865962
+  lastteleport: 1615651161903
+  logout: 1615651298045
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 4319.532526670784
+  y: 77.0
+  z: 2989.360112946236
+  yaw: -192.49876403808594
+  pitch: 11.05998420715332
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 2612.8874189674234
+  y: 85.0
+  z: 3141.392322106646
+  yaw: 160.35516357421875
+  pitch: -8.633543014526367
+  world-name: ''
+ip-address: 176.190.120.68
+last-account-name: Sorchier
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

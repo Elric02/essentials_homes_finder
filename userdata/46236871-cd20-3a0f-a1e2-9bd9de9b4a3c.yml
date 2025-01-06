@@ -1,0 +1,63 @@
+timestamps:
+  login: 1556295187046
+  lastteleport: 1556295917552
+  logout: 1556297055400
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1.5704384429785143
+  y: 51.0
+  z: 27.486892930933674
+  yaw: -19.052730560302734
+  pitch: 64.5358657836914
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 52.063148792229995
+  y: 19.0
+  z: 281.87057084723847
+  yaw: 10.051513671875
+  pitch: 8.399965286254883
+  world-name: ''
+homes:
+  m:
+    world: world
+    x: -226.2685980383857
+    y: 132.0
+    z: -3865.3087621812624
+    yaw: 16.89544677734375
+    pitch: 5.550024509429932
+    world-name: ''
+  b:
+    world: world
+    x: -1727.0300431415226
+    y: 68.0
+    z: 466.32709207358243
+    yaw: 13.58953857421875
+    pitch: 23.959749221801758
+    world-name: ''
+  c:
+    world: world
+    x: -4867.793453278715
+    y: 84.0
+    z: -455.2890203402277
+    yaw: -163.85687255859375
+    pitch: 40.649818420410156
+    world-name: ''
+afk: false
+jailed: false
+ip-address: 92.171.199.175
+last-account-name: Maitregamer1907
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

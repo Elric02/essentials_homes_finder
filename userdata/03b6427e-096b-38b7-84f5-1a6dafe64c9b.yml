@@ -1,0 +1,38 @@
+timestamps:
+  login: 1560019144693
+  lastteleport: 1560019269199
+  logout: 1560019348113
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -5.699999988079068
+  y: 85.0
+  z: -40.65310557581361
+  yaw: 123.29711151123047
+  pitch: 22.98582649230957
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.83528485518295
+  y: 65.0
+  z: 86.16401105882112
+  yaw: 4.436135292053223
+  pitch: 2.349327325820923
+  world-name: ''
+ip-address: 89.82.249.206
+last-account-name: ibrahim9253
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

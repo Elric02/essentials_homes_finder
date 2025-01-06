@@ -1,0 +1,38 @@
+timestamps:
+  login: 1531906433649
+  logout: 1531907081241
+  lastteleport: 1531906987399
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -119.36439566077371
+  y: 50.0
+  z: 361.26833652976194
+  yaw: -269.54998779296875
+  pitch: -1.923567771911621
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -593.5845072807357
+  y: 64.0
+  z: -821.6999999880791
+  yaw: -184.69100952148438
+  pitch: 20.035173416137695
+  world-name: ''
+ip-address: 176.152.231.137
+last-account-name: Lenitra
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

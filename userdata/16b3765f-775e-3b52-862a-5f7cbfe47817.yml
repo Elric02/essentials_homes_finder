@@ -1,0 +1,89 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.65.93.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1670175164431
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670175425671
+  login: 1670171212066
+  kits:
+    stationaute: 1669653654143
+money: '5215.43125000000001696'
+last-account-name: Groldar
+lastlocation:
+  world: c57b9e2e-e619-4022-bb8b-7925496d5963
+  world-name: HestiaEnd
+  x: 240.67919104773108
+  y: 18.0
+  z: -11.366640354019305
+  yaw: -57.9541015625
+  pitch: 7.349914073944092
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 2101.0538448490634
+  y: 70.0
+  z: 1312.5616080509926
+  yaw: -173.5308837890625
+  pitch: -2.2499945163726807
+homes:
+  base:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 2095.259636912211
+    y: 72.0
+    z: 1308.8349712121903
+    yaw: 167.847900390625
+    pitch: 36.899986267089844
+  lave:
+    world: df07db1e-b199-46d9-9d37-2fe95ae52b01
+    world-name: Ressourcenether
+    x: -434.6598311772675
+    y: 34.0
+    z: -322.49367503235464
+    yaw: -101.68624877929688
+    pitch: 16.79945182800293
+  fleur:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -4614.740489059539
+    y: 16.0
+    z: -2202.952052554251
+    yaw: 2.6143221855163574
+    pitch: 7.199804306030273
+  mine:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -4608.504193120666
+    y: 16.0
+    z: -2081.286480304316
+    yaw: -0.374755859375
+    pitch: 4.649702548980713
+  bambou:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -451.5
+    y: 81.0
+    z: 311.5
+    yaw: -22.00018310546875
+    pitch: 35.73584747314453
+  eau:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -4254.431979602338
+    y: 63.0
+    z: -3515.846098785576
+    yaw: 4.959466934204102
+    pitch: 21.749902725219727

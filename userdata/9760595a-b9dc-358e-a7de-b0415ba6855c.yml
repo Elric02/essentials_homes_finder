@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.130.189.88
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1676542881443
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1676568850827
+  login: 1676568835870
+money: '200.0'
+last-account-name: Yoch85
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 2762.9970143244354
+  y: 63.0
+  z: -2951.899120880994
+  yaw: 0.9022216796875
+  pitch: 45.45000076293945
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -105.5
+  y: 99.0
+  z: 147.5
+  yaw: -93.448974609375
+  pitch: 18.14990997314453
+homes:
+  base:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 2765.5002552098404
+    y: 64.0
+    z: -2954.2859976977193
+    yaw: 87.4525146484375
+    pitch: 30.900131225585938
+  home:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 2770.2341937129704
+    y: 64.0
+    z: -2954.2560605536673
+    yaw: -37.64764404296875
+    pitch: 19.800138473510742

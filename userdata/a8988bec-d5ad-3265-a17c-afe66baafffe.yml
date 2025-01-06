@@ -1,0 +1,47 @@
+timestamps:
+  login: 1474823254145
+  logout: 1474823412336
+  lastteleport: 1474823067555
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -180.49176621134393
+  y: 68.90199999809265
+  z: 4230.420240382664
+  yaw: 193.6220703125
+  pitch: 41.256649017333984
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -336.30000001192093
+  y: 32.0
+  z: 4229.405550027554
+  yaw: 205.8101043701172
+  pitch: 3.87673282623291
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: -334.3975321956249
+    y: 32.0
+    z: 4224.069081862422
+    yaw: 61.64412307739258
+    pitch: 6.713387489318848
+    world-name: ''
+ip-address: 92.90.173.69
+last-account-name: Maxou_1012
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

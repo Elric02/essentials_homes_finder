@@ -1,0 +1,97 @@
+timestamps:
+  login: 1660772898437
+  lastteleport: 1660773283461
+  logout: 1660773330589
+  kits:
+    vip: 1502800475353
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 438b4f3b-f6b3-4095-b3db-751126eef01d
+  x: 774.7875510379199
+  y: 71.0
+  z: 358.25288670647177
+  yaw: -149.39035034179688
+  pitch: 9.53553295135498
+  world-name: AlthiumNether
+money: '0'
+homes:
+  maison:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    x: 2181.028885676148
+    y: 72.0
+    z: -2077.787379815926
+    yaw: -136.677978515625
+    pitch: 12.897224426269531
+    world-name: Althium
+  diaval:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5098.464397104516
+    y: 71.0
+    z: -526.4321895834305
+    yaw: 343.0977478027344
+    pitch: 4.537569046020508
+    world-name: world
+  nether:
+    world: world_nether
+    x: -4701.59017805408
+    y: 48.0625
+    z: 5567.098402047241
+    yaw: -120.69345092773438
+    pitch: 19.349241256713867
+    world-name: ''
+  cactus:
+    world: bd63a69b-f162-438e-8437-fbdb5ea04361
+    x: 1294.8603024609702
+    y: 65.0
+    z: 5306.8135596923175
+    yaw: -273.9212646484375
+    pitch: 1.3839828968048096
+    world-name: Ressource
+  sable:
+    world: bd63a69b-f162-438e-8437-fbdb5ea04361
+    x: -849.5206215744723
+    y: 64.0
+    z: -5833.648306248514
+    yaw: -161.08636474609375
+    pitch: 12.011191368103027
+    world-name: Ressource
+  spawner:
+    world: bd63a69b-f162-438e-8437-fbdb5ea04361
+    x: -5861.714965714894
+    y: 11.0
+    z: 5531.716037995281
+    yaw: -38.8350830078125
+    pitch: -6.655691623687744
+    world-name: Ressource
+  eau:
+    world: bd63a69b-f162-438e-8437-fbdb5ea04361
+    x: 6532.610041834085
+    y: 43.0
+    z: 4920.699999988079
+    yaw: -309.495361328125
+    pitch: 16.73159408569336
+    world-name: Ressource
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: 2181.936029372023
+  y: 72.0
+  z: -2078.1202708817436
+  yaw: 98.0823974609375
+  pitch: 9.350532531738281
+  world-name: Althium
+afk: false
+muted: false
+socialspy: false
+ip-address: 90.78.169.37
+last-account-name: Futur3x
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

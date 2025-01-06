@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 62.35.47.232
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1676670295543
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1676671391322
+  login: 1676670228482
+money: '0'
+last-account-name: maelou_27340
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 111.04146157823081
+  y: 65.0
+  z: 364.8818171192422
+  yaw: -70.949951171875
+  pitch: -11.849879264831543
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 116.06976876213973
+  y: 67.15814676123665
+  z: 371.1695525128213
+  yaw: -171.0018310546875
+  pitch: 29.100385665893555

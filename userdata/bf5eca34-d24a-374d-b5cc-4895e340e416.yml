@@ -1,0 +1,47 @@
+timestamps:
+  login: 1610785421399
+  lastteleport: 1610786576908
+  logout: 1610787093058
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 143.0229704268308
+  y: 63.0
+  z: 7.757074450415363
+  yaw: -261.2219543457031
+  pitch: 2.9708011150360107
+  world-name: ''
+money: '0'
+homes:
+  farm:
+    world: End
+    x: 14.24468567073118
+    y: 1.0
+    z: 372.50516649472604
+    yaw: 75.08758544921875
+    pitch: 16.078418731689453
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 155.38216343064374
+  y: 63.0
+  z: -163.69669049018458
+  yaw: -304.8160400390625
+  pitch: 77.17938232421875
+  world-name: ''
+ip-address: 176.167.56.90
+last-account-name: rathan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

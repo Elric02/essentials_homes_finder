@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.160.66.177
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670598796063
+  login: 1670598676059
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.0730588961285
+  y: 81.0
+  z: -3111.0110436425903
+  yaw: -86.36339569091797
+  pitch: 77.87841033935547
+last-account-name: noa_hosni
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.0730588961285
+  y: 81.0
+  z: -3111.0110436425903
+  yaw: -65.74417114257812
+  pitch: 7.572867393493652

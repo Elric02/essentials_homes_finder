@@ -1,0 +1,55 @@
+timestamps:
+  login: 1513370334641
+  lastteleport: 1513370911139
+  logout: 1513370942590
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5550.125127239104
+  y: 63.9375
+  z: 2052.041482505736
+  yaw: 97.96295928955078
+  pitch: 17.64780616760254
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 1557.0
+    y: 69.0
+    z: -3172.0
+    yaw: 0.0
+    pitch: 0.0
+    world-name: ''
+  ville:
+    world: world
+    x: -727.3036734541155
+    y: 72.0
+    z: 6802.675487669443
+    yaw: -243.635986328125
+    pitch: 14.261695861816406
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 10613.523039468257
+  y: 68.0
+  z: 9911.441528177216
+  yaw: -74.76995849609375
+  pitch: 26.599523544311523
+  world-name: ''
+money: '0'
+afk: false
+jailed: false
+ip-address: 82.64.25.38
+last-account-name: Galactica272
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

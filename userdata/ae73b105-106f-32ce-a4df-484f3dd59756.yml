@@ -1,0 +1,38 @@
+timestamps:
+  login: 1495901144906
+  lastteleport: 1495901271916
+  logout: 1495901557513
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -25.667139122626104
+  y: 66.36075
+  z: 6.699999988079071
+  yaw: -181.998046875
+  pitch: 11.104543685913086
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -21.920826845036245
+  y: 65.0
+  z: 12.43188738747627
+  yaw: -279.1708068847656
+  pitch: 22.765846252441406
+  world-name: ''
+ip-address: 90.1.237.110
+last-account-name: XxJoKer1999xX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

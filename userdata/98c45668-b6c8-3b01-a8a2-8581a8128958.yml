@@ -1,0 +1,47 @@
+timestamps:
+  login: 1517505921534
+  lastteleport: 1517507397483
+  logout: 1517507507526
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: 83.64618379892349
+  y: 85.0
+  z: -75.69999998807907
+  yaw: 10.7093505859375
+  pitch: 25.957910537719727
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5462.300000011921
+  y: 128.0
+  z: -727.6999999880791
+  yaw: -49.03304672241211
+  pitch: 14.55005168914795
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 5465.902290481979
+    y: 128.0
+    z: -720.0422988873569
+    yaw: 97.6669921875
+    pitch: 13.200054168701172
+    world-name: ''
+ip-address: 78.127.188.16
+last-account-name: Firelandbone
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

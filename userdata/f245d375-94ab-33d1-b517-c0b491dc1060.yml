@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.158.52.18
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1694722387847
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696151017089
+  login: 1696151016812
+money: '100.0'
+last-account-name: meztoOx
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 166.8920364652437
+  y: 33.0
+  z: -624.5064385952734
+  yaw: -16.0904541015625
+  pitch: 23.3282413482666
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 135.58528631984203
+  y: 33.0
+  z: -558.3714353517629
+  yaw: 104.90234375
+  pitch: 25.349687576293945

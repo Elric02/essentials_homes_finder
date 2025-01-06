@@ -1,0 +1,63 @@
+timestamps:
+  login: 1654876073541
+  lastteleport: 1654877629727
+  logout: 1654877715732
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  x: 399.7930722650517
+  y: 81.0
+  z: -3110.350025967428
+  yaw: 95.10189056396484
+  pitch: 0.899936854839325
+  world-name: station
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 107.30000001192091
+  y: 63.0
+  z: 37.14839078681459
+  yaw: 16.513240814208984
+  pitch: 20.550086975097656
+  world-name: world
+homes:
+  bas:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3396.4080941794136
+    y: 71.0
+    z: -2991.8894708734642
+    yaw: -336.1495666503906
+    pitch: 19.500038146972656
+    world-name: world
+  v:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3376.515952579484
+    y: 44.0
+    z: -3088.575084716715
+    yaw: 6.75048828125
+    pitch: 15.899869918823242
+    world-name: world
+  amamadouya:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3627.7666526796875
+    y: 73.5
+    z: -2943.897578490748
+    yaw: -276.15283203125
+    pitch: 55.49988555908203
+    world-name: world
+afk: false
+ip-address: 128.78.23.47
+last-account-name: LEGACY_Mat
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

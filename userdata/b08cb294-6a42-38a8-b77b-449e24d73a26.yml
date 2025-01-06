@@ -1,0 +1,38 @@
+timestamps:
+  login: 1564150640315
+  lastteleport: 1564150510587
+  logout: 1564150642069
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.09287701267465
+  y: 64.0
+  z: 67.23309590797666
+  yaw: -167.90309143066406
+  pitch: 6.39065408706665
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -158.36601747279823
+  y: 47.0
+  z: 546.0534210909743
+  yaw: 217.148681640625
+  pitch: 5.850001335144043
+  world-name: ''
+ip-address: 90.29.201.94
+last-account-name: perrine
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

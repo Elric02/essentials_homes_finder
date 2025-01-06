@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615212039219
+  lastteleport: 1615214113072
+  logout: 1615214131904
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 3236.903700511941
+  y: 5.0
+  z: 3462.443907536108
+  yaw: -10.34710693359375
+  pitch: 32.399864196777344
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -615.5589490258523
+  y: 80.0
+  z: -1540.7448415222186
+  yaw: -23.351806640625
+  pitch: 20.940204620361328
+  world-name: ''
+ip-address: 79.90.121.13
+last-account-name: joshua59
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1597159199960
+  lastteleport: 1597160857325
+  logout: 1597161696623
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 184.93119127662698
+  y: 130.0
+  z: -127.52729368084331
+  yaw: 80.926025390625
+  pitch: 6.450405120849609
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 152.914165293907
+  y: 63.0
+  z: 37.21735399843123
+  yaw: -173.200439453125
+  pitch: 2.729764938354492
+  world-name: ''
+ip-address: 85.190.79.40
+last-account-name: Alpacat
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

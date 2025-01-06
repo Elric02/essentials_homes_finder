@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 154.125.9.167
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668718391177
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668718602318
+  login: 1668717874256
+money: '0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 102.07499998807907
+  y: 63.0
+  z: -67.26337135569226
+  yaw: 27.314910888671875
+  pitch: 8.550237655639648
+last-account-name: SIMULI
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 6926.474815038512
+  y: 70.0
+  z: 2091.1556131143366
+  yaw: -22.201568603515625
+  pitch: 14.699968338012695

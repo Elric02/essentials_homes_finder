@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616101179998
+  lastteleport: 1615663816770
+  logout: 1616102092689
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 145.77502338829035
+  y: 63.0
+  z: -41.64536052967377
+  yaw: -269.7013244628906
+  pitch: -48.00042724609375
+  world-name: ''
+afk: false
+ip-address: 197.0.17.88
+last-account-name: hamza_gmeur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1556804559764
+  lastteleport: 1556804983955
+  logout: 1556806837932
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -192.21952494945904
+  y: 51.0
+  z: 361.5681823004196
+  yaw: -280.6493835449219
+  pitch: 5.699987411499023
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 189.03779354301042
+  y: 62.07326432466507
+  z: 2577.2541637900795
+  yaw: -111.80020141601562
+  pitch: 29.249900817871094
+  world-name: ''
+ip-address: 37.164.241.169
+last-account-name: felilidix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

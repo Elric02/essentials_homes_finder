@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.68.221.191
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1685135680909
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1685136382261
+  login: 1685135229398
+money: '100.0'
+last-account-name: ADW_LonYx
+lastlocation:
+  world: 1049c39c-53b0-4a8e-b1fc-50afc7933998
+  world-name: Ressource
+  x: -1.8920913316001013
+  y: 90.0
+  z: 0.8006421337235806
+  yaw: 97.25688934326172
+  pitch: -20.29938316345215
+logoutlocation:
+  world: 1049c39c-53b0-4a8e-b1fc-50afc7933998
+  world-name: Ressource
+  x: -80.33448947906103
+  y: 94.0
+  z: 16.798032625312594
+  yaw: -30.14288330078125
+  pitch: 25.829898834228516

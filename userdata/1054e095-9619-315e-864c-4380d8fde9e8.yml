@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.107.200.190
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1658337683631
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660049038574
+  login: 1660049008571
+money: '0'
+last-account-name: Louka_10
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -154.2234211458192
+  y: 67.0
+  z: -17.296366673127284
+  yaw: 86.31696319580078
+  pitch: 16.56114959716797
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1706.0124250438066
+  y: 64.0
+  z: 513.4365058134788
+  yaw: 39.513343811035156
+  pitch: 52.55476760864258
+homes:
+  de:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1685.0264661226493
+    y: 64.0
+    z: 530.5313524477133
+    yaw: -25.863372802734375
+    pitch: 27.30607032775879

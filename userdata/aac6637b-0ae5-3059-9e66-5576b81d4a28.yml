@@ -1,0 +1,47 @@
+timestamps:
+  login: 1503313463010
+  logout: 1503315005699
+  lastteleport: 1503313735798
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.96981370445747
+  y: 66.0
+  z: 19.223219904286164
+  yaw: -89.38274383544922
+  pitch: -8.192365646362305
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -41.69999998807907
+  y: 69.0
+  z: 219.69999998807907
+  yaw: -15.33526611328125
+  pitch: 56.433109283447266
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 19.450543589379244
+    y: 11.0
+    z: 76.30877732740744
+    yaw: 8.06231689453125
+    pitch: 23.699996948242188
+    world-name: ''
+afk: false
+ip-address: 78.221.236.25
+last-account-name: agentmh
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

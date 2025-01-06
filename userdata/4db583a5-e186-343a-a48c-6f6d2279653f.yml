@@ -1,0 +1,38 @@
+timestamps:
+  login: 1628094579233
+  lastteleport: 1628094682337
+  logout: 1628096599530
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.64542061748764
+  y: 64.0
+  z: 66.76602843119998
+  yaw: 212.49664306640625
+  pitch: -3.659336805343628
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 144.26784619464888
+  y: 64.0
+  z: 19.169375272401368
+  yaw: -92.64486694335938
+  pitch: -3.474139451980591
+  world-name: ''
+ip-address: 109.220.115.147
+last-account-name: alastor1303
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

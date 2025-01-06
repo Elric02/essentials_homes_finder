@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521300670206
+  logout: 1521300722195
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 139.95525564520483
+  y: 70.0
+  z: 97.57110409566425
+  yaw: -93.27630615234375
+  pitch: 19.19805145263672
+  world-name: ''
+ip-address: 178.63.171.106
+last-account-name: AddiTheGamer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

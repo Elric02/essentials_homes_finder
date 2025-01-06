@@ -1,0 +1,63 @@
+timestamps:
+  login: 1548241509025
+  lastteleport: 1548241526230
+  logout: 1548241565292
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -623.0063333381822
+  y: 64.0
+  z: -753.3554214328177
+  yaw: -166.2950439453125
+  pitch: 13.35004711151123
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -628.4815528833018
+  y: 67.0
+  z: -477.3145211134469
+  yaw: 266.7519226074219
+  pitch: 16.949995040893555
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: -632.2709431057333
+    y: 67.0
+    z: -474.91709299896536
+    yaw: 218.902099609375
+    pitch: 27.90001106262207
+    world-name: ''
+  ami:
+    world: world
+    x: 2530.869215731706
+    y: 63.0
+    z: 6944.713225571388
+    yaw: 4.652482986450195
+    pitch: 15.843027114868164
+    world-name: ''
+  deux:
+    world: world
+    x: 3419.499241436518
+    y: 64.0
+    z: -4580.77836974901
+    yaw: -352.95849609375
+    pitch: 39.59994888305664
+    world-name: ''
+money: '0'
+ip-address: 88.175.235.240
+last-account-name: Ppeldo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

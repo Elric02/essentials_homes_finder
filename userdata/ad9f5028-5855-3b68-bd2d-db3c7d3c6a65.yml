@@ -1,0 +1,38 @@
+timestamps:
+  login: 1496673292262
+  lastteleport: 1496673405328
+  logout: 1496673440527
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -262.697265625
+  pitch: -4.7025675773620605
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -297.5
+  y: 64.0
+  z: 358.5
+  yaw: 3.750389575958252
+  pitch: 7.350005626678467
+  world-name: ''
+ip-address: 90.108.188.244
+last-account-name: Emilien
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

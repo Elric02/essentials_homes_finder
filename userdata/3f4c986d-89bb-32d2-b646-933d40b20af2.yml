@@ -1,0 +1,47 @@
+timestamps:
+  login: 1475066670643
+  logout: 1475066822458
+  lastteleport: 1475066620824
+  mute: 1475067335221
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5803.45601264954
+  y: 68.0
+  z: -3027.8235341228483
+  yaw: -223.49996948242188
+  pitch: 25.500003814697266
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4926.699999988079
+  y: 69.0
+  z: 1234.002393759507
+  yaw: 99.75031280517578
+  pitch: 56.249996185302734
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 4927.648442576308
+    y: 69.0
+    z: 1233.4850541427356
+    yaw: -313.7996826171875
+    pitch: 44.55002975463867
+    world-name: ''
+muted: true
+ip-address: 176.149.220.98
+last-account-name: missponey
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

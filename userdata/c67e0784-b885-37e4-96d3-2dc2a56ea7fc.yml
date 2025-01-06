@@ -1,0 +1,38 @@
+timestamps:
+  login: 1531486946470
+  logout: 1531487058771
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.6094801324973
+  y: 63.0
+  z: 7.931990692091203
+  yaw: -209.76318359375
+  pitch: 16.27199935913086
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.6150599217249
+  y: 64.0
+  z: 11.521046315612807
+  yaw: -193.09722900390625
+  pitch: 27.933469772338867
+  world-name: ''
+money: '0'
+ip-address: 178.20.51.234
+last-account-name: ChuckNorrisdu24
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486825030259
+  logout: 1486825067980
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 167.3104093142614
+  y: 63.0
+  z: 49.98536196715212
+  yaw: -11.18829345703125
+  pitch: 6.962568283081055
+  world-name: ''
+ip-address: 88.182.64.76
+last-account-name: mineerbak
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

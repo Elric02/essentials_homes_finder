@@ -1,0 +1,38 @@
+timestamps:
+  login: 1562934013821
+  lastteleport: 1562934145532
+  logout: 1562934209421
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -624.6960337534261
+  y: 64.0
+  z: -751.7017360930249
+  yaw: -219.6973419189453
+  pitch: -2.973656177520752
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.26418927160105
+  y: 64.0
+  z: 16.46571623736569
+  yaw: 38.67926788330078
+  pitch: 5.578673839569092
+  world-name: ''
+ip-address: 88.126.192.61
+last-account-name: Brakko
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

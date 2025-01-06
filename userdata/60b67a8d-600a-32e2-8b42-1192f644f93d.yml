@@ -1,0 +1,63 @@
+timestamps:
+  login: 1588619611357
+  lastteleport: 1581111101226
+  logout: 1588620191630
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 6428.674243920072
+  y: 63.0
+  z: 6080.278701505857
+  yaw: -264.15057373046875
+  pitch: 31.049942016601562
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -7214.180685026284
+    y: 64.0
+    z: -5598.976496072723
+    yaw: -78.51679992675781
+    pitch: 31.200014114379883
+    world-name: ''
+  mushroom:
+    world: Ressource
+    x: 6590.159037281104
+    y: 84.0
+    z: 6212.932555438193
+    yaw: -83.99777221679688
+    pitch: 29.700103759765625
+    world-name: ''
+  mesa:
+    world: Ressource
+    x: 3075.4975783052787
+    y: 68.0
+    z: -4213.344138540469
+    yaw: 118.79833221435547
+    pitch: 17.250051498413086
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -7220.536031962684
+  y: 67.875
+  z: -5562.90522513289
+  yaw: -161.7703857421875
+  pitch: 20.550060272216797
+  world-name: ''
+ip-address: 84.5.95.163
+last-account-name: akahiko
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

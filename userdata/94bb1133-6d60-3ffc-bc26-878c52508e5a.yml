@@ -1,0 +1,38 @@
+timestamps:
+  login: 1613926715726
+  lastteleport: 1613926941238
+  logout: 1613927238866
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -2960.699999988079
+  y: 52.0
+  z: 3744.4456397956046
+  yaw: -271.05035400390625
+  pitch: 15.00002384185791
+  world-name: ''
+ip-address: 109.208.245.250
+last-account-name: Alphapheonix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

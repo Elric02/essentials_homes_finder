@@ -1,0 +1,60 @@
+timestamps:
+  login: 1467041923470
+  lastteleport: 1467041993567
+  logout: 1467042043741
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -564.5793964089826
+  y: 76.90199999809265
+  z: 82.65882815234363
+  yaw: -278.3945007324219
+  pitch: 14.924227714538574
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -564.9840320937534
+    y: 77.0
+    z: 82.15154967461508
+    yaw: -303.89453125
+    pitch: 18.224227905273438
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -567.2952802530987
+  y: 77.0
+  z: 79.70756553702518
+  yaw: -69.8944320678711
+  pitch: 15.974224090576172
+  world-name: ''
+ip-address: 78.229.104.12
+last-account-name: Kaiorga
+mail:
+- legacy: true
+  read: false
+  message: §6[§rnaturalizee§6] §rsalut, ta maison est installée la ou je devais faire
+    ma ville.. serais tu d'accor
+- legacy: true
+  read: false
+  message: §6[§rnaturalizee§6] §rpour la deplacer stp? si tu veux, bryjnolf te la
+    deplacera avec wordedit, pour
+- legacy: true
+  read: false
+  message: §6[§rnaturalizee§6] §rque ca soit plus simple, jespere que tu dira oiui,
+    merci bisous :*
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

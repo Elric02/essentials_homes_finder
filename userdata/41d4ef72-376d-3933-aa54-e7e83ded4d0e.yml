@@ -1,0 +1,38 @@
+timestamps:
+  login: 1587913147326
+  lastteleport: 1587913662603
+  logout: 1587913676483
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1.9725740625873356
+  y: 63.0
+  z: -0.17938466802028574
+  yaw: -56.65789794921875
+  pitch: 20.196250915527344
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 144.23367925392617
+  y: 64.0
+  z: 21.69545858409636
+  yaw: -249.3582305908203
+  pitch: 0.29350781440734863
+  world-name: ''
+ip-address: 91.160.189.22
+last-account-name: Vorpale_Prigov
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526747186925
+  lastteleport: 1526747792932
+  logout: 1526747912109
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.278669595718384
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -181.5208282470703
+  pitch: 0.6286695003509521
+  world-name: ''
+afk: false
+ip-address: 176.131.233.62
+last-account-name: azuria
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479223826520
+  logout: 1479223928985
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.71751122359635
+  y: 64.0
+  z: 15.36531383727265
+  yaw: 279.55267333984375
+  pitch: -11.752555847167969
+  world-name: ''
+ip-address: 88.163.207.83
+last-account-name: EsKimoZ_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

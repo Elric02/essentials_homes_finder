@@ -1,0 +1,63 @@
+timestamps:
+  login: 1512915804581
+  lastteleport: 1512919863902
+  logout: 1512919979385
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1163.5
+  y: 69.0
+  z: -4845.5
+  yaw: -83.24957275390625
+  pitch: 44.25
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -1164.0535243384377
+    y: 69.0
+    z: -4844.79011049712
+    yaw: -83.24957275390625
+    pitch: 44.25
+    world-name: ''
+  jump:
+    world: world
+    x: 1553.300000011921
+    y: 50.0
+    z: -2121.137499988079
+    yaw: 166.4010009765625
+    pitch: 59.603431701660156
+    world-name: ''
+  nether:
+    world: world_nether
+    x: 850.1560199713208
+    y: 47.0
+    z: -134.3711963941121
+    yaw: 35.45486831665039
+    pitch: 32.930355072021484
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world_nether
+  x: 850.5
+  y: 47.0
+  z: -134.5
+  yaw: 35.45486831665039
+  pitch: 32.930355072021484
+  world-name: ''
+afk: false
+ip-address: 78.205.12.8
+last-account-name: CHOU
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

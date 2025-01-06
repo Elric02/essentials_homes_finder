@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.126.156.123
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682708920393
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1690737566618
+  login: 1690737554414
+money: '350.0'
+last-account-name: ChocoPur
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -105.43706154703428
+  y: 99.0
+  z: 147.47592709634125
+  yaw: -89.99896240234375
+  pitch: -6.000091552734375
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 2256.762499988079
+  y: 95.0
+  z: 1237.401497274176
+  yaw: 7.949592590332031
+  pitch: 15.750032424926758
+homes:
+  chocolatine:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 2253.5
+    y: 94.0
+    z: 1235.5
+    yaw: 0.0
+    pitch: 0.0

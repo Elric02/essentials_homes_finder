@@ -1,0 +1,63 @@
+timestamps:
+  login: 1715072077321
+  lastteleport: 1715072483961
+  logout: 1715072486793
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  x: -87.83790386007597
+  y: 89.66366992183231
+  z: 325.11045431740837
+  yaw: -83.65536499023438
+  pitch: 8.21357250213623
+  world-name: plot
+money: '0.0'
+homes:
+  2moi:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3593.706642231084
+    y: 72.0
+    z: -2950.326909697203
+    yaw: -44.798675537109375
+    pitch: 25.424097061157227
+    world-name: world
+  loot:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3594.4998725307496
+    y: 58.0
+    z: -2940.364444807317
+    yaw: -47.03200149536133
+    pitch: 14.91288948059082
+    world-name: world
+  moi:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3375.5670755269707
+    y: 67.0
+    z: -3026.7289434413965
+    yaw: -19.44219970703125
+    pitch: 12.741780281066895
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3594.2833790192094
+  y: 72.0
+  z: -2950.94972349571
+  yaw: 17.650676727294922
+  pitch: 16.07539176940918
+  world-name: world
+afk: false
+ip-address: 176.170.50.122
+last-account-name: LegacyGoldenStar
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

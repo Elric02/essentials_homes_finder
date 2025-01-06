@@ -1,0 +1,63 @@
+timestamps:
+  login: 1611331904873
+  lastteleport: 1611334343890
+  logout: 1611334918021
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6783.195134015542
+  y: 58.0
+  z: -4901.732684958293
+  yaw: 288.4495849609375
+  pitch: 32.55007553100586
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -159.51825021864167
+  y: 65.0
+  z: -40.197104475105085
+  yaw: -260.04510498046875
+  pitch: 11.850016593933105
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -6783.762499988079
+    y: 58.0
+    z: -4902.272684053983
+    yaw: 355.94964599609375
+    pitch: 47.100067138671875
+    world-name: ''
+  nether:
+    world: Ressourcenether
+    x: -1265.0701186963208
+    y: 54.875
+    z: -893.3619087771782
+    yaw: -161.24920654296875
+    pitch: 7.649939060211182
+    world-name: ''
+  xx:
+    world: Ressource
+    x: -948.3546753519211
+    y: 60.491671191851154
+    z: -3524.5687807614963
+    yaw: -204.4500274658203
+    pitch: 28.500009536743164
+    world-name: ''
+afk: false
+ip-address: 2.7.166.216
+last-account-name: BoubouMGL
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

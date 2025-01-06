@@ -1,0 +1,63 @@
+timestamps:
+  login: 1485964035292
+  logout: 1485968296146
+  lastteleport: 1485967095855
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4860.283711762944
+  y: 69.0
+  z: -337.484010560989
+  yaw: -159.0322265625
+  pitch: 10.972402572631836
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6967.202729164924
+  y: 71.0
+  z: 3211.650033521856
+  yaw: -146.99403381347656
+  pitch: 10.485151290893555
+  world-name: ''
+homes:
+  h:
+    world: world
+    x: 6969.805326508412
+    y: 71.0
+    z: 3210.329945519445
+    yaw: -91.56431579589844
+    pitch: 38.272247314453125
+    world-name: ''
+  r:
+    world: ressource
+    x: -3875.712436190186
+    y: 85.0
+    z: -2973.0360405574584
+    yaw: 71.07345581054688
+    pitch: 21.145952224731445
+    world-name: ''
+  t:
+    world: ressource
+    x: 1094.4149620230673
+    y: 15.0
+    z: -4592.559339424147
+    yaw: -352.30877685546875
+    pitch: 18.0771427154541
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 78.242.166.7
+last-account-name: Pedrolane
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

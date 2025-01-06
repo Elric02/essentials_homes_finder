@@ -1,0 +1,38 @@
+timestamps:
+  login: 1625955630939
+  lastteleport: 1625955804236
+  logout: 1625955933425
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.50091240843858
+  y: 63.0
+  z: 41.10038380546357
+  yaw: 247.94989013671875
+  pitch: 17.54285430908203
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 4293.768746911788
+  y: 62.08062222911038
+  z: 516.1443863212837
+  yaw: 304.39581298828125
+  pitch: 12.360679626464844
+  world-name: ''
+ip-address: 92.158.83.173
+last-account-name: Krakelios
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

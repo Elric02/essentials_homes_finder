@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.88.217.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721766541131
+  login: 1721766537404
+money: '0'
+last-account-name: Pokemat72
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.0522451176271
+  y: 81.0
+  z: -3111.306760369504
+  yaw: -68.39818572998047
+  pitch: 12.149951934814453
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.99921607843993
+  y: 81.0
+  z: -3111.3277559086528
+  yaw: -57.14820861816406
+  pitch: -3.150052547454834

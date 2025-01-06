@@ -1,0 +1,63 @@
+timestamps:
+  login: 1477144008979
+  lastteleport: 1477148948019
+  logout: 1477149209235
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 88.82196506095751
+  y: 64.0
+  z: 31.927774040096942
+  yaw: -140.01052856445312
+  pitch: 49.37451934814453
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 141.5693237729668
+  y: 63.0
+  z: 27.580268146030228
+  yaw: -105.65966796875
+  pitch: 22.974523544311523
+  world-name: ''
+afk: false
+homes:
+  de:
+    world: world
+    x: -5838.5
+    y: 65.0
+    z: 5801.5
+    yaw: -75.51766204833984
+    pitch: -0.5997689962387085
+    world-name: ''
+  home:
+    world: world
+    x: 149.87771490988953
+    y: 64.0
+    z: 20.815166831657518
+    yaw: -208.56085205078125
+    pitch: 9.924514770507812
+    world-name: ''
+  souldefeder:
+    world: world
+    x: 131.51941154846634
+    y: 63.0
+    z: -10.153485143903252
+    yaw: -89.01111602783203
+    pitch: 29.874523162841797
+    world-name: ''
+ip-address: 31.32.239.198
+last-account-name: souldefender
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

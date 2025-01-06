@@ -1,0 +1,38 @@
+timestamps:
+  login: 1619226660018
+  logout: 1619226934701
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 62.69999998807907
+  y: 68.0
+  z: 62.55066670770869
+  yaw: -79.36001586914062
+  pitch: 21.50031280517578
+  world-name: ''
+ip-address: 45.67.146.35
+last-account-name: Xx_PoUfFeLfE_xX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

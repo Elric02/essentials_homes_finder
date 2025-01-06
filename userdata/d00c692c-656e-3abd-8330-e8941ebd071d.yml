@@ -1,0 +1,38 @@
+timestamps:
+  login: 1561033645747
+  lastteleport: 1561034614365
+  logout: 1561036233247
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -899.3171496314742
+  y: 75.0
+  z: -2265.0491107123535
+  yaw: -168.7076416015625
+  pitch: -1.5433969497680664
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Ressource
+  x: 1182.4656790910815
+  y: 21.0
+  z: 1246.6825403977402
+  yaw: -190.6984100341797
+  pitch: -14.880556106567383
+  world-name: ''
+ip-address: 176.156.219.104
+last-account-name: Barfou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

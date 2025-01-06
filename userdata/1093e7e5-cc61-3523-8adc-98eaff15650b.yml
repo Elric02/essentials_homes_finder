@@ -1,0 +1,47 @@
+timestamps:
+  login: 1472991213136
+  logout: 1472991596581
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 2920.4166441560787
+    y: 86.0
+    z: -3807.3525248338888
+    yaw: -272.85015869140625
+    pitch: 27.60003662109375
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2915.778869175555
+  y: 87.0
+  z: -3816.5588352928953
+  yaw: -293.54974365234375
+  pitch: 21.900033950805664
+  world-name: ''
+ip-address: 78.234.25.16
+last-account-name: TheBloodCalling
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

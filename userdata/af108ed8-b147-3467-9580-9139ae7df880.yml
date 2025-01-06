@@ -1,0 +1,47 @@
+timestamps:
+  login: 1614694921048
+  lastteleport: 1614697814138
+  logout: 1614698434787
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 3102.5676884441623
+  y: 64.0
+  z: 1719.0930184890524
+  yaw: -14.971466064453125
+  pitch: 8.400115966796875
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 3114.141555845863
+    y: 64.0
+    z: 1730.5662595065905
+    yaw: 18.751953125
+    pitch: 8.099653244018555
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 153.85980015979914
+  y: 64.0
+  z: 23.863866355319487
+  yaw: -220.29505920410156
+  pitch: 4.175890922546387
+  world-name: ''
+ip-address: 176.138.128.119
+last-account-name: yuranio
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

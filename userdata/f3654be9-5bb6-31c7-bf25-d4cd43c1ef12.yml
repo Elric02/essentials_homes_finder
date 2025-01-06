@@ -1,0 +1,38 @@
+timestamps:
+  login: 1494777454813
+  logout: 1494779364740
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5262.017701689906
+  y: 76.0
+  z: 5620.04705862933
+  yaw: -204.003173828125
+  pitch: 9.149986267089844
+  world-name: ''
+ip-address: 90.18.119.101
+last-account-name: Dj_Crumble
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

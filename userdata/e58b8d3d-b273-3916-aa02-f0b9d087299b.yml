@@ -1,0 +1,63 @@
+timestamps:
+  login: 1612097970164
+  lastteleport: 1612098682032
+  logout: 1612099117302
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.86254372646005
+  y: 64.0
+  z: 20.36922923380136
+  yaw: -56.7535400390625
+  pitch: 52.890174865722656
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Donjon
+  x: 2070.311174399054
+  y: 4.0
+  z: 2008.3710706770262
+  yaw: 296.4544677734375
+  pitch: 39.6385498046875
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 1654.300000011921
+    y: 109.0
+    z: -2283.772613941942
+    yaw: 123.35881042480469
+    pitch: 34.2083625793457
+    world-name: ''
+  explo:
+    world: Ressourcenether
+    x: 829.5931708058515
+    y: 51.0
+    z: 1510.4519280345146
+    yaw: 84.06218719482422
+    pitch: 44.243038177490234
+    world-name: ''
+  xp:
+    world: End
+    x: 15.844237882955806
+    y: 1.0
+    z: 375.22450999912166
+    yaw: 37.00577163696289
+    pitch: 51.11634826660156
+    world-name: ''
+afk: false
+ip-address: 82.250.129.105
+last-account-name: 3K0X_FFR
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

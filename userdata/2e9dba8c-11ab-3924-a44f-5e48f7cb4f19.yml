@@ -1,0 +1,38 @@
+timestamps:
+  login: 1622651053338
+  lastteleport: 1622652031243
+  logout: 1622652077087
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -64.48990671666024
+  y: 61.0
+  z: 12.520434087846041
+  yaw: -201.13134765625
+  pitch: 8.400572776794434
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3654.194466438063
+  y: 79.0
+  z: -6524.2687638732805
+  yaw: 322.9496765136719
+  pitch: 17.999988555908203
+  world-name: ''
+ip-address: 86.212.68.62
+last-account-name: hopablack
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

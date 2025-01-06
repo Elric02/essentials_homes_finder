@@ -1,0 +1,63 @@
+timestamps:
+  login: 1485982301827
+  lastteleport: 1485982459836
+  logout: 1485982717542
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -1703.5
+    y: 66.0
+    z: -4222.5
+    yaw: -0.60009765625
+    pitch: 15.599956512451172
+    world-name: ''
+  h:
+    world: Event
+    x: 1881.6011061286342
+    y: 53.0
+    z: 2986.553213405252
+    yaw: 178.79173278808594
+    pitch: 44.70009231567383
+    world-name: ''
+  f:
+    world: ressource
+    x: 1225.6827274550492
+    y: 66.0
+    z: 1393.8168669000852
+    yaw: -218.84986877441406
+    pitch: 31.649993896484375
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 1419.3048685681053
+  y: 63.0
+  z: -2285.6609524401624
+  yaw: 287.2751770019531
+  pitch: 11.250286102294922
+  world-name: ''
+muted: false
+ip-address: 93.1.54.151
+last-account-name: Hellons
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

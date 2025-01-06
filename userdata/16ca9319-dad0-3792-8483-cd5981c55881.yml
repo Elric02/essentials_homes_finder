@@ -1,0 +1,63 @@
+timestamps:
+  login: 1486234566042
+  logout: 1486234602948
+  lastteleport: 1486219063852
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -120.43261937413651
+  y: 71.9375
+  z: -108.47718519561545
+  yaw: 277.5857238769531
+  pitch: 50.54999923706055
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -134.37053069238354
+    y: 74.0
+    z: -109.6844904467258
+    yaw: -269.3133239746094
+    pitch: 33.1500244140625
+    world-name: ''
+  base2:
+    world: world
+    x: -161.99961751006205
+    y: 50.0
+    z: -137.33539319692224
+    yaw: 4.885986328125
+    pitch: 36.75003433227539
+    world-name: ''
+  base3:
+    world: ressource
+    x: 475.65598783560466
+    y: 11.0
+    z: 28.69999998807907
+    yaw: 83.29417419433594
+    pitch: 43.050010681152344
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.50968889162402
+  y: 64.0
+  z: 16.592470497991954
+  yaw: 21.088714599609375
+  pitch: 4.9499831199646
+  world-name: ''
+afk: false
+ip-address: 89.95.110.241
+last-account-name: Gaming13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

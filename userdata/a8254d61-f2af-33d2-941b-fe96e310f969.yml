@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.170.99.121
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668781832478
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668782061478
+  login: 1668781790630
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 398.647514354214
+  y: 81.0
+  z: -3110.3901823454607
+  yaw: 95.14434814453125
+  pitch: 9.626225471496582
+last-account-name: _Pqin
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 121.82385837008869
+  y: 66.0
+  z: 1.3921718130609564
+  yaw: 41.48545837402344
+  pitch: 19.90372657775879

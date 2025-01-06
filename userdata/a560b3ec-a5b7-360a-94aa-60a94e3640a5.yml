@@ -1,0 +1,55 @@
+timestamps:
+  login: 1501106348286
+  lastteleport: 1501107575041
+  logout: 1501108046392
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3212.0905929613164
+  y: 63.0
+  z: -512.2210910462557
+  yaw: 282.451171875
+  pitch: -4.350017547607422
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3215.420606926189
+  y: 63.0
+  z: -517.0999973774551
+  yaw: 308.10015869140625
+  pitch: -18.599979400634766
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 2178.4975458285467
+    y: 70.0
+    z: 5522.133518597961
+    yaw: 65.81356811523438
+    pitch: 15.749992370605469
+    world-name: ''
+  a:
+    world: world
+    x: -3212.0905929613164
+    y: 63.0
+    z: -512.2210910462557
+    yaw: 277.5010986328125
+    pitch: -1.7392634617863223E-5
+    world-name: ''
+muted: false
+ip-address: 81.53.36.24
+last-account-name: keita1
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

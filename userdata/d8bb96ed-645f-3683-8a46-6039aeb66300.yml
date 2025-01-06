@@ -1,0 +1,47 @@
+timestamps:
+  login: 1513623550665
+  lastteleport: 1513278118942
+  logout: 1513623567687
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 257.78576013527515
+  y: 67.0
+  z: -60.22792345867839
+  yaw: -79.67086791992188
+  pitch: 54.32869338989258
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 2724.105557846342
+    y: 69.0
+    z: -4555.26776954595
+    yaw: -76.48506927490234
+    pitch: 18.597759246826172
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 2865.580562526119
+  y: 69.0
+  z: -4703.024998169488
+  yaw: -91.785400390625
+  pitch: 46.800018310546875
+  world-name: ''
+ip-address: 109.132.36.250
+last-account-name: MisterCraft2411
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

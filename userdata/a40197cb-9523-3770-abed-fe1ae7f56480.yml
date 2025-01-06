@@ -1,0 +1,38 @@
+timestamps:
+  login: 1567283744325
+  lastteleport: 1567293036839
+  logout: 1567295299596
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 88.51249998807907
+  y: 58.0
+  z: -51.30000001192093
+  yaw: 5.250030517578125
+  pitch: 56.35000228881836
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 172.10335373071163
+  y: 63.0
+  z: 51.019279821553226
+  yaw: -97.07079315185547
+  pitch: 30.600011825561523
+  world-name: ''
+afk: false
+ip-address: 185.216.32.46
+last-account-name: SkyFight
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526651350998
+  lastteleport: 1526651834371
+  logout: 1526651881002
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4817.0
+  y: 72.0
+  z: -2183.0
+  yaw: 100.35002136230469
+  pitch: 23.099994659423828
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 153.39177897004578
+  y: 64.0
+  z: 15.871000603993245
+  yaw: -191.870849609375
+  pitch: 7.528670310974121
+  world-name: ''
+ip-address: 176.131.233.62
+last-account-name: alyza
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

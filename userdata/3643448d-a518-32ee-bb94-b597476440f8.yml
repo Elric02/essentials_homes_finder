@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 193.57.121.39
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1653123379810
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1653123383160
+  login: 1653123360403
+money: '0'
+last-account-name: fraize_
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.5
+  y: 64.0
+  z: 19.5
+  yaw: 134.2742462158203
+  pitch: 19.76966667175293
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.74276902018528
+  y: 64.0
+  z: 17.75782926547809
+  yaw: -175.74746704101562
+  pitch: 36.479713439941406

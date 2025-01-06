@@ -1,0 +1,55 @@
+timestamps:
+  login: 1471624983402
+  lastteleport: 1471118496848
+  logout: 1471625296998
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6072.300000011921
+  y: 65.0
+  z: 3660.513312260513
+  yaw: -179.84996032714844
+  pitch: 38.39997100830078
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5235.481246891579
+  y: 77.0
+  z: 507.9397713621519
+  yaw: 205.17752075195312
+  pitch: 18.449981689453125
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  alex:
+    world: world
+    x: -5237.623157313036
+    y: 73.0
+    z: 507.47289560876214
+    yaw: -159.9287109375
+    pitch: 38.699951171875
+    world-name: ''
+  maison:
+    world: world
+    x: -6072.324040832855
+    y: 65.0
+    z: 3660.352561077185
+    yaw: 171.30010986328125
+    pitch: 37.34999465942383
+    world-name: ''
+ip-address: 92.147.4.95
+last-account-name: Crafior
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

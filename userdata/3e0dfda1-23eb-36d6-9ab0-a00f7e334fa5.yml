@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476618557905
+  logout: 1476618589216
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.13716406595452
+  y: 63.0
+  z: 37.38030604263126
+  yaw: -158.2974853515625
+  pitch: 23.497404098510742
+  world-name: ''
+ip-address: 109.27.14.93
+last-account-name: totoch37
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

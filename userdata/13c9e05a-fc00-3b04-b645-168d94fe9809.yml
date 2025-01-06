@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509200973380
+  logout: 1509201488464
+  lastteleport: 1508796055805
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 119.6527316763044
+  y: 63.0
+  z: 22.7718261882472
+  yaw: 184.7063751220703
+  pitch: 23.158166885375977
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 99.2874600571738
+  y: 65.0
+  z: 64.34103237311668
+  yaw: 167.35272216796875
+  pitch: 12.794650077819824
+  world-name: ''
+money: '0'
+ip-address: 90.109.14.172
+last-account-name: the_wamburger1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1539711880337
+  logout: 1539712025761
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1679.2020531283247
+  y: 64.0
+  z: 2273.267819927461
+  yaw: 109.9450454711914
+  pitch: 37.19978713989258
+  world-name: ''
+money: '0'
+ip-address: 77.145.16.34
+last-account-name: Jennalya_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

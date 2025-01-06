@@ -1,0 +1,38 @@
+timestamps:
+  login: 1491384317821
+  logout: 1491384365044
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -6765.682049161529
+  y: 70.0
+  z: -6491.1375261713865
+  yaw: 111.76092529296875
+  pitch: -1.9008045196533203
+  world-name: ''
+ip-address: 86.249.103.43
+last-account-name: timberlek
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

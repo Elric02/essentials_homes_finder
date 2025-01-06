@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509123087673
+  lastteleport: 1509123448989
+  logout: 1509123501998
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 74.21637284341293
+  y: 67.0
+  z: -42.06732088235986
+  yaw: 12.741973876953125
+  pitch: 11.62693977355957
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.7708282470703
+  pitch: 2.2201030254364014
+  world-name: ''
+ip-address: 176.128.82.16
+last-account-name: Tanarel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

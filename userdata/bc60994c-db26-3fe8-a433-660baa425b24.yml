@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.110.39.55
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1658914420879
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1658914647277
+  login: 1658914176468
+money: '0'
+last-account-name: KURJACKUS
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 156.29549169210654
+  y: 63.0
+  z: 51.53384029455096
+  yaw: 103.1463623046875
+  pitch: 1.1406306028366089
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -137.81476922688756
+  y: 70.0
+  z: -34.91456870625995
+  yaw: 35.5494384765625
+  pitch: 11.849960327148438

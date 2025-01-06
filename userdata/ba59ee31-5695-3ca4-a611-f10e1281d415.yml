@@ -1,0 +1,63 @@
+timestamps:
+  login: 1554983870896
+  logout: 1554983970149
+  lastteleport: 1485318609089
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 641.4605918298371
+  y: 63.0
+  z: 2617.548871851586
+  yaw: -111.5418701171875
+  pitch: 9.704837799072266
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -5039.826394776713
+  y: 63.0
+  z: 3439.8423568489648
+  yaw: -139.02215576171875
+  pitch: 29.250194549560547
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 555.9269570837808
+    y: 64.5
+    z: 2402.389182913988
+    yaw: 261.4663391113281
+    pitch: 15.639930725097656
+    world-name: ''
+  a:
+    world: world
+    x: 554.8660902787151
+    y: 64.5
+    z: 2402.5434226260377
+    yaw: 261.4663391113281
+    pitch: 15.639930725097656
+    world-name: ''
+  b:
+    world: world
+    x: 557.2195521564522
+    y: 64.5
+    z: 2402.1921682710927
+    yaw: 261.4663391113281
+    pitch: 15.639930725097656
+    world-name: ''
+ip-address: 86.241.70.210
+last-account-name: _virusse_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

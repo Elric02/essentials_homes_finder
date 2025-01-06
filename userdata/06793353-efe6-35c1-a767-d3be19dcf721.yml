@@ -1,0 +1,38 @@
+timestamps:
+  login: 1605382473965
+  logout: 1605382485186
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.5
+  y: 65.0
+  z: 100.5
+  yaw: 124.1473388671875
+  pitch: 1.4406529664993286
+  world-name: ''
+ip-address: 46.193.66.8
+last-account-name: Thornereis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

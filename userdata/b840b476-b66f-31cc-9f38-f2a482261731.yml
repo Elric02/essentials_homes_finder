@@ -1,0 +1,38 @@
+timestamps:
+  login: 1525522307091
+  logout: 1525522374908
+  lastteleport: 1525522313576
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.74442016071748
+  y: 66.0
+  z: 19.69341897833112
+  yaw: -90.98902130126953
+  pitch: 6.524125576019287
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -18.300984403736805
+  y: 82.0
+  z: 67.61433977661895
+  yaw: 39.80982971191406
+  pitch: 87.98057556152344
+  world-name: ''
+ip-address: 78.246.59.182
+last-account-name: Gabriel26
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

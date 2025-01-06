@@ -1,0 +1,47 @@
+timestamps:
+  login: 1484409423128
+  lastteleport: 1484408917222
+  logout: 1484409655760
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5729.413437224116
+  y: 64.0
+  z: -936.1412859952958
+  yaw: -346.742431640625
+  pitch: 18.599987030029297
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5742.2947129081285
+  y: 47.5
+  z: -887.056685039146
+  yaw: -295.892333984375
+  pitch: 29.5499324798584
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -5729.385458875807
+    y: 64.0
+    z: -934.9501653188967
+    yaw: -339.0926208496094
+    pitch: 12.149965286254883
+    world-name: ''
+money: '0'
+ip-address: 88.180.104.237
+last-account-name: Subbiii
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

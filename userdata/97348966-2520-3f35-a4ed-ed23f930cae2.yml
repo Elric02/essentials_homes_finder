@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514501905355
+  logout: 1514501934741
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 163.9271891268958
+  y: 63.0
+  z: 56.199990225288516
+  yaw: 143.71163940429688
+  pitch: 2.0406508445739746
+  world-name: ''
+ip-address: 78.231.176.10
+last-account-name: Pootish
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

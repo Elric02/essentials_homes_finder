@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.128.6.81
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732290952273
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732291383578
+  login: 1732290857566
+money: '550.0'
+last-account-name: opsys18
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -1069.505949300567
+  y: 76.0
+  z: 3645.513222135569
+  yaw: 82.64898681640625
+  pitch: 17.099876403808594
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 5071.599714707435
+  y: 64.0
+  z: -7403.726010690402
+  yaw: -26.684661865234375
+  pitch: 5.850280284881592
+homes:
+  opsys:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -1065.319935244523
+    y: 76.0
+    z: 3645.985763104819
+    yaw: 90.598876953125
+    pitch: 21.899866104125977
+  res:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -1130.317944947703
+    y: 78.0
+    z: -369.3654370265282
+    yaw: 24.146026611328125
+    pitch: 19.68593406677246
+  test:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -92.0
+    y: 112.0
+    z: 3.0
+    yaw: 24.299978256225586
+    pitch: 8.700006484985352

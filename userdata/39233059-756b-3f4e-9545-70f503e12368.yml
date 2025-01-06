@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478704379039
+  logout: 1478704460748
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.7377048614841
+  y: 63.0
+  z: 44.20743556167391
+  yaw: 84.1163101196289
+  pitch: 0.47357049584388733
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.178753681322
+  y: 27.5
+  z: 20.306003354375466
+  yaw: 159.61318969726562
+  pitch: 13.763524055480957
+  world-name: ''
+ip-address: 31.38.41.157
+last-account-name: ZeProf2Filozofie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

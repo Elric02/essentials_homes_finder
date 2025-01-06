@@ -1,0 +1,47 @@
+timestamps:
+  login: 1578499171781
+  lastteleport: 1578500811215
+  logout: 1578500941345
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -902.1451601335866
+  y: 70.0
+  z: -69.38208343873706
+  yaw: 246.1531982421875
+  pitch: 35.54994583129883
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -828.4867706820465
+    y: 64.0
+    z: -116.4118447494493
+    yaw: 78.60507202148438
+    pitch: 12.599996566772461
+    world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: -831.4151213947908
+  y: 66.5
+  z: -117.35348498820359
+  yaw: 270.44854736328125
+  pitch: 50.85017013549805
+  world-name: ''
+ip-address: 86.202.183.229
+last-account-name: ogrin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

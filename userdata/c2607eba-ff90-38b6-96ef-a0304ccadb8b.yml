@@ -1,0 +1,63 @@
+timestamps:
+  login: 1598211126001
+  lastteleport: 1597867909815
+  logout: 1598211542010
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -7420.300000011921
+  y: 8.0
+  z: 2507.1101227308022
+  yaw: 263.3555908203125
+  pitch: -26.829532623291016
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6618.300000011921
+  y: 55.0
+  z: 1601.300000011921
+  yaw: -281.03564453125
+  pitch: 27.47368049621582
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -6673.392812707786
+    y: 63.0
+    z: 1628.4809852874373
+    yaw: -90.682373046875
+    pitch: 30.347671508789062
+    world-name: ''
+  base:
+    world: world
+    x: -4154.888422999634
+    y: 63.0
+    z: -3933.480504505961
+    yaw: -207.95294189453125
+    pitch: 39.67751693725586
+    world-name: ''
+  toto:
+    world: world
+    x: -7332.068421508508
+    y: 68.0
+    z: 2428.5650721418833
+    yaw: 59.54172134399414
+    pitch: 15.56149673461914
+    world-name: ''
+afk: false
+ip-address: 77.194.254.100
+last-account-name: Baka_F2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

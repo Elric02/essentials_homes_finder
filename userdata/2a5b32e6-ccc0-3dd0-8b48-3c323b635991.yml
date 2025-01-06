@@ -1,0 +1,38 @@
+timestamps:
+  login: 1625423445985
+  logout: 1625423495590
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -713.0414605314318
+  y: 99.83968201324328
+  z: 78.31998169393634
+  yaw: 76.1781234741211
+  pitch: 10.353896141052246
+  world-name: ''
+ip-address: 83.202.25.153
+last-account-name: Ishihlanzo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

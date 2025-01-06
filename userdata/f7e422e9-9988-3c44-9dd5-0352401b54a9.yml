@@ -1,0 +1,38 @@
+timestamps:
+  login: 1597654168287
+  lastteleport: 1597654276137
+  logout: 1597654552652
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.1359352705357
+  y: 63.0
+  z: 64.56916205118051
+  yaw: 183.011474609375
+  pitch: -2.574864149093628
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6421.840634581351
+  y: 64.0
+  z: -5624.428361606543
+  yaw: 62.374759674072266
+  pitch: 12.339478492736816
+  world-name: ''
+ip-address: 105.110.100.187
+last-account-name: DatWave
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

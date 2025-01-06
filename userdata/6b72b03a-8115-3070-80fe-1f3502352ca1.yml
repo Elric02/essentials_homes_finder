@@ -1,0 +1,63 @@
+timestamps:
+  login: 1512910064036
+  lastteleport: 1512910825335
+  logout: 1512910913254
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -279.4896120839873
+  y: 65.0
+  z: 367.9144403859389
+  yaw: -146.93124389648438
+  pitch: 5.680802345275879
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -820.3305287036281
+  y: 68.0
+  z: -1548.9848039019996
+  yaw: -248.42181396484375
+  pitch: 2.1242241859436035
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -2591.699999988079
+    y: 94.0
+    z: 2314.300000011921
+    yaw: 271.5337829589844
+    pitch: 3.8423030376434326
+    world-name: ''
+  chevals:
+    world: ressource
+    x: 4797.687950295438
+    y: 66.0
+    z: 2604.5656518578526
+    yaw: -41.818084716796875
+    pitch: 15.67676830291748
+    world-name: ''
+  end:
+    world: world
+    x: -2566.5369916955333
+    y: 209.5
+    z: 2318.4772542442156
+    yaw: -86.50515747070312
+    pitch: 78.3528823852539
+    world-name: ''
+afk: false
+money: '0'
+muted: false
+ip-address: 78.209.124.51
+last-account-name: TheManInCharge1
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

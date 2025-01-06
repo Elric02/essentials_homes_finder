@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 197.15.226.215
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720373625414
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720373648930
+  login: 1720372946651
+money: '50.0'
+last-account-name: yousseflebest
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 245.48940229979252
+  y: 132.0
+  z: 139.45773838626735
+  yaw: 178.97105407714844
+  pitch: 7.500364303588867
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 162.77051213682404
+  y: 63.0
+  z: 11.939525507636546
+  yaw: 66.1513671875
+  pitch: 19.049957275390625

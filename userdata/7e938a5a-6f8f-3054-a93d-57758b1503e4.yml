@@ -1,0 +1,63 @@
+timestamps:
+  login: 1486287241828
+  lastteleport: 1486287314710
+  logout: 1486287803461
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 4825.415283022681
+  y: 71.0
+  z: -4697.256830413574
+  yaw: 357.74969482421875
+  pitch: 33.5999755859375
+  world-name: ''
+money: '0'
+muted: false
+homes:
+  mine:
+    world: world
+    x: -490.2238105121194
+    y: 52.0
+    z: -3643.3354976505634
+    yaw: -227.18736267089844
+    pitch: 39.45001983642578
+    world-name: ''
+  m1:
+    world: world
+    x: -562.2136587044727
+    y: 63.0
+    z: -3612.498873734955
+    yaw: 165.96559143066406
+    pitch: 10.349987983703613
+    world-name: ''
+  end:
+    world: world
+    x: -4253.825806282223
+    y: 63.5
+    z: -3676.300000011921
+    yaw: 20.69818115234375
+    pitch: 20.54994773864746
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -582.7189203177193
+  y: 64.5
+  z: -3613.7102020121947
+  yaw: 263.61492919921875
+  pitch: 30.14998435974121
+  world-name: ''
+ip-address: 78.217.127.21
+last-account-name: fasegame
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

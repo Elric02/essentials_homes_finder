@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.66.28.202
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1666253794838
+  login: 1666253791931
+money: '0'
+last-account-name: daron0709
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.95123263144706
+  y: 81.0
+  z: -3111.0211967589703
+  yaw: -67.64824676513672
+  pitch: 17.84994888305664
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 419.18133846453077
+  y: 81.0
+  z: -3146.032005067839
+  yaw: -55.64607238769531
+  pitch: 18.899948120117188

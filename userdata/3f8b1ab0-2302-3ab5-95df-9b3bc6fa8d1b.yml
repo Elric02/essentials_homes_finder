@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.207.60.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1679086620123
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1679086858484
+  login: 1679086594433
+money: '50.0'
+last-account-name: SullivanCmoi61
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -549.0759502733076
+  y: 33.0
+  z: 237.64945226856327
+  yaw: 76.55923461914062
+  pitch: 20.399084091186523
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -390.12915265831094
+  y: 53.39185699658953
+  z: 155.66987276116012
+  yaw: -146.25592041015625
+  pitch: 40.800048828125

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510762092033
+  lastteleport: 1510762575319
+  logout: 1510762587465
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -312.9270493865124
+  y: 69.0
+  z: 342.96933021631276
+  yaw: -161.24859619140625
+  pitch: 9.449991226196289
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -604.2489785920786
+  y: 64.0
+  z: -767.3813129364103
+  yaw: -266.3469543457031
+  pitch: 23.7263240814209
+  world-name: ''
+ip-address: 178.194.71.51
+last-account-name: _Sixtine_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

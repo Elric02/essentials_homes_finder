@@ -1,0 +1,47 @@
+timestamps:
+  login: 1588721802862
+  lastteleport: 1588724776024
+  logout: 1588724882901
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3976.5
+  y: 73.0
+  z: 6792.5
+  yaw: 168.4573516845703
+  pitch: 5.250614643096924
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -3976.62676589969
+    y: 73.0
+    z: 6792.711816510919
+    yaw: 309.6072998046875
+    pitch: 11.400614738464355
+    world-name: ''
+ip-address: 78.251.85.45
+last-account-name: k1ngJu_894
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

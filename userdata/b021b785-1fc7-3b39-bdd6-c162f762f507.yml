@@ -1,0 +1,47 @@
+timestamps:
+  login: 1574461891373
+  logout: 1574462856113
+  lastteleport: 1574462669589
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 994.5915618563536
+  y: 11.0
+  z: -1414.1458582751955
+  yaw: -74.10086059570312
+  pitch: 33.29999923706055
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1297.8352239372523
+  y: 102.01999893784523
+  z: -1984.9685945938006
+  yaw: -58.661529541015625
+  pitch: -8.458250999450684
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 1018.9671513571516
+    y: 63.0
+    z: -1417.3499702381978
+    yaw: 2.4001007080078125
+    pitch: 21.149959564208984
+    world-name: ''
+ip-address: 91.164.43.110
+last-account-name: BaronHeal
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

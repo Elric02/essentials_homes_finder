@@ -1,0 +1,38 @@
+timestamps:
+  login: 1497369850913
+  logout: 1497369871306
+  lastteleport: 1497369865400
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Test
+  x: 5.159935828148325
+  y: 22.0
+  z: 11.9359107624576
+  yaw: -221.585693359375
+  pitch: 41.73307418823242
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -174.36090087890625
+  pitch: -1.025484561920166
+  world-name: ''
+ip-address: 85.26.109.99
+last-account-name: bashug2426
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

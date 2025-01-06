@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483788932158
+  logout: 1483789031127
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 132.76359255207927
+  y: 63.5
+  z: -10.194993938096008
+  yaw: -187.36077880859375
+  pitch: 41.078773498535156
+  world-name: ''
+ip-address: 86.207.173.95
+last-account-name: urico
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

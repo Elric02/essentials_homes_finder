@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477595268432
+  lastteleport: 1477595297659
+  logout: 1477595439297
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -3022.340082667768
+  y: 62.955938236590676
+  z: 6021.585855977004
+  yaw: -204.1451416015625
+  pitch: 90.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 63.875
+  z: 31.5
+  yaw: -140.47018432617188
+  pitch: -66.1566162109375
+  world-name: ''
+ip-address: 109.217.11.7
+last-account-name: Yris39
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

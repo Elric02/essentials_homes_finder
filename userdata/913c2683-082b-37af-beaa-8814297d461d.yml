@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499180463149
+  logout: 1499180538187
+  lastteleport: 1498924200512
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5521.0984208666605
+  y: 64.9375
+  z: -1180.9897563689408
+  yaw: -346.455322265625
+  pitch: 22.199983596801758
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3432.300000011921
+  y: 72.0
+  z: 6363.914048811732
+  yaw: -156.4483642578125
+  pitch: 22.2000789642334
+  world-name: ''
+money: '0'
+ip-address: 176.180.28.29
+last-account-name: asulf_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

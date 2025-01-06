@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516191036721
+  lastteleport: 1516172681442
+  logout: 1516191099880
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 150.52498181328687
+  y: 65.0
+  z: 58.268541759996225
+  yaw: 267.0968933105469
+  pitch: 26.790651321411133
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3953.756966339381
+  y: 53.5
+  z: -1832.8849251158952
+  yaw: -1.198333740234375
+  pitch: -90.0
+  world-name: ''
+ip-address: 78.197.208.13
+last-account-name: Raya
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

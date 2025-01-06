@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.252.162.37
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1637837854150
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1637838495470
+  login: 1637837729061
+money: '0'
+last-account-name: Bubble_Gummy5
+lastlocation:
+  world: 9ac5ca26-dca9-4051-9ec4-2a3797eb77e5
+  world-name: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+logoutlocation:
+  world: 9ac5ca26-dca9-4051-9ec4-2a3797eb77e5
+  world-name: Ressource
+  x: -149.41894210330975
+  y: 57.0
+  z: 23.237556224396137
+  yaw: -132.57830810546875
+  pitch: 30.91730499267578

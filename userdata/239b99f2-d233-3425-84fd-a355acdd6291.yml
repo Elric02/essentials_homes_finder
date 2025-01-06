@@ -1,0 +1,47 @@
+timestamps:
+  login: 1607867920819
+  lastteleport: 1607868314508
+  logout: 1607872587742
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6894.546803574705
+  y: 72.0
+  z: 1890.6886773901815
+  yaw: 104.232666015625
+  pitch: 45.300193786621094
+  world-name: ''
+money: '0'
+homes:
+  a:
+    world: world
+    x: -6806.824482815081
+    y: 79.0
+    z: 1795.507885347924
+    yaw: 176.376953125
+    pitch: 42.74986267089844
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -6806.609008275601
+  y: 79.0
+  z: 1795.4812148584729
+  yaw: 83.3544921875
+  pitch: 55.2000732421875
+  world-name: ''
+ip-address: 77.205.187.217
+last-account-name: Slipknot
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

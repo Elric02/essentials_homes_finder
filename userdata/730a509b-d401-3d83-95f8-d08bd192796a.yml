@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480516829172
+  lastteleport: 1480516962469
+  logout: 1480517133461
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 33.69999998807907
+  y: 64.0
+  z: 23.24832544549183
+  yaw: -73.69727325439453
+  pitch: 15.997390747070312
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 49.03560379672076
+  y: 63.0
+  z: -5.129654616241972
+  yaw: 240.8389892578125
+  pitch: 20.12453269958496
+  world-name: ''
+ip-address: 91.69.239.120
+last-account-name: Tewwel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,39 @@
+timestamps:
+  login: 1478872903661
+  lastteleport: 1478877598074
+  logout: 1478878918647
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 170.83115662378123
+  y: 141.5
+  z: -122.1555272230338
+  yaw: 128.339599609375
+  pitch: 27.474477767944336
+  world-name: ''
+nickname: SoldatGarhin
+afk: false
+logoutlocation:
+  world: world
+  x: 66.02840246940892
+  y: 75.0
+  z: 59.74240650313187
+  yaw: -231.3974609375
+  pitch: 26.85004425048828
+  world-name: ''
+ip-address: 90.48.194.151
+last-account-name: Garhin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

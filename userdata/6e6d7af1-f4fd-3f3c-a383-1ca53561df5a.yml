@@ -1,0 +1,47 @@
+timestamps:
+  login: 1512294439761
+  lastteleport: 1512294515805
+  logout: 1512294544004
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 3507.0498788458326
+  y: 6.0
+  z: 3506.5342550678865
+  yaw: 165.4014129638672
+  pitch: 44.35332107543945
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2983.709694831266
+  y: 73.0
+  z: -4566.168495549021
+  yaw: -33.17756652832031
+  pitch: 55.910396575927734
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world_the_end
+    x: -2575.8333893143135
+    y: 20.5
+    z: 1779.4698589440143
+    yaw: -329.7535400390625
+    pitch: 12.74796199798584
+    world-name: ''
+ip-address: 90.49.43.221
+last-account-name: ledieu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

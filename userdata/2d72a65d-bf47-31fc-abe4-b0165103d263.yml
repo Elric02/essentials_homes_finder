@@ -1,0 +1,55 @@
+timestamps:
+  login: 1625814703419
+  lastteleport: 1625816654863
+  logout: 1625817230653
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4639.009459959054
+  y: 80.0
+  z: -1868.9288390990569
+  yaw: 58.29580307006836
+  pitch: 8.59734058380127
+  world-name: ''
+money: '0'
+homes:
+  village:
+    world: world
+    x: -4638.22542230291
+    y: 80.0
+    z: -1874.4986796427193
+    yaw: -5.3195719718933105
+    pitch: 23.249975204467773
+    world-name: ''
+  xp:
+    world: End
+    x: -391.68858509532856
+    y: 1.0
+    z: -1.1081819227126695
+    yaw: 261.2384033203125
+    pitch: 17.522775650024414
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1134.960306807523
+  y: 87.0
+  z: -6736.573456677882
+  yaw: -186.32559204101562
+  pitch: 30.63185691833496
+  world-name: ''
+afk: false
+ip-address: 86.241.104.111
+last-account-name: fazio
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

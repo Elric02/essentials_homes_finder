@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.8.106.143
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675610897487
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675610908448
+  login: 1675610818545
+money: '0'
+last-account-name: lolo84zerr
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 398.05053720455624
+  y: 81.0
+  z: -3109.878486169072
+  yaw: 104.25164031982422
+  pitch: 11.399938583374023
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -105.5
+  y: 99.0
+  z: 147.5
+  yaw: -87.2989501953125
+  pitch: 13.499934196472168

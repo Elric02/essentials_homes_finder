@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618604078379
+  lastteleport: 1618605312494
+  logout: 1618605383751
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1670.6127856459116
+  y: 64.0
+  z: -2499.1820809275764
+  yaw: -12.748870849609375
+  pitch: 23.400089263916016
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 158.16814758203412
+  y: 63.0
+  z: 39.668751924821386
+  yaw: 70.10460662841797
+  pitch: 16.625890731811523
+  world-name: ''
+ip-address: 93.8.102.99
+last-account-name: alihorse6
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

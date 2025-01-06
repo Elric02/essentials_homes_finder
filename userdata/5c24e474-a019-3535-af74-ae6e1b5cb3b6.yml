@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.162.244.211
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1691597647176
+  login: 1691597637714
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.543942335922
+  y: 81.0
+  z: -3111.0078116424884
+  yaw: -74.24504852294922
+  pitch: 5.062467575073242
+last-account-name: Irwayz
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.4924457814397
+  y: 81.0
+  z: -3111.022339830059
+  yaw: -75.7433090209961
+  pitch: 1.4666821956634521

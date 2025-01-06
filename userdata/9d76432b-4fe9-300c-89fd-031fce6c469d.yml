@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486930289704
+  logout: 1486930344923
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 198.64112786704214
+  y: 64.0
+  z: 23.561328933272918
+  yaw: -55.39745330810547
+  pitch: 19.897396087646484
+  world-name: ''
+ip-address: 90.57.177.246
+last-account-name: King2boulogne
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1489236749186
+  lastteleport: 1489237422598
+  logout: 1489238026558
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -195.38340424723873
+    y: 49.5
+    z: 505.1925370935505
+    yaw: 34.148406982421875
+    pitch: 44.5500373840332
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -158.63610904412775
+  y: 47.0
+  z: 442.99441817237545
+  yaw: 358.59796142578125
+  pitch: 11.549967765808105
+  world-name: ''
+ip-address: 109.31.75.55
+last-account-name: AznarbCool
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

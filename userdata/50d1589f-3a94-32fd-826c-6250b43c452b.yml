@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477300717590
+  logout: 1477301188850
+  lastteleport: 1477300968271
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -287.5122078205815
+  y: 65.0
+  z: -350.2425898868704
+  yaw: 110.67943572998047
+  pitch: 28.44793701171875
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: -235.65846126110503
+  y: 63.0
+  z: 549.9934564420297
+  yaw: 37.52863693237305
+  pitch: 18.587425231933594
+  world-name: ''
+ip-address: 88.191.157.58
+last-account-name: brawok
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

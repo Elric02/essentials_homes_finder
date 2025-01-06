@@ -1,0 +1,47 @@
+timestamps:
+  login: 1488653885596
+  lastteleport: 1488656129413
+  logout: 1488656228158
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -83.18069736916705
+  y: 65.0
+  z: 694.7580103431919
+  yaw: -271.199951171875
+  pitch: 84.0
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: -479.0567667104551
+    y: 64.0
+    z: -6436.648319344184
+    yaw: -60.0
+    pitch: 7.3499979972839355
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 149.98601977526647
+  y: 63.5
+  z: 6.302754710586986
+  yaw: -186.5109100341797
+  pitch: 90.0
+  world-name: ''
+ip-address: 78.126.181.199
+last-account-name: atomiclone45
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

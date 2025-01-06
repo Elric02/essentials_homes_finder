@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486494493835
+  logout: 1486494607828
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world_nether
+  x: 22.810701180747486
+  y: 113.0
+  z: 24.06209198089801
+  yaw: 353.6755676269531
+  pitch: 9.255529403686523
+  world-name: ''
+ip-address: 90.126.33.216
+last-account-name: RoketDock
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1516798661670
+  logout: 1516800121431
+  lastteleport: 1516800105859
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 85.47797679854665
+  y: 63.0
+  z: -3.291862278465703
+  yaw: -173.42068481445312
+  pitch: 30.29998779296875
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 83.97623575405125
+  y: 63.0
+  z: 1.444895214501931
+  yaw: -48.620662689208984
+  pitch: 26.99999237060547
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 87.81768845349909
+    y: 63.0
+    z: 5.3000000119209485
+    yaw: -192.62071228027344
+    pitch: 16.34998893737793
+    world-name: ''
+ip-address: 195.132.152.118
+last-account-name: Masten
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

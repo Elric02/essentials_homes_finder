@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.193.132.189
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668720388979
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668720589665
+  login: 1668720544878
+money: '0'
+lastlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -3.12785371397728E-4
+  y: 90.0
+  z: 0.12154376641904141
+  yaw: 233.99713134765625
+  pitch: 8.585789680480957
+last-account-name: gabin
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.99592236805626
+  y: 81.80948674189209
+  z: -3111.375103500612
+  yaw: -72.89768981933594
+  pitch: 18.14995765686035

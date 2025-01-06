@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.214.218.37
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1672006007142
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672006053354
+  login: 1672005980542
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.5
+  y: 81.0
+  z: -3111.5
+  yaw: -64.86636352539062
+  pitch: 4.836367130279541
+last-account-name: CavePvP
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 142.20572638762638
+  y: 63.0
+  z: 15.035349398727336
+  yaw: 74.66940307617188
+  pitch: 19.29561996459961

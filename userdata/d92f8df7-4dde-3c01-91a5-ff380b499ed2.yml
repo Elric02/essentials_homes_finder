@@ -1,0 +1,47 @@
+timestamps:
+  login: 1552670728107
+  lastteleport: 1552670510575
+  logout: 1552671001289
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 113.28089158588656
+  y: 64.0
+  z: -48.05000001192093
+  yaw: -12.088743209838867
+  pitch: 29.193113327026367
+  world-name: ''
+homes:
+  a:
+    world: world
+    x: -2725.3591886280924
+    y: 69.0
+    z: -1107.758213334964
+    yaw: -97.55963897705078
+    pitch: 12.800699234008789
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 154.78413455790206
+  y: 64.0
+  z: 24.691662250446498
+  yaw: 79.54064178466797
+  pitch: 18.58676528930664
+  world-name: ''
+money: '0'
+ip-address: 92.157.85.200
+last-account-name: bov1ce
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1465397728280
+  logout: 1465397838503
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.3219440627942
+  y: 64.0
+  z: 19.442746441324093
+  yaw: 62.1064453125
+  pitch: 18.974201202392578
+  world-name: ''
+ip-address: 90.13.213.188
+last-account-name: Laputa
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

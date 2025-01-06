@@ -1,0 +1,38 @@
+timestamps:
+  login: 1613255314269
+  lastteleport: 1613257092140
+  logout: 1613257112483
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -7054.47668077559
+  y: 63.0
+  z: 3247.319172289618
+  yaw: 61.349273681640625
+  pitch: 16.65019989013672
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -158.49534606933594
+  pitch: 24.425874710083008
+  world-name: ''
+afk: false
+ip-address: 89.91.215.26
+last-account-name: Shy_Little_Girl
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

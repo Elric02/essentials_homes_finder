@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.87.248.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1689536057490
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1689536193820
+  login: 1689536154168
+money: '0'
+last-account-name: Banane_exotique
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 294.9851208502186
+  y: 65.0
+  z: 4.065951067519219
+  yaw: -33.001136779785156
+  pitch: 17.400131225585938
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 295.01434784892155
+  y: 65.0
+  z: 4.110958305992066
+  yaw: -33.001136779785156
+  pitch: 17.400131225585938

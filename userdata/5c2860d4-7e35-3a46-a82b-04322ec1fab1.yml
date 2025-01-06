@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509130323762
+  logout: 1509130334634
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 159.68106250962236
+  y: 64.0
+  z: 22.55579791479966
+  yaw: -222.49725341796875
+  pitch: 39.397422790527344
+  world-name: ''
+ip-address: 82.251.34.82
+last-account-name: Cuty_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

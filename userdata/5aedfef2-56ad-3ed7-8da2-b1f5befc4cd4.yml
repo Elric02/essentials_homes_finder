@@ -1,0 +1,55 @@
+timestamps:
+  login: 1588234741660
+  logout: 1588237336623
+  lastteleport: 1588235638650
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1907.8515409747235
+  y: 68.0
+  z: -2803.437208874017
+  yaw: -315.729248046875
+  pitch: -12.217842102050781
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -1913.9954900264486
+  y: 74.0
+  z: -2858.7113006565232
+  yaw: -30.27879524230957
+  pitch: 4.650186061859131
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -1890.0237565009854
+    y: 73.5
+    z: -2813.0753706954088
+    yaw: -179.8355712890625
+    pitch: 0.6820509433746338
+    world-name: ''
+  fk:
+    world: world
+    x: -432.85292652702645
+    y: 64.0
+    z: -3277.730670064674
+    yaw: -35.67236328125
+    pitch: 8.528800010681152
+    world-name: ''
+muted: false
+jailed: false
+ip-address: 90.49.133.162
+last-account-name: Sparta15
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

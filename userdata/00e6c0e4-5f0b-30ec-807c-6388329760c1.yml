@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521490314844
+  lastteleport: 1521493056305
+  logout: 1521494201545
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 5712.036945655704
+  y: 17.0
+  z: 3853.699999988079
+  yaw: 252.4033203125
+  pitch: 11.194807052612305
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 5594.421965372561
+  y: 65.0
+  z: 3826.714688408517
+  yaw: 178.03317260742188
+  pitch: 4.229973316192627
+  world-name: ''
+ip-address: 37.169.97.198
+last-account-name: LordVanLahn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

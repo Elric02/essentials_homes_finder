@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616333979369
+  lastteleport: 1616334259388
+  logout: 1616334351092
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4906.499166107306
+  y: 72.0
+  z: -3339.0343872691146
+  yaw: 219.29638671875
+  pitch: 32.699798583984375
+  world-name: ''
+logoutlocation:
+  world: Nether
+  x: -63.941661763636986
+  y: 64.0
+  z: 0.07499998807906558
+  yaw: -150.5257568359375
+  pitch: 9.899718284606934
+  world-name: ''
+ip-address: 109.13.83.200
+last-account-name: chtig4mer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

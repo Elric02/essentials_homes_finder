@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480793263372
+  lastteleport: 1480793344631
+  logout: 1480793722644
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -56.86365572969536
+  y: 64.0
+  z: 557.5042843219719
+  yaw: -263.9999694824219
+  pitch: 28.95003890991211
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6260.699999988079
+  y: 65.0
+  z: -2580.5421748291897
+  yaw: -17.227783203125
+  pitch: 8.655325889587402
+  world-name: ''
+ip-address: 82.241.207.249
+last-account-name: chahime
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

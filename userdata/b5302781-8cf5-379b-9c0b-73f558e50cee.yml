@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609876062216
+  logout: 1609876127866
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.04415107058492
+  y: 65.0
+  z: 87.06137537288495
+  yaw: 186.9115753173828
+  pitch: 32.618064880371094
+  world-name: ''
+ip-address: 86.250.138.65
+last-account-name: jarvis09
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

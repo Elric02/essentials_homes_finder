@@ -1,0 +1,38 @@
+timestamps:
+  login: 1537976739943
+  logout: 1537976854037
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -632.3000000119209
+  y: 66.16610926093821
+  z: -767.544782756497
+  yaw: -222.17218017578125
+  pitch: -55.500057220458984
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -679.9157377883702
+  y: 64.0
+  z: -733.2024615951601
+  yaw: -104.30707550048828
+  pitch: 6.450075149536133
+  world-name: ''
+afk: false
+ip-address: 88.184.74.83
+last-account-name: Thegogojumper
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

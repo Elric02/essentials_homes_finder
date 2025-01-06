@@ -1,0 +1,38 @@
+timestamps:
+  login: 1556466261744
+  logout: 1556466661309
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6.267630734131683
+  y: 65.0
+  z: 37.11626949855252
+  yaw: -358.4439697265625
+  pitch: 25.475893020629883
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -586.3995887852243
+  y: 65.0
+  z: -713.8598925611569
+  yaw: -251.308837890625
+  pitch: 41.46242141723633
+  world-name: ''
+money: '0'
+ip-address: 81.245.99.52
+last-account-name: Titans
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

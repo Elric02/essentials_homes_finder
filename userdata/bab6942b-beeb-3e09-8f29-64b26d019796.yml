@@ -1,0 +1,38 @@
+timestamps:
+  login: 1556321753636
+  lastteleport: 1556322101001
+  logout: 1556322148074
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 169.70311633216807
+  y: 147.5
+  z: -122.30000001192093
+  yaw: 344.64697265625
+  pitch: 43.05004119873047
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4012.699999988079
+  y: 71.0
+  z: -4123.302067041164
+  yaw: 359.6998596191406
+  pitch: 30.299983978271484
+  world-name: ''
+ip-address: 185.178.50.105
+last-account-name: fleurmailys
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

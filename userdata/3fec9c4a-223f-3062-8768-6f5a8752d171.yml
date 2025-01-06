@@ -1,0 +1,38 @@
+timestamps:
+  login: 1590170415529
+  lastteleport: 1590170519364
+  logout: 1590170605655
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.2297146333833
+  y: 63.5
+  z: 46.927492410917466
+  yaw: -35.23974609375
+  pitch: 35.09197998046875
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5286.927830848681
+  y: 57.0
+  z: 1461.531962649432
+  yaw: -105.00990295410156
+  pitch: 22.914037704467773
+  world-name: ''
+ip-address: 109.89.2.211
+last-account-name: routouttou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

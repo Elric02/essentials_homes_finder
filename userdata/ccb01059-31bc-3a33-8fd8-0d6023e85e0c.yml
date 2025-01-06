@@ -1,0 +1,63 @@
+timestamps:
+  login: 1482785296058
+  lastteleport: 1482786741299
+  logout: 1482786856279
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3677.074999988079
+  y: 85.0
+  z: -734.9795435818022
+  yaw: -96.2950668334961
+  pitch: 78.5999984741211
+  world-name: ''
+money: '0'
+homes:
+  minage:
+    world: ressource
+    x: -947.5854162368958
+    y: 65.0
+    z: 6124.976996921396
+    yaw: 92.702392578125
+    pitch: 35.40004348754883
+    world-name: ''
+  maison:
+    world: world
+    x: 3673.9512848324675
+    y: 105.0
+    z: -713.3096356852483
+    yaw: 97.20494079589844
+    pitch: 19.49998664855957
+    world-name: ''
+  sable:
+    world: ressource
+    x: 3536.286151497794
+    y: 68.0
+    z: 4574.580406862221
+    yaw: -253.9499969482422
+    pitch: 16.500001907348633
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3674.5256619343754
+  y: 105.0
+  z: -717.8549665227929
+  yaw: -176.244873046875
+  pitch: 19.799978256225586
+  world-name: ''
+afk: false
+ip-address: 89.88.171.4
+last-account-name: Woplex_Gameur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

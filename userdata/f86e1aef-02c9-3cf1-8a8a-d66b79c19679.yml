@@ -1,0 +1,55 @@
+timestamps:
+  login: 1559210361109
+  lastteleport: 1559213943296
+  logout: 1559216068437
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2157.9192356816448
+  y: 64.0
+  z: -4410.47850989609
+  yaw: 172.9204864501953
+  pitch: 9.551864624023438
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2111.7915881436566
+  y: 58.0
+  z: -4384.592581399539
+  yaw: -17.870996475219727
+  pitch: 35.36389923095703
+  world-name: ''
+homes:
+  pyronaga:
+    world: world
+    x: -2107.309766630373
+    y: 58.0
+    z: -4375.747784173025
+    yaw: -7.0966796875
+    pitch: 14.449533462524414
+    world-name: ''
+  renard_blanc:
+    world: world
+    x: -2106.9666941726864
+    y: 58.0
+    z: -4372.967180025077
+    yaw: -14.4974365234375
+    pitch: 11.83743667602539
+    world-name: ''
+ip-address: 109.22.226.110
+last-account-name: Renard_Blanc
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

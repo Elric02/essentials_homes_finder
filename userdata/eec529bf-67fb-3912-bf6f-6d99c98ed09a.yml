@@ -1,0 +1,38 @@
+timestamps:
+  login: 1622744224659
+  lastteleport: 1622744419869
+  logout: 1622744788239
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.4531975138843
+  y: 63.0
+  z: 40.93242426240449
+  yaw: 243.79095458984375
+  pitch: 5.814436912536621
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5958.520808294454
+  y: 65.0
+  z: -2757.5131074929973
+  yaw: 211.29920959472656
+  pitch: 9.240262031555176
+  world-name: ''
+ip-address: 82.142.2.167
+last-account-name: Mirad
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

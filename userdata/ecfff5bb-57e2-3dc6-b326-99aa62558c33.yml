@@ -1,0 +1,47 @@
+timestamps:
+  login: 1483818164833
+  lastteleport: 1483826988721
+  logout: 1483827214549
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -829.6276018065962
+  y: 71.0
+  z: 635.8783581184168
+  yaw: 219.6923828125
+  pitch: 9.60004997253418
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: ressource
+  x: -87.89767393183442
+  y: 53.0
+  z: 111.99559177145937
+  yaw: 0.825439453125
+  pitch: 25.499755859375
+  world-name: ''
+homes:
+  home:
+    world: ressource
+    x: -89.69999998807907
+    y: 53.0
+    z: 112.69999998807907
+    yaw: -93.974365234375
+    pitch: 17.39978790283203
+    world-name: ''
+afk: false
+ip-address: 86.204.83.95
+last-account-name: Kagetsuin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

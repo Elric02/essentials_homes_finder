@@ -1,0 +1,47 @@
+timestamps:
+  login: 1516992888742
+  logout: 1516993331864
+  lastteleport: 1516993329270
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2219.429025591038
+  y: 71.0
+  z: -4227.549405678063
+  yaw: -59.54972839355469
+  pitch: 10.349992752075195
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5902.5
+  y: 11.0
+  z: -5641.5
+  yaw: -347.8494873046875
+  pitch: 25.650022506713867
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -5903.359270486911
+    y: 11.0
+    z: -5642.133349329381
+    yaw: -347.8494873046875
+    pitch: 25.650022506713867
+    world-name: ''
+afk: false
+ip-address: 2.12.137.199
+last-account-name: Miss_Games
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

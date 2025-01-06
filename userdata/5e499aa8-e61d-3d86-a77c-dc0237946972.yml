@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487512535071
+  logout: 1487512981215
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 87.7565082831674
+  y: 63.0
+  z: 37.60066642780784
+  yaw: 35.203369140625
+  pitch: 9.449990272521973
+  world-name: ''
+ip-address: 86.228.203.35
+last-account-name: Tintin5925
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1514464780694
+  lastteleport: 1514465509207
+  logout: 1514465517067
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4928.865802770052
+  y: 82.0
+  z: 4923.175829337735
+  yaw: -38.550048828125
+  pitch: 82.65003967285156
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -4927.352888009448
+    y: 80.0
+    z: 4922.995996904204
+    yaw: -304.8001708984375
+    pitch: 22.79998779296875
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4927.076334959957
+  y: 80.0
+  z: 4922.450668854636
+  yaw: -274.50018310546875
+  pitch: 76.19998168945312
+  world-name: ''
+ip-address: 109.217.113.46
+last-account-name: YouYT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.158.114.179
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1633806579930
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633810161213
+  login: 1633809746311
+money: '0'
+last-account-name: plantocraft
+lastlocation:
+  world: 9f558405-e9a0-48ce-9c3e-d633a67539fd
+  world-name: Ressource
+  x: 0.6291500000566244
+  y: 90.13175
+  z: 0.4368768791265121
+  yaw: 90.2972640991211
+  pitch: 4.83583927154541
+logoutlocation:
+  world: 9f558405-e9a0-48ce-9c3e-d633a67539fd
+  world-name: Ressource
+  x: -316.8374355461343
+  y: 80.0
+  z: -211.4889976213258
+  yaw: 94.04733276367188
+  pitch: 35.8500862121582

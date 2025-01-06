@@ -1,0 +1,38 @@
+timestamps:
+  login: 1568214045459
+  lastteleport: 1568214290006
+  logout: 1568214580481
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -140.3720476218773
+  y: 75.0
+  z: 8.735249553297493
+  yaw: 265.34674072265625
+  pitch: 12.48586654663086
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.1470826854016
+  y: 63.0
+  z: 59.88493070441548
+  yaw: -330.4703674316406
+  pitch: 20.278675079345703
+  world-name: ''
+ip-address: 92.147.113.199
+last-account-name: Vgaya
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

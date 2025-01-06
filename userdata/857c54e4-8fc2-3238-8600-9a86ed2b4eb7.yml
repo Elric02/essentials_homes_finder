@@ -1,0 +1,38 @@
+timestamps:
+  login: 1685828749261
+  lastteleport: 1617630712550
+  logout: 1685828790129
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.48162710136288
+  y: 63.0
+  z: 41.39736339486943
+  yaw: -205.578857421875
+  pitch: -13.674153327941895
+  world-name: ''
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 154.5219706617853
+  y: 64.0
+  z: 24.59015183032405
+  yaw: 176.00515747070312
+  pitch: 10.775858879089355
+  world-name: world
+money: '0'
+ip-address: 89.158.53.11
+last-account-name: Jocker59
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

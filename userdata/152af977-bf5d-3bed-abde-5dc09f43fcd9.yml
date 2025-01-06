@@ -1,0 +1,47 @@
+timestamps:
+  login: 1594758015833
+  lastteleport: 1594757850892
+  logout: 1594758319795
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1692.344179512648
+  y: 81.0
+  z: 2713.168806904176
+  yaw: -350.4736328125
+  pitch: 32.71276092529297
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1575.7955600146083
+    y: 72.0
+    z: 3651.9147987461715
+    yaw: 143.54864501953125
+    pitch: 22.050037384033203
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1801.7205166518688
+  y: 64.90290000319482
+  z: 2951.138411048181
+  yaw: 249.82359313964844
+  pitch: 12.000001907348633
+  world-name: ''
+ip-address: 90.126.218.26
+last-account-name: Gamercrow
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

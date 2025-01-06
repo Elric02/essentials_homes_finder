@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478861731585
+  lastteleport: 1478862042020
+  logout: 1478862211898
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.43926594648272
+  y: 63.0
+  z: 46.60580965554794
+  yaw: -270.6611022949219
+  pitch: -4.625484943389893
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -195.66875726622337
+  y: 47.0
+  z: 483.24289916003795
+  yaw: -272.8504638671875
+  pitch: 19.800006866455078
+  world-name: ''
+ip-address: 88.170.62.9
+last-account-name: elfenst
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

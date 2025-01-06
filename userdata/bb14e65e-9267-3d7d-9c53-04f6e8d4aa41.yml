@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498482897569
+  lastteleport: 1498482909744
+  logout: 1498483121952
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.0979082342718
+  y: 63.0
+  z: 48.907622660329196
+  yaw: -36.222808837890625
+  pitch: 6.4118757247924805
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2094.091407749273
+  y: 93.0
+  z: -1105.434042837859
+  yaw: -315.7525634765625
+  pitch: -7.492239952087402
+  world-name: ''
+ip-address: 173.176.223.7
+last-account-name: Volkynn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

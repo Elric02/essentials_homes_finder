@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499799150272
+  lastteleport: 1499802248274
+  logout: 1499804305367
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.80435776162375
+  y: 64.0
+  z: 12.114103839498274
+  yaw: -16.561614990234375
+  pitch: 11.549985885620117
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -182.46092224121094
+  pitch: 10.37451457977295
+  world-name: ''
+ip-address: 84.5.158.206
+last-account-name: injustice
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

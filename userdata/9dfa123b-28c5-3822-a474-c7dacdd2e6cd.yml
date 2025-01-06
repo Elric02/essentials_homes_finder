@@ -1,0 +1,38 @@
+timestamps:
+  login: 1593158130897
+  lastteleport: 1593158492656
+  logout: 1593159273289
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.50486841237046
+  y: 63.5
+  z: 65.70499797786078
+  yaw: -161.16552734375
+  pitch: -0.6003409028053284
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 158.66574358341245
+  y: 63.0
+  z: 42.69999998807907
+  yaw: -35.566856384277344
+  pitch: 11.278680801391602
+  world-name: ''
+ip-address: 176.140.82.68
+last-account-name: frredy80
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

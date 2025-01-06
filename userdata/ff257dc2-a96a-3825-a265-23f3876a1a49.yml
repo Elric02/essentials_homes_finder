@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514617350895
+  lastteleport: 1514618066058
+  logout: 1514618477008
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.39767777063906
+  y: 63.0
+  z: 58.95221218672559
+  yaw: -310.5206298828125
+  pitch: 17.728666305541992
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -822.8938453859776
+  y: 66.0
+  z: -142.18464918220525
+  yaw: 309.89990234375
+  pitch: 14.849977493286133
+  world-name: ''
+ip-address: 78.202.140.157
+last-account-name: Chiwel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1566061273668
+  logout: 1566062752789
+  lastteleport: 1566061471946
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 304.6555860821782
+  y: 67.0
+  z: -496.5820861758607
+  yaw: -12.726043701171875
+  pitch: 16.349496841430664
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 162.06926387689194
+  y: 66.5
+  z: 11.931594835432895
+  yaw: 46.775482177734375
+  pitch: 86.24996185302734
+  world-name: ''
+afk: false
+ip-address: 193.9.114.181
+last-account-name: KillerBoy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

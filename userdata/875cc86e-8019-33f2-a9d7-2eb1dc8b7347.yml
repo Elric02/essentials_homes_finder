@@ -1,0 +1,63 @@
+timestamps:
+  login: 1624269277269
+  lastteleport: 1623772002981
+  logout: 1624269279366
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6184.301523590682
+  y: 40.0
+  z: -3880.3970512208493
+  yaw: -86.79805755615234
+  pitch: 20.14618682861328
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 6391.394902481266
+    y: 99.0
+    z: -3925.937000446013
+    yaw: -89.47765350341797
+    pitch: 36.85994338989258
+    world-name: ''
+  blaze:
+    world: Ressourcenether
+    x: 1622.3093075387994
+    y: 56.0
+    z: -203.30000001192093
+    yaw: -63.10329055786133
+    pitch: 30.906213760375977
+    world-name: ''
+  end:
+    world: End
+    x: -394.5100761644776
+    y: 1.0
+    z: -2.8916707631034
+    yaw: -69.913330078125
+    pitch: 13.709563255310059
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 6395.394804394215
+  y: 100.0
+  z: -3923.570828467767
+  yaw: -171.91986083984375
+  pitch: 20.278240203857422
+  world-name: ''
+afk: false
+ip-address: 176.181.156.201
+last-account-name: TotoGamingYT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

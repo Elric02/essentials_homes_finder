@@ -1,0 +1,38 @@
+timestamps:
+  login: 1584841580884
+  logout: 1584841631291
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 159.17560905261973
+  y: 67.0
+  z: 102.30649446971533
+  yaw: -103.56685638427734
+  pitch: 15.853519439697266
+  world-name: ''
+ip-address: 37.172.255.194
+last-account-name: Aizen
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

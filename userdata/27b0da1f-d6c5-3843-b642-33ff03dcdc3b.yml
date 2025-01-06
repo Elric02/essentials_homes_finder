@@ -1,0 +1,55 @@
+timestamps:
+  login: 1469304856256
+  lastteleport: 1469315031980
+  logout: 1469315185005
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 597.7619049044215
+  y: 11.0
+  z: 150.69999998807904
+  yaw: 89.325439453125
+  pitch: 8.849749565124512
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 2916.300000011921
+    y: 119.0
+    z: -1109.5046160107659
+    yaw: 318.44927978515625
+    pitch: 24.149986267089844
+    world-name: ''
+  farm:
+    world: Ressource
+    x: 597.7619049044215
+    y: 11.0
+    z: 150.69999998807904
+    yaw: 89.325439453125
+    pitch: 8.849749565124512
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 14.523577038791501
+  y: 108.0
+  z: -20.895912078165303
+  yaw: 44.85282897949219
+  pitch: 0.22416970133781433
+  world-name: ''
+ip-address: 78.253.146.27
+last-account-name: Onimenoazoth
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

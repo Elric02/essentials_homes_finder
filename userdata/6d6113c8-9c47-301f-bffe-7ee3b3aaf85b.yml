@@ -1,0 +1,38 @@
+timestamps:
+  login: 1595936040681
+  lastteleport: 1595767159418
+  logout: 1595936052071
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.7659532348303
+  y: 63.0
+  z: 38.84304645335733
+  yaw: -124.071044921875
+  pitch: 15.178657531738281
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 180.81880222762433
+  y: 65.0
+  z: -40.03562925288184
+  yaw: 45.8790397644043
+  pitch: 8.72866439819336
+  world-name: ''
+ip-address: 109.19.149.10
+last-account-name: Malabar1683
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

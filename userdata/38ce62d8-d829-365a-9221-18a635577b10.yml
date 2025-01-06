@@ -1,0 +1,48 @@
+timestamps:
+  login: 1526218988855
+  logout: 1526223163460
+  lastteleport: 1526222132228
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3535.385329010185
+  y: 21.0
+  z: -6410.860079499646
+  yaw: 2.55047607421875
+  pitch: 62.54998779296875
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 199.13749998807907
+  y: 74.0
+  z: 19.13749998807907
+  yaw: -340.3241882324219
+  pitch: 40.650001525878906
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 3538.9850550914603
+    y: 42.0
+    z: -6413.221353917323
+    yaw: 228.75045776367188
+    pitch: 23.849966049194336
+    world-name: ''
+afk: false
+jailed: true
+jail: cage
+ip-address: 90.29.1.236
+last-account-name: louis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1619954592275
+  lastteleport: 1619954846686
+  logout: 1619955328262
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 1640.300000011921
+  y: 11.0
+  z: 3080.300000011921
+  yaw: -180.776123046875
+  pitch: -1.094602346420288
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 3200.352334369164
+    y: 65.0
+    z: -4753.5951711160615
+    yaw: 356.05352783203125
+    pitch: 14.043432235717773
+    world-name: ''
+ip-address: 109.19.32.128
+last-account-name: Rebelle123_Storm
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

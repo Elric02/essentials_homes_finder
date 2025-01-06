@@ -1,0 +1,63 @@
+timestamps:
+  login: 1524253725098
+  lastteleport: 1524253733039
+  logout: 1524254326902
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4901.1962877576925
+  y: 69.0
+  z: -302.69689511505857
+  yaw: 146.76953125
+  pitch: -4.676170825958252
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3569.6555050539523
+  y: 55.0
+  z: 5581.924432546007
+  yaw: 4.9583740234375
+  pitch: 16.121471405029297
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 3569.367187790856
+    y: 55.0
+    z: 5577.273807848106
+    yaw: 166.4186553955078
+    pitch: 3.146728038787842
+    world-name: ''
+  op:
+    world: world
+    x: -5269.500294794702
+    y: 70.0
+    z: 687.8408064545325
+    yaw: 180.62322998046875
+    pitch: -0.2590125799179077
+    world-name: ''
+  m:
+    world: Ressource
+    x: 595.2834724915231
+    y: 12.0
+    z: 1164.7704490587828
+    yaw: -85.3577880859375
+    pitch: 7.693660259246826
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 176.152.19.178
+last-account-name: Yangzii
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

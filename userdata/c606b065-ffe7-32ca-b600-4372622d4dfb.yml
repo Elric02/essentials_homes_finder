@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486922230148
+  lastteleport: 1486831970015
+  logout: 1486922234628
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.21033604111415
+  y: 27.0
+  z: 20.5740340521645
+  yaw: -82.56072998046875
+  pitch: 22.97454071044922
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 145.55143719032682
+  y: 64.0
+  z: 14.164106584855688
+  yaw: -249.66075134277344
+  pitch: 11.724555015563965
+  world-name: ''
+ip-address: 77.145.202.4
+last-account-name: inovac
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

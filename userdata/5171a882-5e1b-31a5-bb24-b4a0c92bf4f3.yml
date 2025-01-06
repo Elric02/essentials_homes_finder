@@ -1,0 +1,63 @@
+timestamps:
+  login: 1512671577848
+  lastteleport: 1512406751580
+  logout: 1512671609452
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3184.420225283862
+  y: 58.0
+  z: 5231.927904620401
+  yaw: -208.6510009765625
+  pitch: 16.64973258972168
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: -1912.5995171813388
+    y: 72.0
+    z: -2800.501221078206
+    yaw: -71.455322265625
+    pitch: 88.5
+    world-name: ''
+  pb:
+    world: world
+    x: -3210.00164646342
+    y: 75.0
+    z: 5194.269864204034
+    yaw: 83.85015106201172
+    pitch: 48.29997634887695
+    world-name: ''
+  q:
+    world: world
+    x: 213.62008501056977
+    y: 100.0
+    z: -105.76918135991824
+    yaw: -337.82098388671875
+    pitch: 88.52867126464844
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -3213.328328631827
+  y: 76.0
+  z: 5191.722907768164
+  yaw: -49.199493408203125
+  pitch: 13.500011444091797
+  world-name: ''
+afk: false
+ip-address: 176.152.230.40
+last-account-name: KriZiks_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

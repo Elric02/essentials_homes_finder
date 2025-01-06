@@ -1,0 +1,38 @@
+timestamps:
+  login: 1495294363544
+  lastteleport: 1495297050931
+  logout: 1495298287393
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.7655346614608
+  y: 63.0
+  z: 34.28577940155506
+  yaw: -319.71087646484375
+  pitch: 39.74999237060547
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6751.9808974478165
+  y: 70.0
+  z: 6621.065488536964
+  yaw: -335.1231689453125
+  pitch: 13.65003490447998
+  world-name: ''
+ip-address: 93.21.21.37
+last-account-name: loiuy1262
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

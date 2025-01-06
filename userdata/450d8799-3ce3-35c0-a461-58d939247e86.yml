@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471575522304
+  logout: 1471575765532
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.97998017321285
+  y: 27.0
+  z: 20.665995204340298
+  yaw: -87.6473388671875
+  pitch: 12.54740047454834
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 165.24850556238988
+  y: 54.0
+  z: 394.2559819251119
+  yaw: -256.5722351074219
+  pitch: 7.4228010177612305
+  world-name: ''
+ip-address: 82.225.38.26
+last-account-name: SkySkiL
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

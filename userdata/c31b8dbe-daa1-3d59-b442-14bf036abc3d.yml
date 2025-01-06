@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475671268359
+  lastteleport: 1475671362775
+  logout: 1475671429849
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5466.331374699407
+  y: 70.53584062504456
+  z: -4843.658384361618
+  yaw: -85.35013580322266
+  pitch: 31.200014114379883
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 631.5167772449588
+  y: 63.0
+  z: 1008.0337688286348
+  yaw: 298.80010986328125
+  pitch: 11.549935340881348
+  world-name: ''
+ip-address: 91.183.33.236
+last-account-name: bgbgbg25
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

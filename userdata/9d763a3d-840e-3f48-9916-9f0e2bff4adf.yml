@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469720008780
+  lastteleport: 1469720180167
+  logout: 1469720321701
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 266.5154554669858
+  y: 71.5
+  z: 133.1182161819729
+  yaw: 10.87274169921875
+  pitch: 17.05153465270996
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 156.09730402539734
+  y: 63.0
+  z: 2.437921271932876
+  yaw: -358.0472717285156
+  pitch: 9.674171447753906
+  world-name: ''
+ip-address: 85.203.112.250
+last-account-name: Argazote5
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

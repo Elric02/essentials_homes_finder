@@ -1,0 +1,38 @@
+timestamps:
+  login: 1505589081919
+  logout: 1505589278945
+  lastteleport: 1505589225895
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 180.13947253550683
+  y: 63.796735600668704
+  z: 17.437428046160722
+  yaw: -86.86683654785156
+  pitch: 16.57089614868164
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 94.91922296113616
+  y: 63.0
+  z: 7.103091778106513
+  yaw: -214.08477783203125
+  pitch: 23.034076690673828
+  world-name: ''
+ip-address: 176.127.244.104
+last-account-name: migual_tueuse
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

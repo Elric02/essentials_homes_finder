@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.15.35.40
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1683718400263
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683718421408
+  login: 1683718223330
+money: '0'
+last-account-name: AGENTPIKA20
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.49721818490764
+  y: 81.0
+  z: -3108.2030302731027
+  yaw: -147.44830322265625
+  pitch: 4.4999542236328125
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.14422648700707
+  y: 64.0
+  z: 20.652833355164233
+  yaw: -77.68494415283203
+  pitch: 7.050291538238525

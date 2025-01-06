@@ -1,0 +1,38 @@
+timestamps:
+  login: 1565294017482
+  lastteleport: 1565294131924
+  logout: 1565294230189
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -79.56365332694114
+  y: 69.0
+  z: -1.8294435719157285
+  yaw: 41.06034851074219
+  pitch: 8.81595516204834
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 139.13717539064922
+  y: 64.0
+  z: 9.958647356376733
+  yaw: -59.1483268737793
+  pitch: 4.624881744384766
+  world-name: ''
+ip-address: 77.136.197.92
+last-account-name: Chaussette_Sale
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

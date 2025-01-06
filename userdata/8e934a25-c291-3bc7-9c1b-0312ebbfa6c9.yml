@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472591843837
+  lastteleport: 1472592034961
+  logout: 1472592067794
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 135.01919099575525
+  y: 63.0
+  z: 19.01915003021696
+  yaw: -67.85693359375
+  pitch: 21.9445743560791
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.83175603177423
+  y: 63.0
+  z: -0.9417170821082236
+  yaw: -187.11302185058594
+  pitch: 1.5178245306015015
+  world-name: ''
+ip-address: 213.219.160.117
+last-account-name: XxthekingxX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

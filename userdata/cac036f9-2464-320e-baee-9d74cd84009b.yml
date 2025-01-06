@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471183624049
+  lastteleport: 1471183641232
+  logout: 1471183698266
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5353377037656
+  y: 100.0
+  z: 20.24977465996297
+  yaw: -177.5734405517578
+  pitch: 57.860694885253906
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 137.85587206646997
+  y: 63.0
+  z: -22.37384131282466
+  yaw: -301.11077880859375
+  pitch: 3.0245158672332764
+  world-name: ''
+ip-address: 78.234.92.1
+last-account-name: Aligatrox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

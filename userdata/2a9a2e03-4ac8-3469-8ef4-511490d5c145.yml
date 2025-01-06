@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558535254619
+  lastteleport: 1558535333726
+  logout: 1558535479065
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.66203582265825
+  y: 63.0
+  z: -16.716067020227573
+  yaw: 178.7454833984375
+  pitch: -35.00935363769531
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4079.4092067112824
+  y: 71.0
+  z: 4341.809561838421
+  yaw: 11.192612648010254
+  pitch: 30.818355560302734
+  world-name: ''
+ip-address: 86.253.167.12
+last-account-name: YoutubeurGTA35
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

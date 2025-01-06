@@ -1,0 +1,38 @@
+timestamps:
+  login: 1566572094798
+  lastteleport: 1566572618854
+  logout: 1566573046512
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 179.36492588842447
+  y: 130.0
+  z: -127.83863644728282
+  yaw: 23.2288818359375
+  pitch: 19.050010681152344
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 151.3254942394383
+  y: 64.0
+  z: 28.221782102567104
+  yaw: 114.42906188964844
+  pitch: 14.70000171661377
+  world-name: ''
+ip-address: 90.70.69.89
+last-account-name: bryanousse
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

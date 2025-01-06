@@ -1,0 +1,57 @@
+timestamps:
+  login: 1637494852068
+  lastteleport: 1637495092918
+  logout: 1637495114215
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -175.73623332517582
+  y: 64.875
+  z: 36.064612092771505
+  yaw: 29.95518684387207
+  pitch: 7.1285481452941895
+  world-name: world
+money: '0'
+homes:
+  projet:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3301.051779508149
+    y: 63.0
+    z: 5409.090875912559
+    yaw: -219.1520538330078
+    pitch: 10.650174140930176
+    world-name: world
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3088.699999988079
+    y: 64.0
+    z: 5828.237500011921
+    yaw: 268.630615234375
+    pitch: 29.54989242553711
+    world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -3088.5
+  y: 64.0
+  z: 5828.5
+  yaw: 243.73077392578125
+  pitch: 18.149995803833008
+  world-name: world
+afk: false
+ignore:
+- 458de26b-1158-3f52-a05c-7aef6b3469a1
+ip-address: 90.54.138.102
+last-account-name: LTHC
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

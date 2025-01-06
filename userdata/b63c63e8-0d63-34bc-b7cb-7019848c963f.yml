@@ -1,0 +1,55 @@
+timestamps:
+  login: 1522427047173
+  lastteleport: 1522274315063
+  logout: 1522427411767
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5395.475616912831
+  y: 77.0
+  z: 6093.5035653426285
+  yaw: -103.24081420898438
+  pitch: 20.84970474243164
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 5408.890979375385
+    y: 72.0
+    z: 6068.457699193702
+    yaw: 97.049560546875
+    pitch: 22.499923706054688
+    world-name: ''
+  villa:
+    world: world
+    x: 5398.108907639887
+    y: 71.0
+    z: 6092.57137023234
+    yaw: -242.74087524414062
+    pitch: 17.399700164794922
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -154.9708251953125
+  pitch: 4.078669548034668
+  world-name: ''
+ip-address: 109.134.0.210
+last-account-name: DzoxYde24
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

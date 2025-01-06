@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 62.34.1.23
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1711110650189
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1711110732825
+  login: 1711110321476
+money: '0'
+last-account-name: Docteur_Moh5
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -101.24299603589948
+  y: 99.0
+  z: 147.29715576068813
+  yaw: -67.53823852539062
+  pitch: 7.9409499168396
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 1948.699999988079
+  y: 67.0
+  z: -1746.4729084940745
+  yaw: -96.58218383789062
+  pitch: 6.779195308685303
+homes:
+  c:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 1948.699999988079
+    y: 67.0
+    z: -1746.4729084940745
+    yaw: -96.58218383789062
+    pitch: 6.779195308685303

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614167703913
+  lastteleport: 1614168687007
+  logout: 1614169894940
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2742.115175651812
+  y: 104.0625
+  z: -57.35604382919483
+  yaw: 159.97900390625
+  pitch: 11.264116287231445
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 156.16422064539913
+  y: 63.0
+  z: 38.22980897425366
+  yaw: -131.04542541503906
+  pitch: 16.925861358642578
+  world-name: ''
+ip-address: 185.50.34.110
+last-account-name: LionDeLOrgueil
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

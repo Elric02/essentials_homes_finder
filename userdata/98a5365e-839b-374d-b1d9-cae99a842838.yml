@@ -1,0 +1,47 @@
+timestamps:
+  login: 1471198334638
+  lastteleport: 1471195893001
+  logout: 1471198414095
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5225.336982981926
+  y: 83.0
+  z: 571.3863199334667
+  yaw: 274.4934387207031
+  pitch: 13.98427677154541
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4648.237988015202
+  y: 74.0
+  z: 5412.136555793142
+  yaw: 48.986122131347656
+  pitch: 17.41545867919922
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4646.97340652803
+    y: 69.0
+    z: 5413.541379143158
+    yaw: -224.64273071289062
+    pitch: 7.648447036743164
+    world-name: ''
+money: '0'
+ip-address: 82.67.31.15
+last-account-name: Funkybilly
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

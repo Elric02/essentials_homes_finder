@@ -1,0 +1,38 @@
+timestamps:
+  login: 1473849155616
+  logout: 1473849167366
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.89978576630548
+  y: 63.0
+  z: 44.39405752479897
+  yaw: 13.15255355834961
+  pitch: 12.247400283813477
+  world-name: ''
+ip-address: 82.225.180.147
+last-account-name: Mushway
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.2.37.98
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1652991347346
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1652991685387
+  login: 1652988243282
+money: '0'
+last-account-name: Melinette103
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3532.063080450726
+  y: 11.0
+  z: -905.2426548813844
+  yaw: 123.6494140625
+  pitch: 26.699403762817383
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3602.8979496496067
+  y: 67.5
+  z: -889.7343974029233
+  yaw: 32.104248046875
+  pitch: -90.0

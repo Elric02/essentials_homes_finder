@@ -1,0 +1,38 @@
+timestamps:
+  login: 1578090023308
+  lastteleport: 1578090343692
+  logout: 1578090707768
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 165420.48682164683
+  y: 11.0
+  z: 150043.87209086298
+  yaw: -211.59197998046875
+  pitch: 25.05684471130371
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 184794.28876482055
+  y: 11.0
+  z: 150056.32514582353
+  yaw: -287.0941162109375
+  pitch: 33.654537200927734
+  world-name: ''
+ip-address: 176.188.119.85
+last-account-name: _Rogeur_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

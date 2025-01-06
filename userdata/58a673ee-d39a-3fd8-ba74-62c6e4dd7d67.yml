@@ -1,0 +1,38 @@
+timestamps:
+  login: 1555236768616
+  lastteleport: 1555236912044
+  logout: 1555237292456
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 196.97341592037924
+  y: 66.0
+  z: -4.95431676419452
+  yaw: 193.2969970703125
+  pitch: 44.10002899169922
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: End
+  x: 141.8033678342801
+  y: 22.42918904418602
+  z: 7.758725398786332
+  yaw: -284.3173828125
+  pitch: -17.700008392333984
+  world-name: ''
+ip-address: 83.154.230.172
+last-account-name: claire007499
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

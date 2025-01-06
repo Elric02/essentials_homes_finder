@@ -1,0 +1,38 @@
+timestamps:
+  login: 1529679963523
+  lastteleport: 1527866528373
+  logout: 1529680996938
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 236.02293115037997
+  y: 80.0
+  z: 2167.030966866839
+  yaw: -180.2806396484375
+  pitch: 4.049952983856201
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 228.57825698207554
+  y: 92.0
+  z: 2196.1919173234596
+  yaw: 284.55810546875
+  pitch: 26.25038719177246
+  world-name: ''
+ip-address: 81.244.239.38
+last-account-name: Klayl
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

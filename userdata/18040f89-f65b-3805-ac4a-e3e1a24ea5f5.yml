@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.115.155.152
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1677523467182
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677525626206
+  login: 1677523275922
+money: '150.0'
+last-account-name: SAmji5848343
+lastlocation:
+  world: 98291945-f596-49be-b8c4-088500defea2
+  world-name: Ressource
+  x: -97.5
+  y: 65.0
+  z: 0.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 98291945-f596-49be-b8c4-088500defea2
+  world-name: Ressource
+  x: -16.876858694958685
+  y: 89.5
+  z: -5.744525700494357
+  yaw: 128.98109436035156
+  pitch: 31.51336669921875

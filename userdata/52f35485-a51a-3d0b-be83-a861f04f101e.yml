@@ -1,0 +1,55 @@
+timestamps:
+  login: 1470587351727
+  lastteleport: 1470589199906
+  logout: 1470589619605
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 186.42983342949742
+  y: 69.0
+  z: 392.55526175049187
+  yaw: 3.5395407676696777
+  pitch: 53.76894760131836
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4015.955258733827
+  y: 64.0
+  z: -9087.33591277642
+  yaw: 97.12223052978516
+  pitch: 23.399993896484375
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 4019.1527367903036
+    y: 67.0
+    z: -9083.552067129738
+    yaw: -13.577729225158691
+    pitch: -0.7500050067901611
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 1179.5306490074565
+    y: 12.0
+    z: 627.2134705331816
+    yaw: 65.10162353515625
+    pitch: 36.00000762939453
+    world-name: ''
+afk: false
+ip-address: 2.0.194.2
+last-account-name: Breizh
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

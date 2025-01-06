@@ -1,0 +1,38 @@
+timestamps:
+  login: 1503153706502
+  lastteleport: 1503155036534
+  logout: 1503155730650
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 167.91545951017068
+  y: 63.0
+  z: 25.992946094937285
+  yaw: -49.71337890625
+  pitch: 76.02159881591797
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -185.30000001192093
+  y: 63.0
+  z: 4235.307143879623
+  yaw: 331.17291259765625
+  pitch: 22.460372924804688
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 109.30.60.184
+last-account-name: RisyKai
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

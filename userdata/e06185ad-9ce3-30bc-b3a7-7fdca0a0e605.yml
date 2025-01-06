@@ -1,0 +1,47 @@
+timestamps:
+  login: 1478028827110
+  lastteleport: 1478029254175
+  logout: 1478029710453
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: 2317.0894693583455
+  y: 134.21786765953894
+  z: 673.824066928643
+  yaw: 4.4951171875
+  pitch: 84.85775756835938
+  world-name: ''
+logoutlocation:
+  world: world_the_end
+  x: -73.05906641559804
+  y: 64.0
+  z: -5614.941983597281
+  yaw: -135.37185668945312
+  pitch: 19.589588165283203
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 1822.9245044574734
+    y: 63.0
+    z: 1602.2600396006073
+    yaw: 271.8438415527344
+    pitch: 10.66219425201416
+    world-name: ''
+afk: false
+money: '0'
+ip-address: 90.47.204.1
+last-account-name: RaxenSfuittt
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

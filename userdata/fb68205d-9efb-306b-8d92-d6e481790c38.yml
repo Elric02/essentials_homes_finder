@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483829425391
+  lastteleport: 1483829091154
+  logout: 1483829499423
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 192.44969974083216
+  y: 4.0
+  z: -186.1967960043318
+  yaw: -97.83846282958984
+  pitch: 24.134811401367188
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: ressource
+  x: -277.97863991917
+  y: 64.0
+  z: 816.8239896566786
+  yaw: -152.7850341796875
+  pitch: 34.8385009765625
+  world-name: ''
+ip-address: 90.113.45.203
+last-account-name: NOXATA
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

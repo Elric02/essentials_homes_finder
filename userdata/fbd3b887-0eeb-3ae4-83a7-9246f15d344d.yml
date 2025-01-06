@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.138.23.228
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669976847872
+  login: 1669976800975
+money: '0'
+last-account-name: lhaven
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -467.713894225818
+  y: 65.0
+  z: -202.03025165942358
+  yaw: 22.152650833129883
+  pitch: 1.8019057512283325
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -467.713894225818
+  y: 65.0
+  z: -202.03025165942358
+  yaw: 21.702651977539062
+  pitch: 1.6519057750701904

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.88.168.77
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667737367525
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667738428475
+  login: 1667737232246
+money: '0'
+last-account-name: XD360gamer
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 205.5033729874042
+  y: 65.0
+  z: -62.19282564829693
+  yaw: -131.70132446289062
+  pitch: 15.44980525970459
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 200.73782186967736
+  y: 96.25106022038497
+  z: -92.02081475739865
+  yaw: -45.600318908691406
+  pitch: 17.399961471557617

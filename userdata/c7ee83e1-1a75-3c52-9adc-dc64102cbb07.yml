@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519408459468
+  lastteleport: 1519409023327
+  logout: 1519409316296
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -642.25515024364
+  y: 66.5
+  z: -726.3835174852395
+  yaw: -71.64801025390625
+  pitch: 12.600004196166992
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1908.2747354552118
+  y: 70.0625
+  z: -2647.498283683635
+  yaw: -316.3519287109375
+  pitch: 11.400047302246094
+  world-name: ''
+ip-address: 78.223.157.7
+last-account-name: ZinZin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

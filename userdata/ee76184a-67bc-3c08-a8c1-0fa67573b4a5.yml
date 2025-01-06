@@ -1,0 +1,47 @@
+timestamps:
+  login: 1615050615331
+  logout: 1615051423534
+  lastteleport: 1615051198218
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51396780822103
+  y: 64.0
+  z: 24.1636172606213
+  yaw: -182.19529724121094
+  pitch: 7.325875282287598
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 121.29792198875133
+  y: 110.0
+  z: -3793.9001682508547
+  yaw: -260.25238037109375
+  pitch: 19.65013885498047
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 123.32514823343678
+    y: 111.0
+    z: -3796.3435571150617
+    yaw: 194.2485809326172
+    pitch: 34.50003433227539
+    world-name: ''
+ip-address: 31.32.247.157
+last-account-name: adamytb
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

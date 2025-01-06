@@ -1,0 +1,67 @@
+timestamps:
+  login: 1552833433515
+  lastteleport: 1552836195351
+  logout: 1552836275646
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 337.85820830415867
+  y: 43.0
+  z: -570.6824919005803
+  yaw: 265.82861328125
+  pitch: 62.85005569458008
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -7069.837078302476
+    y: 75.0
+    z: 775.6194785884594
+    yaw: 38.0733642578125
+    pitch: 28.19999885559082
+    world-name: ''
+  juju:
+    world: world
+    x: 983.8039315453096
+    y: 68.0
+    z: -2521.6145202544226
+    yaw: -70.95013427734375
+    pitch: 17.249996185302734
+    world-name: ''
+  coco:
+    world: world
+    x: -348.3532885344526
+    y: 69.0
+    z: 360.79404061626883
+    yaw: -319.49951171875
+    pitch: 28.800029754638672
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -7069.5
+  y: 75.0
+  z: 775.5
+  yaw: 38.0733642578125
+  pitch: 28.19999885559082
+  world-name: ''
+afk: false
+ip-address: 81.49.45.226
+last-account-name: juju62180
+mail:
+- legacy: true
+  read: false
+  message: §e[§rSeSe§e] §rt'as récompense est prête.Rappelle-moi de te la donner ;)
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,40 @@
+timestamps:
+  login: 1667236989558
+  logout: 1667237116692
+  lastteleport: 1667236398219
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  kits:
+    stationaute: 1667235572602
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 89.11729063093308
+  y: 64.5
+  z: -4.342052506590246
+  yaw: 61.766632080078125
+  pitch: 35.7127685546875
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 5945.423780214315
+  y: 49.0
+  z: 7064.692838403679
+  yaw: 85.73126220703125
+  pitch: 17.672815322875977
+  world-name: world
+ip-address: 90.103.155.173
+last-account-name: lagrenade51
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '104.59'

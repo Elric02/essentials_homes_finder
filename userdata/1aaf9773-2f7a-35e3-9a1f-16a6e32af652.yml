@@ -1,0 +1,38 @@
+timestamps:
+  login: 1522506076199
+  logout: 1522506771338
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2816.300000011921
+  y: 62.0
+  z: 5936.600540509826
+  yaw: 330.2990417480469
+  pitch: 25.950048446655273
+  world-name: ''
+ip-address: 80.8.247.200
+last-account-name: TwitchTV_xKmFx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1588973008277
+  lastteleport: 1588973597801
+  logout: 1588973666160
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: 75.63488269330765
+  y: 43.0
+  z: -53.640736202951985
+  yaw: -115.49720764160156
+  pitch: 15.643287658691406
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 196.12473990962408
+  y: 63.0
+  z: 5.145126350493329
+  yaw: 7.4130859375
+  pitch: 10.342315673828125
+  world-name: ''
+ip-address: 24.203.133.24
+last-account-name: trollxdhaha_123
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

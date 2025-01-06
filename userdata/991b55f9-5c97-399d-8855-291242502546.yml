@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480160478512
+  logout: 1480160654125
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world_the_end
+  x: -4.521864915951707
+  y: 64.0
+  z: -4.873003270996058
+  yaw: 70.42454528808594
+  pitch: 3.8879919052124023
+  world-name: ''
+ip-address: 62.241.127.90
+last-account-name: chacha68170
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

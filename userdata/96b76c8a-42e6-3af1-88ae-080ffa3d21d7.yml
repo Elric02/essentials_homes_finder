@@ -1,0 +1,38 @@
+timestamps:
+  login: 1473498229520
+  lastteleport: 1473498316996
+  logout: 1473498489960
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.86521592968813
+  y: 63.0
+  z: 45.53251803259681
+  yaw: -291.4974060058594
+  pitch: -3.20259952545166
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -595.7944527894517
+  y: 65.0
+  z: -715.6094313003936
+  yaw: -132.84771728515625
+  pitch: 10.526348114013672
+  world-name: ''
+ip-address: 88.126.244.68
+last-account-name: Qmt74
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

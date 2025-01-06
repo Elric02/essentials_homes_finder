@@ -1,0 +1,38 @@
+timestamps:
+  login: 1597096063699
+  lastteleport: 1597098115656
+  logout: 1597099327281
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3139.04637516315
+  y: 64.0
+  z: 5736.902212026679
+  yaw: 153.99957275390625
+  pitch: 19.845611572265625
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -276.5909463068003
+  y: 66.0
+  z: -73.47420498759341
+  yaw: -357.4188232421875
+  pitch: 15.692970275878906
+  world-name: ''
+ip-address: 109.13.18.204
+last-account-name: LeOufDuGame
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1565610270609
+  lastteleport: 1565610674472
+  logout: 1565610678412
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2717.699999988079
+  y: 50.0
+  z: -898.6999999880791
+  yaw: 43.6510009765625
+  pitch: 82.04998016357422
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -2717.5
+  y: 72.0
+  z: -975.5
+  yaw: 271.801025390625
+  pitch: 15.00000286102295
+  world-name: ''
+homes:
+  coffre:
+    world: world
+    x: -5262.699999988079
+    y: 71.0
+    z: 1440.427715887889
+    yaw: 70.1451416015625
+    pitch: 53.70002746582031
+    world-name: ''
+  mesa:
+    world: world
+    x: -2725.797056647252
+    y: 71.0
+    z: -955.3000000119209
+    yaw: 359.85107421875
+    pitch: 58.350006103515625
+    world-name: ''
+  base:
+    world: world
+    x: -2717.879891664441
+    y: 72.0
+    z: -975.1174096200174
+    yaw: 271.801025390625
+    pitch: 15.00000286102295
+    world-name: ''
+ip-address: 89.94.175.88
+last-account-name: Jolan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

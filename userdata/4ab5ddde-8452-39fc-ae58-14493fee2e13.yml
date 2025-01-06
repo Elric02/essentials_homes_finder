@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492298808401
+  lastteleport: 1492298896654
+  logout: 1492298981906
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.96786689267742
+  y: 66.0
+  z: 19.511281672190893
+  yaw: -87.94408416748047
+  pitch: 14.360921859741211
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -3851.4886393769393
+  y: 72.0
+  z: -5528.113513939566
+  yaw: 233.70172119140625
+  pitch: 77.56489562988281
+  world-name: ''
+ip-address: 86.233.62.169
+last-account-name: Doragonkko
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

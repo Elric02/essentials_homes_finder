@@ -1,0 +1,38 @@
+timestamps:
+  login: 1503517423200
+  lastteleport: 1503517587956
+  logout: 1503517933785
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -605.3151330977455
+  y: 64.0
+  z: -752.3605616828695
+  yaw: -122.79702758789062
+  pitch: -2.8236584663391113
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6299.910934376313
+  y: 74.0
+  z: 1440.8641566099432
+  yaw: -304.0498046875
+  pitch: 20.54996681213379
+  world-name: ''
+ip-address: 77.200.136.115
+last-account-name: WolfBreak
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

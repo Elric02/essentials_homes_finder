@@ -1,0 +1,63 @@
+timestamps:
+  login: 1537154536704
+  lastteleport: 1536421631130
+  logout: 1537154680427
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2064.294920933656
+  y: 69.64585888480875
+  z: 2804.7545507241925
+  yaw: 74.12740325927734
+  pitch: 38.381080627441406
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  base:
+    world: world
+    x: -2060.0458720355387
+    y: 63.0
+    z: 2802.432660003695
+    yaw: -195.3126220703125
+    pitch: 61.046607971191406
+    world-name: ''
+  bois:
+    world: Ressource
+    x: -1848.0768824864797
+    y: 65.0
+    z: -317.9390591579026
+    yaw: 126.48831176757812
+    pitch: 14.622932434082031
+    world-name: ''
+  end:
+    world: world
+    x: -2059.0320832975485
+    y: 85.0
+    z: 2804.376443439136
+    yaw: 39.1785888671875
+    pitch: 31.654550552368164
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -2058.37433107568
+  y: 63.0
+  z: 2803.8703778066247
+  yaw: -192.2074432373047
+  pitch: 43.36104965209961
+  world-name: ''
+ip-address: 78.220.193.145
+last-account-name: death_lords
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

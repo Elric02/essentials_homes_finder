@@ -1,0 +1,38 @@
+timestamps:
+  login: 1578939773268
+  logout: 1578940068587
+  lastteleport: 1578939778778
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.35271042733768
+  y: 65.5
+  z: 99.38317088234547
+  yaw: 61.29653549194336
+  pitch: 17.64063262939453
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.20535374101314
+  y: 64.0
+  z: 16.635394346646738
+  yaw: -15.170320510864258
+  pitch: 15.928668975830078
+  world-name: ''
+ip-address: 62.203.176.222
+last-account-name: Elric5
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

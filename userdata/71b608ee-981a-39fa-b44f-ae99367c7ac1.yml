@@ -1,0 +1,63 @@
+timestamps:
+  login: 1499018389808
+  lastteleport: 1496171385530
+  logout: 1499018542377
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: 1574.8907326021617
+  y: 61.0
+  z: -99.30346651848845
+  yaw: 210.17750549316406
+  pitch: 21.699121475219727
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4293.505259475908
+  y: 79.0
+  z: -3712.824999988079
+  yaw: -130.17721557617188
+  pitch: 44.590187072753906
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 4293.496620505612
+    y: 75.96636804164123
+    z: -3706.408947354985
+    yaw: -131.2357940673828
+    pitch: 9.784682273864746
+    world-name: ''
+  nether:
+    world: world_nether
+    x: -5597.206763700552
+    y: 43.0
+    z: 6046.901930878576
+    yaw: 139.126708984375
+    pitch: 19.811660766601562
+    world-name: ''
+  end:
+    world: world_the_end
+    x: 1574.8907326021617
+    y: 61.0
+    z: -99.30346651848845
+    yaw: 198.56544494628906
+    pitch: 37.70000457763672
+    world-name: ''
+muted: false
+afk: false
+ip-address: 81.56.27.117
+last-account-name: WatherFenix
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

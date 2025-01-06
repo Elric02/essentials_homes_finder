@@ -1,0 +1,55 @@
+timestamps:
+  login: 1551559194590
+  lastteleport: 1551560701644
+  logout: 1551561928322
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -325.2121676493428
+  y: 11.0
+  z: -914.6999999880791
+  yaw: 271.03765869140625
+  pitch: 11.999996185302734
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -784.211163475916
+  y: 64.0
+  z: 1714.1226203463057
+  yaw: 199.92919921875
+  pitch: 19.050235748291016
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -1878.1809387905876
+    y: 80.0
+    z: -4032.948654113058
+    yaw: 276.599365234375
+    pitch: 10.800101280212402
+    world-name: ''
+  home:
+    world: world
+    x: -1874.7976977571086
+    y: 80.875
+    z: -4030.2402969131826
+    yaw: -86.85147094726562
+    pitch: 18.600120544433594
+    world-name: ''
+afk: false
+ip-address: 92.170.185.33
+last-account-name: Dhedey
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474913736930
+  lastteleport: 1474915855400
+  logout: 1474916145889
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: 276.159330296047
+  y: 40.0
+  z: 429.6109912448045
+  yaw: -162.3780059814453
+  pitch: 17.85000991821289
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressources
+  x: 183.53367463995386
+  y: 12.0
+  z: 437.3823131594041
+  yaw: -278.62750244140625
+  pitch: 85.79997253417969
+  world-name: ''
+ip-address: 88.125.179.29
+last-account-name: younes
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

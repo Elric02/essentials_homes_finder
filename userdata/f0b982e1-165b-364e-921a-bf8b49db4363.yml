@@ -1,0 +1,47 @@
+timestamps:
+  login: 1547924264666
+  lastteleport: 1547926797644
+  logout: 1547927605002
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 329.6544753796671
+  y: 62.07326432466507
+  z: 531.7165967037479
+  yaw: 177.93748474121094
+  pitch: 43.64996337890625
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.4953717203218
+  y: 64.0
+  z: 22.60122355390334
+  yaw: 151.086669921875
+  pitch: 10.378655433654785
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 2878.5260722406356
+    y: 72.0
+    z: -2543.950406981134
+    yaw: -15.899368286132812
+    pitch: 23.549907684326172
+    world-name: ''
+afk: false
+ip-address: 176.158.81.230
+last-account-name: Bruh_Itz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

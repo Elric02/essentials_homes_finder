@@ -1,0 +1,38 @@
+timestamps:
+  login: 1537362988115
+  lastteleport: 1537363085338
+  logout: 1537363166077
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 149.060646898516
+  y: 63.7531999805212
+  z: -11.034522786736476
+  yaw: -354.2996826171875
+  pitch: 17.543901443481445
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 104.48345472825031
+  y: 63.0
+  z: -43.273820401597064
+  yaw: -179.40472412109375
+  pitch: 90.0
+  world-name: ''
+ip-address: 31.37.241.27
+last-account-name: Shayke_e
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

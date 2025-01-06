@@ -1,0 +1,38 @@
+timestamps:
+  login: 1513285009417
+  lastteleport: 1513285227060
+  logout: 1513285332855
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 149.0462867370122
+  y: 63.0
+  z: 53.07004238748727
+  yaw: 118.22498321533203
+  pitch: 5.8361992835998535
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 180.3485175047202
+  y: 65.0
+  z: -37.96163883625664
+  yaw: -4.974212646484375
+  pitch: 14.095999717712402
+  world-name: ''
+ip-address: 93.23.80.23
+last-account-name: vvirless
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514477893502
+  logout: 1514478084633
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 163.22157589840904
+  y: 64.0
+  z: 22.281268169416812
+  yaw: 33.62939453125
+  pitch: 11.685132026672363
+  world-name: ''
+ip-address: 88.171.236.73
+last-account-name: pouet
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

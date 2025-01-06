@@ -1,0 +1,106 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.90.44.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1729277901406
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730673688651
+  login: 1730673688567
+  kits:
+    stationaute: 1667330917076
+    explorateur: 1668011355103
+money: '73981.1160000000000069'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -4184.170688132954
+  y: 99.96992241543047
+  z: -3557.03087857384
+  yaw: -5.2139892578125
+  pitch: 0.7518556118011475
+last-account-name: ArtiganLoutronc
+homes:
+  f:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -361.9263830310126
+    y: 139.0
+    z: -1820.0149863310262
+    yaw: 89.49905395507812
+    pitch: 34.9742431640625
+  st:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4237.92945427154
+    y: 63.0
+    z: -3706.6345944556274
+    yaw: 90.28466796875
+    pitch: 5.190941333770752
+  biblio:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -346.9124965969452
+    y: -21.0
+    z: -269.1011930958702
+    yaw: 117.60691833496094
+    pitch: 25.89895248413086
+  m:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3476.548950216736
+    y: 208.0
+    z: 3694.4973393982273
+    yaw: -89.9898910522461
+    pitch: 10.966144561767578
+  port:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3570.269297686316
+    y: 68.0
+    z: 3771.819358412334
+    yaw: 88.29568481445312
+    pitch: 5.440093994140625
+  r:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -453.44786974918634
+    y: 300.0
+    z: -1766.4538349779214
+    yaw: -91.269287109375
+    pitch: 2.4013843536376953
+  sss:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4458.822951965939
+    y: 69.0
+    z: 1607.0820351436755
+    yaw: -0.3681640625
+    pitch: 4.282197952270508
+  vill:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7004.557756821098
+    y: 320.0
+    z: 50.90863572334877
+    yaw: -0.6448318958282471
+    pitch: 61.61799240112305
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 937.5448670386218
+  y: 85.26966079665117
+  z: -7909.590706977666
+  yaw: 13.99298095703125
+  pitch: 21.49393653869629

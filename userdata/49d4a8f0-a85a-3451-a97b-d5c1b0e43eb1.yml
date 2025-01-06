@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514314495062
+  logout: 1514314515590
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.96651978237279
+  y: 65.0
+  z: 100.5087740480594
+  yaw: 11.751977920532227
+  pitch: 6.907249450683594
+  world-name: ''
+ip-address: 86.229.228.11
+last-account-name: NZ_TequirunTV
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

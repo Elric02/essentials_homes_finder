@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514480898014
+  logout: 1514480911508
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 126.40028618631621
+  y: 63.0
+  z: 17.99741420547102
+  yaw: -90.28387451171875
+  pitch: 9.391892433166504
+  world-name: ''
+ip-address: 87.67.124.120
+last-account-name: iFear
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

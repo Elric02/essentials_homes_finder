@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483821907049
+  lastteleport: 1483821813565
+  logout: 1483821931975
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -540.7003420856732
+  y: 66.0
+  z: -693.0749999880791
+  yaw: 162.00836181640625
+  pitch: 70.2723159790039
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -2506.2399895753497
+  y: 91.0
+  z: -929.9827827183913
+  yaw: 166.107421875
+  pitch: 11.610931396484375
+  world-name: ''
+ip-address: 90.60.192.110
+last-account-name: SawnFx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

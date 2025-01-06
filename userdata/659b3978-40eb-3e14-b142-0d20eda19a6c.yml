@@ -1,0 +1,87 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.239.107.60
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735508844867
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735508966936
+  login: 1735507269952
+money: '15367.0'
+last-account-name: Flepice
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 245.6084800466232
+  y: 132.0
+  z: 141.14149787871486
+  yaw: 110.87005615234375
+  pitch: -44.84967041015625
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -73.81959644927943
+  y: 65.0
+  z: -211.2371798953648
+  yaw: 4.03857421875
+  pitch: 21.14988136291504
+homes:
+  ricolas:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 3823.3268813236346
+    y: 64.0
+    z: -434.38146753953055
+    yaw: -61.2626953125
+    pitch: 33.74856185913086
+  cheri:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7238.973727143376
+    y: 63.0
+    z: -5509.296276205124
+    yaw: 127.13725280761719
+    pitch: 21.749610900878906
+  sapin:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 4428.616471009562
+    y: 65.0
+    z: 2241.174604849327
+    yaw: -110.438232421875
+    pitch: 4.6494574546813965
+  bo:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 3503.587003681152
+    y: 73.0
+    z: -1053.7075302637613
+    yaw: -88.95658874511719
+    pitch: 16.349666595458984
+  bois:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 453.69072961449393
+    y: 65.0
+    z: -2412.784110181273
+    yaw: -75.28166198730469
+    pitch: 7.499517440795898
+  b_ton:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7204.466781202173
+    y: 238.0
+    z: -5451.213028226633
+    yaw: 145.64309692382812
+    pitch: 41.399574279785156

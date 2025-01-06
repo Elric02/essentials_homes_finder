@@ -1,0 +1,38 @@
+timestamps:
+  login: 1574320466841
+  lastteleport: 1574321117756
+  logout: 1574321229379
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.96650371215918
+  y: 64.0
+  z: 18.14451383585334
+  yaw: 286.93902587890625
+  pitch: 15.864635467529297
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -107.69999998807907
+  y: 61.0
+  z: -116.88956610672105
+  yaw: 0.4378662109375
+  pitch: 16.503631591796875
+  world-name: ''
+ip-address: 90.118.155.249
+last-account-name: TourtelTwist
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

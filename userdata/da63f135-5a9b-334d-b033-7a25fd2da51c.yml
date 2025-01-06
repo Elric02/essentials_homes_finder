@@ -1,0 +1,47 @@
+timestamps:
+  login: 1472746674576
+  logout: 1472748884686
+  lastteleport: 1472748878410
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: 93.63730941258494
+  y: 58.0
+  z: 9.788949160974202
+  yaw: 193.72442626953125
+  pitch: -2.2499759197235107
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.01148733353514
+  y: 64.0
+  z: 28.616219096183592
+  yaw: -230.1609344482422
+  pitch: 8.72451400756836
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 4685.437486408785
+    y: 76.0
+    z: 5470.568143950262
+    yaw: -202.9503173828125
+    pitch: 14.999979019165039
+    world-name: ''
+ip-address: 176.153.97.103
+last-account-name: matelo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

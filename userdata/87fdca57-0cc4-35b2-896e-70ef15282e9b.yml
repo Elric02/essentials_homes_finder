@@ -1,0 +1,47 @@
+timestamps:
+  login: 1517096145958
+  lastteleport: 1496652695257
+  logout: 1517096924662
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -131.69999998807907
+  y: 28.0
+  z: 127.30000001192093
+  yaw: 201.0372314453125
+  pitch: -2.181952953338623
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -1746.4618208189502
+    y: 73.0
+    z: -1373.2644299686053
+    yaw: -34.399169921875
+    pitch: 49.7999382019043
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1773.4252185217147
+  y: 68.0
+  z: -1343.081572745282
+  yaw: 228.288330078125
+  pitch: 18.720863342285156
+  world-name: ''
+afk: false
+ip-address: 77.196.121.213
+last-account-name: AtoXx94FR
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

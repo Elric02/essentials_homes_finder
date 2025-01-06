@@ -1,0 +1,47 @@
+timestamps:
+  login: 1508604258997
+  lastteleport: 1508604731126
+  logout: 1508604834854
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 4325.128766993594
+  y: 63.9375
+  z: 3103.4687268659713
+  yaw: -182.2501220703125
+  pitch: 57.45000076293945
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -6938.503367829616
+  y: 63.0
+  z: 4493.610975541627
+  yaw: -109.19878387451172
+  pitch: 19.049999237060547
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -6932.578889503304
+    y: 63.0
+    z: 4483.645349793892
+    yaw: -134.998779296875
+    pitch: 5.700001239776611
+    world-name: ''
+ip-address: 78.252.66.212
+last-account-name: Rozana47
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1502369772757
+  lastteleport: 1502372149023
+  logout: 1502372158425
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2839.833345837866
+  y: 69.0
+  z: 4903.238524567657
+  yaw: -57.600982666015625
+  pitch: 28.19987678527832
+  world-name: ''
+money: '0'
+homes:
+  kiki:
+    world: world
+    x: 1511.201013497591
+    y: 72.0
+    z: -2172.9819329909274
+    yaw: 234.25816345214844
+    pitch: 33.900020599365234
+    world-name: ''
+  coffres:
+    world: world
+    x: -2291.083634094348
+    y: 68.0
+    z: -1749.076469064016
+    yaw: -163.3501434326172
+    pitch: 38.84994125366211
+    world-name: ''
+  ch_teau:
+    world: world
+    x: 2671.35506035547
+    y: 63.0
+    z: -5521.737067929249
+    yaw: 92.24891662597656
+    pitch: 51.749996185302734
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 2655.0537365435403
+  y: 63.0
+  z: -5503.227423128335
+  yaw: 34.79891586303711
+  pitch: 22.05000114440918
+  world-name: ''
+muted: false
+jailed: false
+ip-address: 88.86.246.205
+last-account-name: Aleya
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

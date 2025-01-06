@@ -1,0 +1,63 @@
+timestamps:
+  login: 1629300624613
+  lastteleport: 1629300771513
+  logout: 1629300870412
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -866.8682570386608
+  y: 59.0
+  z: 2206.9174146863093
+  yaw: 184.6378173828125
+  pitch: 17.549997329711914
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -26.46398810967314
+    y: 63.0
+    z: 4375.6321874158275
+    yaw: -75.7142333984375
+    pitch: 86.24990844726562
+    world-name: ''
+  villageois:
+    world: Ressource
+    x: -1425.050045483545
+    y: 68.0
+    z: -2001.6904978591465
+    yaw: 327.4912109375
+    pitch: 18.749977111816406
+    world-name: ''
+  fer:
+    world: Ressource
+    x: -862.5333386366613
+    y: 63.0
+    z: 2194.738397847644
+    yaw: 2.988222122192383
+    pitch: 20.22113800048828
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -24.006396787646228
+  y: 69.0
+  z: 4369.531531597702
+  yaw: -74.36399841308594
+  pitch: 16.80004119873047
+  world-name: ''
+ip-address: 89.2.170.205
+last-account-name: Mattiou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

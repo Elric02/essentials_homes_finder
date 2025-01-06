@@ -1,0 +1,55 @@
+timestamps:
+  login: 1480028843858
+  lastteleport: 1480029087497
+  logout: 1480029096309
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4796.576320260794
+  y: 48.0
+  z: -1649.9760421463611
+  yaw: 294.5037841796875
+  pitch: 30.123502731323242
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4419.5
+  y: 65.0
+  z: -5196.5
+  yaw: 0.49591064453125
+  pitch: -13.192451477050781
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 4419.7254981108845
+    y: 65.0
+    z: -5196.768483147115
+    yaw: 357.64410400390625
+    pitch: 17.284107208251953
+    world-name: ''
+  spawner:
+    world: world
+    x: -4793.693613621578
+    y: 48.0
+    z: -1650.2474999337198
+    yaw: 0.94146728515625
+    pitch: 1.0732241868972778
+    world-name: ''
+ip-address: 85.68.62.214
+last-account-name: TheDiamondEyed
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

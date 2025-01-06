@@ -1,0 +1,55 @@
+timestamps:
+  login: 1530039154066
+  lastteleport: 1529701451168
+  logout: 1530039367188
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -313.84163625492204
+  y: 68.0
+  z: 365.8366926933829
+  yaw: 353.28875732421875
+  pitch: 17.999181747436523
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3191.5990283241763
+  y: 79.0
+  z: -4216.409482683166
+  yaw: 119.41485595703125
+  pitch: 2.6390280723571777
+  world-name: ''
+homes:
+  home:
+    world: Ressource
+    x: -19.075440693501925
+    y: 5.0
+    z: -937.6999999880791
+    yaw: -157.7701416015625
+    pitch: -90.0
+    world-name: ''
+  b:
+    world: world
+    x: -3153.9016827405258
+    y: 80.0
+    z: -4231.693123013014
+    yaw: -88.6611328125
+    pitch: 2.801042318344116
+    world-name: ''
+afk: false
+ip-address: 93.121.158.59
+last-account-name: ThePloufMan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

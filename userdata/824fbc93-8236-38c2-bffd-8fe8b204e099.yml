@@ -1,0 +1,38 @@
+timestamps:
+  login: 1539811132177
+  lastteleport: 1539811620038
+  logout: 1539811810775
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1208.5864943208483
+  y: 72.0
+  z: -163.87600842862662
+  yaw: -90.89995574951172
+  pitch: 2.8499131202697754
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -898.4748358357391
+  y: 73.0
+  z: 418.8691576962949
+  yaw: 194.9703369140625
+  pitch: 40.283424377441406
+  world-name: ''
+ip-address: 89.92.71.38
+last-account-name: MrMaxime4
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

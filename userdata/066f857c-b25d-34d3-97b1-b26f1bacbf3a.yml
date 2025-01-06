@@ -1,0 +1,55 @@
+timestamps:
+  login: 1478017626947
+  lastteleport: 1477998811213
+  logout: 1478017662530
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -911.9167111020482
+  y: 78.5
+  z: 551.3000000119209
+  yaw: -100.04383087158203
+  pitch: 43.08112335205078
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 6046.491095095746
+    y: 64.0
+    z: -1346.2210311679992
+    yaw: -43.49967575073242
+    pitch: 13.800003051757812
+    world-name: ''
+  ressource:
+    world: ressource
+    x: -3443.9946868094657
+    y: 10.0
+    z: 6393.641523224704
+    yaw: 294.0947570800781
+    pitch: 47.699981689453125
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1673.7956000632537
+  y: 72.0
+  z: 6130.305222863369
+  yaw: -183.14999389648438
+  pitch: 15.600004196166992
+  world-name: ''
+muted: true
+ip-address: 90.107.215.73
+last-account-name: Sytranix_yt
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

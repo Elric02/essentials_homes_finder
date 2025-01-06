@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.172.39.232
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1649711624962
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1650209036566
+  login: 1650209027007
+money: '0'
+last-account-name: Redsaxo
+lastlocation:
+  world: 9ae49fc9-52ed-408c-94a2-ef296500163a
+  world-name: Ressource
+  x: -2137.36195962438
+  y: 29.0
+  z: -174.44998604539856
+  yaw: -43.91375732421875
+  pitch: -15.900564193725586
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.29481298697206
+  y: 64.8619099044073
+  z: 19.290541625391672
+  yaw: -179.39324951171875
+  pitch: 69.8998031616211

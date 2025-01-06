@@ -1,0 +1,38 @@
+timestamps:
+  login: 1493320256641
+  logout: 1493320293989
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 161.94775479986708
+  y: 65.41999998688698
+  z: 11.342630674042589
+  yaw: -114.94744110107422
+  pitch: 42.697391510009766
+  world-name: ''
+ip-address: 83.199.55.169
+last-account-name: criper022
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

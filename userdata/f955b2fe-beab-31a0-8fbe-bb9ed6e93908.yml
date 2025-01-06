@@ -1,0 +1,71 @@
+timestamps:
+  login: 1562171565739
+  lastteleport: 1562166215599
+  logout: 1562171931028
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3278.858823316175
+  y: 64.0
+  z: -882.4209905275243
+  yaw: -273.1524963378906
+  pitch: 21.00014877319336
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -3265.4905876501443
+    y: 66.0
+    z: -885.2185581882214
+    yaw: -296.25213623046875
+    pitch: 25.95014190673828
+    world-name: ''
+  home:
+    world: world
+    x: -3315.5
+    y: 64.0
+    z: -880.5
+    yaw: 83.1461410522461
+    pitch: 8.179475784301758
+    world-name: ''
+  zteck:
+    world: world
+    x: 2284.5
+    y: 66.0
+    z: -2308.5
+    yaw: -128.7512969970703
+    pitch: -3.590247631072998
+    world-name: ''
+  base:
+    world: world
+    x: 4807.5
+    y: 70.0
+    z: -1277.5
+    yaw: 126.00054931640625
+    pitch: 19.650039672851562
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2286.685160687011
+  y: 66.0
+  z: -2306.9533366374894
+  yaw: -0.3475382626056671
+  pitch: 30.150074005126953
+  world-name: ''
+afk: false
+ip-address: 88.179.189.131
+last-account-name: Atsuko_takahashi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

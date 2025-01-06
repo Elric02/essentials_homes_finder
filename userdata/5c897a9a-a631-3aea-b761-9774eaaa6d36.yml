@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.213.178.189
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1644617538538
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644618251161
+  login: 1644616876982
+money: '0'
+last-account-name: chipsnucleaire
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.90138090437497
+  y: 64.0
+  z: 18.675186943706073
+  yaw: -5.093840599060059
+  pitch: 8.849791526794434
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1205.8209890506641
+  y: 63.0
+  z: -2250.458553305603
+  yaw: -30.9307861328125
+  pitch: 3.0600368976593018

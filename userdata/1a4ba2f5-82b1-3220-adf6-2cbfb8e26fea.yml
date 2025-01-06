@@ -1,0 +1,63 @@
+timestamps:
+  login: 1648892820017
+  lastteleport: 1648895475326
+  logout: 1648896500391
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3535.699999988079
+  y: 21.0
+  z: -6405.676091410229
+  yaw: -67.28045654296875
+  pitch: 19.499950408935547
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -453.73028437703545
+  y: 62.0
+  z: -4007.5609978499065
+  yaw: 176.55230712890625
+  pitch: -10.949769020080566
+  world-name: world
+money: '0'
+homes:
+  manoir:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -453.94279242259194
+    y: 72.0
+    z: -4021.1571218700656
+    yaw: 180.60035705566406
+    pitch: 10.500110626220703
+    world-name: world
+  montagne:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5308.130940157328
+    y: 79.0
+    z: 5359.16037295752
+    yaw: 151.8106231689453
+    pitch: 30.899951934814453
+  ville:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6239.317191128487
+    y: 64.0
+    z: 5386.312934949695
+    yaw: 96.94097900390625
+    pitch: 53.70003890991211
+afk: false
+ip-address: 78.119.39.155
+last-account-name: Taha133
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

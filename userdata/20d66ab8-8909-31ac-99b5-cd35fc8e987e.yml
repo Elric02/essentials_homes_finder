@@ -1,0 +1,47 @@
+timestamps:
+  login: 1481921892485
+  lastteleport: 1481925155355
+  logout: 1481926562198
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 199.69999998807907
+  y: 85.0
+  z: -102.6999999880791
+  yaw: 60.839111328125
+  pitch: 70.22460174560547
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 1122.4577091797878
+    y: 121.0
+    z: 1379.3575144055485
+    yaw: 351.00018310546875
+    pitch: 26.999956130981445
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 177.11747776786217
+  y: 63.0
+  z: -25.42337720260352
+  yaw: 53.18898391723633
+  pitch: 0.32450467348098755
+  world-name: ''
+ip-address: 174.94.84.136
+last-account-name: yoxiz12
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

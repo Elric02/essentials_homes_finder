@@ -1,0 +1,47 @@
+timestamps:
+  login: 1561830937893
+  logout: 1561836436273
+  lastteleport: 1561836016433
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2792.719265441658
+  y: 60.0
+  z: 7067.418342257978
+  yaw: -339.8955078125
+  pitch: -0.7499920725822449
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -2816.3488282513254
+    y: 66.0
+    z: 6997.866704146275
+    yaw: -165.7484130859375
+    pitch: 1.7999807596206665
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -2785.900254736867
+  y: 64.0
+  z: 7057.445865332404
+  yaw: -162.7427978515625
+  pitch: 14.39969539642334
+  world-name: ''
+afk: false
+ip-address: 92.138.231.77
+last-account-name: drakneoless
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

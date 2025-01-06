@@ -1,0 +1,63 @@
+timestamps:
+  login: 1727230677694
+  lastteleport: 1588130917454
+  logout: 1727230677824
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1921.300000011921
+  y: 62.83039695263645
+  z: -2166.300000011921
+  yaw: 13.051177978515625
+  pitch: 29.39993667602539
+  world-name: ''
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1910.4588770178566
+  y: 75.0
+  z: -2160.3825588525506
+  yaw: 178.35009765625
+  pitch: 23.700035095214844
+  world-name: world
+money: '0'
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1910.7911063006281
+    y: 67.0625
+    z: -2162.34673692433
+    yaw: -264.6000061035156
+    pitch: 42.30000305175781
+    world-name: world
+  ville:
+    world: world
+    x: -211.83550736423334
+    y: 66.0
+    z: -3652.9736570674627
+    yaw: 5.764892578125
+    pitch: 28.352405548095703
+    world-name: ''
+  muraille:
+    world: world
+    x: -164.2501062903328
+    y: 100.0
+    z: -3482.0318021383487
+    yaw: 72.96573638916016
+    pitch: 34.050018310546875
+    world-name: ''
+afk: false
+ip-address: 185.204.1.184
+last-account-name: DarkNight
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

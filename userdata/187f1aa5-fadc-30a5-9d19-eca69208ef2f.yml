@@ -1,0 +1,63 @@
+timestamps:
+  login: 1479548156564
+  lastteleport: 1478103151887
+  logout: 1479548186809
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1375.1244399309508
+  y: 68.0
+  z: -6181.867160387825
+  yaw: 312.40789794921875
+  pitch: 21.377548217773438
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1421.891751984044
+  y: 141.0
+  z: -6339.300000011921
+  yaw: -273.4521179199219
+  pitch: -3.019796848297119
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -1408.0992843448314
+    y: 140.0
+    z: -6326.822419001086
+    yaw: -185.93743896484375
+    pitch: 12.427494049072266
+    world-name: ''
+  cons:
+    world: world
+    x: -1392.2149418725992
+    y: 64.0
+    z: -6321.487807447483
+    yaw: -98.61618041992188
+    pitch: 14.106684684753418
+    world-name: ''
+  noel:
+    world: world
+    x: 5513.506142606827
+    y: 70.0
+    z: 2393.6889965135365
+    yaw: 188.8375701904297
+    pitch: 20.260534286499023
+    world-name: ''
+afk: false
+ip-address: 88.219.201.224
+last-account-name: RodSenpai
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

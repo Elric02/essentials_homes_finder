@@ -1,0 +1,38 @@
+timestamps:
+  login: 1502719194679
+  logout: 1502719262029
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.90456115080926
+  y: 63.0
+  z: -15.434174621868003
+  yaw: -174.30511474609375
+  pitch: 23.879043579101562
+  world-name: ''
+ip-address: 82.230.155.127
+last-account-name: AlphaxLynk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

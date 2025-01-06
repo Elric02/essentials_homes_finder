@@ -1,0 +1,119 @@
+timestamps:
+  login: 1636293579634
+  lastteleport: 1636294896340
+  logout: 1636295003104
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: d1664d30-9fc4-42ee-82cf-43bb1c142a8b
+  x: -2399.698982578597
+  y: 60.51607809138125
+  z: -1033.9461986032393
+  yaw: -239.86167907714844
+  pitch: -12.600509643554688
+  world-name: End
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 6096.110814644013
+  y: 72.0
+  z: 2359.1619282345114
+  yaw: -115.6717529296875
+  pitch: 7.297257423400879
+  world-name: world
+homes:
+  cha:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6096.5257983563215
+    y: 72.0
+    z: 2363.6060256512633
+    yaw: -181.21954345703125
+    pitch: -2.7526845932006836
+    world-name: world
+  met:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1042.6141474609244
+    y: 93.5
+    z: 3832.7033821732052
+    yaw: -1.5740966796875
+    pitch: 33.0556640625
+    world-name: world
+  mer:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3525.9351740001557
+    y: 43.0
+    z: 2167.074729771195
+    yaw: 0.9546608924865723
+    pitch: 21.149538040161133
+    world-name: world
+  con:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    x: 954.8401179267839
+    y: 4.0
+    z: 1018.4905200745893
+    yaw: 87.76094818115234
+    pitch: 7.80023193359375
+    world-name: Event
+  ici:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    x: 945.4530981927894
+    y: 92.0
+    z: 1021.3000000119209
+    yaw: 62.832908630371094
+    pitch: -22.049894332885742
+    world-name: Event
+  red:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    x: 938.3746895946125
+    y: 36.0
+    z: 1008.1048598916026
+    yaw: 1.5203857421875
+    pitch: 10.200153350830078
+    world-name: Event
+  usi:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 673.2886866040229
+    y: 65.0
+    z: 758.7557896414668
+    yaw: -182.16416931152344
+    pitch: 33.68684005737305
+    world-name: world
+  sli:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6162.234800036396
+    y: 35.0
+    z: 2391.159614396667
+    yaw: -44.85333251953125
+    pitch: 19.201122283935547
+    world-name: world
+  la:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6209.988836029303
+    y: 11.0
+    z: 2408.300000011921
+    yaw: -15.064204216003418
+    pitch: -22.64997100830078
+    world-name: world
+  akf:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6204.162701010856
+    y: 123.5
+    z: 2437.476918117115
+    yaw: 195.282470703125
+    pitch: 63.09747314453125
+    world-name: world
+afk: false
+muted: false
+jailed: false
+ip-address: 90.126.78.236
+last-account-name: Starmyst
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

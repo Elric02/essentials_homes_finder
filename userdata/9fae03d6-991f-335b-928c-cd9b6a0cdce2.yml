@@ -1,0 +1,39 @@
+timestamps:
+  login: 1501784729189
+  lastteleport: 1501785630776
+  mute: 0
+  logout: 1501786066101
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.07505720991415
+  y: 64.16610926093821
+  z: 33.1191493695304
+  yaw: 179.35211181640625
+  pitch: 0.7303470373153687
+  world-name: ''
+afk: false
+money: '0'
+jailed: true
+jail: pirate
+muted: true
+logoutlocation:
+  world: world
+  x: 65.92500001192093
+  y: 70.5
+  z: 111.30197101276303
+  yaw: -79.04845428466797
+  pitch: -2.7049577236175537
+  world-name: ''
+ip-address: 2.11.253.60
+last-account-name: guino7
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

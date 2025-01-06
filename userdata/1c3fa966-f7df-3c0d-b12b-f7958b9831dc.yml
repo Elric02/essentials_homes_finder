@@ -1,0 +1,63 @@
+timestamps:
+  login: 1613124773289
+  lastteleport: 1613125462411
+  logout: 1613125549894
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7217.752148507243
+  y: 64.0
+  z: -3913.8986323379495
+  yaw: -263.43499755859375
+  pitch: 3.665374755859375
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 6803.978851639011
+    y: 67.0
+    z: -3903.92243524732
+    yaw: -6.474601745605469
+    pitch: 25.913591384887695
+    world-name: ''
+  ressource:
+    world: Ressource
+    x: 19.669065597350418
+    y: 52.0
+    z: -484.1051369685209
+    yaw: -146.04345703125
+    pitch: 33.234527587890625
+    world-name: ''
+  test:
+    world: world
+    x: 7217.752148507243
+    y: 64.0
+    z: -3913.8986323379495
+    yaw: -263.43499755859375
+    pitch: 3.665374755859375
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 6804.621896214917
+  y: 66.0
+  z: -3889.2139748643795
+  yaw: -38.90087890625
+  pitch: 33.76219177246094
+  world-name: ''
+ip-address: 90.125.55.23
+last-account-name: TOMITOM2017
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

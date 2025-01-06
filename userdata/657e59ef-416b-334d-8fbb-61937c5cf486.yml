@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.9.162.56
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1694208920455
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1702219383434
+  login: 1702219299912
+money: '250.0'
+last-account-name: Lyne3027
+lastlocation:
+  world: d097c14e-8288-4547-88dc-d9590a602c7b
+  world-name: Nether
+  x: 10.364160802481006
+  y: 73.0
+  z: -10.473925143403827
+  yaw: 128.9830322265625
+  pitch: -7.1903557777404785
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.8431581996857
+  y: 81.0
+  z: -3107.8693389881955
+  yaw: -38.72894287109375
+  pitch: 5.738393306732178

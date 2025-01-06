@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.152.67.187
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1648374071203
+  login: 1648373113099
+money: '0'
+last-account-name: KiritoSAO2020
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 7.138311537398327
+  y: 67.0
+  z: 11.106650273570123
+  yaw: -167.38905334472656
+  pitch: 25.176467895507812
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 961.6775037065128
+  y: 63.0
+  z: -2282.469703088435
+  yaw: 31.193603515625
+  pitch: 19.759347915649414

@@ -1,0 +1,606 @@
+timestamps:
+  login: 1736084259659
+  logout: 1736095496764
+  lastteleport: 1736085853379
+  mute: 0
+  kits:
+    color: 1694540200416
+    vip: 1680951637465
+    debutant: 1668881520462
+    test: 0
+    stationaute: 1670324253986
+    explorateur: 1664728354505
+    ambassadeur: 1664728366358
+    stadawan: 1666046439170
+    spaceranger: 1733495232937
+    creatif: 1668898783338
+    gradestationaute: 1668116484533
+    nouveau: 1668883094965
+    p4: 1672221121881
+    p5: 1681162187750
+    e5: 1672221380483
+    piochee6: 1681162283802
+    hachee6: 1681162288658
+    pellee6: 1681162292018
+    testattrapeur: 1680951559820
+    elytres: 1681162429108
+  jail: 0
+  onlinejail: 0
+  lastheal: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -7218.5
+  y: 64.0
+  z: -5569.5
+  yaw: -150.2242889404297
+  pitch: 50.09920120239258
+  world-name: world
+afk: false
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 4082.356383129953
+  y: 71.0
+  z: -1550.6283121444317
+  yaw: -142.62855529785156
+  pitch: 7.459043502807617
+  world-name: world
+homes:
+  domaine:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5921.862744583136
+    y: 64.0
+    z: -3396.8614554462965
+    yaw: 359.5506286621094
+    pitch: 2.1000306606292725
+    world-name: world
+  pitch:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6215.2007771081735
+    y: 63.0
+    z: 214.99079283744985
+    yaw: 177.00196838378906
+    pitch: 0.06375408917665482
+    world-name: world
+  ferme:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3610.1878806021446
+    y: 71.0
+    z: 6807.090350112777
+    yaw: 270.4471130371094
+    pitch: 41.9999885559082
+    world-name: world
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6955.05150255049
+    y: 67.0
+    z: 2096.18757568426
+    yaw: 90.89586639404297
+    pitch: 9.299970626831055
+    world-name: world
+  meve:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5377.57648792514
+    y: 58.0
+    z: 1441.3769889651783
+    yaw: 230.3147735595703
+    pitch: -0.33480727672576904
+    world-name: world
+  first:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -503.5738252030113
+    y: 69.0625
+    z: -31.463148438528712
+    yaw: -92.36981201171875
+    pitch: -1.8070343732833862
+    world-name: world
+  elrix:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -383.48539026233
+    y: 67.5
+    z: 149.53059544594572
+    yaw: -181.7833251953125
+    pitch: 5.999880790710449
+    world-name: world
+  inte:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -7239.145980451294
+    y: 63.0
+    z: -5500.7379395638345
+    yaw: 178.460693359375
+    pitch: 3.000173807144165
+    world-name: world
+  chateau:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -869.5
+    y: 70.0
+    z: -3787.5
+    yaw: -123.903564453125
+    pitch: 37.34996032714844
+    world-name: world
+  zoo:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2959.020481437735
+    y: 67.0
+    z: 6912.91878014811
+    yaw: -180.4243927001953
+    pitch: 3.300147771835327
+    world-name: world
+  alambic:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -7218.666362836142
+    y: 49.0
+    z: -5592.540294577798
+    yaw: -232.1229248046875
+    pitch: 0.148734450340271
+    world-name: world
+  cuisine:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -7303.496911291856
+    y: 10.0
+    z: -5668.573159984468
+    yaw: 182.46755981445312
+    pitch: -12.554624557495117
+    world-name: world
+  pvp:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    x: 338.68963881781457
+    y: 4.0
+    z: -1436.8144835854625
+    yaw: 87.27325439453125
+    pitch: -2.6999220848083496
+    world-name: Event
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3805.046058420125
+    y: 36.0
+    z: 6250.789624150239
+    yaw: 267.70062255859375
+    pitch: 3.8983564376831055
+    world-name: world
+  approved:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6949.638409491723
+    y: 69.0
+    z: -6663.590446862307
+    yaw: -273.44671630859375
+    pitch: -4.500041484832764
+  cartes:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7357.5
+    y: 66.0
+    z: -4034.5
+    yaw: -242.70611572265625
+    pitch: 22.7999324798584
+  kohlanta:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    world-name: Event
+    x: 1615.256641826182
+    y: 4.0
+    z: -2717.191112032489
+    yaw: 264.45086669921875
+    pitch: 42.599853515625
+  coffre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5927.761475435138
+    y: 24.0
+    z: -3287.421099063632
+    yaw: -0.28411865234375
+    pitch: -2.2494618892669678
+  test:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -488.5372447622882
+    y: 4.0
+    z: 776.3958874149505
+    yaw: 85.50309753417969
+    pitch: 79.80024719238281
+  labypetrus:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -402.06405767596044
+    y: 76.0
+    z: -535.1930230104904
+    yaw: 200.54437255859375
+    pitch: 8.549959182739258
+  labyslime:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 34.328163550467906
+    y: 62.0
+    z: -848.4200055562585
+    yaw: 3.0812416076660156
+    pitch: 25.050020217895508
+  event6ans:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    world-name: Event
+    x: -6070.1959182906285
+    y: 4.0
+    z: -5990.4458043500235
+    yaw: 194.3978271484375
+    pitch: 13.19947624206543
+  aregen:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 5323.550659802571
+    y: 93.0
+    z: -1250.7361575703899
+    yaw: 278.9468994140625
+    pitch: 5.699954032897949
+  decodefi:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 428.3898622853423
+    y: 79.0
+    z: 1641.545871499193
+    yaw: 119.21610260009766
+    pitch: -18.4504337310791
+  cabane:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5920.624856237149
+    y: 64.0
+    z: -3396.2139809887335
+    yaw: -85.199462890625
+    pitch: 3.599331855773926
+  boule:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -71.50207067077896
+    y: 108.0
+    z: 129.468489014001
+    yaw: 0.15075500309467316
+    pitch: 2.3998804092407227
+  althium:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -552.5446462257954
+    y: 70.0
+    z: -339.9700529776466
+    yaw: 177.3045196533203
+    pitch: 18.44999122619629
+  quimperle:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5574.196524655991
+    y: 65.0
+    z: 534.8471558453977
+    yaw: -49.99310302734375
+    pitch: -3.2998955249786377
+  dac:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4031.6581869174356
+    y: 71.0
+    z: -7752.616658064195
+    yaw: 106.06298828125
+    pitch: -3.300804376602173
+  dacbuild:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -909.6567949111991
+    y: 4.0
+    z: -351.55264351947034
+    yaw: -103.4914321899414
+    pitch: 31.499835968017578
+  tete:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5899.090162011597
+    y: 54.0
+    z: -3365.84937722662
+    yaw: 83.56964111328125
+    pitch: -5.549246311187744
+  events:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4961.417947731713
+    y: 76.0
+    z: -143.67001698788226
+    yaw: 1.653289794921875
+    pitch: -7.950259685516357
+  concoursbuild:
+    world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+    world-name: grosPlot
+    x: 110.12977552930866
+    y: 60.0
+    z: 219.40511351278732
+    yaw: -3.079981803894043
+    pitch: 7.7997236251831055
+  azbor2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 175.08812879380773
+    y: 10.0
+    z: -81.6949005496924
+    yaw: 80.99835205078125
+    pitch: 1.7996571063995361
+  azbor1:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 213.29668310595216
+    y: 100.0
+    z: -107.16331876500195
+    yaw: 168.494140625
+    pitch: 13.950674057006836
+  prof:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 144.42014879599853
+    y: 63.0
+    z: 29.8079378283592
+    yaw: 50.40081787109375
+    pitch: 3.299978256225586
+  mq:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 123.71962298043162
+    y: 63.0
+    z: -18.015641897004848
+    yaw: 81.4528579711914
+    pitch: -0.15003015100955963
+  ozeman:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1427.5
+    y: 74.0
+    z: 3053.390721488119
+    yaw: -62.48884201049805
+    pitch: 5.1888508796691895
+  spawnhalloween:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -1134.991179911883
+    y: 29.0
+    z: -267.66176870396635
+    yaw: 147.89059448242188
+    pitch: 22.499591827392578
+  nameux:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 0.5
+    y: 70.0
+    z: -69.5
+    yaw: 146.4060516357422
+    pitch: 19.1999568939209
+  bug:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -5391.009101042049
+    y: 64.0
+    z: 3707.10164744889
+    yaw: -74.33526611328125
+    pitch: 26.510419845581055
+  adminshop:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 103.30000001192093
+    y: 9.0
+    z: 160.5070433198563
+    yaw: -92.05066680908203
+    pitch: 7.049765110015869
+  adminshopalthium:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -44.10671524556941
+    y: 32.0
+    z: 117.38718704082588
+    yaw: -88.19287109375
+    pitch: 5.249972820281982
+  mousse:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -833.0371547373593
+    y: 29.0
+    z: 224.16815113148255
+    yaw: -178.96791076660156
+    pitch: 30.598857879638672
+  lobbydac:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4424.511675342671
+    y: 64.0
+    z: -7844.5023163290425
+    yaw: -25.088470458984375
+    pitch: -24.300498962402344
+  althiumtest:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -715.3000000119209
+    y: 4.0
+    z: 535.890573780666
+    yaw: -133.96774291992188
+    pitch: 3.8994293212890625
+  exempleaach:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 5775.968741561687
+    y: 69.0
+    z: 6917.860555815753
+    yaw: 176.86956787109375
+    pitch: -2.1005470752716064
+  spawnressource:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 1213.0147931385613
+    y: 70.98561800456154
+    z: -851.0653164334885
+    yaw: 61.045257568359375
+    pitch: -1.950055718421936
+  sss:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4458.585652115647
+    y: 67.9375
+    z: 1587.0935371125724
+    yaw: -2.338494300842285
+    pitch: -4.433636665344238
+  createur:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -1137.4831748979323
+    y: 4.0
+    z: 320.245232754818
+    yaw: 67.46041107177734
+    pitch: 68.98175048828125
+  spawnerinte:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 622.9647898903033
+    y: 13.455043942927944
+    z: -126.51848058931759
+    yaw: 68.40463256835938
+    pitch: 10.646924018859863
+  newas:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -578.8658436777611
+    y: 4.0
+    z: -586.2129627552212
+    yaw: 38.25324249267578
+    pitch: 37.94997024536133
+  railsspace:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6110.300000011921
+    y: 43.0
+    z: 1833.2357366670276
+    yaw: -178.27545166015625
+    pitch: -4.5001935958862305
+  noel:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1390.4837254711138
+    y: 57.0
+    z: -2488.1435286298247
+    yaw: 88.47265625
+    pitch: 4.383243083953857
+  ville:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5852.043219326408
+    y: 67.0
+    z: -3082.796582577923
+    yaw: -24.5927734375
+    pitch: -4.949859142303467
+  mevennou:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5313.426195395578
+    y: 32.0
+    z: 1418.4601119078766
+    yaw: 163.2602996826172
+    pitch: 4.0495195388793945
+  mob:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -86.01682733522851
+    y: 66.0
+    z: 183.7331784840351
+    yaw: -128.40621948242188
+    pitch: 6.599822044372559
+  noel2:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -457.23218961073405
+    y: 4.0
+    z: 797.7150656580866
+    yaw: 173.53651428222656
+    pitch: 1.6497963666915894
+  centreco:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -567.1897893493957
+    y: 4.0
+    z: -621.8576932278786
+    yaw: -3.896982192993164
+    pitch: -6.600020408630371
+  enderman:
+    world: 6bdd2179-c84d-4026-8d7c-65a544be51ab
+    world-name: HestiaEnd
+    x: -244.9881084762631
+    y: 44.0
+    z: 104.13086858513068
+    yaw: 85.85738372802734
+    pitch: 45.90071487426758
+  cointest:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -69.87863896502418
+    y: 4.0
+    z: 806.4708070663861
+    yaw: -5.242916584014893
+    pitch: 7.350375652313232
+  nathapcity:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 3819.380882819195
+    y: 119.0
+    z: 2784.9817481126056
+    yaw: -0.606689453125
+    pitch: 2.399794578552246
+  nathapcityalthium:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 3851.3544583695093
+    y: 93.0
+    z: 2775.129406148504
+    yaw: -76.79666137695312
+    pitch: 7.499765396118164
+  aresetsteve:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    world-name: Nether
+    x: 1438.1437378721928
+    y: 41.0
+    z: -919.0124375203726
+    yaw: -10.035988807678223
+    pitch: 36.000003814697266
+  lobbypvp:
+    world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+    world-name: pvp
+    x: 152.0967079817337
+    y: 83.0
+    z: -105.2703644251821
+    yaw: -82.9466552734375
+    pitch: 1.3504983186721802
+  cartesnatu:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -552.8076173642073
+    y: 123.0
+    z: 176.03035396499567
+    yaw: -159.7384033203125
+    pitch: 7.3504252433776855
+  mort:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -1075.5
+    y: 100.0
+    z: 3639.5
+    yaw: 141.42591857910156
+    pitch: 70.34980010986328
+money: '82147.0'
+muted: false
+godmode: false
+jailed: false
+socialspy: true
+ip-address: 93.16.230.22
+last-account-name: naturalizee
+teleportenabled: true
+teleportauto: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+nickname: §x§C§7§9§F§E§FNatu
+mail:
+- legacy: false
+  read: true
+  message: Coucou, il semble que certains enchants sont hors ligne, je te préviens
+    au cas où
+  sender-name: RetalOne
+  sender-uuid: bc6a92bd-0ca7-3d81-9e15-bf10430d4152
+  timestamp: 1694546392624
+  expire: 0

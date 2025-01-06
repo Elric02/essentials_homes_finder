@@ -1,0 +1,63 @@
+timestamps:
+  login: 1493649924383
+  lastteleport: 1493651626101
+  logout: 1493652087727
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4676.53682645698
+  y: 48.7725852742889
+  z: -210.26105669615404
+  yaw: -219.7752685546875
+  pitch: -1.5001275539398193
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 1007.6153563100429
+    y: 66.0
+    z: -2613.898599165212
+    yaw: 175.799072265625
+    pitch: 18.30009651184082
+    world-name: ''
+  bas:
+    world: world
+    x: 1124.9759514673187
+    y: 65.0
+    z: -2725.1306203606277
+    yaw: 10.649090766906738
+    pitch: -5.400054454803467
+    world-name: ''
+  haut:
+    world: world
+    x: 1125.2193984225942
+    y: 78.0
+    z: -2716.7535460652134
+    yaw: 164.10089111328125
+    pitch: 17.999887466430664
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -5235.769166112174
+  y: 111.0
+  z: -478.23683561051075
+  yaw: -312.9232177734375
+  pitch: -2.6999526023864746
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 90.78.111.216
+last-account-name: nactus_64
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1604777777024
+  lastteleport: 1604778169278
+  logout: 1604778518471
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -85.69999998807907
+  y: 68.0
+  z: -0.0761643918656616
+  yaw: -319.17974853515625
+  pitch: 39.90047073364258
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1136.416903477143
+  y: 68.0
+  z: 2237.070484971178
+  yaw: -92.25019836425781
+  pitch: 29.999967575073242
+  world-name: ''
+ip-address: 109.220.193.117
+last-account-name: Prime_lolo200
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

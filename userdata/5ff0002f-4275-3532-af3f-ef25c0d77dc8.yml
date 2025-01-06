@@ -1,0 +1,38 @@
+timestamps:
+  login: 1504385824365
+  lastteleport: 1504385919581
+  logout: 1504385953933
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 196.56846024441433
+  y: 66.0
+  z: 43.93669239785114
+  yaw: -357.0101623535156
+  pitch: 8.039678573608398
+  world-name: ''
+logoutlocation:
+  world: world_nether
+  x: -4463.568479071156
+  y: 60.875
+  z: 5599.812150598498
+  yaw: 162.39588928222656
+  pitch: 77.45285034179688
+  world-name: ''
+ip-address: 89.82.194.42
+last-account-name: JeTeEzAvecMaDent
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508173918006
+  lastteleport: 1508173459190
+  mute: 0
+  logout: 1508173946998
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 187.5375184174683
+  y: 63.0
+  z: 14.85949750842307
+  yaw: -12.458268165588379
+  pitch: 19.025753021240234
+  world-name: ''
+money: '0'
+muted: true
+logoutlocation:
+  world: world
+  x: 6050.890692067991
+  y: 111.06129609309696
+  z: -3189.805896249717
+  yaw: -132.882080078125
+  pitch: 39.5653076171875
+  world-name: ''
+ip-address: 91.160.50.220
+last-account-name: FlyRox_
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

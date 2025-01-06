@@ -1,0 +1,38 @@
+timestamps:
+  login: 1507737559901
+  lastteleport: 1505394678459
+  logout: 1507737566340
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 198.14662919353214
+  y: 66.0
+  z: -4.867474642253152
+  yaw: -177.64749145507812
+  pitch: 9.247394561767578
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 159.03981779513512
+  y: 63.0
+  z: -17.55085672107463
+  yaw: 80.54985809326172
+  pitch: -4.1999969482421875
+  world-name: ''
+ip-address: 176.150.74.101
+last-account-name: xgo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

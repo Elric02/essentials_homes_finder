@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509393243755
+  logout: 1509393625277
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.67594525901546
+  y: 63.0
+  z: 7.932633924473949
+  yaw: -210.7251739501953
+  pitch: 18.828365325927734
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 168.10145829198098
+  y: 150.0
+  z: -126.93532799139544
+  yaw: 82.93145751953125
+  pitch: 55.013267517089844
+  world-name: ''
+ip-address: 82.245.236.171
+last-account-name: kileurr591
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

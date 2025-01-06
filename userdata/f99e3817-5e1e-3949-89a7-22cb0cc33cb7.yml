@@ -1,0 +1,38 @@
+timestamps:
+  login: 1533750014497
+  lastteleport: 1533750102974
+  logout: 1533750107655
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -487.2688119254407
+  y: 66.0
+  z: 1082.1942509866456
+  yaw: -283.5
+  pitch: 79.20001983642578
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -141.1708221435547
+  pitch: 14.72867488861084
+  world-name: ''
+ip-address: 109.10.70.160
+last-account-name: Arivox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

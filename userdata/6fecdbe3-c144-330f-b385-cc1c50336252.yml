@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478106158958
+  lastteleport: 1478107634457
+  logout: 1478110228001
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -628.4491621360772
+  y: 64.0
+  z: -779.6497645860072
+  yaw: -24.39739990234375
+  pitch: 9.626327514648438
+  world-name: ''
+afk: false
+logoutlocation:
+  world: ressource
+  x: -153.300000011921
+  y: 60.0
+  z: 797.3000000119209
+  yaw: -277.807373046875
+  pitch: 16.499998092651367
+  world-name: ''
+ip-address: 90.51.199.161
+last-account-name: AzKuaiir
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

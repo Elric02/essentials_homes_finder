@@ -1,0 +1,38 @@
+timestamps:
+  login: 1594837927035
+  logout: 1594837952161
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.70493173906763
+  y: 63.0
+  z: 63.744317604389586
+  yaw: 178.8968505859375
+  pitch: 4.440652847290039
+  world-name: ''
+ip-address: 81.254.197.238
+last-account-name: aless_sonic07
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

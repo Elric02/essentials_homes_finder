@@ -1,0 +1,38 @@
+timestamps:
+  login: 1497616572122
+  lastteleport: 1497616740629
+  logout: 1497616758292
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 136.12391131805316
+  y: 63.0
+  z: -22.185411472411225
+  yaw: 32.35235595703125
+  pitch: 21.997406005859375
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.66276474970246
+  y: 64.0
+  z: 31.88513970166976
+  yaw: -169.71092224121094
+  pitch: 41.724517822265625
+  world-name: ''
+ip-address: 82.249.39.101
+last-account-name: Haxana
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

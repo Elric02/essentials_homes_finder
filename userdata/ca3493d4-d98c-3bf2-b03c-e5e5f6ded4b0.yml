@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487977556171
+  lastteleport: 1479564939043
+  logout: 1487977592385
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.946608140959
+  y: 63.0
+  z: 35.85251035227792
+  yaw: -196.3957061767578
+  pitch: -2.1163864135742188
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 1038.8678199302224
+  y: 64.0
+  z: -2671.9915674776794
+  yaw: 133.93121337890625
+  pitch: 25.695634841918945
+  world-name: ''
+ip-address: 176.184.228.128
+last-account-name: yape86
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

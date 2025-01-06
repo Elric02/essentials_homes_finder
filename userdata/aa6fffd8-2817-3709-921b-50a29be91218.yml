@@ -1,0 +1,38 @@
+timestamps:
+  login: 1546168347353
+  lastteleport: 1546168408521
+  logout: 1546168520010
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.88990559100333
+  y: 63.5
+  z: 66.64059806830328
+  yaw: 191.94699096679688
+  pitch: 14.340652465820312
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -116.90072317233441
+  y: 47.0
+  z: 507.74886870769456
+  yaw: 250.44921875
+  pitch: 28.717771530151367
+  world-name: ''
+ip-address: 77.194.88.205
+last-account-name: Kaneki49
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

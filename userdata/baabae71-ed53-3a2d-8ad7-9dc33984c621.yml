@@ -1,0 +1,47 @@
+timestamps:
+  login: 1518837236276
+  lastteleport: 1518840744356
+  logout: 1518840765553
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 7072.599671285207
+  y: 23.0
+  z: -5298.2118079973
+  yaw: -180.7498779296875
+  pitch: 9.749980926513672
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 6916.624891287386
+    y: 79.0
+    z: -5102.916038109714
+    yaw: -359.8502197265625
+    pitch: 22.50002098083496
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 6914.61386551037
+  y: 79.0
+  z: -5110.473187366564
+  yaw: -6.60015869140625
+  pitch: 13.650032997131348
+  world-name: ''
+ip-address: 77.152.20.198
+last-account-name: bryan80
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614536470562
+  logout: 1614536475910
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 159.9442417001
+  y: 65.0
+  z: 98.54709668644492
+  yaw: 58.897300720214844
+  pitch: 9.690629005432129
+  world-name: ''
+ip-address: 108.171.93.205
+last-account-name: Sylvester10000
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

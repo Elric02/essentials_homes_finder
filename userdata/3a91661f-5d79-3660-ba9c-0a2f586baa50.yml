@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 193.32.126.138
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1693240400545
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728350733793
+  login: 1728350733708
+money: '100.0'
+last-account-name: zartox84
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 3357.074999988079
+  y: 66.0
+  z: -3030.1294597394344
+  yaw: -50.192081451416016
+  pitch: -0.5363909006118774
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 3357.074999988079
+  y: 66.0
+  z: -3030.1294597394344
+  yaw: -17.56260108947754
+  pitch: 6.898203372955322

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1523891241010
+  logout: 1523891271034
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.05062593966466
+  y: 64.0
+  z: 66.84308516134557
+  yaw: 180.77821350097656
+  pitch: 5.818997859954834
+  world-name: ''
+ip-address: 88.160.92.56
+last-account-name: Yohan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1495635082029
+  lastteleport: 1495635272520
+  logout: 1495635342046
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.9384123196697
+  y: 66.0
+  z: 19.026719503472663
+  yaw: -89.31104278564453
+  pitch: -26.67547035217285
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 3115.276566098083
+  y: 64.0
+  z: -1942.300000011921
+  yaw: -41.10004806518555
+  pitch: 10.3499755859375
+  world-name: ''
+ip-address: 90.96.98.47
+last-account-name: KaplinYT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

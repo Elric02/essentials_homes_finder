@@ -1,0 +1,47 @@
+timestamps:
+  login: 1590330694937
+  logout: 1590334902862
+  lastteleport: 1590334748149
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 199.9558701543208
+  y: 66.0
+  z: 42.9499324370784
+  yaw: 359.694580078125
+  pitch: 24.711776733398438
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -6621.447639571677
+  y: 103.0
+  z: 2145.201148886549
+  yaw: 146.12564086914062
+  pitch: 29.351655960083008
+  world-name: ''
+money: '0'
+homes:
+  onnacka501:
+    world: world
+    x: -6620.834523520356
+    y: 104.0
+    z: 2156.041701922355
+    yaw: 265.803955078125
+    pitch: 14.046402931213379
+    world-name: ''
+afk: false
+ip-address: 176.139.164.154
+last-account-name: Onnacka501
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

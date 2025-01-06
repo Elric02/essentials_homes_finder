@@ -1,0 +1,38 @@
+timestamps:
+  login: 1555778990990
+  logout: 1555778995995
+  lastteleport: 1555696537934
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.77081298828125
+  pitch: 3.1786699295043945
+  world-name: ''
+ip-address: 83.153.46.105
+last-account-name: Bobicraft
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

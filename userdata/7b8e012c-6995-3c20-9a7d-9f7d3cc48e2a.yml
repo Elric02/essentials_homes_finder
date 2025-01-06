@@ -1,0 +1,38 @@
+timestamps:
+  login: 1584904078004
+  lastteleport: 1584904230857
+  logout: 1584904297088
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.4917536729214
+  y: 63.0
+  z: 41.29427230412107
+  yaw: -141.06915283203125
+  pitch: 6.212528228759766
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 1907.0355435783642
+  y: 75.0
+  z: 5100.225723168909
+  yaw: -211.78839111328125
+  pitch: 17.87132453918457
+  world-name: ''
+ip-address: 86.208.152.30
+last-account-name: Ghoo28
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

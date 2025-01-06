@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500322792677
+  logout: 1500323701063
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 82.9389078242165
+  y: 63.0
+  z: 43.484061536191305
+  yaw: -306.4970703125
+  pitch: 22.447404861450195
+  world-name: ''
+ip-address: 83.204.146.182
+last-account-name: LeCho92
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

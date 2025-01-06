@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469276912873
+  lastteleport: 1469278301200
+  logout: 1469278360355
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -203.30000001192093
+  y: 34.0
+  z: 408.48750001192093
+  yaw: 190.1490478515625
+  pitch: -75.29999542236328
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -157.88690787295738
+  y: 55.34487544805812
+  z: 536.2392281991403
+  yaw: -182.15126037597656
+  pitch: 11.017763137817383
+  world-name: ''
+ip-address: 77.149.14.2
+last-account-name: Matthlo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474133817438
+  logout: 1474135207275
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -268.847412109375
+  pitch: -6.20259952545166
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 155.86434182247822
+  y: 64.0
+  z: 21.64831948914477
+  yaw: -203.1609344482422
+  pitch: -18.875484466552734
+  world-name: ''
+ip-address: 93.27.29.219
+last-account-name: CrItIc4l_v3nIn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

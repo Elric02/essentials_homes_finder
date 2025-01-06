@@ -1,0 +1,63 @@
+timestamps:
+  login: 1469963515790
+  lastteleport: 1469965903165
+  logout: 1469968859279
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1932.1991251171726
+  y: 68.0
+  z: -1506.6782315790203
+  yaw: 24.00048828125
+  pitch: 3.750075578689575
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -283.4011237505738
+  y: 63.0
+  z: 714.3015406163437
+  yaw: 148.44740295410156
+  pitch: 4.799884796142578
+  world-name: ''
+money: '0'
+homes:
+  ville:
+    world: world
+    x: -277.0335859142185
+    y: 70.0
+    z: 701.7939292768498
+    yaw: -0.6511282324790955
+    pitch: 6.817738056182861
+    world-name: ''
+  ressource:
+    world: Ressource
+    x: 167.73313661183505
+    y: 63.0
+    z: -1451.6296382385017
+    yaw: 195.45404052734375
+    pitch: 7.200015544891357
+    world-name: ''
+  argile:
+    world: world
+    x: -1896.3883876247367
+    y: 91.0
+    z: -1393.216994659755
+    yaw: 85.94999694824219
+    pitch: 12.000019073486328
+    world-name: ''
+afk: false
+ip-address: 92.89.220.53
+last-account-name: baxxter76
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

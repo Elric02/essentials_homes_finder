@@ -1,0 +1,38 @@
+timestamps:
+  login: 1596810981285
+  logout: 1596811011788
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 164.3342499904337
+  y: 67.0
+  z: 104.69999998807907
+  yaw: 337.5970458984375
+  pitch: 14.940629959106445
+  world-name: ''
+ip-address: 91.170.220.181
+last-account-name: MinatoDeKonoha
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

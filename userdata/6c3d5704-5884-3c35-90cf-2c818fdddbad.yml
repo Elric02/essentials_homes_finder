@@ -1,0 +1,38 @@
+timestamps:
+  login: 1463153880535
+  lastteleport: 1463154332199
+  logout: 1463154457223
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 79.78037393975937
+  y: 67.0
+  z: -288.6492585971646
+  yaw: 347.70233154296875
+  pitch: 7.500065803527832
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: ressource
+  x: 60.3665510021278
+  y: 11.0
+  z: 94.31336416063237
+  yaw: 78.60028076171875
+  pitch: 10.20004653930664
+  world-name: ''
+ip-address: 77.153.27.116
+last-account-name: Griffacier
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

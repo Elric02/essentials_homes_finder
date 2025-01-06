@@ -1,0 +1,38 @@
+timestamps:
+  login: 1577368831107
+  lastteleport: 1577368186916
+  logout: 1577368835501
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 134225.25928931264
+  y: 11.0
+  z: 150042.23735011072
+  yaw: -99.71451568603516
+  pitch: 13.852144241333008
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 1532.699999988079
+  y: 69.0
+  z: 2095.300000011921
+  yaw: -276.2264709472656
+  pitch: -17.40420913696289
+  world-name: ''
+ip-address: 176.169.210.25
+last-account-name: ElPoivron
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1533568143972
+  logout: 1533568161056
+  lastteleport: 1533567519924
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.03676198456355
+  y: 63.0
+  z: 49.12397107378955
+  yaw: 67.13754272460938
+  pitch: 6.390653133392334
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 113.68736555706903
+  y: 64.0
+  z: 299.69999998807907
+  yaw: 96.3071060180664
+  pitch: 18.600282669067383
+  world-name: ''
+ip-address: 80.9.36.80
+last-account-name: JeMangeTonChat
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

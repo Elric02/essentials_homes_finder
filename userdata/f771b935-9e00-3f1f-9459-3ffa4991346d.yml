@@ -1,0 +1,55 @@
+timestamps:
+  login: 1612977299580
+  lastteleport: 1612982048243
+  logout: 1612982180991
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -971.3740444604697
+  y: 45.0
+  z: -3403.699999988079
+  yaw: 52.13330078125
+  pitch: 7.649820804595947
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -5632.5
+    y: 69.0
+    z: -5047.5
+    yaw: -72.1312255859375
+    pitch: 16.94967269897461
+    world-name: ''
+  spawner:
+    world: Ressource
+    x: -973.4246045840382
+    y: 45.0
+    z: -3401.608104958414
+    yaw: 85.58985137939453
+    pitch: 5.849968433380127
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -5627.862500011921
+  y: 70.125
+  z: -5039.300000011921
+  yaw: -192.58056640625
+  pitch: 21.149662017822266
+  world-name: ''
+money: '0'
+ip-address: 90.107.210.34
+last-account-name: GoodGuyMob
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

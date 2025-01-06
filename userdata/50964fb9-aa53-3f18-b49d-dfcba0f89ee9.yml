@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615590157684
+  lastteleport: 1615590555509
+  logout: 1615590854958
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: 47.30000001192093
+  y: 54.0
+  z: -47.52727700515835
+  yaw: 95.42205810546875
+  pitch: 39.451171875
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -993.2307589620191
+  y: 65.0
+  z: -1987.0064820574262
+  yaw: -272.94866943359375
+  pitch: 18.150148391723633
+  world-name: ''
+ip-address: 78.225.22.138
+last-account-name: Bootymaster
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

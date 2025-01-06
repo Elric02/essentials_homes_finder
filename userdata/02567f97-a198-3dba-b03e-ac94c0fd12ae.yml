@@ -1,0 +1,38 @@
+timestamps:
+  login: 1587469213377
+  logout: 1587470153495
+  lastteleport: 1586958790141
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6835.654844516964
+  y: 72.0
+  z: 1302.0001427115776
+  yaw: -134.2559814453125
+  pitch: -4.650306224822998
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 86.63306235246877
+  y: 67.0
+  z: 1708.566250972022
+  yaw: -14.1009521484375
+  pitch: 29.249956130981445
+  world-name: ''
+money: '0'
+ip-address: 91.166.35.9
+last-account-name: loizol
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

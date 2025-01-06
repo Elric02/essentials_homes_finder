@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.198.187.27
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1702087946052
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1702088020729
+  login: 1702087797580
+money: '150.0'
+last-account-name: baptiste780
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.99592236805626
+  y: 81.0
+  z: -3111.375103500612
+  yaw: -60.96491241455078
+  pitch: 2.1529464721679688
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 140.48138778316556
+  y: 63.0
+  z: 31.218384011223684
+  yaw: -98.42953491210938
+  pitch: 16.469501495361328

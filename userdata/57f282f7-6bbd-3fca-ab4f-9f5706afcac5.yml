@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.139.112.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1691943533837
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704483501919
+  login: 1704483490372
+money: '0'
+last-account-name: IamAkashic
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 438.5968379606155
+  y: 65.5
+  z: -242.00553392415438
+  yaw: -165.15682983398438
+  pitch: 19.49985694885254
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 438.5822221425053
+  y: 65.5
+  z: -241.95040241622624
+  yaw: -165.15682983398438
+  pitch: 19.49985694885254

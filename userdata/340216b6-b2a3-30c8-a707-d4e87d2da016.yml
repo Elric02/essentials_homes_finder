@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.252.105.58
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1726432447101
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727518737992
+  login: 1727518729949
+money: '0'
+last-account-name: Twink94
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 131.16042382510906
+  y: 70.0
+  z: 237.6098345557145
+  yaw: -12.147758483886719
+  pitch: 10.79987907409668
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -39.77453694026316
+  y: 65.5
+  z: -45.75344668839533
+  yaw: 102.0608139038086
+  pitch: -24.450830459594727

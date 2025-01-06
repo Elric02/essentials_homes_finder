@@ -1,0 +1,47 @@
+timestamps:
+  login: 1469978537032
+  lastteleport: 1469979087474
+  logout: 1469979092228
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0625
+  z: 19.5
+  yaw: -20.697216033935547
+  pitch: 20.924184799194336
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 154.5
+    y: 64.0625
+    z: 19.5
+    yaw: 16.652782440185547
+    pitch: 25.574186325073242
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 19.5
+  yaw: -120.14720153808594
+  pitch: -4.650001525878906
+  world-name: ''
+ip-address: 89.89.195.186
+last-account-name: Aurel74
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

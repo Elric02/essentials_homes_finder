@@ -1,0 +1,47 @@
+timestamps:
+  login: 1501002246158
+  lastteleport: 1500727916612
+  logout: 1501002246411
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5442.339695527713
+  y: 74.0
+  z: 1623.6537699876055
+  yaw: 256.34515380859375
+  pitch: 22.79994010925293
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -1264.8097296548228
+  y: 74.25521960176278
+  z: 3743.914542931108
+  yaw: 282.151123046875
+  pitch: 10.959579467773438
+  world-name: ''
+homes:
+  alg:
+    world: world
+    x: -5427.48237306403
+    y: 74.0
+    z: 1627.520330283323
+    yaw: 89.8468017578125
+    pitch: 0.3000027537345886
+    world-name: ''
+money: '0'
+ip-address: 109.12.12.239
+last-account-name: LG64
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

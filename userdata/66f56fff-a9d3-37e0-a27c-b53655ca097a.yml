@@ -1,0 +1,63 @@
+timestamps:
+  login: 1506513183348
+  logout: 1506513199470
+  lastteleport: 1483276088884
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 555.4569994726431
+  y: 11.0
+  z: 98.00485261095541
+  yaw: -29.248716354370117
+  pitch: 10.950005531311035
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 362.77118061568297
+  y: 74.0
+  z: -377.69999998807907
+  yaw: -267.51318359375
+  pitch: 17.44037437438965
+  world-name: ''
+afk: false
+homes:
+  maison:
+    world: world
+    x: 381.78484034287806
+    y: 74.0
+    z: -380.48780311318626
+    yaw: 268.35308837890625
+    pitch: -4.499979496002197
+    world-name: ''
+  lune:
+    world: world
+    x: 346.30000001192093
+    y: 69.0
+    z: -390.70960322213205
+    yaw: 264.3017578125
+    pitch: 21.74995994567871
+    world-name: ''
+  end:
+    world: world_the_end
+    x: -1075.7546619886907
+    y: 60.0
+    z: 413.374462688892
+    yaw: 249.2244110107422
+    pitch: 28.65009307861328
+    world-name: ''
+ip-address: 86.248.51.22
+last-account-name: Yvan1302
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

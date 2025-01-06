@@ -1,0 +1,63 @@
+timestamps:
+  login: 1686216458446
+  lastteleport: 1648154930615
+  logout: 1686216467579
+  jail: 0
+  onlinejail: 0
+  lastheal: 0
+  mute: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 6518.081652858443
+  y: 65.0
+  z: -2922.1923246861948
+  yaw: 108.00090026855469
+  pitch: 10.64991283416748
+  world-name: world
+money: '0'
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5717.947818110959
+    y: 122.0
+    z: 700.2848541203336
+    yaw: 1.4872382879257202
+    pitch: 76.35002136230469
+    world-name: world
+  slime:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -0.39292842661871824
+    y: 70.0
+    z: -68.15389590152441
+    yaw: -234.5452880859375
+    pitch: 15.750177383422852
+    world-name: world
+  du:
+    world: b7fb2600-9a6b-4455-aa1e-a8df500c3eeb
+    world-name: Donjon
+    x: -1996.8978066411005
+    y: 4.0
+    z: -1957.1027523395253
+    yaw: -153.1500701904297
+    pitch: 24.29998016357422
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 6518.081652858443
+  y: 65.0
+  z: -2922.1923246861948
+  yaw: -23.249114990234375
+  pitch: 11.69991397857666
+  world-name: world
+afk: false
+jailed: false
+ip-address: 176.172.213.53
+last-account-name: Henri131010
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

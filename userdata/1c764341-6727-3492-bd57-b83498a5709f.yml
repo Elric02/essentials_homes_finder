@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.141.113.94
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1637005084101
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1637093900432
+  login: 1637093855459
+money: '0'
+last-account-name: Retourlobby
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3913.7955780356056
+  y: 71.0
+  z: -637.3285614749767
+  yaw: 105.78462982177734
+  pitch: 48.40115737915039
+homes:
+  mine:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -821.8329706981398
+    y: 13.0
+    z: 854.4512187825133
+    yaw: 358.388427734375
+    pitch: 14.27125358581543
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 6607.0
+  y: 80.0
+  z: 6871.0
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,66 @@
+timestamps:
+  login: 1493816078788
+  lastteleport: 1493816678790
+  logout: 1493819262985
+  kits:
+    vip: 1493816234526
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7069.006537156366
+  y: 71.0
+  z: -124.06574442294065
+  yaw: -192.4217529296875
+  pitch: 20.100046157836914
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 7074.504478489525
+    y: 73.0
+    z: -133.3072015774574
+    yaw: -225.424072265625
+    pitch: 12.45000171661377
+    world-name: ''
+  ice:
+    world: world
+    x: 8090.899150497757
+    y: 73.0
+    z: 87.78734050294175
+    yaw: 306.3264465332031
+    pitch: 24.00008201599121
+    world-name: ''
+  village:
+    world: world
+    x: 10855.912232748526
+    y: 65.0
+    z: 886.0394420843943
+    yaw: 36.62602996826172
+    pitch: 11.250003814697266
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 10880.966221882065
+  y: 63.0
+  z: 913.8345097443301
+  yaw: 353.685546875
+  pitch: 26.699996948242188
+  world-name: ''
+afk: false
+nickname: §2springcraft
+ip-address: 90.120.209.88
+last-account-name: enderman33700
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

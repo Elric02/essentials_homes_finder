@@ -1,0 +1,55 @@
+timestamps:
+  login: 1657469398666
+  lastteleport: 1627491715260
+  logout: 1657469413974
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2271.9359547242725
+  y: 42.0
+  z: 2957.1148039517157
+  yaw: 2.8543701171875
+  pitch: 25.754961013793945
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -6929.0444048102045
+  y: 70.0
+  z: 4146.699999988079
+  yaw: -14.53173828125
+  pitch: 10.108245849609375
+  world-name: world
+homes:
+  poten1:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3804.521936472871
+    y: 98.0
+    z: 6468.69520136643
+    yaw: 270.54925537109375
+    pitch: 12.30461597442627
+    world-name: world
+  base:
+    world: world
+    x: -6928.445156703436
+    y: 70.0
+    z: 4149.762499988079
+    yaw: -179.5040283203125
+    pitch: 88.78472900390625
+    world-name: ''
+ip-address: 2.14.216.153
+last-account-name: Cliuvaki
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

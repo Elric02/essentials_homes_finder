@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481485010353
+  lastteleport: 1481485823406
+  logout: 1481485957585
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -34.627230778522936
+  y: 67.0
+  z: -562.6063340289779
+  yaw: 84.01021575927734
+  pitch: 18.50283432006836
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -326.6812758063028
+  y: 77.0
+  z: -652.3432212920575
+  yaw: -94.81425476074219
+  pitch: 25.60358428955078
+  world-name: ''
+ip-address: 88.170.24.3
+last-account-name: katla4
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

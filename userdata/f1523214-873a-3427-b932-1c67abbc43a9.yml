@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488974001038
+  lastteleport: 1488977577289
+  logout: 1488977642241
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 145.91537683894083
+  y: 64.0
+  z: 21.249712522179102
+  yaw: -37.654319763183594
+  pitch: 35.1058464050293
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 2883.496364213671
+  y: 63.0
+  z: 4266.661813634098
+  yaw: -179.20538330078125
+  pitch: 16.7657527923584
+  world-name: ''
+ip-address: 176.189.66.121
+last-account-name: MatisJoJo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

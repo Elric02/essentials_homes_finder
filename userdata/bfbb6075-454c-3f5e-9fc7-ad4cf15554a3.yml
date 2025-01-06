@@ -1,0 +1,81 @@
+timestamps:
+  login: 1487435660289
+  lastteleport: 1487435998724
+  logout: 1487436074481
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 123.22365174061088
+  y: 65.0
+  z: 550.6647476423011
+  yaw: -349.6569519042969
+  pitch: 24.506317138671875
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -377.7435679124762
+  y: 69.0
+  z: 361.67751154674096
+  yaw: -184.039306640625
+  pitch: 8.701753616333008
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -4157.912672528909
+    y: 64.0
+    z: -3728.0901362359086
+    yaw: 347.55487060546875
+    pitch: 31.18509864807129
+    world-name: ''
+  _:
+    world: world
+    x: 80.64165693235577
+    y: 66.0
+    z: 595.1672554370414
+    yaw: 24.4605712890625
+    pitch: 32.281211853027344
+    world-name: ''
+  tot:
+    world: world
+    x: -2198.737016582657
+    y: 101.0
+    z: -1223.606318855403
+    yaw: 295.91387939453125
+    pitch: 18.20406150817871
+    world-name: ''
+muted: false
+afk: false
+ip-address: 78.227.84.237
+last-account-name: EmmaLaBg
+mail:
+- legacy: true
+  read: false
+  message: §e[§rSteamPeak§e] §rBonjour tu va faire quetchose de la parcelle à cote
+    de chez moi ?
+- legacy: true
+  read: false
+  message: §e[§rSteamPeak§e] §rBonjour tu va faire quetchose de la parcelle à cote
+    de chez moi ?
+- legacy: true
+  read: false
+  message: §e[§rSteamPeak§e] §rDésolé pour le doublon, c'est juste pour savoir
+- legacy: true
+  read: false
+  message: §e[§rSteamPeak§e] §rparcequ'au final t'a juste mis des coffres quoi
+- legacy: true
+  read: false
+  message: §e[§rSteamPeak§e] §rdonc si tu fais rien je récup quoi :)
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

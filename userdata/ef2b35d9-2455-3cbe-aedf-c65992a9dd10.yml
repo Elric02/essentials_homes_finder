@@ -1,0 +1,47 @@
+timestamps:
+  login: 1472996781727
+  lastteleport: 1472997841484
+  logout: 1472997863834
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: 76.04144378939877
+  y: 77.0
+  z: -34.42446587540478
+  yaw: -149.54998779296875
+  pitch: 8.24998950958252
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressources
+  x: -135.47700269297547
+  y: 70.0
+  z: 405.6628231704874
+  yaw: 168.37168884277344
+  pitch: 12.600006103515625
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 4134.3769320946885
+    y: 34.0
+    z: 798.6999999880791
+    yaw: -359.4000549316406
+    pitch: 37.499996185302734
+    world-name: ''
+ip-address: 90.125.166.60
+last-account-name: Misukya
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

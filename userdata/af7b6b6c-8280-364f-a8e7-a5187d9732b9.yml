@@ -1,0 +1,55 @@
+timestamps:
+  login: 1608728819677
+  lastteleport: 1608743176795
+  logout: 1608743420239
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -666.4367020443747
+  y: 64.0
+  z: -714.604095087979
+  yaw: -122.09814453125
+  pitch: -0.6088070869445801
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 3734.2783729291345
+    y: 73.0
+    z: -772.9186065334621
+    yaw: 328.20135498046875
+    pitch: 63.30002212524414
+    world-name: ''
+  farm:
+    world: Ressource
+    x: -2025.4149292729885
+    y: 61.0
+    z: -4430.024179037339
+    yaw: 296.84832763671875
+    pitch: 28.350168228149414
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -450.3740941982914
+  y: 71.0
+  z: 330.47088994663034
+  yaw: -213.8956298828125
+  pitch: 34.200035095214844
+  world-name: ''
+afk: false
+ip-address: 81.48.140.95
+last-account-name: ShamefulMilk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,107 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.126.195.194
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734556151072
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734556342921
+  login: 1734555655361
+  kits:
+    vip: 1734554057204
+    stationaute: 1733602637028
+    color: 1733602661282
+money: '1150.0'
+last-account-name: R5_WartZz
+lastlocation:
+  world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+  world-name: Ressource
+  x: -1776.9702294596145
+  y: -35.0
+  z: 1059.556969814307
+  yaw: 51.06414794921875
+  pitch: 32.100379943847656
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -5380.630915284474
+  y: 70.0
+  z: 4047.3403459969086
+  yaw: -103.661865234375
+  pitch: 25.500349044799805
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 623.1433438608332
+    y: 128.5625
+    z: -246.22946758676395
+    yaw: 164.71339416503906
+    pitch: 65.09974670410156
+  g:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -1188.543830541266
+    y: 66.0
+    z: -2266.4940845524366
+    yaw: -104.75338745117188
+    pitch: 23.550369262695312
+  natura:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4773.996865247642
+    y: 71.0
+    z: -478.97682937377584
+    yaw: 166.57167053222656
+    pitch: 23.549503326416016
+  vip:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6985.645948032956
+    y: 64.0
+    z: -4150.359206403268
+    yaw: 121.52687072753906
+    pitch: 18.555173873901367
+  freebuild:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 587.8325529042559
+    y: 70.1313474753049
+    z: 2194.1490929495826
+    yaw: 166.20091247558594
+    pitch: 16.949932098388672
+  desert:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -1781.9092653796358
+    y: 64.0
+    z: -3929.0111327429386
+    yaw: 28.0684814453125
+    pitch: 29.2499942779541
+  disney:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5373.619570221905
+    y: 64.0
+    z: 4045.1915511095435
+    yaw: 98.99870300292969
+    pitch: 33.75016403198242
+  mine:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -1714.300000011921
+    y: -44.0
+    z: 1131.4618215238834
+    yaw: 100.858154296875
+    pitch: 56.101627349853516

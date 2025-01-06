@@ -1,0 +1,47 @@
+timestamps:
+  login: 1504269464486
+  lastteleport: 1504270493061
+  logout: 1504270732791
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.50358834024183
+  y: 64.0
+  z: 31.897064016203608
+  yaw: -177.0749053955078
+  pitch: -0.6573233604431152
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -3405.1702512486777
+    y: 64.0
+    z: -690.6456027127097
+    yaw: 100.10675048828125
+    pitch: 33.99946594238281
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -3405.825222740984
+  y: 64.0
+  z: -686.700180556621
+  yaw: 301.5874938964844
+  pitch: 25.879552841186523
+  world-name: ''
+ip-address: 109.209.41.241
+last-account-name: Theprof2kill
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

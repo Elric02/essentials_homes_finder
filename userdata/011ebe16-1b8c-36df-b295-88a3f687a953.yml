@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526752246787
+  lastteleport: 1526752838356
+  logout: 1526752910717
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4888.539047767409
+  y: 73.0
+  z: -2396.455591886831
+  yaw: 57.75115966796875
+  pitch: 11.699978828430176
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 132.59837324362763
+  y: 64.0
+  z: -26.523619843358627
+  yaw: -212.12066650390625
+  pitch: 16.678682327270508
+  world-name: ''
+ip-address: 78.241.135.250
+last-account-name: EchelleTique70
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

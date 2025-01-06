@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516174099991
+  logout: 1516174180581
+  lastteleport: 1516174122567
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.5
+  y: 65.0
+  z: 100.5
+  yaw: 163.19012451171875
+  pitch: 1.4262527227401733
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 180.57852770259404
+  y: 65.0625
+  z: -49.43842002677949
+  yaw: 178.00045776367188
+  pitch: 15.031071662902832
+  world-name: ''
+ip-address: 82.249.32.137
+last-account-name: Sylvie_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

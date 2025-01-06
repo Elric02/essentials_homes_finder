@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510852891563
+  logout: 1510853925740
+  lastteleport: 1510853767993
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: 13.300000011920929
+  y: 77.0
+  z: -4.699999988079071
+  yaw: -90.45640563964844
+  pitch: 86.71003723144531
+  world-name: ''
+logoutlocation:
+  world: world_nether
+  x: 4.78161387270661
+  y: 66.0
+  z: -24.701201656365644
+  yaw: -66.33961486816406
+  pitch: 20.223352432250977
+  world-name: ''
+money: '0'
+ip-address: 91.180.198.16
+last-account-name: HonoEagle96
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

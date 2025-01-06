@@ -1,0 +1,58 @@
+timestamps:
+  login: 1489684955118
+  logout: 1489686837858
+  lastteleport: 1489686257227
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: -416.23574953210766
+  y: 61.0
+  z: -1447.953415868066
+  yaw: 181.49215698242188
+  pitch: 83.25003051757812
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -309.56044454580865
+  y: 72.0
+  z: -776.2307347550101
+  yaw: -182.05712890625
+  pitch: 24.149829864501953
+  world-name: ''
+money: '0'
+homes:
+  lol:
+    world: world
+    x: -307.4195308831216
+    y: 71.0
+    z: -700.2513636437518
+    yaw: 245.4403076171875
+    pitch: 20.549991607666016
+    world-name: ''
+afk: false
+ip-address: 176.140.101.219
+last-account-name: HighStill
+mail:
+- legacy: true
+  read: false
+  message: §e[§rPrSS_Silver§e] §ril y a une épée pour tuer les vaches (laisses-en
+    quelques unes) dans la
+- legacy: true
+  read: false
+  message: §e[§rPrSS_Silver§e] §rmaison du fermier en haut dans un coffre
+- legacy: true
+  read: false
+  message: §e[§rPrSS_Silver§e] §rl'épée est en diamant et s'appelle Hachoir
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

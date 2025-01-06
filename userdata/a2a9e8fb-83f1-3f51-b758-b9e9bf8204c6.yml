@@ -1,0 +1,63 @@
+timestamps:
+  login: 1466118963524
+  lastteleport: 1466118970834
+  logout: 1466119053221
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46586052739883
+  y: 64.0
+  z: 15.281445944936348
+  yaw: -179.9525604248047
+  pitch: 6.842771053314209
+  world-name: ''
+money: '0'
+homes:
+  rgh:
+    world: world
+    x: 146.9500460043384
+    y: 86.0
+    z: 1287.1771448638951
+    yaw: 45.110286712646484
+    pitch: 38.48173141479492
+    world-name: ''
+  mending:
+    world: world
+    x: -3456.3735059198807
+    y: 66.0
+    z: -705.0890883927535
+    yaw: 51.6395263671875
+    pitch: 38.01234817504883
+    world-name: ''
+  emerald:
+    world: Ressource
+    x: 136.4714007686225
+    y: 49.0
+    z: -414.7400596614941
+    yaw: -159.6509552001953
+    pitch: 59.54877471923828
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 152.2106757824767
+  y: 67.0
+  z: 1350.4737107351518
+  yaw: 328.635009765625
+  pitch: 31.258708953857422
+  world-name: ''
+afk: false
+ip-address: 90.65.239.21
+last-account-name: iSwiyne
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

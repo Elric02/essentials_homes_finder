@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521302040883
+  logout: 1521302084351
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.5
+  y: 65.001
+  z: 100.5
+  yaw: -73.0
+  pitch: -2.0
+  world-name: ''
+ip-address: 23.19.26.250
+last-account-name: Ua5Txo9QleDM
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

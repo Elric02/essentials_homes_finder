@@ -1,0 +1,203 @@
+timestamps:
+  login: 1584562783237
+  lastteleport: 1583352821543
+  logout: 1584563047280
+  jail: 0
+  kits:
+    color: 1505853488433
+    enchant: 1476046234281
+    notch: 1476046194956
+    debutant: 1534797143904
+    vip: 1479136181367
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.84469353432104
+  y: 91.0
+  z: 42.37175463468096
+  yaw: 12.849308967590332
+  pitch: 85.0504150390625
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 699.4216772344757
+    y: 83.0
+    z: 66.89434218594647
+    yaw: -226.21861267089844
+    pitch: 23.399974822998047
+    world-name: ''
+  test:
+    world: Test
+    x: -155.66166704439385
+    y: 10.129595661441039
+    z: 615.9678512563102
+    yaw: -90.30068969726562
+    pitch: 15.900003433227539
+    world-name: ''
+  amibouh:
+    world: world
+    x: -1182.6835459428082
+    y: 140.0
+    z: -5517.63424418016
+    yaw: -178.60015869140625
+    pitch: 25.835660934448242
+    world-name: ''
+  liloli:
+    world: world
+    x: 2241.424572977138
+    y: 68.0
+    z: 6452.458139067188
+    yaw: 203.91412353515625
+    pitch: 2.6999998092651367
+    world-name: ''
+  bryj:
+    world: world
+    x: -527.0270991714958
+    y: 72.0
+    z: -2300.00935732522
+    yaw: -134.3111114501953
+    pitch: 32.301544189453125
+    world-name: ''
+  station:
+    world: Test
+    x: -241.19058344817475
+    y: 166.0
+    z: 550.4717346353017
+    yaw: -220.9718017578125
+    pitch: 8.400057792663574
+    world-name: ''
+  arbre:
+    world: Test
+    x: 246.40230732387428
+    y: 32.00169793948394
+    z: -2337.1391672481664
+    yaw: -200.67893981933594
+    pitch: -0.9831031560897827
+    world-name: ''
+  anniv:
+    world: Event
+    x: 1879.3998818810676
+    y: 4.0
+    z: -2298.4157543172064
+    yaw: 183.3181610107422
+    pitch: 24.29994010925293
+    world-name: ''
+  d_codefis:
+    world: Test
+    x: 2018.962310031724
+    y: 11.0
+    z: -4522.835669155658
+    yaw: 183.214111328125
+    pitch: 19.949966430664062
+    world-name: ''
+  ilepriv_:
+    world: world
+    x: -2841.1683660341655
+    y: 64.0
+    z: 8224.024784172463
+    yaw: -258.6011962890625
+    pitch: 34.04998779296875
+    world-name: ''
+  eglise:
+    world: Test
+    x: -647.36586028273
+    y: 4.0
+    z: -411.67603540609605
+    yaw: -137.39996337890625
+    pitch: 48.89999771118164
+    world-name: ''
+  mama:
+    world: world
+    x: -5510.490326452258
+    y: 64.0
+    z: -1036.4799534652345
+    yaw: -115.73831176757812
+    pitch: 6.450014591217041
+    world-name: ''
+  projet:
+    world: world
+    x: -3420.378787410181
+    y: 88.0
+    z: -2243.7074415669103
+    yaw: -331.202392578125
+    pitch: 53.10007858276367
+    world-name: ''
+  vip:
+    world: world
+    x: -7055.065533516885
+    y: 71.0
+    z: -3827.5582438956912
+    yaw: -289.5392150878906
+    pitch: 53.55002975463867
+    world-name: ''
+  gouffre:
+    world: world
+    x: 3776.0071014652694
+    y: 95.97941854384007
+    z: 6117.90545545655
+    yaw: -115.01681518554688
+    pitch: 28.800003051757812
+    world-name: ''
+  adrose:
+    world: world
+    x: 4921.61035212895
+    y: 182.0
+    z: 6117.4565945844415
+    yaw: -23.3717041015625
+    pitch: 22.95001792907715
+    world-name: ''
+  corail:
+    world: Ressource
+    x: 3234.9842785254373
+    y: 56.281995533196984
+    z: 5976.6728361051855
+    yaw: 151.49847412109375
+    pitch: 17.24962043762207
+    world-name: ''
+  orez:
+    world: world
+    x: -1456.490689989791
+    y: 48.75062514687292
+    z: -4546.166494174746
+    yaw: -207.42196655273438
+    pitch: 20.753835678100586
+    world-name: ''
+  tr_sor:
+    world: Ressource
+    x: 6145.197630350738
+    y: 126.875
+    z: -56401.89274508129
+    yaw: 271.5125732421875
+    pitch: 68.09884643554688
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 769.2949238088448
+  y: 61.0
+  z: 28.69999998807907
+  yaw: -140.5777587890625
+  pitch: -3.270785331726074
+  world-name: ''
+nickname: Diaval93
+jailed: false
+muted: false
+socialspy: true
+godmode: false
+powertools:
+  '278':
+  - strike
+  '273':
+  - snow
+teleportenabled: false
+ip-address: 90.107.242.181
+last-account-name: Diaval93
+teleportauto: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

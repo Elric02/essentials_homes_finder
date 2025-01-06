@@ -1,0 +1,63 @@
+timestamps:
+  login: 1613150415963
+  lastteleport: 1613151219721
+  logout: 1613151226163
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 190.80634244230086
+  y: 63.0
+  z: -24.448934081294027
+  yaw: 250.7041473388672
+  pitch: -3.6241133213043213
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2221.5263942358633
+    y: 47.5
+    z: 5559.412981190319
+    yaw: 0.8931884765625
+    pitch: 35.01102066040039
+    world-name: ''
+  h:
+    world: world
+    x: -6443.830149496193
+    y: 63.0
+    z: 1653.9509528984133
+    yaw: 304.3284606933594
+    pitch: 17.079404830932617
+    world-name: ''
+  b:
+    world: world
+    x: 2218.3412884203967
+    y: 47.0
+    z: 5560.606689769066
+    yaw: 238.41107177734375
+    pitch: 9.477537155151367
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 2218.5
+  y: 47.0
+  z: 5560.5
+  yaw: 243.361083984375
+  pitch: 12.32753849029541
+  world-name: ''
+ip-address: 89.91.215.26
+last-account-name: SunnyWolf1234
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1523124944669
+  logout: 1523124956761
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.56048776304755
+  y: 65.0
+  z: 84.65482621138011
+  yaw: 171.14378356933594
+  pitch: 16.442853927612305
+  world-name: ''
+ip-address: 78.195.0.60
+last-account-name: Sonz_HD
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

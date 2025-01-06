@@ -1,0 +1,135 @@
+timestamps:
+  login: 1694884313006
+  lastteleport: 1694884980443
+  logout: 1694884986226
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3460.5360565202054
+  y: 133.0
+  z: 6079.044973336529
+  yaw: -101.5167236328125
+  pitch: 24.44999122619629
+  world-name: world
+money: '600.0'
+afk: false
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3467.3127312566994
+  y: 151.0
+  z: 6085.399009232927
+  yaw: -72.56817626953125
+  pitch: 23.400014877319336
+  world-name: world
+homes:
+  tour:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3467.553049981524
+    y: 151.0
+    z: 6077.771647458474
+    yaw: 1.3818359375
+    pitch: 40.35000991821289
+    world-name: world
+  tour2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3360.247477081542
+    y: 68.0
+    z: 6333.55772174149
+    yaw: -268.76837158203125
+    pitch: 7.199873924255371
+    world-name: world
+  jardin:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3467.451876429861
+    y: 7.0
+    z: 6069.338103282554
+    yaw: 180.33331298828125
+    pitch: 44.5499267578125
+    world-name: world
+  slime:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2310.185296063143
+    y: 61.0
+    z: 1263.5463682701693
+    yaw: -31.459636688232422
+    pitch: 69.97531127929688
+  viande:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3460.761361972672
+    y: 117.0
+    z: 6076.586809836177
+    yaw: 274.5306396484375
+    pitch: 17.09989356994629
+  champs:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3470.985887080126
+    y: 80.0
+    z: 6139.449944953951
+    yaw: -152.66818237304688
+    pitch: 19.34996223449707
+  trone:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3475.6427035293245
+    y: 145.5
+    z: 6077.519654419624
+    yaw: 90.18124389648438
+    pitch: 19.799877166748047
+  bibliotheque:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3467.4236006385036
+    y: 140.0
+    z: 6066.337935126165
+    yaw: 3.182857036590576
+    pitch: 68.84983825683594
+  plateform1:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3535.1845148328193
+    y: 122.0
+    z: 5981.23107181828
+    yaw: 134.63330078125
+    pitch: 41.54985046386719
+  plateform2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3429.6435764746643
+    y: 122.0
+    z: 5974.594102185762
+    yaw: 0.36962890625
+    pitch: 90.0
+  plateform3:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3442.653855906704
+    y: 181.0
+    z: 6000.504783776858
+    yaw: 2.4439697265625
+    pitch: 52.19967269897461
+  coffres:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3464.573290546787
+    y: 133.0
+    z: 6080.346464555616
+    yaw: 47.1304931640625
+    pitch: 80.99996948242188
+godmode: false
+ip-address: 90.35.54.144
+last-account-name: danythedog36
+teleportenabled: true
+teleportauto: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

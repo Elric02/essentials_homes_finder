@@ -1,0 +1,38 @@
+timestamps:
+  login: 1539791596547
+  lastteleport: 1539793147651
+  logout: 1539793174754
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1300.300000011921
+  y: 95.0
+  z: 1796.300000011921
+  yaw: -29.101194381713867
+  pitch: 57.599849700927734
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.28305463265957
+  y: 64.0
+  z: 26.30325050873884
+  yaw: -229.5209197998047
+  pitch: 12.628656387329102
+  world-name: ''
+ip-address: 2.3.122.11
+last-account-name: Sezon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1589296549472
+  logout: 1589296580005
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2662.4734971820144
+  y: 78.0
+  z: 644.2831976414842
+  yaw: 284.7002258300781
+  pitch: -16.200037002563477
+  world-name: ''
+ip-address: 91.169.123.157
+last-account-name: Axellesauveteur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

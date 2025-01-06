@@ -1,0 +1,47 @@
+timestamps:
+  login: 1604244949450
+  lastteleport: 1593463381489
+  logout: 1604244967364
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 24.300000011920933
+  y: 68.0
+  z: 29.699999988079067
+  yaw: -157.5009765625
+  pitch: 36.51808547973633
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 1571.1187513727605
+    y: 69.0
+    z: 4059.362526793225
+    yaw: -73.51007080078125
+    pitch: 68.50653839111328
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1577.9787658044945
+  y: 69.0
+  z: 4060.0316688196713
+  yaw: 107.99642181396484
+  pitch: 12.740516662597656
+  world-name: ''
+ip-address: 82.121.85.29
+last-account-name: _ThetaSigma_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

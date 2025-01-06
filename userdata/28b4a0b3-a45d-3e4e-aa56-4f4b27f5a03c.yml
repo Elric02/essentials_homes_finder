@@ -1,0 +1,47 @@
+timestamps:
+  login: 1590596454988
+  lastteleport: 1590597288126
+  logout: 1590599310660
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5978.599034313142
+  y: 62.9375
+  z: -3028.7147331812357
+  yaw: 166.05093383789062
+  pitch: 9.14999771118164
+  world-name: ''
+money: '0'
+homes:
+  pote:
+    world: world
+    x: -6633.980788689183
+    y: 70.0
+    z: 1532.2045603814763
+    yaw: -217.138427734375
+    pitch: 12.676004409790039
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -6627.536331106128
+  y: 70.0
+  z: 1525.7984347075126
+  yaw: -141.38824462890625
+  pitch: 14.926025390625
+  world-name: ''
+ip-address: 176.184.170.112
+last-account-name: TheoToraSara
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

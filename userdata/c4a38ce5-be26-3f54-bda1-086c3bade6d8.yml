@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475317574612
+  logout: 1475317914365
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 130.14100133871648
+  y: 63.0
+  z: -33.26561819755723
+  yaw: -237.3607635498047
+  pitch: -1.4754905700683594
+  world-name: ''
+ip-address: 92.140.160.197
+last-account-name: aypierre
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

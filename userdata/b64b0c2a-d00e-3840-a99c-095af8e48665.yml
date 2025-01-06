@@ -1,0 +1,63 @@
+timestamps:
+  login: 1562429130762
+  logout: 1562434301394
+  lastteleport: 1562434095070
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -63.35169716468426
+  y: 63.0
+  z: -6.737443444622344
+  yaw: -76.12725830078125
+  pitch: 5.152333736419678
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 160.603221086581
+  y: 64.0
+  z: 20.21702378685835
+  yaw: -354.79998779296875
+  pitch: 7.934088230133057
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  mesa:
+    world: Ressource
+    x: -1083.4210861531817
+    y: 70.0
+    z: -1571.0631824237732
+    yaw: -114.47586822509766
+    pitch: 11.135930061340332
+    world-name: ''
+  new:
+    world: world
+    x: -3819.4209244496346
+    y: 98.0
+    z: -2822.8466014148594
+    yaw: -356.11517333984375
+    pitch: 62.10730743408203
+    world-name: ''
+  relou:
+    world: world
+    x: -3698.3135729929577
+    y: 118.0
+    z: -2814.175008263949
+    yaw: -258.1607666015625
+    pitch: 21.602855682373047
+    world-name: ''
+ip-address: 83.156.177.252
+last-account-name: amZAr09
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

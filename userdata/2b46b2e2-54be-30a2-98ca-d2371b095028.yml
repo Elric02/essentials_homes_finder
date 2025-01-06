@@ -1,0 +1,38 @@
+timestamps:
+  login: 1525163473579
+  lastteleport: 1525163734695
+  logout: 1525164776366
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 926.5124999880791
+  y: 89.0
+  z: -1085.542804559829
+  yaw: 77.54995727539062
+  pitch: -23.999961853027344
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -361.300000011921
+  y: 71.0
+  z: -988.7828588777397
+  yaw: -42.11486053466797
+  pitch: 15.000008583068848
+  world-name: ''
+ip-address: 37.169.67.74
+last-account-name: Fauxcontact
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

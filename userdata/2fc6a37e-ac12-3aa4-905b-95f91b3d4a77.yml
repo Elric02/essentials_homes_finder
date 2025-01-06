@@ -1,0 +1,63 @@
+timestamps:
+  login: 1685825619225
+  logout: 1685825626338
+  lastteleport: 1557420228599
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -156.4205650521965
+  y: 52.0
+  z: 543.5167151873909
+  yaw: -112.03376770019531
+  pitch: 18.652786254882812
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -156.4205650521965
+  y: 52.0
+  z: 543.5167151873909
+  yaw: 152.1162872314453
+  pitch: 2.602790117263794
+  world-name: world
+homes:
+  p:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 157.19686214322917
+    y: 63.0
+    z: 39.71652022235098
+    yaw: -67.20733642578125
+    pitch: 7.6213178634643555
+    world-name: world
+  m:
+    world: Ressource
+    x: 940.2999463008829
+    y: 64.0
+    z: -60.30000001192093
+    yaw: -10.985280990600586
+    pitch: -3.2955870628356934
+    world-name: ''
+  q:
+    world: world
+    x: 140.00859813272757
+    y: 63.0
+    z: -19.182543928651448
+    yaw: 88.8921890258789
+    pitch: 19.842702865600586
+    world-name: ''
+money: '0'
+ip-address: 82.65.84.248
+last-account-name: Wyse_Guy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

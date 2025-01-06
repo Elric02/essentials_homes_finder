@@ -1,0 +1,71 @@
+timestamps:
+  login: 1664126970384
+  lastteleport: 1664128448161
+  logout: 1664128954691
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -4159.061745165872
+  y: 58.0
+  z: -3076.422569438594
+  yaw: -15.19036865234375
+  pitch: 18.30016326904297
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -4106.347042876064
+  y: 67.0
+  z: -3034.087294302318
+  yaw: 54.60145950317383
+  pitch: 11.55009651184082
+  world-name: world
+homes:
+  bp:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4114.563816642101
+    y: 67.0
+    z: -3066.54405131677
+    yaw: -291.7481994628906
+    pitch: 4.950047492980957
+    world-name: world
+  fermend:
+    world: 28ffc306-5ca9-4ceb-94a8-a04caec94168
+    x: -393.37272566429306
+    y: 1.0
+    z: -1.726794684845264
+    yaw: -145.48118591308594
+    pitch: 90.0
+    world-name: End
+  ilagois:
+    world: bd63a69b-f162-438e-8437-fbdb5ea04361
+    x: -1001.447113679238
+    y: 70.0
+    z: -4339.973109305674
+    yaw: 175.8121337890625
+    pitch: -1.0501569509506226
+    world-name: Ressource
+  bpstuff:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4159.061745165872
+    y: 58.0
+    z: -3076.422569438594
+    yaw: -15.19036865234375
+    pitch: 18.30016326904297
+money: '161.0133333333333335'
+afk: false
+ip-address: 176.128.174.249
+last-account-name: TheFlomax
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

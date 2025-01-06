@@ -1,0 +1,47 @@
+timestamps:
+  login: 1626182907808
+  lastteleport: 1625842730481
+  logout: 1626183252949
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2422.6124140468423
+  y: 99.23975694968587
+  z: -4240.589192033371
+  yaw: -73.19378662109375
+  pitch: 23.100114822387695
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -2432.0111936116405
+    y: 65.0
+    z: -4059.7789335156695
+    yaw: -89.84616088867188
+    pitch: 24.9000244140625
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -2429.244348487921
+  y: 65.0
+  z: -4059.3686280440033
+  yaw: 75.30426025390625
+  pitch: 9.449833869934082
+  world-name: ''
+ip-address: 5.51.176.178
+last-account-name: Pykweek
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

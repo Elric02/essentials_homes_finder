@@ -1,0 +1,55 @@
+timestamps:
+  login: 1477582957895
+  lastteleport: 1477576636990
+  logout: 1477583144010
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -594.5134721935472
+  y: 65.0
+  z: -758.834391763918
+  yaw: -26.3472900390625
+  pitch: 10.526291847229004
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -2372.2551997499154
+  y: 63.0
+  z: 5239.14091724106
+  yaw: -69.6279296875
+  pitch: 27.599925994873047
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -2379.509781659332
+    y: 63.0
+    z: 5235.280591997902
+    yaw: 303.44952392578125
+    pitch: 11.100006103515625
+    world-name: ''
+  shop:
+    world: world
+    x: -388.7360253123488
+    y: 83.0
+    z: 399.3343879290282
+    yaw: -353.5543212890625
+    pitch: 53.69990158081055
+    world-name: ''
+ip-address: 88.169.41.2
+last-account-name: SketChieup
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

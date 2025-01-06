@@ -1,0 +1,47 @@
+timestamps:
+  login: 1481131525029
+  logout: 1481135604509
+  lastteleport: 1481135273440
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1834.7441272324331
+  y: 75.0
+  z: -5129.86401431209
+  yaw: 92.82421875
+  pitch: 7.565923690795898
+  world-name: ''
+afk: false
+money: '0'
+muted: false
+logoutlocation:
+  world: world
+  x: -304.0057932218062
+  y: 72.0
+  z: -715.0750459277231
+  yaw: 91.17955017089844
+  pitch: 18.968347549438477
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -297.27024525863425
+    y: 71.0
+    z: -712.9343542443315
+    yaw: 145.6033935546875
+    pitch: 19.168516159057617
+    world-name: ''
+ip-address: 82.98.48.63
+last-account-name: LeGuitariste
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

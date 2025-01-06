@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475671212285
+  logout: 1475671402255
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.2894111399967
+  y: 27.0
+  z: 20.657549046145164
+  yaw: 271.602783203125
+  pitch: 12.54737663269043
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 560.3000000119209
+  y: 66.0
+  z: 993.6999999880791
+  yaw: 61.950225830078125
+  pitch: 20.69999885559082
+  world-name: ''
+ip-address: 91.183.33.236
+last-account-name: titetha
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

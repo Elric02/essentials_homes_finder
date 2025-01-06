@@ -1,0 +1,63 @@
+timestamps:
+  login: 1489936916618
+  logout: 1489938148725
+  lastteleport: 1489938138180
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: -4104.561877627673
+  y: 44.0
+  z: 5897.942095184692
+  yaw: -211.68035888671875
+  pitch: 18.99449348449707
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.0920004101871
+  y: 63.0
+  z: 34.39801538950154
+  yaw: -36.209930419921875
+  pitch: 34.29578399658203
+  world-name: ''
+money: '0'
+homes:
+  bois:
+    world: world
+    x: -1225.083021791823
+    y: 70.0
+    z: -6804.946074411895
+    yaw: -88.3846435546875
+    pitch: 14.817696571350098
+    world-name: ''
+  base:
+    world: world
+    x: 6605.048529632273
+    y: 76.0
+    z: -4641.091224881754
+    yaw: -37.317962646484375
+    pitch: -6.265164375305176
+    world-name: ''
+  home:
+    world: world_nether
+    x: -4040.0362319919177
+    y: 51.0
+    z: 6011.752322707698
+    yaw: 1.8309125900268555
+    pitch: 12.658037185668945
+    world-name: ''
+afk: false
+ip-address: 78.248.252.31
+last-account-name: AlbatorHamer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1583334656305
+  lastteleport: 1583335950079
+  logout: 1583336213674
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 256.4937440644899
+  y: 133.0
+  z: 139.79751707232674
+  yaw: -310.7623291015625
+  pitch: 20.700002670288086
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.46801115655938
+  y: 64.0
+  z: 22.574355113860467
+  yaw: -166.82081604003906
+  pitch: -11.52132797241211
+  world-name: ''
+ip-address: 86.239.162.6
+last-account-name: LucasCaca
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

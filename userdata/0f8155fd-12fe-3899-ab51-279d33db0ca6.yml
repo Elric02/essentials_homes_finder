@@ -1,0 +1,186 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.220.84.4
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674668838070
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674669397966
+  login: 1674668809320
+  kits:
+    vip: 1674241107211
+    stationaute: 1673045692403
+money: '1494.6000000000003009'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 396.78152254677644
+  y: 81.0
+  z: -3111.1955765792736
+  yaw: -76.04772186279297
+  pitch: 5.249962329864502
+last-account-name: Kirinodas
+homes:
+  home:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -1147.5
+    y: 133.0
+    z: 3310.5
+    yaw: 0.0
+    pitch: 0.0
+  mine:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -3291.503128044238
+    y: -14.0
+    z: -835.9299010157271
+    yaw: 84.849609375
+    pitch: 0.7501015663146973
+  spawner:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -3223.0661894203395
+    y: -39.0
+    z: -718.4164918579168
+    yaw: -47.643524169921875
+    pitch: 10.500162124633789
+  spawn:
+    world: df07db1e-b199-46d9-9d37-2fe95ae52b01
+    world-name: Ressourcenether
+    x: -855.7188153692426
+    y: 58.0
+    z: 2036.1667452574181
+    yaw: -6.5933837890625
+    pitch: 18.600833892822266
+  monmauvais:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    world-name: Nether
+    x: -3429.911375497418
+    y: 50.0
+    z: 2670.493501678607
+    yaw: 155.118896484375
+    pitch: 30.900672912597656
+  mine2:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 3602.956768966806
+    y: 11.0
+    z: -898.9966090169746
+    yaw: 36.38679122924805
+    pitch: 13.649808883666992
+  squeletteq2:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 3724.3681527385684
+    y: -41.0
+    z: -951.087818690673
+    yaw: -46.68792724609375
+    pitch: 23.400615692138672
+  glace:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -2222.5968142695674
+    y: 63.0
+    z: -3439.6941950754813
+    yaw: -56.106689453125
+    pitch: 5.4001569747924805
+  squelette:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 1533.699999988079
+    y: -7.0
+    z: 482.6531213183639
+    yaw: 175.99842834472656
+    pitch: 13.649736404418945
+  livre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 101.9213407522574
+    y: 63.0
+    z: -60.94774775706553
+    yaw: -169.78179931640625
+    pitch: -4.649728298187256
+  quete:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -123.12191295754377
+    y: 64.0
+    z: 55.00657941402464
+    yaw: 82.64862060546875
+    pitch: 2.699911117553711
+  lapin:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -2233.0742728715654
+    y: 84.0
+    z: -2184.2147742713137
+    yaw: -94.4342041015625
+    pitch: 12.185400009155273
+  peroquet:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -185.0894489982746
+    y: 71.0
+    z: 3418.3356486514144
+    yaw: -104.71270751953125
+    pitch: 5.099605560302734
+  panda:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -2308.3877764970375
+    y: 70.0
+    z: -3663.443606109991
+    yaw: 24.70831298828125
+    pitch: 72.4501953125
+  temple:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -1282.6961983649041
+    y: 63.0
+    z: -224.07694421486033
+    yaw: -45.339111328125
+    pitch: 29.849870681762695
+  oceanchaud:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 476.31806649117453
+    y: 63.0
+    z: 585.1186389831053
+    yaw: 107.37406921386719
+    pitch: 21.59943389892578
+  netherboss:
+    world: df07db1e-b199-46d9-9d37-2fe95ae52b01
+    world-name: Ressourcenether
+    x: 74.36601939540985
+    y: 122.0
+    z: 962.0921899524378
+    yaw: -6.19140625
+    pitch: 16.350061416625977
+  squelette3:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -2988.8647809741433
+    y: 4.0
+    z: 104.90642796421365
+    yaw: 151.66348266601562
+    pitch: 20.54994773864746
+logoutlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: 465.9581040229844
+  y: 64.0
+  z: 583.0854363494778
+  yaw: 56.36773681640625
+  pitch: 59.85017395019531

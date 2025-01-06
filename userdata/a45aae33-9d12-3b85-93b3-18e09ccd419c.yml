@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.110.254.42
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1649310109557
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1649310143861
+  login: 1649310026404
+money: '0'
+last-account-name: ghost_of_NtRk6
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 6247.915503793277
+  y: 65.0
+  z: -3149.110416676849
+  yaw: -2.7765581607818604
+  pitch: 19.429929733276367
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 146.19836040138637
+  y: 63.0
+  z: 8.290774965785925
+  yaw: 143.7068634033203
+  pitch: 25.199840545654297
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6245.6443871959045
+    y: 65.0
+    z: -3164.966258236269
+    yaw: -305.17816162109375
+    pitch: 61.72986602783203

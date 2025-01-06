@@ -1,0 +1,38 @@
+timestamps:
+  login: 1493215148731
+  logout: 1493215219964
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 163.5689965359421
+  y: 65.0
+  z: -3593.1951866829972
+  yaw: -7.4112548828125
+  pitch: 12.902400970458984
+  world-name: ''
+ip-address: 82.248.130.243
+last-account-name: lolobmx29
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

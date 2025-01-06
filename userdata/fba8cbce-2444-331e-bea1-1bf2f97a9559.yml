@@ -1,0 +1,63 @@
+timestamps:
+  login: 1474465902341
+  lastteleport: 1474466526156
+  logout: 1474466637979
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4108.593204078081
+  y: 88.0
+  z: -6291.722800466871
+  yaw: -188.80528259277344
+  pitch: 5.040897846221924
+  world-name: ''
+logoutlocation:
+  world: Ressources
+  x: 204.69999998807907
+  y: 5.0
+  z: 434.0572712175413
+  yaw: -155.9696044921875
+  pitch: 13.668285369873047
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -754.555317046914
+    y: 64.0
+    z: -337.3865709858105
+    yaw: -100.89744567871094
+    pitch: 53.88134765625
+    world-name: ''
+  base2:
+    world: world
+    x: -4107.489002450688
+    y: 88.0
+    z: -6293.139827383299
+    yaw: -316.46343994140625
+    pitch: 22.003490447998047
+    world-name: ''
+  mine:
+    world: Ressources
+    x: 151.81857926055966
+    y: 11.0
+    z: 491.29762176424754
+    yaw: -54.5369873046875
+    pitch: 20.83356285095215
+    world-name: ''
+afk: false
+money: '0'
+ip-address: 88.179.19.95
+last-account-name: _Pr1nC3_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 93.12.184.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1665933830798
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1666087834674
+  login: 1666087807129
+money: '0'
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 98.76858348997467
+  y: 65.0
+  z: -108.99674482960094
+  yaw: 1.3849033117294312
+  pitch: 29.46797752380371
+last-account-name: crazox1
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 98.73376844065518
+  y: 65.0
+  z: -109.00054660973335
+  yaw: 1.2339506149291992
+  pitch: 29.46797752380371

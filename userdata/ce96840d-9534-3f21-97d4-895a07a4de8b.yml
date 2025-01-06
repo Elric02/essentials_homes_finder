@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474809852361
+  logout: 1474809937855
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 270.6747005223149
+  y: 62.0
+  z: -1094.4074380723926
+  yaw: -103.1998291015625
+  pitch: 41.8499870300293
+  world-name: ''
+ip-address: 77.134.56.21
+last-account-name: Darkollos
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

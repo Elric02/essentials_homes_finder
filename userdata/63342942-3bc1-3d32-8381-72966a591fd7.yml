@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487350645973
+  logout: 1487351850464
+  lastteleport: 1487351661366
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -102.69620755916765
+  y: 47.0
+  z: 428.6704754691264
+  yaw: 94.5986328125
+  pitch: 14.917763710021973
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -619.6999999880791
+  y: 68.5
+  z: -702.8960323863272
+  yaw: 28.252605438232422
+  pitch: 54.176326751708984
+  world-name: ''
+money: '0'
+ip-address: 78.214.104.239
+last-account-name: popi123
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

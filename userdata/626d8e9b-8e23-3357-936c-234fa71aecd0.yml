@@ -1,0 +1,38 @@
+timestamps:
+  login: 1515761823083
+  lastteleport: 1515763258927
+  logout: 1515763321817
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.0068097355508
+  y: 67.00133597911214
+  z: 43.88534248341493
+  yaw: -357.023681640625
+  pitch: 4.950019836425781
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -190.07083129882812
+  pitch: -11.521330833435059
+  world-name: ''
+ip-address: 184.163.128.163
+last-account-name: MathB2007
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

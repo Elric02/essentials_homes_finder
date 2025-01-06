@@ -1,0 +1,63 @@
+timestamps:
+  login: 1572637297174
+  logout: 1572637770412
+  lastteleport: 1572637443621
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7710.744460266415
+  y: 68.0
+  z: -5959.353892709137
+  yaw: 5.047607421875
+  pitch: 4.350009441375732
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 737.449960524565
+    y: 69.0
+    z: -917.2297227061434
+    yaw: 46.49948501586914
+    pitch: 3.0000126361846924
+    world-name: ''
+  fleur:
+    world: world
+    x: 1235.9510342815547
+    y: 69.0
+    z: -2786.5148207972256
+    yaw: -85.65731048583984
+    pitch: 19.04991340637207
+    world-name: ''
+  j:
+    world: world
+    x: 7714.040133955383
+    y: 69.0
+    z: -5954.212278444423
+    yaw: -222.20086669921875
+    pitch: 3.299916982650757
+    world-name: ''
+afk: false
+ip-address: 90.22.118.159
+last-account-name: AntoineXXII
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1541938285286
+  lastteleport: 1541938807262
+  logout: 1541938920608
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1817.300000011921
+  y: 83.0
+  z: 193.30000001192093
+  yaw: 303.1465148925781
+  pitch: 2.912900686264038
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1766.0667747677037
+  y: 92.0
+  z: -809.6999999880791
+  yaw: -273.13348388671875
+  pitch: -0.15000180900096893
+  world-name: ''
+ip-address: 78.237.231.46
+last-account-name: luluhappy3000
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

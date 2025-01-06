@@ -1,0 +1,38 @@
+timestamps:
+  login: 1588932576156
+  logout: 1588932669440
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 170.09927177999012
+  y: 63.0
+  z: 21.165976447087132
+  yaw: 94.89767456054688
+  pitch: 22.590553283691406
+  world-name: ''
+ip-address: 93.5.163.91
+last-account-name: Justin149
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

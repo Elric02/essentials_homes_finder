@@ -1,0 +1,55 @@
+timestamps:
+  login: 1464550805126
+  logout: 1464550939523
+  lastteleport: 1464547848426
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -775.2699038529632
+  y: 71.0
+  z: 490.44127918920174
+  yaw: 199.5045928955078
+  pitch: 23.85002899169922
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: -65.6465999294307
+  y: 11.0
+  z: 33.49232081623498
+  yaw: -252.45054626464844
+  pitch: 12.750017166137695
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -527.0764416887198
+    y: 65.0
+    z: 559.26416787724
+    yaw: -152.2452392578125
+    pitch: 15.74999713897705
+    world-name: ''
+  maison:
+    world: world
+    x: -531.7258855386578
+    y: 65.0
+    z: 568.4474167816077
+    yaw: -173.3952178955078
+    pitch: 9.449995994567871
+    world-name: ''
+ip-address: 86.197.58.149
+last-account-name: Nyuuuuu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

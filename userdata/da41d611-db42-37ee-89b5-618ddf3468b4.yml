@@ -1,0 +1,38 @@
+timestamps:
+  login: 1565177876312
+  logout: 1565178217030
+  lastteleport: 1565178213647
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.43742051265428
+  y: 64.0
+  z: 23.907345363439227
+  yaw: -183.7709197998047
+  pitch: 12.628671646118164
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.1779495429951
+  y: 64.0
+  z: 21.74831307676461
+  yaw: -36.470794677734375
+  pitch: 10.528667449951172
+  world-name: ''
+money: '0'
+ip-address: 176.154.55.237
+last-account-name: le_pro_gamer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

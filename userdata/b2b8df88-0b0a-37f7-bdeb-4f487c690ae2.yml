@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498839022818
+  lastteleport: 1498839221255
+  logout: 1498839238228
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 92.30000001192093
+  y: 63.0
+  z: -5.699999988079071
+  yaw: 146.50250244140625
+  pitch: 7.8973917961120605
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.47732263677176
+  y: 64.0
+  z: 26.39147060892619
+  yaw: -178.56094360351562
+  pitch: 14.724514961242676
+  world-name: ''
+ip-address: 93.12.151.136
+last-account-name: Ntroxide
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

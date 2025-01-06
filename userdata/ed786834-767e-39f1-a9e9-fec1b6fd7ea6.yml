@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482352607269
+  lastteleport: 1482352619970
+  logout: 1482352736311
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.0683718279397
+  y: 63.0
+  z: 48.5063180286088
+  yaw: -271.2474670410156
+  pitch: -4.10260009765625
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 203.12133960200208
+  y: 64.0
+  z: 2.752881520954194
+  yaw: 23.189117431640625
+  pitch: 15.750005722045898
+  world-name: ''
+ip-address: 81.67.230.243
+last-account-name: Yatsumcrow
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

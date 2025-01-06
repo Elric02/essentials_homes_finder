@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526233298332
+  lastteleport: 1526235682683
+  logout: 1526236276188
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -56.265358014566104
+  y: 70.0
+  z: 7.230836553420755
+  yaw: 183.3333740234375
+  pitch: 24.78169059753418
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 203.30000001192096
+  y: 80.0
+  z: 2167.6731390393093
+  yaw: -154.01882934570312
+  pitch: 2.850175619125366
+  world-name: ''
+ip-address: 83.200.57.113
+last-account-name: Lukiras
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

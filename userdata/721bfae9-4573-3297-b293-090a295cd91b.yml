@@ -1,0 +1,38 @@
+timestamps:
+  login: 1529508407136
+  lastteleport: 1529508689133
+  logout: 1529508895158
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -20.06523378854777
+  y: 64.0
+  z: 7.113787624878412
+  yaw: -150.32162475585938
+  pitch: 45.62871170043945
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 222.80071129243706
+  y: 64.24918707874468
+  z: -1.4592542582378885
+  yaw: 23.979450225830078
+  pitch: -20.97134017944336
+  world-name: ''
+ip-address: 90.65.223.157
+last-account-name: thierriot
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

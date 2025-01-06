@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472654271575
+  lastteleport: 1472656990171
+  logout: 1472657108030
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: -2459.9404342606304
+  y: 61.0
+  z: -5376.718528686019
+  yaw: 218.68833923339844
+  pitch: 41.699981689453125
+  world-name: ''
+logoutlocation:
+  world: world_the_end
+  x: -1919.1542018807988
+  y: 62.0
+  z: -4104.680036371039
+  yaw: -279.3249206542969
+  pitch: 32.84994888305664
+  world-name: ''
+ip-address: 78.216.194.129
+last-account-name: irwan31
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

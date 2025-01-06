@@ -1,0 +1,38 @@
+timestamps:
+  login: 1612978581939
+  lastteleport: 1612978632258
+  logout: 1612978732541
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.4722983283088
+  y: 65.0
+  z: 87.76749653166723
+  yaw: 130.74392700195312
+  pitch: 4.890655040740967
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1450.164897066422
+  y: 63.0
+  z: -1937.3071322450896
+  yaw: -88.58868408203125
+  pitch: 9.435949325561523
+  world-name: ''
+ip-address: 90.70.114.89
+last-account-name: FlOcHt
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

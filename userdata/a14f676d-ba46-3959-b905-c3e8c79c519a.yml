@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469401643952
+  logout: 1469401660863
+  lastteleport: 1469182358902
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -191.77987154371647
+  y: 71.0
+  z: 6904.582222017787
+  yaw: 350.848388671875
+  pitch: 12.899980545043945
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 189.42286833335285
+  y: 60.0
+  z: 5.942807676646335
+  yaw: 306.1498107910156
+  pitch: 20.700008392333984
+  world-name: ''
+money: '0'
+ip-address: 90.21.141.238
+last-account-name: GogoRedstone
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1539360854857
+  logout: 1539361154992
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 159.58551371299498
+  y: 63.0
+  z: 57.56097230727892
+  yaw: -27.50311851501465
+  pitch: 7.140649795532227
+  world-name: ''
+ip-address: 5.48.225.236
+last-account-name: youyouyouss
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

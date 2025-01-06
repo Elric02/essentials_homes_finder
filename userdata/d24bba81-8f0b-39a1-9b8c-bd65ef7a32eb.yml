@@ -1,0 +1,55 @@
+timestamps:
+  login: 1482252019394
+  lastteleport: 1482255920226
+  logout: 1482256793504
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4793.740569269286
+  y: 84.0
+  z: -3739.1705959107326
+  yaw: 287.1176452636719
+  pitch: 29.759639739990234
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -181.55918884277344
+  pitch: 15.214447021484375
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 4675.057873788452
+    y: 66.0625
+    z: -3757.5972398998083
+    yaw: -211.90289306640625
+    pitch: 19.215160369873047
+    world-name: ''
+  sans:
+    world: world
+    x: 4796.325461955901
+    y: 80.0
+    z: -3735.2970015418855
+    yaw: 286.8179931640625
+    pitch: 40.646881103515625
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 84.101.151.243
+last-account-name: Metalexking
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

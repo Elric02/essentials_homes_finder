@@ -1,0 +1,38 @@
+timestamps:
+  login: 1538315884378
+  lastteleport: 1538316040724
+  logout: 1538316281611
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.71786383933025
+  y: 66.0
+  z: 91.77156244060501
+  yaw: 136.56748962402344
+  pitch: 7.90699577331543
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -650.3524383974393
+  y: 63.0
+  z: -421.6292385402549
+  yaw: -0.17950439453125
+  pitch: 15.93412971496582
+  world-name: ''
+ip-address: 109.25.95.25
+last-account-name: matteo51100
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

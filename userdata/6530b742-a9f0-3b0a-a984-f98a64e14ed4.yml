@@ -1,0 +1,55 @@
+timestamps:
+  login: 1522494701507
+  lastteleport: 1522494759955
+  logout: 1522494856084
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 180.70138960256136
+  y: 63.0
+  z: 20.664251422299174
+  yaw: -160.85821533203125
+  pitch: 4.074491500854492
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 166.17281035181304
+  y: 64.0
+  z: 16.925026128894864
+  yaw: -250.37098693847656
+  pitch: 16.22867202758789
+  world-name: ''
+money: '0'
+homes:
+  mildu38:
+    world: world
+    x: 5572.218549517341
+    y: 63.0
+    z: 295.6257105866912
+    yaw: -352.7491455078125
+    pitch: 11.700021743774414
+    world-name: ''
+  m38:
+    world: world
+    x: 5571.138115625444
+    y: 63.0
+    z: 295.376120535673
+    yaw: -34.156158447265625
+    pitch: 7.650023937225342
+    world-name: ''
+ip-address: 88.169.200.139
+last-account-name: Adokir
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

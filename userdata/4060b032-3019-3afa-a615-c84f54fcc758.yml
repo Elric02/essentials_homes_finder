@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617801292984
+  lastteleport: 1617807772808
+  logout: 1617808463335
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5219706617853
+  y: 64.0
+  z: 24.59015183032405
+  yaw: -95.74369049072266
+  pitch: -3.3265280723571777
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3395.5
+  y: 71.0
+  z: 3909.5
+  yaw: -90.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 109.218.93.51
+last-account-name: Louli
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1531768955541
+  logout: 1531769262881
+  lastteleport: 1531769240264
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3191.9243262461423
+  y: 68.0
+  z: -5676.821521391817
+  yaw: -286.78704833984375
+  pitch: 12.618295669555664
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4306.88684753323
+  y: 74.0
+  z: 1309.4618922718098
+  yaw: 79.57597351074219
+  pitch: 3.519447088241577
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  b:
+    world: world
+    x: -4308.631198007293
+    y: 74.0
+    z: 1310.7591633268062
+    yaw: 210.67587280273438
+    pitch: 6.369444370269775
+    world-name: ''
+ip-address: 90.33.98.166
+last-account-name: ErTyPrincesse
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1504709543558
+  lastteleport: 1504709661896
+  logout: 1504709877278
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.54027104524934
+  y: 63.0
+  z: 48.52005251770606
+  yaw: -267.19744873046875
+  pitch: 2.3473970890045166
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 39.753068517136846
+  y: 82.0
+  z: -10.425738216973253
+  yaw: -247.08551025390625
+  pitch: 50.25001525878906
+  world-name: ''
+ip-address: 109.27.2.111
+last-account-name: davisle98
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

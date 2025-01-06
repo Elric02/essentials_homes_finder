@@ -1,0 +1,68 @@
+timestamps:
+  login: 1618056232630
+  logout: 1618056651278
+  lastteleport: 1617627933895
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 215.63468285638027
+  y: 96.0
+  z: -88.58704619770538
+  yaw: 168.68795776367188
+  pitch: 26.375465393066406
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1268.454487206177
+  y: 85.0
+  z: 4600.675009922171
+  yaw: 269.70062255859375
+  pitch: 43.951011657714844
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  bl_:
+    world: world
+    x: -7301.84661783325
+    y: 68.9375
+    z: -5487.186263381137
+    yaw: -309.162109375
+    pitch: 4.350128173828125
+    world-name: ''
+  kk:
+    world: world
+    x: 1281.9852974429257
+    y: 78.0
+    z: 4608.970923854668
+    yaw: -282.15130615234375
+    pitch: 33.00001525878906
+    world-name: ''
+  cc:
+    world: Event
+    x: 991.6673186471573
+    y: 5.0
+    z: 1052.6068282501733
+    yaw: -274.5044250488281
+    pitch: 43.799591064453125
+    world-name: ''
+ip-address: 90.73.64.198
+last-account-name: Isaorya
+mail:
+- legacy: true
+  read: false
+  message: §e[§relriclespiques§e] §rSalut, j'ai mis la shulker de récompense du concours
+    à ton /home kk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

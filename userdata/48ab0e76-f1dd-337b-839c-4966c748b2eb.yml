@@ -1,0 +1,55 @@
+timestamps:
+  login: 1490689257095
+  logout: 1490689597363
+  lastteleport: 1490689497709
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1301.4724692682678
+  y: 81.0
+  z: -4000.8444728275767
+  yaw: -145.7447509765625
+  pitch: 20.007551193237305
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4796.023232879564
+  y: 69.0
+  z: -323.6046211699037
+  yaw: -268.80413818359375
+  pitch: 9.20118236541748
+  world-name: ''
+afk: false
+homes:
+  shop:
+    world: world
+    x: -4800.156972717875
+    y: 65.0
+    z: -338.5049132406279
+    yaw: -14.9036865234375
+    pitch: 29.006563186645508
+    world-name: ''
+  coffre:
+    world: world
+    x: 1302.1289735042515
+    y: 73.0
+    z: -4015.5018496143275
+    yaw: 87.7275619506836
+    pitch: 17.784456253051758
+    world-name: ''
+ip-address: 92.143.228.252
+last-account-name: D4_pSyKo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1619147144830
+  logout: 1619147152001
+  lastteleport: 1619140125409
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 161.43518423962487
+  y: 63.0
+  z: 64.75934007515878
+  yaw: 71.75199890136719
+  pitch: 5.391995429992676
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.3952497081347
+  y: 64.0
+  z: 15.485597998840804
+  yaw: -191.3121795654297
+  pitch: 12.983075141906738
+  world-name: ''
+ip-address: 176.136.53.126
+last-account-name: shadowdinch
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

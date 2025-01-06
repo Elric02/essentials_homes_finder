@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 93.23.179.65
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1708875992720
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1708876026601
+  login: 1708875210037
+money: '0'
+last-account-name: Karelouche
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 156.1414487489764
+  y: 63.0
+  z: -9.394213205343991
+  yaw: -131.72430419921875
+  pitch: 8.870019912719727
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -104.5177607071024
+  y: 99.0
+  z: 148.04310795977418
+  yaw: -92.81537628173828
+  pitch: 6.756205081939697

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1559250571235
+  logout: 1559250594868
+  lastteleport: 1559250187540
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 64.33012881415007
+  y: 94.0
+  z: 59.36609475467851
+  yaw: -213.4013671875
+  pitch: 11.71556282043457
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.20153083675078
+  y: 64.0
+  z: 14.750769536577508
+  yaw: -97.46255493164062
+  pitch: 23.712238311767578
+  world-name: ''
+money: '0'
+ip-address: 90.12.55.237
+last-account-name: Hugo6622
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

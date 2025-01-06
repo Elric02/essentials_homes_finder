@@ -1,0 +1,38 @@
+timestamps:
+  login: 1525969816073
+  logout: 1525969823185
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.95163734464813
+  y: 63.0
+  z: 7.811250258559227
+  yaw: 123.546875
+  pitch: 38.19065475463867
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.47103776077964
+  y: 66.0
+  z: -107.30006647588336
+  yaw: 57.6968994140625
+  pitch: 46.500003814697266
+  world-name: ''
+ip-address: 109.30.242.71
+last-account-name: UKUMIRA
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

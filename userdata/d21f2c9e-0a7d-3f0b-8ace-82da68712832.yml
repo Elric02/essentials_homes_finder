@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.89.222.115
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674815389642
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674815551394
+  login: 1674815296592
+money: '0'
+last-account-name: Equinoxyx
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 398.79967613546415
+  y: 81.0
+  z: -3110.1282843911636
+  yaw: 107.10218811035156
+  pitch: 10.049958229064941
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 211.7460819821393
+  y: 115.64478955272483
+  z: 379.48106371783587
+  yaw: 135.59994506835938
+  pitch: 33.45041275024414

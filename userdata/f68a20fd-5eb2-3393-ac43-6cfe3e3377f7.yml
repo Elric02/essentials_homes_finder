@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.90.186.198
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671574523314
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671574697797
+  login: 1671574198937
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.82639640135983
+  y: 81.0
+  z: -3110.04382321647
+  yaw: -116.54801177978516
+  pitch: 7.499974727630615
+last-account-name: Moussahara
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -291.9907352592568
+  y: 70.62606047373937
+  z: 414.7106908362452
+  yaw: 9.207982063293457
+  pitch: 36.7496452331543

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492712146032
+  lastteleport: 1492712174840
+  logout: 1492712188599
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.80664665444291
+  y: 63.0
+  z: 49.06931761436444
+  yaw: -257.89764404296875
+  pitch: 0.8473994731903076
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4843.566863140161
+  y: 84.0
+  z: -463.86547461434265
+  yaw: -275.2725830078125
+  pitch: 8.099993705749512
+  world-name: ''
+ip-address: 176.134.84.57
+last-account-name: Yoan_Nini
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

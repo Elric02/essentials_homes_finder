@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.113.218.238
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1670330565124
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674301073965
+  login: 1674300974572
+money: '100.0'
+lastlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -0.36807392118416987
+  y: 90.0
+  z: 0.5021046116181238
+  yaw: 89.69725799560547
+  pitch: 11.885783195495605
+last-account-name: ad66
+logoutlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: 43.42675651075639
+  y: 63.0
+  z: 23.586533808041477
+  yaw: 116.27363586425781
+  pitch: 8.019082069396973

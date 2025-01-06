@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480244774220
+  lastteleport: 1480245899268
+  logout: 1480246951452
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 170.76834145365814
+  y: 130.0
+  z: -122.45354546716749
+  yaw: -14.911567687988281
+  pitch: 3.924494743347168
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3431.1204067091144
+  y: 64.0
+  z: 883.1416186992604
+  yaw: -60.149749755859375
+  pitch: 2.3999764919281006
+  world-name: ''
+ip-address: 176.155.10.58
+last-account-name: Xx0tatan8xX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

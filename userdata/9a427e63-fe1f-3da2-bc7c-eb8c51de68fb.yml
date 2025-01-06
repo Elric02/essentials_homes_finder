@@ -1,0 +1,116 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.225.175.231
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1692125097341
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1692125628397
+  login: 1692123618397
+  kits:
+    stationaute: 1692123993042
+    vip: 1692123661087
+    color: 1674484815586
+money: '35652.26000000000001165'
+last-account-name: LTHCTheMaster
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 1879.9994519546226
+  y: 65.0
+  z: 1495.7308287245128
+  yaw: 22.754472732543945
+  pitch: -2.5373971462249756
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 151.956154938949
+  y: 63.0
+  z: 38.55950486503511
+  yaw: 162.8199920654297
+  pitch: -4.857362270355225
+homes:
+  aghhvgav382215aaabhbjnja15512abv:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 1877.5048111589228
+    y: 64.0
+    z: 1505.2493700630216
+    yaw: -86.67529296875
+    pitch: 29.198801040649414
+  shop:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3445.3025083718417
+    y: 198.0
+    z: 3529.591075365914
+    yaw: 95.41307830810547
+    pitch: 51.167274475097656
+  enhaut:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 1901.0177409887247
+    y: 85.0
+    z: 1483.5464525450564
+    yaw: 94.82430267333984
+    pitch: 41.18144989013672
+  finally:
+    world: 0847213e-5591-48bf-9f47-5a48a3cb045a
+    world-name: Ressource
+    x: -143.7035434069173
+    y: 116.0
+    z: -2559.699999988079
+    yaw: 90.64419555664062
+    pitch: 25.426393508911133
+  snow:
+    world: 0847213e-5591-48bf-9f47-5a48a3cb045a
+    world-name: Ressource
+    x: -1259.665232905028
+    y: 74.0
+    z: 3319.699999988079
+    yaw: 176.37081909179688
+    pitch: 20.72928237915039
+  teta:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3101.035070911886
+    y: 64.0
+    z: 5944.383800215615
+    yaw: 171.6910400390625
+    pitch: 39.2086181640625
+  adminshop:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 106.41830726075193
+    y: 49.0
+    z: 34.730374312064754
+    yaw: -103.10223388671875
+    pitch: 7.683601379394531
+  tmp:
+    world: 0847213e-5591-48bf-9f47-5a48a3cb045a
+    world-name: Ressource
+    x: -3931.300000011921
+    y: 73.0
+    z: -451.30000001192093
+    yaw: 152.24826049804688
+    pitch: 73.95948028564453
+  ttrrggmmmmrkzhfjpzbfujofbeoifhurpziefouyhiofbozhrzbfuyeru:
+    world: 0847213e-5591-48bf-9f47-5a48a3cb045a
+    world-name: Ressource
+    x: -789.7656490761592
+    y: 29.0
+    z: -5448.132874473304
+    yaw: -72.90786743164062
+    pitch: 45.47066879272461
+nickname: LeMaitreLTHC

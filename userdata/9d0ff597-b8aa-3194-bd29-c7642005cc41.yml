@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.68.106.183
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635610193746
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697382185450
+  login: 1697382169870
+money: '0'
+last-account-name: thunderguard10
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 156.52754391927934
+  y: 64.0
+  z: 18.986827524155608
+  yaw: 158.1331787109375
+  pitch: 25.26955223083496
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 156.54878835581425
+  y: 64.0
+  z: 19.039759361678225
+  yaw: 155.65814208984375
+  pitch: 26.78831672668457

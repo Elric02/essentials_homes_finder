@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467324673792
+  lastteleport: 1467324856681
+  logout: 1467325783695
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.86384850064994
+  y: 63.0
+  z: 7.558530884440597
+  yaw: -267.44775390625
+  pitch: 15.524212837219238
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -273.28732401217144
+  y: 77.0
+  z: 66.58414231419826
+  yaw: -111.0120849609375
+  pitch: 13.35003662109375
+  world-name: ''
+ip-address: 109.29.46.28
+last-account-name: TheLegenders
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,65 @@
+timestamps:
+  login: 1613077880908
+  lastteleport: 1600030651435
+  logout: 1613078062871
+  kits:
+    vip: 1595427336401
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5245.704282812674
+  y: 71.0
+  z: -3748.688705916143
+  yaw: 49.888702392578125
+  pitch: 36.75004959106445
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5217.751695411228
+  y: 64.0
+  z: -3688.203457527162
+  yaw: 313.1693115234375
+  pitch: 16.949899673461914
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 5200.145220217383
+    y: 65.0
+    z: -3627.451996944025
+    yaw: 6.830625534057617
+    pitch: 3.6000969409942627
+    world-name: ''
+  maison:
+    world: world
+    x: -640.2914208620289
+    y: 57.0
+    z: -639.4318783142356
+    yaw: -0.899169921875
+    pitch: 16.94122886657715
+    world-name: ''
+  ville:
+    world: world
+    x: 5204.052276770596
+    y: 64.0
+    z: -3645.591782945633
+    yaw: -272.312255859375
+    pitch: 6.749875545501709
+    world-name: ''
+afk: false
+ip-address: 2.10.104.175
+last-account-name: Opasensei
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

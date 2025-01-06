@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558789593400
+  lastteleport: 1558795900597
+  logout: 1558798088534
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 530.93478968295
+  y: 5.0
+  z: -1580.2495756840315
+  yaw: -93.0958480834961
+  pitch: 20.240074157714844
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 5931.090927835041
+  y: 66.0
+  z: -1481.762499988079
+  yaw: -125.37109375
+  pitch: 29.371746063232422
+  world-name: ''
+ip-address: 176.161.119.69
+last-account-name: Chloelol08
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

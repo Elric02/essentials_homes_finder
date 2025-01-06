@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.128.36.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1665781093928
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665781494489
+  login: 1665780879002
+money: '57.4596666666666676'
+last-account-name: Nagamie118
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3656.500809215494
+  y: 11.0
+  z: -937.1777804759571
+  yaw: -0.287553608417511
+  pitch: 8.25009822845459
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3615.942678970763
+  y: 70.0
+  z: -891.4987601068572
+  yaw: -4.94439697265625
+  pitch: 16.799964904785156
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3605.3586259705858
+    y: 71.0
+    z: -887.3880475014845
+    yaw: -90.442626953125
+    pitch: 53.09990310668945
+  mer:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2178.9358837534346
+    y: 64.0
+    z: -816.3394601710849
+    yaw: -2.42230224609375
+    pitch: 22.04998016357422
+  mine:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3556.0108800106827
+    y: 69.0
+    z: -923.7193147351608
+    yaw: -138.8974609375
+    pitch: 41.25019836425781

@@ -1,0 +1,59 @@
+timestamps:
+  login: 1489262364925
+  logout: 1489262462131
+  lastteleport: 1488050647452
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 216.65422844174824
+  y: 101.625
+  z: -109.98727827938653
+  yaw: 93.81303405761719
+  pitch: 17.032817840576172
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3110.506929773063
+  y: 71.0
+  z: -1138.643355482568
+  yaw: -76.15310668945312
+  pitch: 8.740778923034668
+  world-name: ''
+homes:
+  mine:
+    world: Ressource
+    x: 519.9693615943894
+    y: 64.0
+    z: 229.5447100874848
+    yaw: -65.748779296875
+    pitch: 15.599991798400879
+    world-name: ''
+  maison:
+    world: world
+    x: -3176.023316486692
+    y: 64.0
+    z: -1166.3851988754757
+    yaw: 38.39999771118164
+    pitch: 9.900006294250488
+    world-name: ''
+afk: false
+muted: false
+ip-address: 176.156.98.0
+last-account-name: MiisterCloud
+mail:
+- legacy: true
+  read: false
+  message: §e[§rMamadouGhetto§e] §rRempli!
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

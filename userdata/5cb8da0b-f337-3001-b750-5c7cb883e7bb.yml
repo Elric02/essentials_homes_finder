@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558972868902
+  logout: 1558973338176
+  lastteleport: 1558973193442
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 930.6999999880791
+  y: 65.0
+  z: -3465.2173994629766
+  yaw: -51.1501579284668
+  pitch: 19.65000343322754
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -1.8698121178627298
+  y: 63.0
+  z: 62.2305031563737
+  yaw: -17.25341796875
+  pitch: 0.1858348846435547
+  world-name: ''
+money: '0'
+ip-address: 77.136.16.187
+last-account-name: wsh
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

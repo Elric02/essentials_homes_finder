@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592079582430
+  lastteleport: 1592079678829
+  logout: 1592079953025
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 6.099441410077501
+  y: 68.0
+  z: 495.0226450353931
+  yaw: -109.7437973022461
+  pitch: 6.825281143188477
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -150.36117508654567
+  y: 71.0
+  z: 858.9485901930789
+  yaw: -188.23452758789062
+  pitch: 15.614359855651855
+  world-name: ''
+money: '0'
+ip-address: 92.89.8.202
+last-account-name: Slightern
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

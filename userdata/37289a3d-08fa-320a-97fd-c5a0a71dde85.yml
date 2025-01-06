@@ -1,0 +1,38 @@
+timestamps:
+  login: 1527927596692
+  lastteleport: 1524560340314
+  logout: 1527927620658
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2478.558366637089
+  y: 71.0
+  z: 1812.512499988079
+  yaw: -38.615325927734375
+  pitch: 19.466402053833008
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3908.761194868436
+  y: 96.0
+  z: 5465.887186807596
+  yaw: -259.2856140136719
+  pitch: 22.438356399536133
+  world-name: ''
+ip-address: 78.202.140.157
+last-account-name: FlamenKish
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

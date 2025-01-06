@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.162.45.165
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1665686897000
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665687384194
+  login: 1665685839537
+money: '50.0'
+last-account-name: Araquy
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -143.65373086224443
+  y: 79.91326457704822
+  z: -274.74780694696835
+  yaw: -160.8231201171875
+  pitch: 24.360759735107422
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 335.5569503794613
+  y: 44.0
+  z: -565.3000000119209
+  yaw: 65.653076171875
+  pitch: 21.55441665649414

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1617037064148
+  lastteleport: 1617038433750
+  logout: 1617038486330
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 145.30000001192093
+  y: 11.0
+  z: 139.91707181101035
+  yaw: -189.9669189453125
+  pitch: 17.099416732788086
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 992.545816185073
+  y: 64.0
+  z: 5779.272544517772
+  yaw: -132.88575744628906
+  pitch: 17.850189208984375
+  world-name: ''
+afk: false
+homes:
+  maison:
+    world: world
+    x: 993.122268609601
+    y: 64.0
+    z: 5777.508536562361
+    yaw: -69.1316146850586
+    pitch: 13.049772262573242
+    world-name: ''
+  trou:
+    world: Ressource
+    x: 145.59932476793387
+    y: 11.0
+    z: 17.675934410289425
+    yaw: -358.485595703125
+    pitch: 18.449552536010742
+    world-name: ''
+ip-address: 88.124.36.11
+last-account-name: JackyLaCracotte
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

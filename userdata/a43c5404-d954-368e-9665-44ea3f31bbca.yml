@@ -1,0 +1,47 @@
+timestamps:
+  login: 1478379965312
+  logout: 1478383728803
+  lastteleport: 1478025493940
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5790.332938020473
+  y: 69.0
+  z: -3888.300000011921
+  yaw: -99.91227722167969
+  pitch: -54.15000534057617
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5773.601689188
+  y: 49.0
+  z: -3868.4408690226164
+  yaw: 23.67822265625
+  pitch: 40.19997024536133
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 5791.507020139073
+    y: 60.0
+    z: -3873.874348925318
+    yaw: -4.362040042877197
+    pitch: 70.1999740600586
+    world-name: ''
+money: '0'
+ip-address: 84.6.53.208
+last-account-name: momodu32
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

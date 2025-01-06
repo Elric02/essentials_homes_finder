@@ -1,0 +1,47 @@
+timestamps:
+  login: 1485701941611
+  logout: 1485702077510
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 149.95846358607042
+    y: 63.0
+    z: 50.60231975037889
+    yaw: -199.6973876953125
+    pitch: -2.902590751647949
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -6501.023619221432
+  y: 64.0
+  z: 5873.027521027757
+  yaw: 251.10003662109375
+  pitch: 0.7499668002128601
+  world-name: ''
+ip-address: 62.241.92.188
+last-account-name: ZEDECC
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

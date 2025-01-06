@@ -1,0 +1,38 @@
+timestamps:
+  login: 1538315371789
+  lastteleport: 1538315530164
+  logout: 1538315768136
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -943.1300691216953
+  y: 74.0
+  z: -14.728713432399378
+  yaw: -12.150157928466797
+  pitch: 14.099980354309082
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 153.5824711176584
+  y: 63.0
+  z: -0.6929450307515329
+  yaw: -184.67079162597656
+  pitch: 2.878666639328003
+  world-name: ''
+ip-address: 90.120.134.177
+last-account-name: negi69
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

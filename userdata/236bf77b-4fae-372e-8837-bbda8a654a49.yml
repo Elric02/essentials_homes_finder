@@ -1,0 +1,47 @@
+timestamps:
+  login: 1515090005376
+  lastteleport: 1515090251672
+  logout: 1515090455091
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6303.255809379812
+  y: 11.0
+  z: 6103.45822891079
+  yaw: -271.64794921875
+  pitch: -1.2421607971191406E-4
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -5899.300000011921
+    y: 11.0
+    z: -5630.631464352332
+    yaw: -269.8501281738281
+    pitch: 6.299959182739258
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5898.816708837312
+  y: 11.0
+  z: -5625.825929169897
+  yaw: -186.29931640625
+  pitch: 24.749958038330078
+  world-name: ''
+ip-address: 2.12.82.140
+last-account-name: Twiiksy_Games
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

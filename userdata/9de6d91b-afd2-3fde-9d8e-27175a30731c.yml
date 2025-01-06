@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517708337173
+  lastteleport: 1517708465135
+  logout: 1517708500771
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.49465408641535
+  y: 64.5
+  z: 67.70964053759273
+  yaw: 184.2969970703125
+  pitch: 8.940635681152344
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 19.487672376399377
+  y: 89.5
+  z: -8.298435831850723
+  yaw: -160.2364501953125
+  pitch: 73.83312225341797
+  world-name: ''
+ip-address: 70.30.252.64
+last-account-name: rikiki
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

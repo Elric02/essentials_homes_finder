@@ -1,0 +1,55 @@
+timestamps:
+  login: 1479386887745
+  lastteleport: 1479387214157
+  logout: 1479387528623
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -6224.73489757493
+  y: 60.0
+  z: -6084.699999988079
+  yaw: 91.0633544921875
+  pitch: -0.25476717948913574
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -2560.1850074012627
+    y: 67.0
+    z: -2020.762499988079
+    yaw: 301.93560791015625
+    pitch: 90.0
+    world-name: ''
+  lol:
+    world: world
+    x: -6172.28293606714
+    y: 63.0
+    z: -6196.754286452567
+    yaw: -19.716156005859375
+    pitch: 19.343976974487305
+    world-name: ''
+money: '0'
+muted: false
+afk: false
+ip-address: 82.248.168.241
+last-account-name: CercleFusee33
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

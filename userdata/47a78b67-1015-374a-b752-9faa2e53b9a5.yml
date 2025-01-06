@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.196.181.253
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1634377306183
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1634377535593
+  login: 1634377201391
+money: '0'
+last-account-name: Konfuz_
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 152.9934512304567
+  y: 67.0
+  z: 77.7925272092717
+  yaw: 339.996337890625
+  pitch: 48.84067153930664
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1469.2669652425016
+  y: 66.0
+  z: -2079.1604717924242
+  yaw: -349.2685546875
+  pitch: 33.1361083984375

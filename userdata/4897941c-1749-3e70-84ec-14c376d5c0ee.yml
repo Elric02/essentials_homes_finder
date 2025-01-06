@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615834148552
+  lastteleport: 1614797503813
+  logout: 1615834179329
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -4353.665993912431
+  y: 71.0
+  z: 463.87191017606574
+  yaw: -235.22650146484375
+  pitch: 29.700105667114258
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1099.5911916607774
+  y: 68.0
+  z: 2042.0118289045845
+  yaw: 261.6300048828125
+  pitch: 32.70014190673828
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 82.142.28.239
+last-account-name: splash7640
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

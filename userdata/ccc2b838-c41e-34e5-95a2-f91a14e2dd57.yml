@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.214.54.27
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671303771661
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671303773643
+  login: 1671298638416
+money: '150.0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -330.550613523612
+  y: 203.0
+  z: -1816.7883512172953
+  yaw: 68.05792236328125
+  pitch: 14.250520706176758
+last-account-name: Maitre_Kinchu
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7156.538301964656
+    y: 69.0
+    z: 2976.5127780861517
+    yaw: -146.66278076171875
+    pitch: -85.05036926269531
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -7156.5
+  y: 67.0
+  z: 2976.5
+  yaw: -121.16292572021484
+  pitch: 13.649658203125

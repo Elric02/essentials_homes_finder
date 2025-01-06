@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.158.26.52
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643531300373
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643531346275
+  login: 1643530429104
+money: '0'
+last-account-name: ghost_of_namabie
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 4287.553609263685
+  y: 58.522074376560084
+  z: 3052.5396956149666
+  yaw: 290.0227355957031
+  pitch: 12.900224685668945
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 6246.5
+  y: 65.0
+  z: -3162.5
+  yaw: 6.356651782989502
+  pitch: 19.879865646362305
+homes:
+  mesa:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4192.763277303277
+    y: 64.0
+    z: -6061.939748391557
+    yaw: 3.341214179992676
+    pitch: 37.95819854736328
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6246.088014079907
+    y: 65.0
+    z: -3162.9483434324443
+    yaw: 6.356651782989502
+    pitch: 19.879865646362305

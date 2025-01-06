@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467386900471
+  logout: 1467386975392
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.99122172723855
+  y: 64.0
+  z: 26.426656883064876
+  yaw: -143.3969268798828
+  pitch: 26.8499813079834
+  world-name: ''
+ip-address: 88.174.68.117
+last-account-name: Stalin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

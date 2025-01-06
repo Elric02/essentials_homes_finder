@@ -1,0 +1,47 @@
+timestamps:
+  login: 1465126734311
+  lastteleport: 1465126868455
+  logout: 1465127052859
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 120.7249506933737
+  y: 63.0
+  z: 19.028290176946754
+  yaw: -104.8472900390625
+  pitch: 26.324186325073242
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -79.27036479457146
+  y: 68.0
+  z: -229.54218631957838
+  yaw: -180.59725952148438
+  pitch: 3.299994468688965
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: -88.213967443997
+    y: 68.0
+    z: -229.90599948296884
+    yaw: -115.19707489013672
+    pitch: 0.9741729497909546
+    world-name: ''
+ip-address: 86.70.52.27
+last-account-name: Fourmimaxime
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

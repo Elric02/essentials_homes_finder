@@ -1,0 +1,63 @@
+timestamps:
+  login: 1592141433917
+  lastteleport: 1592079347229
+  logout: 1592142342485
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -177.62081909179688
+  pitch: 24.0286865234375
+  world-name: ''
+money: '0'
+homes:
+  pied:
+    world: world
+    x: -3054.36465081181
+    y: 64.0
+    z: -5126.067918880613
+    yaw: 345.76416015625
+    pitch: 32.2498893737793
+    world-name: ''
+  pid_mi:
+    world: world
+    x: -3072.2452826555877
+    y: 64.0
+    z: -5125.626817321966
+    yaw: 144.61572265625
+    pitch: 15.299884796142578
+    world-name: ''
+  ilederserte:
+    world: world
+    x: -2923.7624419833987
+    y: 67.0
+    z: -5191.710054730541
+    yaw: -108.691650390625
+    pitch: 38.399654388427734
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -2925.63906565492
+  y: 68.0
+  z: -5195.919982618607
+  yaw: -273.0467529296875
+  pitch: 18.450002670288086
+  world-name: ''
+jailed: false
+ip-address: 83.114.200.56
+last-account-name: sucreblanc
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

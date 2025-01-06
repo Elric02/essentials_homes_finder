@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609508242376
+  logout: 1609508365458
+  lastteleport: 1609508274664
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 196.7695113465519
+  y: 64.0
+  z: -56.94017573172842
+  yaw: 143.01890563964844
+  pitch: 11.923891067504883
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.05000001192093
+  y: 63.0
+  z: 39.1807047534589
+  yaw: -15.2420654296875
+  pitch: 11.075728416442871
+  world-name: ''
+ip-address: 176.139.190.38
+last-account-name: OxiGirl
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

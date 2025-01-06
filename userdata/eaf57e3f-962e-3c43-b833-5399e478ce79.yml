@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609419142041
+  lastteleport: 1609419777516
+  logout: 1609420375378
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.59278426081016
+  y: 63.0
+  z: 38.295857167344124
+  yaw: -39.245361328125
+  pitch: 9.725920677185059
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3274.591566041444
+  y: 64.0
+  z: -447.4659134631689
+  yaw: -29.39703369140625
+  pitch: 7.799943923950195
+  world-name: ''
+ip-address: 178.197.249.40
+last-account-name: Alia06
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

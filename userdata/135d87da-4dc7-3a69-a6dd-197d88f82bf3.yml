@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.225.93.87
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1666551714652
+  login: 1666551678194
+money: '0'
+last-account-name: lilDBgang
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 158.69999998807907
+  y: 65.0
+  z: 101.00810162311272
+  yaw: 109.29698181152344
+  pitch: 11.190650939941406
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 158.69999998807907
+  y: 65.0
+  z: 101.00810162311272
+  yaw: 179.49696350097656
+  pitch: 6.840651988983154

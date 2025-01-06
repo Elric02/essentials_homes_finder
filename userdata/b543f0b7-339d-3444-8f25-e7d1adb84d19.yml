@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.252.235.30
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681673148984
+  login: 1681673093934
+money: '0'
+last-account-name: Satoshi93
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 155.5
+  y: 126.0
+  z: 18.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 408.2650081657774
+  y: 81.0
+  z: -3144.3421510214084
+  yaw: -140.98057556152344
+  pitch: 18.293209075927734

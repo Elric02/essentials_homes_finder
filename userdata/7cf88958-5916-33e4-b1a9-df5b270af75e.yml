@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617300258579
+  lastteleport: 1617300422545
+  logout: 1617300561667
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3.438102507083962
+  y: 70.0
+  z: 1721.4819279931628
+  yaw: -49.502418518066406
+  pitch: 57.236289978027344
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 190.69477609653487
+  y: 63.0
+  z: 16.04764233283107
+  yaw: -326.166748046875
+  pitch: 5.510325908660889
+  world-name: ''
+ip-address: 91.160.177.158
+last-account-name: Onli31
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

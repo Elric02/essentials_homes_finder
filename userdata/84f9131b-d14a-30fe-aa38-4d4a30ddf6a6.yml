@@ -1,0 +1,47 @@
+timestamps:
+  login: 1516046701771
+  lastteleport: 1516050374781
+  logout: 1516050648983
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 96.23644534281159
+  y: 63.0
+  z: -44.753692049360616
+  yaw: -322.1939697265625
+  pitch: 2.021193540713284E-5
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 26.013377599752175
+  y: 63.0
+  z: -266.11085745597046
+  yaw: -34.03009033203125
+  pitch: -6.750046253204346
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -68.11709234021454
+    y: 67.0
+    z: -362.63372611953923
+    yaw: 126.31815338134766
+    pitch: 21.299928665161133
+    world-name: ''
+ip-address: 109.211.166.83
+last-account-name: luciedu85
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

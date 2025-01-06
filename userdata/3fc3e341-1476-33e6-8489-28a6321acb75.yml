@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.65.126.177
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1684577324355
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684582422851
+  login: 1684581033548
+money: '0'
+last-account-name: fumikagez
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -150.76841288542403
+  y: 33.0
+  z: 418.433082945452
+  yaw: 66.68609619140625
+  pitch: 31.01449966430664
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -161.69999998807907
+  y: 33.0
+  z: 498.8358416231627
+  yaw: -109.94039916992188
+  pitch: -15.49981689453125

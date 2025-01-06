@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615292765561
+  logout: 1615293178019
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -342.53908696069436
+  y: 67.0
+  z: -214.63800864437826
+  yaw: -99.9661865234375
+  pitch: 16.064498901367188
+  world-name: ''
+ip-address: 90.5.114.7
+last-account-name: I_AM_MATRIX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

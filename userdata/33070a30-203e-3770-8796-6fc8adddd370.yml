@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466856677719
+  lastteleport: 1466856719828
+  logout: 1466856737725
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.52784604858607
+  y: 64.0
+  z: 16.914169526630364
+  yaw: -178.647216796875
+  pitch: -11.475815773010254
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.2977627206604
+  y: 64.0
+  z: 19.342852779797514
+  yaw: 251.85276794433594
+  pitch: -5.6258158683776855
+  world-name: ''
+ip-address: 109.223.234.45
+last-account-name: kinou20025
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

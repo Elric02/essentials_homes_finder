@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474211990866
+  lastteleport: 1474211695770
+  logout: 1474212180283
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: -3.387684817159271
+  y: 67.0625
+  z: -4.162006217320665
+  yaw: -75.67536926269531
+  pitch: 4.337978839874268
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.31017234485498
+  y: 63.0
+  z: 45.26720963443176
+  yaw: -164.16119384765625
+  pitch: -7.9254889488220215
+  world-name: ''
+ip-address: 176.154.243.166
+last-account-name: LuRo28
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499093914191
+  lastteleport: 1499094790768
+  logout: 1499094801966
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1887.7379894195133
+  y: 70.0
+  z: -1807.5591589017852
+  yaw: -118.03436279296875
+  pitch: 14.764653205871582
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 168.5504758679687
+  y: 63.0
+  z: 19.747420745792194
+  yaw: -90.35163879394531
+  pitch: 6.250725746154785
+  world-name: ''
+ip-address: 93.15.94.173
+last-account-name: HereVFX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

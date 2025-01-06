@@ -1,0 +1,38 @@
+timestamps:
+  login: 1503087489330
+  lastteleport: 1503088420926
+  logout: 1503088455529
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.963360401804
+  y: 66.0
+  z: 19.2653560027783
+  yaw: 263.63037109375
+  pitch: -24.911497116088867
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -192.26100158691406
+  pitch: -31.471920013427734
+  world-name: ''
+ip-address: 84.5.117.170
+last-account-name: roo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

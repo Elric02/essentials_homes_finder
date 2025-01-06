@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467406518507
+  lastteleport: 1467406707100
+  logout: 1467407011834
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 185.3991518437803
+  y: 125.25
+  z: -118.13443584413238
+  yaw: 354.5570068359375
+  pitch: 79.0355453491211
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 122.81247549638782
+  y: 46.0
+  z: 64.01406185763642
+  yaw: 188.69464111328125
+  pitch: 35.28569793701172
+  world-name: ''
+ip-address: 91.88.150.28
+last-account-name: clemet50
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514031603561
+  lastteleport: 1514031348586
+  logout: 1514031628257
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1420.804591077519
+  y: 80.0
+  z: -3787.6691185043155
+  yaw: -103.04984283447266
+  pitch: 26.100004196166992
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -977.0
+  y: 80.0
+  z: -2425.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+ip-address: 86.220.131.121
+last-account-name: toire
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

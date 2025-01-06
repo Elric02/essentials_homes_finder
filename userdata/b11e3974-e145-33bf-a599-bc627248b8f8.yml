@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485605848794
+  lastteleport: 1485605929761
+  logout: 1485606848686
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: 84.10261535644531
+  pitch: 1.747401475906372
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1192.9014182572791
+  y: 65.0
+  z: -3376.699999988079
+  yaw: -202.64967346191406
+  pitch: 2.549999237060547
+  world-name: ''
+ip-address: 2.0.38.37
+last-account-name: titott
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

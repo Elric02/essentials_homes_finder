@@ -1,0 +1,55 @@
+timestamps:
+  login: 1566639220622
+  lastteleport: 1566639293533
+  logout: 1566639336787
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 172.48414680347207
+  y: 63.0
+  z: 19.416801342937067
+  yaw: 79.17324829101562
+  pitch: 25.006900787353516
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 157.47937323350052
+  y: 63.0
+  z: 41.093525910076714
+  yaw: -118.85195922851562
+  pitch: -25.482980728149414
+  world-name: ''
+homes:
+  basse:
+    world: Ressource
+    x: 353.9253849608205
+    y: 70.0
+    z: -675.2281413251895
+    yaw: 189.28948974609375
+    pitch: 17.026317596435547
+    world-name: ''
+  spawn:
+    world: world
+    x: 156.63737079139182
+    y: 63.0
+    z: 39.843205391447086
+    yaw: -190.5074462890625
+    pitch: 21.062379837036133
+    world-name: ''
+ip-address: 90.45.249.83
+last-account-name: valentim
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

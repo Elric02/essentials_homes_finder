@@ -1,0 +1,63 @@
+timestamps:
+  login: 1615058270964
+  lastteleport: 1607114160829
+  logout: 1615058336056
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 669.3265964434974
+  y: 73.0
+  z: -3646.4147576752393
+  yaw: -8.878662109375
+  pitch: 19.199935913085938
+  world-name: ''
+money: '0'
+homes:
+  petrus:
+    world: world
+    x: -581.740353860439
+    y: 65.0
+    z: -714.2028857770727
+    yaw: 37.803070068359375
+    pitch: 47.099952697753906
+    world-name: ''
+  ville:
+    world: world
+    x: 669.9837230126976
+    y: 74.0
+    z: -3661.5864337627636
+    yaw: 358.46844482421875
+    pitch: 78.89979553222656
+    world-name: ''
+  farm:
+    world: world
+    x: -2421.699999988079
+    y: 76.0
+    z: 5782.871237723615
+    yaw: -269.40338134765625
+    pitch: 47.549964904785156
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 84.55478253699778
+  y: 63.0
+  z: 15.72454716312016
+  yaw: 83.83033752441406
+  pitch: 60.92885208129883
+  world-name: ''
+afk: false
+ip-address: 86.242.190.33
+last-account-name: zertpek154
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

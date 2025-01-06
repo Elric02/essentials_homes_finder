@@ -1,0 +1,38 @@
+timestamps:
+  login: 1494160736479
+  lastteleport: 1494160374728
+  logout: 1494160736575
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.33256541695965
+  y: 63.0
+  z: 40.97618658780993
+  yaw: -353.1473693847656
+  pitch: 0.09739969670772552
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 231.86837480422034
+  y: 63.0
+  z: -28.02205948287638
+  yaw: -141.81161499023438
+  pitch: 25.07451057434082
+  world-name: ''
+ip-address: 82.246.121.199
+last-account-name: _DarkleeK_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

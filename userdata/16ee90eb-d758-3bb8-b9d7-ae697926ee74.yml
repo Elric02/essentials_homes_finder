@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514654259242
+  logout: 1514654713621
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 142.5322590825751
+  y: 63.0
+  z: 2.779628041984406
+  yaw: 80.19679260253906
+  pitch: 12.300000190734863
+  world-name: ''
+ip-address: 86.242.73.38
+last-account-name: Flasheur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

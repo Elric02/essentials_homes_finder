@@ -1,0 +1,38 @@
+timestamps:
+  login: 1670541772782
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670541794090
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 155.10624998807907
+  y: 76.625
+  z: 20.207646979942155
+  yaw: 158.5897216796875
+  pitch: 66.64497375488281
+  world-name: world
+afk: false
+ip-address: 212.35.6.35
+last-account-name: Station47
+npc: false
+money: '0'
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 155.10624998807907
+  y: 76.625
+  z: 20.207646979942155
+  yaw: -12.965179443359375
+  pitch: 26.273889541625977

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471512429757
+  logout: 1471512592180
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 214.36180667746035
+  y: 62.07326432466507
+  z: 298.33085289170174
+  yaw: 231.61962890625
+  pitch: 29.17438316345215
+  world-name: ''
+ip-address: 82.250.60.139
+last-account-name: vincenttomas33
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

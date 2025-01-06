@@ -1,0 +1,47 @@
+timestamps:
+  login: 1593456776155
+  lastteleport: 1593457165271
+  logout: 1593457282743
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: -0.8507632995159714
+  y: 37.0
+  z: -4.1806506502665055
+  yaw: 5.46087646484375
+  pitch: 20.919292449951172
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -5229.407389218984
+    y: 66.0
+    z: -2079.3005174505925
+    yaw: 266.8500061035156
+    pitch: 34.650020599365234
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -5229.407389218984
+  y: 66.0
+  z: -2079.3005174505925
+  yaw: 266.8500061035156
+  pitch: 34.650020599365234
+  world-name: ''
+ip-address: 86.244.27.93
+last-account-name: kyukai
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

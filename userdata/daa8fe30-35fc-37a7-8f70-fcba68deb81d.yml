@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614615002476
+  lastteleport: 1614615557089
+  logout: 1614615658640
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.70977447083848
+  y: 63.0
+  z: 41.28304741520005
+  yaw: -105.98934936523438
+  pitch: 16.92585563659668
+  world-name: ''
+logoutlocation:
+  world: Nether
+  x: 8.825865641819629
+  y: 73.0
+  z: -9.760239588372944
+  yaw: 83.466552734375
+  pitch: 21.60001564025879
+  world-name: ''
+ip-address: 2.15.174.3
+last-account-name: AbYSs
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

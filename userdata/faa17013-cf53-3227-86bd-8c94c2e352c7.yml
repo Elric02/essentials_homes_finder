@@ -1,0 +1,55 @@
+timestamps:
+  login: 1598972189272
+  lastteleport: 1598971699591
+  logout: 1598972934220
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5667.735586376975
+  y: 84.0
+  z: -2583.522211401573
+  yaw: -284.39508056640625
+  pitch: 15.982653617858887
+  world-name: ''
+homes:
+  mama91:
+    world: world
+    x: 5629.6710605577655
+    y: 74.0
+    z: -2586.5441805156197
+    yaw: 77.85629272460938
+    pitch: 27.261308670043945
+    world-name: ''
+  b:
+    world: world
+    x: 2130.229576895554
+    y: 63.0
+    z: 3680.8786341648533
+    yaw: -200.969482421875
+    pitch: 20.93241310119629
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 2142.5603050632085
+  y: 63.0
+  z: 3663.7645707773822
+  yaw: -221.3267822265625
+  pitch: 25.702930450439453
+  world-name: ''
+afk: false
+ip-address: 91.160.40.12
+last-account-name: OscarEXE
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

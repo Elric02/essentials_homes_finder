@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.1.239.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1678033135852
+  login: 1678032893949
+money: '0'
+last-account-name: LeTimAttack
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 419.25873088899607
+  y: 80.0
+  z: -3229.8862989888057
+  yaw: -164.88525390625
+  pitch: 24.150171279907227
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 323.4485060303447
+  y: -853.1746370856496
+  z: -3218.735735344627
+  yaw: -5.583467960357666
+  pitch: 76.19985961914062

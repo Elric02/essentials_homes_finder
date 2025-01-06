@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617180010892
+  lastteleport: 1617180167978
+  logout: 1617180292462
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -42.91992828365196
+  y: 64.0
+  z: -40.86326139454062
+  yaw: 146.8489227294922
+  pitch: 16.98630142211914
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 192.01249998807904
+  y: 65.0
+  z: -45.584532535190704
+  yaw: -44.19225311279297
+  pitch: 14.37588119506836
+  world-name: ''
+ip-address: 109.13.83.200
+last-account-name: gaetan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

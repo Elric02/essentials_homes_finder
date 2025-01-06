@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.195.99.106
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720026636607
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720026919799
+  login: 1720026863665
+money: '0'
+last-account-name: _Z41
+lastlocation:
+  world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+  world-name: Ressource
+  x: -0.9974101868531121
+  y: 90.0
+  z: 0.13444340187417064
+  yaw: 88.49681091308594
+  pitch: 30.18575668334961
+logoutlocation:
+  world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+  world-name: Ressource
+  x: -0.9974101868531121
+  y: 90.0
+  z: 0.13444340187417064
+  yaw: -7.352980136871338
+  pitch: 22.385772705078125

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614001796684
+  logout: 1614002250882
+  lastteleport: 1614002112317
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.75238563070792
+  y: 63.0
+  z: 41.38699840549371
+  yaw: -141.05027770996094
+  pitch: 11.217214584350586
+  world-name: ''
+logoutlocation:
+  world: Nether
+  x: 94.67867514033604
+  y: 58.0
+  z: -16.563308416796513
+  yaw: 32.385528564453125
+  pitch: 19.902833938598633
+  world-name: ''
+ip-address: 91.169.208.240
+last-account-name: Treyz13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

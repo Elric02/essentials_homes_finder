@@ -1,0 +1,63 @@
+timestamps:
+  login: 1519491153368
+  lastteleport: 1519491582207
+  logout: 1519491842543
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2058.6490835365776
+  y: 92.0
+  z: -1089.118847039239
+  yaw: 260.8099365234375
+  pitch: -11.284172058105469
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -2127.640640290905
+    y: 91.0
+    z: -1186.9128038894105
+    yaw: -295.6220703125
+    pitch: 9.441837310791016
+    world-name: ''
+  ri:
+    world: world_nether
+    x: -130.91337052477687
+    y: 45.0
+    z: -56.87273113600631
+    yaw: -192.2705535888672
+    pitch: 23.828956604003906
+    world-name: ''
+  sabke:
+    world: world
+    x: 2746.864663660108
+    y: 69.0
+    z: -5982.640052048078
+    yaw: 30.7471923828125
+    pitch: 22.784523010253906
+    world-name: ''
+logoutlocation:
+  world: world_nether
+  x: -127.33760027250543
+  y: 56.0
+  z: -84.34456684059862
+  yaw: 275.6229248046875
+  pitch: 3.5637707710266113
+  world-name: ''
+afk: false
+ip-address: 77.149.216.140
+last-account-name: bipixell
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

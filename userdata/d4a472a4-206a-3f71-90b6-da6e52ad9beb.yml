@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.213.155.143
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1729517473613
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731914575358
+  login: 1731914575296
+money: '0'
+last-account-name: CroutonBGBN13
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -14.050044268772583
+  y: 94.1127362970763
+  z: 311.98906022115267
+  yaw: -73.05015563964844
+  pitch: 48.900020599365234
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -11.33391800214506
+  y: 97.44626182732347
+  z: -433.61683446391754
+  yaw: 115.34747314453125
+  pitch: 19.350162506103516

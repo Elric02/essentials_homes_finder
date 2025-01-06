@@ -1,0 +1,64 @@
+timestamps:
+  login: 1469900551783
+  lastteleport: 1469905716323
+  logout: 1469905827247
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5895.336276866286
+  y: 60.0
+  z: 5243.71429850019
+  yaw: -86.9410171508789
+  pitch: 14.826709747314453
+  world-name: ''
+homes:
+  b:
+    world: world
+    x: 71.69999998807907
+    y: 66.0
+    z: -4562.636421092864
+    yaw: 15.241434097290039
+    pitch: 4.649930477142334
+    world-name: ''
+  pillage:
+    world: world
+    x: -504.76249998807907
+    y: 64.0
+    z: -40.69999998807908
+    yaw: 244.7291259765625
+    pitch: 17.399993896484375
+    world-name: ''
+  house:
+    world: world
+    x: -5901.575686284338
+    y: 60.0
+    z: 5248.58963591836
+    yaw: 251.6092529296875
+    pitch: 18.000001907348633
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 197.86250001192093
+  y: 74.0
+  z: 17.86250001192093
+  yaw: 192.9258270263672
+  pitch: 22.533710479736328
+  world-name: ''
+afk: false
+muted: true
+jailed: true
+jail: cage
+ip-address: 77.149.14.2
+last-account-name: Ralph754
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

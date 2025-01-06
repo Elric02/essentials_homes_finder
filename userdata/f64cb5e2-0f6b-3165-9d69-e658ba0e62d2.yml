@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.30.248.246
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1689465544749
+  login: 1689465506468
+money: '0'
+last-account-name: VIP53
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9825441803249
+  y: 81.0
+  z: -3111.2851143339017
+  yaw: -98.39703369140625
+  pitch: 18.45010757446289
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9825441803249
+  y: 81.0
+  z: -3111.2851143339017
+  yaw: -64.64701080322266
+  pitch: 25.05011558532715

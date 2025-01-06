@@ -1,0 +1,38 @@
+timestamps:
+  login: 1556395731667
+  lastteleport: 1556396648790
+  logout: 1556396705403
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.28474227928416
+  y: 63.0
+  z: 39.37600503297998
+  yaw: -75.44940185546875
+  pitch: 14.250018119812012
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 145.30000001192093
+  y: 63.0
+  z: -15.050000011920933
+  yaw: 10.329087257385254
+  pitch: 18.32866859436035
+  world-name: ''
+ip-address: 189.134.54.6
+last-account-name: fious
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,87 @@
+timestamps:
+  login: 1518667469428
+  lastteleport: 1518672119384
+  logout: 1518672656291
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4389.146562700531
+  y: 88.0
+  z: -6668.2593736024
+  yaw: -88.51443481445312
+  pitch: 2.250194549560547
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4322.896333558029
+  y: 96.0
+  z: -6655.1091253496115
+  yaw: 288.4295654296875
+  pitch: 27.44989585876465
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -4288.689680902649
+    y: 88.0
+    z: -6658.283420039955
+    yaw: -105.77117919921875
+    pitch: 15.899977684020996
+    world-name: ''
+  pont:
+    world: world
+    x: -4151.942379879921
+    y: 102.0
+    z: -6661.910786364414
+    yaw: -88.97113800048828
+    pitch: 11.24998950958252
+    world-name: ''
+  minage2:
+    world: Ressource
+    x: -235.81804813826946
+    y: 17.0
+    z: 147.76511493008059
+    yaw: -83.7655029296875
+    pitch: 16.5006046295166
+    world-name: ''
+  trone:
+    world: world
+    x: -4398.035292174278
+    y: 88.0
+    z: -6667.706606766212
+    yaw: -140.41912841796875
+    pitch: 16.049978256225586
+    world-name: ''
+  cheveaux:
+    world: world
+    x: 147.00141370225472
+    y: 68.8500000178814
+    z: -1903.9806591111114
+    yaw: 130.87628173828125
+    pitch: 21.44997787475586
+    world-name: ''
+  lama:
+    world: Ressource
+    x: -2332.787478364896
+    y: 84.90290000319482
+    z: 768.342682059879
+    yaw: 249.3474884033203
+    pitch: 16.023780822753906
+    world-name: ''
+afk: false
+ip-address: 80.214.144.18
+last-account-name: regastrid
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

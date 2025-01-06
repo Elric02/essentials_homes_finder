@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487858004218
+  lastteleport: 1487860158383
+  logout: 1487860197820
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51478548617735
+  y: 65.02442408821369
+  z: 11.902136501252937
+  yaw: -180.36936950683594
+  pitch: 6.624515056610107
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1664.4217032240042
+  y: 85.0
+  z: -3760.699999988079
+  yaw: -0.8578135371208191
+  pitch: 66.6619873046875
+  world-name: ''
+ip-address: 92.141.52.220
+last-account-name: FayFey
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

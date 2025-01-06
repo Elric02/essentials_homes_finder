@@ -1,0 +1,63 @@
+timestamps:
+  login: 1530460333233
+  lastteleport: 1530460913469
+  logout: 1530461087307
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 3319.300000011921
+  y: 65.0
+  z: 17248.507509443712
+  yaw: 178.66543579101562
+  pitch: 6.481918811798096
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 4815.821340731029
+    y: 63.0
+    z: 6647.151895598604
+    yaw: 257.4842529296875
+    pitch: 3.77769136428833
+    world-name: ''
+  mama:
+    world: world
+    x: 4936.905614888083
+    y: 63.0
+    z: 116.7929856938666
+    yaw: -243.971435546875
+    pitch: 22.891029357910156
+    world-name: ''
+  base:
+    world: world
+    x: -4810.528528958353
+    y: 108.0
+    z: 1605.5215142409018
+    yaw: -178.25587463378906
+    pitch: 10.158114433288574
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4810.275633101013
+  y: 119.0
+  z: 1611.151928430552
+  yaw: -353.0380859375
+  pitch: 70.45780181884766
+  world-name: ''
+afk: false
+ip-address: 91.160.40.12
+last-account-name: SkyLucas1708
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518267989342
+  lastteleport: 1499879664100
+  logout: 1518268084893
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 159.16372475579675
+  y: 64.0
+  z: 21.544090542408654
+  yaw: -164.6590576171875
+  pitch: 8.038976669311523
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 4486.383014343253
+  y: 77.0
+  z: 5121.254057103145
+  yaw: 310.7221984863281
+  pitch: 7.2860822677612305
+  world-name: ''
+money: '0'
+ip-address: 88.174.71.74
+last-account-name: Godivas
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

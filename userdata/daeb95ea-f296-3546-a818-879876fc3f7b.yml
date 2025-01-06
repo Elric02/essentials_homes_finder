@@ -1,0 +1,47 @@
+timestamps:
+  login: 1476012791309
+  lastteleport: 1476014796945
+  mute: 0
+  logout: 1476016205044
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: -426.07499998807907
+  y: 71.0
+  z: 1175.074999988079
+  yaw: -332.02703857421875
+  pitch: 17.550006866455078
+  world-name: ''
+homes:
+  village:
+    world: Ressources
+    x: -442.0197152422688
+    y: 67.0
+    z: 1223.8952531155562
+    yaw: -73.12757110595703
+    pitch: 10.049936294555664
+    world-name: ''
+muted: false
+logoutlocation:
+  world: world
+  x: -206.65881382505364
+  y: 64.0
+  z: 88.14700484665659
+  yaw: -175.25982666015625
+  pitch: 3.299975633621216
+  world-name: ''
+ip-address: 86.215.60.243
+last-account-name: Madagamer127
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

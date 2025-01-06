@@ -1,0 +1,83 @@
+timestamps:
+  login: 1594122696479
+  logout: 1594122915677
+  lastteleport: 1594122745216
+  jail: 0
+  kits:
+    color: 1566857260119
+    vip: 1567105713466
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.18337475666584
+  y: 63.0
+  z: 35.18152274172536
+  yaw: 221.23025512695312
+  pitch: 22.22866439819336
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -7215.190500590238
+  y: 64.0
+  z: 473.9814754876192
+  yaw: 0.7024589776992798
+  pitch: -5.150654315948486
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  coco2:
+    world: world
+    x: -7166.067891037647
+    y: 64.0
+    z: 487.4103895748659
+    yaw: 10.599153518676758
+    pitch: 35.84999465942383
+    world-name: ''
+  inte:
+    world: world
+    x: -7239.145605827378
+    y: 63.0
+    z: -5507.522145954925
+    yaw: 178.28411865234375
+    pitch: -4.200009822845459
+    world-name: ''
+  jungle:
+    world: world
+    x: 3534.699999988079
+    y: 72.0
+    z: -4125.300000011921
+    yaw: -307.8001708984375
+    pitch: 3.4500174522399902
+    world-name: ''
+  roid_eau:
+    world: world
+    x: 52.65691720271163
+    y: 64.0
+    z: 100.53628987011325
+    yaw: -178.2205810546875
+    pitch: 17.278675079345703
+    world-name: ''
+  died:
+    world: world
+    x: 169.3315985064216
+    y: 150.0
+    z: -116.37443952792299
+    yaw: 1.780029296875
+    pitch: 71.57864379882812
+    world-name: ''
+jailed: false
+nickname: §2Mr_Helper
+ip-address: 90.93.189.192
+last-account-name: coco911911
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

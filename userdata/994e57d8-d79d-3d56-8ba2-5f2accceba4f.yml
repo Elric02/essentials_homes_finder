@@ -1,0 +1,99 @@
+timestamps:
+  login: 1728254884565
+  lastteleport: 1724942680850
+  logout: 1728254884736
+  kits:
+    color: 1642707694361
+    vip: 1642707425155
+  jail: 0
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  x: 156.55095937148178
+  y: 83.0
+  z: -101.8491978887653
+  yaw: 0.600494384765625
+  pitch: 46.95000457763672
+  world-name: pvp
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: 3448.3214974534253
+  y: 65.0
+  z: -70.24809368009151
+  yaw: -72.29949951171875
+  pitch: 39.44984817504883
+  world-name: Althium
+money: '100.0'
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -136.9299841764601
+    y: 74.0
+    z: -110.48915962795355
+    yaw: 273.8368225097656
+    pitch: 22.48734474182129
+    world-name: world
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6134.704567199661
+    y: 68.0
+    z: 158.04218969487118
+    yaw: 75.70947265625
+    pitch: 25.518102645874023
+    world-name: world
+  messa:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    x: 3935.820703731283
+    y: 74.0
+    z: -305.4505524970434
+    yaw: 20.777101516723633
+    pitch: 20.174543380737305
+    world-name: Ressource
+  ez:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5903.562983554042
+    y: 66.0
+    z: -4187.895408661555
+    yaw: 242.11279296875
+    pitch: 59.1296272277832
+    world-name: world
+  m2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4777.775397371901
+    y: 87.0
+    z: -4595.122404255654
+    yaw: -44.86053466796875
+    pitch: 37.05765151977539
+    world-name: world
+  nether:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -201.9828806943463
+    y: 49.0
+    z: -107.361392558308
+    yaw: 36.43381881713867
+    pitch: 14.222057342529297
+    world-name: world
+  oedt:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    x: -902.2275144345002
+    y: 64.0
+    z: 5994.6769169584795
+    yaw: 207.57965087890625
+    pitch: 3.422083616256714
+    world-name: Ressource
+afk: false
+nickname: §6RoiZ
+jailed: false
+muted: false
+ip-address: 146.70.189.149
+last-account-name: RoiZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

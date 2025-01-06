@@ -1,0 +1,38 @@
+timestamps:
+  login: 1626968845780
+  logout: 1626969086973
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.28594720780808
+  y: 65.0
+  z: 71.78954911812015
+  yaw: 185.1973114013672
+  pitch: 7.740655899047852
+  world-name: ''
+ip-address: 90.120.103.132
+last-account-name: BaYTricK
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

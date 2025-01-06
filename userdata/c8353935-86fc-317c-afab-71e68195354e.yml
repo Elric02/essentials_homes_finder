@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476469853509
+  lastteleport: 1476116025940
+  logout: 1476469889310
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 706.3000000119209
+  y: 30.0
+  z: -1187.645263252391
+  yaw: 149.78955078125
+  pitch: 15.150028228759766
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 683.2860998299794
+  y: 78.0
+  z: -850.5457212380426
+  yaw: -325.5596923828125
+  pitch: 21.600004196166992
+  world-name: ''
+ip-address: 109.220.4.36
+last-account-name: Lovers
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

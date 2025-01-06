@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.48.52.173
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1679836228378
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1679836556182
+  login: 1679834575878
+money: '150.0'
+last-account-name: Inoxy67
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -360.2262755755671
+  y: 60.0
+  z: 215.15040455777208
+  yaw: 104.7578125
+  pitch: 14.399226188659668
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 354.1907510038414
+  y: 33.0
+  z: 55.52629597918896
+  yaw: 125.5467529296875
+  pitch: 12.75

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.169.72.51
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1691162828405
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1691162891083
+  login: 1691162723028
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.7369178587838
+  y: 81.0
+  z: -3109.8993991878942
+  yaw: -106.79811096191406
+  pitch: 21.899948120117188
+last-account-name: Elie23000
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -433.25789772852295
+  y: 70.01250054107075
+  z: -234.9060827619952
+  yaw: -176.79026794433594
+  pitch: 30.149093627929688

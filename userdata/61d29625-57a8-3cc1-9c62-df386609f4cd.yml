@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478470742015
+  lastteleport: 1478471020840
+  logout: 1478471131272
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 169.5362030192181
+  y: 63.0
+  z: 19.809754186614892
+  yaw: 274.3623962402344
+  pitch: 3.413048505783081
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 171.24795422766323
+  y: 63.0
+  z: -20.164238958075003
+  yaw: -7.788430690765381
+  pitch: 12.12989616394043
+  world-name: ''
+ip-address: 89.170.112.249
+last-account-name: Birdyy10
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

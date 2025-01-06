@@ -1,0 +1,38 @@
+timestamps:
+  login: 1515696286747
+  lastteleport: 1515696339044
+  mute: 0
+  logout: 1515696533957
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.36137195346777
+  y: 63.0
+  z: 55.240950666063256
+  yaw: -4.054412841796875
+  pitch: 17.52107048034668
+  world-name: ''
+money: '0'
+afk: false
+muted: true
+logoutlocation:
+  world: world
+  x: -244.49285517234824
+  y: 63.0
+  z: 409.30000001192093
+  yaw: -196.86082458496094
+  pitch: 33.70928192138672
+  world-name: ''
+ip-address: 80.15.105.16
+last-account-name: CapitaineMatteo
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1559326413486
+  lastteleport: 1559294741011
+  logout: 1559326481027
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4383.246857324089
+  y: 81.0
+  z: -2353.300000011921
+  yaw: 292.2002868652344
+  pitch: -9.899992942810059
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.993989748369
+  y: 64.0
+  z: 15.77123907546088
+  yaw: 177.72918701171875
+  pitch: 6.928670883178711
+  world-name: ''
+money: '0'
+ip-address: 88.166.76.158
+last-account-name: yoyo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

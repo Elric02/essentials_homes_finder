@@ -1,0 +1,55 @@
+timestamps:
+  login: 1517010969059
+  lastteleport: 1516671850285
+  logout: 1517011084494
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -127.22084045410156
+  pitch: -2.521331310272217
+  world-name: ''
+money: '0'
+homes:
+  toine:
+    world: world
+    x: 1934.4697926106387
+    y: 77.0
+    z: -3524.213912696799
+    yaw: 218.69921875
+    pitch: -13.50007438659668
+    world-name: ''
+  marcoux:
+    world: world
+    x: 1914.6854297939979
+    y: 63.0
+    z: -3513.722231583128
+    yaw: 242.69775390625
+    pitch: 10.799993515014648
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1926.4224094921174
+  y: 77.5
+  z: -3528.822154029882
+  yaw: -14.70075798034668
+  pitch: 11.699981689453125
+  world-name: ''
+afk: false
+ip-address: 76.67.142.41
+last-account-name: toine47
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

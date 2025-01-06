@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586717086758
+  logout: 1586718544471
+  lastteleport: 1586717322572
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 226.4216198189685
+  y: 63.0
+  z: 61.20285347774919
+  yaw: 71.64729309082031
+  pitch: 6.690144062042236
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3621.184654043358
+  y: 71.0
+  z: 3323.309769867126
+  yaw: 338.211181640625
+  pitch: 2.700137138366699
+  world-name: ''
+money: '0'
+ip-address: 82.166.168.241
+last-account-name: SALBUTRIM
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

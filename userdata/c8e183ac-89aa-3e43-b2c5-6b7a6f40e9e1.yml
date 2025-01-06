@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514040421462
+  lastteleport: 1509791168783
+  logout: 1514040456749
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.42960232409268
+  y: 63.0
+  z: 48.56657498713727
+  yaw: -273.7973937988281
+  pitch: 4.4474005699157715
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 61.27575831774034
+  y: 75.0
+  z: 62.000077226976565
+  yaw: -5.870758056640625
+  pitch: 11.728689193725586
+  world-name: ''
+ip-address: 78.235.76.50
+last-account-name: Phamtome
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

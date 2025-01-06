@@ -1,0 +1,38 @@
+timestamps:
+  login: 1626214003730
+  logout: 1626214430704
+  lastteleport: 1626214019508
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 165.84764925875393
+  y: 64.0
+  z: -22.621718373861704
+  yaw: -108.0573959350586
+  pitch: 24.690637588500977
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -477.30050004445116
+  y: 62.0
+  z: 338.69999998807907
+  yaw: 120.8851318359375
+  pitch: 25.490821838378906
+  world-name: ''
+afk: false
+money: '0'
+ip-address: 93.23.16.152
+last-account-name: Wati_Crystal59
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

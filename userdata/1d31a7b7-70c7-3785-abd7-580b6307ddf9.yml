@@ -1,0 +1,39 @@
+timestamps:
+  login: 1564244013645
+  lastteleport: 1564240580446
+  logout: 1564245592097
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 66.4951078164136
+  y: 70.5
+  z: 111.4670326449167
+  yaw: -178.261962890625
+  pitch: 0.449952632188797
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 65.92500001192093
+  y: 70.5
+  z: 111.49323579938616
+  yaw: -111.24533081054688
+  pitch: -11.470381736755371
+  world-name: ''
+jailed: true
+jail: pirate
+ip-address: 149.154.230.93
+last-account-name: deneme
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

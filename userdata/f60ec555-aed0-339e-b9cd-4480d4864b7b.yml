@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.112.200.244
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674568080312
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674568791212
+  login: 1674566614711
+money: '50.0'
+lastlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -23.86148775682326
+  y: 79.0
+  z: -24.04955502100945
+  yaw: 119.814208984375
+  pitch: 10.050710678100586
+last-account-name: Tournalo
+logoutlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -2278.157763000452
+  y: 75.0
+  z: -2414.483983571424
+  yaw: -161.209228515625
+  pitch: 6.286025047302246

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516489869475
+  lastteleport: 1516490017249
+  logout: 1516490060804
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.78080469395604
+  y: 66.0
+  z: 43.82168480395942
+  yaw: 4.29833984375
+  pitch: 2.3406450748443604
+  world-name: ''
+logoutlocation:
+  world: world_nether
+  x: 12.75742772557335
+  y: 88.0
+  z: 127.54751649271755
+  yaw: -73.13758087158203
+  pitch: 50.25852584838867
+  world-name: ''
+ip-address: 88.219.194.164
+last-account-name: Byrionn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

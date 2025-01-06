@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517331097965
+  lastteleport: 1517330785243
+  logout: 1517331943770
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 125.69999998807907
+  y: 63.0
+  z: -32.05000001192093
+  yaw: -64.55181884765625
+  pitch: 11.39964485168457
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -184.6463623046875
+  pitch: -3.1147499084472656
+  world-name: ''
+ip-address: 78.205.12.8
+last-account-name: JeTeRushENPvP
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

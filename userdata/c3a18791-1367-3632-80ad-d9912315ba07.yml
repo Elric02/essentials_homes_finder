@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.137.109.212
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1686080771152
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686080885299
+  login: 1686080050397
+money: '50.0'
+last-account-name: Hedwigge
+lastlocation:
+  world: 2649b3d7-9636-4254-a8e4-1d605af71137
+  world-name: Ressource
+  x: -0.5
+  y: 90.0
+  z: 0.5
+  yaw: 87.71297454833984
+  pitch: 4.8736186027526855
+logoutlocation:
+  world: 2649b3d7-9636-4254-a8e4-1d605af71137
+  world-name: Ressource
+  x: -7.112272691330183
+  y: 65.0
+  z: 67.88243515897956
+  yaw: 76.39552307128906
+  pitch: 2.9063849449157715

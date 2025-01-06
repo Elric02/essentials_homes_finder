@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474284191413
+  lastteleport: 1474284330440
+  logout: 1474284440784
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -598.9375715485436
+  y: 64.0
+  z: -753.6534302362427
+  yaw: -53.544281005859375
+  pitch: 21.677579879760742
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -115.12761388825781
+  y: 47.0
+  z: 506.2613653431992
+  yaw: 93.15936279296875
+  pitch: 13.814406394958496
+  world-name: ''
+ip-address: 176.182.17.92
+last-account-name: alixetval
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

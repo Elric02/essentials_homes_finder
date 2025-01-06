@@ -1,0 +1,38 @@
+timestamps:
+  login: 1550083640193
+  logout: 1550084256054
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7.027093445714701
+  y: 67.02442408821369
+  z: 10.869727724117261
+  yaw: -162.94677734375
+  pitch: 54.30003356933594
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1381.205137514489
+  y: 63.0
+  z: -2298.269570889232
+  yaw: -92.74678802490234
+  pitch: 22.050010681152344
+  world-name: ''
+ip-address: 2.15.98.71
+last-account-name: Clementox_Liano
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

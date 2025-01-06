@@ -1,0 +1,38 @@
+timestamps:
+  login: 1584924709543
+  logout: 1584924733726
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.92294641836844
+  y: 65.0
+  z: 81.92166725720115
+  yaw: 53.797061920166016
+  pitch: 22.890644073486328
+  world-name: ''
+ip-address: 93.22.134.198
+last-account-name: matheolebg
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

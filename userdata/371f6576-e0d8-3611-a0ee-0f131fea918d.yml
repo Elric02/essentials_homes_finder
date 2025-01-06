@@ -1,0 +1,63 @@
+timestamps:
+  login: 1687969797026
+  lastteleport: 1656533871815
+  logout: 1687969841894
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 809.5478511952489
+  y: 59.5
+  z: 4613.448588626489
+  yaw: -178.0172882080078
+  pitch: 2.5500330924987793
+  world-name: world
+money: '0'
+homes:
+  home:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    x: 3217.978525631833
+    y: 119.0
+    z: -1810.4023747005208
+    yaw: -46.3408203125
+    pitch: 16.950153350830078
+    world-name: Althium
+  test:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 931.5323353002722
+    y: 63.0
+    z: 4586.075483534993
+    yaw: 88.9774169921875
+    pitch: 13.800294876098633
+  free:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 782.9619663387996
+    y: 50.0
+    z: 4623.299505416408
+    yaw: -109.91925048828125
+    pitch: 2.2500522136688232
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 805.5629623369538
+  y: 72.0
+  z: 4615.447700995306
+  yaw: -20.354711532592773
+  pitch: 45.15005111694336
+  world-name: world
+afk: false
+ip-address: 93.23.14.251
+last-account-name: Etzuko
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

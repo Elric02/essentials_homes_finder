@@ -1,0 +1,63 @@
+timestamps:
+  login: 1554035667556
+  lastteleport: 1541269425224
+  logout: 1554035961955
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1706.8436853999215
+  y: 79.0
+  z: -1103.9384169730963
+  yaw: 63.0416259765625
+  pitch: 76.43595123291016
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6965.300000011921
+  y: 72.0
+  z: 3207.3596924505746
+  yaw: 250.39170837402344
+  pitch: 32.39933395385742
+  world-name: ''
+homes:
+  h:
+    world: world
+    x: 6969.178495884025
+    y: 71.0
+    z: 3210.7679653175064
+    yaw: -126.78343963623047
+    pitch: 26.699954986572266
+    world-name: ''
+  r:
+    world: ressource
+    x: 1118.5672203393012
+    y: 13.0
+    z: -4572.762499988079
+    yaw: -158.75416564941406
+    pitch: 70.19979858398438
+    world-name: ''
+  s:
+    world: world
+    x: -4811.604968231094
+    y: 69.0
+    z: -354.64153519063944
+    yaw: -171.555908203125
+    pitch: 28.94999885559082
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 82.64.101.71
+last-account-name: Frygal
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

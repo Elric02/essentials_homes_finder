@@ -1,0 +1,63 @@
+timestamps:
+  login: 1488557471567
+  lastteleport: 1487798775497
+  logout: 1488557720922
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6091.42663856837
+  y: 50.0
+  z: -6239.814247803853
+  yaw: 193.42959594726562
+  pitch: 16.35163116455078
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -6094.879235264516
+    y: 88.0
+    z: -6244.974270766989
+    yaw: -55.89008712768555
+    pitch: 7.917903423309326
+    world-name: ''
+  b:
+    world: world
+    x: -6088.859919618321
+    y: 88.0
+    z: -6241.0418515978945
+    yaw: -61.29013442993164
+    pitch: 9.417902946472168
+    world-name: ''
+  backup:
+    world: world
+    x: -6091.195889453339
+    y: 50.0
+    z: -6240.795380302014
+    yaw: -302.8908996582031
+    pitch: 10.55799388885498
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6088.084408549121
+  y: 88.0
+  z: -6239.569355109845
+  yaw: 99.49093627929688
+  pitch: 14.928997993469238
+  world-name: ''
+afk: false
+muted: false
+ip-address: 90.33.41.168
+last-account-name: doudousoso
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

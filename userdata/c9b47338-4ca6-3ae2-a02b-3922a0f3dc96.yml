@@ -1,0 +1,47 @@
+timestamps:
+  login: 1567251639968
+  lastteleport: 1566259287165
+  logout: 1567251729012
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: 8.561345050022174
+  y: 32.0
+  z: 35.49744418528319
+  yaw: 182.61090087890625
+  pitch: 4.419277667999268
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3688.6396906684713
+  y: 66.0
+  z: -3100.8204695016907
+  yaw: -169.55148315429688
+  pitch: -5.100030899047852
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 3691.3730114681243
+    y: 65.0
+    z: -3119.304960897763
+    yaw: -329.5517578125
+    pitch: 10.199938774108887
+    world-name: ''
+afk: false
+ip-address: 213.44.207.174
+last-account-name: Nicodu_TvYtb
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

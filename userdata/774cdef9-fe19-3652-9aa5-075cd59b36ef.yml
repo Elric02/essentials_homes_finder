@@ -1,0 +1,38 @@
+timestamps:
+  login: 1551191392732
+  logout: 1551191414089
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 160.19267908603925
+  y: 60.941515002148826
+  z: 80.11887839955683
+  yaw: 192.0390625
+  pitch: 10.74764633178711
+  world-name: ''
+ip-address: 86.194.126.212
+last-account-name: LeCanardVolant
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

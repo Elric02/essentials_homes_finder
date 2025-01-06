@@ -1,0 +1,38 @@
+timestamps:
+  login: 1630587652040
+  lastteleport: 1630589482018
+  logout: 1630589500280
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.4804002629131071
+  y: 90.0
+  z: 0.49989852762270237
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Ressource
+  x: 833.4332008524863
+  y: 61.73414751440035
+  z: 4291.307507064644
+  yaw: 233.9906463623047
+  pitch: -0.6752981543540955
+  world-name: ''
+ip-address: 91.173.166.59
+last-account-name: WyAce_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1585933544450
+  lastteleport: 1585933719255
+  logout: 1585939838790
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 258.5485507155493
+  y: 64.0
+  z: -3311.0757098652502
+  yaw: -90.21539306640625
+  pitch: 7.950005054473877
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 121.11358086298485
+    y: 64.0
+    z: -3448.9860173135967
+    yaw: -157.106201171875
+    pitch: 0.7495731115341187
+    world-name: ''
+  chateau:
+    world: world
+    x: 81.03518757381558
+    y: 30.0
+    z: -3342.1297762541963
+    yaw: -284.4093933105469
+    pitch: 4.8000102043151855
+    world-name: ''
+  mine:
+    world: world
+    x: 1491.4283007949698
+    y: 66.0
+    z: -2103.5643957565476
+    yaw: -0.0738525390625
+    pitch: 8.08591079711914
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 103.51438299402764
+  y: 50.0
+  z: -3572.6199618142473
+  yaw: 242.80760192871094
+  pitch: 1.6498322486877441
+  world-name: ''
+afk: false
+ip-address: 93.21.9.79
+last-account-name: FRRP_Theburn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

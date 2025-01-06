@@ -1,0 +1,38 @@
+timestamps:
+  login: 1601399114848
+  logout: 1601399173980
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.06298407694646
+  y: 63.0
+  z: 40.35030554345872
+  yaw: 176.4752197265625
+  pitch: 13.701892852783203
+  world-name: ''
+ip-address: 93.31.126.7
+last-account-name: _Hideki
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

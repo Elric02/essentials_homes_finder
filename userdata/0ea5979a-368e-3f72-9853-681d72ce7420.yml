@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467566460160
+  logout: 1467566497555
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.80214775032675
+  y: 63.0
+  z: 37.71967992694049
+  yaw: -12.447226524353027
+  pitch: 4.42418098449707
+  world-name: ''
+ip-address: 2.11.72.129
+last-account-name: Aurelien_sama
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

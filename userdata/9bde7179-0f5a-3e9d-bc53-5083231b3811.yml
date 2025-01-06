@@ -1,0 +1,63 @@
+timestamps:
+  login: 1629039567638
+  lastteleport: 1629039662047
+  logout: 1629042147147
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4975.634468319497
+  y: 120.0
+  z: -1920.699999988079
+  yaw: -146.8502197265625
+  pitch: 26.249921798706055
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 4958.804714571293
+    y: 118.0
+    z: -1934.3531185456445
+    yaw: 73.9500961303711
+    pitch: 6.599973201751709
+    world-name: ''
+  salledescoffre:
+    world: world
+    x: -5285.346437817813
+    y: 49.0
+    z: 1088.0504707925131
+    yaw: 352.3083190917969
+    pitch: 14.699979782104492
+    world-name: ''
+  salledescoffres:
+    world: world
+    x: -5435.49249832229
+    y: 56.0
+    z: 1610.7951499272815
+    yaw: 237.54541015625
+    pitch: 4.274076461791992
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -5437.725035709411
+  y: 56.0
+  z: 1616.46212683276
+  yaw: -45.38250732421875
+  pitch: 6.750002384185791
+  world-name: ''
+ip-address: 90.27.131.189
+last-account-name: _Kyona_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

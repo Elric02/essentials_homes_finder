@@ -1,0 +1,63 @@
+timestamps:
+  login: 1625485788339
+  lastteleport: 1625488325159
+  logout: 1625488707995
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.88156964504722
+  y: 63.5
+  z: 6.19395645582857
+  yaw: -219.24575805664062
+  pitch: 14.825876235961914
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3799.6275244723765
+  y: 64.0
+  z: -852.7770826037985
+  yaw: -310.209228515625
+  pitch: 18.000093460083008
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  bass:
+    world: world
+    x: 5165.875736415549
+    y: 72.0
+    z: 857.3497184804967
+    yaw: -34.20172119140625
+    pitch: 17.55018424987793
+    world-name: ''
+  bois:
+    world: world
+    x: 4188.619856898465
+    y: 81.0
+    z: -3159.0008349473705
+    yaw: -216.14825439453125
+    pitch: 13.64980697631836
+    world-name: ''
+  desert:
+    world: world
+    x: -3788.9430264691046
+    y: 64.0
+    z: -845.183887261122
+    yaw: -191.8467559814453
+    pitch: 15.00001049041748
+    world-name: ''
+ip-address: 78.199.139.107
+last-account-name: mathb
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

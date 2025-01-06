@@ -1,0 +1,67 @@
+timestamps:
+  login: 1483005966192
+  logout: 1483012955308
+  lastteleport: 1483012074067
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3049.8252791162668
+  y: 79.0
+  z: 6880.381109027787
+  yaw: 330.83984375
+  pitch: 10.349990844726562
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 6331.748385394567
+    y: 64.0
+    z: 5800.728823619341
+    yaw: 140.7001953125
+    pitch: -0.29999542236328125
+    world-name: ''
+  bouh:
+    world: world
+    x: -1217.6591212499256
+    y: 118.0
+    z: -5516.699999988079
+    yaw: -3.5120849609375
+    pitch: 77.10000610351562
+    world-name: ''
+socialspy: true
+logoutlocation:
+  world: world
+  x: 6302.001493647496
+  y: 65.0
+  z: 5788.300000011921
+  yaw: -189.905517578125
+  pitch: 38.999961853027344
+  world-name: ''
+muted: false
+ip-address: 90.112.116.103
+last-account-name: Oktober
+mail:
+- legacy: true
+  read: false
+  message: §e[§rBouh§e] §rj'ai un livre vitesse + ressort pour les bottes si tu veux
+- legacy: true
+  read: false
+  message: §e[§rMiisterCloud§e] §rAhou '^'/ Vu que je quitte le serv et que j't'aime
+    bien j'ai donné 200 000$ à
+- legacy: true
+  read: false
+  message: §e[§rMiisterCloud§e] §rbryjnolf pour qu'il te les donne lorsque tu te connectes.
+    Bon jeu à toi '^'/
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

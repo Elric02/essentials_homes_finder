@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.65.178.123
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667732554376
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667741335073
+  login: 1667741328072
+money: '0'
+last-account-name: alex26300
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 151.3499397351039
+  y: 63.0
+  z: -14.669670320845238
+  yaw: -127.04032897949219
+  pitch: -12.45000171661377
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -1895.726731231262
+  y: 73.0
+  z: 7646.541041750907
+  yaw: -84.14059448242188
+  pitch: 25.5

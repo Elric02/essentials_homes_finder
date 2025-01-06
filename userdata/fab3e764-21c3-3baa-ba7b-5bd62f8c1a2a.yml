@@ -1,0 +1,47 @@
+timestamps:
+  login: 1540281930803
+  logout: 1540284724880
+  lastteleport: 1540284672377
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -0.3552549233729703
+  y: 62.0
+  z: 0.8576790228491118
+  yaw: -288.48040771484375
+  pitch: 4.200000286102295
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: -636.611353503485
+    y: 77.0
+    z: -2961.8445033027588
+    yaw: -53.91150665283203
+    pitch: 89.4000015258789
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 133.70567713480756
+  y: 63.0
+  z: -21.139790515475482
+  yaw: -357.6207275390625
+  pitch: 9.928681373596191
+  world-name: ''
+ip-address: 2.14.97.169
+last-account-name: epislon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

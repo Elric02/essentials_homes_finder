@@ -1,0 +1,63 @@
+timestamps:
+  login: 1560888110795
+  lastteleport: 1560888291497
+  logout: 1560888539171
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1688.724906286063
+  y: 56.0
+  z: -5273.088628814354
+  yaw: 250.3485107421875
+  pitch: 10.94998550415039
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1692.3887534170212
+  y: 56.0
+  z: -5278.336337234502
+  yaw: 166.6502685546875
+  pitch: 18.449995040893555
+  world-name: ''
+afk: false
+homes:
+  prss_silver:
+    world: world
+    x: -306.26039443508125
+    y: 71.0
+    z: -702.6879770104463
+    yaw: 40.54052734375
+    pitch: 20.25005340576172
+    world-name: ''
+  maison:
+    world: world
+    x: 1709.516041528256
+    y: 63.0
+    z: -5253.724574668879
+    yaw: 100.34893035888672
+    pitch: 35.699981689453125
+    world-name: ''
+  alnath:
+    world: world
+    x: 1444.2664198467473
+    y: 64.0
+    z: -2233.0520471641626
+    yaw: -335.47149658203125
+    pitch: 23.399988174438477
+    world-name: ''
+ip-address: 80.215.43.47
+last-account-name: Clemac312
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

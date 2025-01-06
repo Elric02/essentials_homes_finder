@@ -1,0 +1,60 @@
+timestamps:
+  login: 1519487341740
+  lastteleport: 1519482734844
+  logout: 1519489444303
+  jail: 0
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4179.473900046427
+  y: 98.0
+  z: -1699.7433169861279
+  yaw: 140.171142578125
+  pitch: 33.90000534057617
+  world-name: ''
+homes:
+  wars:
+    world: world
+    x: -718.3000000119209
+    y: 72.0
+    z: 5506.699999988079
+    yaw: 113.7666015625
+    pitch: 9.150029182434082
+    world-name: ''
+  base:
+    world: world
+    x: 4069.766178966887
+    y: 74.0
+    z: -1797.300000011921
+    yaw: 352.201171875
+    pitch: 36.29999542236328
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 4045.688778434978
+  y: 79.0
+  z: -1754.1208371222592
+  yaw: 22.37939453125
+  pitch: 20.10002899169922
+  world-name: ''
+afk: false
+money: '0'
+jailed: false
+muted: false
+ip-address: 78.197.208.13
+last-account-name: gregoire
+mail:
+- legacy: true
+  read: false
+  message: §e[§rkillian971317§e] §rSuite à une inactivité supérieur à 6 mois votre
+    shop d'Alnath a été supprimé
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

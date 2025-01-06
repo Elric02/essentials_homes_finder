@@ -1,0 +1,47 @@
+timestamps:
+  login: 1522602884230
+  logout: 1522603030011
+  lastteleport: 1520703601918
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3556.8676550802893
+  y: 75.0
+  z: -1689.4029390887438
+  yaw: -136.80255126953125
+  pitch: 29.099992752075195
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 181.58319341816247
+  y: 63.0
+  z: -23.69035035095582
+  yaw: -300.6187744140625
+  pitch: 7.349976539611816
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 3563.3794925588927
+    y: 74.0
+    z: -1692.5342274261789
+    yaw: -95.40252685546875
+    pitch: 20.849992752075195
+    world-name: ''
+afk: false
+ip-address: 86.217.218.19
+last-account-name: PX_ZEYRONE
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

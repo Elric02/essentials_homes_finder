@@ -1,0 +1,47 @@
+timestamps:
+  login: 1471071340811
+  lastteleport: 1469906614709
+  logout: 1471071812027
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 140.2404984834278
+  y: 74.0
+  z: -271.1710725213033
+  yaw: 88.8992919921875
+  pitch: -1.9206256866455078
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 142.5366417485773
+    y: 74.0
+    z: -271.0269596868686
+    yaw: 90.05477905273438
+    pitch: -14.38626480102539
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 120.59971469603038
+  y: 63.0
+  z: -13.699999988079067
+  yaw: 171.58526611328125
+  pitch: 27.383651733398438
+  world-name: ''
+afk: false
+ip-address: 80.69.220.206
+last-account-name: Bgame974
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

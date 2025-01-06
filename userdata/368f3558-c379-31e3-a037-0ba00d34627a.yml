@@ -1,0 +1,47 @@
+timestamps:
+  login: 1538933125974
+  logout: 1538935200756
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -925.9440879247566
+    y: 64.0
+    z: 268.81078192327107
+    yaw: 179.6033935546875
+    pitch: 18.0129451751709
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -911.6722476738363
+  y: 80.0
+  z: 147.76327981729986
+  yaw: -263.7019348144531
+  pitch: -17.077049255371094
+  world-name: ''
+ip-address: 89.158.40.121
+last-account-name: blitzcrank3
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

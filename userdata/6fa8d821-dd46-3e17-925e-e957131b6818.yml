@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558780185324
+  lastteleport: 1558780728862
+  logout: 1558780765707
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -108.47059450330374
+  y: 64.0
+  z: -1951.3613303794302
+  yaw: -166.36509704589844
+  pitch: -15.359341621398926
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.01656848112023
+  y: 64.0
+  z: 23.306523485325844
+  yaw: -202.14035034179688
+  pitch: 2.2956185340881348
+  world-name: ''
+money: '0'
+ip-address: 82.249.1.60
+last-account-name: BadGhost
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

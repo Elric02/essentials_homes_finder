@@ -1,0 +1,55 @@
+timestamps:
+  login: 1514642803071
+  lastteleport: 1514642809451
+  logout: 1514642889839
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 6146.699999988079
+  y: 70.0
+  z: 3000.300000011921
+  yaw: -115.64909362792969
+  pitch: 64.34991455078125
+  world-name: ''
+money: '0'
+homes:
+  lama:
+    world: Ressource
+    x: 3174.9145819985374
+    y: 78.0
+    z: -527.9873271843614
+    yaw: 54.02378845214844
+    pitch: 9.149948120117188
+    world-name: ''
+  deux:
+    world: Ressource
+    x: -5322.139325496255
+    y: 49.0
+    z: -6082.636440656641
+    yaw: -148.46322631835938
+    pitch: 39.89992141723633
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 157.29338941117103
+  y: 63.0
+  z: 35.55704811973055
+  yaw: -356.1209716796875
+  pitch: 10.228646278381348
+  world-name: ''
+ip-address: 78.204.219.23
+last-account-name: Und3rfr0st
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

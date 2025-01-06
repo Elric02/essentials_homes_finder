@@ -1,0 +1,63 @@
+timestamps:
+  login: 1545492831263
+  lastteleport: 1545492871941
+  logout: 1545492898277
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.47801180820733
+  y: 63.0
+  z: 2.261063640426176
+  yaw: -178.02012634277344
+  pitch: 5.619924068450928
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 2529.3139504914975
+  y: 62.0
+  z: -2785.547664239496
+  yaw: -203.5291748046875
+  pitch: 23.620281219482422
+  world-name: ''
+homes:
+  m:
+    world: world
+    x: 2533.61630759976
+    y: 67.0
+    z: -2793.5844046572843
+    yaw: -151.7950439453125
+    pitch: 7.645153522491455
+    world-name: ''
+  f:
+    world: Ressource
+    x: -1240.3564717956176
+    y: 62.0
+    z: -1651.7816331838126
+    yaw: -3.86151123046875
+    pitch: 9.311713218688965
+    world-name: ''
+  v:
+    world: Ressource
+    x: 84.93081076079176
+    y: 65.0
+    z: -253.85139256903864
+    yaw: -66.30245971679688
+    pitch: 9.51767635345459
+    world-name: ''
+ip-address: 78.217.131.19
+last-account-name: FoxThug
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.241.84.234
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668627709151
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668627861768
+  login: 1668626745046
+money: '50.0'
+last-account-name: chachaflash9
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 103.08802310464725
+  y: 10.0
+  z: 160.434013894443
+  yaw: 84.62506103515625
+  pitch: 33.659610748291016
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 113.63142835029157
+  y: 63.0
+  z: 44.63750445586955
+  yaw: 157.81768798828125
+  pitch: 40.20008087158203

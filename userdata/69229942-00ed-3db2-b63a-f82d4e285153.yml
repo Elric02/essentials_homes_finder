@@ -1,0 +1,38 @@
+timestamps:
+  login: 1506801866858
+  lastteleport: 1506802187995
+  logout: 1506803779223
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.35965491121536
+  y: 64.0
+  z: 16.924955698802307
+  yaw: 294.8452453613281
+  pitch: 19.979507446289062
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.88475990140412
+  y: 64.0
+  z: 21.705213837305656
+  yaw: -115.48954772949219
+  pitch: 89.58341217041016
+  world-name: ''
+money: '0'
+muted: false
+ip-address: 197.200.62.187
+last-account-name: espion7
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

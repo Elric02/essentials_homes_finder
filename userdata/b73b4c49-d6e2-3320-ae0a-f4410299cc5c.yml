@@ -1,0 +1,63 @@
+timestamps:
+  login: 1621416647081
+  lastteleport: 1621417609043
+  logout: 1621417616538
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: 726.7356523453643
+  y: 31.0
+  z: -3408.553240580831
+  yaw: 41.59157943725586
+  pitch: 83.93008422851562
+  world-name: ''
+logoutlocation:
+  world: Nether
+  x: 742.9116708659955
+  y: 59.0
+  z: -3428.494633236411
+  yaw: 90.28518676757812
+  pitch: 6.241628170013428
+  world-name: ''
+money: '0'
+homes:
+  bad:
+    world: world
+    x: -5864.300000011921
+    y: 148.0
+    z: -6906.7193607896725
+    yaw: -351.2840881347656
+    pitch: 11.387568473815918
+    world-name: ''
+  s:
+    world: world
+    x: -1676.300000011921
+    y: 53.0
+    z: -5119.699999988079
+    yaw: -357.1551513671875
+    pitch: -1.1906508207321167
+    world-name: ''
+  for:
+    world: Nether
+    x: 740.0694170796562
+    y: 59.0
+    z: -3428.3470739252048
+    yaw: 90.28518676757812
+    pitch: 6.241628170013428
+    world-name: ''
+afk: false
+ip-address: 193.250.91.44
+last-account-name: ENZO33127
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616175293325
+  logout: 1616175674322
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 0.2729896233013373
+  y: 70.0
+  z: -68.82993488228962
+  yaw: 180.539794921875
+  pitch: 19.74066734313965
+  world-name: ''
+ip-address: 90.76.151.45
+last-account-name: _Francis_1931
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

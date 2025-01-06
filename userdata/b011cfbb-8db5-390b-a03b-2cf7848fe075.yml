@@ -1,0 +1,83 @@
+timestamps:
+  login: 1707936065984
+  logout: 1707937650222
+  lastteleport: 1707937419380
+  kits:
+    color: 1572821506758
+    vip: 1572821484389
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -5230.682640494153
+  y: 200.0
+  z: -702.3296713267846
+  yaw: -99.5938720703125
+  pitch: 25.64993667602539
+  world-name: world
+money: '351.115757575757570'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -5199.903350398406
+  y: 73.0
+  z: -659.7431255078938
+  yaw: -24.893569946289062
+  pitch: 19.0499324798584
+  world-name: world
+homes:
+  p:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5603.524185621596
+    y: 71.0
+    z: 2145.5877150501315
+    yaw: -180.08990478515625
+    pitch: 3.578521251678467
+    world-name: world
+  pp:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5483.084164990401
+    y: 80.0
+    z: 1962.6257275582398
+    yaw: -118.45166015625
+    pitch: 20.833608627319336
+    world-name: world
+  vv:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -7335.181365777271
+    y: 36.5
+    z: -1564.5815703658275
+    yaw: 2.9256815910339355
+    pitch: 67.55284881591797
+    world-name: world
+  z:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5457.558366550498
+    y: 65.0
+    z: 2232.1653738203586
+    yaw: 174.20994567871094
+    pitch: -24.771448135375977
+    world-name: world
+  n:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6690.882435075464
+    y: 65.0
+    z: -4023.2434746906856
+    yaw: 21.315216064453125
+    pitch: 48.96424865722656
+    world-name: world
+afk: false
+nickname: §4P§6a§eu§2l§3o
+muted: false
+jailed: false
+ip-address: 90.23.102.10
+last-account-name: Paushylo
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

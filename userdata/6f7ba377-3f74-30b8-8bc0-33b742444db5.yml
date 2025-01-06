@@ -1,0 +1,47 @@
+timestamps:
+  login: 1472996692641
+  lastteleport: 1472997901317
+  logout: 1472997922565
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: -161.1057406281634
+  y: 69.0
+  z: 433.62619963673757
+  yaw: 201.3717041015625
+  pitch: 7.650021553039551
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 4132.6709948841635
+  y: 34.0
+  z: 801.5581724502412
+  yaw: -7.350035190582275
+  pitch: 7.200019836425781
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 4131.899970073589
+    y: 34.0
+    z: 801.2842372971269
+    yaw: -1.5000284910202026
+    pitch: 9.750016212463379
+    world-name: ''
+ip-address: 78.218.200.7
+last-account-name: simpi12
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

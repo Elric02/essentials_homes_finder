@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508173533744
+  lastteleport: 1508173823563
+  logout: 1508174016304
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.44370314042317
+  y: 64.0
+  z: 20.754867168855974
+  yaw: 179.2291717529297
+  pitch: 2.128669500350952
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6071.639671537782
+  y: 120.90350018238978
+  z: -3185.4545991963155
+  yaw: -208.08941650390625
+  pitch: 11.550021171569824
+  world-name: ''
+money: '0'
+ip-address: 86.247.222.46
+last-account-name: EpicGameur91
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

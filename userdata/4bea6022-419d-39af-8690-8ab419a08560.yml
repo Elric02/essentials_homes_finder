@@ -1,0 +1,38 @@
+timestamps:
+  login: 1611947916998
+  logout: 1611948173472
+  lastteleport: 1611861538322
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.03875619652956
+  y: 63.0
+  z: 58.33780093711143
+  yaw: -32.963470458984375
+  pitch: 9.371757507324219
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -3359.300000011921
+  y: 44.0
+  z: 864.6999999880791
+  yaw: -1.62548828125
+  pitch: 4.592954158782959
+  world-name: ''
+money: '0'
+ip-address: 86.196.171.98
+last-account-name: Galou361
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

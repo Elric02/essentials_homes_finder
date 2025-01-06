@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475352682926
+  logout: 1475352692316
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.55319349439503
+  y: 63.0
+  z: 47.125095575997484
+  yaw: -289.5481262207031
+  pitch: -22.102611541748047
+  world-name: ''
+ip-address: 79.90.130.134
+last-account-name: niel2812
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

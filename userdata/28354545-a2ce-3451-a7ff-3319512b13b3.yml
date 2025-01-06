@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.196.216.86
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663100627343
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663100689034
+  login: 1663094856063
+money: '0'
+lastlocation:
+  world: 886c7d43-b736-498b-8648-cad06b6b21d1
+  world-name: Event
+  x: 863.1112561736782
+  y: 4.0
+  z: -2091.031400660658
+  yaw: -100.05233764648438
+  pitch: 2.6999073028564453
+last-account-name: Sara8poule
+logoutlocation:
+  world: 886c7d43-b736-498b-8648-cad06b6b21d1
+  world-name: Event
+  x: 939.9013203547852
+  y: 62.0
+  z: -2054.300000011921
+  yaw: -139.87152099609375
+  pitch: 36.44988250732422

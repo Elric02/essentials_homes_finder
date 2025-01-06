@@ -1,0 +1,87 @@
+timestamps:
+  login: 1727805773521
+  lastteleport: 1724063416865
+  logout: 1727805773634
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  x: -31.706291853902833
+  y: 80.9954857266481
+  z: 440.54402134253587
+  yaw: -17.249984741210938
+  pitch: 39.44997024536133
+  world-name: plot
+money: '1400.0'
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  x: -156.3781765871748
+  y: 33.0
+  z: 572.6806287655899
+  yaw: 55.352294921875
+  pitch: 19.05000877380371
+  world-name: grosPlot
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6146.003659354162
+    y: 68.0
+    z: -3519.0173312003703
+    yaw: -177.58740234375
+    pitch: 77.21306610107422
+    world-name: world
+  pillards:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7971.766873963784
+    y: 133.875
+    z: -4086.6786505130094
+    yaw: 82.40198516845703
+    pitch: 51.00007247924805
+  ferme:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 451.69999998807907
+    y: 74.0
+    z: -3204.300000011921
+    yaw: -21.380615234375
+    pitch: 65.07801818847656
+  phare:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7358.836197666059
+    y: 183.0
+    z: -3767.786227783163
+    yaw: -91.87629699707031
+    pitch: 25.66632843017578
+  badlands:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -1770.655308669372
+    y: 91.0
+    z: 2731.739293623458
+    yaw: -77.59005737304688
+    pitch: 47.741634368896484
+  soviet:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5029.3738361944515
+    y: 75.0
+    z: 7900.386213846136
+    yaw: -177.85040283203125
+    pitch: 35.55005645751953
+afk: false
+ip-address: 146.70.132.44
+last-account-name: JojoLapero
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

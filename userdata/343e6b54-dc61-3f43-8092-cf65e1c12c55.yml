@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508656016505
+  logout: 1508656208668
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.08364495401966
+  y: 63.0
+  z: 64.968784729763
+  yaw: 223.754150390625
+  pitch: -11.850008010864258
+  world-name: ''
+ip-address: 83.134.183.3
+last-account-name: PapaNicolasTv
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

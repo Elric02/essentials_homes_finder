@@ -1,0 +1,47 @@
+timestamps:
+  login: 1528019017753
+  lastteleport: 1528018955856
+  logout: 1528019435309
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5001.658106301055
+  y: 71.0
+  z: -491.83113467059536
+  yaw: -104.7228775024414
+  pitch: 15.749938011169434
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -127.82080078125
+  pitch: 15.778668403625488
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4995.902902655088
+    y: 71.0
+    z: -476.4433587386013
+    yaw: 8.227203369140625
+    pitch: 11.699972152709961
+    world-name: ''
+ip-address: 90.114.32.205
+last-account-name: Soarin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480871819091
+  logout: 1480872588088
+  lastteleport: 1480872278329
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.68861397948862
+  y: 27.5
+  z: 23.491076028844297
+  yaw: -2.3232009410858154
+  pitch: -2.156496524810791
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 146.04193672452791
+  y: 64.0
+  z: 23.622831218868484
+  yaw: -124.11095428466797
+  pitch: 17.424514770507812
+  world-name: ''
+ip-address: 85.170.97.134
+last-account-name: Matflame
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

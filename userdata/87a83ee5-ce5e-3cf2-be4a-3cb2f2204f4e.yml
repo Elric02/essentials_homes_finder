@@ -1,0 +1,38 @@
+timestamps:
+  login: 1594033566870
+  lastteleport: 1593948198623
+  logout: 1594033731474
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.64995769843827
+  y: 63.0
+  z: 64.76556539586832
+  yaw: 207.26876831054688
+  pitch: 5.134303092956543
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2970.616781193136
+  y: 57.0
+  z: 2277.6174118783006
+  yaw: -112.00364685058594
+  pitch: 77.3591079711914
+  world-name: ''
+ip-address: 83.200.148.198
+last-account-name: Flagims
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

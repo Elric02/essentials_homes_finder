@@ -1,0 +1,47 @@
+timestamps:
+  login: 1481137194380
+  lastteleport: 1481140952313
+  logout: 1481143539428
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 243.21380021726318
+  y: 64.0
+  z: 39.74346570140435
+  yaw: -260.2508239746094
+  pitch: 9.74994945526123
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: ressource
+    x: 431.7322422677846
+    y: 12.0
+    z: -131.11603745625158
+    yaw: 214.4954833984375
+    pitch: 14.10007095336914
+    world-name: ''
+logoutlocation:
+  world: ressource
+  x: 431.7322422677846
+  y: 12.0
+  z: -131.11603745625158
+  yaw: 208.64556884765625
+  pitch: 7.950075626373291
+  world-name: ''
+ip-address: 78.208.8.24
+last-account-name: Tikevin62100
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

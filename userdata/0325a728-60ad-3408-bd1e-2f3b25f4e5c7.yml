@@ -1,0 +1,63 @@
+timestamps:
+  login: 1469991744779
+  lastteleport: 1469991640366
+  logout: 1469991843083
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1434.125978764063
+  y: 69.0
+  z: 1059.6539698419315
+  yaw: -99.91230010986328
+  pitch: 3.1499855518341064
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  maison:
+    world: world
+    x: -1028.5584233997
+    y: 69.0
+    z: 1857.7432083624747
+    yaw: 183.33387756347656
+    pitch: 20.474184036254883
+    world-name: ''
+  fer:
+    world: world
+    x: -1028.5
+    y: 69.0
+    z: 1857.5
+    yaw: 183.33387756347656
+    pitch: 20.474184036254883
+    world-name: ''
+  moi:
+    world: world
+    x: -1541.2421303111241
+    y: 69.0
+    z: 1079.582980876988
+    yaw: 134.68795776367188
+    pitch: 1.34996497631073
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1024.3450865171628
+  y: 57.0
+  z: 1835.5756256057148
+  yaw: 4.084030628204346
+  pitch: 30.824176788330078
+  world-name: ''
+ip-address: 86.199.60.185
+last-account-name: Graviton
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

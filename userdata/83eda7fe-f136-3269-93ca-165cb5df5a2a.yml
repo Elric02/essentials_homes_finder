@@ -1,0 +1,63 @@
+timestamps:
+  login: 1477058971190
+  lastteleport: 1476188268601
+  logout: 1477059343965
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -156.66396011346322
+  y: 47.0
+  z: 506.89122774160717
+  yaw: 177.54864501953125
+  pitch: 25.35000991821289
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -230.86842934047274
+  y: 64.0
+  z: 353.732589209835
+  yaw: -120.14962768554688
+  pitch: 14.549996376037598
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 6476.61547746775
+    y: 63.0
+    z: 6611.618477683585
+    yaw: 49.05224609375
+    pitch: 22.04997444152832
+    world-name: ''
+  benhome2:
+    world: world
+    x: -5188.71734060491
+    y: 68.0
+    z: 557.8671686207123
+    yaw: 99.5623550415039
+    pitch: 19.753101348876953
+    world-name: ''
+  benshop:
+    world: world
+    x: -5217.157527543024
+    y: 68.0
+    z: 382.29749916166986
+    yaw: 118.76195526123047
+    pitch: 25.949996948242188
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 41.97.127.94
+last-account-name: Ben25
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

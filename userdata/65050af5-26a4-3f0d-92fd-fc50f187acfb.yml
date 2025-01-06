@@ -1,0 +1,55 @@
+timestamps:
+  login: 1616446073212
+  lastteleport: 1616450725950
+  logout: 1616451500779
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6783.6275221655815
+  y: 121.0
+  z: 5028.785860714201
+  yaw: -48.99527359008789
+  pitch: -14.631823539733887
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -6784.179426199268
+    y: 121.0
+    z: 5025.983690438704
+    yaw: -29.64505386352539
+    pitch: 15.818069458007812
+    world-name: ''
+  base:
+    world: world
+    x: -6783.529987495393
+    y: 121.0
+    z: 5028.910974027633
+    yaw: 159.35488891601562
+    pitch: 11.768104553222656
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 147.50827651872228
+  y: 64.0
+  z: 19.14543982915438
+  yaw: 102.225830078125
+  pitch: 13.968267440795898
+  world-name: ''
+ip-address: 176.167.44.234
+last-account-name: YinKalto
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1616594180827
+  lastteleport: 1616594833157
+  logout: 1616595430057
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1853.0331082310709
+  y: 73.0
+  z: 2837.9042799120634
+  yaw: 132.603271484375
+  pitch: 24.300046920776367
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4986.7701061515045
+  y: 71.0
+  z: -495.5132602200825
+  yaw: -324.594482421875
+  pitch: 22.49990463256836
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -40.165163472196994
+    y: 70.0
+    z: -1041.4044402484685
+    yaw: 259.784423828125
+    pitch: 50.99991989135742
+    world-name: ''
+  natura:
+    world: world
+    x: -4990.1855072810495
+    y: 71.0
+    z: -495.97996695492986
+    yaw: -326.7068786621094
+    pitch: 36.45003128051758
+    world-name: ''
+ip-address: 213.213.206.229
+last-account-name: Lagertha
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

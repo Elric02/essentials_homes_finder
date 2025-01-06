@@ -1,0 +1,180 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.22.214.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1673373227123
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674170209431
+  login: 1674170196700
+  kits:
+    stationaute: 1672157221577
+    explorateur: 1673363746654
+    vip: 1673363753121
+    color: 1671397023420
+money: '122403.25000000000046328'
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -2388.373696735607
+  y: -25.0
+  z: -2865.5973738751995
+  yaw: -39.002838134765625
+  pitch: 10.949987411499023
+last-account-name: Madam_Doom
+homes:
+  adrose:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -1540.555851098459
+    y: 62.0
+    z: -172.13415497536985
+    yaw: 68.72512817382812
+    pitch: 20.099773406982422
+  peche:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -2967.8662394456164
+    y: 62.0
+    z: -4102.955746818174
+    yaw: -172.3106689453125
+    pitch: 30.599628448486328
+  pomme:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -3070.8946706026504
+    y: 81.0
+    z: -2908.2866815527996
+    yaw: 50.85007095336914
+    pitch: 65.8857192993164
+  prune:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -1437.8366130922664
+    y: -31.0
+    z: -171.69201769092007
+    yaw: 61.640625
+    pitch: 35.70092010498047
+  cerise:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 757.162771228299
+    y: 27.0
+    z: 1647.9674903903904
+    yaw: -167.07940673828125
+    pitch: 31.350065231323242
+  poire:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -2370.164155951396
+    y: 64.0
+    z: -2871.373988614228
+    yaw: -8.844405174255371
+    pitch: 25.799930572509766
+  miel:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -2392.300000011921
+    y: -43.0
+    z: -2867.3403737311364
+    yaw: 87.74373626708984
+    pitch: 37.49968338012695
+  ananas:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -2386.435744106001
+    y: -43.0
+    z: -2865.6257948736516
+    yaw: 130.9775390625
+    pitch: -46.80047607421875
+  kiwi:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    world-name: Nether
+    x: 90.46291131690681
+    y: 9.0
+    z: 254.23122108873505
+    yaw: -1.0548425912857056
+    pitch: 11.099506378173828
+  fort:
+    world: df07db1e-b199-46d9-9d37-2fe95ae52b01
+    world-name: Ressourcenether
+    x: -71.03083644168073
+    y: 30.0
+    z: 102.30000001192093
+    yaw: -158.37017822265625
+    pitch: 18.899681091308594
+  blaze:
+    world: df07db1e-b199-46d9-9d37-2fe95ae52b01
+    world-name: Ressourcenether
+    x: 136.00757715502576
+    y: 56.0
+    z: -2365.0050159341845
+    yaw: -90.46353149414062
+    pitch: 25.3496150970459
+  or:
+    world: df07db1e-b199-46d9-9d37-2fe95ae52b01
+    world-name: Ressourcenether
+    x: 112.48817742562036
+    y: 10.0
+    z: -2145.774334541643
+    yaw: -87.46102905273438
+    pitch: 14.24975299835205
+  mer:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -3373.129732043256
+    y: 64.0
+    z: -2879.2609578864635
+    yaw: 177.703125
+    pitch: 44.28449630737305
+  pillard:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -3383.721838254244
+    y: 77.0
+    z: -2437.9508886680187
+    yaw: -3.073974609375
+    pitch: 25.0838680267334
+  prov:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 3924.7646507984455
+    y: 79.0
+    z: 2131.625095092126
+    yaw: 61.764434814453125
+    pitch: 50.850399017333984
+  pixel:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6655.427706544968
+    y: 73.0
+    z: -7936.045583681476
+    yaw: 1.949583649635315
+    pitch: 45.60002899169922
+  grotte:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -2388.5
+    y: -25.0
+    z: -2865.5
+    yaw: 85.5071792602539
+    pitch: 17.549917221069336
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 97.44130796165486
+  y: 76.0
+  z: 143.94484154715664
+  yaw: -66.62149810791016
+  pitch: 41.76637649536133

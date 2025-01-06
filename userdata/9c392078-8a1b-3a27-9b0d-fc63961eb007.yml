@@ -1,0 +1,38 @@
+timestamps:
+  login: 1550354642026
+  logout: 1550354683681
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.97346549930882
+  y: 63.0
+  z: 64.66924077826903
+  yaw: 182.1968994140625
+  pitch: -1.2593467235565186
+  world-name: ''
+ip-address: 176.170.147.226
+last-account-name: Margotlpbwala
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.131.169.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667666523945
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667666529397
+  login: 1667666328204
+money: '0'
+last-account-name: Meliodas
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -105.71875888969602
+  y: 39.92933957717321
+  z: -8.60887128836161
+  yaw: 55.57177734375
+  pitch: 35.849815368652344
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 415.05076427593696
+  y: 80.5
+  z: -3109.602957989207
+  yaw: -94.49842071533203
+  pitch: 17.249950408935547

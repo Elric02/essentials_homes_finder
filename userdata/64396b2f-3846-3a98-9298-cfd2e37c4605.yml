@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609098070645
+  lastteleport: 1609098175408
+  logout: 1609098225390
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.4945875498836
+  y: 63.0
+  z: 64.29291993879333
+  yaw: -175.07821655273438
+  pitch: 6.255387306213379
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -378.5002552671768
+  y: 70.0
+  z: 4100.180074984245
+  yaw: 270.37542724609375
+  pitch: -69.40534210205078
+  world-name: ''
+ip-address: 93.30.112.143
+last-account-name: zlSeyRox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

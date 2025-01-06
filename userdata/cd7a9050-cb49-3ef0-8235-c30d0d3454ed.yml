@@ -1,0 +1,63 @@
+timestamps:
+  login: 1521396378175
+  lastteleport: 1521404884884
+  logout: 1521405109588
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -7021.177431279831
+  y: 81.0
+  z: 789.4631069942028
+  yaw: 85.213623046875
+  pitch: 8.84999942779541
+  world-name: ''
+money: '0'
+homes:
+  dome:
+    world: world
+    x: -7032.884546647981
+    y: 49.0
+    z: 1030.0952235011846
+    yaw: 111.9146728515625
+    pitch: 22.200031280517578
+    world-name: ''
+  maison:
+    world: world
+    x: -7027.699999988079
+    y: 89.0
+    z: 897.6999999880791
+    yaw: 196.2144775390625
+    pitch: 12.150007247924805
+    world-name: ''
+  stocage:
+    world: world
+    x: -7025.9527333117585
+    y: 81.0
+    z: 796.4488699103371
+    yaw: 235.8135986328125
+    pitch: 17.400001525878906
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -7024.055891638826
+  y: 49.0
+  z: 1029.8545003852732
+  yaw: 177.46478271484375
+  pitch: 37.649986267089844
+  world-name: ''
+ip-address: 74.210.232.35
+last-account-name: lili987
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

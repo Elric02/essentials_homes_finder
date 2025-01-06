@@ -1,0 +1,67 @@
+timestamps:
+  login: 1515877411467
+  logout: 1515879838278
+  lastteleport: 1515877555686
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5399.691241525512
+  y: 76.0
+  z: -5142.367156989769
+  yaw: -192.39697265625
+  pitch: 36.26539993286133
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5397.323621357401
+  y: 58.0
+  z: -5150.160499033473
+  yaw: -273.843505859375
+  pitch: 5.249969959259033
+  world-name: ''
+money: '0'
+homes:
+  bite:
+    world: world
+    x: 5405.043518787429
+    y: 58.0625
+    z: -5150.262999005367
+    yaw: 268.40264892578125
+    pitch: 21.115386962890625
+    world-name: ''
+  jungle:
+    world: world_the_end
+    x: -2581.3811640727827
+    y: 20.5
+    z: 1779.9791795426509
+    yaw: -107.7718505859375
+    pitch: 0.6001312732696533
+    world-name: ''
+  chips:
+    world: Ressource
+    x: 3832.582094128833
+    y: 79.0
+    z: -2454.6518765512988
+    yaw: 232.63931274414062
+    pitch: 35.65678787231445
+    world-name: ''
+afk: false
+ip-address: 90.11.56.211
+last-account-name: xarchais
+mail:
+- legacy: true
+  read: false
+  message: §e[§rthibounet§e] §rFDPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

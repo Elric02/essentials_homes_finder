@@ -1,0 +1,38 @@
+timestamps:
+  login: 1612577808691
+  lastteleport: 1612525854522
+  logout: 1612577859486
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1455.3319703071102
+  y: 73.0
+  z: -2172.514194110932
+  yaw: -14.98046875
+  pitch: 27.98468589782715
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -156.83561104355223
+  y: 47.0
+  z: 558.6567602731888
+  yaw: -175.4053955078125
+  pitch: 7.6499857902526855
+  world-name: ''
+money: '0'
+ip-address: 124.122.56.152
+last-account-name: Beta_Space_1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

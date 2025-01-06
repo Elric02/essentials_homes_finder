@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617563614314
+  lastteleport: 1616273674936
+  logout: 1617563627552
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -464.30000001192093
+  y: 69.0
+  z: -5492.699999988079
+  yaw: 223.7699432373047
+  pitch: 56.33549118041992
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 156.89051345366673
+  y: 63.0
+  z: 38.58297373092079
+  yaw: 6.732423305511475
+  pitch: -3.9146971702575684
+  world-name: ''
+ip-address: 90.29.148.55
+last-account-name: minecraft_1678
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

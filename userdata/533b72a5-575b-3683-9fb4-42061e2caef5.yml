@@ -1,0 +1,38 @@
+timestamps:
+  login: 1502816707783
+  logout: 1502816734067
+  lastteleport: 1502816720813
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.87108053755563
+  y: 63.0
+  z: 37.66802137022633
+  yaw: -134.5543212890625
+  pitch: 17.454078674316406
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.50000077963705
+  y: 64.0
+  z: 11.860582855187348
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+ip-address: 83.115.237.32
+last-account-name: Lachinio_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

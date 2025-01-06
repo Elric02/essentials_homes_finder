@@ -1,0 +1,63 @@
+timestamps:
+  login: 1482237485326
+  lastteleport: 1482092212433
+  logout: 1482237580342
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6064.699999988079
+  y: 67.0
+  z: 4413.699999988079
+  yaw: -317.21990966796875
+  pitch: 40.819026947021484
+  world-name: ''
+homes:
+  spawn:
+    world: world
+    x: 6062.535943598021
+    y: 96.0
+    z: 4388.653181147247
+    yaw: -114.51272583007812
+    pitch: 24.101028442382812
+    world-name: ''
+  mineshaft:
+    world: ressource
+    x: -19.331201821383495
+    y: 22.0
+    z: -982.3000000119209
+    yaw: -57.68896484375
+    pitch: -0.22958673536777496
+    world-name: ''
+  home:
+    world: world
+    x: 6055.603207851955
+    y: 63.0
+    z: 4417.699999988079
+    yaw: -0.934814453125
+    pitch: 52.823814392089844
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6046.304046931554
+  y: 77.0
+  z: 4413.073055569869
+  yaw: -176.7921142578125
+  pitch: 34.307777404785156
+  world-name: ''
+afk: false
+ip-address: 86.242.223.188
+last-account-name: Gregoire_95
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

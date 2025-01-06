@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488656981961
+  lastteleport: 1488657102130
+  logout: 1488657478419
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 336.3435348884339
+  y: 27.0
+  z: -153.39709450472603
+  yaw: -178.55413818359375
+  pitch: 17.29764175415039
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 63.69999998807907
+  y: 67.0
+  z: 53.817585803295124
+  yaw: -166.56109619140625
+  pitch: 17.212133407592773
+  world-name: ''
+afk: false
+ip-address: 175.158.154.220
+last-account-name: xxdarkpgm123xx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

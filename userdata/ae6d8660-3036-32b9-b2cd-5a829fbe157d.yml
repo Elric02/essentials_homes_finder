@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518198655601
+  lastteleport: 1518198675207
+  logout: 1518198720415
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.53418783640012
+  y: 65.0
+  z: 98.86442926373323
+  yaw: 56.97909164428711
+  pitch: 2.982600688934326
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.53807276504023
+  y: 64.0
+  z: 19.54989991454912
+  yaw: -65.95989990234375
+  pitch: 26.901901245117188
+  world-name: ''
+ip-address: 78.230.139.115
+last-account-name: jojotato30
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1557767463519
+  lastteleport: 1557768118016
+  logout: 1557768301290
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -303.78085929415084
+  y: 66.0
+  z: -1.4339972843317383
+  yaw: -65.61632537841797
+  pitch: 3.481398105621338
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 137.64949719728463
+  y: 63.0
+  z: -26.298745529051544
+  yaw: 151.77813720703125
+  pitch: 14.12865161895752
+  world-name: ''
+ip-address: 77.202.217.27
+last-account-name: 23Sven67
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

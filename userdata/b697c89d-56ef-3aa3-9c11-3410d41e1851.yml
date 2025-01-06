@@ -1,0 +1,55 @@
+timestamps:
+  login: 1602963011405
+  logout: 1602965473200
+  lastteleport: 1602951241851
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3457.3650053165697
+  y: 79.0
+  z: -1476.7092977322768
+  yaw: -16.88275146484375
+  pitch: 6.996164321899414
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -910.2594752865463
+  y: 86.0
+  z: -1446.2870638060958
+  yaw: -53.51727294921875
+  pitch: 51.19313049316406
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -147.30693871687885
+    y: 47.0
+    z: 460.874209667819
+    yaw: 210.057861328125
+    pitch: 23.19306182861328
+    world-name: ''
+  mineur:
+    world: world
+    x: -3447.173959613488
+    y: 79.0
+    z: -1469.3145757854134
+    yaw: -169.13525390625
+    pitch: 30.3521671295166
+    world-name: ''
+afk: false
+ip-address: 90.73.194.1
+last-account-name: TO_Oxic_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

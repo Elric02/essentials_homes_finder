@@ -1,0 +1,47 @@
+timestamps:
+  login: 1480252041987
+  lastteleport: 1480252388137
+  logout: 1480252946737
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4121.047791143483
+  y: 70.0
+  z: -3644.9334602604654
+  yaw: -265.4434814453125
+  pitch: 21.899972915649414
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6820.359316356531
+  y: 5.0
+  z: -2662.662630748603
+  yaw: 277.046630859375
+  pitch: 6.449952125549316
+  world-name: ''
+homes:
+  b:
+    world: world
+    x: 6820.054303844233
+    y: 5.0
+    z: -2667.8632769048727
+    yaw: 270.5997619628906
+    pitch: -13.949930191040039
+    world-name: ''
+muted: false
+afk: false
+money: '0'
+ip-address: 78.118.209.121
+last-account-name: Nico2br2
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

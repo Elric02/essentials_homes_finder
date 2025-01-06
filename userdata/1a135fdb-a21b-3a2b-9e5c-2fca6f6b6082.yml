@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521449652678
+  logout: 1521450025111
+  lastteleport: 1521449689674
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.91117255257524
+  y: 63.0
+  z: 57.47525593451599
+  yaw: -3.2031450271606445
+  pitch: 5.340648651123047
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3520.161280858197
+  y: 76.0
+  z: 5877.731444686734
+  yaw: -164.2499237060547
+  pitch: 42.449989318847656
+  world-name: ''
+ip-address: 90.23.242.31
+last-account-name: Livithen
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1526232434815
+  lastteleport: 1517660901404
+  logout: 1526232442582
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 149.65348306632194
+  y: 63.0
+  z: 44.11069893231702
+  yaw: 27.164634704589844
+  pitch: 7.971898555755615
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6873.652533218326
+    y: 71.0
+    z: -1750.2441585056406
+    yaw: 177.02662658691406
+    pitch: 16.14259147644043
+    world-name: ''
+  a:
+    world: world
+    x: 6872.107342506395
+    y: 71.0
+    z: -1750.621655410619
+    yaw: 96.13966369628906
+    pitch: 16.22606658935547
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 136.68459719979813
+  y: 63.0
+  z: -20.41091680393899
+  yaw: -244.5456085205078
+  pitch: 12.729961395263672
+  world-name: ''
+afk: false
+ip-address: 91.179.183.171
+last-account-name: Heros_InConnu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

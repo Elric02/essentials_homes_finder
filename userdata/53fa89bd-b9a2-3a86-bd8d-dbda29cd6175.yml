@@ -1,0 +1,47 @@
+timestamps:
+  login: 1611247947049
+  lastteleport: 1610903325386
+  logout: 1611248889875
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 3394.4825051351127
+  y: 44.0
+  z: 2458.1712370081063
+  yaw: -246.4462890625
+  pitch: -16.049774169921875
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -734.4551862795918
+  y: 74.0
+  z: -266.5967904159389
+  yaw: -211.80105590820312
+  pitch: 27.450014114379883
+  world-name: ''
+homes:
+  marais:
+    world: world
+    x: -733.1558025925422
+    y: 71.0
+    z: -253.01478665339107
+    yaw: -359.990234375
+    pitch: 8.3999662399292
+    world-name: ''
+ip-address: 93.29.227.242
+last-account-name: Coxxsima
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

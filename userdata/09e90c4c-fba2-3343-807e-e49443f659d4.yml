@@ -1,0 +1,63 @@
+timestamps:
+  login: 1495706266112
+  lastteleport: 1495707953966
+  logout: 1495708297463
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5111.884256480622
+  y: 65.0
+  z: 3423.300000011921
+  yaw: 220.787109375
+  pitch: 29.50839614868164
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 5175.575066470946
+    y: 8.0
+    z: 3436.713759456049
+    yaw: -343.228515625
+    pitch: -49.214271545410156
+    world-name: ''
+  dehors:
+    world: world
+    x: 5175.236124374255
+    y: 63.0
+    z: 3422.6770262384402
+    yaw: -357.4812927246094
+    pitch: -4.466794967651367
+    world-name: ''
+  maison:
+    world: world
+    x: 5178.160420961231
+    y: 64.0
+    z: 3417.637309173158
+    yaw: 353.4703674316406
+    pitch: -2.146538734436035
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 5177.360771015291
+  y: 64.0
+  z: 3417.697635689867
+  yaw: 198.4798583984375
+  pitch: -2.312255620956421
+  world-name: ''
+money: '0'
+ip-address: 90.107.204.61
+last-account-name: pkpas
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

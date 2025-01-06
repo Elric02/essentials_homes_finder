@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499697555112
+  lastteleport: 1499697174892
+  logout: 1499697579685
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.37194574725638
+  y: 63.0
+  z: 48.50853481458762
+  yaw: -281.597412109375
+  pitch: -6.0525970458984375
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -126.4962648280368
+  y: 47.0
+  z: 535.6705438152105
+  yaw: -94.55110168457031
+  pitch: 84.36779022216797
+  world-name: ''
+ip-address: 78.249.181.48
+last-account-name: simon62
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

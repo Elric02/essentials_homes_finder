@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467222507725
+  lastteleport: 1467223002098
+  logout: 1467223586680
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -69.68030195731754
+  y: 71.0
+  z: -166.9036396113437
+  yaw: -266.255859375
+  pitch: 32.78119659423828
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Ressource
+  x: -14.123271312127274
+  y: 62.0
+  z: -9.699129802545908
+  yaw: -278.197021484375
+  pitch: 60.88345718383789
+  world-name: ''
+ip-address: 90.33.138.69
+last-account-name: lac88
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

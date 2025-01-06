@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480520862857
+  logout: 1480520898539
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 126.73729775717464
+  y: 63.0
+  z: -19.3799321557346
+  yaw: -261.3960266113281
+  pitch: -1.5749952793121338
+  world-name: ''
+ip-address: 92.160.158.211
+last-account-name: ameloche
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

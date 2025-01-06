@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.82.80.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1694106409973
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1694106956447
+  login: 1694105127873
+money: '0'
+last-account-name: Shifumie
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 397.1602636703092
+  y: 81.0
+  z: -3109.352253640434
+  yaw: 170.4749298095703
+  pitch: 10.502782821655273
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -108.69999998807907
+  y: 63.0
+  z: -407.80708033176865
+  yaw: -162.13827514648438
+  pitch: 63.76411437988281

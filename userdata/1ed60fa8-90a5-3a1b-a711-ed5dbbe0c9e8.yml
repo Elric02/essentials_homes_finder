@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477420942402
+  logout: 1477421241107
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 53.962299088565004
+  y: 68.0
+  z: 68.42307845884596
+  yaw: 204.70211791992188
+  pitch: 10.64997673034668
+  world-name: ''
+ip-address: 176.155.77.237
+last-account-name: Lmyy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

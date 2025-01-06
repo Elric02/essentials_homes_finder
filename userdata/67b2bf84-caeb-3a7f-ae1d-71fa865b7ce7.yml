@@ -1,0 +1,38 @@
+timestamps:
+  login: 1532362536738
+  lastteleport: 1532360796880
+  logout: 1532362618972
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.31481079450316
+  y: 63.0
+  z: 63.84147652638917
+  yaw: 220.89675903320312
+  pitch: -0.059324778616428375
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -649.2435183495758
+  y: 91.0
+  z: 221.44172309157403
+  yaw: 138.2999267578125
+  pitch: 47.39999771118164
+  world-name: ''
+ip-address: 90.78.32.45
+last-account-name: vava147258
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

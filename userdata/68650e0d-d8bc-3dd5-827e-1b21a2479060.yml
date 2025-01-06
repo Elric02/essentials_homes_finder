@@ -1,0 +1,38 @@
+timestamps:
+  login: 1630490319249
+  lastteleport: 1630491899420
+  logout: 1630492639764
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6276.618779225011
+  y: 64.0
+  z: 2703.585946911644
+  yaw: 273.58514404296875
+  pitch: 44.93478775024414
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 2232.405613450228
+  y: 64.0
+  z: -1089.4919416840244
+  yaw: 126.982666015625
+  pitch: 21.638275146484375
+  world-name: ''
+money: '0'
+ip-address: 86.244.172.235
+last-account-name: AlchiMirage
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

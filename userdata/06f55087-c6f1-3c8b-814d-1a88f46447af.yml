@@ -1,0 +1,55 @@
+timestamps:
+  login: 1605088439587
+  lastteleport: 1605090018840
+  logout: 1605090956838
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -85.30000001192093
+  y: 68.0
+  z: 3.699999988079071
+  yaw: -183.3697509765625
+  pitch: -13.018738746643066
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6168.6648552770275
+  y: 64.0
+  z: 2277.9901386286783
+  yaw: -53.10931396484375
+  pitch: 23.400005340576172
+  world-name: ''
+afk: false
+homes:
+  maison:
+    world: world
+    x: -6151.521165456575
+    y: 64.0
+    z: 2279.424283904386
+    yaw: -261.7503356933594
+    pitch: 79.35008239746094
+    world-name: ''
+  mine:
+    world: Ressource
+    x: -81.67936905065982
+    y: 63.0
+    z: -81.6758303204237
+    yaw: -0.7520902156829834
+    pitch: 44.24987030029297
+    world-name: ''
+ip-address: 87.66.101.110
+last-account-name: dydou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

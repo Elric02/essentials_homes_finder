@@ -1,0 +1,47 @@
+timestamps:
+  login: 1484992503068
+  lastteleport: 1484396451388
+  logout: 1484993283806
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+homes:
+  home:
+    world: ressource
+    x: 10266.60785785109
+    y: 72.0
+    z: 6685.007083241859
+    yaw: 125.01383972167969
+    pitch: 28.232519149780273
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -337.34783414692475
+  y: 64.0
+  z: -282.88128095282656
+  yaw: -312.568603515625
+  pitch: 21.013885498046875
+  world-name: ''
+afk: false
+ip-address: 2.1.244.61
+last-account-name: Drasque
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

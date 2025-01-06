@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618044276863
+  logout: 1618044393599
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 162.70369844821695
+  y: 65.0
+  z: 12.365011067967199
+  yaw: -170.9614715576172
+  pitch: 90.0
+  world-name: ''
+ip-address: 37.165.49.65
+last-account-name: itzz_enfant
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519319927388
+  lastteleport: 1519320095882
+  logout: 1519320132247
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4869.696670800299
+  y: 69.0
+  z: -368.0242578694579
+  yaw: -39.012908935546875
+  pitch: 1.526354193687439
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -157.39609775425916
+  y: 47.0
+  z: 543.1599524330994
+  yaw: -8.469554901123047
+  pitch: 11.356690406799316
+  world-name: ''
+ip-address: 178.193.150.3
+last-account-name: kikivofficiel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

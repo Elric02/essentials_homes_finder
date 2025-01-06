@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469628755081
+  lastteleport: 1469628944973
+  logout: 1469629069261
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5924.4758004496825
+  y: 79.0
+  z: 1210.6168161202074
+  yaw: 25.156219482421875
+  pitch: 28.64997100830078
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1713.2256609906374
+  y: 71.0
+  z: 1040.8054650688525
+  yaw: 45.59954833984375
+  pitch: 12.449837684631348
+  world-name: ''
+ip-address: 92.106.153.237
+last-account-name: poire01
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

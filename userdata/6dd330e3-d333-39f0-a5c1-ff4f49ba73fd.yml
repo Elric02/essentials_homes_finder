@@ -1,0 +1,63 @@
+timestamps:
+  login: 1522861845428
+  lastteleport: 1509815888003
+  logout: 1522861939479
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.1544453669158
+  y: 64.0
+  z: 27.258891497606207
+  yaw: 113.48928833007812
+  pitch: 35.40000534057617
+  world-name: ''
+homes:
+  a:
+    world: world
+    x: 5497.770521739603
+    y: 63.0
+    z: -1106.622205319265
+    yaw: -250.61233520507812
+    pitch: 30.000070571899414
+    world-name: ''
+  d:
+    world: Ressource
+    x: 2255.824624723267
+    y: 72.0
+    z: 2869.8445704858773
+    yaw: -7.800206661224365
+    pitch: 26.850004196166992
+    world-name: ''
+  st:
+    world: world
+    x: -2157.9354999950942
+    y: 79.0
+    z: -3779.470006820019
+    yaw: -184.0489501953125
+    pitch: 65.09998321533203
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5514.740438781115
+  y: 65.0
+  z: -1142.624934178193
+  yaw: -43.61264419555664
+  pitch: 16.649951934814453
+  world-name: ''
+afk: false
+muted: false
+jailed: false
+ip-address: 185.22.219.83
+last-account-name: joris
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

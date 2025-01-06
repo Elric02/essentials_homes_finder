@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466851239652
+  logout: 1466851251125
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.3125427508186
+  y: 64.5
+  z: -7.055668577950987
+  yaw: -184.49722290039062
+  pitch: 38.47418212890625
+  world-name: ''
+ip-address: 85.26.77.52
+last-account-name: leroix1234
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

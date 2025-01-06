@@ -1,0 +1,38 @@
+timestamps:
+  login: 1464631629733
+  logout: 1464631711870
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 182.00668892739736
+  y: 63.0
+  z: -12.626521085087981
+  yaw: -15.447131156921387
+  pitch: 14.549976348876953
+  world-name: ''
+ip-address: 90.104.201.104
+last-account-name: Mr_Creep
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

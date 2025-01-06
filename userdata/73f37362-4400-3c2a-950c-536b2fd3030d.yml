@@ -1,0 +1,63 @@
+timestamps:
+  login: 1577369212998
+  lastteleport: 1577369305882
+  logout: 1577369406703
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.8079772517736
+  y: 64.0
+  z: 13.990010300440611
+  yaw: -168.17059326171875
+  pitch: 12.928641319274902
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  end:
+    world: End
+    x: -307.10501015884745
+    y: 98.0
+    z: 0.43456320576118923
+    yaw: -349.418212890625
+    pitch: 25.650062561035156
+    world-name: ''
+  v:
+    world: world
+    x: 213.82805298690118
+    y: 135.0
+    z: 140.3377085438412
+    yaw: 329.681640625
+    pitch: 16.80000114440918
+    world-name: ''
+  b:
+    world: world
+    x: -855.2350648245176
+    y: 70.0
+    z: -3569.1576817500636
+    yaw: -87.26508331298828
+    pitch: 20.41893768310547
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1002.0678598832584
+  y: 79.0
+  z: -3505.5167815873356
+  yaw: -19.61444091796875
+  pitch: 30.91895866394043
+  world-name: ''
+ip-address: 81.242.237.62
+last-account-name: razenlink
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

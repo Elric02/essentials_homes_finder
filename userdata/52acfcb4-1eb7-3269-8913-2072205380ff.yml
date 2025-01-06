@@ -1,0 +1,47 @@
+timestamps:
+  login: 1471616755401
+  lastteleport: 1471623701013
+  logout: 1471624123081
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 133.2345273115226
+  y: 66.0
+  z: -136.34795506181234
+  yaw: -213.969482421875
+  pitch: 25.22454071044922
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5373.4622407105335
+  y: 68.0
+  z: 6198.103112930029
+  yaw: -51.900238037109375
+  pitch: -6.749988555908203
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 5369.876376384085
+    y: 68.0
+    z: 6195.933655687276
+    yaw: -249.150146484375
+    pitch: 25.20006561279297
+    world-name: ''
+ip-address: 92.107.27.239
+last-account-name: jimmx1234
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

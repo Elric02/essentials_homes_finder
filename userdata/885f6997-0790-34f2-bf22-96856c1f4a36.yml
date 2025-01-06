@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.219.32.225
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655745990797
+  login: 1655743902315
+money: '0'
+last-account-name: Yel1nn258
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.21989720338775
+  y: 81.0
+  z: -3111.419409150137
+  yaw: -74.69781494140625
+  pitch: 26.54993438720703
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 415.53565754090147
+  y: 81.0
+  z: -3234.0151633057644
+  yaw: -165.89828491210938
+  pitch: 52.34999084472656

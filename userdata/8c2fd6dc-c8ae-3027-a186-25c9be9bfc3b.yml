@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469717297125
+  logout: 1469717359558
+  lastteleport: 1469639415547
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.23470476583705
+  y: 27.5
+  z: 23.071075216561198
+  yaw: -4.94724178314209
+  pitch: -11.325822830200195
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -599.0072169318311
+  y: 67.5
+  z: -847.879262755048
+  yaw: -225.6969757080078
+  pitch: 62.27634048461914
+  world-name: ''
+ip-address: 197.158.85.2
+last-account-name: Sam10
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

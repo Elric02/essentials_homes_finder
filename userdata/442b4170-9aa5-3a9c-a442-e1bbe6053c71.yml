@@ -1,0 +1,38 @@
+timestamps:
+  login: 1590324314374
+  logout: 1590324730170
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 92.24836427542743
+  y: 64.0
+  z: -19.113990334484402
+  yaw: -331.370849609375
+  pitch: 23.250019073486328
+  world-name: ''
+ip-address: 86.77.199.104
+last-account-name: mis27
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

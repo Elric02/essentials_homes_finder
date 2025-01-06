@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618165277161
+  lastteleport: 1618165658842
+  logout: 1618165693902
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -82.26711857691878
+  y: 69.0
+  z: 0.5183399971495304
+  yaw: -50.681060791015625
+  pitch: 4.962310194969177E-4
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.24298494723132
+  y: 63.0
+  z: 37.70949624680146
+  yaw: -204.3953094482422
+  pitch: -0.02412482351064682
+  world-name: ''
+ip-address: 78.224.113.248
+last-account-name: Akio
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

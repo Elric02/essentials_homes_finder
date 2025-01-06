@@ -1,0 +1,39 @@
+timestamps:
+  login: 1620236497470
+  lastteleport: 1620237756064
+  jail: 1620282073597
+  onlinejail: 0
+  logout: 1620238978148
+  lastheal: 0
+  mute: 0
+lastlocation:
+  world: Ressource
+  x: -1207.300000011921
+  y: 12.0
+  z: -2623.300000011921
+  yaw: 284.8460998535156
+  pitch: 36.59953689575195
+  world-name: ''
+money: '0'
+jailed: true
+jail: cage1
+logoutlocation:
+  world: world
+  x: 200.4248375254535
+  y: 69.20000004768372
+  z: 14.386257841579607
+  yaw: -271.7423095703125
+  pitch: 10.950010299682617
+  world-name: ''
+ip-address: 78.212.238.95
+last-account-name: aaaaaaaaaaaaaaa
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

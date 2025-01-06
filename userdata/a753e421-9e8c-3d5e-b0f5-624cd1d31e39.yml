@@ -1,0 +1,38 @@
+timestamps:
+  login: 1611861273414
+  lastteleport: 1611861537917
+  logout: 1611861691775
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.0075457539957
+  y: 63.0
+  z: 33.80691522037269
+  yaw: -357.4495849609375
+  pitch: 27.94886589050293
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 4637.6172925793035
+  y: 69.0
+  z: 2852.300000011921
+  yaw: -130.05630493164062
+  pitch: 12.748086929321289
+  world-name: ''
+ip-address: 92.167.128.8
+last-account-name: zirmtex
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

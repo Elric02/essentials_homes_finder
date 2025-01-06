@@ -1,0 +1,38 @@
+timestamps:
+  login: 1463934998133
+  logout: 1463935211406
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.66029213133396
+  y: 64.0
+  z: 25.493506041320842
+  yaw: -167.99839782714844
+  pitch: 7.124215602874756
+  world-name: ''
+ip-address: 90.120.163.205
+last-account-name: tata
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

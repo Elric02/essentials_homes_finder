@@ -1,0 +1,55 @@
+timestamps:
+  login: 1586275037648
+  lastteleport: 1586275255482
+  logout: 1586275293891
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4920.198797158067
+  y: 64.0
+  z: -5458.310290576918
+  yaw: -356.7186584472656
+  pitch: 6.064496040344238
+  world-name: ''
+homes:
+  fla25:
+    world: world
+    x: 4.6522864875731385
+    y: 55.0
+    z: -2294.225581677763
+    yaw: -16.418212890625
+    pitch: 30.887540817260742
+    world-name: ''
+  ceciestunhome:
+    world: world
+    x: 4.03204126347624
+    y: 58.0
+    z: -2300.1382639217736
+    yaw: 18.3935546875
+    pitch: 20.17001724243164
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4.5
+  y: 55.0
+  z: -2294.5
+  yaw: -16.418212890625
+  pitch: 30.887540817260742
+  world-name: ''
+afk: false
+ip-address: 91.168.215.136
+last-account-name: Fla25
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

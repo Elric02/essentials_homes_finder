@@ -1,0 +1,38 @@
+timestamps:
+  login: 1643102919290
+  logout: 1643102977682
+  lastteleport: 1643102968393
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 93.1360312468807
+  y: 63.0
+  z: -26.766058286600458
+  yaw: -151.12832641601562
+  pitch: 3.40921950340271
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 156.848515874681
+  y: 63.5
+  z: 12.640827415491373
+  yaw: -109.79756164550781
+  pitch: 17.85005760192871
+  world-name: world
+ip-address: 105.100.6.192
+last-account-name: RaMaCim
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

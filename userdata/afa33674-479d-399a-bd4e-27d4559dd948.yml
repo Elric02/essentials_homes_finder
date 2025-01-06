@@ -1,0 +1,38 @@
+timestamps:
+  login: 1530459631150
+  lastteleport: 1530460610219
+  logout: 1530461116314
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4923.282030729598
+  y: 62.22775388469439
+  z: 105.69999998807907
+  yaw: 2.6639404296875
+  pitch: -8.918886184692383
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 203.6999999880791
+  y: 72.0
+  z: -328.30000001192093
+  yaw: 293.669677734375
+  pitch: 21.897537231445312
+  world-name: ''
+ip-address: 77.134.18.35
+last-account-name: Finoway
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1565794845359
+  lastteleport: 1565795737909
+  logout: 1565796220345
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -489.7445140364102
+  y: 58.0
+  z: -4262.806243045791
+  yaw: -82.0498046875
+  pitch: 25.80000114440918
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: -489.98541949157146
+    y: 63.0
+    z: -4263.4008777772
+    yaw: -264.1497497558594
+    pitch: 63.600013732910156
+    world-name: ''
+ip-address: 196.20.175.192
+last-account-name: airodin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

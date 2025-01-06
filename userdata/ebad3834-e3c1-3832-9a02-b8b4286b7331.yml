@@ -1,0 +1,38 @@
+timestamps:
+  login: 1585395935575
+  lastteleport: 1585347120733
+  logout: 1585400595019
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 168.47855520229223
+  y: 63.0
+  z: 15.684286950422733
+  yaw: -91.69595336914062
+  pitch: 31.26529884338379
+  world-name: ''
+afk: false
+logoutlocation:
+  world: Ressource
+  x: -63.65246274902529
+  y: 74.0
+  z: 246.0990277838281
+  yaw: -235.10223388671875
+  pitch: -4.069538116455078
+  world-name: ''
+money: '0'
+ip-address: 82.239.219.133
+last-account-name: zombieApoc
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

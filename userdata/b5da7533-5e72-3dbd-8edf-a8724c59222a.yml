@@ -1,0 +1,38 @@
+timestamps:
+  login: 1505906769737
+  logout: 1505907290258
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 137.90022416096136
+  y: 63.0
+  z: -27.031346484980894
+  yaw: -33.94683837890625
+  pitch: 11.250003814697266
+  world-name: ''
+ip-address: 86.214.244.121
+last-account-name: ardzi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

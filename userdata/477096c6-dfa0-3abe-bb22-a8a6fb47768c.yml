@@ -1,0 +1,38 @@
+timestamps:
+  login: 1523094990294
+  lastteleport: 1523095184623
+  logout: 1523095381889
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -20.19831374244439
+  y: 89.5
+  z: 0.6580990885802532
+  yaw: -323.21490478515625
+  pitch: 4.649978160858154
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 162.4935649984747
+  y: 67.5
+  z: 11.31528616055324
+  yaw: -271.52117919921875
+  pitch: 6.299990177154541
+  world-name: ''
+ip-address: 78.125.192.4
+last-account-name: lulucraft321
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

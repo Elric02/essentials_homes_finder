@@ -1,0 +1,38 @@
+timestamps:
+  login: 1497650052207
+  lastteleport: 1497651571312
+  logout: 1497651686797
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 149.75066252482424
+  y: 64.0
+  z: 22.61494696675445
+  yaw: -272.3110046386719
+  pitch: -32.2254753112793
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1937.97102429097
+  y: 68.0
+  z: -1767.6782228159188
+  yaw: 45.24738311767578
+  pitch: 11.045866966247559
+  world-name: ''
+ip-address: 88.174.2.173
+last-account-name: Lithraem
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

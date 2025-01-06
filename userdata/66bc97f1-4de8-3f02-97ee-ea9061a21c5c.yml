@@ -1,0 +1,38 @@
+timestamps:
+  login: 1527336289573
+  lastteleport: 1527336612807
+  logout: 1527336706498
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.2514991233695
+  y: 66.0
+  z: -4.784135020524226
+  yaw: -182.033203125
+  pitch: -3.111374855041504
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3226.3212217854325
+  y: 67.0
+  z: 799.6999999880791
+  yaw: 207.11111450195312
+  pitch: 2.6496050357818604
+  world-name: ''
+ip-address: 176.163.235.174
+last-account-name: Napoz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

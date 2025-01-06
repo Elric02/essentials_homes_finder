@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.31.252.216
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1689291341161
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1689291459014
+  login: 1689291412038
+money: '0'
+last-account-name: Lanczos
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 268.6417972779294
+  y: 65.0
+  z: 231.41341932523468
+  yaw: 67.49201965332031
+  pitch: 19.17724609375
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 262.9825743698253
+  y: 66.377779537449
+  z: 262.32943504785294
+  yaw: -42.07463455200195
+  pitch: 17.173770904541016

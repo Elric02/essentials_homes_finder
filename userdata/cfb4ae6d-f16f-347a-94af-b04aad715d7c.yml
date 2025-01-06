@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.175.203.87
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1683918449982
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683918519491
+  login: 1683918516661
+money: '0'
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 59.05487920554056
+  y: 71.25428420716578
+  z: 66.17134365783426
+  yaw: -106.75517272949219
+  pitch: 45.43614196777344
+last-account-name: isma67
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 276.94329142513004
+  y: 65.0
+  z: -229.943370804294
+  yaw: -44.845977783203125
+  pitch: 52.673919677734375

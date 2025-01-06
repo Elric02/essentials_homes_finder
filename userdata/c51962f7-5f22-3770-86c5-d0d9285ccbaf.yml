@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487861109982
+  lastteleport: 1487861294589
+  logout: 1487861732873
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 147.9012652084966
+  y: 64.0
+  z: 25.803032342087988
+  yaw: 114.9852294921875
+  pitch: 21.23264503479004
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3221.8611554849676
+  y: 64.0
+  z: 7073.003299808658
+  yaw: 73.61422729492188
+  pitch: 13.537144660949707
+  world-name: ''
+money: '0'
+ip-address: 176.152.109.218
+last-account-name: JeanfilsYT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

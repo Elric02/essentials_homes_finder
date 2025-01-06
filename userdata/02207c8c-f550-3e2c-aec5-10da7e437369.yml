@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488656859587
+  lastteleport: 1488659405259
+  logout: 1488659500229
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.1200662807406
+  y: 63.0
+  z: 0.9213186965965594
+  yaw: -189.0609893798828
+  pitch: 25.67452621459961
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.56969940979604
+  y: 64.0
+  z: 27.330225768089164
+  yaw: -178.86090087890625
+  pitch: 15.32451343536377
+  world-name: ''
+ip-address: 90.125.196.227
+last-account-name: Miss_Miku
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

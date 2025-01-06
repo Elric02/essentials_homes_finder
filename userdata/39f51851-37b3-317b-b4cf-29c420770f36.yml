@@ -1,0 +1,38 @@
+timestamps:
+  login: 1585321288719
+  lastteleport: 1585321568194
+  logout: 1585322538225
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 88.35374654654112
+  y: 69.00133597911214
+  z: -6485.689114040494
+  yaw: -91.79592895507812
+  pitch: 13.199911117553711
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5473.165506526986
+  y: 63.0
+  z: 1017.7534257104033
+  yaw: 70.79768371582031
+  pitch: -5.099984169006348
+  world-name: ''
+ip-address: 92.184.112.119
+last-account-name: Cordrydude
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1465921628919
+  lastteleport: 1465921985704
+  logout: 1465922042578
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 119.06620826294385
+  y: 63.0
+  z: 24.240909511865535
+  yaw: -48.746337890625
+  pitch: -5.925812244415283
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -746.8680687096502
+  y: 71.0
+  z: 1493.61966637035
+  yaw: -348.748046875
+  pitch: 10.465970993041992
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: -746.8680687096502
+    y: 71.0
+    z: 1493.61966637035
+    yaw: -86.9986572265625
+    pitch: 25.165979385375977
+    world-name: ''
+ip-address: 109.27.220.177
+last-account-name: FiRe_WanTeD
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1518535124980
+  lastteleport: 1518535153480
+  logout: 1518535158474
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6991.823518399423
+  y: 87.0
+  z: 779.4685971489367
+  yaw: -256.7586364746094
+  pitch: 14.999996185302734
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: -4688.413936685724
+    y: 4.0
+    z: 4345.366282468201
+    yaw: 186.2982177734375
+    pitch: 10.05001449584961
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -4688.5
+  y: 4.0
+  z: 4345.5
+  yaw: 159.29824829101562
+  pitch: 11.40001392364502
+  world-name: ''
+ip-address: 176.190.85.91
+last-account-name: Lyoana
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1535985918946
+  logout: 1535986259212
+  lastteleport: 1535986226768
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 57.69999998807907
+  y: 36.0
+  z: -1559.300000011921
+  yaw: 349.34918212890625
+  pitch: 33.60000991821289
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 61.417870517004836
+  y: 38.0
+  z: -1556.8225822161987
+  yaw: 130.64987182617188
+  pitch: 73.94999694824219
+  world-name: ''
+money: '0'
+ip-address: 109.0.174.122
+last-account-name: roi4564
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

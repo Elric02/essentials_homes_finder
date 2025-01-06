@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471461155472
+  lastteleport: 1471461539363
+  logout: 1471461773843
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 258.1287289827499
+  y: 76.0
+  z: 1281.8237774757602
+  yaw: 131.1259002685547
+  pitch: 12.293018341064453
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.99175784402001
+  y: 63.0
+  z: -15.983313081113474
+  yaw: -109.4566650390625
+  pitch: -3.7913777828216553
+  world-name: ''
+ip-address: 90.105.234.113
+last-account-name: zarras
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

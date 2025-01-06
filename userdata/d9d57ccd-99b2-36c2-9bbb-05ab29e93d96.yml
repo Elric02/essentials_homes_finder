@@ -1,0 +1,38 @@
+timestamps:
+  login: 1525897346323
+  logout: 1525898401988
+  lastteleport: 1525898179392
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4812.038830585231
+  y: 69.0
+  z: -356.4220813757829
+  yaw: -128.12249755859375
+  pitch: 14.550028800964355
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3631.075695654575
+  y: 87.0
+  z: -1697.738782668225
+  yaw: 129.30003356933594
+  pitch: 40.799991607666016
+  world-name: ''
+money: '0'
+ip-address: 90.53.213.52
+last-account-name: Asuna__
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

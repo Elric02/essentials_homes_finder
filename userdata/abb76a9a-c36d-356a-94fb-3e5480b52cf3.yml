@@ -1,0 +1,38 @@
+timestamps:
+  login: 1596992715900
+  lastteleport: 1596991942521
+  logout: 1596993330720
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4984.395035730205
+  y: 62.0
+  z: -5099.288386423963
+  yaw: 184.4891357421875
+  pitch: 3.5999765396118164
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -7344.720661564954
+  y: 68.0
+  z: 2429.843339343332
+  yaw: -187.08651733398438
+  pitch: 19.050186157226562
+  world-name: ''
+ip-address: 79.91.185.88
+last-account-name: _Yugo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1498776245809
+  lastteleport: 1494118737373
+  logout: 1498776299470
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6381.404653287626
+  y: 68.0
+  z: 6577.22417822936
+  yaw: -265.34564208984375
+  pitch: 20.448322296142578
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6269.89979514888
+  y: 78.0
+  z: 6717.631917637196
+  yaw: -311.696533203125
+  pitch: 15.910235404968262
+  world-name: ''
+homes:
+  moi:
+    world: world
+    x: -6318.6357817420085
+    y: 79.0
+    z: 6596.951492539097
+    yaw: 67.80831909179688
+    pitch: 0.6563148498535156
+    world-name: ''
+  lulu:
+    world: world
+    x: -7439.265185808677
+    y: 68.0
+    z: -1404.0316223886332
+    yaw: 90.79449462890625
+    pitch: 3.7499821186065674
+    world-name: ''
+  c:
+    world: ressource
+    x: 1056.918541624826
+    y: 38.0
+    z: 55.688758524570346
+    yaw: 233.0291748046875
+    pitch: 23.400014877319336
+    world-name: ''
+afk: false
+ip-address: 93.3.96.32
+last-account-name: ImNotAHuman
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

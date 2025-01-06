@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.65.173.153
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1681418881104
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681418914465
+  login: 1681418514903
+  kits:
+    debutant: 1665333119347
+    explorateur: 0
+    ambassadeur: 0
+    stadawan: 0
+    spaceranger: 0
+    stationaute: 0
+    creatif: 1664819779044
+    vip: 1665333125133
+    color: 1665333126237
+money: '101.0'
+last-account-name: Cobaye1
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.18639892812658
+  y: 63.0
+  z: 6.039755172296973
+  yaw: 145.51541137695312
+  pitch: 18.150146484375
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 245.5
+  y: 132.0
+  z: 140.5
+  yaw: 177.77108764648438
+  pitch: 5.7003631591796875

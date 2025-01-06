@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517089420781
+  lastteleport: 1517089503313
+  logout: 1517090675793
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.5
+  y: 65.0
+  z: 100.5
+  yaw: 161.346923828125
+  pitch: 2.0406527519226074
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -547.6645445478385
+  y: 74.0
+  z: -3390.5469781557945
+  yaw: 262.2013854980469
+  pitch: 10.04998779296875
+  world-name: ''
+ip-address: 78.244.248.114
+last-account-name: Anais
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

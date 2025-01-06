@@ -1,0 +1,39 @@
+timestamps:
+  login: 1561568651037
+  logout: 1561568661800
+  lastteleport: 1561568206206
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 198.71959525549408
+  y: 74.0
+  z: 18.523793234388357
+  yaw: -271.01568603515625
+  pitch: 17.99410629272461
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 198.48744983757823
+  y: 74.0
+  z: 18.516908154051997
+  yaw: -270.57415771484375
+  pitch: 17.883726119995117
+  world-name: ''
+jailed: true
+jail: cage
+ip-address: 78.215.73.108
+last-account-name: PIGGY_YTB
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

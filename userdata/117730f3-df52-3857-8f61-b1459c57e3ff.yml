@@ -1,0 +1,55 @@
+timestamps:
+  login: 1563285457095
+  logout: 1563285517891
+  lastteleport: 1563268419204
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6663.78015849673
+  y: 84.0
+  z: 2844.547731206426
+  yaw: -45.14276123046875
+  pitch: 10.349971771240234
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -6657.300000011921
+  y: 6.0
+  z: 2803.008522484092
+  yaw: -194.18084716796875
+  pitch: 4.349978923797607
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: -6651.308714480715
+    y: 83.0
+    z: 2843.859935201883
+    yaw: -206.0927734375
+    pitch: 28.49997329711914
+    world-name: ''
+  m:
+    world: world
+    x: -6658.300000011921
+    y: 4.0
+    z: 2851.64640907238
+    yaw: -175.96746826171875
+    pitch: 21.600038528442383
+    world-name: ''
+ip-address: 92.146.62.138
+last-account-name: colin450
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

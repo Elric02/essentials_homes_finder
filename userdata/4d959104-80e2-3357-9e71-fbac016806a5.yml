@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.122.136.125
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1685099126246
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1685099369311
+  login: 1685099021332
+money: '0'
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -643.0
+  y: 74.70432320117865
+  z: -168.01476159239732
+  yaw: -173.1827850341797
+  pitch: 32.69936752319336
+last-account-name: SRAKEN
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -616.9130395578338
+  y: 33.0
+  z: -175.56280561695766
+  yaw: -111.0840072631836
+  pitch: 18.29974365234375

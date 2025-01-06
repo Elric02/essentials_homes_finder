@@ -1,0 +1,47 @@
+timestamps:
+  login: 1623242639323
+  logout: 1623243788044
+  lastteleport: 1623243364024
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5001.602305643296
+  y: 69.0
+  z: 5861.393710529607
+  yaw: -350.5498352050781
+  pitch: 25.500125885009766
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 72.40259538069576
+  y: 8.0
+  z: 3085.8178513018183
+  yaw: -10.3590087890625
+  pitch: 22.19993019104004
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 72.30000001192093
+    y: 8.0
+    z: 3085.699999988079
+    yaw: -152.252197265625
+    pitch: -33.74995422363281
+    world-name: ''
+money: '0'
+ip-address: 88.168.209.133
+last-account-name: KLYTOX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1493921892132
+  lastteleport: 1493922083515
+  logout: 1493922097752
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -578.3000000119209
+  y: 64.0
+  z: -755.6999999880791
+  yaw: -143.04415893554688
+  pitch: 21.882902145385742
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -274.1617362466356
+  y: 65.0
+  z: 370.05970228612944
+  yaw: -90.09056854248047
+  pitch: 48.13850402832031
+  world-name: ''
+ip-address: 109.132.3.160
+last-account-name: Skyforc
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

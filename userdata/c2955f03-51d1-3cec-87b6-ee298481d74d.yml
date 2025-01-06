@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.241.5.188
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643490904839
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643490993246
+  login: 1643489109666
+money: '0'
+last-account-name: Y1annou
+lastlocation:
+  world: 53088384-c7c2-4056-b289-104b018f6c26
+  world-name: Ressource
+  x: -497.98798774000227
+  y: 11.0
+  z: -118.49812347306485
+  yaw: 291.5771484375
+  pitch: 26.2506046295166
+logoutlocation:
+  world: 53088384-c7c2-4056-b289-104b018f6c26
+  world-name: Ressource
+  x: -426.51454036536967
+  y: 13.676470876144272
+  z: -187.20530943655862
+  yaw: 107.21210479736328
+  pitch: 29.525917053222656

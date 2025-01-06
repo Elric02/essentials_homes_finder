@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476566780196
+  lastteleport: 1476564975334
+  logout: 1476566817095
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.1055053082343
+  y: 63.0
+  z: -9.411876835903335
+  yaw: -193.1037139892578
+  pitch: 4.495070457458496
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.21928639190935
+  y: 63.0
+  z: 33.67495688730199
+  yaw: -177.4878387451172
+  pitch: 15.674657821655273
+  world-name: ''
+ip-address: 92.146.85.168
+last-account-name: matteo47
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

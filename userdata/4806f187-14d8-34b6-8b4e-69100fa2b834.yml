@@ -1,0 +1,63 @@
+timestamps:
+  login: 1656243008325
+  logout: 1656243147981
+  lastteleport: 1620067884493
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2410.1050825789403
+  y: 70.0
+  z: 6999.423881811484
+  yaw: 266.03173828125
+  pitch: 24.452516555786133
+  world-name: ''
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -3484.6650112610496
+  y: 63.0
+  z: -2016.7445429061443
+  yaw: -168.41238403320312
+  pitch: 19.242948532104492
+  world-name: world
+money: '0'
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3477.056185208649
+    y: 58.0
+    z: -2002.6225092017517
+    yaw: 222.4493408203125
+    pitch: 17.4000244140625
+    world-name: world
+  montagne:
+    world: world
+    x: -3124.6881881086515
+    y: 79.0
+    z: -1532.50950040367
+    yaw: 274.4749450683594
+    pitch: 22.847238540649414
+    world-name: ''
+  sdc:
+    world: world
+    x: -3130.543987625844
+    y: 57.0625
+    z: -2321.699999988079
+    yaw: -76.37152099609375
+    pitch: 16.22669219970703
+    world-name: ''
+afk: false
+ip-address: 91.165.207.33
+last-account-name: _Leana__
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

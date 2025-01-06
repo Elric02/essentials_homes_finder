@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484074255590
+  lastteleport: 1484074274513
+  logout: 1484074283021
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -268.847412109375
+  pitch: -6.20259952545166
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -5.7608642578125
+  pitch: 8.574514389038086
+  world-name: ''
+ip-address: 90.126.126.119
+last-account-name: menosyoutube
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

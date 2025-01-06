@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479428188590
+  logout: 1479428206660
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 121.71642272693833
+  y: 63.0
+  z: -16.685673174980792
+  yaw: -233.89678955078125
+  pitch: 16.747390747070312
+  world-name: ''
+ip-address: 74.58.150.90
+last-account-name: lox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

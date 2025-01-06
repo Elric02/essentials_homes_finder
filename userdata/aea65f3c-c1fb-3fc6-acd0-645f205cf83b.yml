@@ -1,0 +1,47 @@
+timestamps:
+  login: 1519422232591
+  logout: 1519422596500
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.8830164541907
+  y: 63.0
+  z: 7.9800688612342245
+  yaw: 146.49664306640625
+  pitch: 28.89064598083496
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4905.840895714316
+  y: 63.0
+  z: 931.3108520582175
+  yaw: 2.25177001953125
+  pitch: 24.300174713134766
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 4905.840895714316
+    y: 63.0
+    z: 931.3108520582175
+    yaw: 2.25177001953125
+    pitch: 24.300174713134766
+    world-name: ''
+ip-address: 81.48.19.54
+last-account-name: thewxfr
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

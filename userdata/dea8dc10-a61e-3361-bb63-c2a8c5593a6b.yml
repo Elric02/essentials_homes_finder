@@ -1,0 +1,56 @@
+timestamps:
+  login: 1514125172615
+  lastteleport: 1513526547052
+  logout: 1514125263157
+  jail: 0
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 198.48744983757823
+  y: 74.0
+  z: 18.516908154051997
+  yaw: -270.57415771484375
+  pitch: 17.883726119995117
+  world-name: ''
+money: '0'
+homes:
+  mine:
+    world: Ressource
+    x: -48.188601436955835
+    y: 27.0
+    z: 132.67361610294398
+    yaw: 86.66442108154297
+    pitch: 35.24999237060547
+    world-name: ''
+  bp:
+    world: world
+    x: 638.5
+    y: 64.0
+    z: -2322.5
+    yaw: -33.150360107421875
+    pitch: 14.700000762939453
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 197.86250001192093
+  y: 74.0
+  z: 18.52003496831494
+  yaw: -270.57415771484375
+  pitch: 17.883726119995117
+  world-name: ''
+afk: false
+jailed: true
+muted: false
+jail: cage
+ip-address: 193.250.139.95
+last-account-name: Sanaken
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

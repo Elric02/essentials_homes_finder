@@ -1,0 +1,38 @@
+timestamps:
+  login: 1489167660180
+  lastteleport: 1489168099683
+  logout: 1489168174442
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.6072302319502
+  y: 63.0
+  z: 45.47315872281006
+  yaw: 8.339008331298828
+  pitch: -9.725486755371094
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 191.30000001192093
+  y: 64.0
+  z: 202.30000001192093
+  yaw: 293.4983825683594
+  pitch: 16.437328338623047
+  world-name: ''
+ip-address: 90.96.8.86
+last-account-name: Isagrise
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

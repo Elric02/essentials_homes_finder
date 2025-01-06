@@ -1,0 +1,55 @@
+timestamps:
+  login: 1523717798124
+  lastteleport: 1523718793574
+  logout: 1523718994272
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1831.8192806902957
+  y: 64.0
+  z: -4293.1523429479985
+  yaw: 274.14556884765625
+  pitch: 3.450092315673828
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1436.422385457864
+  y: 63.0
+  z: -2052.183241897283
+  yaw: 198.5272674560547
+  pitch: 10.635979652404785
+  world-name: ''
+money: '0'
+homes:
+  alex:
+    world: world
+    x: 1830.168419921037
+    y: 79.0
+    z: -4268.432848213809
+    yaw: 174.0960693359375
+    pitch: 33.299949645996094
+    world-name: ''
+  creepers62:
+    world: world
+    x: 1852.300000011921
+    y: 54.0
+    z: -4277.655249894301
+    yaw: 92.04547119140625
+    pitch: -1.0498991012573242
+    world-name: ''
+afk: false
+ip-address: 86.74.65.86
+last-account-name: Naro_Angel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

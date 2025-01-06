@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.82.202.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1693839313382
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1693839360962
+  login: 1693839358425
+  kits:
+    stationaute: 1693839298280
+money: '150.0'
+last-account-name: TwitcherMicher
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 199.6386211542455
+  y: 76.85930082567836
+  z: -2.9779139464924675
+  yaw: -173.84689331054688
+  pitch: 32.24993133544922
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 199.6386211542455
+  y: 62.0
+  z: -2.9779139464924675
+  yaw: 169.9534912109375
+  pitch: 62.849952697753906

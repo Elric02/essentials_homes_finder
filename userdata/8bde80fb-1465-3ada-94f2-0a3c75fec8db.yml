@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477055132655
+  lastteleport: 1477059775971
+  logout: 1477059857568
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: -5607.260700551552
+  y: 72.0
+  z: -351.0022077312117
+  yaw: 117.6623306274414
+  pitch: 49.04802703857422
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -162.33237079639395
+  y: 47.0
+  z: 506.26055143384457
+  yaw: 232.09423828125
+  pitch: 34.76470184326172
+  world-name: ''
+ip-address: 109.219.96.34
+last-account-name: este51
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1540235931793
+  lastteleport: 1540236674607
+  logout: 1540237345553
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1506.966799565547
+  y: 68.0
+  z: 2717.239173606302
+  yaw: -230.8599853515625
+  pitch: 16.650190353393555
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4341.699999988079
+  y: 80.0
+  z: -2582.59947624247
+  yaw: 342.7259521484375
+  pitch: 14.850054740905762
+  world-name: ''
+ip-address: 109.27.73.91
+last-account-name: Mlc_brine
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

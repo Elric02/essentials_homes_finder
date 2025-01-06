@@ -1,0 +1,47 @@
+timestamps:
+  login: 1588431547746
+  logout: 1588431831151
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 157.7758427242318
+    y: 63.0
+    z: 65.12863023059158
+    yaw: 194.8819580078125
+    pitch: 0.685660719871521
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 87.99520740545586
+  y: 63.0
+  z: -8.593107915365682
+  yaw: 41.576141357421875
+  pitch: 20.817771911621094
+  world-name: ''
+ip-address: 83.204.57.137
+last-account-name: H0lyX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

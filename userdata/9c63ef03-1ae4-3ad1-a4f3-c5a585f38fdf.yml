@@ -1,0 +1,47 @@
+timestamps:
+  login: 1511546596661
+  lastteleport: 1511546792200
+  logout: 1511546849865
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6469.910251698286
+  y: 115.0
+  z: -6126.5
+  yaw: -175.81744384765625
+  pitch: 28.162660598754883
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 6462.938816671595
+    y: 112.0
+    z: -6142.481684345852
+    yaw: 309.07550048828125
+    pitch: 21.666624069213867
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6469.5620872082645
+  y: 115.0
+  z: -6126.5
+  yaw: 319.3194274902344
+  pitch: 29.41194725036621
+  world-name: ''
+afk: false
+ip-address: 88.187.228.195
+last-account-name: Dark_wolf867
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

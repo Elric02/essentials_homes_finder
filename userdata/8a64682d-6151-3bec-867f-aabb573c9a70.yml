@@ -1,0 +1,38 @@
+timestamps:
+  login: 1559147043699
+  lastteleport: 1557274354568
+  logout: 1559147121358
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -19.375508231014397
+  y: 64.0
+  z: 8.073817471688901
+  yaw: -177.62225341796875
+  pitch: 32.57865905761719
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -968.8335659407657
+  y: 80.0
+  z: -1549.3664554153877
+  yaw: -308.57257080078125
+  pitch: 7.078582286834717
+  world-name: ''
+ip-address: 82.245.95.205
+last-account-name: scream_38
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

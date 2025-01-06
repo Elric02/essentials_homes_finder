@@ -1,0 +1,38 @@
+timestamps:
+  login: 1627837017024
+  lastteleport: 1627837315572
+  logout: 1627837572625
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -26.429273436789103
+  y: 65.0
+  z: 24.029449211664083
+  yaw: 0.2049388438463211
+  pitch: 49.35359191894531
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 215.15304018342908
+  y: 132.0
+  z: 140.74155948406397
+  yaw: 107.20074462890625
+  pitch: -9.555078506469727
+  world-name: ''
+ip-address: 90.127.32.172
+last-account-name: Cylindres
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

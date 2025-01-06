@@ -1,0 +1,55 @@
+timestamps:
+  login: 1617196831191
+  lastteleport: 1617191339791
+  logout: 1617197257534
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: 4.1294246473439316
+  y: 64.0
+  z: -71.09830709271094
+  yaw: 242.56781005859375
+  pitch: 18.750516891479492
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4172.046805469691
+  y: 72.0
+  z: -3059.699999988079
+  yaw: 108.862548828125
+  pitch: 51.74964904785156
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -4159.216052943523
+    y: 58.0
+    z: -3078.963305979293
+    yaw: -53.68875503540039
+    pitch: 23.250154495239258
+    world-name: ''
+  farmeender:
+    world: End
+    x: -306.69999998807907
+    y: 57.0
+    z: -8.300000011920929
+    yaw: -75.12442016601562
+    pitch: 6.001092910766602
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 86.235.52.48
+last-account-name: babioit
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1470744692418
+  lastteleport: 1470745110221
+  logout: 1470745187957
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5134.005067358076
+  y: 64.0
+  z: -148.22670276588335
+  yaw: -213.59991455078125
+  pitch: 11.699984550476074
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 154.65475031993483
+    y: 100.0
+    z: 23.818029381354208
+    yaw: -355.7728271484375
+    pitch: -27.48929786682129
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 92.14944739129282
+  y: 71.5
+  z: 418.7376354244402
+  yaw: -28.4110107421875
+  pitch: 16.418970108032227
+  world-name: ''
+ip-address: 78.244.58.61
+last-account-name: lebgleplusbg
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

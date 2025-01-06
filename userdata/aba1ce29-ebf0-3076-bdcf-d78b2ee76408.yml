@@ -1,0 +1,38 @@
+timestamps:
+  login: 1544629158914
+  lastteleport: 1544629213046
+  logout: 1544629538124
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 161.96369986117702
+  y: 63.0
+  z: 67.00873864680196
+  yaw: 134.0589141845703
+  pitch: 11.025555610656738
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 105.4673096074054
+  y: 75.0
+  z: 88.21890539891285
+  yaw: 94.62620544433594
+  pitch: 17.787918090820312
+  world-name: ''
+ip-address: 62.4.134.15
+last-account-name: Fire_Effect
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

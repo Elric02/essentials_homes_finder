@@ -1,0 +1,38 @@
+timestamps:
+  login: 1613030128416
+  lastteleport: 1613030175876
+  logout: 1613030659650
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.46491834056644
+  y: 65.0
+  z: 100.97897333856994
+  yaw: 148.59686279296875
+  pitch: 21.24063491821289
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -972.334755748399
+  y: 45.0
+  z: -3399.4517043923515
+  yaw: 127.80030822753906
+  pitch: 16.048357009887695
+  world-name: ''
+ip-address: 176.191.75.180
+last-account-name: Kurayuki
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475347855015
+  logout: 1475349415211
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.17220530385953
+  y: 27.0
+  z: 20.621276437841253
+  yaw: -90.04755401611328
+  pitch: 19.297378540039062
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1764.379178247658
+  y: 61.17735993483362
+  z: -589.8838927776012
+  yaw: 24.37172508239746
+  pitch: 24.00023078918457
+  world-name: ''
+ip-address: 88.169.100.40
+last-account-name: dragon91700
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

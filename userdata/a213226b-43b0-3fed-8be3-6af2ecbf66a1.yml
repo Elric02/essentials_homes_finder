@@ -1,0 +1,38 @@
+timestamps:
+  login: 1555956699141
+  lastteleport: 1555957577690
+  logout: 1555957999466
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1579.0086568996596
+  y: 83.0
+  z: -3793.7917794433743
+  yaw: 51.202850341796875
+  pitch: 4.543609142303467
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 941.9229709175708
+  y: 73.0
+  z: 2840.767613274688
+  yaw: 86.58418273925781
+  pitch: 28.89452362060547
+  world-name: ''
+ip-address: 82.232.39.209
+last-account-name: Spatia
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485091738317
+  logout: 1485091788400
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 85.40876651131904
+  y: 63.0
+  z: 1.9046407771958802
+  yaw: -301.0972900390625
+  pitch: 7.897433280944824
+  world-name: ''
+ip-address: 78.112.143.114
+last-account-name: fy3rfly
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

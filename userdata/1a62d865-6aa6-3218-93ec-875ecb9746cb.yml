@@ -1,0 +1,63 @@
+timestamps:
+  login: 1497253035920
+  lastteleport: 1497253044540
+  logout: 1497253112851
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -189.34443195661012
+  y: 65.0
+  z: 1614.364496722084
+  yaw: -26.350372314453125
+  pitch: 8.652120590209961
+  world-name: ''
+homes:
+  bp:
+    world: world
+    x: 1130.5
+    y: 68.0
+    z: 3016.5
+    yaw: -110.719482421875
+    pitch: 43.79999923706055
+    world-name: ''
+  nether:
+    world: world_nether
+    x: -5227.23570169062
+    y: 67.0
+    z: 4832.198716639101
+    yaw: -266.533203125
+    pitch: 90.0
+    world-name: ''
+  ttt:
+    world: world
+    x: 4308.039302781875
+    y: 59.48523881904703
+    z: 2890.555588505068
+    yaw: -124.5732421875
+    pitch: 71.75304412841797
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1123.3627722682297
+  y: 68.0
+  z: 3016.4127698872203
+  yaw: -272.4474792480469
+  pitch: 26.828527450561523
+  world-name: ''
+afk: false
+ip-address: 88.181.52.166
+last-account-name: iNextAngels
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

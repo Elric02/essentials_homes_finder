@@ -1,0 +1,68 @@
+timestamps:
+  login: 1556124812043
+  lastteleport: 1556051608632
+  logout: 1556124975545
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5239.596831561882
+  y: 63.85000001788139
+  z: 1846.8286912618348
+  yaw: -95.63743591308594
+  pitch: 19.418123245239258
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -5094.501831205098
+    y: 63.0
+    z: 1519.770658843486
+    yaw: -90.73785400390625
+    pitch: 16.747318267822266
+    world-name: ''
+  merde:
+    world: Ressource
+    x: 1792.8662404207737
+    y: 71.0
+    z: -1593.555223497638
+    yaw: -289.1422119140625
+    pitch: 63.192176818847656
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 349.9066972235053
+    y: 11.0
+    z: -1290.679417203532
+    yaw: -351.74517822265625
+    pitch: 17.234037399291992
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5011.157674818616
+  y: 73.0
+  z: 1452.1855297963202
+  yaw: -260.28387451171875
+  pitch: 11.010262489318848
+  world-name: ''
+afk: false
+ip-address: 82.246.74.144
+last-account-name: PereLapinPain
+mail:
+- legacy: true
+  read: false
+  message: §e[§relriclespiques§e] §rSalut, je me suis permis de mettre des fours sur
+    vos entonnoirs du haut, ça réduit les lags. Évitez de mettre + d'entonnoir svp
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

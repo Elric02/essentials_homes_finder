@@ -1,0 +1,55 @@
+timestamps:
+  login: 1478028711397
+  lastteleport: 1478029588904
+  logout: 1478029763377
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1814.6865311571835
+  y: 63.0
+  z: 1605.4519031873663
+  yaw: 70.06973266601562
+  pitch: 18.280187606811523
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1824.9881354449205
+    y: 63.0
+    z: 1603.0896751822493
+    yaw: -30.44975471496582
+    pitch: 29.25001335144043
+    world-name: ''
+  mine:
+    world: ressource
+    x: 2119.215647128456
+    y: 9.0
+    z: -1950.699999988079
+    yaw: 80.5514144897461
+    pitch: 2.3463621139526367
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world_the_end
+  x: 1716.3609314261596
+  y: 58.0
+  z: -1970.6277172943107
+  yaw: 38.6183967590332
+  pitch: 68.1722640991211
+  world-name: ''
+ip-address: 90.47.204.1
+last-account-name: RaxenFlash
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

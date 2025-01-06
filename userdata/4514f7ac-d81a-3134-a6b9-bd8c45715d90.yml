@@ -1,0 +1,55 @@
+timestamps:
+  login: 1479664480728
+  lastteleport: 1479664583635
+  logout: 1479664655197
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 861.0061797207173
+  y: 60.0
+  z: 2500.8199370735165
+  yaw: 224.08123779296875
+  pitch: 13.64992904663086
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 850.3694327501296
+    y: 70.0
+    z: 2508.6416899708674
+    yaw: -88.66759490966797
+    pitch: 8.100064277648926
+    world-name: ''
+  mine:
+    world: ressource
+    x: -126.03203327475534
+    y: 11.0
+    z: 973.4400025850307
+    yaw: -95.65975952148438
+    pitch: 31.20001983642578
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 158.55550337280445
+  y: 64.0
+  z: 27.081861843267408
+  yaw: -285.2110290527344
+  pitch: 19.824512481689453
+  world-name: ''
+afk: false
+money: '0'
+muted: false
+ip-address: 86.236.9.228
+last-account-name: Cocotierman
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

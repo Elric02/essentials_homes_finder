@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492260370916
+  lastteleport: 1492260403581
+  logout: 1492260428432
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.81168123498756
+  y: 66.0
+  z: 19.290108466861142
+  yaw: -86.45194244384766
+  pitch: 15.483487129211426
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -34.492515235777816
+  y: 62.0
+  z: 37.929079415389054
+  yaw: -278.1373596191406
+  pitch: 24.19565773010254
+  world-name: ''
+ip-address: 79.81.138.147
+last-account-name: Clement76430
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

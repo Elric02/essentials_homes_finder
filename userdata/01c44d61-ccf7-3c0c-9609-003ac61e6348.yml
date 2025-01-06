@@ -1,0 +1,38 @@
+timestamps:
+  login: 1550915573640
+  lastteleport: 1550915601973
+  logout: 1550915616210
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 164.69999998807907
+  y: 65.5
+  z: 100.93777577185992
+  yaw: 108.52639770507812
+  pitch: 27.913467407226562
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 113.53025890620506
+  y: 80.0
+  z: 80.28439198367442
+  yaw: -92.5130615234375
+  pitch: -21.947799682617188
+  world-name: ''
+ip-address: 78.112.196.235
+last-account-name: Thoofix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

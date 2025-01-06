@@ -1,0 +1,55 @@
+timestamps:
+  login: 1520180196899
+  lastteleport: 1520185353033
+  logout: 1520185498968
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3205.699999988079
+  y: 68.0
+  z: -4106.699999988079
+  yaw: 152.87881469726562
+  pitch: 16.288625717163086
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 5269.561273972774
+    y: 51.0
+    z: -1688.300000011921
+    yaw: -175.1710205078125
+    pitch: 40.73328399658203
+    world-name: ''
+  paris:
+    world: world
+    x: -3318.743663772444
+    y: 76.0
+    z: -4097.601421933736
+    yaw: 54.75946044921875
+    pitch: 33.7919921875
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3097.856281476255
+  y: 67.0
+  z: -4018.430301516244
+  yaw: -35.534088134765625
+  pitch: 51.6181755065918
+  world-name: ''
+ip-address: 88.126.105.160
+last-account-name: Dstar37
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

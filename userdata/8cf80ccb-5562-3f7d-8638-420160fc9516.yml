@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477124905805
+  lastteleport: 1477125751923
+  logout: 1477128134977
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5414.711313257462
+  y: 69.09375
+  z: 655.2849963308666
+  yaw: -90.60897827148438
+  pitch: 14.51944637298584
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressources
+  x: 1453.4071143798863
+  y: 64.0
+  z: 703.6999999880791
+  yaw: 321.4595031738281
+  pitch: 1.9966285228729248
+  world-name: ''
+ip-address: 86.247.16.59
+last-account-name: thomas_004
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

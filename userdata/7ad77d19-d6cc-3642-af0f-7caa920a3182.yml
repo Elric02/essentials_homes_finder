@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614212095510
+  lastteleport: 1614212216381
+  logout: 1614213529385
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.24625002713992
+  y: 63.0
+  z: 65.46056170261954
+  yaw: 180.54617309570312
+  pitch: 0.09063268452882767
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -1873.699999988079
+  y: 11.0
+  z: 598.62847416581
+  yaw: -164.35107421875
+  pitch: 17.100746154785156
+  world-name: ''
+ip-address: 91.174.159.196
+last-account-name: Axybur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1605048840445
+  logout: 1605049211486
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.12343796090204
+  y: 64.0
+  z: 23.39948989591271
+  yaw: -174.77073669433594
+  pitch: 12.899974822998047
+  world-name: ''
+ip-address: 205.151.116.247
+last-account-name: EthicaDD
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

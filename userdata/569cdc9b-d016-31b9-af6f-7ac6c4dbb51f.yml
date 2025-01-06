@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514400381623
+  lastteleport: 1514401014502
+  logout: 1514401586104
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 182.86755472310296
+  y: 64.0
+  z: 24.833655969724468
+  yaw: -244.82275390625
+  pitch: 19.228668212890625
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -3687.2225120845233
+  y: 63.0
+  z: -483.5971716886644
+  yaw: -16.0457763671875
+  pitch: 48.60019302368164
+  world-name: ''
+ip-address: 109.132.61.33
+last-account-name: Zelldraft
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

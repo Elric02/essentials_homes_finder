@@ -1,0 +1,38 @@
+timestamps:
+  login: 1562074811600
+  lastteleport: 1562075209599
+  logout: 1562075708205
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 133.77404013120386
+  y: 63.0
+  z: -18.602040846387748
+  yaw: -311.2677001953125
+  pitch: 0.17867401242256165
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1215.5397994805417
+  y: 66.0
+  z: 3234.185192020245
+  yaw: 356.7913513183594
+  pitch: 6.2997636795043945
+  world-name: ''
+money: '0'
+ip-address: 88.126.128.216
+last-account-name: PoussinZuzu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

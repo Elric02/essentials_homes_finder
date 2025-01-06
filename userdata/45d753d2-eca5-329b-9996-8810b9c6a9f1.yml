@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485114667598
+  lastteleport: 1485115009802
+  logout: 1485115509652
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 3.3895356097267637
+  y: 84.0
+  z: 2910.3949684053023
+  yaw: -9.4498929977417
+  pitch: 30.00002670288086
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -814.246751116071
+  y: 68.7531999805212
+  z: -574.4803035181795
+  yaw: -89.5311508178711
+  pitch: 2.1386145817814395E-5
+  world-name: ''
+ip-address: 2.5.231.52
+last-account-name: Trizux
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

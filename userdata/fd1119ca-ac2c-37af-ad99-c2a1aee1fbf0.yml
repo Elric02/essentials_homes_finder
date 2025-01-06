@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478466526966
+  logout: 1478467689231
+  lastteleport: 1478467580644
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.75710385674972
+  y: 63.0
+  z: 42.761475095488976
+  yaw: -351.36181640625
+  pitch: 2.274519443511963
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: -272.4562322493433
+  y: 69.0
+  z: 704.1048216007049
+  yaw: -188.9999542236328
+  pitch: -73.94994354248047
+  world-name: ''
+ip-address: 84.99.56.103
+last-account-name: iRyzen
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

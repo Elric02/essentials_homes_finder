@@ -1,0 +1,63 @@
+timestamps:
+  login: 1536328442825
+  logout: 1536328659270
+  lastteleport: 1536328606459
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3232.1910517661818
+  y: 88.0
+  z: -4653.979829895445
+  yaw: -139.79994201660156
+  pitch: 28.04998779296875
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -6121.262667488596
+  y: 94.0
+  z: -6078.7081016050415
+  yaw: 19.584444046020508
+  pitch: 1.19998300075531
+  world-name: ''
+money: '0'
+homes:
+  clem:
+    world: world
+    x: -6119.158359410367
+    y: 94.0
+    z: -6074.383327579436
+    yaw: -58.5655632019043
+    pitch: 52.04998779296875
+    world-name: ''
+  h:
+    world: world
+    x: -3611.857817839486
+    y: 72.0
+    z: 2772.5103260075143
+    yaw: -48.150367736816406
+    pitch: 36.59980010986328
+    world-name: ''
+  r:
+    world: Ressource
+    x: -4589.188491070492
+    y: 75.0
+    z: 2039.7314420322107
+    yaw: -19.949899673461914
+    pitch: 6.150050640106201
+    world-name: ''
+afk: false
+ip-address: 96.23.145.40
+last-account-name: Jjou_du_25
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

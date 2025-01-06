@@ -1,0 +1,63 @@
+timestamps:
+  login: 1490289452081
+  logout: 1490293780673
+  lastteleport: 1490293443682
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2484.388730992168
+  y: 79.0
+  z: -6163.713287949536
+  yaw: -256.61932373046875
+  pitch: 31.349977493286133
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2421.6331384554846
+  y: 65.0
+  z: -6159.000666997538
+  yaw: -194.6697235107422
+  pitch: 14.099994659423828
+  world-name: ''
+money: '0'
+homes:
+  nb:
+    world: world
+    x: 2418.8773867539003
+    y: 65.0
+    z: -6154.697660013269
+    yaw: -207.86961364746094
+    pitch: 27.749988555908203
+    world-name: ''
+  vds:
+    world: world
+    x: 4552.6631008524155
+    y: 70.0
+    z: -5974.2511814329
+    yaw: -45.515830993652344
+    pitch: -0.1673237681388855
+    world-name: ''
+  d:
+    world: world
+    x: 2857.161949999671
+    y: 64.0
+    z: -6065.384907006886
+    yaw: -172.7679443359375
+    pitch: 4.199995517730713
+    world-name: ''
+afk: false
+ip-address: 78.223.122.79
+last-account-name: MAXLOI85
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,90 @@
+timestamps:
+  login: 1576961194715
+  lastteleport: 1564088061416
+  logout: 1576961460133
+  kits:
+    vip: 1562488574460
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6412.1630109286325
+  y: 22.0
+  z: -404.31861710818634
+  yaw: 315.87701416015625
+  pitch: 17.39999771118164
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Event
+  x: 9903.639788307455
+  y: 150.0
+  z: 10073.546762769574
+  yaw: -191.9755859375
+  pitch: 49.64997100830078
+  world-name: ''
+afk: false
+homes:
+  ferme:
+    world: world
+    x: 6940.586353660903
+    y: 68.0
+    z: -152.91095077208675
+    yaw: 129.77029418945312
+    pitch: 19.800025939941406
+    world-name: ''
+  ville:
+    world: world
+    x: 6405.518687812564
+    y: 22.0
+    z: -414.4444752234712
+    yaw: 110.52704620361328
+    pitch: 53.549991607666016
+    world-name: ''
+  bf:
+    world: world
+    x: 556.5377378056949
+    y: 145.0
+    z: -2249.4762522690394
+    yaw: 270.0089111328125
+    pitch: -1.8835067976397113E-6
+    world-name: ''
+  ile:
+    world: world
+    x: -6851.009660660005
+    y: 37.0
+    z: -3735.4694145723047
+    yaw: -2.34832763671875
+    pitch: 18.799623489379883
+    world-name: ''
+  slime:
+    world: world
+    x: 32.30000001192093
+    y: 61.0
+    z: -856.4034879447879
+    yaw: -195.32009887695312
+    pitch: 30.17856216430664
+    world-name: ''
+  messa:
+    world: Ressource
+    x: -347.3195543284085
+    y: 68.0
+    z: 1881.383976239802
+    yaw: 3.7488012313842773
+    pitch: 38.549896240234375
+    world-name: ''
+muted: false
+jailed: false
+nickname: §4F§ci§6re§cMan
+ip-address: 86.213.11.179
+last-account-name: CreeperGamer54
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1553433612843
+  logout: 1553433646272
+  lastteleport: 1552752722801
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.42681624014705
+  y: 63.0
+  z: 40.74777457877873
+  yaw: -0.14937657117843628
+  pitch: 24.73054313659668
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2104.722098350152
+  y: 64.0
+  z: -3910.9795062028816
+  yaw: 105.63156127929688
+  pitch: 30.562211990356445
+  world-name: ''
+money: '0'
+homes:
+  s:
+    world: world
+    x: 2098.907993290922
+    y: 64.0
+    z: -3911.596650195885
+    yaw: -94.6502685546875
+    pitch: 11.249967575073242
+    world-name: ''
+  sss:
+    world: world
+    x: -957.6054070472417
+    y: 144.0
+    z: -5828.501136238221
+    yaw: -268.23858642578125
+    pitch: 13.727012634277344
+    world-name: ''
+  ss:
+    world: world
+    x: 1537.5
+    y: 66.0
+    z: -2128.5
+    yaw: -179.79092407226562
+    pitch: -1.2930463552474976
+    world-name: ''
+afk: false
+ip-address: 109.30.237.53
+last-account-name: Pastoy_FID
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1555069916464
+  logout: 1555070142225
+  lastteleport: 1555067597808
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -46.634455743817824
+  y: 65.0
+  z: 6.295442259754058
+  yaw: -90.5489501953125
+  pitch: 12.798503875732422
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 63.243741774660634
+  y: 94.0
+  z: 55.05716169162026
+  yaw: -219.9884033203125
+  pitch: 55.385135650634766
+  world-name: ''
+money: '0'
+jailed: false
+homes:
+  maison:
+    world: world
+    x: -25.536160227249812
+    y: 69.0
+    z: -1890.600957755784
+    yaw: 16.650177001953125
+    pitch: 6.3000054359436035
+    world-name: ''
+afk: false
+ip-address: 2.5.247.42
+last-account-name: Blackun
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

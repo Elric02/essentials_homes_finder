@@ -1,0 +1,63 @@
+timestamps:
+  login: 1633432143187
+  lastteleport: 1633433280682
+  logout: 1633433284130
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -2651.007349981442
+  y: 79.0
+  z: -155.81952858173977
+  yaw: 258.3255310058594
+  pitch: 28.04509162902832
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -2559.685777810942
+  y: 78.5
+  z: -200.2107268280472
+  yaw: -179.64178466796875
+  pitch: 17.54793930053711
+  world-name: world
+money: '0'
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2650.2414291443365
+    y: 79.0
+    z: -157.7063361486197
+    yaw: 4.5389404296875
+    pitch: 17.56145477294922
+    world-name: world
+  farm:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1676.7705063485253
+    y: 70.0
+    z: 3312.51775451173
+    yaw: 89.69091796875
+    pitch: 0.8368837833404541
+    world-name: world
+  manoir:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2559.3427571494417
+    y: 77.0
+    z: -191.7448276079731
+    yaw: -182.1328125
+    pitch: 6.960362911224365
+    world-name: world
+afk: false
+ip-address: 89.156.205.100
+last-account-name: LeighTox_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

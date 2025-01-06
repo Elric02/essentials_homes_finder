@@ -1,0 +1,47 @@
+timestamps:
+  login: 1466611811731
+  lastteleport: 1466612005832
+  logout: 1466612249938
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 12.67134130682906
+  y: 73.0
+  z: -96.61327271194499
+  yaw: 174.90283203125
+  pitch: 18.824182510375977
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4.4414051409799775
+    y: 69.0
+    z: -64.82108454677766
+    yaw: 3.9029541015625
+    pitch: 11.474181175231934
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -31.406958784793765
+  y: 65.0
+  z: 35.53748587173024
+  yaw: 268.79998779296875
+  pitch: 19.800006866455078
+  world-name: ''
+ip-address: 86.214.47.144
+last-account-name: didievan35
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

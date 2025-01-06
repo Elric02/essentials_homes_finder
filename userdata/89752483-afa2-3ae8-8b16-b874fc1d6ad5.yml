@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485712642546
+  lastteleport: 1485712650381
+  logout: 1485712657417
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.8583114443056
+  y: 63.0
+  z: 48.49408115190454
+  yaw: -267.0473937988281
+  pitch: -3.5025992393493652
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.33068548257762
+  y: 64.0
+  z: 21.226116104143877
+  yaw: -183.51095581054688
+  pitch: 4.074516773223877
+  world-name: ''
+ip-address: 85.68.154.129
+last-account-name: TheCarrie78
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

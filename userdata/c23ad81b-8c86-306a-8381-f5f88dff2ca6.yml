@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618655006812
+  lastteleport: 1618656141715
+  logout: 1618656209291
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1017.5660561295224
+  y: 64.0
+  z: -2022.0789158343332
+  yaw: -336.9014892578125
+  pitch: 18.75083351135254
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 3835.699999988079
+  y: 72.0
+  z: 220.34414724079832
+  yaw: -53.8634033203125
+  pitch: 2.959445118904114E-4
+  world-name: ''
+ip-address: 77.151.68.22
+last-account-name: theotheo542
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

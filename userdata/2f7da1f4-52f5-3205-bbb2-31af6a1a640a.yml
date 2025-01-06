@@ -1,0 +1,55 @@
+timestamps:
+  login: 1614117531286
+  lastteleport: 1614117919258
+  logout: 1614118422753
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1272.1803744979366
+  y: 94.0
+  z: -7231.339461408956
+  yaw: -8.424577713012695
+  pitch: 20.386390686035156
+  world-name: ''
+money: '0'
+homes:
+  ender:
+    world: End
+    x: -289.33171033586257
+    y: 1.0
+    z: 744.0208346048361
+    yaw: 3.0111083984375
+    pitch: 17.707120895385742
+    world-name: ''
+  base:
+    world: world
+    x: 1284.2277659491992
+    y: 40.0
+    z: -7218.2743844557535
+    yaw: 296.4458312988281
+    pitch: 30.426908493041992
+    world-name: ''
+logoutlocation:
+  world: End
+  x: -306.27180773719823
+  y: 57.0
+  z: -6.644801883055598
+  yaw: 252.74600219726562
+  pitch: 6.199099540710449
+  world-name: ''
+afk: false
+ip-address: 90.23.115.200
+last-account-name: zabouya
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

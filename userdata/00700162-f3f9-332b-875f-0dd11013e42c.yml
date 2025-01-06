@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592153020895
+  logout: 1592153262000
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 150.6811539635204
+  y: 63.0
+  z: 51.05602690276356
+  yaw: 142.1468963623047
+  pitch: -1.1093425750732422
+  world-name: ''
+ip-address: 46.193.4.131
+last-account-name: surcris
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

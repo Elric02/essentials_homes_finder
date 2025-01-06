@@ -1,0 +1,38 @@
+timestamps:
+  login: 1602928301952
+  lastteleport: 1602927579698
+  logout: 1602928392112
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.66164122038072
+  y: 63.0
+  z: 37.53420690507937
+  yaw: -36.3209228515625
+  pitch: 6.9286675453186035
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 153.24100326204734
+  y: 63.0
+  z: -3.4742957050306984
+  yaw: -353.7210693359375
+  pitch: 7.6786980628967285
+  world-name: ''
+ip-address: 91.166.250.50
+last-account-name: BS16_YT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

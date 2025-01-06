@@ -1,0 +1,55 @@
+timestamps:
+  login: 1614508200931
+  lastteleport: 1614509932627
+  logout: 1614509955421
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6212.383718831723
+  y: 73.0
+  z: -3517.2436287225532
+  yaw: -353.39617919921875
+  pitch: 17.69993782043457
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 6209.875542731528
+    y: 63.0
+    z: -4038.772439737591
+    yaw: -187.95013427734375
+    pitch: 22.050003051757812
+    world-name: ''
+  pillage:
+    world: world
+    x: 6209.5482132080915
+    y: 69.0
+    z: -3478.102303978424
+    yaw: -327.4449462890625
+    pitch: 29.55002212524414
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 6213.264831217077
+  y: 63.0
+  z: -4035.4984675479527
+  yaw: -213.60076904296875
+  pitch: 4.050015449523926
+  world-name: ''
+ip-address: 92.147.58.138
+last-account-name: Dojo59
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1488314368747
+  logout: 1488314930773
+  lastteleport: 1488314925900
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1068.300000011921
+  y: 71.0
+  z: 2934.237500011921
+  yaw: -43.2366943359375
+  pitch: 16.51253318786621
+  world-name: ''
+money: '0'
+homes:
+  flanbi:
+    world: world
+    x: 1119.9666333689427
+    y: 68.0
+    z: 3014.658388062665
+    yaw: -87.8943099975586
+    pitch: 15.181445121765137
+    world-name: ''
+  home:
+    world: world
+    x: -625.3568065129622
+    y: 64.0
+    z: -659.4975183605854
+    yaw: -156.92034912109375
+    pitch: 26.151592254638672
+    world-name: ''
+  basse:
+    world: world
+    x: 1073.8025690052777
+    y: 82.0
+    z: 2933.7205963109177
+    yaw: -65.68122100830078
+    pitch: 18.50918197631836
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+ip-address: 88.181.52.166
+last-account-name: flan77
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

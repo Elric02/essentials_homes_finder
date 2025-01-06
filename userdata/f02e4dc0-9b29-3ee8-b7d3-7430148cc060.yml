@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.106.54.47
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684930242451
+  login: 1684930186883
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.02785175650246
+  y: 81.0
+  z: -3111.3159990193976
+  yaw: 132.30177307128906
+  pitch: -6.450100898742676
+last-account-name: Krompop
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.02785175650246
+  y: 81.0
+  z: -3111.3159990193976
+  yaw: -50.5482177734375
+  pitch: 8.99990177154541

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467461785874
+  logout: 1467461867721
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -3.774930208387463
+  y: 55.0
+  z: 32.66398432848149
+  yaw: 150.60008239746094
+  pitch: 29.849977493286133
+  world-name: ''
+ip-address: 93.16.47.172
+last-account-name: totoc
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1540296142141
+  lastteleport: 1540297171036
+  logout: 1540297562867
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -455.98177426824134
+  y: 71.5
+  z: 325.43858720067516
+  yaw: -95.84957885742188
+  pitch: 13.500009536743164
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -404.0249794895264
+  y: 68.0
+  z: 299.0954685385803
+  yaw: 285.5799560546875
+  pitch: 11.699986457824707
+  world-name: ''
+ip-address: 84.99.104.174
+last-account-name: pika7300
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

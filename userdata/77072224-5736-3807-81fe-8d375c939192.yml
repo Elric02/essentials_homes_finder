@@ -1,0 +1,38 @@
+timestamps:
+  login: 1489283401940
+  logout: 1489283439820
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.08101670056192
+  y: 63.0
+  z: 49.56779632171284
+  yaw: -237.34739685058594
+  pitch: -2.0025997161865234
+  world-name: ''
+ip-address: 153.92.96.100
+last-account-name: x_mAgIk13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

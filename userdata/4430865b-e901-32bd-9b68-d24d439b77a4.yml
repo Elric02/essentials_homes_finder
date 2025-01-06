@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480863200162
+  logout: 1480863258903
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 206.46068977882652
+  y: 63.0
+  z: -48.910304515700886
+  yaw: -178.84759521484375
+  pitch: 4.147401332855225
+  world-name: ''
+ip-address: 88.184.210.90
+last-account-name: ITweaZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

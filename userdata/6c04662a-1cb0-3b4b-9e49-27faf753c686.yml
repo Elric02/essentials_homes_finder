@@ -1,0 +1,63 @@
+timestamps:
+  login: 1618305291972
+  lastteleport: 1618307096953
+  logout: 1618308499706
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -456.4249712184025
+  y: 69.0
+  z: -4021.1150454437757
+  yaw: -81.90314483642578
+  pitch: 40.50020217895508
+  world-name: ''
+money: '0'
+homes:
+  b2:
+    world: world
+    x: -51.15756901773165
+    y: 196.0
+    z: -1245.5986586506035
+    yaw: -318.3070068359375
+    pitch: 42.00004577636719
+    world-name: ''
+  b3:
+    world: Ressource
+    x: 24181.866406641224
+    y: 59.32674963871406
+    z: -8610.163907340362
+    yaw: 216.9253692626953
+    pitch: 2.549476146697998
+    world-name: ''
+  dome:
+    world: world
+    x: -3256.139187408694
+    y: 29.0
+    z: -5256.232632203889
+    yaw: 4.400146484375
+    pitch: 14.999549865722656
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -5325.983511334679
+  y: 97.0
+  z: 1224.1028086718934
+  yaw: 12.971466064453125
+  pitch: 7.501008987426758
+  world-name: ''
+afk: false
+ip-address: 92.129.100.177
+last-account-name: artaxerces
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

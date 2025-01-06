@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471796636387
+  mute: 1471796702728
+  logout: 1471796671341
+  lastteleport: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+muted: true
+logoutlocation:
+  world: world
+  x: 154.3569956728423
+  y: 63.0
+  z: 48.507891797460616
+  yaw: -248.8353271484375
+  pitch: 4.798737525939941
+  world-name: ''
+ip-address: 90.26.218.160
+last-account-name: Seminera
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1501767169914
+  lastteleport: 1501769167672
+  logout: 1501770132692
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -68.5933788666906
+  y: 64.0
+  z: 3221.0989309653482
+  yaw: -178.63137817382812
+  pitch: 8.700020790100098
+  world-name: ''
+homes:
+  lapinagile:
+    world: world
+    x: 6724.35362709102
+    y: 97.0
+    z: -2832.7689917251196
+    yaw: -101.4622802734375
+    pitch: 19.13979148864746
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6705.1193732448655
+  y: 80.0
+  z: -2814.4045767929683
+  yaw: -65.46722412109375
+  pitch: -1.5596897602081299
+  world-name: ''
+ip-address: 85.218.20.131
+last-account-name: Poulet8
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

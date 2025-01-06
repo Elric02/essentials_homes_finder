@@ -1,0 +1,38 @@
+timestamps:
+  login: 1528038271615
+  lastteleport: 1528038379319
+  logout: 1528038404625
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5540.300000011921
+  y: 82.0
+  z: 7448.723967777464
+  yaw: 236.37921142578125
+  pitch: 7.238959789276123
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 1510.5018612053661
+  y: 68.0
+  z: 69.28003008688663
+  yaw: 118.48303985595703
+  pitch: 25.263357162475586
+  world-name: ''
+afk: false
+ip-address: 88.163.95.106
+last-account-name: DodSno
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472641661355
+  lastteleport: 1472641858987
+  logout: 1472642010771
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5242.308616468301
+  y: 74.0
+  z: 551.2502392749464
+  yaw: 80.86766815185547
+  pitch: 69.15482330322266
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.76856430152813
+  y: 63.0
+  z: 49.84173120786417
+  yaw: -255.3350372314453
+  pitch: -2.0609943866729736
+  world-name: ''
+ip-address: 82.246.79.126
+last-account-name: medhi80
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

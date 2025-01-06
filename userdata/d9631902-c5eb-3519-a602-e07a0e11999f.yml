@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472152594955
+  lastteleport: 1472153155265
+  logout: 1472153265758
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 191.96179493177857
+  y: 63.0
+  z: 23.882080965874497
+  yaw: 114.23914337158203
+  pitch: -1.4754774570465088
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 150.66463562814093
+  y: 64.0
+  z: 14.270418426156072
+  yaw: -302.460693359375
+  pitch: 82.95001220703125
+  world-name: ''
+ip-address: 77.154.202.241
+last-account-name: JudeGames
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

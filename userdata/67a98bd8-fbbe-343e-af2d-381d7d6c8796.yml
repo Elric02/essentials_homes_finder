@@ -1,0 +1,63 @@
+timestamps:
+  login: 1590012478284
+  lastteleport: 1589298228619
+  logout: 1590013207968
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6394.084200394167
+  y: 101.5
+  z: -6106.368206281122
+  yaw: 70.89715576171875
+  pitch: 23.17327308654785
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6243.63952427526
+  y: 68.0
+  z: 1717.6278815113772
+  yaw: 291.5537109375
+  pitch: 8.029661178588867
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6275.936582610159
+    y: 63.0
+    z: 1702.742779611794
+    yaw: -339.5736389160156
+    pitch: 17.702678680419922
+    world-name: ''
+  maison:
+    world: world
+    x: 6367.766186482008
+    y: 106.0
+    z: -6119.521357322177
+    yaw: -271.17401123046875
+    pitch: 10.834141731262207
+    world-name: ''
+  lilol:
+    world: world
+    x: 2390.1810956122367
+    y: 71.0
+    z: 1913.7739240641488
+    yaw: -310.3663635253906
+    pitch: 7.499980449676514
+    world-name: ''
+afk: false
+ip-address: 176.169.76.49
+last-account-name: AzrodGame38
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

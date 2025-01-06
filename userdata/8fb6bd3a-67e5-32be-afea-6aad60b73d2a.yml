@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471797537290
+  lastteleport: 1471797645151
+  logout: 1471797867373
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4221.746183900346
+  y: 62.0
+  z: -2688.033216125601
+  yaw: 22.775575637817383
+  pitch: 8.457100868225098
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -7258.472875000237
+  y: 63.0
+  z: -5574.336628725091
+  yaw: -115.41481018066406
+  pitch: -2.6919286251068115
+  world-name: ''
+ip-address: 92.169.96.44
+last-account-name: Paulstation92
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

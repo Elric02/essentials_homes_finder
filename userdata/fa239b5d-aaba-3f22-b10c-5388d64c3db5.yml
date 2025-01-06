@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482170396100
+  lastteleport: 1482170441749
+  logout: 1482170498264
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.51893421029672
+  y: 63.0
+  z: 47.64383152521482
+  yaw: -275.44744873046875
+  pitch: -4.102598667144775
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -156.8826144684504
+  y: 47.0
+  z: 509.5770455855409
+  yaw: 181.29852294921875
+  pitch: 14.91776180267334
+  world-name: ''
+ip-address: 93.11.135.244
+last-account-name: JohnZbeub
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

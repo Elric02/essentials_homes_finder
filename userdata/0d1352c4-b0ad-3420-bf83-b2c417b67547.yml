@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480969271252
+  lastteleport: 1480969373215
+  logout: 1480969551673
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.6638566803772
+  y: 63.0
+  z: 45.575340034505714
+  yaw: 34.48111343383789
+  pitch: 35.71581268310547
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world_nether
+  x: -15.925721005854118
+  y: 65.875
+  z: -203.59216342220589
+  yaw: -233.725830078125
+  pitch: 68.2040786743164
+  world-name: ''
+ip-address: 78.237.163.232
+last-account-name: Furious_jumper
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

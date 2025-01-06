@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615998949447
+  lastteleport: 1615998811701
+  logout: 1616001129418
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4462.271899810192
+  y: 68.0
+  z: 3752.1205747733075
+  yaw: -138.5487518310547
+  pitch: 13.178765296936035
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -1171.5784012047855
+  y: 12.0
+  z: 3726.905181793245
+  yaw: 330.765380859375
+  pitch: 33.727725982666016
+  world-name: ''
+money: '0'
+ip-address: 79.91.163.42
+last-account-name: Quentin3641
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

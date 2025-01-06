@@ -1,0 +1,38 @@
+timestamps:
+  login: 1549715109058
+  logout: 1549715191543
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 159.0743527350107
+  y: 63.0
+  z: 50.8664022183008
+  yaw: 21.396976470947266
+  pitch: 14.190656661987305
+  world-name: ''
+ip-address: 86.233.59.165
+last-account-name: Freelord
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

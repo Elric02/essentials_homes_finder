@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.242.96.223
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1697016985568
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697017093673
+  login: 1697016458555
+money: '250.0'
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -95.89279890671287
+  y: 99.0
+  z: 152.1211428083259
+  yaw: 63.00105285644531
+  pitch: 6.899930000305176
+last-account-name: Thibaxib
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -123.97137883261341
+  y: 64.0
+  z: 58.450360818115676
+  yaw: 19.95441246032715
+  pitch: 4.199941158294678

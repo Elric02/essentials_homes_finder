@@ -1,0 +1,63 @@
+timestamps:
+  login: 1538371186441
+  lastteleport: 1538260096070
+  logout: 1538372046596
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6000.358100634711
+  y: 70.0
+  z: 4461.594611723318
+  yaw: -180.2003936767578
+  pitch: 21.450075149536133
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -4564.237500011921
+    y: 63.0
+    z: 4918.5372375648185
+    yaw: 104.9996109008789
+    pitch: 26.849821090698242
+    world-name: ''
+  davimine:
+    world: world
+    x: 896.6523966878718
+    y: 62.0
+    z: -1731.1991483011354
+    yaw: 227.5526123046875
+    pitch: 12.599930763244629
+    world-name: ''
+  davimine1:
+    world: world
+    x: 2147.058486317978
+    y: 69.0
+    z: -2272.8224456171884
+    yaw: -169.4996337890625
+    pitch: 33.150001525878906
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2141.069629546962
+  y: 68.0
+  z: -2281.3412867097277
+  yaw: -79.08583068847656
+  pitch: 18.000059127807617
+  world-name: ''
+afk: false
+ip-address: 70.29.168.206
+last-account-name: Davimine
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

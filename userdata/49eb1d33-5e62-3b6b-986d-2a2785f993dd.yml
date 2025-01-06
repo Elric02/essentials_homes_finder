@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517509213733
+  jail: 0
+  lastteleport: 1517509768207
+  logout: 1517510328023
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.9996828766832
+  y: 64.0
+  z: 20.4425017614902
+  yaw: -325.0708312988281
+  pitch: 13.828667640686035
+  world-name: ''
+jailed: false
+logoutlocation:
+  world: Ressource
+  x: 8.931183701302817
+  y: 34.0
+  z: 245.79628848115266
+  yaw: -217.09149169921875
+  pitch: 12.300031661987305
+  world-name: ''
+ip-address: 83.204.105.147
+last-account-name: CamilleEtPierre
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

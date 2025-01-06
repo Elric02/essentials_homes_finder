@@ -1,0 +1,55 @@
+timestamps:
+  login: 1498042075398
+  lastteleport: 1498048899652
+  logout: 1498048916202
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -3905.1037691517804
+  y: 80.0
+  z: 4776.48570447064
+  yaw: -142.94964599609375
+  pitch: 14.249994277954102
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4263.5
+  y: 74.5
+  z: -3725.5
+  yaw: 187.12811279296875
+  pitch: 35.10000228881836
+  world-name: ''
+homes:
+  ma:
+    world: world
+    x: -4263.583102864787
+    y: 74.5
+    z: -3725.6101934876892
+    yaw: 187.12811279296875
+    pitch: 35.10000228881836
+    world-name: ''
+  jungle:
+    world: Ressource
+    x: -4003.980443128736
+    y: 71.0
+    z: 4587.093615644784
+    yaw: -242.5500946044922
+    pitch: 13.34999942779541
+    world-name: ''
+afk: false
+ip-address: 2.4.177.203
+last-account-name: Silvershadow34
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1530097563696
+  lastteleport: 1530097777528
+  logout: 1530097802085
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4262.811417883092
+  y: 67.0
+  z: -3566.781568443
+  yaw: -121.50011444091797
+  pitch: 18.300060272216797
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.93055142192046
+  y: 63.0
+  z: 50.86601713516499
+  yaw: 162.42901611328125
+  pitch: 7.528668403625488
+  world-name: ''
+ip-address: 93.2.221.75
+last-account-name: Silverstar
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

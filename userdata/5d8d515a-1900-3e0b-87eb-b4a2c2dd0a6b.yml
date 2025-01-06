@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.127.206.61
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1666513715743
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1666513820214
+  login: 1666513654479
+money: '0'
+last-account-name: Pattcarbo
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -56.72068194828543
+  y: 118.26239681932925
+  z: 200.202053558289
+  yaw: 0.44964659214019775
+  pitch: 47.400123596191406
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -289.6902328840699
+  y: 95.36019022702136
+  z: 94.68186188590975
+  yaw: -96.75164794921875
+  pitch: 24.750782012939453

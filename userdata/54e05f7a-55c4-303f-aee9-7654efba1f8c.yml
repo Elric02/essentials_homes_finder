@@ -1,0 +1,47 @@
+timestamps:
+  login: 1514644440817
+  lastteleport: 1514646737635
+  logout: 1514646769558
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: 56.632397620545376
+  y: 63.0
+  z: -13.82607608747095
+  yaw: -90.0562744140625
+  pitch: 57.05047607421875
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2143.300000011921
+  y: 68.0
+  z: -1717.300000011921
+  yaw: -252.472412109375
+  pitch: 29.75467872619629
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -2147.3339253037093
+    y: 67.0
+    z: -1721.3959774006255
+    yaw: -343.131591796875
+    pitch: -25.38213348388672
+    world-name: ''
+afk: false
+ip-address: 109.27.133.38
+last-account-name: flash205
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

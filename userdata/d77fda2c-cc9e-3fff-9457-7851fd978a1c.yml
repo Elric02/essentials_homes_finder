@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490191729734
+  lastteleport: 1490192638571
+  logout: 1490192678032
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.94283271788206
+  y: 63.0
+  z: 49.352302145018065
+  yaw: -253.82179260253906
+  pitch: -0.4728809893131256
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 2.8027420776917857
+  y: 89.5
+  z: 5.0297900095813235
+  yaw: -237.40965270996094
+  pitch: 23.90212059020996
+  world-name: ''
+ip-address: 90.34.30.1
+last-account-name: qblot
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

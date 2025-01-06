@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472128736474
+  lastteleport: 1472129008244
+  logout: 1472129139187
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.30355053467594
+  y: 63.0
+  z: 8.981384976922463
+  yaw: -52.710906982421875
+  pitch: 3.924506664276123
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6425.737347343429
+  y: 71.0
+  z: -6889.703209535434
+  yaw: 210.60003662109375
+  pitch: 11.69999885559082
+  world-name: ''
+ip-address: 86.247.158.111
+last-account-name: nina
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

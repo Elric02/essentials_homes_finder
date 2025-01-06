@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614514721192
+  lastteleport: 1614515344737
+  logout: 1614515356965
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: -167.86595711358092
+  y: 91.0
+  z: 20.179621708786627
+  yaw: -348.96893310546875
+  pitch: 76.35005950927734
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.41156621509936
+  y: 63.0
+  z: 39.663610482732345
+  yaw: -72.84234619140625
+  pitch: 6.575863838195801
+  world-name: ''
+ip-address: 82.65.14.171
+last-account-name: Helfhon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

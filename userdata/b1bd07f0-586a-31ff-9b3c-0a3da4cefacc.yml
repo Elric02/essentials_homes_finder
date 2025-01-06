@@ -1,0 +1,63 @@
+timestamps:
+  login: 1679227303815
+  lastteleport: 1679227399476
+  logout: 1679227521962
+  jail: 0
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: -105.43706154703428
+  y: 99.0
+  z: 147.47592709634125
+  yaw: -89.99896240234375
+  pitch: -6.000091552734375
+  world-name: Althium
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: -92.30000001192093
+  y: 100.0
+  z: 153.69999998807907
+  yaw: 117.1070785522461
+  pitch: 32.48721694946289
+  world-name: Althium
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3197.0743642115326
+    y: 59.0
+    z: -5637.972608129584
+    yaw: 3.90447998046875
+    pitch: 23.090518951416016
+    world-name: world
+  aurian:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3171.4086739374484
+    y: 114.0
+    z: -5636.630045808507
+    yaw: 246.9443359375
+    pitch: 63.28302001953125
+    world-name: world
+  podzol:
+    world: 0847213e-5591-48bf-9f47-5a48a3cb045a
+    x: -2055.38553127244
+    y: 69.0
+    z: 4690.147376076559
+    yaw: -347.6246032714844
+    pitch: 20.625398635864258
+    world-name: Ressource
+money: '100.0'
+afk: false
+jailed: false
+muted: false
+ip-address: 78.251.149.22
+last-account-name: tumtum89440
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

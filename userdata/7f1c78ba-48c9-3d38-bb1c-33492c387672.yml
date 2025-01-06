@@ -1,0 +1,47 @@
+timestamps:
+  login: 1482247186302
+  logout: 1482247202717
+  lastteleport: 1478443253857
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 131.4031758371339
+  y: 63.0
+  z: 20.442242129021096
+  yaw: -76.5601577758789
+  pitch: 60.32453918457031
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 183.07629570564654
+  y: 77.17771006126856
+  z: -6.215564545853065
+  yaw: 173.57028198242188
+  pitch: -55.19999694824219
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 159.43667324694354
+    y: 64.0
+    z: 19.770337855820117
+    yaw: 51.8392333984375
+    pitch: 15.474481582641602
+    world-name: ''
+money: '0'
+ip-address: 86.67.202.121
+last-account-name: Le_BOSS_Lukas
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

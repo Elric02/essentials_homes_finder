@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.78.71.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1676312282774
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1676312325724
+  login: 1676311762057
+money: '0'
+last-account-name: Vonodinet
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -96.83739423321104
+  y: 99.0
+  z: 151.54159783424046
+  yaw: 25.200592041015625
+  pitch: 6.449954032897949
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -147.0386236319404
+  y: 67.0
+  z: -18.828702017086346
+  yaw: -173.24542236328125
+  pitch: 8.399879455566406

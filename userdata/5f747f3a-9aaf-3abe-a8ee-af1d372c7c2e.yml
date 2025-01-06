@@ -1,0 +1,38 @@
+timestamps:
+  login: 1555341061130
+  lastteleport: 1555343733587
+  logout: 1555344845981
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.6569891890246
+  y: 64.0
+  z: 17.94773410224142
+  yaw: -256.8208312988281
+  pitch: 8.278669357299805
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 152.29877673538672
+  y: 64.0
+  z: 30.83770583949254
+  yaw: -11.27105712890625
+  pitch: -5.671332359313965
+  world-name: ''
+ip-address: 176.185.124.70
+last-account-name: AcRoMythix58
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

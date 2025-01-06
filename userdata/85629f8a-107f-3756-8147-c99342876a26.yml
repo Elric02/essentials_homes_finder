@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476897522307
+  lastteleport: 1476898747147
+  logout: 1476898889980
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -266.8352019541687
+  y: 65.0
+  z: 370.50302340336475
+  yaw: -281.30059814453125
+  pitch: 14.317832946777344
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -584.2058222875183
+  y: 73.0
+  z: -738.709667271442
+  yaw: -38.6470947265625
+  pitch: 62.726348876953125
+  world-name: ''
+ip-address: 176.147.250.63
+last-account-name: Deadfire
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

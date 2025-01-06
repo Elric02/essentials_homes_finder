@@ -1,0 +1,63 @@
+timestamps:
+  login: 1598873997416
+  lastteleport: 1598878913228
+  logout: 1598878989133
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -290.78175023372984
+  y: 6.0
+  z: -2117.300000011921
+  yaw: -358.8133239746094
+  pitch: -3.3869314193725586
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2814.3591118867294
+  y: 89.0
+  z: 4857.048418177104
+  yaw: 281.95849609375
+  pitch: 20.85706329345703
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: -2814.8945642415733
+    y: 89.0
+    z: 4857.949311437287
+    yaw: 145.52032470703125
+    pitch: 6.948353290557861
+    world-name: ''
+  xp:
+    world: End
+    x: 337.2801865963066
+    y: 57.0
+    z: -6.285634004247036
+    yaw: -46.025115966796875
+    pitch: 4.911436557769775
+    world-name: ''
+  _j20:
+    world: world
+    x: 2606.8620854065266
+    y: 70.0
+    z: -4624.219996367468
+    yaw: 2.963439464569092
+    pitch: 7.379755973815918
+    world-name: ''
+muted: false
+afk: false
+ip-address: 78.223.122.33
+last-account-name: Pharac
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

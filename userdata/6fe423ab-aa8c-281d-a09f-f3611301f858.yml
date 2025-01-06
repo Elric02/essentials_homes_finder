@@ -1,0 +1,235 @@
+npc: false
+last-account-name: roselfe
+money: '437.9939215686274261'
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.199.228.98
+afk: false
+socialspy: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1665792865711
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665794352963
+  login: 1665778192318
+  kits:
+    color: 1642780064026
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1463.6846181050878
+  y: 101.00214609983976
+  z: 3333.534180841536
+  yaw: 162.4544677734375
+  pitch: 19.800086975097656
+homes:
+  bry:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6513.610119602527
+    y: 67.0
+    z: -2453.682182613178
+    yaw: 20.450437545776367
+    pitch: 13.200008392333984
+  contenaire:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1368.2908190583294
+    y: 65.0
+    z: -2481.2414166159538
+    yaw: -22.585628509521484
+    pitch: 24.299915313720703
+  guardian:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2313.543358413497
+    y: 61.0
+    z: 1251.30303802943
+    yaw: -88.73578643798828
+    pitch: 44.249717712402344
+  magie:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -955.8290650968202
+    y: 103.0
+    z: -1591.710825846796
+    yaw: -86.3529052734375
+    pitch: 21.69016456604004
+  labo:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -446.8365366696751
+    y: 4.0
+    z: 798.7382232513534
+    yaw: -5.564664840698242
+    pitch: 14.699990272521973
+  pigfarm:
+    world: 889c592f-aaa9-4fbd-abc8-8414e32cfca2
+    world-name: Ressourcenether
+    x: -1709.6065253096072
+    y: 7.0
+    z: -186.09902616957734
+    yaw: 65.118896484375
+    pitch: 27.599868774414062
+  pokeball:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    world-name: Event
+    x: 858.5393261477165
+    y: 72.0
+    z: -2137.707993508245
+    yaw: 41.39045333862305
+    pitch: 29.849573135375977
+  suhyi:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3348.533320498643
+    y: 143.0
+    z: -7327.6721106282575
+    yaw: -54.03643035888672
+    pitch: 48.06052780151367
+  chateau:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3580.2674577066523
+    y: 94.0
+    z: -2278.134740704216
+    yaw: -237.89637756347656
+    pitch: 7.349809169769287
+  coffre2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -960.5332496928331
+    y: 50.0
+    z: -1532.6950974414353
+    yaw: 180.662841796875
+    pitch: 21.449695587158203
+  carte:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6145.295827587659
+    y: 148.39377176563943
+    z: -986.3083987054787
+    yaw: -279.91455078125
+    pitch: 62.249717712402344
+  contenaircoffre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1371.9072496867832
+    y: 57.0
+    z: -2495.7901841742764
+    yaw: -5.934083938598633
+    pitch: 23.099960327148438
+  causette:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6237.5611647827955
+    y: 66.0
+    z: 5897.042470754834
+    yaw: 79.13987731933594
+    pitch: 24.299203872680664
+  coffre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1219.0178802530868
+    y: 48.0
+    z: -2263.3559706100114
+    yaw: -75.49979400634766
+    pitch: 13.648486137390137
+  maisontest:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 1033.8575259210904
+    y: 4.0
+    z: -1542.767361165083
+    yaw: 92.35568237304688
+    pitch: 32.2492561340332
+  secret:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 170.88228137388876
+    y: 104.0
+    z: -136.27174204314522
+    yaw: -130.23817443847656
+    pitch: 19.799758911132812
+  moiroselfe:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -293.3905983579309
+    y: 48.0
+    z: 383.14023998380014
+    yaw: -174.89552307128906
+    pitch: 27.60009002685547
+  titemaison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 4080.714017042032
+    y: 64.0
+    z: -67.2705013596776
+    yaw: -123.75761413574219
+    pitch: 17.999839782714844
+  noracliarbre:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 613.5584974641863
+    y: 28.011092754651028
+    z: 475.2900191093019
+    yaw: 14.06378173828125
+    pitch: 47.84986114501953
+  spawnend:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 1388.952121803997
+    y: 4.0
+    z: -1971.6532884289588
+    yaw: -168.45443725585938
+    pitch: 6.300284385681152
+  spawnend2:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 1415.5928406928092
+    y: 10.0
+    z: -2162.515929186219
+    yaw: -166.82138061523438
+    pitch: 29.24941635131836
+  rose:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 4967.9980695767645
+    y: 193.0
+    z: 5994.108706582402
+    yaw: 16.704029083251953
+    pitch: 28.199447631835938
+  mox:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 1099.1585164469893
+    y: 71.5
+    z: -1578.371131542944
+    yaw: 5.6999640464782715
+    pitch: 13.050117492675781
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1313.3398009631587
+  y: 109.8095729137922
+  z: 2881.754433141453
+  yaw: -14.50927734375
+  pitch: 53.6998176574707
+mail:
+- legacy: false
+  read: true
+  message: Salut Rose! Je suis revenu jouer quelques minutes se soir et je n'ai plus
+    aucun sous..$ jétais il me semble aux alentours de 1 500 000mais la je n'ai plus
+    rien..
+  sender-name: jackthesnakes01
+  sender-uuid: 378bb678-7b7b-3480-9af5-f83ce8ab2092
+  timestamp: 1649814968441
+  expire: 0

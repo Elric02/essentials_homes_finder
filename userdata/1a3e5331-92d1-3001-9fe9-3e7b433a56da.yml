@@ -1,0 +1,38 @@
+timestamps:
+  login: 1566660408556
+  logout: 1566660486145
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.62996144842208
+  y: 65.0
+  z: 97.95439039123511
+  yaw: 170.4871826171875
+  pitch: 2.227189540863037
+  world-name: ''
+ip-address: 82.120.4.169
+last-account-name: 731silver
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

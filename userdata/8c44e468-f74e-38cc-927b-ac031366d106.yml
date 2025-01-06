@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.119.202.174
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1658398382777
+  login: 1658397953168
+money: '0'
+last-account-name: Eniotna2607
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 155.35566031828623
+  y: 66.0
+  z: 96.59479497484988
+  yaw: 165.84713745117188
+  pitch: 21.390647888183594
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 7694.699999988079
+  y: 23.64386618263123
+  z: 4587.699999988079
+  yaw: -42.05225372314453
+  pitch: 26.100326538085938

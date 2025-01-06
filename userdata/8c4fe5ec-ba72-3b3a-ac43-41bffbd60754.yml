@@ -1,0 +1,74 @@
+timestamps:
+  login: 1565637337330
+  lastteleport: 1565640842330
+  logout: 1565641089997
+  kits:
+    vip: 1563430631415
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -7001.5
+  y: 37.0
+  z: -4817.5
+  yaw: 358.8994445800781
+  pitch: 0.45002222061157227
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6900.5
+  y: 47.5
+  z: -4090.5
+  yaw: 345.0989990234375
+  pitch: 35.70001983642578
+  world-name: ''
+afk: false
+homes:
+  vip:
+    world: world
+    x: -6900.327528464222
+    y: 47.5
+    z: -4090.5957624024177
+    yaw: 354.9990234375
+    pitch: 35.10002136230469
+    world-name: ''
+  daniel:
+    world: world
+    x: 2103.811282620395
+    y: 95.0
+    z: -2804.867053340896
+    yaw: 90.2952880859375
+    pitch: 40.050018310546875
+    world-name: ''
+  test:
+    world: Test
+    x: 227.67191542948726
+    y: 57.0
+    z: -721.7361539787647
+    yaw: -87.59774780273438
+    pitch: 27.599878311157227
+    world-name: ''
+  gardien:
+    world: world
+    x: -7001.676127126877
+    y: 37.0
+    z: -4817.248597129443
+    yaw: 358.8994445800781
+    pitch: 0.45002222061157227
+    world-name: ''
+nickname: §2Da§fni§4el
+jailed: false
+godmode: false
+socialspy: true
+ip-address: 109.132.178.32
+last-account-name: zdnl
+teleportenabled: true
+teleportauto: false
+muted: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

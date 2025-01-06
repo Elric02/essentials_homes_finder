@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609022873357
+  lastteleport: 1609022989069
+  logout: 1609023032037
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 64.55124890997517
+  y: 64.0
+  z: 106.52247035948974
+  yaw: 97.29721069335938
+  pitch: 30.690589904785156
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 182.47438682306608
+  y: 63.0
+  z: 18.093914380100664
+  yaw: -96.54470825195312
+  pitch: 18.875852584838867
+  world-name: ''
+ip-address: 83.153.22.58
+last-account-name: Landry07
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

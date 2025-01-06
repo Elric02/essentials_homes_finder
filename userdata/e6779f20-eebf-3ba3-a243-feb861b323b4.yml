@@ -1,0 +1,38 @@
+timestamps:
+  login: 1626276413043
+  logout: 1626277166837
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 228.69999998807907
+  y: 123.625
+  z: -134.27124683263048
+  yaw: 289.1767578125
+  pitch: 46.349266052246094
+  world-name: ''
+ip-address: 83.198.71.128
+last-account-name: PetitGio
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618173716596
+  logout: 1618173806835
+  lastteleport: 1607177915928
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1833.774860628081
+  y: 57.0
+  z: -3817.075655997611
+  yaw: 234.86724853515625
+  pitch: 54.139320373535156
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 106.05696415589335
+  y: 72.0
+  z: -63.6122324508019
+  yaw: 29.04425048828125
+  pitch: 13.216408729553223
+  world-name: ''
+money: '0'
+ip-address: 88.161.119.192
+last-account-name: Eliaaym
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

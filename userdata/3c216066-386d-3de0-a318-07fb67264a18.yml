@@ -1,0 +1,47 @@
+timestamps:
+  login: 1528215265165
+  logout: 1528215404789
+  lastteleport: 1488077602775
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3074.578659607918
+  y: 76.0
+  z: 2154.4569728425795
+  yaw: -155.25494384765625
+  pitch: -1.5000762939453125
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3077.038207518769
+  y: 76.0
+  z: 2157.3569019019806
+  yaw: 127.5540771484375
+  pitch: -2.6755213737487793
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 3073.575523361251
+    y: 79.0
+    z: 2151.3490896690987
+    yaw: 0.5970458984375
+    pitch: 44.25007629394531
+    world-name: ''
+money: '0'
+ip-address: 78.229.228.87
+last-account-name: tino89
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

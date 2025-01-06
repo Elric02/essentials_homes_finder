@@ -1,0 +1,47 @@
+timestamps:
+  login: 1544214476104
+  lastteleport: 1544214937413
+  logout: 1544214974663
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3217.9444642176295
+  y: 247.5
+  z: 169.6127945686756
+  yaw: -274.64898681640625
+  pitch: 37.3500862121582
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 158.87593381911753
+  y: 64.0
+  z: 11.766994701213058
+  yaw: -93.32089233398438
+  pitch: 51.15000915527344
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 3223.115250879774
+    y: 255.0
+    z: 168.47948610729497
+    yaw: -198.4490203857422
+    pitch: 36.75007629394531
+    world-name: ''
+ip-address: 90.24.78.39
+last-account-name: DieuOfTheDiamond
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

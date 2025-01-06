@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477409383823
+  logout: 1477410056517
+  lastteleport: 1477409977690
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5146.564168852333
+  y: 68.0
+  z: 446.6802429705303
+  yaw: -94.98796081542969
+  pitch: 20.053009033203125
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5463.825394123894
+  y: 63.0
+  z: 586.6288358448404
+  yaw: -214.837890625
+  pitch: 15.403031349182129
+  world-name: ''
+ip-address: 78.217.141.250
+last-account-name: Homogene
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

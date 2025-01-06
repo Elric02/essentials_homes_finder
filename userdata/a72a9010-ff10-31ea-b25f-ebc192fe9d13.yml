@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.174.139.224
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1691620134428
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1691620429867
+  login: 1691620415792
+money: '100.0'
+last-account-name: SushB
+lastlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: -125.93427233773606
+  y: 85.76321827683647
+  z: 5.710495597743276
+  yaw: -126.15193176269531
+  pitch: 7.799956321716309
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 214.14167122597277
+  y: 109.61842790346756
+  z: 307.1273353958946
+  yaw: -120.75065612792969
+  pitch: 66.00005340576172

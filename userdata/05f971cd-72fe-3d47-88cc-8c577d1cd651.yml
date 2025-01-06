@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518362657927
+  lastteleport: 1518363161342
+  logout: 1518364078803
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 31.900976280536636
+  y: 68.0
+  z: 108.51551605397104
+  yaw: -162.264892578125
+  pitch: 10.081896781921387
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -138.6260506606447
+  y: 65.0
+  z: -420.71745196804096
+  yaw: -92.6845703125
+  pitch: 50.793609619140625
+  world-name: ''
+ip-address: 85.95.216.125
+last-account-name: Ed_Sheeran
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

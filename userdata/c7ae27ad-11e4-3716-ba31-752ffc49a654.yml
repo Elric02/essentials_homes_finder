@@ -1,0 +1,82 @@
+timestamps:
+  login: 1614167687240
+  lastteleport: 1532109616368
+  logout: 1614167763787
+  mute: 0
+  kits:
+    vip: 1494461076003
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1461.1203356473648
+  y: 63.0
+  z: -1986.3600927192408
+  yaw: 83.9246826171875
+  pitch: 11.572927474975586
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4941.684837643835
+  y: 63.5
+  z: -614.6753434475393
+  yaw: 62.09760665893555
+  pitch: 33.49871063232422
+  world-name: ''
+money: '0'
+homes:
+  moi:
+    world: world
+    x: 3904.5236415623904
+    y: 63.875
+    z: -2503.9157263482184
+    yaw: -131.06478881835938
+    pitch: 24.422744750976562
+    world-name: ''
+  home:
+    world: world
+    x: -1902.8338250526997
+    y: 74.0
+    z: -1565.7673804851522
+    yaw: -230.73190307617188
+    pitch: 8.291741371154785
+    world-name: ''
+  maison:
+    world: world
+    x: -4887.081757633855
+    y: 63.0
+    z: -556.5533333006299
+    yaw: -80.71066284179688
+    pitch: 14.697671890258789
+    world-name: ''
+  merlin:
+    world: world
+    x: 64.9787986121137
+    y: 94.0
+    z: 60.3409223800282
+    yaw: -215.912109375
+    pitch: 8.35946273803711
+    world-name: ''
+  rose:
+    world: world
+    x: -500.64798218141226
+    y: 169.0
+    z: 470.0058734411038
+    yaw: -141.63092041015625
+    pitch: 14.796480178833008
+    world-name: ''
+afk: false
+muted: false
+nickname: §82LYTS
+jailed: false
+ip-address: 91.167.216.16
+last-account-name: STYL2
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

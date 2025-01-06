@@ -1,0 +1,63 @@
+timestamps:
+  login: 1627033143704
+  lastteleport: 1627033234905
+  logout: 1627033929092
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -112.2043895193292
+  y: 67.0
+  z: -6241.13585779601
+  yaw: 212.63954162597656
+  pitch: 26.54994773864746
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2104.0287785056203
+  y: 64.0
+  z: -4312.354040313828
+  yaw: -0.3005557954311371
+  pitch: 37.199981689453125
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 4863.040300791009
+    y: 61.44969774305548
+    z: -6638.549204595218
+    yaw: 181.049560546875
+    pitch: 28.950082778930664
+    world-name: ''
+  b:
+    world: world
+    x: 4863.035635180621
+    y: 61.0
+    z: -6637.288449986509
+    yaw: 181.049560546875
+    pitch: 28.950082778930664
+    world-name: ''
+  bp:
+    world: world
+    x: -1.6227570385442278
+    y: 64.0
+    z: -6299.01056786478
+    yaw: -244.64781188964844
+    pitch: 46.349876403808594
+    world-name: ''
+ip-address: 78.243.35.182
+last-account-name: Jetinvincible83
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

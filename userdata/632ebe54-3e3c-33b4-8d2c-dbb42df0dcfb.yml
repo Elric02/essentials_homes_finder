@@ -1,0 +1,63 @@
+timestamps:
+  login: 1518274932214
+  logout: 1518274973364
+  lastteleport: 1517771879561
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -642.3000000119209
+  y: 74.0
+  z: -123.53820327174145
+  yaw: 95.07766723632812
+  pitch: 4.772319316864014
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 163.51249998807907
+  y: 70.0
+  z: -1857.699999988079
+  yaw: -90.20611572265625
+  pitch: -86.57755279541016
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 171.30000001192093
+    y: 67.0
+    z: -1854.246615049076
+    yaw: 129.69371032714844
+    pitch: 22.051586151123047
+    world-name: ''
+  mine:
+    world: Ressource
+    x: -228.6060246101041
+    y: 51.0
+    z: -3417.926729436389
+    yaw: 201.25733947753906
+    pitch: 21.703407287597656
+    world-name: ''
+  qu_te:
+    world: world
+    x: 217.05745200311162
+    y: 100.0
+    z: -93.50061053053462
+    yaw: -155.19696044921875
+    pitch: 18.35016441345215
+    world-name: ''
+afk: false
+ip-address: 109.190.46.90
+last-account-name: Kantino
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

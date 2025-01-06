@@ -1,0 +1,38 @@
+timestamps:
+  login: 1540568941180
+  logout: 1540569086556
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 141.4493394080719
+  y: 63.41999998688698
+  z: 11.570800589065172
+  yaw: -55.6881103515625
+  pitch: 12.485512733459473
+  world-name: ''
+ip-address: 77.198.25.76
+last-account-name: Je_suis_une_bite
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

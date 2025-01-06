@@ -1,0 +1,55 @@
+timestamps:
+  login: 1501509534323
+  logout: 1501510185415
+  lastteleport: 1501509556540
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1935.9775439931063
+  y: 88.0
+  z: -1917.8626019995838
+  yaw: -247.757080078125
+  pitch: 16.271974563598633
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 72.69999998807907
+  y: 64.0
+  z: -5.408671509002612
+  yaw: -159.17112731933594
+  pitch: 44.717323303222656
+  world-name: ''
+homes:
+  coffre001:
+    world: world
+    x: -1937.5
+    y: 88.0
+    z: -1918.5
+    yaw: -67.69934844970703
+    pitch: 39.619224548339844
+    world-name: ''
+  coffre002:
+    world: world
+    x: 2143.5
+    y: 61.0
+    z: 4853.5
+    yaw: 272.83203125
+    pitch: 46.08000183105469
+    world-name: ''
+money: '0'
+afk: false
+muted: false
+ip-address: 82.250.56.98
+last-account-name: Dudest
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

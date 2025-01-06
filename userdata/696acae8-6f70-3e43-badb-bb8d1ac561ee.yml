@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.233.56.206
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671214980385
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675545582296
+  login: 1675545581041
+money: '100.0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -239.17527254522545
+  y: 89.6537296175886
+  z: 143.02854745132336
+  yaw: -90.5008316040039
+  pitch: 59.01772689819336
+last-account-name: iRevoul
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -238.57893579444803
+  y: 76.0
+  z: 143.49914500827032
+  yaw: -99.65086364746094
+  pitch: 43.41770553588867

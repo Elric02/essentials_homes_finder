@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618919947432
+  lastteleport: 1618921131188
+  logout: 1618921144638
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 135.40023561144432
+  y: 63.0
+  z: -19.267958289326607
+  yaw: -122.7919921875
+  pitch: 0.8760127425193787
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -152.4952850341797
+  pitch: -2.574125051498413
+  world-name: ''
+ip-address: 2.3.208.47
+last-account-name: superharu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

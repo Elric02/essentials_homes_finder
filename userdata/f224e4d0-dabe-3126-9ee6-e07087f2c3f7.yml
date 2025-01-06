@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468701679680
+  logout: 1468701701305
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.47538854356975
+  y: 64.0
+  z: 19.815311060894157
+  yaw: -82.19722747802734
+  pitch: 10.424178123474121
+  world-name: ''
+ip-address: 90.20.148.16
+last-account-name: Frigiel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

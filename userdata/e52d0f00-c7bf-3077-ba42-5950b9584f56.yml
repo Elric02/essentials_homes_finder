@@ -1,0 +1,38 @@
+timestamps:
+  login: 1626872774860
+  lastteleport: 1626872841420
+  logout: 1626873087484
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.67289127780057
+  y: 63.0
+  z: -1.2801452375594895
+  yaw: 177.396484375
+  pitch: 12.240683555603027
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -3738.699999988079
+  y: 6.0
+  z: 56.49672321841649
+  yaw: -271.94720458984375
+  pitch: 36.7500114440918
+  world-name: ''
+ip-address: 78.226.83.121
+last-account-name: gusseBZH
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

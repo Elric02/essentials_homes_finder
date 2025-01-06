@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471946577389
+  lastteleport: 1471946747822
+  logout: 1471946789470
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 82.09283248740067
+  y: 64.0
+  z: -19.398820604234192
+  yaw: -126.94711303710938
+  pitch: 13.297386169433594
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5586.722338417234
+  y: 67.0
+  z: -3170.851826411872
+  yaw: 322.7999572753906
+  pitch: 9.900007247924805
+  world-name: ''
+ip-address: 90.18.118.59
+last-account-name: Bilbon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

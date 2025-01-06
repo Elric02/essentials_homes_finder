@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478028743177
+  logout: 1478028758872
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.17401335249647
+  y: 63.0
+  z: 46.87896128583469
+  yaw: -154.9667510986328
+  pitch: 10.042645454406738
+  world-name: ''
+ip-address: 90.47.204.1
+last-account-name: RaxenSfuitt
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

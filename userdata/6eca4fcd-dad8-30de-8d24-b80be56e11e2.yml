@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618048411730
+  lastteleport: 1618050167101
+  logout: 1618050447376
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 60.4533216609903
+  y: 79.0
+  z: -2693.525607314551
+  yaw: -89.5500259399414
+  pitch: 20.5500545501709
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5219706617853
+  y: 64.0
+  z: 24.59015183032405
+  yaw: -213.54539489746094
+  pitch: 12.875866889953613
+  world-name: ''
+ip-address: 90.73.114.62
+last-account-name: Shijima_Fudo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

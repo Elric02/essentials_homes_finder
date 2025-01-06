@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519394164474
+  lastteleport: 1519394250659
+  logout: 1519394293450
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.10930542139386
+  y: 63.5
+  z: 65.70576712847563
+  yaw: -171.80300903320312
+  pitch: 12.990645408630371
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4840.975697133427
+  y: 84.0
+  z: -464.1394180257494
+  yaw: 103.92736053466797
+  pitch: 4.64999532699585
+  world-name: ''
+ip-address: 86.196.114.57
+last-account-name: Shaashoo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

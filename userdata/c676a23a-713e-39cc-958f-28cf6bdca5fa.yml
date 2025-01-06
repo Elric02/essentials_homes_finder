@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.218.45.86
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1644344176571
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644344192961
+  login: 1644344049229
+money: '0'
+last-account-name: vitil77
+lastlocation:
+  world: 27d75173-7a5e-49c7-9e35-856f6c1d3e3c
+  world-name: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+logoutlocation:
+  world: 27d75173-7a5e-49c7-9e35-856f6c1d3e3c
+  world-name: Ressource
+  x: 13.57579130699257
+  y: 89.5
+  z: 4.400013721947554
+  yaw: -138.75271606445312
+  pitch: 18.785816192626953

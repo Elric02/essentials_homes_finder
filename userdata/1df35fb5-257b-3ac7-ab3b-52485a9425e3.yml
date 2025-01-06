@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480184534405
+  lastteleport: 1480184658885
+  logout: 1480184785618
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.23530384624098
+  y: 63.0
+  z: 40.426457371975346
+  yaw: -327.66094970703125
+  pitch: -7.775493621826172
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -573.2289060920494
+  y: 66.0
+  z: -710.371133193092
+  yaw: -126.54782104492188
+  pitch: 5.24983549118042
+  world-name: ''
+ip-address: 79.80.75.70
+last-account-name: Destinien17007
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

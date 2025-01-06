@@ -1,0 +1,55 @@
+timestamps:
+  login: 1582904987526
+  lastteleport: 1582905271454
+  logout: 1582905550830
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 159.9227826327067
+  y: 63.0
+  z: 6.595114133168087
+  yaw: 88.9224853515625
+  pitch: 36.203643798828125
+  world-name: ''
+homes:
+  build:
+    world: world
+    x: -2177.5
+    y: 63.5
+    z: -1580.5
+    yaw: -335.557861328125
+    pitch: 19.738231658935547
+    world-name: ''
+  test:
+    world: world
+    x: 947.5
+    y: 65.0
+    z: 1478.5
+    yaw: -180.69696044921875
+    pitch: 17.275562286376953
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2185.699999988079
+  y: 63.0
+  z: -1584.4629846732782
+  yaw: -168.72308349609375
+  pitch: -7.6609206199646
+  world-name: ''
+afk: false
+ip-address: 90.114.63.56
+last-account-name: Creepaze
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

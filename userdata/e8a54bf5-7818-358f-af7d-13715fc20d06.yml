@@ -1,0 +1,65 @@
+timestamps:
+  login: 1671963202921
+  logout: 1671963245301
+  lastteleport: 1671910830151
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  kits:
+    debutant: 1665425493635
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -2789.155597231147
+  y: 85.0
+  z: 6454.051359744416
+  yaw: -145.7967529296875
+  pitch: 27.449861526489258
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 148.3362409483508
+  y: 66.0
+  z: 0.699999988079071
+  yaw: -18.126312255859375
+  pitch: 58.350189208984375
+  world-name: world
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2781.7686099829616
+    y: 101.0
+    z: 6446.750549411173
+    yaw: -110.25048828125
+    pitch: 28.200061798095703
+    world-name: world
+  village1:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 7273.60692721127
+    y: 66.9375
+    z: 3765.513130508041
+    yaw: -86.0986328125
+    pitch: 46.349395751953125
+    world-name: world
+  m2m2005:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -169.45793622426632
+    y: 48.0
+    z: -106.09847423594229
+    yaw: 0.5604569315910339
+    pitch: 31.128211975097656
+money: '2166.6055555555551695'
+afk: false
+ip-address: 77.141.36.166
+last-account-name: attaqu1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

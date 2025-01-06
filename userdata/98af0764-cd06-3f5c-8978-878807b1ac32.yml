@@ -1,0 +1,47 @@
+timestamps:
+  login: 1555095055418
+  lastteleport: 1555095473741
+  logout: 1555096261374
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3196.300000011921
+  y: 62.125
+  z: -5667.300000011921
+  yaw: 188.8697509765625
+  pitch: 18.44998550415039
+  world-name: ''
+homes:
+  pu:
+    world: world
+    x: 3173.351314881284
+    y: 65.0
+    z: -5649.460291357473
+    yaw: 254.57568359375
+    pitch: 8.999961853027344
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3367.121555113163
+  y: 68.0
+  z: -5618.304962573273
+  yaw: -56.658668518066406
+  pitch: 14.550010681152344
+  world-name: ''
+ip-address: 90.125.224.242
+last-account-name: YoungTadx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

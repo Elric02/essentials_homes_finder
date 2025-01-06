@@ -1,0 +1,55 @@
+timestamps:
+  login: 1469656705491
+  logout: 1469659445128
+  lastteleport: 1469657878001
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1056.4751670674314
+  y: 89.25160371388158
+  z: -4032.565457161702
+  yaw: -183.01324462890625
+  pitch: 9.899972915649414
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -5368.317626788206
+  y: 70.0
+  z: 567.3489179716016
+  yaw: -264.48681640625
+  pitch: -6.450138568878174
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -143.23735082115513
+    y: 66.0
+    z: -190.95927880093532
+    yaw: -48.152076721191406
+    pitch: 12.900001525878906
+    world-name: ''
+  home:
+    world: world
+    x: -5329.118857995366
+    y: 70.0
+    z: 588.8010570747159
+    yaw: -195.9291534423828
+    pitch: 18.000062942504883
+    world-name: ''
+money: '0'
+ip-address: 2.13.240.249
+last-account-name: Shiimmyz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

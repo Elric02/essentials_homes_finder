@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.127.123.145
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674498136739
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680528376365
+  login: 1680528355313
+money: '0'
+last-account-name: titou4
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 398.92059407732563
+  y: 81.0
+  z: -3107.139354787548
+  yaw: 149.70228576660156
+  pitch: 13.199993133544922
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.3760359937896
+  y: 63.0
+  z: 9.352943598135527
+  yaw: 4.815365791320801
+  pitch: 5.850259780883789

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1562428785930
+  logout: 1562428959533
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.39886596197414
+  y: 65.0
+  z: 87.82498519302807
+  yaw: 124.29690551757812
+  pitch: 8.85000228881836
+  world-name: ''
+ip-address: 78.221.238.153
+last-account-name: BYSHARKTV
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

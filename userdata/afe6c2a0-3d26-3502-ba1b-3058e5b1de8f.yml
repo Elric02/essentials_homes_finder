@@ -1,0 +1,38 @@
+timestamps:
+  login: 1491411038252
+  lastteleport: 1491411680286
+  logout: 1491412165988
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.30000001192093
+  y: 61.0
+  z: 20.35693753717092
+  yaw: -352.11083984375
+  pitch: 38.10000228881836
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 37.94999998807906
+  y: 64.0
+  z: 16.417986011148976
+  yaw: -61.110595703125
+  pitch: 18.900049209594727
+  world-name: ''
+ip-address: 78.246.159.41
+last-account-name: Rose_Quartz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

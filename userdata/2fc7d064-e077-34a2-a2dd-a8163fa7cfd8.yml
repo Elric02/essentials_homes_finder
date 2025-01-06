@@ -1,0 +1,47 @@
+timestamps:
+  login: 1477844089059
+  lastteleport: 1470772678529
+  logout: 1477844435459
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 498.7761751588445
+  y: 73.0
+  z: -819.2338896061988
+  yaw: 225.8538818359375
+  pitch: 0.7370079159736633
+  world-name: ''
+homes:
+  lawhome:
+    world: world
+    x: 446.30000001192093
+    y: 64.0
+    z: -511.516242594969
+    yaw: -50.91032409667969
+    pitch: 27.33734703063965
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 444.9472064328795
+  y: 69.5
+  z: -511.35399804269815
+  yaw: 162.49627685546875
+  pitch: 26.587203979492188
+  world-name: ''
+money: '0'
+ip-address: 90.5.191.208
+last-account-name: Lawrenzo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

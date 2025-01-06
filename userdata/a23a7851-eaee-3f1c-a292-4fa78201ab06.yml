@@ -1,0 +1,38 @@
+timestamps:
+  login: 1590170412079
+  logout: 1590170608454
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 127.45096357127744
+  y: 63.0
+  z: 23.264154555192587
+  yaw: 249.92416381835938
+  pitch: 50.52123260498047
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5285.3927035475335
+  y: 57.0
+  z: 1459.49218126633
+  yaw: 86.3634262084961
+  pitch: -64.63651275634766
+  world-name: ''
+ip-address: 109.31.187.3
+last-account-name: flamingold
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482098512568
+  logout: 1482098577579
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.88246458774847
+  y: 63.0
+  z: 49.86876787077097
+  yaw: -177.6010284423828
+  pitch: 4.894570350646973
+  world-name: ''
+ip-address: 77.134.86.41
+last-account-name: Lil53
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

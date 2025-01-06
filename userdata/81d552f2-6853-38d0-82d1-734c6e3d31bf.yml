@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.2.63.65
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668718063203
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668718313170
+  login: 1668717822393
+money: '0'
+last-account-name: Wh1teDanger
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 157.19041732769136
+  y: 52.2521313007392
+  z: -393.76489881009167
+  yaw: 116.56829833984375
+  pitch: 37.7830696105957
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 1.3137415559958687
+  y: 105.05122463151787
+  z: 592.490900740734
+  yaw: 82.9320068359375
+  pitch: 44.71320724487305

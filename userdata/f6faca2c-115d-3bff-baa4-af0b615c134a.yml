@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592845190256
+  logout: 1592845266869
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 149.78506969781503
+  y: 63.0
+  z: 49.466031020817645
+  yaw: -159.20318603515625
+  pitch: 31.290618896484375
+  world-name: ''
+ip-address: 77.141.238.210
+last-account-name: Boilstone
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

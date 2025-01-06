@@ -1,0 +1,38 @@
+timestamps:
+  login: 1626276413043
+  logout: 1626277031790
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 149.2190175899497
+  y: 63.65
+  z: 21.762460848885738
+  yaw: -42.095245361328125
+  pitch: 25.3258113861084
+  world-name: ''
+ip-address: 83.198.71.128
+last-account-name: ZacZac974
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

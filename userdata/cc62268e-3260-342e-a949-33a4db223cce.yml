@@ -1,0 +1,47 @@
+timestamps:
+  login: 1556029377471
+  lastteleport: 1556030493884
+  logout: 1556030520158
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.70097157370574
+  y: 63.0
+  z: 39.09579897319813
+  yaw: -41.72085952758789
+  pitch: 8.128668785095215
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 1158.443350636228
+    y: 73.0625
+    z: -5250.971161806429
+    yaw: 191.2310791015625
+    pitch: 17.39999771118164
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: Nether
+  x: 31.956004796148875
+  y: 54.0
+  z: 36.99097936335568
+  yaw: 246.73094177246094
+  pitch: 20.666921615600586
+  world-name: ''
+ip-address: 86.227.192.134
+last-account-name: Bily
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

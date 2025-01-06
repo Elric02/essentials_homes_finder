@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477414682072
+  logout: 1477414944480
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.35036996104375
+  y: 64.0
+  z: 18.920376657805114
+  yaw: 259.15179443359375
+  pitch: 11.197493553161621
+  world-name: ''
+ip-address: 109.212.219.220
+last-account-name: YukiSamada
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

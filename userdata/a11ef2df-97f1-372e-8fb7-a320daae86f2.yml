@@ -1,0 +1,38 @@
+timestamps:
+  login: 1495034550810
+  lastteleport: 1495034854709
+  mute: 0
+  logout: 1495035298821
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.96075751637673
+  y: 66.0
+  z: 18.878914645787308
+  yaw: -87.79763793945312
+  pitch: 2.947392702102661
+  world-name: ''
+money: '0'
+muted: true
+logoutlocation:
+  world: Ressource
+  x: 213.1233393133568
+  y: 67.0
+  z: 74.35321417665195
+  yaw: -106.2366714477539
+  pitch: 9.033102035522461
+  world-name: ''
+ip-address: 92.135.86.176
+last-account-name: _Pusher_
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

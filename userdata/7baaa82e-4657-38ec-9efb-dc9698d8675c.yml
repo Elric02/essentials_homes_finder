@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488735077583
+  logout: 1488735219040
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 191.8926813604038
+  y: 63.0
+  z: 16.331021961793613
+  yaw: 91.90234375
+  pitch: 10.147390365600586
+  world-name: ''
+ip-address: 77.204.138.26
+last-account-name: Reezerox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

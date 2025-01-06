@@ -1,0 +1,47 @@
+timestamps:
+  login: 1488484439255
+  logout: 1488484665839
+  lastteleport: 1488484571102
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.517757930855
+  y: 64.0
+  z: 29.49064082158176
+  yaw: -180.06092834472656
+  pitch: 6.924515247344971
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 297.39307988878045
+  y: 86.0
+  z: -267.276591198597
+  yaw: -319.8744201660156
+  pitch: 78.14996337890625
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 297.3048711500459
+    y: 77.0
+    z: -302.528201549772
+    yaw: 111.6759033203125
+    pitch: 16.499956130981445
+    world-name: ''
+ip-address: 193.250.234.91
+last-account-name: Aniis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

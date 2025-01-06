@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487866154860
+  logout: 1487866170829
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 148.9917303786689
+  y: 63.0625
+  z: 46.39683358128083
+  yaw: -157.24746704101562
+  pitch: 20.797401428222656
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.55580046501922
+  y: 27.0
+  z: 22.493618844044047
+  yaw: -305.5975036621094
+  pitch: 4.147403240203857
+  world-name: ''
+ip-address: 176.144.120.115
+last-account-name: FuRy_Sweat
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

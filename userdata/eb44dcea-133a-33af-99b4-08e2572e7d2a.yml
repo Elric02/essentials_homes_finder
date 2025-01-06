@@ -1,0 +1,119 @@
+timestamps:
+  login: 1649423858059
+  lastteleport: 1649424291868
+  logout: 1649424495909
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 9ae49fc9-52ed-408c-94a2-ef296500163a
+  x: 37.790893778352874
+  y: 50.0
+  z: 232.43670197550742
+  yaw: -89.8525619506836
+  pitch: 23.135868072509766
+  world-name: Ressource
+money: '0'
+homes:
+  mevenou:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5367.793725148973
+    y: 58.0
+    z: 1439.3697651743566
+    yaw: -57.63796615600586
+    pitch: 21.233013153076172
+    world-name: world
+  shop:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3445.300000011921
+    y: 198.0
+    z: 3529.4157674266544
+    yaw: 92.44088745117188
+    pitch: 5.699957847595215
+    world-name: world
+  vil:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 2405.627684453227
+    y: 63.0
+    z: 5733.394223943305
+    yaw: -190.330810546875
+    pitch: 23.099929809570312
+    world-name: world
+  mur:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6453.699999988079
+    y: 69.0
+    z: 6541.300000011921
+    yaw: 280.88958740234375
+    pitch: 63.449501037597656
+    world-name: world
+  sweethome:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6506.5
+    y: 67.0
+    z: 6577.5
+    yaw: -177.1438446044922
+    pitch: 34.199928283691406
+    world-name: world
+  retalone:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6796.128628416392
+    y: 67.0
+    z: -3900.482846151806
+    yaw: -267.0000305175781
+    pitch: 57.90000915527344
+    world-name: world
+  end:
+    world: 185e9cda-c4ff-433f-a53c-fe9d7f67c1f9
+    x: -392.7920511273416
+    y: 1.0
+    z: 0.5047523965959307
+    yaw: -235.53329467773438
+    pitch: 26.08934211730957
+    world-name: End
+  glace:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5557.5971768161735
+    y: 49.0
+    z: -6984.699999988079
+    yaw: 9.409967422485352
+    pitch: 30.496891021728516
+    world-name: world
+  mobs:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 218.59374317237837
+    y: 63.0
+    z: -117.95649515671685
+    yaw: 109.40534973144531
+    pitch: 27.725860595703125
+  newhome:
+    world: 6b791b62-b860-492a-aa67-db025bcd5247
+    world-name: world2
+    x: -2034.1942741075652
+    y: 66.0
+    z: -3191.72116859544
+    yaw: 80.40261840820312
+    pitch: 5.8499674797058105
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 153.02668991641525
+  y: 67.0
+  z: 74.22670703857425
+  yaw: -3.893463134765625
+  pitch: 19.499921798706055
+  world-name: world
+afk: false
+ip-address: 84.103.216.187
+last-account-name: Oxalya
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

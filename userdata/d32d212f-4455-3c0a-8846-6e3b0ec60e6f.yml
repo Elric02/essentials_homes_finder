@@ -1,0 +1,47 @@
+timestamps:
+  login: 1570738953463
+  lastteleport: 1570641352908
+  logout: 1570738988371
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -42.318793724109035
+  y: 39.0
+  z: 24.89622678755534
+  yaw: -163.38519287109375
+  pitch: 25.274465560913086
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 36.75660064513338
+  y: 69.0
+  z: -59.09385661187214
+  yaw: -267.9415283203125
+  pitch: 13.79090404510498
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 158.8446195849489
+    y: 63.0
+    z: 56.44649612790484
+    yaw: -11.222783088684082
+    pitch: 1.3861125707626343
+    world-name: ''
+afk: false
+ip-address: 80.236.214.132
+last-account-name: Tristanlee123
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

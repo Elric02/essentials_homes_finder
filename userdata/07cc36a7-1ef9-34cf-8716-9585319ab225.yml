@@ -1,0 +1,47 @@
+timestamps:
+  login: 1495309592228
+  logout: 1495309745671
+  lastteleport: 1495309630524
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -722.6999999880791
+  y: 10.0
+  z: -2682.416039760851
+  yaw: -156.30018615722656
+  pitch: 57.29996871948242
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -722.8221048152394
+    y: 11.0
+    z: -2680.3343207501853
+    yaw: -187.350341796875
+    pitch: 3.7500336170196533
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -716.297163849306
+  y: 11.0
+  z: -2683.8648422171627
+  yaw: 198.2989501953125
+  pitch: 11.84998607635498
+  world-name: ''
+afk: false
+ip-address: 2.12.208.224
+last-account-name: Margaux
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

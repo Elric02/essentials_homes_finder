@@ -1,0 +1,63 @@
+timestamps:
+  login: 1472678069510
+  lastteleport: 1472680162237
+  logout: 1472680174389
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -58.69999998807907
+  y: 35.0
+  z: 644.6999999880791
+  yaw: -97.25394439697266
+  pitch: -3.995309829711914
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -5478.736642475015
+    y: 64.0
+    z: 552.34848323008
+    yaw: 81.92623901367188
+    pitch: 11.863785743713379
+    world-name: ''
+  ville:
+    world: world
+    x: 2505.497740564047
+    y: 70.0
+    z: -4743.347950738249
+    yaw: -4.53515625
+    pitch: 2.8434877395629883
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 631.1541374586569
+    y: 5.0
+    z: 911.6863470972444
+    yaw: 172.26724243164062
+    pitch: 6.017155170440674
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 153.51549067849467
+  y: 63.0
+  z: -10.637049390762217
+  yaw: -146.89344787597656
+  pitch: 13.784353256225586
+  world-name: ''
+ip-address: 86.229.146.17
+last-account-name: Brioche_G0D
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

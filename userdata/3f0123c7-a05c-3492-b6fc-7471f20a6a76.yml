@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484417735719
+  lastteleport: 1483827211657
+  logout: 1484417809220
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.57921446865808
+  y: 64.0
+  z: 17.930842397854022
+  yaw: 156.25283813476562
+  pitch: 29.512386322021484
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: 27.810350293293652
+  y: 64.0
+  z: 214.83563507311615
+  yaw: 349.7577209472656
+  pitch: 25.806631088256836
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 78.129.11.114
+last-account-name: juliensolty
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

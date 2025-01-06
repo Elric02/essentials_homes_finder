@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.196.49.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1666110272035
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1666110667126
+  login: 1666108348198
+money: '100.0'
+last-account-name: Aendazh
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -105.43706154703428
+  y: 99.0
+  z: 147.47592709634125
+  yaw: -56.09865951538086
+  pitch: 30.14994239807129
+homes:
+  r1:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 2227.071096402443
+    y: 97.0
+    z: 3061.310889087631
+    yaw: 24.5987548828125
+    pitch: 31.649991989135742
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 2242.8234438064437
+  y: 103.0
+  z: 3059.6745156015513
+  yaw: -84.90423583984375
+  pitch: -9.89995002746582

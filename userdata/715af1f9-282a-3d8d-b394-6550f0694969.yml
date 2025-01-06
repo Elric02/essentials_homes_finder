@@ -1,0 +1,47 @@
+timestamps:
+  login: 1562540220625
+  lastteleport: 1562542015802
+  logout: 1562543102993
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 267.69999998807907
+  y: 70.0
+  z: -1740.699999988079
+  yaw: -89.09996032714844
+  pitch: -90.0
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: -2022.5602749990787
+  y: 68.0
+  z: -4011.2333148609537
+  yaw: -4.050628662109375
+  pitch: 45.59999465942383
+  world-name: ''
+homes:
+  claim:
+    world: world
+    x: -2067.217549331352
+    y: 62.0
+    z: -3994.857087306958
+    yaw: -150.3006134033203
+    pitch: -16.800003051757812
+    world-name: ''
+ip-address: 79.93.81.125
+last-account-name: MIMIGAMING83
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

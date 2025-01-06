@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.65.93.21
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1661273691697
+  login: 1661273415362
+money: '0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -26.2205116024937
+  y: 65.0
+  z: 23.86293746866443
+  yaw: 7.000824451446533
+  pitch: 12.285064697265625
+last-account-name: Brieuc_
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 212.96624032060345
+  y: 132.0
+  z: 141.69999998807907
+  yaw: 90.1917953491211
+  pitch: 16.68408203125

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.118.32.117
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1636140174719
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1636140612251
+  login: 1636136926197
+money: '0'
+last-account-name: Atomicleo64
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 155.53195939843488
+  y: 64.0
+  z: 13.243407547971511
+  yaw: -175.5385284423828
+  pitch: 8.477781295776367
+logoutlocation:
+  world: d2e59b71-a6cc-46c3-9366-582a12c8b4fb
+  world-name: Ressource
+  x: 2710.1535505414436
+  y: 21.0
+  z: 896.7881240000374
+  yaw: -150.38668823242188
+  pitch: 45.9805908203125

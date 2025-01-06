@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480267292315
+  lastteleport: 1480267452507
+  logout: 1480267492935
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -12.145366849242224
+  y: 65.0
+  z: 684.9845500578904
+  yaw: -163.19989013671875
+  pitch: 11.250068664550781
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 119.58621839451712
+  y: 63.0
+  z: 30.68354114010915
+  yaw: 13.439000129699707
+  pitch: 15.174510955810547
+  world-name: ''
+ip-address: 82.237.65.149
+last-account-name: HDmillionnaire
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

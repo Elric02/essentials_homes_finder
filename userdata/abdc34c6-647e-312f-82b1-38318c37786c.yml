@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481361285990
+  logout: 1481361440098
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 110.37283983572962
+  y: 63.0
+  z: 18.319744324248298
+  yaw: -305.2974853515625
+  pitch: 15.247400283813477
+  world-name: ''
+ip-address: 92.132.49.8
+last-account-name: atheno
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

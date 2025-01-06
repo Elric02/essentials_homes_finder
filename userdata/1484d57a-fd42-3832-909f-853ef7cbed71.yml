@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484757230802
+  logout: 1484757293271
+  lastteleport: 1484756825936
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.8526716209035
+  y: 63.0
+  z: 46.373936662334124
+  yaw: 15.089014053344727
+  pitch: 23.424514770507812
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -728.0953223206335
+  y: 63.5
+  z: -692.8904028439769
+  yaw: -329.4972229003906
+  pitch: 24.476350784301758
+  world-name: ''
+money: '0'
+ip-address: 82.67.226.168
+last-account-name: FAUSENNE
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

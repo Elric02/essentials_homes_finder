@@ -1,0 +1,38 @@
+timestamps:
+  login: 1566159923781
+  lastteleport: 1566160791771
+  logout: 1566161251977
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: 2.9364109518484076
+  y: 37.0
+  z: -0.06491632301337567
+  yaw: -298.35906982421875
+  pitch: -17.61756706237793
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3333.909038032607
+  y: 74.0
+  z: -2651.6800588872957
+  yaw: 177.9949951171875
+  pitch: 14.441519737243652
+  world-name: ''
+ip-address: 45.81.172.166
+last-account-name: The_Crackers
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

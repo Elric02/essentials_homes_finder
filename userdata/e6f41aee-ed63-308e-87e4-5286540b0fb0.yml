@@ -1,0 +1,38 @@
+timestamps:
+  login: 1506438511113
+  lastteleport: 1506438616699
+  logout: 1506438630470
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 198.64204710176946
+  y: 66.0
+  z: 43.88150557451556
+  yaw: -6.19708251953125
+  pitch: 30.59998321533203
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world_nether
+  x: -4507.643530431232
+  y: 27.0
+  z: 5652.96907563086
+  yaw: 101.67742156982422
+  pitch: 79.28191375732422
+  world-name: ''
+ip-address: 151.127.4.124
+last-account-name: Nycher
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

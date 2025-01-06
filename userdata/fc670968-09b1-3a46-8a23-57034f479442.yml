@@ -1,0 +1,38 @@
+timestamps:
+  login: 1465253302441
+  lastteleport: 1465253517910
+  logout: 1465253627840
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -131.1024557600399
+  y: 63.0
+  z: -49.67692559544653
+  yaw: -326.99676513671875
+  pitch: 19.12417221069336
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: ressource
+  x: 174.00885131281967
+  y: 92.0
+  z: -34.076253422632504
+  yaw: -138.4501495361328
+  pitch: 4.6499481201171875
+  world-name: ''
+ip-address: 78.219.52.34
+last-account-name: ignak97
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

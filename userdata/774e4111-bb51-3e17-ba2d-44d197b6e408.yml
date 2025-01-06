@@ -1,0 +1,38 @@
+timestamps:
+  login: 1491852772580
+  logout: 1491853045312
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 159.91162302271147
+  y: 64.0
+  z: 28.649910458782784
+  yaw: -153.5109100341797
+  pitch: 1.5245156288146973
+  world-name: ''
+ip-address: 82.247.245.231
+last-account-name: Samy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

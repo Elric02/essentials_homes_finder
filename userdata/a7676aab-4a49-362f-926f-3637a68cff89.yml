@@ -1,0 +1,38 @@
+timestamps:
+  login: 1607886095532
+  lastteleport: 1607886317736
+  logout: 1607886456339
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 169.65678399164176
+  y: 63.5
+  z: 19.70341905180398
+  yaw: -76.78800201416016
+  pitch: 14.176523208618164
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 198.33483631434217
+  y: 74.0
+  z: 18.534880418534897
+  yaw: -264.1212158203125
+  pitch: 12.033760070800781
+  world-name: ''
+money: '0'
+jailed: false
+ip-address: 93.1.156.60
+last-account-name: tomhas02
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

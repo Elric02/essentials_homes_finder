@@ -1,0 +1,38 @@
+timestamps:
+  login: 1465573913232
+  lastteleport: 1465574121640
+  logout: 1465574137777
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 72.17534601464867
+  y: 60.0
+  z: 10.44627640828574
+  yaw: -354.44720458984375
+  pitch: 18.674171447753906
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.88166114450948
+  y: 63.0
+  z: 40.275041332571234
+  yaw: -9.747230529785156
+  pitch: -12.97581672668457
+  world-name: ''
+ip-address: 80.9.55.240
+last-account-name: Zafuvummoll
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1612031254894
+  lastteleport: 1612031752121
+  logout: 1612031770077
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 41.60991534481109
+  y: 64.0
+  z: 36.69999998807907
+  yaw: -5.002911567687988
+  pitch: 40.05000686645508
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5299.585801956906
+  y: 32.0
+  z: 1483.2766715540608
+  yaw: -191.02659606933594
+  pitch: 8.064605712890625
+  world-name: ''
+ip-address: 176.156.74.115
+last-account-name: titicasa
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

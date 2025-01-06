@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.132.106.101
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1691905517825
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1691905533468
+  login: 1691904714903
+money: '0'
+last-account-name: FUTURAMAL
+lastlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 2165.7743413864955
+  y: 25.0
+  z: 2294.7163519693418
+  yaw: 102.75247192382812
+  pitch: 17.548782348632812
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 245.5
+  y: 132.0
+  z: 140.5
+  yaw: 179.72105407714844
+  pitch: 7.500364303588867

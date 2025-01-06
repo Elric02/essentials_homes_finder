@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479747396535
+  lastteleport: 1479747596246
+  logout: 1479747790398
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -83.09715370428555
+  y: 67.5
+  z: 645.019730776254
+  yaw: 66.89898681640625
+  pitch: 23.70000457763672
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6946.618991209046
+  y: 73.0
+  z: 6465.8733489676915
+  yaw: 259.650634765625
+  pitch: 10.80000114440918
+  world-name: ''
+ip-address: 90.126.42.46
+last-account-name: TionebBen3119
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

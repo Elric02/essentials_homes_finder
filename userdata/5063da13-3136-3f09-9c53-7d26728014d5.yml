@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470055927848
+  logout: 1470056151412
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 144.34791798009192
+  y: 63.0
+  z: -20.429779228611515
+  yaw: -4.1971869468688965
+  pitch: 39.5241813659668
+  world-name: ''
+ip-address: 92.153.95.96
+last-account-name: EverPlayz_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

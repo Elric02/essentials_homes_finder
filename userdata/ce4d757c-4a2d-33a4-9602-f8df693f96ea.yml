@@ -1,0 +1,63 @@
+timestamps:
+  login: 1477579490055
+  lastteleport: 1477579889156
+  logout: 1477580053501
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6695.920302746298
+  y: 63.0
+  z: -2367.9001682689336
+  yaw: -180.44873046875
+  pitch: 16.64999771118164
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 6693.414975094808
+    y: 63.0
+    z: -2371.8679962636365
+    yaw: 314.5494689941406
+    pitch: 21.5999813079834
+    world-name: ''
+  lave:
+    world: Ressources
+    x: 7099.457242515544
+    y: 11.0
+    z: -4212.6535527938195
+    yaw: 40.6519775390625
+    pitch: 21.4500675201416
+    world-name: ''
+  mouton:
+    world: Ressources
+    x: -2958.300000011921
+    y: 70.0
+    z: -6058.198343359119
+    yaw: 183.600341796875
+    pitch: 24.74997329711914
+    world-name: ''
+logoutlocation:
+  world: ressource
+  x: -3178.300000011921
+  y: 67.0
+  z: 5854.300000011921
+  yaw: -98.2495346069336
+  pitch: -14.100074768066406
+  world-name: ''
+afk: false
+money: '0'
+ip-address: 90.40.12.69
+last-account-name: clem33
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

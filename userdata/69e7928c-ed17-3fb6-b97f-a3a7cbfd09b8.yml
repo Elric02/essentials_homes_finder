@@ -1,0 +1,38 @@
+timestamps:
+  login: 1565222324726
+  lastteleport: 1565101772434
+  logout: 1565222347393
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -157.69415174933337
+  y: 73.0
+  z: 574.5262312325962
+  yaw: -359.7265930175781
+  pitch: 28.71759605407715
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3492.448416503108
+  y: 90.0
+  z: -2869.300000011921
+  yaw: 40.402469635009766
+  pitch: 51.3791389465332
+  world-name: ''
+ip-address: 90.113.7.104
+last-account-name: VoitureSansPorte
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

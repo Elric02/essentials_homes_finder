@@ -1,0 +1,92 @@
+timestamps:
+  login: 1482409592785
+  lastteleport: 1482409368980
+  logout: 1482409875315
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -12.053528671738928
+  y: 75.0
+  z: -181.33350395908383
+  yaw: -55.561214447021484
+  pitch: 16.824443817138672
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 120.31742080933009
+  y: 63.0
+  z: -10.484245563482723
+  yaw: -157.56109619140625
+  pitch: 52.799991607666016
+  world-name: ''
+socialspy: true
+homes:
+  un:
+    world: world
+    x: 1044.487773247448
+    y: 70.0
+    z: -4048.8671484237348
+    yaw: -258.91912841796875
+    pitch: 20.549978256225586
+    world-name: ''
+  deux:
+    world: Test
+    x: -157.9257418616525
+    y: 4.0
+    z: 524.2415999100937
+    yaw: -22.795284271240234
+    pitch: 29.10007667541504
+    world-name: ''
+  trois:
+    world: world
+    x: 678.4133231351503
+    y: 51.0
+    z: -6.8239739403301085
+    yaw: 135.7313232421875
+    pitch: 28.349956512451172
+    world-name: ''
+  quatre:
+    world: world
+    x: 146.67712859917532
+    y: 63.0
+    z: -19.492818798437312
+    yaw: -18.060911178588867
+    pitch: 9.024518013000488
+    world-name: ''
+  cinq:
+    world: world_the_end
+    x: 2798.4643476678557
+    y: 61.875
+    z: -4563.691615651354
+    yaw: -270.7216796875
+    pitch: 31.200040817260742
+    world-name: ''
+  six:
+    world: world
+    x: -8540.300000011921
+    y: 63.0
+    z: -8501.316947654399
+    yaw: -86.699462890625
+    pitch: 25.6500244140625
+    world-name: ''
+afk: false
+muted: false
+godmode: false
+nickname: Captain_Chaton
+ip-address: 80.11.219.93
+last-account-name: Captain_Chaton
+mail:
+- legacy: true
+  read: false
+  message: §e[§rMiisterCloud§e] §rJ'ai triomphé des 128 chauves souris !
+teleportenabled: true
+teleportauto: false
+jailed: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

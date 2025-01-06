@@ -1,0 +1,47 @@
+timestamps:
+  login: 1518969240665
+  logout: 1518974855214
+  lastteleport: 1514995993489
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 117.97299429334151
+  y: 63.0
+  z: 38.74108519449913
+  yaw: -166.520751953125
+  pitch: 20.428659439086914
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3515.7511249307336
+  y: 64.0
+  z: -5301.932671267443
+  yaw: -144.417236328125
+  pitch: 8.6998929977417
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 3515.1030323616096
+    y: 64.0
+    z: -5301.275326147437
+    yaw: -182.59359741210938
+    pitch: 6.599843978881836
+    world-name: ''
+ip-address: 77.134.123.61
+last-account-name: superbar13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

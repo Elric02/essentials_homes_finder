@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558553781785
+  logout: 1558553829922
+  lastteleport: 1558380843542
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3879.3005651598323
+  y: 77.0
+  z: -3979.838112039218
+  yaw: -163.50071716308594
+  pitch: 19.94997787475586
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 833.8705780396074
+  y: 69.0
+  z: -4807.578511380474
+  yaw: -55.200889587402344
+  pitch: 46.950050354003906
+  world-name: ''
+ip-address: 193.248.33.244
+last-account-name: Vari4
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

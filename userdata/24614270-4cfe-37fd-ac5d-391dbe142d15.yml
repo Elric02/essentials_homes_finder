@@ -1,0 +1,63 @@
+timestamps:
+  login: 1555184044587
+  lastteleport: 1555184183952
+  logout: 1555184272845
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2533.494986370504
+  y: 96.0
+  z: 2305.6458351296374
+  yaw: 19.078083038330078
+  pitch: 17.34760856628418
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 219.48750001192093
+  y: 96.0
+  z: -95.98950474131365
+  yaw: -41.20635986328125
+  pitch: 62.78908920288086
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -2601.2319249301563
+    y: 75.7816942187162
+    z: 2267.5328373868456
+    yaw: 14.469870567321777
+    pitch: 71.55000305175781
+    world-name: ''
+  mine:
+    world: world
+    x: 212.5062962745923
+    y: 100.0
+    z: -110.97557120490464
+    yaw: -342.5097351074219
+    pitch: 19.200023651123047
+    world-name: ''
+  lol:
+    world: world
+    x: 1473.1995651299724
+    y: 71.0
+    z: -1382.7042679775038
+    yaw: -2.082427978515625
+    pitch: 8.999972343444824
+    world-name: ''
+money: '0'
+afk: false
+muted: false
+ip-address: 92.139.12.183
+last-account-name: Valkayser
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

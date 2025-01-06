@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516910484892
+  lastteleport: 1516910546885
+  logout: 1516910925984
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.83837182366497
+  y: 66.0
+  z: 18.179316592936633
+  yaw: 271.2973937988281
+  pitch: -2.909386396408081
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 302.54370666365736
+  y: 85.0
+  z: 86.64559202581702
+  yaw: -177.86376953125
+  pitch: 51.900020599365234
+  world-name: ''
+ip-address: 86.206.102.23
+last-account-name: _PlayersGaming_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

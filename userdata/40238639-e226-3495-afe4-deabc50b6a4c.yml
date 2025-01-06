@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487857473077
+  lastteleport: 1487860115683
+  logout: 1487860271241
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -196.6407945082669
+  y: 64.0
+  z: -3680.3857396503163
+  yaw: 46.799957275390625
+  pitch: 90.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1688.6584684789311
+  y: 89.0
+  z: -3815.459361773649
+  yaw: -220.33935546875
+  pitch: -85.04998779296875
+  world-name: ''
+ip-address: 90.26.39.163
+last-account-name: Irito24
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

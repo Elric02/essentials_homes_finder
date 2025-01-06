@@ -1,0 +1,55 @@
+timestamps:
+  login: 1576610514058
+  lastteleport: 1576610967608
+  logout: 1576610986910
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 122900.68675826283
+  y: 69.0
+  z: 116979.423016251
+  yaw: 2.9620361328125
+  pitch: 32.8499755859375
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 8.781657065118202
+  y: 64.0
+  z: 1520.8228696403244
+  yaw: -2.4958126544952393
+  pitch: 36.59999084472656
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 5.32882340606487
+    y: 64.0
+    z: 1524.0109657330615
+    yaw: 164.00416564941406
+    pitch: 41.549983978271484
+    world-name: ''
+  messa:
+    world: Ressource
+    x: -1479.885392669698
+    y: 79.0
+    z: 770.5218434211
+    yaw: 120.15005493164062
+    pitch: 23.70000648498535
+    world-name: ''
+afk: false
+ip-address: 176.164.106.32
+last-account-name: kikooroi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

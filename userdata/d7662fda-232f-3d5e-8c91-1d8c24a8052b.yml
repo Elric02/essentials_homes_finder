@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.174.53.210
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1665429636378
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665430342632
+  login: 1665429581138
+money: '0'
+last-account-name: PtiPastis
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 151.81804456937846
+  y: 65.0
+  z: 87.59608149918624
+  yaw: -157.29510498046875
+  pitch: 3.36350679397583
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -210.07798418793527
+  y: 67.0
+  z: 325.4847188823175
+  yaw: 170.00335693359375
+  pitch: -4.754423141479492

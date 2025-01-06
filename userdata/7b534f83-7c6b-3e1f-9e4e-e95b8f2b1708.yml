@@ -1,0 +1,63 @@
+timestamps:
+  login: 1517597641471
+  lastteleport: 1517598766992
+  logout: 1517598845328
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2449.1912911872114
+  y: 68.5
+  z: -6110.321377379167
+  yaw: -302.851806640625
+  pitch: 25.35002326965332
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5369.410848140693
+  y: 63.0
+  z: -4015.486698340159
+  yaw: 271.94586181640625
+  pitch: 42.75004577636719
+  world-name: ''
+homes:
+  roman:
+    world: world
+    x: 5370.636269189497
+    y: 63.0
+    z: -4026.896229939308
+    yaw: -358.9539794921875
+    pitch: 43.9500617980957
+    world-name: ''
+  shop:
+    world: world
+    x: -625.3590777803252
+    y: 64.0
+    z: -656.0924119863816
+    yaw: 192.80389404296875
+    pitch: 21.62632942199707
+    world-name: ''
+  sapin:
+    world: Event
+    x: -4110.969837684737
+    y: 4.0
+    z: -4124.548918763613
+    yaw: 36.6258544921875
+    pitch: 9.526445388793945
+    world-name: ''
+afk: false
+muted: false
+ip-address: 82.255.17.104
+last-account-name: Super_Wix
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

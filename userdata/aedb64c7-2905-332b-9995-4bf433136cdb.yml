@@ -1,0 +1,47 @@
+timestamps:
+  login: 1531737634635
+  logout: 1531738040079
+  lastteleport: 1531738037137
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -181.07083129882812
+  pitch: 3.4786694049835205
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -359.5708312988281
+  pitch: 14.578668594360352
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: -451.49208103759673
+    y: 47.0
+    z: -971.3000000119209
+    yaw: -174.60174560546875
+    pitch: -38.399803161621094
+    world-name: ''
+ip-address: 90.125.244.191
+last-account-name: pierre80
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

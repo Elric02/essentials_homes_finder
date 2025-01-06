@@ -1,0 +1,47 @@
+timestamps:
+  login: 1466193737232
+  lastteleport: 1466194045689
+  logout: 1466194432673
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 119.78635415697585
+  y: 63.0
+  z: 24.11314036067073
+  yaw: -143.0084686279297
+  pitch: 4.51149845123291
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -75.08207948542885
+  y: 71.0
+  z: -171.31249226883972
+  yaw: -359.66033935546875
+  pitch: -4.500006675720215
+  world-name: ''
+muted: false
+homes:
+  home:
+    world: world
+    x: -70.13819284703195
+    y: 71.0
+    z: -167.73809839020984
+    yaw: -9.411120414733887
+    pitch: 19.04991912841797
+    world-name: ''
+ip-address: 78.193.196.33
+last-account-name: Kayzz
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

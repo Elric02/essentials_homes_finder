@@ -1,0 +1,38 @@
+timestamps:
+  login: 1493270959350
+  lastteleport: 1493230763734
+  logout: 1493271000766
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.71945358831783
+  y: 66.0
+  z: 19.746315540178923
+  yaw: -88.71092224121094
+  pitch: -1.1754860877990723
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -6571.271777982453
+  y: 64.0
+  z: 5866.278675523913
+  yaw: 357.1513977050781
+  pitch: -71.69991302490234
+  world-name: ''
+money: '0'
+ip-address: 78.210.200.139
+last-account-name: Racer27180
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472240143755
+  lastteleport: 1472240470260
+  logout: 1472240523725
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.10580062225478
+  y: 27.0
+  z: 20.506340179619748
+  yaw: -87.90091705322266
+  pitch: 5.39571475982666
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 124.20460782668627
+  y: 63.0
+  z: 22.517481337228922
+  yaw: -95.2737045288086
+  pitch: 29.357318878173828
+  world-name: ''
+ip-address: 90.45.162.65
+last-account-name: Acronicus
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

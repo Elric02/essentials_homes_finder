@@ -1,0 +1,38 @@
+timestamps:
+  login: 1551801323445
+  lastteleport: 1551802510855
+  logout: 1551803636454
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6929.666009222605
+  y: 49.0
+  z: -4064.968307115689
+  yaw: -5.152144908905029
+  pitch: 12.44999885559082
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -610.6671751612895
+  y: 53.0
+  z: -633.3076577402633
+  yaw: 256.4908447265625
+  pitch: 38.39997100830078
+  world-name: ''
+ip-address: 80.12.27.160
+last-account-name: LOCHE
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

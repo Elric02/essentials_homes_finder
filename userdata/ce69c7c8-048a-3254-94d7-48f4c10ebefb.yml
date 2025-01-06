@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483544181102
+  lastteleport: 1471784316991
+  logout: 1483544187163
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1341.425441777514
+  y: 64.0
+  z: 805.4331775629709
+  yaw: -1.093505859375
+  pitch: 62.099971771240234
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 2488.4883635440656
+  y: 20.0
+  z: 794.374456152859
+  yaw: -164.7075653076172
+  pitch: 52.050113677978516
+  world-name: ''
+ip-address: 92.93.248.53
+last-account-name: pokatomm
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

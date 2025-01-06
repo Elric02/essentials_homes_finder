@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.82.202.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1696360233311
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696360286108
+  login: 1696360184103
+money: '0'
+last-account-name: Itzlcs
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.5
+  y: 64.0
+  z: 19.5
+  yaw: 179.55152893066406
+  pitch: -7.200034141540527
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 130.62146165748428
+  y: 84.0
+  z: -155.76970989955717
+  yaw: 147.00173950195312
+  pitch: 3.8999929428100586

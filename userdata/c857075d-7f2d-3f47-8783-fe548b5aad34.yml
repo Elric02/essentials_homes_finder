@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592048967667
+  lastteleport: 1592050728782
+  logout: 1592051213681
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 63.89478297397675
+  y: 94.0
+  z: 59.68295030286608
+  yaw: -253.3798828125
+  pitch: -0.7499706745147705
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 150.53710619343124
+  y: 63.0
+  z: 43.41352027098906
+  yaw: 46.475799560546875
+  pitch: -4.0212602615356445
+  world-name: ''
+ip-address: 90.118.38.227
+last-account-name: _Scorpion_11
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

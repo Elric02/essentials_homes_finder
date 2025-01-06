@@ -1,0 +1,47 @@
+timestamps:
+  login: 1482696830048
+  lastteleport: 1482698068148
+  logout: 1482699303718
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4099.90063912239
+  y: 72.0
+  z: -3719.2059950409844
+  yaw: -160.369384765625
+  pitch: 15.804466247558594
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4190.355823177946
+  y: 65.0
+  z: -3807.928820874846
+  yaw: -274.89453125
+  pitch: 32.43485641479492
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 4188.488325882014
+    y: 69.0
+    z: -3806.405668867757
+    yaw: -178.6593017578125
+    pitch: 25.088783264160156
+    world-name: ''
+ip-address: 88.171.137.41
+last-account-name: _Razihol_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

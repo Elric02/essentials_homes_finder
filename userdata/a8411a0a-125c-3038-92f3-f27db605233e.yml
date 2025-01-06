@@ -1,0 +1,47 @@
+timestamps:
+  login: 1527159598574
+  lastteleport: 1527122413541
+  logout: 1527160644366
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.33497508373313
+  y: 65.0
+  z: 99.9994906689383
+  yaw: 161.346923828125
+  pitch: 2.0406527519226074
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3327.300000011921
+  y: 77.0
+  z: -1537.699999988079
+  yaw: -226.7694091796875
+  pitch: 49.20001983642578
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -3326.7593308920045
+    y: 77.0
+    z: -1538.937455924717
+    yaw: -325.46954345703125
+    pitch: 21.000003814697266
+    world-name: ''
+ip-address: 65.92.221.128
+last-account-name: aydav
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

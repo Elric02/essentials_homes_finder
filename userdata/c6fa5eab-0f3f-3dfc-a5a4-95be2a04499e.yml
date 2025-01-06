@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510264487650
+  lastteleport: 1510264649495
+  logout: 1510264731977
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.83560443004058
+  y: 66.0
+  z: 17.77221910034476
+  yaw: 242.05224609375
+  pitch: 1.2973954677581787
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 67.05723243153068
+  y: 64.0
+  z: 92.3740890546029
+  yaw: -130.8355712890625
+  pitch: 3.033036947250366
+  world-name: ''
+ip-address: 88.175.35.38
+last-account-name: dartinox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

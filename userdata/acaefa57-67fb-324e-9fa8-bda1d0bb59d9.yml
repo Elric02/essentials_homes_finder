@@ -1,0 +1,38 @@
+timestamps:
+  login: 1562152134638
+  lastteleport: 1562152218510
+  logout: 1562152450746
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.34425073190994
+  y: 65.0
+  z: 98.94159313642315
+  yaw: -292.1712951660156
+  pitch: 22.82583999633789
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.44015339650267
+  y: 63.0
+  z: 45.494582854545925
+  yaw: -162.984130859375
+  pitch: 0.4355967938899994
+  world-name: ''
+ip-address: 105.235.130.16
+last-account-name: yapudepil
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

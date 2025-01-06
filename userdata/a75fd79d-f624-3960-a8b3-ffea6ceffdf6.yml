@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471888842612
+  lastteleport: 1471889201046
+  logout: 1471889302439
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.35608036212633
+  y: 27.0
+  z: 23.346443357266697
+  yaw: -18.51094627380371
+  pitch: 26.874500274658203
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5276.40008024487
+  y: 64.0
+  z: 1121.2436485323824
+  yaw: -88.49996185302734
+  pitch: 30.149986267089844
+  world-name: ''
+ip-address: 78.244.178.139
+last-account-name: kalimero
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

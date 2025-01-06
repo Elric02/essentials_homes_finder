@@ -1,0 +1,47 @@
+timestamps:
+  login: 1518669296493
+  lastteleport: 1518161931011
+  logout: 1518672372033
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5796.659034754058
+  y: 66.0
+  z: -4114.941145621802
+  yaw: -251.9774169921875
+  pitch: 28.313528060913086
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -4182.2788186867765
+    y: 93.0
+    z: -6660.891887137578
+    yaw: -271.6589050292969
+    pitch: 12.069583892822266
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4306.647115677693
+  y: 88.0
+  z: -6668.54996822132
+  yaw: -276.50341796875
+  pitch: 10.308736801147461
+  world-name: ''
+afk: false
+ip-address: 88.209.76.173
+last-account-name: Hellstar_adri
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

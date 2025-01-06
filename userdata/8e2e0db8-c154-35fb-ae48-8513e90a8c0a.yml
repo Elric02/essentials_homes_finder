@@ -1,0 +1,223 @@
+timestamps:
+  login: 1728254873393
+  lastteleport: 1724942779953
+  logout: 1728254873846
+  kits:
+    color: 1679856697291
+    vip: 1722452999737
+    stationaute: 1680199684299
+    explorateur: 1688051795124
+    ambassadeur: 1698262729109
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  x: -3.4871316728091393
+  y: 51.0
+  z: 83.46518239537264
+  yaw: -56.4984130859375
+  pitch: 10.275700569152832
+  world-name: pvp
+money: '868031.2593333333374474'
+homes:
+  b0:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 2036.5
+    y: 180.0
+    z: -3109.5
+    yaw: -2.84161376953125
+    pitch: 35.201690673828125
+    world-name: world
+  b1:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -169.76895068702328
+    y: 48.0
+    z: -105.93159144085291
+    yaw: -4.04669189453125
+    pitch: -9.450074195861816
+    world-name: world
+  b2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1943.3010226905076
+    y: 69.0
+    z: 1289.5050340031771
+    yaw: 0.2800118327140808
+    pitch: 2.399958610534668
+    world-name: world
+  creep:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 478.5
+    y: 64.0
+    z: -2343.5
+    yaw: -176.221435546875
+    pitch: 28.04994773864746
+    world-name: world
+  avion:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1825.263475246686
+    y: 220.0
+    z: -3036.7222493475588
+    yaw: 276.6048583984375
+    pitch: 35.24958038330078
+    world-name: world
+  vip:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6939.099735337714
+    y: 63.0
+    z: -4025.199168549377
+    yaw: -128.199462890625
+    pitch: 17.250402450561523
+    world-name: world
+  int_:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -7141.586915480058
+    y: 77.0
+    z: -5634.67654512645
+    yaw: 4.137074947357178
+    pitch: 21.000274658203125
+    world-name: world
+  titanique:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4873.262552830697
+    y: 65.0
+    z: -1142.33045003321
+    yaw: -153.1428680419922
+    pitch: 18.425439834594727
+    world-name: world
+  bb:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 3453.523668060166
+    y: 66.0
+    z: -185.4866980169095
+    yaw: -179.0420684814453
+    pitch: 23.6163330078125
+  daniel:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1580.6695219493026
+    y: 145.0
+    z: 891.2374739196755
+    yaw: 57.9193115234375
+    pitch: 17.549158096313477
+  daniel2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2118.5237576118498
+    y: 38.0
+    z: -2815.5298537928265
+    yaw: 31.34050750732422
+    pitch: 22.259981155395508
+  wither:
+    world: 6bdd2179-c84d-4026-8d7c-65a544be51ab
+    world-name: HestiaEnd
+    x: 58.399800981206226
+    y: 53.0
+    z: 801.0654148061407
+    yaw: 0.1328778713941574
+    pitch: 42.642555236816406
+  brnya:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 919.7387702021409
+    y: 75.0
+    z: -2082.147772020649
+    yaw: -139.98834228515625
+    pitch: 20.663114547729492
+  fbi:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -291.9294147232116
+    y: 48.875
+    z: 378.4658878050723
+    yaw: 10.7935791015625
+    pitch: 37.50362014770508
+  fbi2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2373.8262163726736
+    y: 38.0
+    z: -3102.3179659034327
+    yaw: -90.31884765625
+    pitch: 34.865421295166016
+  spawner:
+    world: 662d438a-3236-43b5-be72-96a96955dbc4
+    world-name: RessourceNether
+    x: -350.9880095437512
+    y: 38.0
+    z: 431.7255661704254
+    yaw: 112.51966857910156
+    pitch: 43.91322326660156
+  fbi4:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7058.555875163492
+    y: 71.20000004768372
+    z: -5508.866483622268
+    yaw: -126.02234649658203
+    pitch: -6.840780735015869
+  fbi5:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7040.417204859469
+    y: 71.0
+    z: -5512.816086182991
+    yaw: -111.2634048461914
+    pitch: 1.0566496849060059
+  fbi3:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3010.5
+    y: 135.0
+    z: 6713.5
+    yaw: -8.790563583374023
+    pitch: 16.498882293701172
+  chateau:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4821.172160035078
+    y: 113.0
+    z: -4570.917656742204
+    yaw: -4.11810302734375
+    pitch: 11.638496398925781
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: 3447.914430487455
+  y: 66.0
+  z: -71.50514671442652
+  yaw: -13.390904426574707
+  pitch: 51.22501754760742
+  world-name: Althium
+afk: false
+jailed: false
+ip-address: 146.70.189.149
+last-account-name: M2M2005
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+mail:
+- legacy: false
+  read: true
+  message: Salut m2, n'oublie pas de cacher/décorer/cut ton usine se trouvant aux
+    coo 1918 140 1292 sur Hestia. Nous te demandons de le modifier au plus vite, soit
+    avant le 7 décembre. Merci
+  sender-name: naturalizee
+  sender-uuid: cc702e34-b94b-3106-b41f-f357d3bf3dac
+  timestamp: 1669847294971
+  expire: 0
+- legacy: false
+  read: true
+  message: coucou n'oublie pas que tu dois faire une nouvelle base pour valider ton
+    achivement
+  sender-name: roselfe
+  sender-uuid: 210dd662-86f3-307d-899a-07c85f3e65a5
+  timestamp: 1668900367921
+  expire: 0

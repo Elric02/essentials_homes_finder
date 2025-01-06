@@ -1,0 +1,55 @@
+timestamps:
+  login: 1516122864950
+  lastteleport: 1516124227576
+  logout: 1516124332187
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6315.1952364702
+  y: 70.0
+  z: 1749.5496721905251
+  yaw: -59.3121337890625
+  pitch: 17.36034393310547
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6243.340955764015
+    y: 68.0
+    z: 1713.4638216441292
+    yaw: -11.6126708984375
+    pitch: 33.56034851074219
+    world-name: ''
+  home2:
+    world: world
+    x: -106.57576884583823
+    y: 64.0
+    z: -4056.5395991106484
+    yaw: -1.0506591796875
+    pitch: 39.30009078979492
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -106.63423424322143
+  y: 64.0
+  z: -4057.033277231954
+  yaw: 0.5993369817733765
+  pitch: 7.350100040435791
+  world-name: ''
+ip-address: 90.92.242.122
+last-account-name: cedeaire
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

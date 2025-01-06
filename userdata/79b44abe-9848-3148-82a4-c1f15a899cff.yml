@@ -1,0 +1,52 @@
+timestamps:
+  login: 1570392686704
+  lastteleport: 1570379916803
+  logout: 1570392858797
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -428.90996106264794
+  y: 65.5
+  z: 152.34999186714694
+  yaw: -11.402587890625
+  pitch: 20.85002326965332
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1369.5154070031933
+    y: 63.0
+    z: -2092.257161695311
+    yaw: -224.2400665283203
+    pitch: 25.800127029418945
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 153.49629967440518
+  y: 63.0
+  z: 644.6707980081638
+  yaw: -274.81622314453125
+  pitch: 20.999950408935547
+  world-name: ''
+ip-address: 83.192.46.203
+last-account-name: loman
+mail:
+- legacy: true
+  read: false
+  message: §e[§rkillian971317§e] §rTon usine a canne a sucre a été retiré le principe
+    du bucheron c'est de récupérer du bois pas de la canne a sucre
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

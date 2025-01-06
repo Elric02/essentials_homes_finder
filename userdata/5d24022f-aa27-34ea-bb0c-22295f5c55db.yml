@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482083192067
+  logout: 1482083379914
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1018.2067117642032
+  y: 69.0
+  z: 3332.061376151317
+  yaw: 68.09994506835938
+  pitch: 21.89999008178711
+  world-name: ''
+ip-address: 83.199.41.254
+last-account-name: BeastInside
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1620230763593
+  logout: 1620230808696
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 164.51628518678982
+  y: 63.0
+  z: 61.17914910941728
+  yaw: 100.99136352539062
+  pitch: 23.084077835083008
+  world-name: ''
+ip-address: 88.126.87.108
+last-account-name: LIYTRD0
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

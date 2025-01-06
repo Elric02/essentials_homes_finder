@@ -1,0 +1,63 @@
+timestamps:
+  login: 1487104428656
+  lastteleport: 1487104506808
+  logout: 1487104547308
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 62.85264450318332
+  y: 94.0
+  z: 58.545042716609366
+  yaw: -73.99388885498047
+  pitch: 10.833324432373047
+  world-name: ''
+homes:
+  coffre:
+    world: world
+    x: -2877.6065405641925
+    y: 69.0
+    z: 3980.1937217990608
+    yaw: 5.741864204406738
+    pitch: 42.038612365722656
+    world-name: ''
+  nether:
+    world: world_nether
+    x: -4952.589853498252
+    y: 75.0
+    z: 4936.1717755486
+    yaw: 151.27093505859375
+    pitch: 55.92894744873047
+    world-name: ''
+  ressource:
+    world: ressource
+    x: -2641.699999988079
+    y: 11.0
+    z: -513.3000000119209
+    yaw: -145.19305419921875
+    pitch: 30.47594451904297
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 10515.294978424687
+  y: 51.0
+  z: 9783.624173719198
+  yaw: 99.97663879394531
+  pitch: 0.767784595489502
+  world-name: ''
+money: '0'
+jailed: false
+ip-address: 86.193.92.110
+last-account-name: jola974
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

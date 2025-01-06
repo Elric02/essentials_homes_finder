@@ -1,0 +1,65 @@
+timestamps:
+  login: 1526123356204
+  lastteleport: 1526124368668
+  logout: 1526124372916
+  kits:
+    vip: 1514669462025
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -79.75213522945724
+  y: 4.0
+  z: 40.495791040883475
+  yaw: 3.5629994869232178
+  pitch: 21.600065231323242
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -1056.5
+  y: 62.0
+  z: 2684.5
+  yaw: 356.3019104003906
+  pitch: 16.799978256225586
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -611.9672821513644
+    y: 64.0
+    z: -642.1964997884702
+    yaw: -16.897247314453125
+    pitch: 21.17643165588379
+    world-name: ''
+  home2:
+    world: world
+    x: -1055.5080428710278
+    y: 62.0
+    z: 2685.17176045548
+    yaw: 339.201904296875
+    pitch: 16.3499698638916
+    world-name: ''
+  home3:
+    world: world
+    x: -1595.9807507934806
+    y: 146.0
+    z: 903.2804673807761
+    yaw: -258.46343994140625
+    pitch: 20.100059509277344
+    world-name: ''
+ip-address: 86.208.119.199
+last-account-name: benicrafter60
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

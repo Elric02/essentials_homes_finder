@@ -1,0 +1,39 @@
+timestamps:
+  login: 1511704694834
+  logout: 1511706170765
+  lastteleport: 1511705052156
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1681.699999988079
+  y: 66.0
+  z: 2289.5350196332956
+  yaw: 70.67052459716797
+  pitch: 4.086211681365967
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6316.12914924156
+  y: 64.0
+  z: 5267.408826826639
+  yaw: 223.29638671875
+  pitch: 31.588150024414062
+  world-name: ''
+muted: false
+jailed: true
+jail: cage
+ip-address: 92.156.118.86
+last-account-name: PeanutVersace
+teleportenabled: true
+teleportauto: false
+godmode: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

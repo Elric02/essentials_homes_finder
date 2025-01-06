@@ -1,0 +1,38 @@
+timestamps:
+  login: 1593972662444
+  lastteleport: 1593686619275
+  logout: 1593972703621
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.6849375528988
+  y: 63.0
+  z: 51.51660725850372
+  yaw: 7.527070045471191
+  pitch: 12.05508804321289
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -1176.5354578883705
+  y: 63.0
+  z: 2313.300000011921
+  yaw: -134.249755859375
+  pitch: 5.850030899047852
+  world-name: ''
+ip-address: 78.120.97.52
+last-account-name: Eladryel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

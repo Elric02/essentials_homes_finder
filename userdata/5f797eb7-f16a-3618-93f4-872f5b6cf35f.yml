@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478437050724
+  logout: 1478437130388
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 119.57755927532915
+  y: 63.0
+  z: -68.839216734082
+  yaw: -352.81915283203125
+  pitch: 0.5841693878173828
+  world-name: ''
+ip-address: 86.214.26.197
+last-account-name: iKyaaa_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

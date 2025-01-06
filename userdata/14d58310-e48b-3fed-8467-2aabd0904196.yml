@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618871644428
+  logout: 1618871666173
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.40258819422502
+  y: 63.0
+  z: 54.853994853981035
+  yaw: 190.5970458984375
+  pitch: 9.840648651123047
+  world-name: ''
+ip-address: 82.142.28.206
+last-account-name: DOUDOU_ON_60_CPS
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

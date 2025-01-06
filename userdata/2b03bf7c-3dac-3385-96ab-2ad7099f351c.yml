@@ -1,0 +1,47 @@
+timestamps:
+  login: 1591897803151
+  logout: 1591901355565
+  lastteleport: 1591898127534
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -3634.880309171443
+  y: 72.0
+  z: 2320.067131655127
+  yaw: -150.14816284179688
+  pitch: 26.999948501586914
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 1093.0790187741134
+  y: 21.550861869670566
+  z: -1911.7069700384152
+  yaw: -354.59796142578125
+  pitch: 9.150078773498535
+  world-name: ''
+homes:
+  yo:
+    world: world
+    x: 5734.760435442886
+    y: 70.0
+    z: -3395.927878225769
+    yaw: 14.54052734375
+    pitch: 6.868195533752441
+    world-name: ''
+afk: false
+ip-address: 193.250.146.89
+last-account-name: LeRuskove
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

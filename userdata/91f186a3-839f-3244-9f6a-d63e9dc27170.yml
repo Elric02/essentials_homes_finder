@@ -1,0 +1,63 @@
+timestamps:
+  login: 1540493007638
+  lastteleport: 1539783200344
+  logout: 1540493469539
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2311.762198674304
+  y: 39.9375
+  z: -2294.961762874712
+  yaw: -259.849609375
+  pitch: 13.499979019165039
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 2308.91396953011
+  y: 52.0
+  z: -2303.3102330332717
+  yaw: 18.2486572265625
+  pitch: 14.559762954711914
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -3315.5
+    y: 64.0
+    z: -880.5
+    yaw: 83.1461410522461
+    pitch: 8.179475784301758
+    world-name: ''
+  zteck:
+    world: world
+    x: 2284.5
+    y: 66.0
+    z: -2308.5
+    yaw: -128.7512969970703
+    pitch: -3.590247631072998
+    world-name: ''
+  base:
+    world: world
+    x: 4807.363276185567
+    y: 70.0
+    z: -1277.8341308256006
+    yaw: 126.00054931640625
+    pitch: 19.650039672851562
+    world-name: ''
+afk: false
+ip-address: 88.179.189.131
+last-account-name: Orion1059
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.66.52.225
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1681812554727
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681812670614
+  login: 1681812458748
+money: '0'
+last-account-name: MrCastorama
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -223.80920169529153
+  y: 65.0
+  z: 364.4410644859736
+  yaw: -165.32864379882812
+  pitch: 58.148414611816406
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 78.75900628015438
+  y: 70.8681430633933
+  z: -330.0586521292328
+  yaw: -84.74224090576172
+  pitch: 32.58504104614258

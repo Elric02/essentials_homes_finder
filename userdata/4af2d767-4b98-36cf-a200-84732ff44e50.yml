@@ -1,0 +1,38 @@
+timestamps:
+  login: 1584951758399
+  lastteleport: 1584951951663
+  logout: 1584952277400
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.30609313792695
+  y: 63.0
+  z: 39.364187308057694
+  yaw: 226.23719787597656
+  pitch: 9.935354232788086
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -742.2168924214726
+  y: 68.0
+  z: 4332.999227432709
+  yaw: 69.63232421875
+  pitch: 16.84188461303711
+  world-name: ''
+ip-address: 109.88.88.58
+last-account-name: PouletdeCraft
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1566856194354
+  lastteleport: 1566856173144
+  logout: 1566856229271
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 286.3517916961573
+  y: 79.0
+  z: -97.77975669365941
+  yaw: -175.19081115722656
+  pitch: 3.191612482070923
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 212.4730670324343
+  y: 63.0
+  z: -52.3527277587564
+  yaw: -167.8802032470703
+  pitch: 12.832502365112305
+  world-name: ''
+money: '0'
+ip-address: 83.194.103.46
+last-account-name: JesusChrist_VEV0
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

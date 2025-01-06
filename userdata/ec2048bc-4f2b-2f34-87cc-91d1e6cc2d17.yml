@@ -1,0 +1,38 @@
+timestamps:
+  login: 1571242601111
+  lastteleport: 1571243372773
+  logout: 1571244196714
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -185.42083740234375
+  pitch: 3.178668737411499
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 696.7399219509077
+  y: 74.0
+  z: -1930.6362647047913
+  yaw: -110.37065124511719
+  pitch: 14.099985122680664
+  world-name: ''
+ip-address: 87.64.152.51
+last-account-name: martin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

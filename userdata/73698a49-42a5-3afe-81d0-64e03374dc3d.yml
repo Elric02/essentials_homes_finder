@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488656327257
+  lastteleport: 1488659643380
+  logout: 1488659655697
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.85979103178826
+  y: 64.0
+  z: 20.270715630380852
+  yaw: 223.4390106201172
+  pitch: 16.524526596069336
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.81083868480218
+  y: 64.0
+  z: 23.066966502948308
+  yaw: -177.2109375
+  pitch: 8.724514961242676
+  world-name: ''
+muted: true
+ip-address: 90.125.196.227
+last-account-name: Cool_Guy
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

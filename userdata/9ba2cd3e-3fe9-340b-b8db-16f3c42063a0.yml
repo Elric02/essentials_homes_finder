@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.149.155.224
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1695629972250
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1695659420996
+  login: 1695659162340
+money: '0'
+last-account-name: aleske007
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 62.860810796313636
+  y: 33.0
+  z: 491.50202560102866
+  yaw: -60.50761413574219
+  pitch: 8.999980926513672
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -602.4787822835427
+  y: 33.0
+  z: -357.132011337306
+  yaw: 87.45245361328125
+  pitch: 5.400177478790283

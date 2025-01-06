@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487960117044
+  lastteleport: 1487960285829
+  logout: 1487960351268
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -593.5
+  y: 65.0
+  z: -760.5
+  yaw: -308.7390441894531
+  pitch: 1.5263437032699585
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -157.5145201136953
+  y: 47.0
+  z: 545.6602481868384
+  yaw: -203.293701171875
+  pitch: 23.958663940429688
+  world-name: ''
+ip-address: 78.237.148.241
+last-account-name: H_ZuFe
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

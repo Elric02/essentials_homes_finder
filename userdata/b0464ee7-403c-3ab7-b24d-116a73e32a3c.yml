@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490379524030
+  lastteleport: 1490379560915
+  logout: 1490379961160
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 198.65838409948216
+  y: 71.55665498072369
+  z: 43.54143401926999
+  yaw: 9.839072227478027
+  pitch: 30.024511337280273
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 237.46320502678196
+  y: 117.74198265896013
+  z: 1.4944123946211558
+  yaw: -123.0609130859375
+  pitch: 63.32451629638672
+  world-name: ''
+ip-address: 81.246.182.44
+last-account-name: Joachim52
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

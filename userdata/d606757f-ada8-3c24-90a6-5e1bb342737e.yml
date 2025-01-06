@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481122239182
+  logout: 1481123573176
+  lastteleport: 1481122925613
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 218.57898222430794
+  y: 63.0
+  z: 467.04477309965046
+  yaw: 336.5314025878906
+  pitch: -1.1999824047088623
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -221.50661580867887
+  y: 68.0
+  z: 717.6400122776406
+  yaw: -24.5784912109375
+  pitch: 27.899932861328125
+  world-name: ''
+money: '0'
+ip-address: 93.25.63.97
+last-account-name: Enzob
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

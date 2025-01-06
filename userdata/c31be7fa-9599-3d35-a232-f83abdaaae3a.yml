@@ -1,0 +1,38 @@
+timestamps:
+  login: 1562693253775
+  lastteleport: 1562695575899
+  logout: 1562697001638
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1577.300000011921
+  y: 72.0
+  z: -2187.718598497083
+  yaw: 30.6737060546875
+  pitch: 16.485857009887695
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 152.31238065852827
+  y: 64.0
+  z: 21.93656626636762
+  yaw: -143.8717041015625
+  pitch: 11.428682327270508
+  world-name: ''
+ip-address: 88.187.221.178
+last-account-name: rivai
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

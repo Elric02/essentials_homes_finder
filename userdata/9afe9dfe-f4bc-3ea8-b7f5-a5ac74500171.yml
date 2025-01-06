@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.124.206.34
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698925935949
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698926189766
+  login: 1698925313025
+money: '0'
+last-account-name: Shawn_nF
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 246.48427739850683
+  y: 132.1875
+  z: 140.54061677416396
+  yaw: -89.22842407226562
+  pitch: 10.65035629272461
+logoutlocation:
+  world: f61e5df3-509e-47ed-92a4-8a53ad3c271c
+  world-name: Ressource
+  x: 2248.7392417323945
+  y: 64.0
+  z: -1810.1299064459238
+  yaw: -88.20477294921875
+  pitch: 9.000053405761719

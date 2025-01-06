@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475709601918
+  logout: 1475711078047
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.01362387340822
+  y: 27.0
+  z: 20.717650831666116
+  yaw: -93.64745330810547
+  pitch: 9.097426414489746
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2326.691689517089
+  y: 66.0
+  z: -756.0008974686605
+  yaw: -35.397308349609375
+  pitch: -90.0
+  world-name: ''
+ip-address: 89.89.27.191
+last-account-name: bico
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

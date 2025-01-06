@@ -1,0 +1,38 @@
+timestamps:
+  login: 1619019643231
+  logout: 1619019672113
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.89355196006352
+  y: 66.0
+  z: 97.09686747587953
+  yaw: -196.25315856933594
+  pitch: 46.49998092651367
+  world-name: ''
+ip-address: 88.160.36.141
+last-account-name: paloma
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

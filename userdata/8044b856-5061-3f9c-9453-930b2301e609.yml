@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592589948696
+  lastteleport: 1592590017201
+  logout: 1592590170129
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.77609086689372
+  y: 63.0
+  z: 63.65647165110575
+  yaw: 227.07937622070312
+  pitch: -4.266636848449707
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3182.145775052663
+  y: 70.0
+  z: 6412.403258278599
+  yaw: 118.62281036376953
+  pitch: 26.21710205078125
+  world-name: ''
+ip-address: 81.66.196.10
+last-account-name: Daphoss
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

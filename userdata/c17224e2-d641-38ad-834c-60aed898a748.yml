@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518790784763
+  lastteleport: 1518710394311
+  logout: 1518790848211
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.39708999986192
+  y: 64.0
+  z: 67.0443734403893
+  yaw: 322.9060974121094
+  pitch: -45.09657287597656
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.99536770778525
+  y: 64.0
+  z: 26.01604199048091
+  yaw: -357.90728759765625
+  pitch: 0.9882631301879883
+  world-name: ''
+ip-address: 80.9.217.185
+last-account-name: KAZARed
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

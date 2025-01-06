@@ -1,0 +1,38 @@
+timestamps:
+  login: 1605547737744
+  lastteleport: 1605548071433
+  logout: 1605548143134
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2857.684750943102
+  y: 63.0
+  z: -1458.8085881733484
+  yaw: 115.796630859375
+  pitch: 10.261101722717285
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 0.3422107916555434
+  y: 90.0
+  z: 0.4784375988028129
+  yaw: -114.28922271728516
+  pitch: 12.554376602172852
+  world-name: ''
+ip-address: 90.107.243.129
+last-account-name: Skyraam44
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.6.26.16
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674298856964
+  login: 1674298801857
+money: '0'
+last-account-name: 306rs
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.1589325972909
+  y: 81.0
+  z: -3111.097680302989
+  yaw: -88.46377563476562
+  pitch: 13.394620895385742
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.80008330505694
+  y: 81.0
+  z: -3111.0843243740346
+  yaw: 153.9833221435547
+  pitch: 12.7522554397583

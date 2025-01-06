@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471334282231
+  logout: 1471334296305
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.55921178097225
+  y: 63.0
+  z: 43.983441813381404
+  yaw: -280.6973571777344
+  pitch: 11.04740047454834
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.44025133476313
+  y: 28.0
+  z: 21.506811613566242
+  yaw: -270.79742431640625
+  pitch: 23.64740562438965
+  world-name: ''
+ip-address: 86.210.39.117
+last-account-name: Kagami
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

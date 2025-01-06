@@ -1,0 +1,47 @@
+timestamps:
+  login: 1614784731466
+  lastteleport: 1614784656876
+  logout: 1614784763487
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -175.4455108642578
+  pitch: 17.225881576538086
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 154.5219706617853
+  y: 64.0
+  z: 24.59015183032405
+  yaw: -181.14532470703125
+  pitch: 9.575874328613281
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -2647.6215139948818
+    y: 79.0
+    z: -164.57698759932697
+    yaw: -90.90666961669922
+    pitch: 90.0
+    world-name: ''
+ip-address: 90.34.2.27
+last-account-name: blou_raptor
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474794102397
+  logout: 1474794165564
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 180.67608147174795
+  y: 49.0
+  z: 93.26127003017656
+  yaw: -0.36096855998039246
+  pitch: 84.44996643066406
+  world-name: ''
+ip-address: 86.199.215.128
+last-account-name: Kirito
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

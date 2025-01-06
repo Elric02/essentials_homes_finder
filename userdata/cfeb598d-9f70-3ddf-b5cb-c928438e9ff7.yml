@@ -1,0 +1,47 @@
+timestamps:
+  login: 1484247703934
+  logout: 1484249538037
+  lastteleport: 1484249298048
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1942.5415593447979
+  y: 64.5625
+  z: -6114.333855405327
+  yaw: -226.650390625
+  pitch: 51.900142669677734
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: -6834.300000011921
+  y: 17.0
+  z: -233.5403975208752
+  yaw: -113.69998168945312
+  pitch: -4.050047397613525
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  home:
+    world: world
+    x: -1945.3304586962727
+    y: 64.0
+    z: -6114.059464699227
+    yaw: -180.90020751953125
+    pitch: 28.5001220703125
+    world-name: ''
+ip-address: 78.234.132.68
+last-account-name: BlackCareBear
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1480447493511
+  lastteleport: 1480449638370
+  logout: 1480449722345
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1902.0059700848008
+  y: 67.0
+  z: -2158.899678079331
+  yaw: -30.693729400634766
+  pitch: 35.099998474121094
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 1405.656852640354
+    y: 66.0
+    z: -1904.7309818906165
+    yaw: 183.5960693359375
+    pitch: 34.94999694824219
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 151.23750001192093
+  y: 63.0
+  z: 35.306793966735825
+  yaw: 181.58912658691406
+  pitch: 49.22453308105469
+  world-name: ''
+ip-address: 109.130.212.185
+last-account-name: IlterZypX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

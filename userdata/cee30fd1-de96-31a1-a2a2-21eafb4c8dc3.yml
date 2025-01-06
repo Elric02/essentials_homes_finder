@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.169.207.136
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682885982252
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682885987023
+  login: 1682885916762
+money: '0'
+last-account-name: ELIXS_Talkis
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.3939923495222
+  y: 81.0
+  z: -3110.0839328605985
+  yaw: -94.34773254394531
+  pitch: 5.999972343444824
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -61.393356615809424
+  y: 69.62911303828949
+  z: 69.35855746327516
+  yaw: 38.399681091308594
+  pitch: 23.84998893737793

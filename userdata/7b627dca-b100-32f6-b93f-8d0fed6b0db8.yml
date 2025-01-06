@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470217315429
+  logout: 1470217596182
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.8169033589088
+  y: 63.0
+  z: 7.976108214205638
+  yaw: 132.00283813476562
+  pitch: 45.374183654785156
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 95.70138115387496
+  y: 64.5
+  z: -21.09760023861142
+  yaw: 50.418766021728516
+  pitch: 22.04999542236328
+  world-name: ''
+ip-address: 86.236.38.129
+last-account-name: SharkGaming
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488564309655
+  logout: 1488564400303
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.75197047436475
+  y: 63.0
+  z: 33.58686313743801
+  yaw: -144.0474853515625
+  pitch: 39.54740905761719
+  world-name: ''
+ip-address: 160.179.169.132
+last-account-name: samir2009
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

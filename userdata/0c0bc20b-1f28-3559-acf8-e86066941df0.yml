@@ -1,0 +1,38 @@
+timestamps:
+  login: 1582734953532
+  lastteleport: 1582734878703
+  logout: 1582735236705
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.46891292736035
+  y: 65.02442408821369
+  z: 33.85638413133526
+  yaw: 16.043790817260742
+  pitch: 38.569725036621094
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5442.158462716462
+  y: 62.07326579444211
+  z: 3827.9589281837816
+  yaw: 165.79954528808594
+  pitch: 23.128787994384766
+  world-name: ''
+ip-address: 151.127.33.117
+last-account-name: Leny23
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

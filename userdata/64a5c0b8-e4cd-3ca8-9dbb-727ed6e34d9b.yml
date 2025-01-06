@@ -1,0 +1,63 @@
+timestamps:
+  login: 1498411557155
+  lastteleport: 1498411581194
+  logout: 1498411686490
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5682.485921769846
+  y: 64.0
+  z: -5894.570753220903
+  yaw: 7.389136791229248
+  pitch: 7.943933963775635
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -246.2399139404297
+  pitch: 27.708084106445312
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -5689.283020577616
+    y: 64.0
+    z: -5874.009003950465
+    yaw: 133.1498260498047
+    pitch: 35.245487213134766
+    world-name: ''
+  bois:
+    world: world
+    x: 258.93450975986474
+    y: 68.0
+    z: 6802.063118874362
+    yaw: 314.55963134765625
+    pitch: 20.559812545776367
+    world-name: ''
+  mine:
+    world: Ressources
+    x: -99.69999998807907
+    y: 21.0
+    z: 380.3521917952925
+    yaw: -226.6417236328125
+    pitch: 29.29941177368164
+    world-name: ''
+afk: false
+ip-address: 78.252.41.49
+last-account-name: Xanffire
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

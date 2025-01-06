@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615591370379
+  lastteleport: 1615592428960
+  logout: 1615592822710
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6326.685273456392
+  y: 57.30263041744191
+  z: -1190.474823924935
+  yaw: 187.05067443847656
+  pitch: 13.49998664855957
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 100.69999998807907
+  y: 63.0
+  z: -15.410931172672788
+  yaw: -72.0934066772461
+  pitch: -7.824028968811035
+  world-name: ''
+ip-address: 62.34.143.55
+last-account-name: papyboss
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

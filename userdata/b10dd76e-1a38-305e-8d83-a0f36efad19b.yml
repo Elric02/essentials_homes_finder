@@ -1,0 +1,38 @@
+timestamps:
+  login: 1513443836668
+  lastteleport: 1513447229288
+  logout: 1513447245581
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.13541495482798
+  y: 64.0
+  z: 23.027131763606807
+  yaw: -293.7206115722656
+  pitch: 18.178667068481445
+  world-name: ''
+logoutlocation:
+  world: Event
+  x: 6064.733897655924
+  y: 24.0
+  z: 6047.8991825928415
+  yaw: -337.49462890625
+  pitch: -13.499992370605469
+  world-name: ''
+money: '0'
+ip-address: 77.201.59.9
+last-account-name: _NifeR_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1628438831389
+  lastteleport: 1628440710145
+  logout: 1628441606499
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.81380156353075
+  y: 63.0
+  z: 39.56660603805315
+  yaw: -60.41461181640625
+  pitch: 9.575881004333496
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1469.699999988079
+  y: 64.5
+  z: -2157.8983725188896
+  yaw: 275.230712890625
+  pitch: -7.1529107093811035
+  world-name: ''
+ip-address: 89.80.112.181
+last-account-name: shyrine
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

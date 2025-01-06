@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.169.124.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1687698683540
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1687699033467
+  login: 1687698360450
+money: '0'
+last-account-name: Trevistrol
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 399.6041473503117
+  y: 81.0
+  z: -3109.714887987393
+  yaw: 104.21734619140625
+  pitch: 7.175964832305908
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 414.8725923067099
+  y: 65.0
+  z: -267.0651978507033
+  yaw: 172.28997802734375
+  pitch: 35.74906539916992

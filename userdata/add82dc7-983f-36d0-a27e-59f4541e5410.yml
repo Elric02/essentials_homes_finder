@@ -1,0 +1,63 @@
+timestamps:
+  login: 1561893463726
+  lastteleport: 1541867153471
+  logout: 1561893574427
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -256.4631250957966
+  y: 66.0
+  z: -1555.0119663431653
+  yaw: 23.692766189575195
+  pitch: 1.174337387084961
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -262.8914811136381
+  y: 71.0
+  z: -1543.0043944586803
+  yaw: 186.64927673339844
+  pitch: 19.63655662536621
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -258.3496415402344
+    y: 70.0
+    z: -1545.4432156598841
+    yaw: 65.60926055908203
+    pitch: 21.426210403442383
+    world-name: ''
+  home2:
+    world: Nether
+    x: 108.66910706115509
+    y: 76.0
+    z: 94.02645889694796
+    yaw: 74.531982421875
+    pitch: 14.644179344177246
+    world-name: ''
+  home3:
+    world: End
+    x: 48.16042135335104
+    y: 49.0
+    z: 293.6716574834047
+    yaw: -313.9151611328125
+    pitch: 8.795851707458496
+    world-name: ''
+afk: false
+ip-address: 82.233.78.47
+last-account-name: MissTyck
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

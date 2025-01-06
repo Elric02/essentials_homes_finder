@@ -1,0 +1,38 @@
+timestamps:
+  login: 1627056428329
+  lastteleport: 1618065985481
+  logout: 1627060508856
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.14810480004698
+  y: 63.0
+  z: 63.184672466544654
+  yaw: 221.7969512939453
+  pitch: 76.05000305175781
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 2526.3727963487513
+  y: 11.0
+  z: 211.6691483810589
+  yaw: -319.4662170410156
+  pitch: 18.44997787475586
+  world-name: ''
+money: '0'
+ip-address: 185.228.231.200
+last-account-name: Matdosco
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488199022605
+  logout: 1488199280066
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3309.4157162855327
+  y: 67.0
+  z: -912.357869941355
+  yaw: 19.362659454345703
+  pitch: 24.806961059570312
+  world-name: ''
+ip-address: 176.156.212.196
+last-account-name: remelar
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

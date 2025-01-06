@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.229.68.172
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680377905180
+  login: 1680377831930
+money: '0'
+last-account-name: Ousen_
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9302225303977
+  y: 81.0
+  z: -3111.432298086094
+  yaw: -81.05522155761719
+  pitch: 17.08427619934082
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 415.2009191991551
+  y: 81.0
+  z: -3074.5712324521132
+  yaw: -37.18938446044922
+  pitch: -51.63329315185547

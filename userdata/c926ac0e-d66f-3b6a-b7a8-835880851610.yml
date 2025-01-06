@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514933581964
+  lastteleport: 1514933802224
+  logout: 1514934018999
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -677.7120650800393
+  y: 64.0
+  z: -707.7888059611062
+  yaw: -102.24686431884766
+  pitch: 5.5763397216796875
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1562.5184433416746
+  y: 63.0
+  z: -2106.904844109643
+  yaw: -211.87432861328125
+  pitch: 13.335951805114746
+  world-name: ''
+ip-address: 109.134.221.138
+last-account-name: xTisoki
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.117.130.35
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1633813020268
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633813023536
+  login: 1633808108183
+money: '0'
+last-account-name: tobinoux_III
+lastlocation:
+  world: 9f558405-e9a0-48ce-9c3e-d633a67539fd
+  world-name: Ressource
+  x: 1108.6823738685293
+  y: 32.06514329629679
+  z: 2251.219567225517
+  yaw: -273.621826171875
+  pitch: 34.20000457763672
+homes:
+  temple:
+    world: 9f558405-e9a0-48ce-9c3e-d633a67539fd
+    world-name: Ressource
+    x: 1152.6227778201126
+    y: 64.0
+    z: 2299.0628306948906
+    yaw: -200.1090087890625
+    pitch: 27.750490188598633
+logoutlocation:
+  world: 9f558405-e9a0-48ce-9c3e-d633a67539fd
+  world-name: Ressource
+  x: 1152.6163090158295
+  y: 64.0
+  z: 2301.368044556706
+  yaw: -126.45895385742188
+  pitch: 22.35049819946289

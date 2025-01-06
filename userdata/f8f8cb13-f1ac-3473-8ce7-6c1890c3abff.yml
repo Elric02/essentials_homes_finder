@@ -1,0 +1,63 @@
+timestamps:
+  login: 1468929973314
+  lastteleport: 1468843973918
+  logout: 1468930013862
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 148.70052304548645
+  y: 64.0
+  z: 18.240037777468036
+  yaw: -210.59605407714844
+  pitch: 24.77377700805664
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world_the_end
+  x: -1857.230250818862
+  y: 91.0
+  z: -4100.297786339739
+  yaw: 209.55323791503906
+  pitch: 38.390384674072266
+  world-name: ''
+homes:
+  mine:
+    world: Ressource
+    x: 179.29780488242028
+    y: 12.0
+    z: 436.87991923670774
+    yaw: -142.85699462890625
+    pitch: 8.899186134338379
+    world-name: ''
+  end:
+    world: world_the_end
+    x: -1840.300000011921
+    y: 85.0
+    z: -4102.463789315245
+    yaw: -83.46943664550781
+    pitch: 31.631982803344727
+    world-name: ''
+  end2:
+    world: world_the_end
+    x: -3366.795999773643
+    y: 65.0
+    z: -5316.658488743083
+    yaw: -108.16515350341797
+    pitch: 23.714370727539062
+    world-name: ''
+afk: false
+ip-address: 92.167.134.79
+last-account-name: rafelso42
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

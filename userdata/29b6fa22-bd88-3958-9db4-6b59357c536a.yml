@@ -1,0 +1,38 @@
+timestamps:
+  login: 1628438832749
+  lastteleport: 1628440750927
+  logout: 1628441526947
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.96246850465528
+  y: 63.0
+  z: 38.738822630497204
+  yaw: -44.927398681640625
+  pitch: -1.2242801189422607
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1410.7692707580284
+  y: 64.0
+  z: -2259.711625628437
+  yaw: 193.6915283203125
+  pitch: 14.549707412719727
+  world-name: ''
+ip-address: 2.10.31.241
+last-account-name: SkyLigne41
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

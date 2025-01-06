@@ -1,0 +1,63 @@
+timestamps:
+  login: 1479229303784
+  logout: 1479234273325
+  lastteleport: 1479233060527
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 855.6491297380373
+  y: 60.0
+  z: 2507.185349061996
+  yaw: 195.28204345703125
+  pitch: -0.29996442794799805
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: -323.69999998807907
+  y: 15.0
+  z: 1159.1855269718174
+  yaw: 219.1646728515625
+  pitch: 34.04996871948242
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 855.186720361864
+    y: 60.0
+    z: 2509.366144028633
+    yaw: 231.28207397460938
+    pitch: 10.3500394821167
+    world-name: ''
+  mine:
+    world: ressource
+    x: 393.52468475970045
+    y: 8.0
+    z: 705.2125495145913
+    yaw: 181.15509033203125
+    pitch: 4.499989032745361
+    world-name: ''
+  mine2:
+    world: ressource
+    x: -301.14605683124245
+    y: 25.0
+    z: 1198.3762066035576
+    yaw: 288.46380615234375
+    pitch: 44.849998474121094
+    world-name: ''
+afk: false
+muted: false
+ip-address: 2.8.106.79
+last-account-name: EdenNell_Tirami
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

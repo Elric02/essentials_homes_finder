@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.210.25.222
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1631460690094
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1631461098545
+  login: 1631456572930
+money: '0'
+last-account-name: sekrion
+lastlocation:
+  world: c9471d40-f1c9-43db-90e8-e80a4d4f0631
+  world-name: Ressource
+  x: 942.9680753718698
+  y: 10.0
+  z: 1004.4828375286392
+  yaw: -243.0619659423828
+  pitch: 22.21457290649414
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 577.306364256972
+    y: 85.0
+    z: 2168.3037963365227
+    yaw: 73.7279052734375
+    pitch: -17.076793670654297
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 565.8769603952214
+  y: 88.0
+  z: 2154.583660621133
+  yaw: 301.557861328125
+  pitch: 22.94713592529297

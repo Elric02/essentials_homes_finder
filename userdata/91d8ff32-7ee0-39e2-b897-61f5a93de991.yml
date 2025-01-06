@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487501643990
+  logout: 1487501736148
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 217.1721794905358
+  y: 101.25
+  z: -108.1758736941666
+  yaw: -247.45236206054688
+  pitch: 41.247615814208984
+  world-name: ''
+ip-address: 92.143.91.217
+last-account-name: gaming980
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

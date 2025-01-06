@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.141.144.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681244980828
+  login: 1681244918538
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9678653348867
+  y: 81.0
+  z: -3111.021718201934
+  yaw: -13.198369026184082
+  pitch: 22.049928665161133
+last-account-name: Azriiaa
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.8296999482765
+  y: 81.0
+  z: -3111.696343711408
+  yaw: -41.24817657470703
+  pitch: 38.099998474121094

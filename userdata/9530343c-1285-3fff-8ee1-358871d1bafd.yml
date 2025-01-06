@@ -1,0 +1,38 @@
+timestamps:
+  login: 1538574132042
+  lastteleport: 1538576213437
+  logout: 1538576557115
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4868.971596958473
+  y: 71.0
+  z: -406.7393586605759
+  yaw: 0.1273779422044754
+  pitch: -2.999999761581421
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1459.1671159651708
+  y: 72.0
+  z: -2167.86437080965
+  yaw: 269.17578125
+  pitch: 7.185974597930908
+  world-name: ''
+ip-address: 176.189.217.95
+last-account-name: SerialGamer160
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

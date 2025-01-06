@@ -1,0 +1,55 @@
+timestamps:
+  login: 1518274543557
+  lastteleport: 1518274916328
+  logout: 1518274940838
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 72.5
+  y: 64.0
+  z: -4.5
+  yaw: 25.58677864074707
+  pitch: 49.35958480834961
+  world-name: ''
+homes:
+  mine:
+    world: Ressource
+    x: 48.44770384127339
+    y: 68.0
+    z: 96.65113458157435
+    yaw: -94.01459503173828
+    pitch: 27.481916427612305
+    world-name: ''
+  coffre:
+    world: world
+    x: 72.44871540767414
+    y: 64.0
+    z: -4.443844885570737
+    yaw: 25.58677864074707
+    pitch: 49.35958480834961
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 122.67664796571637
+  y: 71.0
+  z: 104.01280526796991
+  yaw: -84.86451721191406
+  pitch: 25.981935501098633
+  world-name: ''
+ip-address: 78.230.123.55
+last-account-name: Crystal_Dragon49
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

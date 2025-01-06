@@ -1,0 +1,47 @@
+timestamps:
+  login: 1489281185599
+  lastteleport: 1488923335569
+  logout: 1489281516010
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4256.769194795284
+  y: 62.9375
+  z: -3679.835034244144
+  yaw: 54.2996711730957
+  pitch: 8.399982452392578
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 421.30000001192093
+  y: 77.0
+  z: 1189.6991652906574
+  yaw: 229.349853515625
+  pitch: -12.750055313110352
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 436.8196463973629
+    y: 72.0
+    z: 1183.7728990899113
+    yaw: 5.550089359283447
+    pitch: 15.600005149841309
+    world-name: ''
+afk: false
+ip-address: 70.83.169.163
+last-account-name: isometrik
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

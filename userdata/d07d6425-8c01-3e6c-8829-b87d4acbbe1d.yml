@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.162.81.97
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1639262097783
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1641158209133
+  login: 1641157496376
+money: '0'
+last-account-name: _BadWolf_10
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 169.46582597325565
+  y: 64.17675927506424
+  z: 18.813022020118527
+  yaw: 274.7032470703125
+  pitch: 3.273322343826294
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 153.52489076396807
+  y: 63.0
+  z: 31.86957409371224
+  yaw: -0.60205078125
+  pitch: -2.2772610187530518

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518256557309
+  logout: 1518256642223
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.30974355234835
+  y: 65.0
+  z: 75.92303792300184
+  yaw: 159.8507080078125
+  pitch: -0.26124632358551025
+  world-name: ''
+ip-address: 78.220.20.174
+last-account-name: Osoley
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

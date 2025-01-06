@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.220.111.114
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1680109018217
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680109036890
+  login: 1680107782994
+money: '100.0'
+last-account-name: Atsukiii_
+lastlocation:
+  world: 0847213e-5591-48bf-9f47-5a48a3cb045a
+  world-name: Ressource
+  x: -0.18411812344379186
+  y: 90.0
+  z: 1.5871702844353612
+  yaw: 83.99803924560547
+  pitch: 4.760563373565674
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.6645718482355
+  y: 63.5
+  z: 11.568814625110315
+  yaw: 167.47317504882812
+  pitch: 15.49038314819336

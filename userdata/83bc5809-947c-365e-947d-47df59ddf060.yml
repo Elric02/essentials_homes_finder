@@ -1,0 +1,55 @@
+timestamps:
+  login: 1564773530315
+  lastteleport: 1520964766952
+  logout: 1564773664075
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 151.3396418298276
+  y: 63.0
+  z: 41.93855193812804
+  yaw: 7.9896240234375
+  pitch: 21.39776039123535
+  world-name: ''
+homes:
+  artaze_z:
+    world: world
+    x: -6648.414195963589
+    y: 78.0
+    z: 2805.125415689912
+    yaw: -276.25689697265625
+    pitch: 14.40063190460205
+    world-name: ''
+  home:
+    world: world
+    x: -6655.7513040775175
+    y: 79.0
+    z: 2804.9762584734913
+    yaw: -270.645751953125
+    pitch: 2.030604600906372
+    world-name: ''
+afk: false
+ip-address: 92.146.180.248
+last-account-name: Artaze
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

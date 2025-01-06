@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.161.234.132
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667420849190
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667421017528
+  login: 1667420369056
+money: '0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 143.65157491874226
+  y: 63.0
+  z: 30.385131084523856
+  yaw: 52.35986328125
+  pitch: 14.999980926513672
+last-account-name: Charlie_Listria
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -7463.309899857171
+  y: 83.0
+  z: 977.6804067311726
+  yaw: -139.49224853515625
+  pitch: 40.5001106262207

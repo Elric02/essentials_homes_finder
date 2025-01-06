@@ -1,0 +1,55 @@
+timestamps:
+  login: 1497028991197
+  logout: 1497029121414
+  lastteleport: 1496846816275
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: 0.5
+  y: 63.0
+  z: 0.5
+  yaw: 183.29420471191406
+  pitch: 75.2456283569336
+  world-name: ''
+logoutlocation:
+  world: Event
+  x: 936.5
+  y: 4.0
+  z: -1290.5
+  yaw: -42.52173614501953
+  pitch: 11.37130355834961
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 6563.753066074486
+    y: 67.5625
+    z: -958.046745077961
+    yaw: -147.14801025390625
+    pitch: 89.3855972290039
+    world-name: ''
+  claim:
+    world: world
+    x: 2663.0
+    y: 64.0
+    z: 3839.0
+    yaw: -193.57440185546875
+    pitch: 12.287995338439941
+    world-name: ''
+afk: false
+ip-address: 82.248.97.4
+last-account-name: Layssa
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1617974980380
+  logout: 1617975149159
+  lastteleport: 1617975074719
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2499.318556685804
+  y: 72.0
+  z: -2419.629597185064
+  yaw: 73.84066772460938
+  pitch: 11.881141662597656
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2284.6141341743655
+  y: 40.0
+  z: -2302.3150107124907
+  yaw: -92.95452880859375
+  pitch: -14.668374061584473
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: 2294.0063138216847
+    y: 63.0
+    z: -2301.813787082771
+    yaw: 232.39401245117188
+    pitch: 16.381139755249023
+    world-name: ''
+  m:
+    world: world
+    x: 2308.410811690078
+    y: 80.0
+    z: 2881.9806352383484
+    yaw: 132.76675415039062
+    pitch: 78.0
+    world-name: ''
+  v:
+    world: world
+    x: 2286.711881405147
+    y: 64.0
+    z: 2805.347233134859
+    yaw: 135.466064453125
+    pitch: 25.349973678588867
+    world-name: ''
+afk: false
+ip-address: 78.127.223.162
+last-account-name: PtitlinkJr
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.172.18.129
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682366450143
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682366845226
+  login: 1682366357638
+money: '0'
+last-account-name: babes51
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 397.1921940324014
+  y: 81.0
+  z: -3108.8708671722375
+  yaw: 170.10179138183594
+  pitch: 15.89987850189209
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -115.21876166244293
+  y: 65.0
+  z: 52.93378018787011
+  yaw: -154.49700927734375
+  pitch: 14.400097846984863

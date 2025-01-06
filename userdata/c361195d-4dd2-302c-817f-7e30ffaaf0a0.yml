@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467829335079
+  lastteleport: 1467829381754
+  logout: 1467829386555
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.68393793901032
+  y: 64.0
+  z: 20.461702352925744
+  yaw: 1.052825927734375
+  pitch: -9.67581558227539
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.68822751490606
+  y: 64.0625
+  z: 20.116793604558698
+  yaw: -38.097320556640625
+  pitch: 6.82418155670166
+  world-name: ''
+ip-address: 176.151.136.131
+last-account-name: iDragony
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

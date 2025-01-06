@@ -1,0 +1,75 @@
+npc: false
+last-account-name: jackthesnakes01
+money: '29081.27719696969692874'
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.39.108.170
+afk: false
+socialspy: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1691662078472
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1691662120790
+  login: 1691661660780
+  kits:
+    vip: 1678469148212
+    stationaute: 1666207467121
+    explorateur: 1666298729179
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -7296.5
+  y: 72.0
+  z: -2244.5
+  yaw: 20.070573806762695
+  pitch: 25.68169403076172
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -7888.495032619397
+  y: 66.0
+  z: 2627.606663156596
+  yaw: 121.98621368408203
+  pitch: 4.861259460449219
+homes:
+  b:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 5921.803174965484
+    y: 64.0
+    z: 251.47750465283426
+    yaw: -46.229522705078125
+    pitch: 13.531769752502441
+  bunker:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6330.645115704482
+    y: 97.0
+    z: 5407.812156969489
+    yaw: -138.1725311279297
+    pitch: 31.08172035217285
+  village:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7836.924483537175
+    y: 63.0
+    z: 2606.8417263765923
+    yaw: 108.11973571777344
+    pitch: 11.732061386108398
+  defis:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7296.5
+    y: 72.0
+    z: -2244.5
+    yaw: 20.070573806762695
+    pitch: 25.68169403076172

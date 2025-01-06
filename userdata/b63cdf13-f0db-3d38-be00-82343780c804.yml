@@ -1,0 +1,38 @@
+timestamps:
+  login: 1625667092900
+  lastteleport: 1625584120403
+  logout: 1625667136032
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4985.647276992952
+  y: 78.0
+  z: 4182.272228553138
+  yaw: 180.554931640625
+  pitch: 2.8076767921447754
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 153.31038294515116
+  y: 64.0
+  z: 24.58654957648849
+  yaw: 349.6970520019531
+  pitch: 6.138811111450195
+  world-name: ''
+ip-address: 88.163.240.128
+last-account-name: Slyer_08
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

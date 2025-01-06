@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511810560197
+  lastteleport: 1507312369717
+  logout: 1511811077550
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5100.731580779824
+  y: 35.5
+  z: 1466.609819708368
+  yaw: 240.75067138671875
+  pitch: 26.549991607666016
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -5064.137980906796
+  y: 63.5
+  z: 1520.8554185210076
+  yaw: 84.60333251953125
+  pitch: 21.899948120117188
+  world-name: ''
+ip-address: 80.119.56.149
+last-account-name: Psycolm_1802
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

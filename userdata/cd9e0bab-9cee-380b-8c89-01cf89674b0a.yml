@@ -1,0 +1,39 @@
+timestamps:
+  login: 1509036397988
+  mute: 0
+  logout: 1509036571152
+  lastteleport: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 105.01012109162818
+  y: 63.0
+  z: 62.42337402686372
+  yaw: -210.94715881347656
+  pitch: 4.1999897956848145
+  world-name: ''
+muted: true
+jailed: true
+jail: cage
+logoutlocation:
+  world: world
+  x: 198.28921977423016
+  y: 74.0
+  z: 18.502771341707557
+  yaw: -83.37406921386719
+  pitch: 16.983726501464844
+  world-name: ''
+ip-address: 78.194.38.184
+last-account-name: tt44
+teleportenabled: true
+teleportauto: false
+godmode: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

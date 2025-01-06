@@ -1,0 +1,38 @@
+timestamps:
+  login: 1520360750258
+  logout: 1520360854140
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.88240029441752
+  y: 64.0
+  z: 18.805884348313914
+  yaw: 135.79830932617188
+  pitch: 1.5818852186203003
+  world-name: ''
+ip-address: 85.201.126.81
+last-account-name: Foxterix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

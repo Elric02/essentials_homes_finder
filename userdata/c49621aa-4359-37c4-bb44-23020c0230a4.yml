@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614118319187
+  lastteleport: 1614118473354
+  logout: 1614118852308
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.365422346595
+  y: 64.0
+  z: 26.096726761644682
+  yaw: 216.99945068359375
+  pitch: 9.456480026245117
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 152.83130647582496
+  y: 64.0
+  z: 20.29250411561334
+  yaw: -107.379638671875
+  pitch: 17.58241844177246
+  world-name: ''
+ip-address: 86.195.229.158
+last-account-name: MidSnaree
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

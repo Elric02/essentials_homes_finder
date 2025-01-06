@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484386298951
+  lastteleport: 1484386767634
+  logout: 1484386874629
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: 73.76812493178413
+  y: 95.0
+  z: -30.77719115351562
+  yaw: 238.325927734375
+  pitch: 11.655579566955566
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3558.625283368173
+  y: 60.0
+  z: -1583.7904734315257
+  yaw: -190.80014038085938
+  pitch: 50.99995422363281
+  world-name: ''
+ip-address: 82.67.24.84
+last-account-name: tititan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

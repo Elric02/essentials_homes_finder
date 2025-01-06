@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.2.106.155
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642265881145
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642266490690
+  login: 1642263951836
+money: '0'
+last-account-name: Tlemcen
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 156.35991449513062
+  y: 63.0
+  z: 57.27515803356571
+  yaw: 139.911865234375
+  pitch: 9.67831039428711
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 93.86242251220652
+  y: 57.7531999805212
+  z: -69.47249370288895
+  yaw: 203.20834350585938
+  pitch: 24.828330993652344

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1512846143498
+  lastteleport: 1512846198347
+  logout: 1512846208063
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.080378724099
+  y: 63.0
+  z: 60.097712441213424
+  yaw: 185.49688720703125
+  pitch: 23.550025939941406
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.8836009111432
+  y: 64.0
+  z: 15.04921130733273
+  yaw: -156.77084350585938
+  pitch: 13.078670501708984
+  world-name: ''
+ip-address: 78.208.1.196
+last-account-name: PX_vallfeur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

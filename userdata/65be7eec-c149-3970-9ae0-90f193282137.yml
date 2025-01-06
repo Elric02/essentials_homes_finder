@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521301100824
+  mute: 0
+  logout: 1521301116166
+  lastteleport: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+muted: true
+logoutlocation:
+  world: world
+  x: 150.07499998807907
+  y: 67.0
+  z: 94.92500001192093
+  yaw: -118.28233337402344
+  pitch: 41.4661865234375
+  world-name: ''
+ip-address: 178.32.250.32
+last-account-name: karkat413
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509284654945
+  mute: 0
+  logout: 1509285178160
+  lastteleport: 1509284951031
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.73721036307398
+  y: 64.79673560066871
+  z: 19.961842506501014
+  yaw: -285.1219787597656
+  pitch: 27.092451095581055
+  world-name: ''
+muted: false
+logoutlocation:
+  world: world_the_end
+  x: -3.0069615685062017
+  y: 62.0
+  z: -1.0493950320640635
+  yaw: 231.6341552734375
+  pitch: 13.807440757751465
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 176.158.147.51
+last-account-name: Vaxtangg
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

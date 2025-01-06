@@ -1,0 +1,38 @@
+timestamps:
+  login: 1568891454628
+  lastteleport: 1568891674424
+  logout: 1568891725733
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -82.88617459764114
+  y: 69.0
+  z: -0.22721607362381413
+  yaw: -83.0169906616211
+  pitch: 13.831342697143555
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 95.58703060029794
+  y: 63.0
+  z: 6.793545996748814
+  yaw: -207.1707763671875
+  pitch: 12.778678894042969
+  world-name: ''
+ip-address: 93.31.255.233
+last-account-name: varex
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

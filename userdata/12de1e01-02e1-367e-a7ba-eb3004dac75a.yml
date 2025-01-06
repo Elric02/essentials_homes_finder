@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.127.206.135
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1681920554042
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681921764564
+  login: 1681921478518
+money: '100.0'
+last-account-name: CerfPinceau7655
+lastlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 147.91726940140117
+  y: 83.0
+  z: -109.68441333699309
+  yaw: -80.84680938720703
+  pitch: 51.1500358581543
+logoutlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 2165.1205292921063
+  y: 19.0
+  z: 2139.31232247668
+  yaw: 5.550049304962158
+  pitch: -50.69994354248047

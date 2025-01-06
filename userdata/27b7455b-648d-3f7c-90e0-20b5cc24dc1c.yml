@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479600520585
+  logout: 1479600607893
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 84.1083984375
+  y: 63.66250001788139
+  z: -44.97528741173027
+  yaw: -73.87801361083984
+  pitch: 8.09997272491455
+  world-name: ''
+ip-address: 90.6.43.101
+last-account-name: NosferatuFR
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

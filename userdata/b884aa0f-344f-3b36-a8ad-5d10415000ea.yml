@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472989748069
+  logout: 1472989862719
+  lastteleport: 1472989856033
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6886.621230810159
+  y: 77.0
+  z: -997.8421505186437
+  yaw: -82.2000503540039
+  pitch: 1.9500094652175903
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.49768905102064
+  y: 64.0
+  z: 26.60207706204398
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+ip-address: 88.178.108.158
+last-account-name: matis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1557342428486
+  lastteleport: 1557342078076
+  logout: 1557343077534
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.98706226029128
+  y: 66.0
+  z: 21.537163575065286
+  yaw: 275.04595947265625
+  pitch: 3.2406487464904785
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -592.920483302858
+  y: 65.0
+  z: -678.6520468920268
+  yaw: 185.94671630859375
+  pitch: 6.000120162963867
+  world-name: ''
+ip-address: 86.195.86.219
+last-account-name: Jojo_play24
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

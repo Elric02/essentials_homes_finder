@@ -1,0 +1,38 @@
+timestamps:
+  login: 1560694644414
+  lastteleport: 1560694823100
+  logout: 1560694890338
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1497.9371520280854
+  y: 64.0
+  z: 1466.582079455826
+  yaw: 80.9962158203125
+  pitch: 19.57131004333496
+  world-name: ''
+afk: false
+logoutlocation:
+  world: Ressource
+  x: -42.90161886770032
+  y: 67.0
+  z: -46.63810475276844
+  yaw: 51.74755859375
+  pitch: 46.535850524902344
+  world-name: ''
+ip-address: 90.110.139.80
+last-account-name: Maxgamer1997
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

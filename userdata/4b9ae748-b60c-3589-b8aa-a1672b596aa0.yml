@@ -1,0 +1,47 @@
+timestamps:
+  login: 1509444500124
+  lastteleport: 1509445360734
+  logout: 1509445938936
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 219.7835721592977
+    y: 63.0
+    z: 5822.468602782776
+    yaw: -135.98052978515625
+    pitch: -3.5681002140045166
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 222.57592287439138
+  y: 64.0
+  z: 5821.612745630377
+  yaw: -339.882568359375
+  pitch: -44.79292678833008
+  world-name: ''
+ip-address: 78.222.238.124
+last-account-name: AznWhite
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

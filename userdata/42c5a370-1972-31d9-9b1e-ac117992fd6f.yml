@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475741029220
+  logout: 1475741045755
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1062.8440230165645
+  y: 67.0
+  z: 6388.063987579698
+  yaw: 19.780929565429688
+  pitch: 8.28913688659668
+  world-name: ''
+ip-address: 88.167.184.207
+last-account-name: drakdar
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

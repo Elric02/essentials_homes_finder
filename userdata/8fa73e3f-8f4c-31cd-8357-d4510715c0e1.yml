@@ -1,0 +1,63 @@
+timestamps:
+  login: 1587128393079
+  lastteleport: 1587128301433
+  logout: 1587128437672
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -299.97146053233945
+  y: 84.0
+  z: -1697.874083676387
+  yaw: -287.968017578125
+  pitch: 23.524707794189453
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -362.7902587715216
+    y: 139.0
+    z: -1822.931084853592
+    yaw: -342.5708312988281
+    pitch: 17.92778205871582
+    world-name: ''
+  plage:
+    world: world
+    x: 4871.645949431859
+    y: 65.0
+    z: -1729.643125975568
+    yaw: -249.70738220214844
+    pitch: 39.87833786010742
+    world-name: ''
+  village:
+    world: world
+    x: -7000.820325121528
+    y: 72.0
+    z: 87.0182518067001
+    yaw: -129.5905303955078
+    pitch: 40.35153579711914
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -366.8349544176624
+  y: 140.35892968305853
+  z: -1820.1063560399202
+  yaw: 26.13724708557129
+  pitch: 36.6259651184082
+  world-name: ''
+ip-address: 77.132.145.138
+last-account-name: totougaming
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

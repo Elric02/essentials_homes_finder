@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477169407634
+  logout: 1477169630070
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.10654145902853
+  y: 65.24918707874468
+  z: 14.102651156041306
+  yaw: -269.301025390625
+  pitch: 23.647418975830078
+  world-name: ''
+ip-address: 78.238.91.151
+last-account-name: Gazelle
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

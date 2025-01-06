@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487435669781
+  lastteleport: 1487435677288
+  logout: 1487435687828
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 1855.0221913518994
+  y: 5.0
+  z: 3195.4604337461124
+  yaw: 95.27592468261719
+  pitch: 36.74998092651367
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.0801250394323
+  y: 64.0
+  z: 27.77718951933283
+  yaw: -230.16090393066406
+  pitch: 19.074501037597656
+  world-name: ''
+ip-address: 81.254.122.168
+last-account-name: Neyk279
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

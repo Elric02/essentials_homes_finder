@@ -1,0 +1,47 @@
+timestamps:
+  login: 1486824705310
+  lastteleport: 1486825076533
+  logout: 1486825491277
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1938.6170585458578
+  y: 65.0
+  z: -717.2875250410748
+  yaw: 145.3804931640625
+  pitch: 7.200098037719727
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  house:
+    world: world
+    x: 1943.2156006618495
+    y: 65.0
+    z: -701.094091306265
+    yaw: -74.36844635009766
+    pitch: 17.180383682250977
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 155.84699913031548
+  y: 64.0
+  z: 25.207857235664477
+  yaw: 17.939111709594727
+  pitch: 13.074495315551758
+  world-name: ''
+ip-address: 82.224.188.223
+last-account-name: Evanyl_18
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

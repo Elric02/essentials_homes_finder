@@ -1,0 +1,55 @@
+timestamps:
+  login: 1572898805391
+  lastteleport: 1572901597249
+  logout: 1572901729828
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5784.202142222241
+  y: 67.0
+  z: 1995.276976256267
+  yaw: -145.205810546875
+  pitch: 22.499980926513672
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -5603.5277564449025
+    y: 71.0
+    z: 2146.2036774355574
+    yaw: 4.629058837890625
+    pitch: 33.17864990234375
+    world-name: ''
+  l:
+    world: world
+    x: -1512.86423335079
+    y: 64.0
+    z: -764.8095763784178
+    yaw: -90.6339111328125
+    pitch: 18.350969314575195
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5608.032719204291
+  y: 76.0
+  z: 2146.518441296177
+  yaw: 47.37904357910156
+  pitch: 15.028697967529297
+  world-name: ''
+ip-address: 92.152.232.178
+last-account-name: hidalgo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

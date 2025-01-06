@@ -1,0 +1,38 @@
+timestamps:
+  login: 1566582767686
+  lastteleport: 1566583545909
+  logout: 1566583567865
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -408.5225923346739
+  y: 68.90290000319482
+  z: 304.1794641059128
+  yaw: 199.2452392578125
+  pitch: 57.899959564208984
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.63229401897556
+  y: 64.90290000319482
+  z: 23.811060615036205
+  yaw: -179.57073974609375
+  pitch: 26.278675079345703
+  world-name: ''
+ip-address: 88.188.8.147
+last-account-name: KoKa_LaD
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

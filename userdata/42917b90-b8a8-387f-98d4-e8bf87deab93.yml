@@ -1,0 +1,65 @@
+timestamps:
+  login: 1601311371271
+  lastteleport: 1601032329621
+  logout: 1601311535373
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 127.71044416202707
+  y: 63.0
+  z: 20.06884250928663
+  yaw: 89.37918090820312
+  pitch: 11.428604125976562
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4764.869616138783
+    y: 63.5
+    z: 2313.9432489509413
+    yaw: 88.59274291992188
+    pitch: 4.6502814292907715
+    world-name: ''
+  coffre:
+    world: world
+    x: -4664.5
+    y: 63.0
+    z: 2245.5
+    yaw: 179.49334716796875
+    pitch: 35.40029525756836
+    world-name: ''
+  tour:
+    world: world
+    x: -4912.565097196285
+    y: 79.5
+    z: 2367.2425220191267
+    yaw: 262.14276123046875
+    pitch: 19.950271606445312
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4757.582595063056
+  y: 63.0
+  z: 2314.0036869496084
+  yaw: 93.69805908203125
+  pitch: -3.3001580238342285
+  world-name: ''
+afk: false
+ignore:
+- 2fac36eb-f721-3042-946c-cd215bc8579e
+ip-address: 81.254.132.93
+last-account-name: Edwige
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

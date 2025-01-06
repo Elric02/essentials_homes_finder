@@ -1,0 +1,38 @@
+timestamps:
+  login: 1564573687325
+  lastteleport: 1564574006139
+  logout: 1564574063429
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 192.40418993196317
+  y: 62.0
+  z: 269.37589362892425
+  yaw: -348.2681884765625
+  pitch: 49.419288635253906
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.38301849056734
+  y: 64.0
+  z: 11.547248064035712
+  yaw: -177.80856323242188
+  pitch: 17.36323356628418
+  world-name: ''
+ip-address: 86.233.30.173
+last-account-name: CraziFear
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

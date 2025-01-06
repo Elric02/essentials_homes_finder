@@ -1,0 +1,38 @@
+timestamps:
+  login: 1603627559369
+  lastteleport: 1603581746493
+  logout: 1603628201702
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.4796924689058
+  y: 63.0
+  z: 33.72280687049963
+  yaw: -55.974037170410156
+  pitch: 31.372966766357422
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 589.6999999880791
+  y: 59.0
+  z: 440.6566716022232
+  yaw: 112.73876953125
+  pitch: -60.741451263427734
+  world-name: ''
+ip-address: 83.194.125.64
+last-account-name: lkgrisk88
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476469037028
+  lastteleport: 1476469065145
+  logout: 1476469768194
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 733.2329815461867
+  y: 5.0
+  z: -1246.90990449647
+  yaw: -135.4264678955078
+  pitch: 31.350109100341797
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 344.17700801441
+  y: 67.0
+  z: 1388.5821722238077
+  yaw: 7.50039005279541
+  pitch: 42.750038146972656
+  world-name: ''
+ip-address: 2.12.169.204
+last-account-name: Proxiiimity
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1485710928969
+  logout: 1485711011583
+  mute: 0
+  lastteleport: 1485710933545
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 226.11187203693368
+  y: 11.0
+  z: 54.52924908392557
+  yaw: -226.85882568359375
+  pitch: 9.150104522705078
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.09285154313287
+  y: 64.0
+  z: 22.25705219135474
+  yaw: -180.0611572265625
+  pitch: 1.5245215892791748
+  world-name: ''
+muted: false
+money: '0'
+homes:
+  home:
+    world: ressource
+    x: 89.403732652998
+    y: 9.0
+    z: 87.57288417650317
+    yaw: -40.009521484375
+    pitch: -13.20006275177002
+    world-name: ''
+  maison:
+    world: world
+    x: 787.6024895021236
+    y: 128.0
+    z: -4213.545420632193
+    yaw: -339.75091552734375
+    pitch: 63.00006103515625
+    world-name: ''
+  mere:
+    world: ressource
+    x: -397.87579316739783
+    y: 71.0
+    z: 21.150731483415758
+    yaw: 112.8362808227539
+    pitch: 24.449954986572266
+    world-name: ''
+afk: false
+ip-address: 93.21.144.4
+last-account-name: diablobg
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

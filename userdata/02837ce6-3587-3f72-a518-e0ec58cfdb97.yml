@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488659475409
+  logout: 1488659623113
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 135.89340388452362
+  y: 69.0
+  z: -5230.254547024172
+  yaw: -174.60009765625
+  pitch: 11.999930381774902
+  world-name: ''
+ip-address: 92.142.143.122
+last-account-name: Pikloww
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478113516021
+  logout: 1478113805598
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2358.300000011921
+  y: 63.0
+  z: 3348.2610945930305
+  yaw: -299.49359130859375
+  pitch: -56.320152282714844
+  world-name: ''
+ip-address: 90.113.220.109
+last-account-name: SantiagoSan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

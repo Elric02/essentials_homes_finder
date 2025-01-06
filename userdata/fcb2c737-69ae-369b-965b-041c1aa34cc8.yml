@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483701963007
+  logout: 1483701980782
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.64490830803086
+  y: 63.0
+  z: 50.91635766137443
+  yaw: -144.347412109375
+  pitch: 0.5474003553390503
+  world-name: ''
+ip-address: 94.111.39.101
+last-account-name: DQMNDIAMO
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

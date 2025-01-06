@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.165.177.135
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1640471790894
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1640472043495
+  login: 1640471951894
+money: '0'
+last-account-name: Matyfou
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 150.11875644899197
+  y: 63.0
+  z: 48.54043883436606
+  yaw: 97.4460678100586
+  pitch: -12.809337615966797
+logoutlocation:
+  world: 86d1d27f-93df-4bd4-8f6a-80e1ce66b3ad
+  world-name: Ressource
+  x: -140.61187201838263
+  y: 65.0
+  z: -117.44368875613155
+  yaw: -218.25067138671875
+  pitch: 10.535717010498047

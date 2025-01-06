@@ -1,0 +1,38 @@
+timestamps:
+  login: 1606594576369
+  logout: 1606594758145
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: Nether
+  x: -3.744666379348268
+  y: 68.0
+  z: -1.2117418690464157
+  yaw: 80.52940368652344
+  pitch: 50.46369171142578
+  world-name: ''
+ip-address: 83.199.212.210
+last-account-name: vixus
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

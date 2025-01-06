@@ -1,0 +1,63 @@
+timestamps:
+  login: 1569415907480
+  logout: 1569418770861
+  lastteleport: 1569417219109
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3023.4324705566496
+  y: 66.0
+  z: 7061.074999988079
+  yaw: 176.40673828125
+  pitch: 31.199968338012695
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2993.5
+  y: 83.5625
+  z: 6960.5
+  yaw: -189.7725830078125
+  pitch: 16.350051879882812
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 2989.4055453056926
+    y: 78.0
+    z: 6949.132640150469
+    yaw: 37.93943405151367
+    pitch: 25.049850463867188
+    world-name: ''
+  jungle:
+    world: world
+    x: 4698.646437775802
+    y: 95.0
+    z: -2030.0709883046109
+    yaw: 283.05126953125
+    pitch: 20.10001564025879
+    world-name: ''
+  ressource:
+    world: Ressource
+    x: 1056.0213755906316
+    y: 81.0
+    z: -1933.7977109893038
+    yaw: 277.15106201171875
+    pitch: 45.30569839477539
+    world-name: ''
+afk: false
+ip-address: 78.211.209.15
+last-account-name: Chagouine
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

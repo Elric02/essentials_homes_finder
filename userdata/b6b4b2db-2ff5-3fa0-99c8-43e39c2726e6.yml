@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.171.30.171
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1695101967020
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1695102117334
+  login: 1695100534495
+money: '0'
+last-account-name: Alexum
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 152.8759258288505
+  y: 64.0
+  z: 19.496753402456903
+  yaw: 91.21530151367188
+  pitch: 4.650146961212158
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 230.69999998807907
+  y: 139.0
+  z: 140.7506156377744
+  yaw: -125.37998962402344
+  pitch: 25.8002986907959

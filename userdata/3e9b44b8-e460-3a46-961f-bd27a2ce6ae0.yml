@@ -1,0 +1,38 @@
+timestamps:
+  login: 1552410769332
+  logout: 1552410836438
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.55022907973847
+  y: 65.0
+  z: 99.01872722589229
+  yaw: -111.95303344726562
+  pitch: 11.34065055847168
+  world-name: ''
+ip-address: 86.195.176.80
+last-account-name: _iSh0ck
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

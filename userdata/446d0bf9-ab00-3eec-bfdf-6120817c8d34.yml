@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466347407540
+  logout: 1466347419099
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -3.553085165835891
+  y: 63.0
+  z: 11.130221665410716
+  yaw: -131.25010681152344
+  pitch: 18.149982452392578
+  world-name: ''
+ip-address: 92.90.223.250
+last-account-name: RebyMacgarden
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

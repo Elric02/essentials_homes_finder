@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478296013861
+  logout: 1478296093799
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.41216208486912
+  y: 63.0
+  z: -22.802887233021806
+  yaw: 250.23410034179688
+  pitch: -14.425678253173828
+  world-name: ''
+ip-address: 87.67.237.66
+last-account-name: nucleaire17
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

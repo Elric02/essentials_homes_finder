@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521298977507
+  logout: 1521299939999
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3341.2971156463327
+  y: 219.0
+  z: 5369.384681015986
+  yaw: -24.64056396484375
+  pitch: 54.59002685546875
+  world-name: ''
+ip-address: 217.64.113.207
+last-account-name: GaranixLikePink
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

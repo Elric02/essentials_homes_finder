@@ -1,0 +1,63 @@
+timestamps:
+  login: 1487871913570
+  logout: 1487872689698
+  lastteleport: 1487872190404
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4839.714583451761
+  y: 84.0
+  z: -462.78970474411057
+  yaw: 112.83815002441406
+  pitch: 11.464797973632812
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2892.358550695488
+  y: 65.0
+  z: -4194.605913614042
+  yaw: 51.6126708984375
+  pitch: 10.12918758392334
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 397.4664442482792
+    y: 71.0
+    z: 788.4337711527115
+    yaw: -30.7752685546875
+    pitch: 3.035372734069824
+    world-name: ''
+  foret:
+    world: Ressource
+    x: 300.2797840938314
+    y: 67.0
+    z: -669.2004353151486
+    yaw: -181.9027099609375
+    pitch: 16.309478759765625
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 258.7070668293041
+    y: 12.0
+    z: -649.8972524273092
+    yaw: 276.63037109375
+    pitch: 43.09110641479492
+    world-name: ''
+ip-address: 86.228.7.178
+last-account-name: AbzMx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

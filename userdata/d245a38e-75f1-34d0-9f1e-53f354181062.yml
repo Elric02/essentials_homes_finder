@@ -1,0 +1,38 @@
+timestamps:
+  login: 1566059347082
+  logout: 1566060776295
+  lastteleport: 1566060731282
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 145.65188925974093
+  y: 63.0
+  z: 54.329575640781876
+  yaw: 15.016714096069336
+  pitch: 18.456148147583008
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4846.401976792856
+  y: 70.0
+  z: 1568.300000011921
+  yaw: 116.7966537475586
+  pitch: 39.53928756713867
+  world-name: ''
+money: '0'
+ip-address: 185.128.25.220
+last-account-name: LeVraiMaTt
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

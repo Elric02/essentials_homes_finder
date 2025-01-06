@@ -1,0 +1,38 @@
+timestamps:
+  login: 1550674212633
+  logout: 1550674238413
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.097499774829
+  y: 65.0
+  z: 81.57405127790035
+  yaw: 40.92431640625
+  pitch: 18.015029907226562
+  world-name: ''
+ip-address: 91.164.204.12
+last-account-name: Nogigbes
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

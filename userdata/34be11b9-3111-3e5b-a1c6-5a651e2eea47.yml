@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.15.82.81
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670953314410
+  login: 1670952954114
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9792120040776
+  y: 81.0
+  z: -3111.584031540925
+  yaw: -71.54817962646484
+  pitch: 15.749953269958496
+last-account-name: legedairy046
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 409.4189870421123
+  y: 87.0
+  z: -3162.5152972635137
+  yaw: 106.35107421875
+  pitch: 29.699993133544922

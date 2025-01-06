@@ -1,0 +1,47 @@
+timestamps:
+  login: 1487175801255
+  lastteleport: 1487175968755
+  logout: 1487176044157
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4969.814766963312
+  y: 71.0
+  z: -446.4250075586394
+  yaw: 202.9397430419922
+  pitch: 16.6500244140625
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 157.99927619904665
+  y: 63.0
+  z: 5.485718957711872
+  yaw: -168.9609375
+  pitch: 40.35000228881836
+  world-name: ''
+homes:
+  b:
+    world: world
+    x: -4968.446397187451
+    y: 71.0
+    z: -460.39377997092254
+    yaw: 1.0394287109375
+    pitch: -1.2000402212142944
+    world-name: ''
+afk: false
+ip-address: 77.145.202.4
+last-account-name: ZrroD
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

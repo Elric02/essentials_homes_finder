@@ -1,0 +1,63 @@
+timestamps:
+  login: 1493145585982
+  lastteleport: 1493145691571
+  logout: 1493146230361
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4912.925000011921
+  y: 72.0
+  z: -586.5602890535924
+  yaw: -111.22201538085938
+  pitch: 26.345359802246094
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -5569.699999988079
+    y: 93.0
+    z: 440.30000001192093
+    yaw: 116.61865234375
+    pitch: 56.090370178222656
+    world-name: ''
+  ressources:
+    world: Ressources
+    x: 1041.491141369275
+    y: 22.0
+    z: -211.30000001192093
+    yaw: 301.532470703125
+    pitch: 24.5999698638916
+    world-name: ''
+  champi:
+    world: world
+    x: -5543.64306235462
+    y: 139.0
+    z: 425.8237291868254
+    yaw: -266.8941650390625
+    pitch: 27.25147819519043
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5242.5802816683745
+  y: 150.875
+  z: -477.92496509022374
+  yaw: -70.2802734375
+  pitch: 25.01138687133789
+  world-name: ''
+afk: false
+ip-address: 78.234.188.68
+last-account-name: mimi68130
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

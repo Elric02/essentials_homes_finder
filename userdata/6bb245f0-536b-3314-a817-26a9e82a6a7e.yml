@@ -1,0 +1,38 @@
+timestamps:
+  login: 1555103799212
+  logout: 1555108637621
+  lastteleport: 1555108339024
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3233.58531918175
+  y: 63.0
+  z: -5646.070053930703
+  yaw: 41.4898567199707
+  pitch: 8.382821083068848
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2749.9638056985937
+  y: 63.0
+  z: -373.38473386187377
+  yaw: -27.7467041015625
+  pitch: 21.392677307128906
+  world-name: ''
+money: '0'
+ip-address: 90.119.78.6
+last-account-name: Ananouss
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

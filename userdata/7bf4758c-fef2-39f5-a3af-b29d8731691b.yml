@@ -1,0 +1,38 @@
+timestamps:
+  login: 1589987114746
+  lastteleport: 1589634165984
+  logout: 1589987143914
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.01191338677813
+  y: 64.0
+  z: 14.660330195369768
+  yaw: 270.09661865234375
+  pitch: 27.64945411682129
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 465.8486854664971
+  y: 62.0
+  z: 4952.431013110138
+  yaw: 55.143131256103516
+  pitch: 8.051203727722168
+  world-name: ''
+ip-address: 213.44.245.236
+last-account-name: STEEVE_FLAMME
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1529533562725
+  lastteleport: 1529533931077
+  logout: 1529534388539
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.02530119914624
+  y: 27.0
+  z: 20.47574546602208
+  yaw: -118.43556213378906
+  pitch: 90.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -170.55411163622173
+  y: 60.190148407361335
+  z: 350.62715598733087
+  yaw: -6.778228759765625
+  pitch: 43.83705520629883
+  world-name: ''
+ip-address: 174.92.37.120
+last-account-name: Guigui_LG
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

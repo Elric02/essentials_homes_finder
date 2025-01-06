@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485362901209
+  logout: 1485362931534
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 159.09376079180532
+  y: 64.0
+  z: 14.981548545855514
+  yaw: -79.54751586914062
+  pitch: 4.747403621673584
+  world-name: ''
+ip-address: 90.110.18.77
+last-account-name: AlexBigShow
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

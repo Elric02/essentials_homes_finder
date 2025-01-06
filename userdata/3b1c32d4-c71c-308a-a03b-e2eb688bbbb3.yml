@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471981615341
+  lastteleport: 1471981699451
+  logout: 1471981855154
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.43393581357154
+  y: 63.0
+  z: 49.831256207927034
+  yaw: -268.847412109375
+  pitch: -0.20259714126586914
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 125.69999998807904
+  y: 68.0
+  z: 413.7984871549169
+  yaw: 106.27501678466797
+  pitch: 16.350006103515625
+  world-name: ''
+ip-address: 82.236.106.116
+last-account-name: jackson
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

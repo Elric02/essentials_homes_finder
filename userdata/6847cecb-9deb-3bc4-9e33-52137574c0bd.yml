@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477003173692
+  lastteleport: 1477003485665
+  logout: 1477003800255
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -160.24175116190153
+  y: 47.0
+  z: 537.1841568153428
+  yaw: 271.751708984375
+  pitch: 2.298380136489868
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 189.28628653653774
+  y: 83.0
+  z: -109.24286072523407
+  yaw: -277.3589782714844
+  pitch: 63.13731384277344
+  world-name: ''
+ip-address: 90.107.185.112
+last-account-name: epsilonesave
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

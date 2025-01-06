@@ -1,0 +1,63 @@
+timestamps:
+  login: 1496943273061
+  lastteleport: 1496947567359
+  logout: 1496947766517
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5394.183243568965
+  y: 64.0
+  z: -1252.0903733636426
+  yaw: -180.44940185546875
+  pitch: 35.09996795654297
+  world-name: ''
+homes:
+  v1:
+    world: world
+    x: 5383.9229466595325
+    y: 65.0
+    z: -1280.7753226215318
+    yaw: 184.95069885253906
+    pitch: 12.749970436096191
+    world-name: ''
+  m:
+    world: Ressource
+    x: 75.64713908219424
+    y: 64.0
+    z: 53.30000001192093
+    yaw: 69.71436309814453
+    pitch: 55.049991607666016
+    world-name: ''
+  fm:
+    world: world
+    x: 5420.857258580391
+    y: 68.0
+    z: -1301.949167238444
+    yaw: 88.0995101928711
+    pitch: 12.30003547668457
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5401.095929040286
+  y: 62.0
+  z: -1316.1264835612026
+  yaw: -128.2006378173828
+  pitch: 0.6000539064407349
+  world-name: ''
+money: '0'
+ip-address: 78.223.122.79
+last-account-name: moterf
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

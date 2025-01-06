@@ -1,0 +1,47 @@
+timestamps:
+  login: 1467129100164
+  lastteleport: 1467133178795
+  logout: 1467133380270
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.45594559567587
+  y: 64.0625
+  z: 19.433668642457526
+  yaw: -173.99716186523438
+  pitch: -3.675818920135498
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -1038.185708273882
+    y: 87.0
+    z: 976.7978725238219
+    yaw: 181.44664001464844
+    pitch: 19.649980545043945
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1035.2580955736123
+  y: 91.0
+  z: 970.9901095952682
+  yaw: 205.44692993164062
+  pitch: 31.949951171875
+  world-name: ''
+afk: false
+ip-address: 90.127.214.59
+last-account-name: Alpha_Axeodus
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

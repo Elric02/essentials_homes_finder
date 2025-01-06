@@ -1,0 +1,91 @@
+timestamps:
+  login: 1642688986623
+  lastteleport: 1642691133577
+  logout: 1642691192931
+  kits:
+    color: 1588792611279
+    vip: 1588979623112
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: db53b0bc-e109-4366-b93b-66666d9c9185
+  x: 606.8182646830297
+  y: 14.0
+  z: -274.69999998807907
+  yaw: 129.99423217773438
+  pitch: 29.399919509887695
+  world-name: Ressource
+money: '0'
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6811.899893991202
+    y: 63.0
+    z: 3779.1245353427594
+    yaw: 268.79925537109375
+    pitch: 23.099933624267578
+    world-name: world
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4765.974957532636
+    y: 81.0
+    z: -494.7664119216844
+    yaw: 43.567901611328125
+    pitch: 36.9000129699707
+    world-name: world
+  stvalentin:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5393.300000011921
+    y: 69.0
+    z: 4047.893580844744
+    yaw: 91.3492431640625
+    pitch: 12.899996757507324
+    world-name: world
+  msvip:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6972.035849916737
+    y: 62.0
+    z: -4144.393539330203
+    yaw: -106.17523193359375
+    pitch: 28.305139541625977
+    world-name: world
+  troll:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -70.33212956831488
+    y: 63.0
+    z: -299.7418672002175
+    yaw: 196.09556579589844
+    pitch: 29.849998474121094
+    world-name: world
+  desert:
+    world: db53b0bc-e109-4366-b93b-66666d9c9185
+    x: -2106.4376519488396
+    y: 69.0
+    z: -376.3918732934418
+    yaw: -141.74520874023438
+    pitch: 23.10008430480957
+    world-name: Ressource
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 184.96191642112638
+  y: 64.0
+  z: -20.57695306851232
+  yaw: -97.97122192382812
+  pitch: 19.67864418029785
+  world-name: world
+afk: false
+nickname: §eR5_WartZZ
+muted: false
+jailed: false
+ip-address: 84.5.26.52
+last-account-name: R5_KaKoueZZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

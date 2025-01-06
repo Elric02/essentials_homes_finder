@@ -1,0 +1,63 @@
+timestamps:
+  login: 1488137537457
+  lastteleport: 1488138375489
+  logout: 1488138899371
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 17.30000001192093
+  y: 24.0
+  z: 238.1197094795183
+  yaw: -323.953857421875
+  pitch: 21.695405960083008
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2913.718297852391
+  y: 63.0
+  z: -4294.880223306201
+  yaw: 29.08300018310547
+  pitch: 29.013614654541016
+  world-name: ''
+money: '0'
+homes:
+  zombie:
+    world: Ressource
+    x: 21.535064398119957
+    y: 24.0
+    z: 239.37289856887213
+    yaw: -270.2546691894531
+    pitch: 0.8455632925033569
+    world-name: ''
+  base:
+    world: world
+    x: 2914.6587788510465
+    y: 66.0
+    z: -4275.072832129518
+    yaw: -2.7171630859375
+    pitch: 37.713584899902344
+    world-name: ''
+  blaze:
+    world: world_nether
+    x: -5446.493110489691
+    y: 55.477870324506455
+    z: 6042.342668168687
+    yaw: 269.514892578125
+    pitch: 18.450199127197266
+    world-name: ''
+afk: false
+ip-address: 81.254.9.118
+last-account-name: aheX_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

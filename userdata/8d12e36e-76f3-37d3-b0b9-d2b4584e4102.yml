@@ -1,0 +1,63 @@
+timestamps:
+  login: 1671934007565
+  logout: 1671934063452
+  lastteleport: 1671934041825
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 149.30000001192093
+  y: 63.0
+  z: -1.1677893219673383
+  yaw: 96.57003784179688
+  pitch: 3.2501347064971924
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 7868.582695894781
+  y: 82.0
+  z: 7867.803670570112
+  yaw: 146.25823974609375
+  pitch: 25.84282112121582
+  world-name: world
+money: '866.75'
+homes:
+  r:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    x: -451.36398649483397
+    y: 73.0
+    z: 1712.0632189828486
+    yaw: 107.2494125366211
+    pitch: 8.400146484375
+    world-name: Ressource
+  h:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 7867.5180312421635
+    y: 82.0
+    z: 7868.494618995219
+    yaw: -36.451656341552734
+    pitch: 23.39280128479004
+    world-name: world
+  t:
+    world: bd63a69b-f162-438e-8437-fbdb5ea04361
+    x: 792.6999999880791
+    y: 51.0
+    z: -964.3000000119209
+    yaw: 167.702880859375
+    pitch: 8.40000057220459
+    world-name: Ressource
+afk: false
+ip-address: 109.220.178.204
+last-account-name: LeGuerissologue
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

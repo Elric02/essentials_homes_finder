@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478463830397
+  lastteleport: 1478464257311
+  logout: 1478464966249
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.88456678229056
+  y: 63.0
+  z: 40.82032646349751
+  yaw: -352.84619140625
+  pitch: -3.652570962905884
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: 2676.7721123620568
+  y: 113.0
+  z: -3274.6957918507946
+  yaw: -70.6497802734375
+  pitch: 53.09983825683594
+  world-name: ''
+ip-address: 92.145.112.205
+last-account-name: ptdr363
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

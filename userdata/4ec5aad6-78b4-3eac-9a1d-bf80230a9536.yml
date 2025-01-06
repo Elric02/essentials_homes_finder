@@ -1,0 +1,38 @@
+timestamps:
+  login: 1494781722732
+  lastteleport: 1494781791053
+  logout: 1494781801248
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 181.10185041365418
+  y: 65.0
+  z: -37.57882129612213
+  yaw: -264.0474853515625
+  pitch: -9.95261001586914
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.45077082742782
+  y: 63.0
+  z: 37.56872800657224
+  yaw: 174.5390625
+  pitch: 3.0245168209075928
+  world-name: ''
+ip-address: 78.113.189.172
+last-account-name: FloFlodu28
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

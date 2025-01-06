@@ -1,0 +1,63 @@
+timestamps:
+  login: 1562338200435
+  logout: 1562338315676
+  lastteleport: 1562338259792
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3009.41182177807
+  y: 71.0
+  z: -973.9979582806992
+  yaw: 145.16961669921875
+  pitch: 2.361151933670044
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -6199.128389300476
+  y: 64.0
+  z: -5624.29662959365
+  yaw: -271.49163818359375
+  pitch: 0.5547305941581726
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 3008.5
+    y: 64.0
+    z: -997.5
+    yaw: -57.20172119140625
+    pitch: 40.907012939453125
+    world-name: ''
+  imeuble:
+    world: world
+    x: -6194.297841415362
+    y: 64.0
+    z: -5624.666559043763
+    yaw: -259.9427795410156
+    pitch: 25.604740142822266
+    world-name: ''
+  sulivan:
+    world: world
+    x: 2972.973450768972
+    y: 92.0
+    z: -1025.2975080867577
+    yaw: -61.218994140625
+    pitch: 25.011005401611328
+    world-name: ''
+afk: false
+money: '0'
+ip-address: 86.244.184.84
+last-account-name: susu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

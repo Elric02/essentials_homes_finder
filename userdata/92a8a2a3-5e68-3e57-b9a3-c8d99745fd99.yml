@@ -1,0 +1,55 @@
+timestamps:
+  login: 1484930509944
+  lastteleport: 1484931358105
+  logout: 1484931862038
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.01124040613425
+  y: 27.5
+  z: 23.65886937479567
+  yaw: -340.12786865234375
+  pitch: 19.041603088378906
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -584.6833717919953
+  y: 66.0
+  z: 264.2304275089421
+  yaw: -337.6474609375
+  pitch: 27.600032806396484
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: -417.53688088652746
+    y: 68.0
+    z: -925.2243052630256
+    yaw: -46.2568359375
+    pitch: 3.4499988555908203
+    world-name: ''
+  mort:
+    world: world
+    x: -607.396852524859
+    y: 64.0
+    z: 465.2145238443569
+    yaw: -65.847900390625
+    pitch: 28.799945831298828
+    world-name: ''
+money: '0'
+ip-address: 89.158.73.115
+last-account-name: CowMan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

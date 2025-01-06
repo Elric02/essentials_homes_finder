@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478991643221
+  lastteleport: 1478991994450
+  logout: 1478992226003
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.4271688690353
+  y: 63.0
+  z: 48.87966094247032
+  yaw: 91.43917846679688
+  pitch: -15.725493431091309
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: 126.40591840282217
+  y: 69.0
+  z: 679.3849763048821
+  yaw: -75.74966430664062
+  pitch: 17.2499942779541
+  world-name: ''
+ip-address: 176.148.29.120
+last-account-name: Jhomes
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

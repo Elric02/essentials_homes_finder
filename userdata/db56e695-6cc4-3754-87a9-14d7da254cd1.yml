@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618145393221
+  lastteleport: 1618145597282
+  logout: 1618145728481
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -329.8144438973157
+  y: 64.0
+  z: 115.98960777505594
+  yaw: 132.572265625
+  pitch: 10.475507736206055
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 210.8923898592652
+  y: 65.0
+  z: -5409.412135114839
+  yaw: -105.24285888671875
+  pitch: 8.076358795166016
+  world-name: ''
+ip-address: 178.51.224.19
+last-account-name: turle085
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

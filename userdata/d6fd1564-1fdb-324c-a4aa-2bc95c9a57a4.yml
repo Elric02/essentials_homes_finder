@@ -1,0 +1,55 @@
+timestamps:
+  login: 1530378723730
+  lastteleport: 1530378122429
+  logout: 1530379069435
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3539.558706540954
+  y: 63.0
+  z: 3971.5743529898014
+  yaw: -159.16453552246094
+  pitch: -10.76160717010498
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -3540.160903744506
+    y: 63.0
+    z: 3971.9953079746574
+    yaw: -59.519775390625
+    pitch: 73.41119384765625
+    world-name: ''
+  merlin:
+    world: world
+    x: 65.17513663046745
+    y: 94.0
+    z: 57.585577006261964
+    yaw: -0.7416491508483887
+    pitch: 7.4826340675354
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 72.69999998807907
+  y: 64.0
+  z: -4.508107392397311
+  yaw: 68.0228271484375
+  pitch: 36.5664176940918
+  world-name: ''
+ip-address: 193.250.154.153
+last-account-name: maltorm
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

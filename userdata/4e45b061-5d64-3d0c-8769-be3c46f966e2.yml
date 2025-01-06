@@ -1,0 +1,55 @@
+timestamps:
+  login: 1474461533477
+  lastteleport: 1474463211867
+  logout: 1474464027787
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5130.752458038945
+  y: 63.0
+  z: 3433.600376865385
+  yaw: -317.09893798828125
+  pitch: 26.099992752075195
+  world-name: ''
+money: '0'
+homes:
+  cochon:
+    world: world
+    x: 5115.162939386776
+    y: 64.0
+    z: 3427.212177878517
+    yaw: -16.949249267578125
+    pitch: 23.099994659423828
+    world-name: ''
+  wood:
+    world: world
+    x: -1672.571567233068
+    y: 64.0
+    z: -4728.94923581887
+    yaw: -70.64991760253906
+    pitch: -5.85001802444458
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -1670.901409311967
+  y: 64.0
+  z: -4722.2906322605995
+  yaw: -171.146240234375
+  pitch: 27.749927520751953
+  world-name: ''
+ip-address: 90.38.119.216
+last-account-name: ghostleader
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

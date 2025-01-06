@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.53.51.254
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734885876848
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734885944240
+  login: 1734885771796
+money: '0'
+last-account-name: Hallawagba
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.29648392434467
+  y: 81.0
+  z: -3110.1848404325206
+  yaw: -103.79782104492188
+  pitch: 13.649934768676758
+logoutlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 136.16291953600262
+  y: 83.0
+  z: -105.37246610892294
+  yaw: -10.350341796875
+  pitch: -14.099987030029297

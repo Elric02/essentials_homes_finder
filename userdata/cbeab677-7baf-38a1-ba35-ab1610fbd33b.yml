@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.169.80.19
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1726918446915
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726918945012
+  login: 1726918351294
+money: '0'
+last-account-name: lapoutre
+lastlocation:
+  world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+  world-name: Ressource
+  x: -2.5053118847934943
+  y: 89.5
+  z: -1.8005589398050006
+  yaw: 55.49700927734375
+  pitch: -15.564064025878906
+logoutlocation:
+  world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+  world-name: Ressource
+  x: -1245.9114851597556
+  y: 62.149296736723734
+  z: 635.5386420782182
+  yaw: 32.536869049072266
+  pitch: 0.6849807500839233

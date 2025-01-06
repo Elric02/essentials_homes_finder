@@ -1,0 +1,47 @@
+timestamps:
+  login: 1491659869040
+  lastteleport: 1491654762784
+  logout: 1491660038577
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1347.540257597154
+  y: 64.0
+  z: 846.0423659160446
+  yaw: -308.7458801269531
+  pitch: 19.94965171813965
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1352.1803935014668
+  y: 85.0
+  z: 854.9203549210189
+  yaw: -309.80035400390625
+  pitch: 23.952407836914062
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -1349.300000011921
+    y: 85.0
+    z: 857.7957048701712
+    yaw: -216.67950439453125
+    pitch: 0.9359781742095947
+    world-name: ''
+afk: false
+ip-address: 90.89.237.27
+last-account-name: Yoshicrafteur5
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

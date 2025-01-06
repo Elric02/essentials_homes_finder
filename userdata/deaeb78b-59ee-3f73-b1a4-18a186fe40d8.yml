@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.42.114.127
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671997596092
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671998294200
+  login: 1671997176868
+money: '0'
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -416.66018602754815
+  y: 65.0
+  z: 18.311685158616545
+  yaw: -80.25042724609375
+  pitch: 11.399993896484375
+last-account-name: LaGui54150
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -398.49553249801005
+  y: 65.0
+  z: 35.553174015068464
+  yaw: 129.1505126953125
+  pitch: -75.45027923583984

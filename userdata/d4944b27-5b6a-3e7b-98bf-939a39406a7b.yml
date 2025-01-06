@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481398859022
+  logout: 1481398866539
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.6313917033671
+  y: 80.86813575688083
+  z: 46.94063631056522
+  yaw: -217.89080810546875
+  pitch: 90.0
+  world-name: ''
+ip-address: 176.182.233.111
+last-account-name: Goldor54
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

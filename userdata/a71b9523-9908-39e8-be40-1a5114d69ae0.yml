@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500604283696
+  lastteleport: 1500099192209
+  logout: 1500606462328
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.0859899618121
+  y: 66.0
+  z: -4.977774892554902
+  yaw: -175.69781494140625
+  pitch: 6.449933052062988
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3381.300000011921
+  y: 73.0
+  z: -5420.699999988079
+  yaw: 274.50048828125
+  pitch: 27.300067901611328
+  world-name: ''
+money: '0'
+ip-address: 99.192.124.216
+last-account-name: BluePandaDiamond
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

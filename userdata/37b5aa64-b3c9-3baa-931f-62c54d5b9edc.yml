@@ -1,0 +1,38 @@
+timestamps:
+  login: 1553970727934
+  logout: 1553971676850
+  lastteleport: 1553971094479
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 135.42909812244397
+  y: 63.0
+  z: -22.668113973497633
+  yaw: -342.720703125
+  pitch: 31.78543472290039
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1173.286268160612
+  y: 69.0
+  z: -2288.300000011921
+  yaw: 75.44821166992188
+  pitch: 18.79336166381836
+  world-name: ''
+ip-address: 176.164.107.191
+last-account-name: DRAGO007
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

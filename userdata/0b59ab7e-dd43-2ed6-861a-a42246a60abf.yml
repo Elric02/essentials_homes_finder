@@ -1,0 +1,223 @@
+timestamps:
+  login: 1660306635510
+  logout: 1660314974181
+  lastteleport: 1660314139262
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+afk: false
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: -3831.6820719197167
+  y: 42.0
+  z: 1614.5220604918336
+  yaw: 17.51904296875
+  pitch: 23.699996948242188
+  world-name: Althium
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: -3841.9683984314966
+  y: 42.0
+  z: 1608.1214092349983
+  yaw: 106.69384765625
+  pitch: 13.199844360351562
+  world-name: Althium
+homes:
+  survie:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    x: -3859.6984934242523
+    y: 78.0
+    z: 1628.0397965081027
+    yaw: 110.55279541015625
+    pitch: 30.299949645996094
+    world-name: Althium
+  bichon:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 601.427410623841
+    y: 64.0
+    z: 758.3154824360406
+    yaw: 357.462646484375
+    pitch: 1.1999738216400146
+    world-name: world
+  villesteam:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -509.3874845359208
+    y: 68.0
+    z: -2303.4198968180303
+    yaw: 1.738476037979126
+    pitch: 90.0
+    world-name: world
+  maisonfjord:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5921.476339184632
+    y: 64.0
+    z: 3906.300000011921
+    yaw: -177.6067352294922
+    pitch: 17.699604034423828
+    world-name: world
+  noracli:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 4908.361022816809
+    y: 68.0
+    z: -6848.739596393751
+    yaw: 119.21061706542969
+    pitch: 30.320138931274414
+    world-name: world
+  epave_faille:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5745.787945395363
+    y: 66.0
+    z: 3702.5153496644025
+    yaw: -9.673828125
+    pitch: 26.84929084777832
+    world-name: world
+  iles:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 2801.604275813085
+    y: 63.0
+    z: 260.47744266978833
+    yaw: 331.9012451171875
+    pitch: 0.600167453289032
+    world-name: world
+  testmontagne:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6281.259506769388
+    y: 136.7404151241403
+    z: 6552.966251154268
+    yaw: 88.05615997314453
+    pitch: 29.249849319458008
+  steam:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -509.9100391771562
+    y: 96.97265485106101
+    z: -2251.2948284037025
+    yaw: -194.0121307373047
+    pitch: 31.34998893737793
+  viking:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6511.569946261491
+    y: 67.0
+    z: -2451.447023170913
+    yaw: 6.440334320068359
+    pitch: -17.099958419799805
+  maisonmontagne:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2309.178336039294
+    y: 83.0
+    z: -1175.3196991513848
+    yaw: -186.15921020507812
+    pitch: 10.199807167053223
+  survie2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1159.5314237475718
+    y: 70.0
+    z: -3285.699999988079
+    yaw: -177.005126953125
+    pitch: 0.29969602823257446
+  templemer:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3749.512899096055
+    y: 63.0
+    z: 2234.4828806405385
+    yaw: -127.20494079589844
+    pitch: 11.99951457977295
+  maisondeath:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 399.7811669160432
+    y: 73.0
+    z: 772.2585370034441
+    yaw: 182.3369598388672
+    pitch: 8.699894905090332
+  momo:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -88.27366151442833
+    y: 4.0
+    z: -368.8668616951228
+    yaw: -68.56066131591797
+    pitch: 16.799787521362305
+  survival:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -3872.5265194765057
+    y: 78.0
+    z: 1628.4655546381412
+    yaw: -90.29935455322266
+    pitch: 6.899980545043945
+  AlthiumMaison:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 824.426409330142
+    y: 63.0
+    z: 2243.484101105829
+    yaw: -179.28570556640625
+    pitch: -0.15000255405902863
+  AlthiumMine:
+    world: c4aa0be1-96e4-4d26-b064-d4d2526e9bea
+    world-name: AlthiumRessource
+    x: 2670.300000011921
+    y: 33.0
+    z: 2016.300000011921
+    yaw: -43.84033203125
+    pitch: 42.90003204345703
+  AlthiumSurvie:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -3871.468446937276
+    y: 78.0
+    z: 1628.5125370670662
+    yaw: -87.00112915039062
+    pitch: 1.7999718189239502
+  AlthiumMomo:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 1107.515806856565
+    y: 70.0
+    z: -1585.3053850281642
+    yaw: -105.38058471679688
+    pitch: 90.0
+  maison:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 824.5413445389146
+    y: 63.0
+    z: 2243.659910573185
+    yaw: 179.84634399414062
+    pitch: -0.4500241279602051
+  maisonmomo:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 1098.3760968033093
+    y: 72.0
+    z: -1576.4676889639945
+    yaw: -62.70269775390625
+    pitch: -6.450136661529541
+  mongolfiere:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -3825.479308372516
+    y: 196.0
+    z: 1626.6389778506352
+    yaw: 1.015289306640625
+    pitch: 89.8499984741211
+money: '0'
+socialspy: false
+ip-address: 86.218.50.120
+last-account-name: bryjnolf
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true

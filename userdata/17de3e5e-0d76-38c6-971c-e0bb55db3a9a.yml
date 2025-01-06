@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.166.67.189
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1700312518832
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1700312957426
+  login: 1700311567625
+money: '100.0'
+last-account-name: Schuuvi
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3593.4499142044947
+  y: 40.58364432521049
+  z: 3496.8387947793713
+  yaw: 120.52082824707031
+  pitch: -86.54996490478516
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3544.9907364863966
+  y: 64.0
+  z: 3332.395454194184
+  yaw: 105.816650390625
+  pitch: 6.899633407592773

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1560090308222
+  lastteleport: 1560090541618
+  logout: 1560090558211
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -524.8640425670369
+  y: 45.0
+  z: 564.372625508839
+  yaw: 254.43316650390625
+  pitch: -5.099984645843506
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4202.5
+  y: 70.0
+  z: -6864.5
+  yaw: 348.49224853515625
+  pitch: 34.35011291503906
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4109.404200604458
+    y: 64.0
+    z: -7861.733506091757
+    yaw: 12.1177978515625
+    pitch: 24.9000244140625
+    world-name: ''
+  merde:
+    world: Ressource
+    x: -523.9031733463934
+    y: 11.0
+    z: 579.6999999880791
+    yaw: 279.783203125
+    pitch: 49.200008392333984
+    world-name: ''
+  tour:
+    world: world
+    x: -4202.110118502593
+    y: 70.0
+    z: -6864.586635365414
+    yaw: 348.49224853515625
+    pitch: 34.35011291503906
+    world-name: ''
+afk: false
+ip-address: 90.42.23.166
+last-account-name: Blondy69
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

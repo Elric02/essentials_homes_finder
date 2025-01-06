@@ -1,0 +1,38 @@
+timestamps:
+  login: 1505598829304
+  logout: 1505598843735
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.6878965182035
+  y: 64.0
+  z: 15.84998599381874
+  yaw: -79.84733581542969
+  pitch: 30.39739418029785
+  world-name: ''
+ip-address: 82.67.195.156
+last-account-name: SydneyZer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

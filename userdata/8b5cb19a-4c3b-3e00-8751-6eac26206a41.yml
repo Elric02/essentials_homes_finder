@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.201.43.34
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668631796140
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668631850969
+  login: 1668631253051
+money: '0'
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -140.30000001192093
+  y: 85.0
+  z: -401.39199892239725
+  yaw: 38.12274169921875
+  pitch: 17.699506759643555
+last-account-name: DovaResin
+logoutlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -12.849656014876757
+  y: 60.27856537081421
+  z: -173.63325728337819
+  yaw: 179.40069580078125
+  pitch: 27.485876083374023

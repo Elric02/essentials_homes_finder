@@ -1,0 +1,74 @@
+timestamps:
+  login: 1522011196818
+  lastteleport: 1522012777531
+  logout: 1522013384424
+  mute: 0
+  jail: 0
+  kits:
+    vip: 1480871475572
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 10464.711798909384
+  y: 69.03887154617321
+  z: 9912.26665276751
+  yaw: -222.31710815429688
+  pitch: 61.670501708984375
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -3280.0450284657877
+    y: 68.0
+    z: -1225.0053214687955
+    yaw: 89.20401763916016
+    pitch: 38.347450256347656
+    world-name: ''
+  mending:
+    world: ressource
+    x: -2464.067861997992
+    y: 66.0
+    z: -3504.0606702205537
+    yaw: 204.659912109375
+    pitch: 32.594451904296875
+    world-name: ''
+  ville:
+    world: world
+    x: -790.5855738101297
+    y: 81.5
+    z: 6797.438418281066
+    yaw: -88.81748962402344
+    pitch: 14.310408592224121
+    world-name: ''
+  village:
+    world: ressource
+    x: 3749.7542447341316
+    y: 66.0
+    z: 3656.8078705173575
+    yaw: 95.40061950683594
+    pitch: 11.29226303100586
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -6241.225913348998
+  y: 64.0
+  z: 5927.4564667946415
+  yaw: 252.81005859375
+  pitch: -2.723048448562622
+  world-name: ''
+money: '0'
+afk: false
+muted: false
+jailed: false
+nickname: §8FinCiel272
+ip-address: 82.64.25.38
+last-account-name: EnderSky272
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1473533520478
+  logout: 1473533818270
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 160.31056356132635
+  y: 64.0
+  z: 9.609425011265737
+  yaw: 143.9390869140625
+  pitch: 27.92449188232422
+  world-name: ''
+ip-address: 88.184.64.26
+last-account-name: ZorArK
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

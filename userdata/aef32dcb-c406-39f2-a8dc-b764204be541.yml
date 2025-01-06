@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511207188111
+  logout: 1511208113495
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 5440.48687428714
+  y: 45.0
+  z: 4162.813841519465
+  yaw: 312.885009765625
+  pitch: 2.3998923301696777
+  world-name: ''
+ip-address: 77.136.19.49
+last-account-name: phiskogaming
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

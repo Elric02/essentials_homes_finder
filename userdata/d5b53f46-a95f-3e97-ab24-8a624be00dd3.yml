@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477687165470
+  logout: 1477687683048
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 148.40562848604506
+  y: 64.0
+  z: 21.71418759139009
+  yaw: -65.59732055664062
+  pitch: 6.097433567047119
+  world-name: ''
+ip-address: 88.219.218.209
+last-account-name: Electro_Hydra
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

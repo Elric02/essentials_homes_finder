@@ -1,0 +1,63 @@
+timestamps:
+  login: 1465731733401
+  logout: 1465731948597
+  lastteleport: 1465146743203
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 1283.300000011921
+  y: 9.0
+  z: 3503.325470050936
+  yaw: -352.674072265625
+  pitch: 17.127012252807617
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -979.289471584374
+  y: 65.0
+  z: -362.79622486111265
+  yaw: 255.99557495117188
+  pitch: 43.1706428527832
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -975.8902770099177
+    y: 59.5625
+    z: -362.657329608837
+    yaw: 114.08750915527344
+    pitch: 28.91402816772461
+    world-name: ''
+  mine:
+    world: ressource
+    x: 1283.300000011921
+    y: 9.0
+    z: 3503.325470050936
+    yaw: -352.674072265625
+    pitch: 17.127012252807617
+    world-name: ''
+  spawner:
+    world: ressource
+    x: 1161.9098445496372
+    y: 21.0
+    z: 434.2361674414982
+    yaw: -113.0313491821289
+    pitch: 9.44682788848877
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 90.43.216.125
+last-account-name: NTX_jiji
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

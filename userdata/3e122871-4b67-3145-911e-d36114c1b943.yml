@@ -1,0 +1,38 @@
+timestamps:
+  login: 1623521272534
+  lastteleport: 1623521586279
+  logout: 1623521700924
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.2753313469207
+  y: 64.0
+  z: 22.321849874847317
+  yaw: -16.89530372619629
+  pitch: 11.675880432128906
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 45.69714087340264
+  y: 62.0
+  z: -5.754524938696629
+  yaw: -109.65290069580078
+  pitch: 12.935896873474121
+  world-name: ''
+ip-address: 90.109.228.251
+last-account-name: Gotaga2006
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

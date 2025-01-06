@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468855000763
+  logout: 1468855490702
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 143.1593780684362
+  y: 63.0
+  z: 8.037643424990797
+  yaw: -222.2972869873047
+  pitch: 18.52418327331543
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1241.2466337461906
+  y: 80.0
+  z: -1862.8434053557446
+  yaw: -346.799560546875
+  pitch: 47.40005874633789
+  world-name: ''
+ip-address: 174.92.228.90
+last-account-name: MinecraftSam636
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

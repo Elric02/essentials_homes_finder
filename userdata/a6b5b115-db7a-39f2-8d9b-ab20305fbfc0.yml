@@ -1,0 +1,38 @@
+timestamps:
+  login: 1491664245173
+  logout: 1491664499113
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 157.46102132976603
+  y: 64.0
+  z: 25.48710217816571
+  yaw: -322.430908203125
+  pitch: 4.4342041015625
+  world-name: ''
+ip-address: 92.153.160.124
+last-account-name: ShEnKaii
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

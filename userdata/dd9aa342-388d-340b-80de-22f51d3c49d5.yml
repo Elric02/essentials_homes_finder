@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.216.141.53
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667751929117
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667752249724
+  login: 1667751885753
+money: '0'
+last-account-name: Charly420
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 397.32808483144066
+  y: 81.0
+  z: -3109.107607465875
+  yaw: 165.60174560546875
+  pitch: 14.399959564208984
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 290.9232443569776
+  y: 67.75178390334713
+  z: 285.52108811756506
+  yaw: 97.9527587890625
+  pitch: 9.751157760620117

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471812944607
+  logout: 1471813110657
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 180.15090641467165
+  y: 69.0
+  z: 471.6468887435103
+  yaw: 287.05438232421875
+  pitch: 22.78586769104004
+  world-name: ''
+ip-address: 90.109.109.148
+last-account-name: Jori51400
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

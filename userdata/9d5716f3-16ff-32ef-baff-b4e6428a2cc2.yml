@@ -1,0 +1,63 @@
+timestamps:
+  login: 1545492577969
+  lastteleport: 1545510408392
+  logout: 1545511617757
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 608.1586366586072
+  y: 97.5
+  z: -210.56318141065768
+  yaw: -164.26730346679688
+  pitch: 15.564899444580078
+  world-name: ''
+money: '0'
+homes:
+  falaise:
+    world: world
+    x: 610.4649631935824
+    y: 135.0
+    z: -191.22902123571134
+    yaw: 199.44154357910156
+    pitch: 83.08731842041016
+    world-name: ''
+  animeaux:
+    world: world
+    x: 619.3161827929775
+    y: 87.0
+    z: -210.43627803846644
+    yaw: -32.5665283203125
+    pitch: 58.437015533447266
+    world-name: ''
+  wtf:
+    world: world
+    x: 644.8359825367678
+    y: 124.0
+    z: -158.75907977304956
+    yaw: -100.94873046875
+    pitch: 67.07318115234375
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 610.4558966563155
+  y: 135.0
+  z: -191.91453935156449
+  yaw: 114.62259674072266
+  pitch: 60.3661003112793
+  world-name: ''
+ip-address: 176.191.86.31
+last-account-name: Holoserica
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

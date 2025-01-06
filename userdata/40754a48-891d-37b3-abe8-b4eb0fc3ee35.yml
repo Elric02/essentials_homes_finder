@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468598180698
+  logout: 1468598736112
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 202.03404070730332
+  y: 63.0
+  z: -38.61280208802967
+  yaw: 29.897993087768555
+  pitch: 13.294897079467773
+  world-name: ''
+ip-address: 109.218.68.35
+last-account-name: stphanie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

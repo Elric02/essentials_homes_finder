@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615470678139
+  lastteleport: 1615472049841
+  logout: 1615472443243
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 111.44900544304386
+  y: 63.0
+  z: 41.730831245685934
+  yaw: 102.20389556884766
+  pitch: 14.975909233093262
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1375.6835027324043
+  y: 63.0
+  z: -2087.8862980728118
+  yaw: 31.42510986328125
+  pitch: 31.48581314086914
+  world-name: ''
+ip-address: 176.139.147.151
+last-account-name: Tchouwi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

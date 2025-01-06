@@ -1,0 +1,38 @@
+timestamps:
+  login: 1628525101554
+  lastteleport: 1628525354762
+  logout: 1628525638912
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.74093226317368
+  y: 63.5
+  z: 66.13058549164765
+  yaw: 193.29629516601562
+  pitch: 6.540656089782715
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4874.300000011921
+  y: 80.0
+  z: -540.6952915187917
+  yaw: -297.15478515625
+  pitch: 27.74977684020996
+  world-name: ''
+ip-address: 176.184.46.199
+last-account-name: gael_2006
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

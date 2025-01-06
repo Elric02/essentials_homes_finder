@@ -1,0 +1,47 @@
+timestamps:
+  login: 1536009715482
+  logout: 1536009719932
+  lastteleport: 1535840172620
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -212.50352549127274
+  y: 67.0
+  z: 252.02336149163074
+  yaw: 120.75509643554688
+  pitch: 19.32484245300293
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.52804565429688
+  pitch: 32.63859176635742
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -138.33732715722186
+    y: 63.0
+    z: 180.27878607359798
+    yaw: -5.1377716064453125
+    pitch: 69.92982482910156
+    world-name: ''
+ip-address: 109.20.172.15
+last-account-name: bidixYT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

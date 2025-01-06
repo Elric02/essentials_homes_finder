@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614441847407
+  lastteleport: 1614442123919
+  logout: 1614443700100
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 445.34407059829203
+  y: 68.00133597911214
+  z: -1.2573263762287907
+  yaw: 120.047607421875
+  pitch: 7.350669860839844
+  world-name: ''
+ip-address: 79.86.41.114
+last-account-name: Oz_isoka
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

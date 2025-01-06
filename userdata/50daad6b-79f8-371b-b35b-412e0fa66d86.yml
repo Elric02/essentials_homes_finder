@@ -1,0 +1,63 @@
+timestamps:
+  login: 1735293736272
+  logout: 1735300620820
+  lastteleport: 1735300590958
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: 3036.872306264977
+  y: 111.40339384473006
+  z: -2304.1963736935936
+  yaw: -92.39610290527344
+  pitch: 3.2431530952453613
+  world-name: Althium
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 518.1070461410037
+  y: 253.5
+  z: 3576.002630228163
+  yaw: 48.599952697753906
+  pitch: 19.632732391357422
+  world-name: world
+money: '0.0'
+homes:
+  ferme:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 513.2375000119209
+    y: 182.0
+    z: 3587.094772688639
+    yaw: -112.748779296875
+    pitch: 19.950498580932617
+    world-name: world
+  coffres:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5413.072754305807
+    y: 43.0
+    z: 5173.58321104722
+    yaw: -176.70281982421875
+    pitch: 6.4501166343688965
+  corail:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 2570.5548871865935
+    y: 51.0
+    z: -2429.699999988079
+    yaw: -178.19992065429688
+    pitch: 42.00004196166992
+afk: false
+ip-address: 92.184.116.58
+last-account-name: mitoyer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

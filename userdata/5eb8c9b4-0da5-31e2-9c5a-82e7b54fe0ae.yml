@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492453642507
+  lastteleport: 1492453926065
+  logout: 1492453946592
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6499.431255369908
+  y: 66.0
+  z: 5693.743600046477
+  yaw: -181.50091552734375
+  pitch: 28.350027084350586
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 184.43931195144333
+  y: 63.7531999805212
+  z: 19.83377769807306
+  yaw: -97.11095428466797
+  pitch: 0.4745156764984131
+  world-name: ''
+ip-address: 88.169.240.195
+last-account-name: panda009
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

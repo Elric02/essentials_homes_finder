@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.90.146.14
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1670281848902
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670282111589
+  login: 1670280141770
+  kits:
+    stationaute: 1670280531242
+money: '150.0'
+lastlocation:
+  world: d097c14e-8288-4547-88dc-d9590a602c7b
+  world-name: Nether
+  x: 1070.085782865311
+  y: 36.0
+  z: -1003.0269632088659
+  yaw: -117.92353820800781
+  pitch: 23.549434661865234
+last-account-name: MiRageBird
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -203.07307202075756
+  y: 86.57919533182049
+  z: 86.78809611081316
+  yaw: -16.4481201171875
+  pitch: 8.700475692749023

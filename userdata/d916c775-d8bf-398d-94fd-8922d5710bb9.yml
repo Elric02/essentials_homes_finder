@@ -1,0 +1,47 @@
+timestamps:
+  login: 1614412676925
+  lastteleport: 1614416166189
+  logout: 1614417138787
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 4173.5408803548935
+  y: 11.0
+  z: 589.4428345218189
+  yaw: -182.8770751953125
+  pitch: 16.64996910095215
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  base:
+    world: world
+    x: -2838.4827422829794
+    y: 63.0
+    z: -1163.8110898776538
+    yaw: -236.6991424560547
+    pitch: 32.54987335205078
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -2844.0886044590775
+  y: 63.0
+  z: -1155.887991373309
+  yaw: 108.9000015258789
+  pitch: 29.100000381469727
+  world-name: ''
+ip-address: 86.196.129.53
+last-account-name: Dracoraptors
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

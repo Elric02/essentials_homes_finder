@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486590787346
+  lastteleport: 1486570147593
+  logout: 1486591959196
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 89.04687375724806
+  y: 63.0
+  z: 38.559027174916764
+  yaw: -132.525390625
+  pitch: 13.918874740600586
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 1615.039943029768
+  y: 68.9375
+  z: -951.6217410213455
+  yaw: -47.02901840209961
+  pitch: 13.33561897277832
+  world-name: ''
+money: '0'
+ip-address: 90.61.47.23
+last-account-name: Erisium_Arkatail
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

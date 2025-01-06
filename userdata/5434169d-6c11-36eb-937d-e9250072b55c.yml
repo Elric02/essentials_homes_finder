@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586956648271
+  lastteleport: 1586956993195
+  logout: 1586957327061
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -594.9641888024848
+  y: 83.5
+  z: -879.5019341653665
+  yaw: -71.70068359375
+  pitch: 19.341354370117188
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1458.5515343471416
+  y: 64.0
+  z: -2167.6241097120264
+  yaw: -8.618321418762207
+  pitch: -8.413856506347656
+  world-name: ''
+ip-address: 93.6.112.97
+last-account-name: Sena_Kobayakawa
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

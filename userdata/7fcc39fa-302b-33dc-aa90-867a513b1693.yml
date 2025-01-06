@@ -1,0 +1,82 @@
+timestamps:
+  login: 1618856725576
+  lastteleport: 1618865764538
+  logout: 1618867043080
+  mute: 0
+  kits:
+    vip: 1564143138732
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6821.035991824623
+  y: 70.0625
+  z: -3849.4045724993584
+  yaw: 270.53399658203125
+  pitch: 17.399860382080078
+  world-name: ''
+homes:
+  steam:
+    world: world
+    x: -4203.264229214804
+    y: 58.0
+    z: -3736.5109653989834
+    yaw: -176.8455810546875
+    pitch: 6.5999674797058105
+    world-name: ''
+  ville:
+    world: world
+    x: -6377.329564451163
+    y: 64.0
+    z: 782.0657942663609
+    yaw: -90.9227066040039
+    pitch: 22.34995460510254
+    world-name: ''
+  vip:
+    world: world
+    x: -6816.884305461072
+    y: 70.0
+    z: -3849.429381261734
+    yaw: -89.76173400878906
+    pitch: 13.94994068145752
+    world-name: ''
+  alnath:
+    world: world
+    x: 1431.2348756989852
+    y: 63.0
+    z: -2098.1024399026874
+    yaw: 111.2276611328125
+    pitch: 13.185981750488281
+    world-name: ''
+  shop:
+    world: world
+    x: -4877.231562823415
+    y: 69.0
+    z: -349.44865055892996
+    yaw: 88.62728881835938
+    pitch: 31.199981689453125
+    world-name: ''
+afk: false
+muted: false
+jailed: false
+nickname: §aLulu§2Stucru
+ip-address: 86.225.39.235
+last-account-name: LucasGaming17
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

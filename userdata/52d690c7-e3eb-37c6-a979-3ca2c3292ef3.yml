@@ -1,0 +1,38 @@
+timestamps:
+  login: 1534853419862
+  lastteleport: 1534853626889
+  logout: 1534854000724
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: 52.50504860423979
+  y: 63.0
+  z: -42.69999998807907
+  yaw: 329.8125
+  pitch: 29.565540313720703
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 2161.392794896734
+  y: 30.0
+  z: 192.69999998807907
+  yaw: 190.4482421875
+  pitch: 32.099853515625
+  world-name: ''
+ip-address: 78.228.244.183
+last-account-name: FrozenCitrons
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

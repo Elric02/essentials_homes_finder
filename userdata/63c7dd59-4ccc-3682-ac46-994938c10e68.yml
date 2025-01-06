@@ -1,0 +1,63 @@
+timestamps:
+  login: 1566815131599
+  logout: 1566816649449
+  lastteleport: 1566816567374
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -852.7486763673999
+  y: 69.0
+  z: -3535.4788007060783
+  yaw: -64.97097778320312
+  pitch: 20.519256591796875
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1012.554862830802
+  y: 80.0
+  z: -3509.8080131951733
+  yaw: -74.57040405273438
+  pitch: 31.319292068481445
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  b:
+    world: world
+    x: -840.0225796552251
+    y: 64.0
+    z: -3616.9161289572494
+    yaw: -102.32217407226562
+    pitch: 20.8500919342041
+    world-name: ''
+  a:
+    world: world
+    x: -1001.3041557569644
+    y: 79.0
+    z: -3502.337021391622
+    yaw: 103.17951965332031
+    pitch: 16.91929054260254
+    world-name: ''
+  c:
+    world: world
+    x: -893.4279872379495
+    y: 79.0
+    z: -3462.428770522223
+    yaw: 143.2288360595703
+    pitch: 14.819326400756836
+    world-name: ''
+ip-address: 78.248.31.109
+last-account-name: Netrox_Dark_Foxy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

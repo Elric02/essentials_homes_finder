@@ -1,0 +1,38 @@
+timestamps:
+  login: 1507913532213
+  lastteleport: 1507913475083
+  logout: 1507913637822
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.19910913009042
+  y: 63.0
+  z: 39.929408723912395
+  yaw: 14.61074161529541
+  pitch: 11.178253173828125
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -300.1980336973557
+  y: 65.5
+  z: 379.80377318598045
+  yaw: -153.31597900390625
+  pitch: 13.180892944335938
+  world-name: ''
+ip-address: 62.212.104.173
+last-account-name: manuk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

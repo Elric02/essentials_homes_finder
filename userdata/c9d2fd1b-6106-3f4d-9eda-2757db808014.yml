@@ -1,0 +1,38 @@
+timestamps:
+  login: 1502991493639
+  logout: 1502991545297
+  lastteleport: 1502991510849
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3566.118005619529
+  y: 67.7531999805212
+  z: -2653.4291103143414
+  yaw: 107.24966430664062
+  pitch: -5.09997034072876
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -68.96812952074141
+  y: 65.0
+  z: -6635.515640427276
+  yaw: -35.69921875
+  pitch: 10.649969100952148
+  world-name: ''
+ip-address: 90.100.182.84
+last-account-name: Emerald_Guy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

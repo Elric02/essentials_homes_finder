@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.148.161.98
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671824329544
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671824479551
+  login: 1671822527688
+money: '2800.0'
+last-account-name: Fofo_unicorn
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 7459.963370587655
+  y: 52.0
+  z: 3717.201944160292
+  yaw: 144.1551513671875
+  pitch: -18.45001983642578
+logoutlocation:
+  world: b7fb2600-9a6b-4455-aa1e-a8df500c3eeb
+  world-name: Donjon
+  x: 2061.952175050082
+  y: 5.0
+  z: 1988.7307618178259
+  yaw: 116.0350341796875
+  pitch: 20.472896575927734
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 7446.769685997331
+    y: 64.0
+    z: 3717.103752550513
+    yaw: -50.693328857421875
+    pitch: 24.899986267089844
+  village:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 565.7100436865331
+    y: 64.42527412219724
+    z: -4328.539500244569
+    yaw: 160.0018768310547
+    pitch: 24.300058364868164

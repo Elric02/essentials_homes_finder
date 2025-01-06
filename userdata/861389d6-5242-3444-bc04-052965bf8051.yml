@@ -1,0 +1,47 @@
+timestamps:
+  login: 1482838069451
+  lastteleport: 1471532467473
+  logout: 1482838170895
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4356.281565798611
+  y: 67.0
+  z: 4945.1731304563145
+  yaw: -95.03361511230469
+  pitch: -7.022103786468506
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 10058.107011943617
+    y: 71.0
+    z: 9999.594527231013
+    yaw: 3.89996337890625
+    pitch: 20.250015258789062
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 10078.260988862714
+  y: 70.0
+  z: 9995.829257043197
+  yaw: -293.89459228515625
+  pitch: 27.74998664855957
+  world-name: ''
+afk: false
+ip-address: 92.139.39.237
+last-account-name: Jojo44
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

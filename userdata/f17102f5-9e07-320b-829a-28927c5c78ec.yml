@@ -1,0 +1,47 @@
+timestamps:
+  login: 1538313436513
+  lastteleport: 1538314479634
+  logout: 1538315329216
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 743.4186541435917
+  y: 114.0
+  z: -4638.317747151446
+  yaw: 6.6708984375
+  pitch: 50.9550666809082
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 761.3487487925871
+    y: 126.0
+    z: -4621.628210832492
+    yaw: 331.0748596191406
+    pitch: 57.150516510009766
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 743.563385767234
+  y: 107.0
+  z: -4633.608225679108
+  yaw: 339.1563720703125
+  pitch: -5.649806499481201
+  world-name: ''
+afk: false
+ip-address: 176.151.119.209
+last-account-name: Asduvolan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

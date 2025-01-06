@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614031954456
+  logout: 1614033429372
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5373.090744250427
+  y: 64.0
+  z: 2180.202669202021
+  yaw: 54.234375
+  pitch: 25.68981170654297
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5456.999413107572
+  y: 82.0
+  z: 1976.84637204286
+  yaw: 83.621337890625
+  pitch: 18.587459564208984
+  world-name: ''
+ip-address: 92.184.107.127
+last-account-name: wannou20
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

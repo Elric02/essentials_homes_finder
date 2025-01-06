@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.192.44.215
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1658567523926
+  login: 1658566933018
+money: '0'
+last-account-name: DarkangeYTB
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.21989720338775
+  y: 81.0
+  z: -3111.419409150137
+  yaw: -74.69781494140625
+  pitch: 26.54993438720703
+logoutlocation:
+  world: bd63a69b-f162-438e-8437-fbdb5ea04361
+  world-name: Ressource
+  x: 17.36068265820485
+  y: 65.0
+  z: 68.25519355519444
+  yaw: -93.65258026123047
+  pitch: 6.256964206695557

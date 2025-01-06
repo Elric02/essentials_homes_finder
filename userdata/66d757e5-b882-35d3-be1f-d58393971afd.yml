@@ -1,0 +1,38 @@
+timestamps:
+  login: 1527791239361
+  lastteleport: 1527791570861
+  logout: 1527791697830
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -1028.7402525134814
+  y: 63.0
+  z: 1878.801805275321
+  yaw: -20.700130462646484
+  pitch: 23.849979400634766
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 1570.7486087829618
+  y: 71.0
+  z: -172.65301853167358
+  yaw: 91.35002136230469
+  pitch: 25.04998779296875
+  world-name: ''
+ip-address: 85.26.0.203
+last-account-name: Huranos
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

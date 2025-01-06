@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558804017774
+  logout: 1558804582412
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 149.04665414181557
+  y: 66.0
+  z: 103.10274474989123
+  yaw: 79.14749145507812
+  pitch: 37.2906494140625
+  world-name: ''
+ip-address: 88.170.255.66
+last-account-name: iZyerax_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

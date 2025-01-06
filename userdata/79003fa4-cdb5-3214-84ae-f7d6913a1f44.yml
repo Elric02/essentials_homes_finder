@@ -1,0 +1,63 @@
+timestamps:
+  login: 1625232166505
+  logout: 1625232702515
+  lastteleport: 1622222016312
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: 1098.113101156051
+  y: 36.0
+  z: -1148.2669998457548
+  yaw: 166.9388427734375
+  pitch: 4.3501152992248535
+  world-name: ''
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -5403.307275789995
+  y: 72.0
+  z: 267.35806715470994
+  yaw: 93.022216796875
+  pitch: -2.1000335216522217
+  world-name: world
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 5539.2452646443435
+    y: 83.0
+    z: -1525.5200100294999
+    yaw: 301.04473876953125
+    pitch: 84.0
+    world-name: ''
+  ile:
+    world: world
+    x: 3531.484153268458
+    y: 97.0
+    z: -6373.334538285281
+    yaw: 150.21922302246094
+    pitch: 67.20004272460938
+    world-name: ''
+  quimperle:
+    world: world
+    x: -5444.538600500379
+    y: 64.0
+    z: 477.30338271728283
+    yaw: -258.4302062988281
+    pitch: 86.2499771118164
+    world-name: ''
+afk: false
+ip-address: 86.241.119.49
+last-account-name: bastien
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

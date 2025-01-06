@@ -1,0 +1,38 @@
+timestamps:
+  login: 1551536645555
+  logout: 1551537580617
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -26.643167033152658
+  y: 65.0
+  z: 24.301907577380526
+  yaw: 34.12554931640625
+  pitch: 54.26471710205078
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 256.0326250873426
+  y: 133.1875
+  z: 140.2048213791196
+  yaw: -91.82637023925781
+  pitch: 7.075200080871582
+  world-name: ''
+ip-address: 90.113.210.137
+last-account-name: Compteprovi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

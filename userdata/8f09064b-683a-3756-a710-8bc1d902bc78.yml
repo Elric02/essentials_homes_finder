@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518676155771
+  lastteleport: 1517742654454
+  logout: 1518676234267
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.2991782998293
+  y: 63.0
+  z: 63.53932589023274
+  yaw: -124.4031753540039
+  pitch: -0.059329576790332794
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -690.5260820314737
+  y: 60.579443738851666
+  z: -758.2758676921289
+  yaw: -132.24742126464844
+  pitch: 26.726335525512695
+  world-name: ''
+ip-address: 109.16.163.132
+last-account-name: nouveau
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

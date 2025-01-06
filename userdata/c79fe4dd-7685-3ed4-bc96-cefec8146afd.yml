@@ -1,0 +1,55 @@
+timestamps:
+  login: 1565374739804
+  lastteleport: 1565367826831
+  logout: 1565374819225
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3848.082658681683
+  y: 77.0
+  z: -2866.8585210058677
+  yaw: -85.80169677734375
+  pitch: 19.350038528442383
+  world-name: ''
+money: '0'
+homes:
+  pillage:
+    world: world
+    x: 3431.790094392674
+    y: 63.0
+    z: -2598.2840975393638
+    yaw: -142.21450805664062
+    pitch: 34.9498405456543
+    world-name: ''
+  cabane:
+    world: world
+    x: 3437.0689926271307
+    y: 62.0
+    z: -2609.7846175918035
+    yaw: -47.71368408203125
+    pitch: 24.300058364868164
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3795.603650743439
+  y: 77.0
+  z: -3218.699999988079
+  yaw: -190.0614013671875
+  pitch: 58.79982376098633
+  world-name: ''
+ip-address: 176.142.231.9
+last-account-name: orkio345
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

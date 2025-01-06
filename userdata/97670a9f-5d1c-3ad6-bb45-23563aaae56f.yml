@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469560465584
+  logout: 1469561036454
+  lastteleport: 1469560781504
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -19.837446985507885
+  y: 72.0
+  z: -37.778817506421895
+  yaw: -10.197265625
+  pitch: 8.324210166931152
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 147.77844817831266
+  y: 64.0
+  z: 22.06009145635696
+  yaw: -220.64691162109375
+  pitch: -6.300020694732666
+  world-name: ''
+ip-address: 84.102.122.139
+last-account-name: danixlyn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

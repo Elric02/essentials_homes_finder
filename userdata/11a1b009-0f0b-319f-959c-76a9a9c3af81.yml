@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616278680228
+  lastteleport: 1616278778738
+  logout: 1616278881278
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2380.972371601236
+  y: 74.0
+  z: 4966.712597171257
+  yaw: -212.10008239746094
+  pitch: 9.749991416931152
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.5268824053253
+  y: 64.0
+  z: 16.758515427646365
+  yaw: 226.7042999267578
+  pitch: 24.57585906982422
+  world-name: ''
+ip-address: 86.209.132.44
+last-account-name: Emuis_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

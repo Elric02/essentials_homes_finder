@@ -1,0 +1,38 @@
+timestamps:
+  login: 1504186045511
+  logout: 1504186105891
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.38736518723138
+  y: 64.0
+  z: 10.311488850233598
+  yaw: -239.6812744140625
+  pitch: 3.512669086456299
+  world-name: ''
+ip-address: 78.248.40.184
+last-account-name: Vik_MoMo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

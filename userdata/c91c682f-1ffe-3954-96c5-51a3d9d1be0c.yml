@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472310646368
+  logout: 1472310741710
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.91603133901822
+  y: 27.0
+  z: 20.559691042996636
+  yaw: -90.88153839111328
+  pitch: 19.704744338989258
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.14920870067658
+  y: 63.0
+  z: 47.71456869284372
+  yaw: -265.1672668457031
+  pitch: -0.7561753392219543
+  world-name: ''
+ip-address: 109.209.66.84
+last-account-name: Eldahir
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

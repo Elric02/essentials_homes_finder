@@ -1,0 +1,63 @@
+timestamps:
+  login: 1639841615393
+  lastteleport: 1639841816829
+  logout: 1639841895322
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 64.14619857746442
+  y: 85.0
+  z: 62.30000001192092
+  yaw: -172.842041015625
+  pitch: 28.85104751586914
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3392.803782728846
+  y: 65.0
+  z: -7284.345962686616
+  yaw: 173.4454345703125
+  pitch: 24.256914138793945
+  world-name: world
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3654.559889177585
+    y: 82.0
+    z: -6632.327994721838
+    yaw: 179.95037841796875
+    pitch: 1.0678887367248535
+    world-name: world
+  mine:
+    world: 86d1d27f-93df-4bd4-8f6a-80e1ce66b3ad
+    x: 2218.474484589599
+    y: 23.0
+    z: 2364.6368547272423
+    yaw: -143.80555725097656
+    pitch: 68.335205078125
+    world-name: Ressource
+  new:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3393.5490916549793
+    y: 66.0
+    z: -7280.699098045489
+    yaw: 179.9586944580078
+    pitch: 0.04384975507855415
+    world-name: world
+money: '0'
+afk: false
+ip-address: 93.28.172.87
+last-account-name: Yuushii
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

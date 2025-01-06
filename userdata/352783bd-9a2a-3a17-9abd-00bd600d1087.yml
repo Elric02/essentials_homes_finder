@@ -1,0 +1,47 @@
+timestamps:
+  login: 1593002688852
+  lastteleport: 1592587267722
+  logout: 1593003382619
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.5
+  y: 64.0
+  z: 22.5
+  yaw: -88.67068481445312
+  pitch: 13.828658103942871
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6208.6740572594945
+  y: 68.0
+  z: -719.6424545238942
+  yaw: 351.00390625
+  pitch: 28.04999351501465
+  world-name: ''
+money: '0'
+homes:
+  skylar:
+    world: world
+    x: 157.13461082864663
+    y: 64.0
+    z: 22.701463084853042
+    yaw: -140.72073364257812
+    pitch: 35.12866973876953
+    world-name: ''
+ip-address: 77.153.58.94
+last-account-name: skylar
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

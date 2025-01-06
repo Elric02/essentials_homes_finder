@@ -1,0 +1,38 @@
+timestamps:
+  login: 1578059467851
+  logout: 1578059585357
+  lastteleport: 1578059555341
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.403168196542
+  y: 65.0
+  z: 78.17550153807517
+  yaw: 357.2122802734375
+  pitch: 2.04065203666687
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+ip-address: 81.51.242.145
+last-account-name: djdorian
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

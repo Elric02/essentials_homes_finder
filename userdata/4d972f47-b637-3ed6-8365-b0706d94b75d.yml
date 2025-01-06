@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511630309049
+  lastteleport: 1511602006793
+  logout: 1511630455775
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -157.7402699828653
+  y: 71.0
+  z: 561.7085306495768
+  yaw: -198.63510131835938
+  pitch: 89.32837677001953
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 179.78882334246114
+  y: 63.0
+  z: 18.699723308124597
+  yaw: -87.9749526977539
+  pitch: 30.00172233581543
+  world-name: ''
+ip-address: 78.217.177.191
+last-account-name: tomdu81
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

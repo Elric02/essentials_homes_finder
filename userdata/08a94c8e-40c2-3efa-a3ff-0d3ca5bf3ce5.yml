@@ -1,0 +1,38 @@
+timestamps:
+  login: 1597148604050
+  lastteleport: 1597148637718
+  logout: 1597148646492
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 159.5406312768857
+  y: 63.0
+  z: 63.68269002057902
+  yaw: 106.44674682617188
+  pitch: 33.09063720703125
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.84511698366302
+  y: 64.0
+  z: 22.68239107252112
+  yaw: -185.27084350585938
+  pitch: 24.32866668701172
+  world-name: ''
+ip-address: 90.3.218.97
+last-account-name: Takcraft202
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

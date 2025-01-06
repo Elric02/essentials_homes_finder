@@ -1,0 +1,55 @@
+timestamps:
+  login: 1610902639208
+  lastteleport: 1610903745571
+  logout: 1610904003248
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6054.812071653127
+  y: 65.0
+  z: 1438.300000011921
+  yaw: -135.13497924804688
+  pitch: 30.44980812072754
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: -2154.1773657106346
+    y: 64.0
+    z: -5611.197476300487
+    yaw: -190.4998016357422
+    pitch: 23.40005874633789
+    world-name: ''
+  ile:
+    world: world
+    x: 3408.8082449946905
+    y: 64.0
+    z: 4120.628823136002
+    yaw: 93.900390625
+    pitch: 1.5000752210617065
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3397.7365004515655
+  y: 64.0
+  z: 4118.375491927005
+  yaw: -28.649330139160156
+  pitch: 35.700172424316406
+  world-name: ''
+ip-address: 86.200.153.245
+last-account-name: roi_compote
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

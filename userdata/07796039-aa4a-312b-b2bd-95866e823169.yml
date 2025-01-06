@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500659220024
+  lastteleport: 1500659257103
+  logout: 1500659409463
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.89232348571957
+  y: 66.0
+  z: 19.805266190317987
+  yaw: -86.16107177734375
+  pitch: -65.2254638671875
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 3701.2956149737993
+  y: 69.0
+  z: 4703.642556788309
+  yaw: 232.6500244140625
+  pitch: 14.099996566772461
+  world-name: ''
+ip-address: 2.8.241.168
+last-account-name: Memou1015
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

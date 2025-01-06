@@ -1,0 +1,55 @@
+timestamps:
+  login: 1538384611946
+  lastteleport: 1537023538221
+  logout: 1538384635296
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -2354.094780008252
+  y: 74.0
+  z: 1577.1200553520168
+  yaw: -34.453460693359375
+  pitch: 11.367358207702637
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4941.2653973050365
+  y: 58.0
+  z: 6022.300000011921
+  yaw: 26.084156036376953
+  pitch: 34.04979705810547
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 4873.998707747194
+    y: 161.0
+    z: 6071.56815081247
+    yaw: -318.92138671875
+    pitch: 12.750065803527832
+    world-name: ''
+  mesa:
+    world: Ressource
+    x: -2354.7733207407036
+    y: 88.0
+    z: 1578.30466284189
+    yaw: -271.6033630371094
+    pitch: 37.46736526489258
+    world-name: ''
+afk: false
+ip-address: 176.155.31.27
+last-account-name: Adorosu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

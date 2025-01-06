@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472546721535
+  lastteleport: 1472546919172
+  logout: 1472548133388
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.55690374299832
+  y: 63.0
+  z: 45.92659141397756
+  yaw: 15.55294132232666
+  pitch: 0.5999864935874939
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -460.4960165374077
+  y: 42.0
+  z: 291.30000001192093
+  yaw: -43.893798828125
+  pitch: 58.19999694824219
+  world-name: ''
+ip-address: 105.154.70.25
+last-account-name: kingofStone
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

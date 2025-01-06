@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467378414597
+  lastteleport: 1467378488540
+  logout: 1467378948830
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 119.47647229046322
+  y: 77.0
+  z: -69.69999998807907
+  yaw: -205.9195098876953
+  pitch: 31.950016021728516
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -590.7782890377136
+  y: 63.0
+  z: -447.0814830501914
+  yaw: -182.46954345703125
+  pitch: 15.73556900024414
+  world-name: ''
+ip-address: 88.189.75.63
+last-account-name: jojocraft18
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

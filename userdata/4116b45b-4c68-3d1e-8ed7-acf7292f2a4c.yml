@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468902557985
+  logout: 1468902588631
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.49575025547716
+  y: 63.0
+  z: 42.136093188927305
+  yaw: -0.4472317099571228
+  pitch: 18.524173736572266
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.504566231044
+  y: 28.0
+  z: 21.826265355046694
+  yaw: -0.4472317099571228
+  pitch: 18.67417335510254
+  world-name: ''
+ip-address: 78.197.106.112
+last-account-name: Neko_Kush
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

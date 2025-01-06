@@ -1,0 +1,38 @@
+timestamps:
+  login: 1512562760500
+  logout: 1512562906007
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 770.6305288723119
+  y: 64.0
+  z: -6194.874488510622
+  yaw: 188.6998748779297
+  pitch: 13.350008964538574
+  world-name: ''
+ip-address: 88.165.206.220
+last-account-name: luap33240
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

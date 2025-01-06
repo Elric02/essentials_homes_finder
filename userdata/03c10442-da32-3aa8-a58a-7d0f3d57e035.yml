@@ -1,0 +1,68 @@
+timestamps:
+  login: 1523794290287
+  lastteleport: 1523789971588
+  logout: 1523795038779
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2013.376385889865
+  y: 57.0
+  z: -6313.300000011921
+  yaw: -127.63662719726562
+  pitch: 13.794764518737793
+  world-name: ''
+homes:
+  b:
+    world: world
+    x: -2012.699999988079
+    y: 57.0
+    z: -6313.602658839645
+    yaw: -278.6546630859375
+    pitch: 15.489341735839844
+    world-name: ''
+  m:
+    world: Ressource
+    x: 4656.6457656596995
+    y: 9.0
+    z: 2099.300000011921
+    yaw: 20.902774810791016
+    pitch: 41.41502380371094
+    world-name: ''
+  s:
+    world: world
+    x: -124.20838954621277
+    y: 47.0
+    z: 413.69999998807907
+    yaw: 6.5549421310424805
+    pitch: 35.09231948852539
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4936.348311244634
+  y: 71.0
+  z: -416.77895648940273
+  yaw: -96.643798828125
+  pitch: 6.140972137451172
+  world-name: ''
+afk: false
+ip-address: 78.223.122.79
+last-account-name: war_science
+mail:
+- legacy: true
+  read: false
+  message: §e[§rkillian971317§e] §rton shop a été restauré par roselfe tu n'as plus
+    qu'à remettre les pancartes sur les coffres ;)
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

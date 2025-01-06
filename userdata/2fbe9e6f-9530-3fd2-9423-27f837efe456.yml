@@ -1,0 +1,38 @@
+timestamps:
+  login: 1536352708555
+  logout: 1536352734811
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 163.9773520947196
+  y: 66.0
+  z: 101.78017867974629
+  yaw: -53.15306091308594
+  pitch: 9.54065227508545
+  world-name: ''
+ip-address: 90.65.93.229
+last-account-name: TradeDirt4Cones
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

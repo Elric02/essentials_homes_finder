@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487435660934
+  lastteleport: 1485796316768
+  logout: 1487435675202
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.10762055419227
+  y: 64.0
+  z: 31.81560081651495
+  yaw: -171.79739379882812
+  pitch: 14.797402381896973
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.4716311388728
+  y: 64.0
+  z: 23.443074878240555
+  yaw: -10.11083984375
+  pitch: 29.27448844909668
+  world-name: ''
+ip-address: 85.68.154.129
+last-account-name: JteBrainEnGeox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

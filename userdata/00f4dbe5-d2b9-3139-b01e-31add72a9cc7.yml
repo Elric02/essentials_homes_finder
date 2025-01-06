@@ -1,0 +1,38 @@
+timestamps:
+  login: 1568399772926
+  logout: 1568399988065
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 88.51249998807907
+  y: 58.0
+  z: -51.30000001192093
+  yaw: 313.35028076171875
+  pitch: 32.94998550415039
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.7250226932232
+  y: 64.0
+  z: 27.878320338662633
+  yaw: -48.320831298828125
+  pitch: 33.92866897583008
+  world-name: ''
+ip-address: 176.184.170.112
+last-account-name: Lou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

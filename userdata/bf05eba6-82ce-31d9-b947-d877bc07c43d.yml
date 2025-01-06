@@ -1,0 +1,55 @@
+timestamps:
+  login: 1593550360990
+  lastteleport: 1587588662028
+  logout: 1593550434809
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6989.813821155278
+  y: 182.0
+  z: -3660.9495700343514
+  yaw: -321.012451171875
+  pitch: 16.05067253112793
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -3323.5
+    y: 69.0
+    z: 2020.5
+    yaw: 295.19769287109375
+    pitch: 11.549978256225586
+    world-name: ''
+  vip:
+    world: world
+    x: -6680.5
+    y: 91.0
+    z: -3780.5
+    yaw: 314.20916748046875
+    pitch: 14.887678146362305
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3317.694576480822
+  y: 71.875
+  z: 2018.5583257150345
+  yaw: 339.46868896484375
+  pitch: 25.200220108032227
+  world-name: ''
+ip-address: 2.10.3.89
+last-account-name: Soasen
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

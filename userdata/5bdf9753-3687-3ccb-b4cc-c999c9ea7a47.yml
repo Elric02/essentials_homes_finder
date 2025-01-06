@@ -1,0 +1,63 @@
+timestamps:
+  login: 1531477579635
+  lastteleport: 1531478039512
+  logout: 1531478047468
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 839.6999999880791
+  y: 70.0
+  z: -1102.8096370432052
+  yaw: -120.7860107421875
+  pitch: 26.653865814208984
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -188.41314697265625
+  pitch: 7.902848243713379
+  world-name: ''
+money: '0'
+homes:
+  maisonprovisoire:
+    world: world
+    x: 4830.037225434711
+    y: 63.0
+    z: 6652.494009110736
+    yaw: 0.658782958984375
+    pitch: -9.309907913208008
+    world-name: ''
+  maisondemama:
+    world: world
+    x: 4926.545880238024
+    y: 63.0
+    z: 119.35652776624374
+    yaw: 85.15313720703125
+    pitch: 14.086524963378906
+    world-name: ''
+  enchante:
+    world: Ressource
+    x: 834.3000000119209
+    y: 58.0
+    z: -1099.699999988079
+    yaw: -80.0272216796875
+    pitch: 6.462761402130127
+    world-name: ''
+afk: false
+ip-address: 78.195.89.91
+last-account-name: Guitarman_Gaming
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

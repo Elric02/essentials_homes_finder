@@ -1,0 +1,47 @@
+timestamps:
+  login: 1509114872142
+  lastteleport: 1509117518227
+  logout: 1509117528169
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1778.3093514734342
+  y: 75.0
+  z: 3744.073972389102
+  yaw: 167.5503387451172
+  pitch: 77.25011444091797
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: 179.2291717529297
+  pitch: 2.128669500350952
+  world-name: ''
+homes:
+  minage:
+    world: Ressource
+    x: -339.79855799734275
+    y: 76.0
+    z: -7.11877369725823
+    yaw: -135.38194274902344
+    pitch: 28.800146102905273
+    world-name: ''
+money: '0'
+ip-address: 78.229.29.232
+last-account-name: mrtygrou_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

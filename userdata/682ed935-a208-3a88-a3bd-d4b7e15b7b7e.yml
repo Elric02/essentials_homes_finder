@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.147.38.109
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1665762283349
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665762323068
+  login: 1665761918303
+  kits:
+    stationaute: 1665762042650
+money: '0'
+last-account-name: Joyclem
+lastlocation:
+  world: c4aa0be1-96e4-4d26-b064-d4d2526e9bea
+  world-name: AlthiumRessource
+  x: 3.2883967350749113
+  y: 250.5
+  z: 0.12794529796733048
+  yaw: 65.70087432861328
+  pitch: 11.0990571975708
+logoutlocation:
+  world: c4aa0be1-96e4-4d26-b064-d4d2526e9bea
+  world-name: AlthiumRessource
+  x: 1539.300000011921
+  y: 67.0
+  z: -452.4899353540616
+  yaw: 91.20079803466797
+  pitch: -55.35107421875

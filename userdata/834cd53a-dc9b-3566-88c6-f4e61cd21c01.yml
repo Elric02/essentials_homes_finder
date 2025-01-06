@@ -1,0 +1,73 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.11.0.99
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1694615766819
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1694753843164
+  login: 1694753830047
+  kits:
+    stationaute: 1684186661076
+money: '800.0'
+last-account-name: __Ayanox__
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -6502.553547603622
+  y: 62.0
+  z: -852.6999999880791
+  yaw: 61.90619659423828
+  pitch: 22.95030403137207
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -6502.553547603622
+  y: 62.0
+  z: -852.6999999880791
+  yaw: 61.90619659423828
+  pitch: 22.95030403137207
+homes:
+  xp:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6503.5
+    y: 183.0
+    z: -865.5
+    yaw: 77.8050765991211
+    pitch: 14.99983024597168
+  reno:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6572.690531011753
+    y: 63.0
+    z: -803.0593279356627
+    yaw: 10.9058837890625
+    pitch: 38.100223541259766
+  send:
+    world: 2649b3d7-9636-4254-a8e4-1d605af71137
+    world-name: Ressource
+    x: 677.5856988240994
+    y: 60.0
+    z: 408.128628608198
+    yaw: -26.421875
+    pitch: 37.800148010253906
+  sool:
+    world: 382f5f5b-6751-44e0-a359-2721467cf229
+    world-name: RessourceNether
+    x: 13.699999988079071
+    y: 49.0
+    z: 955.407993829456
+    yaw: -124.34184265136719
+    pitch: 3.9005136489868164

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1476873962019
+  lastteleport: 1476723975437
+  logout: 1476875834793
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5262.762499988079
+  y: 69.0
+  z: 570.3000000119209
+  yaw: 118.313232421875
+  pitch: 7.799914360046387
+  world-name: ''
+money: '0'
+homes:
+  mine:
+    world: Ressources
+    x: -5272.699999988079
+    y: 10.0
+    z: -6836.300000011921
+    yaw: 90.29827117919922
+    pitch: 52.19987869262695
+    world-name: ''
+  base:
+    world: world
+    x: -5672.614328700264
+    y: 68.0
+    z: 5508.506830793225
+    yaw: 197.10028076171875
+    pitch: 20.24998664855957
+    world-name: ''
+  spawner:
+    world: Ressources
+    x: -4974.699999988079
+    y: 12.0
+    z: -7011.925644844068
+    yaw: -163.6544189453125
+    pitch: 19.2000732421875
+    world-name: ''
+muted: false
+logoutlocation:
+  world: world
+  x: -5670.742561819417
+  y: 68.0
+  z: 5483.287326490882
+  yaw: 312.318603515625
+  pitch: -4.050009250640869
+  world-name: ''
+afk: false
+ip-address: 90.59.87.221
+last-account-name: boblecochon
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

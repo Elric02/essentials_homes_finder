@@ -1,0 +1,38 @@
+timestamps:
+  login: 1543573985365
+  lastteleport: 1543574005346
+  logout: 1543575340733
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.2912409927421
+  y: 65.875
+  z: 97.8228307114622
+  yaw: 155.7969207763672
+  pitch: 26.640653610229492
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 102.56381440476365
+  y: 65.0
+  z: -3593.9008241926495
+  yaw: 47.84051513671875
+  pitch: 25.64999008178711
+  world-name: ''
+ip-address: 78.236.104.65
+last-account-name: Elious1000
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

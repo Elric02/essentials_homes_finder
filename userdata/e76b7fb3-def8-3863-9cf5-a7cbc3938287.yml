@@ -1,0 +1,63 @@
+timestamps:
+  login: 1466554353709
+  lastteleport: 1466556055388
+  logout: 1466556061467
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 545.284352843379
+  y: 18.0
+  z: -492.78315575047804
+  yaw: -317.40045166015625
+  pitch: 32.39993667602539
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  village:
+    world: ressource
+    x: 838.3629406466441
+    y: 68.0
+    z: 152.23867899619694
+    yaw: -262.517578125
+    pitch: 17.550079345703125
+    world-name: ''
+  maison:
+    world: world
+    x: 571.474779773517
+    y: 84.0625
+    z: -455.1758384061258
+    yaw: 179.8543701171875
+    pitch: 34.65016555786133
+    world-name: ''
+  coffre:
+    world: world
+    x: 553.2772652569047
+    y: 56.0
+    z: -511.69999998807907
+    yaw: 91.35527801513672
+    pitch: 56.70008850097656
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 553.2996692016651
+  y: 56.0
+  z: -511.69999998807907
+  yaw: 52.6552619934082
+  pitch: 6.150087356567383
+  world-name: ''
+ip-address: 2.4.243.54
+last-account-name: Kurium
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

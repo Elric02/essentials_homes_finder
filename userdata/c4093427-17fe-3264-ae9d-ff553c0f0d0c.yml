@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616276513976
+  lastteleport: 1616275719599
+  logout: 1616276874304
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.63156996166137
+  y: 63.0
+  z: 58.30667204967448
+  yaw: -28.44530487060547
+  pitch: 5.075873374938965
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5219706617853
+  y: 64.0
+  z: 24.59015183032405
+  yaw: -168.69566345214844
+  pitch: 21.725873947143555
+  world-name: ''
+ip-address: 88.165.204.131
+last-account-name: maleqemoLeBg0711
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

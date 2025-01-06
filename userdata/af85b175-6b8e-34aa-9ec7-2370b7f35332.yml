@@ -1,0 +1,38 @@
+timestamps:
+  login: 1493490022531
+  lastteleport: 1493490655083
+  logout: 1493490733412
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -221.73807409570355
+  y: 66.0
+  z: 240.9138643648982
+  yaw: -132.8997802734375
+  pitch: 8.250045776367188
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4905.350367601568
+  y: 71.0
+  z: -546.379031153713
+  yaw: -321.4726257324219
+  pitch: 9.74999713897705
+  world-name: ''
+ip-address: 2.2.212.54
+last-account-name: flywon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

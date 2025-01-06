@@ -1,0 +1,53 @@
+timestamps:
+  login: 1535573219593
+  lastteleport: 1535570620042
+  logout: 1535573259680
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2011.0936447795918
+  y: 74.0
+  z: -2488.8345998534646
+  yaw: 339.300048828125
+  pitch: 27.600008010864258
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4229.283279644161
+  y: 99.0
+  z: 547.4777328246814
+  yaw: -350.71136474609375
+  pitch: 14.250184059143066
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 4211.300000011921
+    y: 101.0
+    z: 544.3380308643583
+    yaw: -353.2616882324219
+    pitch: 34.35017013549805
+    world-name: ''
+ip-address: 78.248.217.126
+last-account-name: killua
+mail:
+- legacy: true
+  read: false
+  message: §e[§rServer§e] §rSalut, je t'invite à rejoindre notre discord ( https://discord.gg/9GX644E
+    ) pour être au courant en temps réel de ce qui se passe sur le serveur. Merci
+    de jouer sur Station 47!
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

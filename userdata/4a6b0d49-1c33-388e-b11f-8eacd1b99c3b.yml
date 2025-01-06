@@ -1,0 +1,63 @@
+timestamps:
+  login: 1643815636351
+  lastteleport: 1643816853149
+  logout: 1643818372196
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -4151.772674286552
+  y: 57.0
+  z: 3780.6258017875048
+  yaw: -89.93783569335938
+  pitch: -20.96143341064453
+  world-name: world
+money: '100.0'
+afk: false
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -2738.6708718805085
+  y: 79.0
+  z: -216.40748014776477
+  yaw: 107.388916015625
+  pitch: 31.500070571899414
+  world-name: world
+homes:
+  base2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4190.454530149391
+    y: 88.0625
+    z: -5672.699999988079
+    yaw: 327.29400634765625
+    pitch: 12.210646629333496
+    world-name: world
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4157.964109425424
+    y: 69.0
+    z: 3764.8964584534497
+    yaw: 11.01220703125
+    pitch: 54.338653564453125
+    world-name: world
+  eglise:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2742.435975402427
+    y: 98.0
+    z: -56.492158671081526
+    yaw: -183.064697265625
+    pitch: 35.87663650512695
+    world-name: world
+muted: false
+jailed: false
+ip-address: 37.166.105.181
+last-account-name: XxFigthGamerxX
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

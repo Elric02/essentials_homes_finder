@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.235.205.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680970024908
+  login: 1680970006250
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.5289987151585
+  y: 81.0
+  z: -3110.9820698719195
+  yaw: -81.71866607666016
+  pitch: 17.241531372070312
+last-account-name: Antl_HD
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.53973932158607
+  y: 81.0
+  z: -3111.034487790736
+  yaw: -79.7750473022461
+  pitch: 17.919536590576172

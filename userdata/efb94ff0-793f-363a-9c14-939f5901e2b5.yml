@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526571819066
+  logout: 1526572362452
+  lastteleport: 1526572355011
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: 25.30000001192093
+  y: 61.0
+  z: -34.781066031619375
+  yaw: 31.708648681640625
+  pitch: -11.710134506225586
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -156.73806762695312
+  pitch: 0.19746267795562744
+  world-name: ''
+money: '0'
+ip-address: 105.235.158.215
+last-account-name: Papermut
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

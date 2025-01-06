@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471377848031
+  logout: 1471378192554
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.18049481624996
+  y: 27.0
+  z: 20.455678593943507
+  yaw: -91.69635009765625
+  pitch: 13.74738597869873
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 118.51404217196725
+  y: 63.0
+  z: 34.82740140016331
+  yaw: -179.8936767578125
+  pitch: 9.997467041015625
+  world-name: ''
+ip-address: 86.238.208.179
+last-account-name: Defonsia
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

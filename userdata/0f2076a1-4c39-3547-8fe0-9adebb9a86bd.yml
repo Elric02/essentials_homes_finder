@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486317070824
+  lastteleport: 1486317291566
+  logout: 1486317375050
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 148.69999998807907
+  y: 48.0
+  z: 137.69999998807907
+  yaw: -202.46299743652344
+  pitch: 46.64999771118164
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 159.10873665866558
+  y: 63.0
+  z: 4.887238294725446
+  yaw: -197.6109161376953
+  pitch: 23.874513626098633
+  world-name: ''
+ip-address: 82.226.205.154
+last-account-name: pikalps176
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

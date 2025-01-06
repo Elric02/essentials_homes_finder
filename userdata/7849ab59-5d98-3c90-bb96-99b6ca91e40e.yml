@@ -1,0 +1,66 @@
+timestamps:
+  login: 1711311875073
+  lastteleport: 1711233755257
+  logout: 1711311878155
+  mute: 0
+  kits:
+    vip: 1513722996125
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3061.550943064611
+  y: 79.5
+  z: 779.5358099217382
+  yaw: 159.6044921875
+  pitch: 37.949886322021484
+  world-name: world
+money: '100.0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3525.569714770887
+  y: 24.0
+  z: 2161.948584323804
+  yaw: 1.7117905616760254
+  pitch: 11.100226402282715
+  world-name: world
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1094.6919200994441
+    y: 71.0
+    z: 3849.2502506525693
+    yaw: -270.1501159667969
+    pitch: 7.949910640716553
+    world-name: world
+  atlantis:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3524.950887975965
+    y: 24.0
+    z: 2168.237500011921
+    yaw: 175.71165466308594
+    pitch: 6.150195121765137
+    world-name: world
+  chlo_:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6151.106833152586
+    y: 113.0
+    z: 2326.4276406165473
+    yaw: 89.6829833984375
+    pitch: 67.20042419433594
+afk: false
+muted: false
+nickname: §dMe§7th§5yyy
+ip-address: 146.70.189.254
+last-account-name: Methynium
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

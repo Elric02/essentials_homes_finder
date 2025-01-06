@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482952346829
+  lastteleport: 1482952832333
+  logout: 1482955187936
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46951705658242
+  y: 64.0
+  z: 30.630111114687033
+  yaw: -185.46090698242188
+  pitch: 12.774514198303223
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 178.62230729365464
+  y: 64.0
+  z: 32.321545676404625
+  yaw: -73.26084899902344
+  pitch: 12.624509811401367
+  world-name: ''
+ip-address: 90.125.206.176
+last-account-name: Yorix_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

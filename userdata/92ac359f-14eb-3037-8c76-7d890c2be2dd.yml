@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521319846464
+  logout: 1521319860044
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 159.95420281938743
+  y: 64.0
+  z: 52.7082874969767
+  yaw: -285.8070068359375
+  pitch: 16.003650665283203
+  world-name: ''
+ip-address: 82.98.45.98
+last-account-name: marimanumiel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

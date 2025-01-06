@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.131.3.176
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1676154066218
+  login: 1676153991760
+money: '0'
+last-account-name: ritchi_fatiguer
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.98217262090293
+  y: 81.0
+  z: -3111.299282134346
+  yaw: -67.34818267822266
+  pitch: 16.49995231628418
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.98217262090293
+  y: 81.0
+  z: -3111.299282134346
+  yaw: -66.29816436767578
+  pitch: 18.89995574951172

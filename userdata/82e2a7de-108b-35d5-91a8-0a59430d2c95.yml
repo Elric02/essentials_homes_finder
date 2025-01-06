@@ -1,0 +1,55 @@
+timestamps:
+  login: 1464811862191
+  lastteleport: 1464812235138
+  logout: 1464812255564
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -992.3000000119209
+  y: 61.0
+  z: -954.3000000119209
+  yaw: -277.8001708984375
+  pitch: -83.8499984741211
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -987.0971690874918
+    y: 77.0
+    z: -887.3425570613061
+    yaw: -172.0498046875
+    pitch: 12.000041007995605
+    world-name: ''
+  minage:
+    world: ressource
+    x: -41.52562424217721
+    y: 53.0
+    z: 32.30000001192093
+    yaw: -178.19989013671875
+    pitch: 32.2500114440918
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -987.8464765754617
+  y: 77.875
+  z: -891.2950923386693
+  yaw: -184.6501007080078
+  pitch: -1.4999638795852661
+  world-name: ''
+ip-address: 83.200.217.99
+last-account-name: MissCookie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

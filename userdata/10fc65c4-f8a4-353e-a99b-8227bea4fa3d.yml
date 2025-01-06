@@ -1,0 +1,38 @@
+timestamps:
+  login: 1585323124219
+  logout: 1585323653042
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1553.0420026254708
+  y: 63.0
+  z: -2043.354258446231
+  yaw: 153.05572509765625
+  pitch: 11.536168098449707
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5668.471257869482
+  y: 63.0
+  z: 2213.729802654268
+  yaw: 257.00640869140625
+  pitch: 12.299838066101074
+  world-name: ''
+ip-address: 188.155.181.25
+last-account-name: dansam03
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

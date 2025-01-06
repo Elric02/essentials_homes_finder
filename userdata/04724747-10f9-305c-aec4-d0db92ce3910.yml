@@ -1,0 +1,38 @@
+timestamps:
+  login: 1536446608734
+  logout: 1536446824328
+  lastteleport: 1536446668479
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.06462001317132
+  y: 57.48943792153254
+  z: 99.65561184006485
+  yaw: -119.10173797607422
+  pitch: 11.461347579956055
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 148.70023384345814
+  y: 64.0
+  z: 19.51049970334093
+  yaw: -112.30157470703125
+  pitch: 66.88929748535156
+  world-name: ''
+money: '0'
+ip-address: 158.69.220.249
+last-account-name: SH4ZOW
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

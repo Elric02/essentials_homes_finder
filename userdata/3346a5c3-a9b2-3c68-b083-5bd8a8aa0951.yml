@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.87.248.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1689449161154
+  login: 1689449011947
+money: '0'
+last-account-name: consixou
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.69185491051684
+  y: 81.0
+  z: -3111.0078597760908
+  yaw: -21.298168182373047
+  pitch: 22.04993438720703
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 416.44096275789195
+  y: 81.0
+  z: -3034.2479115315587
+  yaw: 176.25160217285156
+  pitch: 16.650020599365234

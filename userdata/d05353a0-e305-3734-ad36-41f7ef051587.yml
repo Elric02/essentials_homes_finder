@@ -1,0 +1,38 @@
+timestamps:
+  login: 1549302468744
+  lastteleport: 1548876626350
+  logout: 1549302703003
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 139.72062054201518
+  y: 63.0
+  z: 18.74076078549551
+  yaw: -255.95309448242188
+  pitch: 8.490646362304688
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4768.486659359001
+  y: 69.0
+  z: -242.62534884780445
+  yaw: -18.92242431640625
+  pitch: 26.399993896484375
+  world-name: ''
+ip-address: 176.184.217.11
+last-account-name: JP79360
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

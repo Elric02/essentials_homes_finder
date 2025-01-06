@@ -1,0 +1,38 @@
+timestamps:
+  login: 1532971008924
+  lastteleport: 1532971734306
+  logout: 1532971774112
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -553.6999999880791
+  y: 24.0
+  z: 1522.4110448137135
+  yaw: 332.1001892089844
+  pitch: 12.75
+  world-name: ''
+logoutlocation:
+  world: Donjon
+  x: 2069.0565180759854
+  y: 3.9375
+  z: 2015.4303618713823
+  yaw: -54.704654693603516
+  pitch: 12.802123069763184
+  world-name: ''
+ip-address: 90.78.122.255
+last-account-name: wonderlena
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

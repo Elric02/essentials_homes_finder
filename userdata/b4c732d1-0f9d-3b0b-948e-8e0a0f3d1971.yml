@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.165.52.247
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1646142968214
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663227796921
+  login: 1663227666413
+money: '0'
+last-account-name: guizmo895790
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 160.92953098743195
+  y: 63.5
+  z: 23.589909289782405
+  yaw: -87.14334106445312
+  pitch: 8.849786758422852
+homes:
+  base1:
+    world: 6b791b62-b860-492a-aa67-db025bcd5247
+    world-name: world2
+    x: -131.78383551717948
+    y: 64.0
+    z: 441.4131921356804
+    yaw: -155.54856872558594
+    pitch: 28.350160598754883
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 161.71290876985125
+  y: 63.0
+  z: 9.38488646396423
+  yaw: 23.84774398803711
+  pitch: -2.214183807373047

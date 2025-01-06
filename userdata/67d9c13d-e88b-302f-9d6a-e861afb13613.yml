@@ -1,0 +1,38 @@
+timestamps:
+  login: 1628176745926
+  logout: 1628176786191
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4388.300000011921
+  y: 75.0
+  z: -866.5045287638503
+  yaw: -26.547210693359375
+  pitch: 16.76315689086914
+  world-name: ''
+ip-address: 88.163.240.128
+last-account-name: Slyerithor
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

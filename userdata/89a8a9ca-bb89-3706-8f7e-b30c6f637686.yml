@@ -1,0 +1,38 @@
+timestamps:
+  login: 1525628755894
+  lastteleport: 1525628904333
+  logout: 1525628937209
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1832.9960710876223
+  y: 70.0
+  z: -2697.4331576028303
+  yaw: -117.7500228881836
+  pitch: 21.15000343322754
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -594.1834820419647
+  y: 65.0
+  z: -718.5211866073214
+  yaw: 13.702730178833008
+  pitch: 18.176347732543945
+  world-name: ''
+ip-address: 207.134.243.110
+last-account-name: aziletaliban
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

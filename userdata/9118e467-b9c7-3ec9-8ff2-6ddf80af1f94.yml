@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.161.201.9
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642784385675
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642784758126
+  login: 1642781768195
+money: '0'
+last-account-name: Rayandjib
+lastlocation:
+  world: db53b0bc-e109-4366-b93b-66666d9c9185
+  world-name: Ressource
+  x: 4336.679179750969
+  y: 74.0
+  z: 355.15821741568277
+  yaw: 175.64857482910156
+  pitch: 24.600000381469727
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 6013.466613907244
+  y: 69.0
+  z: 4465.174828368251
+  yaw: 210.4495391845703
+  pitch: 11.400067329406738

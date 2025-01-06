@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.172.55.130
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635253894314
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635253967467
+  login: 1635253860199
+money: '0'
+last-account-name: Oximoz_z
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 160.3016812901316
+  y: 65.0
+  z: 98.41684535120525
+  yaw: 260.64678955078125
+  pitch: 7.440631866455078
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3687.6352376742752
+  y: 63.0
+  z: -5190.017819666304
+  yaw: 124.05000305175781
+  pitch: 19.950002670288086

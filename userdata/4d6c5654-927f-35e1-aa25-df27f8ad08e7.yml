@@ -1,0 +1,38 @@
+timestamps:
+  login: 1522862877447
+  lastteleport: 1522862899902
+  logout: 1522863339171
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.5
+  y: 65.0
+  z: 100.5
+  yaw: 164.79693603515625
+  pitch: 1.5906529426574707
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5374.947882524103
+  y: 63.0
+  z: 2199.3070196226395
+  yaw: 219.60079956054688
+  pitch: 20.700027465820312
+  world-name: ''
+ip-address: 81.53.10.230
+last-account-name: Double_Compte
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

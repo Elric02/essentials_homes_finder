@@ -1,0 +1,47 @@
+timestamps:
+  login: 1613865844039
+  lastteleport: 1613869945685
+  logout: 1613870198708
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1336.3890599840506
+  y: 63.0
+  z: 3594.155284388883
+  yaw: 12.000244140625
+  pitch: 4.349979400634766
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1278.8842530185373
+  y: 90.0
+  z: 3621.5202213791717
+  yaw: -55.94972610473633
+  pitch: 8.699971199035645
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 1315.62346109506
+    y: 79.0
+    z: 3639.3492342570216
+    yaw: -15.299915313720703
+    pitch: 9.899998664855957
+    world-name: ''
+ip-address: 2.15.124.165
+last-account-name: CaptainFlorent
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

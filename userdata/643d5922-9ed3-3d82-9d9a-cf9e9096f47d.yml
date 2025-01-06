@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482861179798
+  lastteleport: 1482861708570
+  logout: 1482861830575
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 8002.9221465849105
+  y: 71.0625
+  z: -804.4707795276701
+  yaw: 86.84735870361328
+  pitch: 13.780370712280273
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 118.37985515338985
+  y: 71.0
+  z: -65.84005166956089
+  yaw: -230.7174072265625
+  pitch: 25.7829532623291
+  world-name: ''
+ip-address: 204.93.58.122
+last-account-name: Gringots
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

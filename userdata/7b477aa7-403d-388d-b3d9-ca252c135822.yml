@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476967870779
+  logout: 1476968094173
+  lastteleport: 1476024073662
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.85448901042182
+  y: 63.0
+  z: 7.943419446134747
+  yaw: 130.43980407714844
+  pitch: 20.124526977539062
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 162.46816247015545
+  y: 64.0
+  z: 25.835699465077866
+  yaw: 44.489097595214844
+  pitch: 9.32451343536377
+  world-name: ''
+money: '0'
+ip-address: 82.231.22.23
+last-account-name: TTtrol
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.33.228.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675262636732
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677428658738
+  login: 1677428619883
+money: '50.0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 150.0606178898007
+  y: 64.0
+  z: 23.825981333501126
+  yaw: 117.61531066894531
+  pitch: 10.6502685546875
+last-account-name: Venomoustacho
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 123.80411980381142
+  y: 63.0
+  z: 11.953066124515797
+  yaw: -179.2351531982422
+  pitch: 1.8004283905029297

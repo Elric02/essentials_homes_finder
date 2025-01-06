@@ -1,0 +1,63 @@
+timestamps:
+  login: 1482422058797
+  lastteleport: 1482423035308
+  logout: 1482424531296
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4831.318365717486
+  y: 65.0
+  z: -465.6749814984529
+  yaw: -98.91188049316406
+  pitch: 20.419769287109375
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3611.286278563007
+  y: 63.0
+  z: 5594.876040829426
+  yaw: 75.8780517578125
+  pitch: 18.391233444213867
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  di:
+    world: world
+    x: 3572.9214029607633
+    y: 55.0
+    z: 5582.699999988079
+    yaw: 94.2357177734375
+    pitch: 18.19193458557129
+    world-name: ''
+  op:
+    world: Ressource
+    x: 960.3124199849302
+    y: 15.0
+    z: -583.5621559989172
+    yaw: -94.79779052734375
+    pitch: 18.768070220947266
+    world-name: ''
+  views:
+    world: Ressource
+    x: 374.63243879967615
+    y: 12.0
+    z: 598.6456423483568
+    yaw: -329.23406982421875
+    pitch: 20.032426834106445
+    world-name: ''
+muted: false
+ip-address: 86.213.22.12
+last-account-name: ShapeOfGod
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

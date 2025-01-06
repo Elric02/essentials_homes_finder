@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478902048828
+  lastteleport: 1478902060317
+  logout: 1478902184908
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 171.06879184619643
+  y: 63.0
+  z: -18.29524035022096
+  yaw: 47.08149337768555
+  pitch: 10.50933837890625
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 152.69853467178555
+  y: 75.0
+  z: -96.66392932953826
+  yaw: 36.852115631103516
+  pitch: 3.5770626068115234
+  world-name: ''
+ip-address: 88.162.18.234
+last-account-name: McFreestyles
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

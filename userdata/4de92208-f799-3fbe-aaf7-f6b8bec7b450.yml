@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.169.243.193
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735580902614
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735581076491
+  login: 1735580779356
+money: '0'
+last-account-name: Zordo9
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -859.0
+  y: 42.863033896039205
+  z: 185.3705133189826
+  yaw: -5.642805576324463
+  pitch: 16.048994064331055
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -136.8880136372498
+  y: 123.98752894221276
+  z: 287.9852236924226
+  yaw: -21.843061447143555
+  pitch: 45.59901428222656

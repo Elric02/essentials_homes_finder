@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508252877675
+  logout: 1508253009552
+  lastteleport: 1508164446258
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.63728108948445
+  y: 66.0
+  z: 19.182002413852995
+  yaw: -91.37493896484375
+  pitch: 4.3499603271484375
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -129.00047300011764
+  y: 72.0
+  z: 24.01449267044065
+  yaw: 138.86297607421875
+  pitch: -81.7499771118164
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 81.254.78.185
+last-account-name: AntoineBE
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

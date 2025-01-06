@@ -1,0 +1,65 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.217.32.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1673385231892
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673386127786
+  login: 1673383671043
+  kits:
+    stationaute: 1673384887070
+money: '0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -6767.526472900335
+  y: 81.0
+  z: 2996.3006132659266
+  yaw: 29.620559692382812
+  pitch: 9.300297737121582
+last-account-name: Yoktloo
+homes:
+  free:
+    world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+    world-name: grosPlot
+    x: 269.7106085745872
+    y: 33.0
+    z: -527.990871990426
+    yaw: 4.65000057220459
+    pitch: 9.750000953674316
+  test:
+    world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+    world-name: grosPlot
+    x: 194.05507019750019
+    y: 35.49390748022948
+    z: -492.62629347575063
+    yaw: 82.34970092773438
+    pitch: 8.099983215332031
+  home:
+    world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+    world-name: grosPlot
+    x: 85.66127209651863
+    y: 35.49390748022948
+    z: -481.4283419769988
+    yaw: 93.29965209960938
+    pitch: 6.5999836921691895
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 83.28262582499791
+  y: 33.0
+  z: -486.04763126509147
+  yaw: 30.00103759765625
+  pitch: 4.35025691986084

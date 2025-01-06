@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471974756264
+  lastteleport: 1471974863499
+  logout: 1471974924913
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 123.78977476991133
+  y: 68.0
+  z: 420.0107306498359
+  yaw: 68.52667236328125
+  pitch: 20.152835845947266
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 163.33747724857253
+  y: 64.0
+  z: 20.22838846405287
+  yaw: -264.0762023925781
+  pitch: -7.084259510040283
+  world-name: ''
+ip-address: 78.114.55.108
+last-account-name: Clejuvi94
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

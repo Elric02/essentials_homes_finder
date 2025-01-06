@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487481075242
+  lastteleport: 1487481094962
+  logout: 1487482383560
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.2489939633506
+  y: 63.0
+  z: 37.182929876915225
+  yaw: -27.047386169433594
+  pitch: 16.297399520874023
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 5690.067309631874
+  y: 63.0
+  z: 4906.324274414809
+  yaw: 190.900390625
+  pitch: 41.55001449584961
+  world-name: ''
+ip-address: 70.81.126.220
+last-account-name: universcraft8
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

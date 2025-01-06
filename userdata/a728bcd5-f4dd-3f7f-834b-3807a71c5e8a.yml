@@ -1,0 +1,39 @@
+timestamps:
+  login: 1616270687200
+  logout: 1616270837532
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.93140547284585
+  y: 64.0
+  z: 16.436466413458845
+  yaw: -47.52001953125
+  pitch: 6.938883304595947
+  world-name: ''
+jailed: true
+jail: dunkirschen5
+logoutlocation:
+  world: world
+  x: -2667.4694643822986
+  y: 62.0625
+  z: -206.6024436917843
+  yaw: 79.53367614746094
+  pitch: 43.93870544433594
+  world-name: ''
+ip-address: 93.23.19.105
+last-account-name: MangePelles
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

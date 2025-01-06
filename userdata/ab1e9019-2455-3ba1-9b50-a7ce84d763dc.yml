@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526667820703
+  logout: 1526667850121
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.0859913324646
+  y: 65.0
+  z: 86.32739466166356
+  yaw: -164.153076171875
+  pitch: 22.440650939941406
+  world-name: ''
+ip-address: 85.27.114.12
+last-account-name: Manoetius
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

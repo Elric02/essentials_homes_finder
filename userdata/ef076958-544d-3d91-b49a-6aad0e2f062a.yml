@@ -1,0 +1,38 @@
+timestamps:
+  login: 1585745976812
+  lastteleport: 1585747362516
+  logout: 1585748835525
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4930.651562066388
+  y: 71.0
+  z: -585.9491027947191
+  yaw: -265.5214538574219
+  pitch: 9.600043296813965
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -146.12083435058594
+  pitch: 15.778670310974121
+  world-name: ''
+ip-address: 85.5.127.56
+last-account-name: Kitsu12
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

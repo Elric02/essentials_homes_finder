@@ -1,0 +1,47 @@
+timestamps:
+  login: 1482871001493
+  logout: 1482871725950
+  lastteleport: 1482871522503
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 150.82221788106256
+  y: 64.0
+  z: 23.282690629646794
+  yaw: -219.660888671875
+  pitch: 7.2245283126831055
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -6299.324850523126
+  y: 63.0
+  z: 6591.050517546383
+  yaw: 355.58441162109375
+  pitch: 58.19999313354492
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 151.95438375372117
+    y: 63.0
+    z: 46.50779952840019
+    yaw: 28.289064407348633
+    pitch: -5.525485038757324
+    world-name: ''
+money: '0'
+ip-address: 86.192.17.13
+last-account-name: lezouzou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

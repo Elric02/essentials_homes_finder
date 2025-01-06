@@ -1,0 +1,38 @@
+timestamps:
+  login: 1559926067853
+  lastteleport: 1559928140309
+  logout: 1559928145125
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1033.5174246867537
+  y: 70.0
+  z: -1809.2736402108003
+  yaw: 277.6505126953125
+  pitch: 36.15001678466797
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+ip-address: 90.34.141.217
+last-account-name: LePhoque
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

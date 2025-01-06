@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468102155251
+  logout: 1468102202185
+  lastteleport: 1468102129862
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.4626614288427
+  y: 64.0
+  z: 17.99492218171008
+  yaw: -179.6416015625
+  pitch: -9.321309089660645
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 410.688244776745
+  y: 71.0
+  z: 67.18714107913169
+  yaw: -47.88866424560547
+  pitch: 13.096240043640137
+  world-name: ''
+ip-address: 176.148.189.222
+last-account-name: MaxDu56
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

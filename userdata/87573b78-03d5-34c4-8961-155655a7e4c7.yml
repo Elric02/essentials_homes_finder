@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.239.96.50
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733922300616
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733922303450
+  login: 1733922191629
+money: '0'
+last-account-name: Ernest2304
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 397.66784427510254
+  y: 81.0
+  z: -3113.019063496836
+  yaw: 25.15142822265625
+  pitch: 16.091049194335938
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 152.4166525486377
+  y: 64.0
+  z: 13.852009114372878
+  yaw: 170.06202697753906
+  pitch: 1.296842336654663

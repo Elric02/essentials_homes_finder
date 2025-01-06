@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558276043883
+  logout: 1558276934712
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7.439280350499803
+  y: 67.0
+  z: 10.768978742556678
+  yaw: 187.31390380859375
+  pitch: 16.454059600830078
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 140.53725981906862
+  y: 63.0
+  z: 35.852985973210444
+  yaw: -272.3356018066406
+  pitch: -10.465066909790039
+  world-name: ''
+ip-address: 92.141.154.125
+last-account-name: axel25150
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1683670151197
+  logout: 1683670495770
+  lastteleport: 1683670373040
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 4234.699999988079
+  y: 77.0
+  z: -3023.699999988079
+  yaw: 144.7651824951172
+  pitch: 27.900108337402344
+  world-name: world
+money: '100.0'
+logoutlocation:
+  world: 1049c39c-53b0-4a8e-b1fc-50afc7933998
+  x: -92.0
+  y: 95.0
+  z: 3.0
+  yaw: 109.05001068115234
+  pitch: 26.400005340576172
+  world-name: Ressource
+homes:
+  ppp:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 7949.512371270248
+    y: 68.0
+    z: 7968.829002735635
+    yaw: -238.1001739501953
+    pitch: 38.281639099121094
+  ptp:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6498.39466998696
+    y: 181.0
+    z: -867.3000000119209
+    yaw: -0.78790283203125
+    pitch: 1.4290046691894531
+  pppp:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6503.701163818303
+    y: 64.0
+    z: -874.8747587229552
+    yaw: -97.4053955078125
+    pitch: 48.210697174072266
+afk: false
+ip-address: 92.184.108.87
+last-account-name: water_back_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

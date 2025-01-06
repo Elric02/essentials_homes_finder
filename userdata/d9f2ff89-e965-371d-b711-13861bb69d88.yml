@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615239741502
+  logout: 1615242022929
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 694.5093504828965
+  y: 59.0
+  z: 2608.4997408854388
+  yaw: 345.51611328125
+  pitch: 56.86433029174805
+  world-name: ''
+ip-address: 176.191.32.227
+last-account-name: Derek69
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

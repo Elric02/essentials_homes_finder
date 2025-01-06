@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615483891953
+  logout: 1615483929390
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 149.30000001192093
+  y: 67.0
+  z: 95.64404553169891
+  yaw: -195.53372192382812
+  pitch: 19.834735870361328
+  world-name: ''
+ip-address: 91.160.88.77
+last-account-name: LuluFuritto
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

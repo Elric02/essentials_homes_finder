@@ -1,0 +1,63 @@
+timestamps:
+  login: 1708299478998
+  lastteleport: 1708299839041
+  logout: 1708299861251
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 154.5
+  y: 64.0
+  z: 19.5
+  yaw: -179.53475952148438
+  pitch: -0.749713659286499
+  world-name: world
+money: '15787.2899999999999052'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 6893.5
+  y: 71.5
+  z: -1784.5
+  yaw: -152.25787353515625
+  pitch: 28.050039291381836
+  world-name: world
+homes:
+  home:
+    world: f6cc7e86-533e-4833-a044-23fb95716522
+    x: -648.3000000119209
+    y: 4.0
+    z: 140.6633352602286
+    yaw: -18.44879150390625
+    pitch: 4.350015640258789
+    world-name: Ressource
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6893.699999988079
+    y: 71.5
+    z: -1784.699999988079
+    yaw: 207.74212646484375
+    pitch: 28.050039291381836
+    world-name: world
+  nether:
+    world: f6cc7e86-533e-4833-a044-23fb95716522
+    x: -1753.4219907631184
+    y: 29.0
+    z: -1136.8008187328921
+    yaw: -270.9034118652344
+    pitch: 22.349811553955078
+    world-name: Ressource
+afk: false
+muted: false
+ip-address: 82.66.153.56
+last-account-name: maltanir45
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

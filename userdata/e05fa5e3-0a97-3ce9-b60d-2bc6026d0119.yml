@@ -1,0 +1,38 @@
+timestamps:
+  login: 1593612209619
+  logout: 1593612229474
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 148.64111977821955
+  y: 68.0
+  z: 98.47968839387859
+  yaw: 286.9045715332031
+  pitch: 29.013381958007812
+  world-name: ''
+ip-address: 92.138.247.233
+last-account-name: VaCniR
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

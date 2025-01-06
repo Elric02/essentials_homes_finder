@@ -1,0 +1,38 @@
+timestamps:
+  login: 1513440751644
+  logout: 1513441203969
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.33836533767186
+  y: 64.0
+  z: 24.627457563729404
+  yaw: -166.9708709716797
+  pitch: 7.378671169281006
+  world-name: ''
+ip-address: 82.216.187.182
+last-account-name: KorraMatBerlin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

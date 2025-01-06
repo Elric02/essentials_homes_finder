@@ -1,0 +1,47 @@
+timestamps:
+  login: 1478352865576
+  lastteleport: 1478356621875
+  logout: 1478356754740
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4414.922946455603
+  y: 67.0
+  z: -5185.629542999169
+  yaw: 209.26470947265625
+  pitch: 44.2213134765625
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4529.082473001981
+  y: 67.0
+  z: -5325.266079115547
+  yaw: 91.090576171875
+  pitch: 9.479350090026855
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 4422.310320216811
+    y: 65.0
+    z: -5196.324281281857
+    yaw: 61.6490478515625
+    pitch: 29.715335845947266
+    world-name: ''
+afk: false
+ip-address: 79.95.51.151
+last-account-name: Makloi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

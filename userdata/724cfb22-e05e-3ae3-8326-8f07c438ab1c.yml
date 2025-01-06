@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482871968843
+  logout: 1482873825902
+  lastteleport: 1482872471033
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 143.56866293786925
+  y: 63.0
+  z: -3.684911823284483
+  yaw: -126.3517074584961
+  pitch: 30.599979400634766
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5956.874239699187
+  y: 64.0
+  z: 3627.3064015855666
+  yaw: 76.4248275756836
+  pitch: 27.150299072265625
+  world-name: ''
+afk: false
+money: '0'
+ip-address: 90.14.253.201
+last-account-name: thecarotteAEA
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

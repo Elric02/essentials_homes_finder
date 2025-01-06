@@ -1,0 +1,47 @@
+timestamps:
+  login: 1478458384452
+  logout: 1478463819558
+  lastteleport: 1478461698554
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6056.3625228603705
+  y: 134.0
+  z: 504.30000001192104
+  yaw: -169.64649963378906
+  pitch: 20.249958038330078
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 6072.073695404505
+    y: 85.0
+    z: 513.5186001250213
+    yaw: -154.646728515625
+    pitch: 21.900001525878906
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 6043.785802634829
+  y: 120.0
+  z: 533.1455846356496
+  yaw: 173.2666473388672
+  pitch: 34.50002670288086
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 78.210.38.177
+last-account-name: Cassie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1500399339471
+  lastteleport: 1500403351518
+  logout: 1500403621372
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.22853642827758
+  y: 63.0
+  z: 42.784383476317345
+  yaw: 179.30471801757812
+  pitch: -10.236328125
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 5169.736812749505
+    y: 72.0
+    z: 857.0571700317352
+    yaw: -28.0799617767334
+    pitch: 19.602975845336914
+    world-name: ''
+  miner:
+    world: Ressource
+    x: 4428.390678998772
+    y: 17.0
+    z: 2635.300000011921
+    yaw: -118.71554565429688
+    pitch: 25.29437255859375
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 5175.14789314546
+  y: 72.0
+  z: 853.6807578757314
+  yaw: -315.3741760253906
+  pitch: 5.473755359649658
+  world-name: ''
+ip-address: 176.164.137.76
+last-account-name: Aliiciel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

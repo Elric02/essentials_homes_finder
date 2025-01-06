@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486115961008
+  logout: 1486116174634
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.34857813501344
+  y: 63.0
+  z: 39.205279153541596
+  yaw: 25.891502380371094
+  pitch: 1.5693817138671875
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2412.1350028058514
+  y: 81.49999964237213
+  z: 1859.783073052764
+  yaw: -97.35000610351562
+  pitch: 56.85000228881836
+  world-name: ''
+money: '0'
+ip-address: 90.33.120.200
+last-account-name: superjaja05
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

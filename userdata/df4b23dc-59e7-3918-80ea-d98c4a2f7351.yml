@@ -1,0 +1,38 @@
+timestamps:
+  login: 1613842894035
+  lastteleport: 1613842974127
+  logout: 1613842991777
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.2678537046257
+  y: 65.0
+  z: 99.52045594571645
+  yaw: 104.90705108642578
+  pitch: 9.031644821166992
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 150.78393211094635
+  y: 64.0
+  z: 7.187651298355959
+  yaw: -178.7809295654297
+  pitch: 34.45621109008789
+  world-name: ''
+ip-address: 91.169.57.246
+last-account-name: Spacio73
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

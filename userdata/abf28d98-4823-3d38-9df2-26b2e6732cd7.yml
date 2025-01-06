@@ -1,0 +1,47 @@
+timestamps:
+  login: 1571866863159
+  lastteleport: 1571866874513
+  logout: 1571868615162
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -639.7659119366248
+  y: 64.0
+  z: -349.547730772933
+  yaw: -174.6278533935547
+  pitch: 18.339088439941406
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -353.11603924360566
+  y: 80.0
+  z: -214.56652668743735
+  yaw: -264.65625
+  pitch: 41.07363510131836
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -348.0069715523968
+    y: 82.0
+    z: -215.98094362394605
+    yaw: -72.8310546875
+    pitch: 5.984747886657715
+    world-name: ''
+afk: false
+ip-address: 78.245.108.154
+last-account-name: _DarkDreamer_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

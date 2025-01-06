@@ -1,0 +1,38 @@
+timestamps:
+  login: 1534184249534
+  lastteleport: 1534184897230
+  logout: 1534184981493
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.94825608146513
+  y: 66.0
+  z: 19.09359470991987
+  yaw: -78.772705078125
+  pitch: -13.797066688537598
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -26.305743157244134
+  y: 53.68639181771013
+  z: 17.381852137807474
+  yaw: 8.42822265625
+  pitch: 34.469459533691406
+  world-name: ''
+money: '0'
+ip-address: 78.115.34.105
+last-account-name: LaPommeDeNotch
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

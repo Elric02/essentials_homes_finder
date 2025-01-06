@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509271586565
+  logout: 1509271626634
+  lastteleport: 1509137007912
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -332.44597373801923
+  y: 75.0
+  z: 302.5877507820242
+  yaw: -196.6015625
+  pitch: -47.42402648925781
+  world-name: ''
+logoutlocation:
+  world: Event
+  x: 1201.3878461749296
+  y: 1.0
+  z: -1422.7247518344277
+  yaw: -21.5152587890625
+  pitch: 27.83775520324707
+  world-name: ''
+money: '0'
+ip-address: 62.34.224.231
+last-account-name: CFE_Arthurov
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1628193740290
+  lastteleport: 1591303890601
+  logout: 1628195179260
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 3677.005126674468
+  y: 66.0
+  z: -2868.747282051872
+  yaw: -260.5501708984375
+  pitch: 28.050079345703125
+  world-name: ''
+money: '0'
+homes:
+  canada:
+    world: world
+    x: 5677.674521417324
+    y: 70.0
+    z: -2853.8415484021507
+    yaw: -340.79632568359375
+    pitch: 22.050085067749023
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5676.129121845701
+  y: 66.0
+  z: -2852.890822359965
+  yaw: -167.84326171875
+  pitch: 0.7499138116836548
+  world-name: ''
+afk: false
+ip-address: 96.20.41.132
+last-account-name: Hovoh
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

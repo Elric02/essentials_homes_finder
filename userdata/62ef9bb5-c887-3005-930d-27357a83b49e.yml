@@ -1,0 +1,38 @@
+timestamps:
+  login: 1585764598214
+  lastteleport: 1585759048525
+  logout: 1585764716500
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.96870247455075
+  y: 63.0
+  z: 63.17536021832558
+  yaw: 209.19610595703125
+  pitch: 12.540444374084473
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -100.48818268938078
+  y: 86.0
+  z: 19.30000001192093
+  yaw: 10.205183982849121
+  pitch: 27.485197067260742
+  world-name: ''
+ip-address: 82.64.77.20
+last-account-name: Speedsnip
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

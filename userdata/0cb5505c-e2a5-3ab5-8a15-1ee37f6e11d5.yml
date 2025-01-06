@@ -1,0 +1,38 @@
+timestamps:
+  login: 1577369420734
+  logout: 1577369446047
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.03339660569011
+  y: 54.44692533936659
+  z: 110.68195615394943
+  yaw: 300.24658203125
+  pitch: 90.0
+  world-name: ''
+ip-address: 109.136.5.74
+last-account-name: zoziewozie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

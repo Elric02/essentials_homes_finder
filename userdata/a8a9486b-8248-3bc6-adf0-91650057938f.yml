@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558808897077
+  lastteleport: 1558809215662
+  logout: 1558809705735
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -605.7513468679743
+  y: 64.0625
+  z: -753.5831107443835
+  yaw: 201.87879943847656
+  pitch: 6.028666973114014
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 175.70832019627096
+  y: 65.0
+  z: -50.34035211539636
+  yaw: -195.3206787109375
+  pitch: -8.071358680725098
+  world-name: ''
+ip-address: 104.251.42.249
+last-account-name: Stilex
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

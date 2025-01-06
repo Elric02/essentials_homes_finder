@@ -1,0 +1,63 @@
+timestamps:
+  login: 1500313732244
+  lastteleport: 1500315677185
+  logout: 1500316752735
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: -4429.337346719485
+  y: 254.0
+  z: 5659.189896610596
+  yaw: 196.50502014160156
+  pitch: 40.799922943115234
+  world-name: ''
+money: '0'
+homes:
+  p:
+    world: world
+    x: -5961.836113299211
+    y: 65.0
+    z: 2732.615682372589
+    yaw: 84.68890380859375
+    pitch: 40.94966506958008
+    world-name: ''
+  m:
+    world: Ressource
+    x: -4970.848287362054
+    y: 86.0
+    z: -4890.635979270771
+    yaw: 278.2522277832031
+    pitch: 31.050111770629883
+    world-name: ''
+  xp:
+    world: world_nether
+    x: -4429.337346719485
+    y: 254.0
+    z: 5659.189896610596
+    yaw: 196.50502014160156
+    pitch: 40.94992446899414
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -5890.300000011921
+  y: 64.0
+  z: 2742.699999988079
+  yaw: 139.8900146484375
+  pitch: 9.899666786193848
+  world-name: ''
+afk: false
+ip-address: 88.187.148.82
+last-account-name: _Lanaria
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

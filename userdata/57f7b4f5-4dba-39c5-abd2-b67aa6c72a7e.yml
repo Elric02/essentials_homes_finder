@@ -1,0 +1,38 @@
+timestamps:
+  login: 1533161759418
+  logout: 1533162199364
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.92287077207553
+  y: 63.0
+  z: 7.55576801660783
+  yaw: 135.54806518554688
+  pitch: 36.540653228759766
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 174.95239281238403
+  y: 64.0
+  z: -18.865948502402784
+  yaw: -255.65199279785156
+  pitch: 20.490646362304688
+  world-name: ''
+ip-address: 77.196.208.181
+last-account-name: SachaWinchester
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

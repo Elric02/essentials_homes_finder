@@ -1,0 +1,43 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 173.179.187.53
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1668962612703
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668963285189
+  login: 1668962573616
+  kits:
+    stadawan: 1667774468732
+    stationaute: 1667774472395
+    explorateur: 1667774473516
+    ambassadeur: 1667774474496
+money: '387.71000000000003'
+last-account-name: Tabaribou
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 182.4507105075524
+  y: 85.1234559492259
+  z: 16.632974578517317
+  yaw: -124.33709716796875
+  pitch: 23.85012435913086
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -5088.463315225562
+  y: 112.32655321199599
+  z: -3822.1738855787876
+  yaw: -22.458160400390625
+  pitch: 18.980764389038086

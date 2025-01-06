@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483145056371
+  lastteleport: 1483145826807
+  logout: 1483146014754
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2851.998079171934
+  y: 94.0
+  z: -2488.496755282233
+  yaw: 121.79998779296875
+  pitch: 36.00001525878906
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 145.12687104526574
+  y: 64.0
+  z: 17.582858925738613
+  yaw: -121.71044921875
+  pitch: 4.5245256423950195
+  world-name: ''
+ip-address: 90.15.173.36
+last-account-name: hunter
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

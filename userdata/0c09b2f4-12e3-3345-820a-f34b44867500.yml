@@ -1,0 +1,63 @@
+timestamps:
+  login: 1624464782031
+  lastteleport: 1624467147954
+  logout: 1624467214789
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2883.5388117556367
+  y: 65.0
+  z: -5918.41577647551
+  yaw: -13.199895858764648
+  pitch: 17.699926376342773
+  world-name: ''
+money: '109.38'
+homes:
+  maison:
+    world: world
+    x: -6920.035989471324
+    y: 80.0
+    z: 4558.649548130197
+    yaw: -186.9089813232422
+    pitch: 57.89969253540039
+    world-name: ''
+  chateau:
+    world: world
+    x: -6860.042834493438
+    y: 69.0625
+    z: 4537.389136747041
+    yaw: 157.6435089111328
+    pitch: 21.899978637695312
+    world-name: ''
+  neth:
+    world: Ressourcenether
+    x: -175.60543303090287
+    y: 11.0
+    z: -194.5441390106838
+    yaw: 269.86651611328125
+    pitch: 36.6005859375
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -6914.580567818342
+  y: 80.0
+  z: 4551.4949086884
+  yaw: -172.95883178710938
+  pitch: 16.949668884277344
+  world-name: ''
+afk: false
+ip-address: 176.170.145.64
+last-account-name: Lemythe118
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1538876345567
+  lastteleport: 1538875573357
+  logout: 1538876358136
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 149.69327000528324
+  y: 65.17675927506424
+  z: 64.19045835432142
+  yaw: 171.69700622558594
+  pitch: 23.490633010864258
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -7369.89876949759
+  y: 34.0
+  z: -1572.8817562920788
+  yaw: 45.11785888671875
+  pitch: 5.250007629394531
+  world-name: ''
+ip-address: 2.120.48.80
+last-account-name: exaid42
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

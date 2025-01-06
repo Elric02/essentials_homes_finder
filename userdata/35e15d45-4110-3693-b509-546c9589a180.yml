@@ -1,0 +1,47 @@
+timestamps:
+  login: 1478973843033
+  lastteleport: 1478973757654
+  logout: 1478973859081
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -158.69999998807907
+  y: 16.0
+  z: 482.3000000119209
+  yaw: 67.87646484375
+  pitch: 17.918930053710938
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -5185.446891087772
+    y: 64.0
+    z: 266.90464979419477
+    yaw: -269.6101989746094
+    pitch: 24.284835815429688
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -135.06448819295022
+  y: 47.0
+  z: 537.6340150034983
+  yaw: 269.56787109375
+  pitch: 12.242349624633789
+  world-name: ''
+ip-address: 176.156.107.72
+last-account-name: QuiXel_D
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

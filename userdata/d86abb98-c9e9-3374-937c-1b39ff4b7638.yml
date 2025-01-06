@@ -1,0 +1,38 @@
+timestamps:
+  login: 1497722339800
+  logout: 1497722418018
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 58.53296942847683
+  y: 65.0
+  z: -58.863586869869856
+  yaw: -263.64385986328125
+  pitch: -0.5239793062210083
+  world-name: ''
+ip-address: 90.105.249.9
+last-account-name: BlackB
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

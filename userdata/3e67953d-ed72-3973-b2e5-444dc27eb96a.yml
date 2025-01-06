@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479050036299
+  lastteleport: 1479050415155
+  logout: 1479050865708
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2488.394868001938
+  y: 71.0
+  z: 2293.831199872275
+  yaw: -183.0113525390625
+  pitch: 25.54648780822754
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2625.7709996748113
+  y: 68.0
+  z: 2402.766108549561
+  yaw: -320.96588134765625
+  pitch: 16.800039291381836
+  world-name: ''
+ip-address: 70.174.46.232
+last-account-name: anbkgb
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

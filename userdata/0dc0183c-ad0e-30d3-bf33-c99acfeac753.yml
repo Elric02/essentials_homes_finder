@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472576787748
+  lastteleport: 1472577022646
+  logout: 1472577050041
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4711.051762525377
+  y: 72.0
+  z: 3442.3367713996768
+  yaw: 106.89163208007812
+  pitch: 19.594036102294922
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 133.17529498150384
+  y: 60.0
+  z: 473.69999998807907
+  yaw: -17.981266021728516
+  pitch: 43.6803092956543
+  world-name: ''
+ip-address: 128.79.198.195
+last-account-name: Angel_Dragon15
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487937525782
+  logout: 1487937618161
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 108.78170650049745
+  y: 69.0
+  z: -71.7736675701142
+  yaw: -161.599609375
+  pitch: 11.522603988647461
+  world-name: ''
+ip-address: 86.203.36.204
+last-account-name: GHFEFADMS6531
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

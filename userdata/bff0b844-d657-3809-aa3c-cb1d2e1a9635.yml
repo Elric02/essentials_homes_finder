@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.90.249.93
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1690122948066
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1695920971855
+  login: 1695920935557
+money: '200.0'
+last-account-name: Nocturiio
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -38.004708928424286
+  y: 77.0
+  z: 471.2737229962918
+  yaw: 84.82208251953125
+  pitch: 42.24678421020508
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -44.41504544381903
+  y: 59.53292827534489
+  z: 477.69999998807907
+  yaw: 116.88204193115234
+  pitch: 35.679344177246094

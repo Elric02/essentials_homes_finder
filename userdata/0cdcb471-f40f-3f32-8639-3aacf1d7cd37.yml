@@ -1,0 +1,47 @@
+timestamps:
+  login: 1604346216525
+  lastteleport: 1604346243172
+  logout: 1604346368157
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 136.00189669902917
+  y: 66.0
+  z: -2.3000000119209294
+  yaw: 7.0304131507873535
+  pitch: 43.949588775634766
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5402.686795162749
+  y: 61.0
+  z: 5425.7668235994315
+  yaw: -256.9917907714844
+  pitch: 20.99957275390625
+  world-name: ''
+homes:
+  f:
+    world: End
+    x: 408.0849977077915
+    y: 57.0
+    z: -2.0904518408983117
+    yaw: 23.86810874938965
+    pitch: 14.400588989257812
+    world-name: ''
+money: '0'
+ip-address: 86.194.87.64
+last-account-name: Blouki
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

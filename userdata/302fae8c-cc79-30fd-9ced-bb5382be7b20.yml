@@ -1,0 +1,47 @@
+timestamps:
+  login: 1615402567606
+  lastteleport: 1615404403498
+  logout: 1615404730996
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 99.68497614765226
+  y: 11.0
+  z: 79.27138776943161
+  yaw: -190.3442840576172
+  pitch: -1.0738521814346313E-4
+  world-name: ''
+money: '0'
+homes:
+  minage:
+    world: Ressource
+    x: 100.30000001192093
+    y: 11.0
+    z: 3.350952977402301
+    yaw: -8.693359375
+    pitch: 9.749502182006836
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 104.3290203763086
+  y: 12.0
+  z: 105.43840277270958
+  yaw: -177.44830322265625
+  pitch: 5.400170803070068
+  world-name: ''
+afk: false
+ip-address: 92.130.185.193
+last-account-name: Taken97425
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

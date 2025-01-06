@@ -1,0 +1,38 @@
+timestamps:
+  login: 1523576031646
+  logout: 1523576501446
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -753.1617692086196
+  y: 65.0
+  z: 217.32511309468217
+  yaw: -233.55059814453125
+  pitch: 11.099954605102539
+  world-name: ''
+ip-address: 78.234.218.20
+last-account-name: tomson
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

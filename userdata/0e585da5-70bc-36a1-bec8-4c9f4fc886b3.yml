@@ -1,0 +1,38 @@
+timestamps:
+  login: 1522515192294
+  logout: 1522516490120
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3467.699999988079
+  y: 72.0
+  z: -1623.699999988079
+  yaw: -193.4458465576172
+  pitch: 11.658544540405273
+  world-name: ''
+ip-address: 2.8.59.163
+last-account-name: MasterChaicker
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1603986066185
+  lastteleport: 1603991404678
+  logout: 1603991725071
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Donjon
+  x: 3053.6447818510032
+  y: 37.0
+  z: 3093.006777771294
+  yaw: 175.27920532226562
+  pitch: 26.379362106323242
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -306.5245708619354
+    y: 70.0
+    z: 800.200841995462
+    yaw: -263.3392639160156
+    pitch: 2.978325366973877
+    world-name: ''
+  home:
+    world: world
+    x: -256.5420322119912
+    y: 63.0
+    z: 953.6466774858757
+    yaw: -279.207275390625
+    pitch: 21.779062271118164
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 46.23965914173088
+  y: 64.0
+  z: 38.67487616548954
+  yaw: 239.1103057861328
+  pitch: 19.497875213623047
+  world-name: ''
+ip-address: 88.123.55.38
+last-account-name: boLpx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

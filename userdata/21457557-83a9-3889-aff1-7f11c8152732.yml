@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510310082107
+  lastteleport: 1510268024109
+  logout: 1510311472110
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2270.2815484543808
+  y: 92.0
+  z: -2376.5632277122454
+  yaw: -281.0094299316406
+  pitch: 14.337809562683105
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 2452.886239015682
+  y: 98.0
+  z: -2351.4080789537984
+  yaw: -268.0447998046875
+  pitch: -12.75554084777832
+  world-name: ''
+ip-address: 109.10.206.194
+last-account-name: Je_suis_pas_Ztek
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470138987431
+  logout: 1470139016714
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.9210208328517
+  y: 64.0
+  z: 22.016119734510497
+  yaw: 166.65286254882812
+  pitch: 20.774179458618164
+  world-name: ''
+ip-address: 90.1.15.57
+last-account-name: BLO00
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

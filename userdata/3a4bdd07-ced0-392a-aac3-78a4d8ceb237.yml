@@ -1,0 +1,38 @@
+timestamps:
+  login: 1575318027122
+  logout: 1575318110197
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.85533087392187
+  y: 64.0
+  z: 26.357905223975987
+  yaw: 193.51776123046875
+  pitch: 11.945516586303711
+  world-name: ''
+ip-address: 176.185.194.166
+last-account-name: theblacklooters
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

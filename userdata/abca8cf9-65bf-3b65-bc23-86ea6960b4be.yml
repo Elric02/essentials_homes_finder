@@ -1,0 +1,55 @@
+timestamps:
+  login: 1564520615422
+  logout: 1564526073532
+  lastteleport: 1564522848921
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 890.1420381215831
+  y: 72.0
+  z: -591.9565494491779
+  yaw: 278.3992004394531
+  pitch: 18.749967575073242
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1525.4041140184984
+  y: 63.0
+  z: -2282.994260108538
+  yaw: -159.19207763671875
+  pitch: -17.850006103515625
+  world-name: ''
+money: '0'
+homes:
+  mine:
+    world: Ressource
+    x: -1118.3376601664959
+    y: 19.0
+    z: -175.30000001192093
+    yaw: 290.08251953125
+    pitch: 36.44993591308594
+    world-name: ''
+  maison:
+    world: Ressource
+    x: 886.5487315089639
+    y: 71.0
+    z: -591.2121942092215
+    yaw: 0.44912803173065186
+    pitch: 13.199996948242188
+    world-name: ''
+afk: false
+ip-address: 92.171.115.104
+last-account-name: EAuvergne
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

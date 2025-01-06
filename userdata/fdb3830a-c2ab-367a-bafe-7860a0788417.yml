@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.80.236.184
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635199167115
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635199310773
+  login: 1635199105436
+money: '0'
+last-account-name: JeShootRaw
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.4845925356066
+  y: 64.0
+  z: 22.393936899944705
+  yaw: -181.3708038330078
+  pitch: 16.378652572631836
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 150.89675836305116
+  y: 64.0
+  z: 21.034058237780467
+  yaw: 272.8094482421875
+  pitch: 17.328001022338867

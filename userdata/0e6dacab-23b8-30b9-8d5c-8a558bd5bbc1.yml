@@ -1,0 +1,63 @@
+timestamps:
+  login: 1488559170136
+  lastteleport: 1488561121857
+  logout: 1488561388937
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3744.6482198831113
+  y: 70.5
+  z: -4367.584811094391
+  yaw: 267.1490478515625
+  pitch: 22.800024032592773
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3744.559013131539
+  y: 94.0
+  z: -4370.343738971707
+  yaw: -180.7510986328125
+  pitch: 43.20012664794922
+  world-name: ''
+afk: false
+homes:
+  maison:
+    world: world
+    x: 3124.699999988079
+    y: 77.0
+    z: -5650.948178269555
+    yaw: -270.980224609375
+    pitch: 57.90005874633789
+    world-name: ''
+  coffres:
+    world: world
+    x: -4265.0996125672345
+    y: 63.0
+    z: 4893.932703818801
+    yaw: -358.37628173828125
+    pitch: 30.90007209777832
+    world-name: ''
+  jungle:
+    world: world
+    x: 3743.991129736442
+    y: 87.5
+    z: -4363.838403886606
+    yaw: 24.298583984375
+    pitch: -7.799947738647461
+    world-name: ''
+muted: false
+ip-address: 84.7.28.56
+last-account-name: Ertysoul
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476474726561
+  lastteleport: 1476478458354
+  logout: 1476478561060
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: -287.91529458355626
+  y: 96.0
+  z: 483.4877169075758
+  yaw: -296.92156982421875
+  pitch: 8.54161548614502
+  world-name: ''
+logoutlocation:
+  world: Ressources
+  x: 218.95055210507826
+  y: 64.0
+  z: 710.8738721730515
+  yaw: 91.42282104492188
+  pitch: 5.361809253692627
+  world-name: ''
+ip-address: 128.79.51.15
+last-account-name: Drav_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

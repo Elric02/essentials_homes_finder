@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.171.59.223
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643399677154
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643399724112
+  login: 1643399117785
+money: '0'
+last-account-name: Lighty
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 15.407597723256561
+  y: 65.0
+  z: 7.800345195778197
+  yaw: -181.209716796875
+  pitch: 11.100027084350586
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -2749.329005444671
+  y: 88.0
+  z: -74.71263515020425
+  yaw: 178.4287567138672
+  pitch: 29.264047622680664

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1610719532970
+  lastteleport: 1610721254321
+  logout: 1610721843220
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressourcenether
+  x: -1550.320270057605
+  y: 13.0
+  z: -420.50725946355146
+  yaw: -271.258056640625
+  pitch: 12.59996509552002
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 6058.580521154595
+    y: 65.0
+    z: 1446.801777047916
+    yaw: -239.4576416015625
+    pitch: 25.499996185302734
+    world-name: ''
+  elevage:
+    world: world
+    x: -3607.2615696360854
+    y: 67.0
+    z: -3032.050328057134
+    yaw: 356.8502502441406
+    pitch: 14.399928092956543
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 6065.640391721368
+  y: 70.0
+  z: 1448.0861562200005
+  yaw: -336.9677734375
+  pitch: 55.949851989746094
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 46.193.66.127
+last-account-name: Alexcends
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

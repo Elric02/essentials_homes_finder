@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521417236259
+  lastteleport: 1521417254326
+  logout: 1521417299944
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.6465033070569
+  y: 66.0
+  z: 92.65193538704386
+  yaw: 245.0469512939453
+  pitch: 19.74064826965332
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 207.8085858998956
+  y: 63.0
+  z: 19.4799073652037
+  yaw: -92.720703125
+  pitch: 21.32869529724121
+  world-name: ''
+ip-address: 173.178.131.27
+last-account-name: Elementio
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

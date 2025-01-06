@@ -1,0 +1,47 @@
+timestamps:
+  login: 1608816379401
+  lastteleport: 1608816855634
+  logout: 1608817023636
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: 99.87020522930274
+  y: 60.466347503721714
+  z: -15.075916878322458
+  yaw: 87.32046508789062
+  pitch: 20.700502395629883
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 190.93236828283725
+    y: 69.0
+    z: -6765.679585331864
+    yaw: -3.298898458480835
+    pitch: 12.899658203125
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 186.59432655488135
+  y: 69.0
+  z: -6747.312116534448
+  yaw: 354.0875549316406
+  pitch: 39.149986267089844
+  world-name: ''
+afk: false
+ip-address: 81.242.147.143
+last-account-name: TRUCIDATOR
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

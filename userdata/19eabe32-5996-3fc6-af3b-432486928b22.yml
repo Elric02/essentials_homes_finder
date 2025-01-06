@@ -1,0 +1,38 @@
+timestamps:
+  login: 1545069971421
+  logout: 1545070162103
+  lastteleport: 1544621554804
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 143.05614461456634
+  y: 63.0
+  z: 7.4284771426286245
+  yaw: -282.3186340332031
+  pitch: 44.655792236328125
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 110.55383985992877
+  y: 69.5
+  z: -146.7637439467465
+  yaw: 81.55224609375
+  pitch: 33.89010238647461
+  world-name: ''
+money: '0'
+ip-address: 109.211.192.224
+last-account-name: lecureuilbleu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

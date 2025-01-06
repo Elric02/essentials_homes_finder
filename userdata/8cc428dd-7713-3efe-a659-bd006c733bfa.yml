@@ -1,0 +1,55 @@
+timestamps:
+  login: 1482957903749
+  lastteleport: 1482240379436
+  logout: 1482958734720
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4092.915679760073
+  y: 72.0
+  z: 3933.1305542823793
+  yaw: -270.7596435546875
+  pitch: 44.2695198059082
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 400.820978527269
+    y: 64.0
+    z: -6705.758308977903
+    yaw: 81.4364013671875
+    pitch: 15.785846710205078
+    world-name: ''
+  foret:
+    world: ressource
+    x: 441.95538000864536
+    y: 64.0
+    z: -8.262063015975382
+    yaw: 230.582763671875
+    pitch: 12.64628791809082
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 402.7556085730303
+  y: 64.0
+  z: -6728.320965825407
+  yaw: -320.50439453125
+  pitch: -16.22823143005371
+  world-name: ''
+ip-address: 91.177.99.128
+last-account-name: SkyZzy_YT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

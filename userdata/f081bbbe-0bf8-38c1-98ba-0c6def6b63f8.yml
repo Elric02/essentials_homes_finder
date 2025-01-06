@@ -1,0 +1,38 @@
+timestamps:
+  login: 1627329887903
+  logout: 1627330130876
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 173.13462041931876
+  y: 63.0
+  z: -16.699999988079067
+  yaw: -120.0123291015625
+  pitch: 29.490089416503906
+  world-name: ''
+ip-address: 88.123.210.88
+last-account-name: spyrogre
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

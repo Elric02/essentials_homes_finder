@@ -1,0 +1,63 @@
+timestamps:
+  login: 1606935221456
+  lastteleport: 1606936026224
+  logout: 1606936299207
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2204.81044406074
+  y: 59.0
+  z: -1343.4377604039225
+  yaw: 208.640869140625
+  pitch: -42.567806243896484
+  world-name: ''
+money: '0'
+homes:
+  mine:
+    world: Ressource
+    x: -2367.628959444729
+    y: 11.0
+    z: -1535.3147145030157
+    yaw: 93.8714370727539
+    pitch: 35.38496780395508
+    world-name: ''
+  home:
+    world: world
+    x: 2205.8957823141077
+    y: 59.0
+    z: -1343.653579402689
+    yaw: 212.3162078857422
+    pitch: 21.943635940551758
+    world-name: ''
+  bois:
+    world: Ressource
+    x: 430.52697829708336
+    y: 63.0
+    z: -1539.4031182718431
+    yaw: 261.4583740234375
+    pitch: 3.150096893310547
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -2262.39764858761
+  y: 11.0
+  z: -1535.5530546356697
+  yaw: 271.8563232421875
+  pitch: 24.751771926879883
+  world-name: ''
+ip-address: 2.59.238.57
+last-account-name: Pringles29
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

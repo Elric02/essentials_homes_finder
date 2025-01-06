@@ -1,0 +1,47 @@
+timestamps:
+  login: 1492360356161
+  logout: 1492360406059
+  lastteleport: 1488726452463
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.94859452293835
+  y: 63.0
+  z: 34.57735822065851
+  yaw: -10.860931396484375
+  pitch: 11.124509811401367
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -6996.627217460638
+    y: 69.0
+    z: -321.0917370391084
+    yaw: 15.750152587890625
+    pitch: 22.49995994567871
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -7006.513608789534
+  y: 70.0
+  z: -319.69764879351396
+  yaw: -292.4999084472656
+  pitch: -3.0000698566436768
+  world-name: ''
+ip-address: 90.62.222.176
+last-account-name: bastok33
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

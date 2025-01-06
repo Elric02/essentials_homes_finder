@@ -1,0 +1,55 @@
+timestamps:
+  login: 1616840852706
+  lastteleport: 1615623453047
+  logout: 1616840919593
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5305.234060278798
+  y: 64.0
+  z: 6094.522576846071
+  yaw: 179.8498992919922
+  pitch: 69.74992370605469
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 5307.707023961179
+    y: 63.0
+    z: 6094.619819541564
+    yaw: 86.54971313476562
+    pitch: 5.0999836921691895
+    world-name: ''
+  b:
+    world: Ressource
+    x: 100.5
+    y: 11.0
+    z: 5.5
+    yaw: 311.69970703125
+    pitch: 37.94959259033203
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 100.49565443403677
+  y: 11.0
+  z: 4.295470413314941
+  yaw: 332.2500915527344
+  pitch: 24.599590301513672
+  world-name: ''
+afk: false
+ip-address: 102.35.90.32
+last-account-name: Elite974
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

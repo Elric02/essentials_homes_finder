@@ -1,0 +1,63 @@
+timestamps:
+  login: 1620747732248
+  logout: 1620748638603
+  lastteleport: 1620748516515
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -846.9247347855518
+  y: 68.0
+  z: 1977.450004948249
+  yaw: 57.60016632080078
+  pitch: 8.250009536743164
+  world-name: ''
+homes:
+  b:
+    world: world
+    x: -845.7980021990226
+    y: 68.0
+    z: 1985.1522827970732
+    yaw: -88.04971313476562
+    pitch: 32.24995040893555
+    world-name: ''
+  pillage:
+    world: world
+    x: 1444.5271684035065
+    y: 53.0
+    z: -2230.590643688091
+    yaw: 318.85107421875
+    pitch: 12.15002155303955
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 489.33996042285133
+    y: 12.0
+    z: -357.9402540822098
+    yaw: 101.85547637939453
+    pitch: -2.399961471557617
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 154.48651628134792
+  y: 64.0
+  z: 23.015038372838173
+  yaw: -221.64532470703125
+  pitch: -3.3241262435913086
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 91.168.157.165
+last-account-name: TITIX19
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.175.206.120
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1710707112039
+  login: 1710706960983
+money: '0'
+last-account-name: Ayato_Sakamaki
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.3060186693811
+  y: 81.0
+  z: -3111.0019768550674
+  yaw: -57.59819793701172
+  pitch: 6.299952030181885
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.6574902895697
+  y: 81.0
+  z: -3105.917552900598
+  yaw: -166.79864501953125
+  pitch: -1.5000585317611694

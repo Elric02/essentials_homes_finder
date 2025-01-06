@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477231289993
+  lastteleport: 1477232148426
+  logout: 1477232150022
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: -12.095629718912063
+  y: 64.0625
+  z: -4.649819828479953
+  yaw: -86.51040649414062
+  pitch: -12.872371673583984
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -139.98330688476562
+  pitch: 1.9132951498031616
+  world-name: ''
+ip-address: 84.5.118.132
+last-account-name: yavans
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

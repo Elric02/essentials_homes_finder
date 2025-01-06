@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618948128264
+  lastteleport: 1618947714037
+  logout: 1618948178898
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2613.656986721138
+  y: 14.0
+  z: -3730.5033871337573
+  yaw: -188.91262817382812
+  pitch: 27.44993782043457
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4850.366431812649
+  y: 68.0
+  z: 5949.491546120648
+  yaw: -170.7509765625
+  pitch: 35.999996185302734
+  world-name: ''
+ip-address: 212.195.104.191
+last-account-name: Shawyko
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1645130269396
+  lastteleport: 1645130687855
+  logout: 1645130722605
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 27d75173-7a5e-49c7-9e35-856f6c1d3e3c
+  x: 3172.5
+  y: 58.663730912308296
+  z: 104.5
+  yaw: -70.53469848632812
+  pitch: 34.888328552246094
+  world-name: Ressource
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 6066.667118586428
+  y: 70.0
+  z: 1447.6048378930961
+  yaw: -72.81536865234375
+  pitch: 16.570741653442383
+  world-name: world
+homes:
+  oak:
+    world: 27d75173-7a5e-49c7-9e35-856f6c1d3e3c
+    x: -2606.5
+    y: 64.0
+    z: -155.5
+    yaw: 17.98846435546875
+    pitch: 21.150039672851562
+    world-name: Ressource
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6059.462325060207
+    y: 65.0
+    z: 1445.4277414683754
+    yaw: -61.4176025390625
+    pitch: 34.57072830200195
+    world-name: world
+  xp:
+    world: 27d75173-7a5e-49c7-9e35-856f6c1d3e3c
+    x: 3172.699999988079
+    y: 4.0
+    z: 104.44733550400238
+    yaw: -70.53469848632812
+    pitch: 34.888328552246094
+    world-name: Ressource
+afk: false
+ip-address: 91.160.66.17
+last-account-name: SumMonsters
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

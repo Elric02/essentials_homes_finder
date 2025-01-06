@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.65.173.28
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714066693482
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714078115352
+  login: 1714071660687
+money: '0'
+last-account-name: Renard_roux_
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -121.72235711694331
+  y: 65.0
+  z: -366.61397022308375
+  yaw: 159.15554809570312
+  pitch: 86.84996795654297
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -118.42983750154164
+  y: 75.25693417765576
+  z: -367.2139516711552
+  yaw: 111.37451171875
+  pitch: 22.349628448486328

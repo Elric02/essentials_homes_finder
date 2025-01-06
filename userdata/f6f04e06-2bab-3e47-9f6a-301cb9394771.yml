@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592130504784
+  lastteleport: 1592079403410
+  logout: 1592130612142
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.4125652003189
+  y: 65.0
+  z: 87.93996870557984
+  yaw: 178.48516845703125
+  pitch: 15.146163940429688
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 74.82516229090294
+  y: 71.0
+  z: 976.5599536745568
+  yaw: -114.06147003173828
+  pitch: 7.747610092163086
+  world-name: ''
+ip-address: 90.23.183.9
+last-account-name: Eliott_k
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

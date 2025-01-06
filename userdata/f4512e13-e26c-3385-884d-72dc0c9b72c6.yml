@@ -1,0 +1,47 @@
+timestamps:
+  login: 1469080213281
+  lastteleport: 1469085686139
+  logout: 1469085833648
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4184.230638460704
+  y: 65.0
+  z: -251.42180702945208
+  yaw: 225.85472106933594
+  pitch: 31.525421142578125
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -4158.245481736034
+    y: 65.0
+    z: -256.28630681301087
+    yaw: -91.5452880859375
+    pitch: 6.775418758392334
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4159.384156433864
+  y: 69.5
+  z: -255.7428158614349
+  yaw: -251.74522399902344
+  pitch: -37.02458953857422
+  world-name: ''
+afk: false
+ip-address: 109.223.248.78
+last-account-name: totofe190
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

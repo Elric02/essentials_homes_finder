@@ -1,0 +1,70 @@
+timestamps:
+  login: 1584971494791
+  lastteleport: 1584975509067
+  logout: 1584975531458
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5163.55539242847
+  y: 41.0
+  z: -3438.699999988079
+  yaw: -99.280029296875
+  pitch: 27.504072189331055
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: 5133.5
+    y: 64.0
+    z: -3381.5
+    yaw: -349.9173583984375
+    pitch: 15.568519592285156
+    world-name: ''
+  mer:
+    world: world
+    x: 2188.1621778617305
+    y: 28.0
+    z: 349.8092166634669
+    yaw: -94.31815338134766
+    pitch: 20.21287727355957
+    world-name: ''
+  em:
+    world: world
+    x: -2008.2242305527593
+    y: 41.0
+    z: 5306.711735399284
+    yaw: -144.373291015625
+    pitch: 4.718451499938965
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5157.5787289750215
+  y: 39.0
+  z: -3436.300000011921
+  yaw: -134.84906005859375
+  pitch: 17.944963455200195
+  world-name: ''
+afk: false
+ip-address: 109.88.15.35
+last-account-name: dylevn
+mail:
+- legacy: true
+  read: false
+  message: §e[§relriclespiques§e] §rSalut, je me suis permis de mettre des fours sur
+    vos entonnoirs du haut, ça réduit les lags. Évitez de mettre + d'entonnoir svp.
+    Aussi, demandez à un modo d'agrandir votre claim, il couvre pas toute votre base
+    ;)
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

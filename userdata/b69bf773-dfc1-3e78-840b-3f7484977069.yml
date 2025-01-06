@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.174.207.166
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720968659563
+  login: 1720968592023
+money: '0'
+last-account-name: gosthuer
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.6967304485386
+  y: 81.0
+  z: -3110.992049122681
+  yaw: -56.84819793701172
+  pitch: 12.15001392364502
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.6501527087922
+  y: 81.0
+  z: -3111.0249293894144
+  yaw: -121.64824676513672
+  pitch: 2.4000167846679688

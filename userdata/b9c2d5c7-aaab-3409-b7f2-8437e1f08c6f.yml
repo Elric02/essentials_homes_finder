@@ -1,0 +1,63 @@
+timestamps:
+  login: 1517930641227
+  lastteleport: 1517931254258
+  logout: 1517931278989
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4070.2076894586367
+  y: 64.0
+  z: -1733.186718862278
+  yaw: -217.04981994628906
+  pitch: 68.55001068115234
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 4076.395084631037
+    y: 72.5
+    z: -1786.5151516684425
+    yaw: -112.79969024658203
+    pitch: -13.049986839294434
+    world-name: ''
+  m2:
+    world: world
+    x: 675.0688919965328
+    y: 64.875
+    z: 4917.653782392534
+    yaw: 357.560546875
+    pitch: 8.999984741210938
+    world-name: ''
+  m3:
+    world: world
+    x: 6275.827540260955
+    y: 64.0
+    z: 5953.128051389289
+    yaw: -7.799831390380859
+    pitch: 18.300006866455078
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 158.70845023658654
+  y: 63.0
+  z: 4.79482484759594
+  yaw: -232.97080993652344
+  pitch: 90.0
+  world-name: ''
+afk: false
+ip-address: 85.171.242.90
+last-account-name: chachamiaw
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

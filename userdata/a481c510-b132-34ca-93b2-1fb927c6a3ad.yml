@@ -1,0 +1,38 @@
+timestamps:
+  login: 1613891179113
+  lastteleport: 1613891496724
+  logout: 1613891689899
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.14207213541007
+  y: 63.0
+  z: 40.21317424883782
+  yaw: 200.04710388183594
+  pitch: 13.590653419494629
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -2461.0
+  y: 64.23152379758702
+  z: -3508.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+ip-address: 109.17.85.11
+last-account-name: teameliot
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

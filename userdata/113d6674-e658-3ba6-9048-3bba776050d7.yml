@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521402724270
+  lastteleport: 1521402851641
+  logout: 1521404057300
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.8414210863597
+  y: 66.0
+  z: 17.536151708531815
+  yaw: 277.44683837890625
+  pitch: -10.559347152709961
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 1711.9956802759018
+  y: 20.0
+  z: 1553.3229946526699
+  yaw: 272.244873046875
+  pitch: 22.94999122619629
+  world-name: ''
+ip-address: 77.141.227.174
+last-account-name: helwulf
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1522575852346
+  logout: 1522575887589
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.78337072387015
+  y: 67.0
+  z: 79.32286067723905
+  yaw: -331.3536376953125
+  pitch: 5.9214606285095215
+  world-name: ''
+ip-address: 82.250.28.171
+last-account-name: BlueTimeFox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

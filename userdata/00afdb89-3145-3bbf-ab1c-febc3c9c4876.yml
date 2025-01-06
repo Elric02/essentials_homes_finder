@@ -1,0 +1,47 @@
+timestamps:
+  login: 1518837237188
+  lastteleport: 1518839473834
+  logout: 1518840754194
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.42802280042088
+  y: 64.0
+  z: 19.489756785549986
+  yaw: -180.9208221435547
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 6916.422678998665
+    y: 79.0
+    z: -5104.2558469795995
+    yaw: -0.5999755859375
+    pitch: 2.5500051975250244
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 157.10528628109702
+  y: 64.0
+  z: 15.022860903020174
+  yaw: -183.32081604003906
+  pitch: 2.4286696910858154
+  world-name: ''
+ip-address: 77.201.68.157
+last-account-name: vince22
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

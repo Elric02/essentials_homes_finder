@@ -1,0 +1,55 @@
+timestamps:
+  login: 1475944048412
+  lastteleport: 1475862128142
+  logout: 1475944419094
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+money: '0'
+lastlocation:
+  world: Ressources
+  x: -5230.070241940496
+  y: 63.0
+  z: 6581.298574532282
+  yaw: 142.35009765625
+  pitch: 11.55005168914795
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -2864.2068113466685
+  y: 64.0
+  z: -6836.958485225604
+  yaw: -88.35627746582031
+  pitch: 7.050196647644043
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -2862.0367938289637
+    y: 64.0
+    z: -6835.942022144921
+    yaw: 273.89404296875
+    pitch: 19.050106048583984
+    world-name: ''
+  arbre:
+    world: world
+    x: -2840.0551046950404
+    y: 72.0
+    z: -6836.684009080397
+    yaw: 342.0014953613281
+    pitch: 52.20001220703125
+    world-name: ''
+socialspy: true
+muted: false
+ip-address: 78.113.57.247
+last-account-name: Mika40090
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

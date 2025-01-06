@@ -1,0 +1,38 @@
+timestamps:
+  login: 1515318399487
+  lastteleport: 1515319042113
+  logout: 1515319217677
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 43.787182643229514
+  y: 69.0
+  z: 95.69999998807906
+  yaw: -47.27685546875
+  pitch: 54.749969482421875
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.2132135188868
+  y: 65.0
+  z: 89.50691066559062
+  yaw: -173.271240234375
+  pitch: 16.949966430664062
+  world-name: ''
+ip-address: 88.175.31.58
+last-account-name: BlouStyles
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

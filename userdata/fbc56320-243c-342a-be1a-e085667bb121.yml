@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.254.129.150
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1679006259902
+  login: 1679006213673
+money: '0'
+last-account-name: Diabomax59
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.40237096932884
+  y: 81.0
+  z: -3112.002795522614
+  yaw: -103.49824523925781
+  pitch: 7.349949359893799
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.3413471125755
+  y: 81.0
+  z: -3111.9910922976
+  yaw: -102.2982406616211
+  pitch: 5.999948501586914

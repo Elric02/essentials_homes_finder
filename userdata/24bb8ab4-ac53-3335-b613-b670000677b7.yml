@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558533668636
+  lastteleport: 1558533792522
+  logout: 1558533957772
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -297.5
+  y: 64.0
+  z: 358.5
+  yaw: -20.384777069091797
+  pitch: 18.528959274291992
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.89817947005818
+  y: 64.0
+  z: 7.201231096591597
+  yaw: -169.15325927734375
+  pitch: 17.65308952331543
+  world-name: ''
+ip-address: 78.202.164.187
+last-account-name: BlaackLulu45
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485202777337
+  lastteleport: 1485202929920
+  logout: 1485203175014
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.33415816450804
+  y: 63.0
+  z: 49.08315100312717
+  yaw: -22.847509384155273
+  pitch: 34.297401428222656
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -292.9080179953204
+  y: 65.0
+  z: 393.27013029527353
+  yaw: 260.4013671875
+  pitch: 31.199981689453125
+  world-name: ''
+ip-address: 90.108.206.160
+last-account-name: poup
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

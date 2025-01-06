@@ -1,0 +1,38 @@
+timestamps:
+  login: 1530274403239
+  logout: 1530274625468
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -326.2191319370039
+  y: 71.0
+  z: 124.62845414987518
+  yaw: 99.09659576416016
+  pitch: 25.44056510925293
+  world-name: ''
+ip-address: 109.209.200.43
+last-account-name: Gumly
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

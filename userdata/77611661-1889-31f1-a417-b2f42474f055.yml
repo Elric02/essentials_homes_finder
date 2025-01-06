@@ -1,0 +1,47 @@
+timestamps:
+  login: 1475334492092
+  lastteleport: 1474815592795
+  logout: 1475336162004
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1124.699999988079
+  y: 35.0
+  z: -5998.300000011921
+  yaw: -105.51287078857422
+  pitch: 45.763275146484375
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  home:
+    world: world
+    x: -1157.0158850505295
+    y: 71.0
+    z: -5996.621863295927
+    yaw: -43.1961669921875
+    pitch: 15.657628059387207
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1152.2664027567794
+  y: 77.0
+  z: -5998.188006241601
+  yaw: -106.092041015625
+  pitch: 70.33920288085938
+  world-name: ''
+ip-address: 88.181.57.102
+last-account-name: ewen
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

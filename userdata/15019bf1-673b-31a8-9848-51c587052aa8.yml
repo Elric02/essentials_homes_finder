@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.204.244.186
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673977026403
+  login: 1673976481656
+  kits:
+    stationaute: 1673976548096
+money: '0'
+last-account-name: fadils93
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 179.58604614273594
+  y: 63.0
+  z: 19.062460359885296
+  yaw: -86.68453979492188
+  pitch: 8.850183486938477
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 3264.302212877362
+  y: 67.0
+  z: -7483.1368676208185
+  yaw: -15.43499755859375
+  pitch: 71.25004577636719

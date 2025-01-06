@@ -1,0 +1,63 @@
+timestamps:
+  login: 1519634569961
+  lastteleport: 1519634599731
+  logout: 1519634779682
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: -3297.5188351361285
+  y: 4.0
+  z: 3969.7603923076585
+  yaw: -132.2791748046875
+  pitch: 15.149968147277832
+  world-name: ''
+money: '0'
+homes:
+  xp:
+    world: world
+    x: -967.1766472629232
+    y: 161.0
+    z: -3485.221284297575
+    yaw: 314.5940856933594
+    pitch: 65.40003204345703
+    world-name: ''
+  maison:
+    world: world
+    x: -830.7855829014297
+    y: 69.0
+    z: -3539.4134501806607
+    yaw: 192.45010375976562
+    pitch: 15.30000114440918
+    world-name: ''
+  pnj:
+    world: world
+    x: -4256.948307332066
+    y: 63.0
+    z: -3681.453388255089
+    yaw: -89.55179595947266
+    pitch: 13.949950218200684
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -828.8217740875544
+  y: 70.0
+  z: -3547.0272208965594
+  yaw: -335.69976806640625
+  pitch: 19.049989700317383
+  world-name: ''
+afk: false
+ip-address: 78.217.127.21
+last-account-name: Deadbead
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

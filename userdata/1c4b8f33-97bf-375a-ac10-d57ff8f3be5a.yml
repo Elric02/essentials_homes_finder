@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485039744319
+  lastteleport: 1478966382255
+  logout: 1485039857483
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.99744208836802
+  y: 63.0
+  z: 8.035011734598429
+  yaw: 213.65032958984375
+  pitch: 38.25394058227539
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 109.91743748870346
+  y: 63.0
+  z: -29.255572758203705
+  yaw: 58.00703430175781
+  pitch: 24.347949981689453
+  world-name: ''
+money: '0'
+ip-address: 176.147.13.144
+last-account-name: RXDRIGUE
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

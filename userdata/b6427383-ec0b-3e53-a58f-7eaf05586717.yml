@@ -1,0 +1,47 @@
+timestamps:
+  login: 1618863837999
+  lastteleport: 1618865338826
+  logout: 1618866071085
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 186.17004539346863
+  y: 68.0
+  z: 945.4472064767738
+  yaw: -337.0511169433594
+  pitch: 47.40087890625
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1358.0800074762387
+  y: 65.0
+  z: -3028.431147856717
+  yaw: -236.057861328125
+  pitch: 16.94988250732422
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 180.6958306625427
+    y: 50.0
+    z: 957.74254133542
+    yaw: 351.4486083984375
+    pitch: -28.94927406311035
+    world-name: ''
+ip-address: 105.98.140.161
+last-account-name: xshwart31
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

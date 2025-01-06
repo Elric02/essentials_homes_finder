@@ -1,0 +1,38 @@
+timestamps:
+  login: 1463232244138
+  lastteleport: 1463232386372
+  logout: 1463235325632
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 10072.041470038783
+  y: 70.17675927506424
+  z: 10000.76979319926
+  yaw: 82.08833312988281
+  pitch: 34.94997787475586
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 156.58283235196168
+  y: 63.0
+  z: -21.246135668664337
+  yaw: -174.8972625732422
+  pitch: 16.724180221557617
+  world-name: ''
+ip-address: 90.126.33.216
+last-account-name: mini_lili
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

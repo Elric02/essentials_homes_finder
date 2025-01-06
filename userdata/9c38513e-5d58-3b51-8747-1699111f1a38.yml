@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.78.106.141
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1708341991662
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1708365111719
+  login: 1708365073351
+money: '0'
+last-account-name: azertyuiop
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3514.559595817696
+  y: 52.03999999910593
+  z: 3515.0908317367807
+  yaw: 147.529541015625
+  pitch: 7.799858093261719
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3514.559595817696
+  y: 52.0
+  z: 3515.0908317367807
+  yaw: 139.12957763671875
+  pitch: 6.299857139587402

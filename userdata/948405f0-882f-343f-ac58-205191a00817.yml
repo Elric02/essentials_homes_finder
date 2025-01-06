@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477564170468
+  logout: 1477564361539
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 149.4980603258407
+  y: 64.24918707874468
+  z: 60.0564271318589
+  yaw: 269.0526428222656
+  pitch: 16.147397994995117
+  world-name: ''
+ip-address: 83.196.106.223
+last-account-name: PUMBA
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1563988422807
+  lastteleport: 1563994169296
+  logout: 1563994301649
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.1174113870054
+  y: 63.0
+  z: 34.32231798043562
+  yaw: -25.707923889160156
+  pitch: 48.61073303222656
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 718.5192107624774
+  y: 75.0
+  z: 4612.692371626385
+  yaw: -91.7449951171875
+  pitch: 57.25654602050781
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 314.4201396913363
+    y: 107.0
+    z: -667.4813341008468
+    yaw: 299.73974609375
+    pitch: 40.04469299316406
+    world-name: ''
+ip-address: 93.5.136.222
+last-account-name: Hearly
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

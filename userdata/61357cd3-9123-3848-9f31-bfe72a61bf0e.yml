@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468242469457
+  lastteleport: 1468242607388
+  logout: 1468242689959
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7.300000011920934
+  y: 72.16610926093821
+  z: -86.45440200671014
+  yaw: -308.69744873046875
+  pitch: 20.02417755126953
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -276.5
+  y: 69.0
+  z: 344.5
+  yaw: 9.79364013671875
+  pitch: 12.69447135925293
+  world-name: ''
+ip-address: 160.178.27.150
+last-account-name: pixelcraft21
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

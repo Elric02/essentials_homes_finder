@@ -1,0 +1,38 @@
+timestamps:
+  login: 1530633298535
+  logout: 1530633302110
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 148.24502443024528
+  y: 68.5
+  z: 98.71108928415681
+  yaw: 60.38168716430664
+  pitch: 11.853071212768555
+  world-name: ''
+ip-address: 86.242.221.116
+last-account-name: Frezkill
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

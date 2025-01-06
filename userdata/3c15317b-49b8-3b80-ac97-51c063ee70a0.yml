@@ -1,0 +1,38 @@
+timestamps:
+  login: 1524883262613
+  lastteleport: 1524884294804
+  logout: 1524884381529
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4885.070168500756
+  y: 84.0
+  z: -450.7484952338813
+  yaw: 49.92748260498047
+  pitch: 28.350006103515625
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4841.15257937798
+  y: 71.0
+  z: -420.1459408207832
+  yaw: 106.62767791748047
+  pitch: 12.299991607666016
+  world-name: ''
+ip-address: 83.199.53.141
+last-account-name: Blofeld
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

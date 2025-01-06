@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.204.149.193
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720595716608
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720596197935
+  login: 1720595473133
+money: '50.0'
+last-account-name: Victotchi
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 65.39935243428646
+  y: 66.5
+  z: 137.3938658836838
+  yaw: -90.89900970458984
+  pitch: 1.7998952865600586
+homes:
+  home:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 3331.765134542186
+    y: 151.0
+    z: -3994.300000011921
+    yaw: -66.44893646240234
+    pitch: -26.70000457763672
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 3333.7790289826535
+  y: 152.0
+  z: -3994.3649233983556
+  yaw: 104.85113525390625
+  pitch: 4.949945449829102

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482372481067
+  logout: 1482372962034
+  lastteleport: 1482369798330
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 144.9028326591735
+  y: 64.0
+  z: 18.735187435225583
+  yaw: -151.99722290039062
+  pitch: 8.947396278381348
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: 621.3406665342827
+  y: 34.0
+  z: -190.84940235486212
+  yaw: 72.58065795898438
+  pitch: 25.650070190429688
+  world-name: ''
+money: '0'
+ip-address: 88.185.242.63
+last-account-name: Darkbust84
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

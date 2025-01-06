@@ -1,0 +1,47 @@
+timestamps:
+  login: 1597660205050
+  lastteleport: 1597661374710
+  logout: 1597661738704
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -92.87894087178465
+  y: 69.0
+  z: 0.17982809764933438
+  yaw: 129.33013916015625
+  pitch: 57.750038146972656
+  world-name: ''
+money: '0'
+homes:
+  m:
+    world: Ressource
+    x: 86.69999998807907
+    y: 28.0
+    z: 166.69999998807907
+    yaw: 337.0028076171875
+    pitch: -35.33672332763672
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5944.284184752435
+  y: 62.83171076103821
+  z: -1604.039865082426
+  yaw: 33.74945068359375
+  pitch: 66.1947021484375
+  world-name: ''
+ip-address: 90.93.145.158
+last-account-name: Yueronn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

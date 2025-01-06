@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485605318596
+  lastteleport: 1485605342403
+  logout: 1485605462357
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.68184936435784
+  y: 63.0
+  z: 40.44236548903029
+  yaw: -175.2317352294922
+  pitch: -1.8370909690856934
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -847.5476605420686
+  y: 68.0
+  z: -586.6449273490882
+  yaw: -234.0123748779297
+  pitch: 3.0782065391540527
+  world-name: ''
+ip-address: 83.115.183.182
+last-account-name: Le_Renard_Fou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

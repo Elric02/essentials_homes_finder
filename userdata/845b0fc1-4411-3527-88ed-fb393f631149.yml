@@ -1,0 +1,47 @@
+timestamps:
+  login: 1537370757186
+  lastteleport: 1537375366339
+  logout: 1537377242708
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -610.1435784335558
+  y: 71.0
+  z: -4304.60077582659
+  yaw: 44.399261474609375
+  pitch: 30.149900436401367
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: -609.3061584286673
+    y: 71.0
+    z: -4303.617153197653
+    yaw: -345.9019470214844
+    pitch: 29.549917221069336
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -606.1442234856283
+  y: 71.0
+  z: -4303.819360544753
+  yaw: 70.6693115234375
+  pitch: 22.500045776367188
+  world-name: ''
+ip-address: 88.172.192.10
+last-account-name: XvenomX86
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

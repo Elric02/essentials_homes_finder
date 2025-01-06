@@ -1,0 +1,47 @@
+timestamps:
+  login: 1471522632206
+  lastteleport: 1471521095564
+  logout: 1471522781180
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 133.77138784713887
+  y: 63.0
+  z: 19.90280564167076
+  yaw: -52.74365234375
+  pitch: 54.600006103515625
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4414.7473188566955
+  y: 80.0
+  z: 4896.390567411807
+  yaw: -121.5338363647461
+  pitch: 6.121356010437012
+  world-name: ''
+afk: false
+homes:
+  caca:
+    world: world
+    x: -402.5774401223348
+    y: 71.0
+    z: -900.0901595322376
+    yaw: -145.35763549804688
+    pitch: 68.69998168945312
+    world-name: ''
+ip-address: 83.154.36.202
+last-account-name: TW_Iseo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

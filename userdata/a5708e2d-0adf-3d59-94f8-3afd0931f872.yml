@@ -1,0 +1,153 @@
+timestamps:
+  login: 1735988445605
+  logout: 1735988848915
+  lastteleport: 1734799473430
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  kits:
+    stationaute: 1665859922841
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 6216.5
+  y: 67.0
+  z: -1386.5
+  yaw: -67.07990264892578
+  pitch: 21.992380142211914
+  world-name: world
+afk: false
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 6034.713366788039
+  y: 72.875
+  z: -1386.18248862345
+  yaw: 87.97784423828125
+  pitch: -25.094640731811523
+  world-name: world
+homes:
+  dok:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3308.5
+    y: 74.0
+    z: -2660.5
+    yaw: 331.3638610839844
+    pitch: 30.586793899536133
+    world-name: world
+  _:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4119.371813493825
+    y: 53.0
+    z: 3928.7014301479594
+    yaw: -74.0669174194336
+    pitch: 3.283496141433716
+    world-name: world
+  _tage:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1633.5
+    y: 199.0
+    z: -2233.5
+    yaw: -74.581787109375
+    pitch: 14.709787368774414
+    world-name: world
+  chateau:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2034.5
+    y: 58.0
+    z: -3798.5
+    yaw: 86.96321868896484
+    pitch: 44.540138244628906
+    world-name: world
+  demeure:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2580.5
+    y: 77.0
+    z: -176.5
+    yaw: -161.99093627929688
+    pitch: 38.39906311035156
+    world-name: world
+  elysium:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: 1085.5
+    y: 36.0
+    z: -1277.5
+    yaw: -16.6741943359375
+    pitch: 30.287059783935547
+    world-name: Nether
+  m:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -1699.699999988079
+    y: 97.0
+    z: 3103.60308296184
+    yaw: 88.29222106933594
+    pitch: 31.09130096435547
+    world-name: world
+  mat:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3805.6408029695785
+    y: 63.0
+    z: 5057.506569790704
+    yaw: 271.3142395019531
+    pitch: 78.44998931884766
+    world-name: world
+  palais:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6216.950793422709
+    y: 67.0
+    z: -1386.5691976433004
+    yaw: -67.07990264892578
+    pitch: 21.992380142211914
+    world-name: world
+  tabaripote:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4445.5
+    y: 68.0
+    z: 1564.5
+    yaw: 6.629045009613037
+    pitch: 29.14993667602539
+    world-name: world
+  tmp:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -2374.634609227403
+    y: -51.0
+    z: 874.3158661849985
+    yaw: -139.08843994140625
+    pitch: 61.2882080078125
+  tmp2:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -4262.092595801608
+    y: -12.0
+    z: 3394.4327090317524
+    yaw: 101.24365234375
+    pitch: 22.923274993896484
+  templemarin:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -1825.699999988079
+    y: 64.0
+    z: 625.4044633141955
+    yaw: 113.70977020263672
+    pitch: 86.72607421875
+  boisnoir:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 444.69999998807907
+    y: 65.0
+    z: -2415.9285503082815
+    yaw: 96.87655639648438
+    pitch: 31.48193359375
+money: '7648.53666666666670248'
+ip-address: 89.3.205.232
+last-account-name: azetisme
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: true
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

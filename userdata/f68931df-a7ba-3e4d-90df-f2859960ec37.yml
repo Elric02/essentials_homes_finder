@@ -1,0 +1,63 @@
+timestamps:
+  login: 1552070195892
+  logout: 1552070294514
+  lastteleport: 1552069999294
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.9806599880344
+  y: 64.0
+  z: 9.156371594071498
+  yaw: -194.57083129882812
+  pitch: 31.528657913208008
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -630.9443168657896
+  y: 65.0
+  z: -663.9733755294887
+  yaw: -192.8451690673828
+  pitch: 26.849992752075195
+  world-name: ''
+homes:
+  base:
+    world: Ressource
+    x: 919.758452959508
+    y: 64.0
+    z: -3411.712431677417
+    yaw: -22.046398162841797
+    pitch: 13.04999828338623
+    world-name: ''
+  retrouve:
+    world: Ressource
+    x: 127.69999998807907
+    y: 80.0
+    z: 40.695171071696066
+    yaw: -120.48513793945312
+    pitch: -8.066885948181152
+    world-name: ''
+  souces:
+    world: Ressource
+    x: 4629.980958169959
+    y: 67.9375
+    z: 741.6728390315305
+    yaw: 162.9010009765625
+    pitch: 45.44992446899414
+    world-name: ''
+money: '0'
+ip-address: 90.20.198.82
+last-account-name: LoganYT11
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477853706284
+  logout: 1477853764777
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1363.7314077195324
+  y: 68.0
+  z: -4063.3032203551306
+  yaw: -135.30014038085938
+  pitch: 72.29999542236328
+  world-name: ''
+ip-address: 81.244.133.198
+last-account-name: Turmox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1669396277976
+  lastteleport: 1666793481981
+  logout: 1669396383511
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: bd63a69b-f162-438e-8437-fbdb5ea04361
+  x: -15.638749315586168
+  y: 89.5
+  z: -3.473952309963786
+  yaw: 16.79705810546875
+  pitch: 27.48578453063965
+  world-name: Ressource
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -377.30000001192093
+  y: 53.0
+  z: 2333.300000011921
+  yaw: -63.153038024902344
+  pitch: 47.24996566772461
+  world-name: world
+money: '0'
+homes:
+  ville:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 670.5
+    y: 73.0
+    z: -3659.5
+    yaw: -1.9499977827072144
+    pitch: 13.80000114440918
+    world-name: world
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2552.7349000041786
+    y: 72.0
+    z: -6581.194794264147
+    yaw: 318.0047912597656
+    pitch: 36.89997100830078
+    world-name: world
+afk: false
+ip-address: 77.198.187.27
+last-account-name: baptiste78
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

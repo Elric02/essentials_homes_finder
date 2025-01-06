@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616603498603
+  logout: 1616603590290
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.45268119347406
+  y: 64.0
+  z: 27.114610225551438
+  yaw: 175.1478271484375
+  pitch: 9.690658569335938
+  world-name: ''
+ip-address: 77.198.188.209
+last-account-name: LaurKev
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

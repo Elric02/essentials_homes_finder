@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516638062982
+  logout: 1516638394419
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -11.637073064382427
+  y: 65.0
+  z: 8.502632229014203
+  yaw: 100.14691162109375
+  pitch: 34.290653228759766
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -158.1610368045811
+  y: 47.0
+  z: 564.2153462625761
+  yaw: 182.1968994140625
+  pitch: 22.440654754638672
+  world-name: ''
+ip-address: 86.241.217.40
+last-account-name: PresidGamingYTB
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

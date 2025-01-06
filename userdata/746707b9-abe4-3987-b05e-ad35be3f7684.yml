@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472769600063
+  lastteleport: 1472772427799
+  logout: 1472775971198
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -939.0
+  y: 94.0
+  z: -5864.0
+  yaw: -1.0499999523162842
+  pitch: 31.49999237060547
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1575.3667077401435
+  y: 63.0
+  z: -812.877344406362
+  yaw: 286.23193359375
+  pitch: 5.400027275085449
+  world-name: ''
+ip-address: 78.238.144.25
+last-account-name: Xeo_Gamerz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

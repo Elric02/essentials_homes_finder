@@ -1,0 +1,38 @@
+timestamps:
+  login: 1520089709388
+  lastteleport: 1520089789876
+  logout: 1520089830590
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 139.00845781035653
+  y: 58.33992864100909
+  z: 108.9596558376086
+  yaw: -69.50292205810547
+  pitch: -38.75937271118164
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 176.27769078940815
+  y: 63.0
+  z: 18.297353058511185
+  yaw: -268.07086181640625
+  pitch: 4.378676891326904
+  world-name: ''
+ip-address: 41.102.201.139
+last-account-name: Creotonic
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

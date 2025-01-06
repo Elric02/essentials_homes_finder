@@ -1,0 +1,38 @@
+timestamps:
+  login: 1588015393674
+  logout: 1588015542890
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 125.63380594866554
+  y: 63.0
+  z: 24.42704397391116
+  yaw: -64.2975845336914
+  pitch: 5.0347113609313965
+  world-name: ''
+ip-address: 176.152.230.40
+last-account-name: NotProPlayer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

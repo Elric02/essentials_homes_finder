@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 169.150.196.141
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701291626553
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701363081533
+  login: 1701363043987
+money: '0'
+last-account-name: antho_du_73
+lastlocation:
+  world: f61e5df3-509e-47ed-92a4-8a53ad3c271c
+  world-name: Ressource
+  x: -1835.9226224033268
+  y: 34.0
+  z: -891.7813085176249
+  yaw: 56.39874267578125
+  pitch: 32.10001754760742
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1995.2261612338436
+  y: 76.0
+  z: 5002.6680016421515
+  yaw: -50.363487243652344
+  pitch: 71.99999237060547

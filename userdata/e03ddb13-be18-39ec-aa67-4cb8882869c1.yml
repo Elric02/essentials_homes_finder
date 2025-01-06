@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508347484797
+  logout: 1508347618361
+  lastteleport: 1508347539833
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.78721937630058
+  y: 63.0
+  z: 56.503781553252935
+  yaw: -19.99730682373047
+  pitch: 4.447412014007568
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -158.45328498459202
+  y: 47.0
+  z: 455.73283506873804
+  yaw: 179.0489501953125
+  pitch: 22.86777114868164
+  world-name: ''
+ip-address: 90.103.10.182
+last-account-name: _Sulfiox_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

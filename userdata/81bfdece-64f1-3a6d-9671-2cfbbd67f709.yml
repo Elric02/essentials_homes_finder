@@ -1,0 +1,30 @@
+timestamps:
+  login: 1472578851215
+  lastteleport: 1472578949969
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 0
+lastlocation:
+  world: world
+  x: 152.1185348705143
+  y: 64.0
+  z: 21.41848335604134
+  yaw: -71.747314453125
+  pitch: 26.047420501708984
+  world-name: ''
+ip-address: 176.149.220.98
+last-account-name: blondie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

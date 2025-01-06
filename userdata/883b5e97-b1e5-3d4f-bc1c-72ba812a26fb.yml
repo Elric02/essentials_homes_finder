@@ -1,0 +1,38 @@
+timestamps:
+  login: 1507368399751
+  logout: 1507368431012
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.91304786884027
+  y: 63.0
+  z: 44.2492804008269
+  yaw: -178.09742736816406
+  pitch: 0.5474008321762085
+  world-name: ''
+ip-address: 176.143.213.49
+last-account-name: faucheur2303
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

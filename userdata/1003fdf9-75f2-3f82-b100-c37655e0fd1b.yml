@@ -1,0 +1,47 @@
+timestamps:
+  login: 1501438607694
+  lastteleport: 1501438618021
+  logout: 1501438658445
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2238.2070863041395
+  y: 62.0
+  z: 5108.699999988079
+  yaw: -0.975830078125
+  pitch: 43.950016021728516
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2239.300000011921
+  y: 68.0
+  z: 5105.03349314228
+  yaw: -74.04605102539062
+  pitch: 8.003674507141113
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -2246.0576105236864
+    y: 70.0
+    z: 5096.3861047234805
+    yaw: -214.1459197998047
+    pitch: 28.703689575195312
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 2.6.6.181
+last-account-name: SilverLake
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

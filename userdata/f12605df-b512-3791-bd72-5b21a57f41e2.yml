@@ -1,0 +1,63 @@
+timestamps:
+  login: 1611962547894
+  lastteleport: 1611965740614
+  logout: 1611965768250
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2457.1026269435874
+  y: 75.0
+  z: 3573.3223408437925
+  yaw: -224.90966796875
+  pitch: 40.84800338745117
+  world-name: ''
+money: '0'
+homes:
+  snow:
+    world: Ressource
+    x: 150.61448811375325
+    y: 63.0
+    z: 1499.2265101832782
+    yaw: 38.09280776977539
+    pitch: 11.059200286865234
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 557.8073121481976
+    y: 11.0
+    z: 1020.3000000119209
+    yaw: -313.3437194824219
+    pitch: 42.09597396850586
+    world-name: ''
+  home:
+    world: world
+    x: 5107.22244686395
+    y: 62.0
+    z: 6942.102203307615
+    yaw: -263.34375
+    pitch: 18.115215301513672
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 95.04291577991222
+  y: 63.0
+  z: -45.15897032247339
+  yaw: -230.2974395751953
+  pitch: 14.491072654724121
+  world-name: ''
+ip-address: 90.24.52.151
+last-account-name: zoraigle
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

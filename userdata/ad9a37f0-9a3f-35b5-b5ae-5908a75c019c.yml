@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.184.104.162
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1670252998901
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670253320500
+  login: 1670252747636
+money: '0'
+last-account-name: Orangeduturfu
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 151.25290603522268
+  y: 64.0
+  z: 18.940480176232178
+  yaw: -130.7849884033203
+  pitch: 1.9500783681869507
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -314.08680342959514
+  y: 75.20000004768372
+  z: 329.2844463178887
+  yaw: 36.80916213989258
+  pitch: 38.10004806518555

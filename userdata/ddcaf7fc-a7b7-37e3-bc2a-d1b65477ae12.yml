@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487340994321
+  lastteleport: 1487342451713
+  logout: 1487342548612
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4848.491880619819
+  y: 75.0
+  z: -481.8604353780555
+  yaw: -240.1729736328125
+  pitch: 12.90000057220459
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5000.300000011921
+  y: 71.0
+  z: -661.6545812357
+  yaw: -114.02236938476562
+  pitch: 45.29998016357422
+  world-name: ''
+ip-address: 78.229.198.18
+last-account-name: ll10
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

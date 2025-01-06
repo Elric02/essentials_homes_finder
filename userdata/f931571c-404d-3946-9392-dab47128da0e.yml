@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472682946663
+  logout: 1472682988867
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.43345694997095
+  y: 63.0
+  z: 40.39654281640024
+  yaw: 213.50051879882812
+  pitch: 5.253162384033203
+  world-name: ''
+ip-address: 109.88.208.43
+last-account-name: FriPvP01
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

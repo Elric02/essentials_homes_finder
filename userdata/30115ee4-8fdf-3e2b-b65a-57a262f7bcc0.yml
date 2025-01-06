@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480884619636
+  logout: 1480884746130
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -27.178156914852597
+  y: 78.0
+  z: 103.52251866446633
+  yaw: -255.51531982421875
+  pitch: 26.743579864501953
+  world-name: ''
+ip-address: 62.167.127.101
+last-account-name: leaphar12
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

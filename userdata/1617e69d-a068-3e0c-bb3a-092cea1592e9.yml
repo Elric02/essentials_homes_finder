@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482515138561
+  lastteleport: 1482516048501
+  logout: 1482517548501
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 136.54767993563064
+  y: 63.0
+  z: -27.616741239241055
+  yaw: -202.41082763671875
+  pitch: 4.183991432189941
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -605.789948500946
+  y: 65.0
+  z: -670.4345352577072
+  yaw: -9.097373008728027
+  pitch: 53.69999313354492
+  world-name: ''
+ip-address: 90.51.70.211
+last-account-name: EsTeB_12
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

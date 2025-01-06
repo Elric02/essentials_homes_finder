@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.193.56.77
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673104317773
+  login: 1673104298690
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9081008882599
+  y: 81.0
+  z: -3111.3638307192055
+  yaw: -71.54817962646484
+  pitch: 15.749953269958496
+last-account-name: Laguioche
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 415.6630606287753
+  y: 80.5
+  z: -3097.5656722263466
+  yaw: -4.04817533493042
+  pitch: 4.499971389770508

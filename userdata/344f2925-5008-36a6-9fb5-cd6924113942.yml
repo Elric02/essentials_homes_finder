@@ -1,0 +1,47 @@
+timestamps:
+  login: 1493474645486
+  lastteleport: 1493413131803
+  logout: 1493479490956
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.0850304748691
+  y: 63.0
+  z: 45.25424674586435
+  yaw: -181.39739990234375
+  pitch: 19.747398376464844
+  world-name: ''
+homes:
+  home1:
+    world: world
+    x: 3535.1706117375165
+    y: 63.0
+    z: -1425.937941852812
+    yaw: 241.42990112304688
+    pitch: 27.44996452331543
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3526.7317190641074
+  y: 66.0
+  z: -1435.073295710804
+  yaw: 163.7734375
+  pitch: 16.649974822998047
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 78.120.147.24
+last-account-name: Krashfiston
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

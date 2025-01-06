@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519678720979
+  lastteleport: 1519678935555
+  logout: 1519679113398
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.96303768312012
+  y: 64.0
+  z: 19.98070327307289
+  yaw: 233.95359802246094
+  pitch: 85.67121887207031
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -7022.460817648675
+  y: 81.0
+  z: 788.2886097612993
+  yaw: -314.6678161621094
+  pitch: 16.633195877075195
+  world-name: ''
+ip-address: 88.178.23.148
+last-account-name: ShinArisuu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

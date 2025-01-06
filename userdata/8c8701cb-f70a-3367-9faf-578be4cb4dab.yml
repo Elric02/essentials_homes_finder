@@ -1,0 +1,63 @@
+timestamps:
+  login: 1519152250838
+  lastteleport: 1518806001503
+  logout: 1519152323946
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: Builder
+  x: -747.6327861212861
+  y: 47.0
+  z: 28.44665987780214
+  yaw: 202.64993286132812
+  pitch: 8.250035285949707
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4937.27179392548
+  y: 65.0
+  z: -6840.321522493463
+  yaw: -31.735502243041992
+  pitch: 17.70000648498535
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  domaine:
+    world: world
+    x: 4892.804749551378
+    y: 21.0625
+    z: -6922.231045865388
+    yaw: -168.75650024414062
+    pitch: 17.2089900970459
+    world-name: ''
+  ile:
+    world: world
+    x: -326.72981831559275
+    y: 40.0
+    z: 3461.8657091493696
+    yaw: 150.65359497070312
+    pitch: 33.299949645996094
+    world-name: ''
+  farm:
+    world: Ressource
+    x: 2832.8412569550205
+    y: 73.0
+    z: 628.9642209468653
+    yaw: -13.649999618530273
+    pitch: 3.0
+    world-name: ''
+muted: false
+godmode: false
+jailed: false
+ip-address: 93.27.55.61
+last-account-name: Noracli
+teleportenabled: true
+teleportauto: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

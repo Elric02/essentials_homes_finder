@@ -1,0 +1,63 @@
+timestamps:
+  login: 1487872102968
+  lastteleport: 1487803278623
+  logout: 1487872456356
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 484.7929112998945
+  y: 63.0
+  z: 68.73017583491733
+  yaw: -87.311279296875
+  pitch: 5.06551456451416
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2914.402633769534
+    y: 66.0
+    z: -4273.201358715744
+    yaw: -2.906341552734375
+    pitch: 11.068795204162598
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 373.98259041902685
+    y: 11.0
+    z: 224.52969820713716
+    yaw: -268.80718994140625
+    pitch: 13.704275131225586
+    world-name: ''
+  spawner:
+    world: Ressource
+    x: 19.17411162650652
+    y: 24.0
+    z: 238.69999998807907
+    yaw: -16.849390029907227
+    pitch: -65.25081634521484
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2921.166408563888
+  y: 66.0625
+  z: -4268.00809771787
+  yaw: -354.0630798339844
+  pitch: 6.737256050109863
+  world-name: ''
+afk: false
+muted: true
+ip-address: 81.254.192.254
+last-account-name: Azt3k_
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

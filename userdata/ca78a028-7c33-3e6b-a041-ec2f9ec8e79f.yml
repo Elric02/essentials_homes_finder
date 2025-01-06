@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615573957246
+  lastteleport: 1615555543540
+  logout: 1615577848468
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2237.740823319388
+  y: 12.0
+  z: -1514.7342945078583
+  yaw: 98.41650390625
+  pitch: 29.399883270263672
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 493.4781959361658
+  y: 16.0
+  z: -2066.798921041297
+  yaw: 276.4326171875
+  pitch: 6.899696350097656
+  world-name: ''
+ip-address: 81.251.8.193
+last-account-name: Zygord
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.67.143.207
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1725882959586
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725883096282
+  login: 1725882826350
+money: '0'
+last-account-name: Navegrz
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 300.42854748375436
+  y: 63.03304058162378
+  z: -689.2205982377762
+  yaw: -130.05648803710938
+  pitch: 38.46950912475586
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 859.9498708310647
+  y: 60.30905257165206
+  z: -53.41686972010716
+  yaw: -44.60125732421875
+  pitch: 33.22173309326172

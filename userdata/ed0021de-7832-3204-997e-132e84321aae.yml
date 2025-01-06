@@ -1,0 +1,63 @@
+timestamps:
+  login: 1602342734933
+  lastteleport: 1602342991669
+  logout: 1602343058113
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3526.938707366457
+  y: 45.0
+  z: 5648.595065057065
+  yaw: 53.722713470458984
+  pitch: 1.3774199485778809
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 454.7697611754509
+  y: 140.0
+  z: 6085.56373735336
+  yaw: -156.43328857421875
+  pitch: 43.12958526611328
+  world-name: ''
+homes:
+  xp:
+    world: End
+    x: 333.08042103313414
+    y: 57.0
+    z: -5.47215616740002
+    yaw: 48.618404388427734
+    pitch: 7.800568580627441
+    world-name: ''
+  coffres:
+    world: world
+    x: -3526.8665693598136
+    y: 45.0
+    z: 5637.181730461407
+    yaw: -0.03932168334722519
+    pitch: 18.150259017944336
+    world-name: ''
+  fer:
+    world: world
+    x: 455.69999998807907
+    y: 140.0
+    z: 6085.356032299905
+    yaw: -268.3437805175781
+    pitch: -39.1500129699707
+    world-name: ''
+afk: false
+ip-address: 176.164.12.18
+last-account-name: Masterframe64
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

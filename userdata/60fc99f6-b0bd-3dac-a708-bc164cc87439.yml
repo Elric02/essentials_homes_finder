@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509730133641
+  logout: 1509730327895
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 162.43408936153406
+  y: 64.0
+  z: 17.66138797134094
+  yaw: -350.9388427734375
+  pitch: 16.752376556396484
+  world-name: ''
+ip-address: 78.215.214.71
+last-account-name: Mama_du_3612
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

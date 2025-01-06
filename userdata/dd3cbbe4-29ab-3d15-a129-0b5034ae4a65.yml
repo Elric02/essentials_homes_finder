@@ -1,0 +1,47 @@
+timestamps:
+  login: 1555162674002
+  logout: 1555165801873
+  lastteleport: 1555165115586
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 728.8312531037914
+  y: 64.0
+  z: -780.0501735308562
+  yaw: 224.84898376464844
+  pitch: 18.600086212158203
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4501.091258514192
+  y: 63.0
+  z: 1949.3213214675459
+  yaw: -98.9898681640625
+  pitch: 8.250032424926758
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -4501.59001187476
+    y: 63.0
+    z: 1955.2418317682898
+    yaw: -118.63905334472656
+    pitch: -15.749995231628418
+    world-name: ''
+afk: false
+ip-address: 77.196.177.185
+last-account-name: Lerfsqua
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

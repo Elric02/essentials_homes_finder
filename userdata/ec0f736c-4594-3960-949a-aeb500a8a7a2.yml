@@ -1,0 +1,55 @@
+timestamps:
+  login: 1596668167592
+  lastteleport: 1596668192085
+  logout: 1596668285427
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2800.5002990820617
+  y: 47.0625
+  z: -223.1329686722451
+  yaw: 0.026519775390625
+  pitch: -4.0264811515808105
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -2779.4374222926976
+  y: 79.0
+  z: -75.51785521642826
+  yaw: -267.0811767578125
+  pitch: 25.373088836669922
+  world-name: ''
+homes:
+  ferme:
+    world: world
+    x: 2855.6046127070954
+    y: 64.0
+    z: -4034.131458291671
+    yaw: 90.33889770507812
+    pitch: 11.946183204650879
+    world-name: ''
+  base:
+    world: world
+    x: -4096.5
+    y: 53.5
+    z: 3948.5
+    yaw: -180.19873046875
+    pitch: 2.1467044353485107
+    world-name: ''
+ip-address: 90.45.186.132
+last-account-name: wrench
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

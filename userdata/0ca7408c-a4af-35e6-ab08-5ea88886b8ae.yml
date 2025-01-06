@@ -1,0 +1,38 @@
+timestamps:
+  login: 1626714345407
+  lastteleport: 1626714483174
+  logout: 1626714699843
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 2972.481949900243
+  y: 65.875
+  z: -1190.5066799605602
+  yaw: 216.3594512939453
+  pitch: 74.44230651855469
+  world-name: ''
+ip-address: 91.162.115.81
+last-account-name: ThomKraft
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

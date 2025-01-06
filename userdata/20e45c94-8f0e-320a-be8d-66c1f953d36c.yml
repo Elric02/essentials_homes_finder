@@ -1,0 +1,47 @@
+timestamps:
+  login: 1509293243921
+  lastteleport: 1509303568849
+  logout: 1509305129051
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: -4490.178103762317
+  y: 36.0
+  z: 5769.080240011817
+  yaw: -93.3233642578125
+  pitch: 13.950035095214844
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 1149.4903090743878
+    y: 70.0
+    z: -1663.7214960570416
+    yaw: 93.7491455078125
+    pitch: 8.849940299987793
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 1199.9912868935478
+  y: 60.0
+  z: -1643.2558881041064
+  yaw: 42.4453125
+  pitch: 4.79992151260376
+  world-name: ''
+ip-address: 92.133.101.196
+last-account-name: iSlay
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1512400080830
+  logout: 1512400495569
+  lastteleport: 1512400439663
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4857.782103282989
+  y: 71.0
+  z: -540.744785471197
+  yaw: -196.822265625
+  pitch: 18.74998664855957
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -155.80047857212307
+  y: 47.0
+  z: 507.9865742053232
+  yaw: 140.34857177734375
+  pitch: 17.54993438720703
+  world-name: ''
+money: '0'
+ip-address: 86.212.251.113
+last-account-name: supergeekgaming
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

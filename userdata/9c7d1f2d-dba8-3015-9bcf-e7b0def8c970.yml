@@ -1,0 +1,38 @@
+timestamps:
+  login: 1565643211337
+  lastteleport: 1565643225118
+  logout: 1565644400174
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7639.2839354749385
+  y: 74.0
+  z: -7767.675462128231
+  yaw: 70.42047119140625
+  pitch: 23.700031280517578
+  world-name: ''
+logoutlocation:
+  world: Event
+  x: 720.5
+  y: 3.7125
+  z: -1289.4900000095367
+  yaw: -244.20895385742188
+  pitch: 15.600021362304688
+  world-name: ''
+money: '0'
+ip-address: 90.12.81.146
+last-account-name: Slosk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

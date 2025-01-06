@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466900044045
+  logout: 1466900126788
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 219.32045230108963
+  y: 63.0
+  z: -67.17820670521735
+  yaw: 86.7030258178711
+  pitch: 2.624190092086792
+  world-name: ''
+ip-address: 109.220.225.208
+last-account-name: Ghafrux
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

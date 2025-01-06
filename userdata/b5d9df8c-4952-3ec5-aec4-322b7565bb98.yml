@@ -1,0 +1,55 @@
+timestamps:
+  login: 1481474784529
+  lastteleport: 1481470953096
+  logout: 1481474848810
+  jail: 0
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2514.7703459751683
+  y: 67.0
+  z: 6804.211970256771
+  yaw: -40.035888671875
+  pitch: 24.547216415405273
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 3107.5089084331994
+    y: 73.0
+    z: 576.9537999996485
+    yaw: -268.27520751953125
+    pitch: -3.164766788482666
+    world-name: ''
+  sable:
+    world: Ressource
+    x: 1035.346352267792
+    y: 68.0
+    z: 2346.493993562327
+    yaw: -81.06633758544922
+    pitch: 21.349933624267578
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 3127.501181995712
+  y: 72.0
+  z: 591.1892956793945
+  yaw: -187.8033447265625
+  pitch: 15.4291410446167
+  world-name: ''
+jailed: false
+muted: false
+ip-address: 77.128.145.143
+last-account-name: Dorian22460
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1463075695728
+  logout: 1463075787704
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 19.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 107.72055207170062
+  y: 63.0
+  z: 26.847611781042744
+  yaw: -278.9970703125
+  pitch: -1.725801944732666
+  world-name: ''
+ip-address: 78.121.107.194
+last-account-name: XxBlack_JackxX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1603733945099
+  logout: 1603735089457
+  lastteleport: 1603621362181
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1416.1289770453227
+  y: 13.0
+  z: -1798.7600309229013
+  yaw: -78.6018295288086
+  pitch: 1.0499180555343628
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4516.799325166574
+  y: 64.9375
+  z: -1932.9583684777888
+  yaw: 19.659074783325195
+  pitch: -11.39999771118164
+  world-name: ''
+money: '0'
+homes:
+  dd:
+    world: world
+    x: -4541.626514573276
+    y: 64.0
+    z: -1918.4990574311696
+    yaw: 29.85171890258789
+    pitch: 23.066225051879883
+    world-name: ''
+  ll:
+    world: Ressource
+    x: 1359.6088477860146
+    y: 12.0
+    z: -1715.6841452229983
+    yaw: -274.79730224609375
+    pitch: 71.09994506835938
+    world-name: ''
+afk: false
+ip-address: 176.168.76.81
+last-account-name: slimgrrrrrr
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

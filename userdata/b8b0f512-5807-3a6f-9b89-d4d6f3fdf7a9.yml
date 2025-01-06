@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618817317581
+  logout: 1618817454019
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 40.5490037895906
+  y: 65.0
+  z: 1.5798720840826865
+  yaw: -321.9284973144531
+  pitch: 19.63925552368164
+  world-name: ''
+ip-address: 92.92.5.10
+last-account-name: babel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

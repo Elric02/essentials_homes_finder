@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511025589591
+  lastteleport: 1511025714779
+  logout: 1511025745036
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.49322248776565
+  y: 63.0
+  z: 48.5
+  yaw: -268.847412109375
+  pitch: -5.7054057121276855
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -399.95898827955415
+  y: 61.0
+  z: -3918.9496657269
+  yaw: 74.34305572509766
+  pitch: 55.1964111328125
+  world-name: ''
+ip-address: 92.129.80.126
+last-account-name: lucifer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616880676088
+  lastteleport: 1616880779670
+  logout: 1616880835798
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.07846377548302
+  y: 63.0
+  z: 41.26017975241558
+  yaw: -125.7531967163086
+  pitch: 13.890414237976074
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 24.21620508562507
+  y: 62.0
+  z: -9.464537836959972
+  yaw: -248.5601806640625
+  pitch: -0.11401351541280746
+  world-name: ''
+ip-address: 82.142.28.236
+last-account-name: stan26120
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

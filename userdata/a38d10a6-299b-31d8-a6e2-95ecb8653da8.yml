@@ -1,0 +1,38 @@
+timestamps:
+  login: 1522262910311
+  logout: 1522264531776
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2774.8880031571125
+  y: 110.0
+  z: 4904.26703656623
+  yaw: -76.79999542236328
+  pitch: 27.599977493286133
+  world-name: ''
+ip-address: 2.7.73.18
+last-account-name: Baramine
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

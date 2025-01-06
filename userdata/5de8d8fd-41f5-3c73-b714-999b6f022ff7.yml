@@ -1,0 +1,47 @@
+timestamps:
+  login: 1480346650754
+  lastteleport: 1480346587926
+  logout: 1480346819491
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -91.8678345844447
+  y: 67.5
+  z: 626.4199755138213
+  yaw: -111.74990844726562
+  pitch: 12.300047874450684
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1002.9516396534682
+    y: 70.0
+    z: 2650.8557312268304
+    yaw: -15.15386962890625
+    pitch: 31.800048828125
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1002.211357734382
+  y: 70.0
+  z: 2654.018808526264
+  yaw: -357.30377197265625
+  pitch: 16.95004653930664
+  world-name: ''
+ip-address: 86.111.138.141
+last-account-name: Chrislacrasse
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

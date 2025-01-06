@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476463699671
+  logout: 1476463719965
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 32.77964310288241
+  y: 94.05657324427366
+  z: 17.34153800940388
+  yaw: -274.3919982910156
+  pitch: 10.790446281433105
+  world-name: ''
+ip-address: 93.13.52.228
+last-account-name: LeBlancHentai
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

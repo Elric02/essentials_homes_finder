@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509224422255
+  logout: 1509224456319
+  lastteleport: 1509224066546
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6277.092048062629
+  y: 54.5
+  z: -6000.698125585806
+  yaw: -132.85446166992188
+  pitch: 39.89995193481445
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 150.94951519031372
+  y: 63.0
+  z: 44.752228729615354
+  yaw: 8.979178428649902
+  pitch: 24.778671264648438
+  world-name: ''
+ip-address: 78.231.238.106
+last-account-name: VariableTY_Real
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1597363614654
+  logout: 1597363767717
+  lastteleport: 1597363765441
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: 336.30000001192093
+  y: 57.0
+  z: -3.420677504341214
+  yaw: -124.18521118164062
+  pitch: 22.350711822509766
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 109.211.193.26
+last-account-name: OYamaS
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

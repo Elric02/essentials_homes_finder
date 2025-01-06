@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.126.247.170
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1689188168749
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1689188221452
+  login: 1689186177047
+money: '150.0'
+last-account-name: Sumalee
+lastlocation:
+  world: 813c82cd-b0d8-4b2f-bdff-f3b2b9aef2e9
+  world-name: Ressource
+  x: -15.91268775383635
+  y: 89.5
+  z: -5.177633081143642
+  yaw: -174.7510986328125
+  pitch: 26.285751342773438
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -67.31356057407272
+  y: 80.0
+  z: 130.34925375486333
+  yaw: 161.25465393066406
+  pitch: 14.699861526489258

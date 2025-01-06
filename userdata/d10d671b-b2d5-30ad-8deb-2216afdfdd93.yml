@@ -1,0 +1,38 @@
+timestamps:
+  login: 1551608963682
+  lastteleport: 1551614795132
+  logout: 1551616830703
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.39372154542227
+  y: 70.0
+  z: -1723.9762154364266
+  yaw: 69.39096069335938
+  pitch: 7.35003662109375
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 210.5566350495532
+  y: 104.0
+  z: -1632.1118567367353
+  yaw: 216.09027099609375
+  pitch: -19.350008010864258
+  world-name: ''
+ip-address: 83.113.93.225
+last-account-name: muchu27
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

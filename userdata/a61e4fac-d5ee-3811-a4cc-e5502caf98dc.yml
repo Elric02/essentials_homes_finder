@@ -1,0 +1,38 @@
+timestamps:
+  login: 1506153057452
+  lastteleport: 1506154636716
+  logout: 1506154832765
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2239.5087988561086
+  y: 72.0
+  z: -2606.8317421824063
+  yaw: -162.06878662109375
+  pitch: 13.734956741333008
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 328.1825049474506
+  y: 65.25220334025373
+  z: -872.4095863856379
+  yaw: -184.0689697265625
+  pitch: 63.89897155761719
+  world-name: ''
+ip-address: 90.14.250.9
+last-account-name: Cotiby
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

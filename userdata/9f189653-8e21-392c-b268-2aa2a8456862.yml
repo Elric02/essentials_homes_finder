@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480714646289
+  lastteleport: 1474991805528
+  logout: 1480714723994
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -209.79112232068775
+  y: 73.0
+  z: 4195.656465093523
+  yaw: -358.6165466308594
+  pitch: 48.50122833251953
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -172.2995715338873
+  y: 69.0
+  z: 4232.568980944217
+  yaw: -228.7750244140625
+  pitch: 24.000173568725586
+  world-name: ''
+ip-address: 77.132.31.106
+last-account-name: Zicamox_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

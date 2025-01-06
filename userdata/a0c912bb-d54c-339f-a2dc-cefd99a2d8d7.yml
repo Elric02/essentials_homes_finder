@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482157282563
+  logout: 1482157289363
+  lastteleport: 1482155404222
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6365.081361416689
+  y: 70.0
+  z: 2886.8668424876014
+  yaw: 132.89999389648438
+  pitch: 32.2499885559082
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -129.381635412101
+  y: 82.0
+  z: 6749.079619192991
+  yaw: 73.35031127929688
+  pitch: 14.700004577636719
+  world-name: ''
+afk: false
+ip-address: 78.230.153.46
+last-account-name: tauriel9767
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

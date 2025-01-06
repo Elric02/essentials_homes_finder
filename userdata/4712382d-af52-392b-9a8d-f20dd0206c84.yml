@@ -1,0 +1,55 @@
+timestamps:
+  login: 1467715758614
+  lastteleport: 1467722643580
+  logout: 1467722679028
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: 147.08022076765468
+  y: 74.0
+  z: -67.76585648530326
+  yaw: 92.09954833984375
+  pitch: 13.200002670288086
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 200.30000001192093
+  y: 63.0
+  z: 404.0777151186388
+  yaw: 265.79364013671875
+  pitch: 13.7999849319458
+  world-name: ''
+homes:
+  home:
+    world: Ressource
+    x: 202.30233969246186
+    y: 63.0
+    z: 401.8135526446677
+    yaw: 280.6435546875
+    pitch: 20.700008392333984
+    world-name: ''
+  nether:
+    world: world_nether
+    x: 145.78471248179054
+    y: 74.0
+    z: -81.35415281044496
+    yaw: 131.99859619140625
+    pitch: -12.15001392364502
+    world-name: ''
+ip-address: 81.249.218.194
+last-account-name: Ber0Flo1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

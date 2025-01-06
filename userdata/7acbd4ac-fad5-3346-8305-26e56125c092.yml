@@ -1,0 +1,55 @@
+timestamps:
+  login: 1482528274893
+  lastteleport: 1482528466438
+  logout: 1482528610626
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 956.661270648799
+  y: 87.0
+  z: -1113.9315308571652
+  yaw: -303.0606689453125
+  pitch: 15.4500093460083
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 925.9250000119209
+  y: 88.0
+  z: -1087.699999988079
+  yaw: -165.8109130859375
+  pitch: 52.650001525878906
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 935.8871060303613
+    y: 100.0
+    z: -1062.992288992906
+    yaw: -0.961029052734375
+    pitch: 23.249996185302734
+    world-name: ''
+  cheveau:
+    world: ressource
+    x: 495.6450626430755
+    y: 67.0
+    z: 83.40607643990604
+    yaw: -337.9920654296875
+    pitch: 30.299985885620117
+    world-name: ''
+afk: false
+ip-address: 109.222.4.113
+last-account-name: JolateLive72
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

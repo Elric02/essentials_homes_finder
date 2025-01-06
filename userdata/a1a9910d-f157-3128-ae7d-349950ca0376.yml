@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521748119452
+  lastteleport: 1521748425074
+  logout: 1521748523558
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 199.0138066415675
+  y: 66.0
+  z: -4.854547915313731
+  yaw: -180.32086181640625
+  pitch: -8.071331024169922
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -134.87083435058594
+  pitch: -17.071331024169922
+  world-name: ''
+ip-address: 89.3.91.238
+last-account-name: Nekyu72
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

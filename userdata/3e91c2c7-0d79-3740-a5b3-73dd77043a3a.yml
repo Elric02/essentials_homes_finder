@@ -1,0 +1,47 @@
+timestamps:
+  login: 1502717057712
+  lastteleport: 1496333798371
+  logout: 1502717742512
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 103.38469556015121
+  y: 71.0
+  z: -60.62148197384935
+  yaw: -71.01090240478516
+  pitch: 11.574507713317871
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4876.237500011921
+  y: 69.0
+  z: -374.1626565286362
+  yaw: -71.18798828125
+  pitch: -44.91617202758789
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 151.28362441268982
+    y: 63.0
+    z: 45.42638644080735
+    yaw: 6.389071464538574
+    pitch: 30.17451286315918
+    world-name: ''
+ip-address: 31.34.5.235
+last-account-name: LOL_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

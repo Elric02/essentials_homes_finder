@@ -1,0 +1,63 @@
+timestamps:
+  login: 1487677543981
+  lastteleport: 1487677578189
+  logout: 1487677653008
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2567.7024867809
+  y: 85.0
+  z: 2318.2040029130976
+  yaw: -276.7439880371094
+  pitch: 88.15679931640625
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 3330.3447310950396
+    y: 75.0
+    z: -5624.756406732097
+    yaw: -172.64627075195312
+    pitch: -18.432004928588867
+    world-name: ''
+  ressource:
+    world: ressource
+    x: 232.0669484896387
+    y: 8.0
+    z: 132.71203037491304
+    yaw: -304.01904296875
+    pitch: 22.41599464416504
+    world-name: ''
+  mending:
+    world: world
+    x: -2590.860869474735
+    y: 84.0
+    z: 2323.578151923024
+    yaw: -66.6575927734375
+    pitch: 22.111099243164062
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3325.7457347501527
+  y: 68.0
+  z: -5626.237500011921
+  yaw: -70.04133605957031
+  pitch: 27.03359603881836
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 82.249.65.144
+last-account-name: AngelOfTheDark
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,64 @@
+timestamps:
+  login: 1486902978810
+  logout: 1486905290241
+  lastteleport: 1486903447365
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6891.982780443902
+  y: 110.0
+  z: -5380.159363368944
+  yaw: -77.9361572265625
+  pitch: 9.17134952545166
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3048.024182161797
+  y: 82.0
+  z: 5191.06827663361
+  yaw: 14.08520221710205
+  pitch: 22.658803939819336
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6894.048850437469
+    y: 110.0
+    z: -5378.415947801321
+    yaw: -312.0955810546875
+    pitch: 12.66692066192627
+    world-name: ''
+  mending:
+    world: world
+    x: 4739.468820108784
+    y: 52.0
+    z: -3351.7032359691993
+    yaw: -180.10813903808594
+    pitch: 2.199406623840332
+    world-name: ''
+  base:
+    world: world
+    x: 6894.048850437469
+    y: 110.0
+    z: -5378.415947801321
+    yaw: -312.0955810546875
+    pitch: 12.66692066192627
+    world-name: ''
+afk: false
+nickname: CARLANTO
+ip-address: 81.254.237.209
+last-account-name: CARLANTO
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

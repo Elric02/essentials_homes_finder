@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486917855587
+  lastteleport: 1486917909098
+  logout: 1486918649790
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 147.37762413372718
+  y: 59.31840610574713
+  z: 153.64449771750017
+  yaw: -92.61091613769531
+  pitch: -2.975478410720825
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.4047024994014
+  y: 67.1863679808445
+  z: 9.211156647562317
+  yaw: -149.6342315673828
+  pitch: 8.169896125793457
+  world-name: ''
+ip-address: 88.137.238.11
+last-account-name: CreeperVXAce
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

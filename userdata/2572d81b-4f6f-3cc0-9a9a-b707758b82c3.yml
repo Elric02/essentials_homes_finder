@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616613896289
+  logout: 1616614124445
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.16291736732194
+  y: 63.5
+  z: 66.19010878964806
+  yaw: 175.7468719482422
+  pitch: 12.99064826965332
+  world-name: ''
+ip-address: 176.143.99.178
+last-account-name: Arnaud510
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

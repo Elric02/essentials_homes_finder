@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480095225449
+  logout: 1480095432328
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.98810349252776
+  y: 27.0
+  z: 20.445491452015794
+  yaw: -92.74740600585938
+  pitch: 7.597410202026367
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 178.93553996632355
+  y: 63.0
+  z: 18.66935311824112
+  yaw: -89.74745178222656
+  pitch: 13.147405624389648
+  world-name: ''
+ip-address: 77.147.114.15
+last-account-name: beEasy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

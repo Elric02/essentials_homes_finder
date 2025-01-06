@@ -1,0 +1,55 @@
+timestamps:
+  login: 1618310684410
+  logout: 1618310716607
+  lastteleport: 1618252936585
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1460.458415508892
+  y: 64.0
+  z: -2179.106219813869
+  yaw: 84.22869873046875
+  pitch: 28.185840606689453
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6787.762499988079
+  y: 76.0
+  z: -5731.762499988079
+  yaw: 228.298583984375
+  pitch: 44.54990768432617
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 157.72326417326488
+    y: 63.0
+    z: 56.2996099344818
+    yaw: -37.8511962890625
+    pitch: 19.740774154663086
+    world-name: ''
+  soso:
+    world: world
+    x: 6782.785148806178
+    y: 76.0
+    z: -5727.196359641942
+    yaw: 43.49908447265625
+    pitch: 25.94987678527832
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 82.64.114.95
+last-account-name: xcoastbay
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

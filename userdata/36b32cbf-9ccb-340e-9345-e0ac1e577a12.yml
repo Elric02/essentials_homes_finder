@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.142.123.246
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1665932580940
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665932615489
+  login: 1665932459641
+money: '0'
+last-account-name: Yult_
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 147.13579507742568
+  y: 63.5
+  z: 19.416869005029852
+  yaw: 50.8212890625
+  pitch: 2.8124897480010986
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -65.12466617748902
+  y: 101.0
+  z: 146.5088729855322
+  yaw: -96.18648529052734
+  pitch: 40.462791442871094

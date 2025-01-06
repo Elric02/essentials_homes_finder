@@ -1,0 +1,218 @@
+timestamps:
+  login: 1736085361669
+  lastteleport: 1736085655122
+  logout: 1736086123061
+  mute: 0
+  kits:
+    color: 1617900459055
+    vip: 1680943722505
+    stationaute: 1667243805600
+    explorateur: 1665858192127
+    ambassadeur: 1667224316250
+    stadawan: 1680972259799
+    spaceranger: 1699200895511
+  jail: 0
+  onlinejail: 0
+  lastheal: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -7218.8091130176435
+  y: 64.0
+  z: -5598.502794478763
+  yaw: 135.07586669921875
+  pitch: 3.8991832733154297
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 4267.067158256036
+  y: 102.37906350555774
+  z: -1456.4102021534375
+  yaw: -161.82952880859375
+  pitch: 26.508960723876953
+  world-name: world
+afk: false
+homes:
+  mi:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -7197.502074872193
+    y: 63.0
+    z: -5585.282513517308
+    yaw: -184.71676635742188
+    pitch: 15.299996376037598
+    world-name: world
+  shopepice:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4779.021736444197
+    y: 69.0
+    z: -320.65723020610255
+    yaw: -359.56005859375
+    pitch: 9.299972534179688
+    world-name: world
+  km:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -7314.546651533899
+    y: 8.0
+    z: -5665.026621079187
+    yaw: 191.31727600097656
+    pitch: 37.262943267822266
+    world-name: world
+  tabaribou:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4405.485727411213
+    y: 79.0
+    z: 1359.92580529064
+    yaw: 17.259063720703125
+    pitch: 17.9998722076416
+    world-name: world
+  netherrack:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: 3928.479278582099
+    y: 32.0
+    z: -3920.116645813633
+    yaw: -182.94338989257812
+    pitch: 29.84984016418457
+    world-name: Nether
+  pvvvvvp2:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    x: 1332.2936440650976
+    y: 21.0
+    z: -2202.650325122972
+    yaw: 37.139259338378906
+    pitch: 23.99945640563965
+    world-name: Event
+  chateau:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -871.6736440224254
+    y: 70.0
+    z: -3819.925367483594
+    yaw: 36.600067138671875
+    pitch: 23.54998207092285
+    world-name: world
+  naturalizee:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6957.49672267866
+    y: 61.875
+    z: 2107.962965986093
+    yaw: -73.35385131835938
+    pitch: 38.40000915527344
+    world-name: world
+  natu2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3003.629762251794
+    y: 67.0
+    z: 6979.579277731808
+    yaw: -7.461101055145264
+    pitch: 42.10908889770508
+    world-name: world
+  structure:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2549.1415440326928
+    y: 63.0
+    z: -3904.2415761840134
+    yaw: -266.5043640136719
+    pitch: 23.09994888305664
+    world-name: world
+  althiumepicia:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 637.6761206952473
+    y: 63.0
+    z: -89.6730452621864
+    yaw: -86.54920196533203
+    pitch: 49.95018005371094
+  prismarine:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -1282.160574107418
+    y: 63.0
+    z: -223.18493268522514
+    yaw: -49.047088623046875
+    pitch: 60.900054931640625
+  dripstone:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -2749.698767959412
+    y: 12.0
+    z: 1009.7522816077901
+    yaw: -3.69757080078125
+    pitch: 11.849869728088379
+  netherr:
+    world: 662d438a-3236-43b5-be72-96a96955dbc4
+    world-name: RessourceNether
+    x: 1975.524591703565
+    y: 73.0
+    z: -2029.5
+    yaw: -86.54818725585938
+    pitch: 25.050048828125
+  epicia:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 628.6999999880791
+    y: 13.0
+    z: -115.54083883876324
+    yaw: 60.15191650390625
+    pitch: 35.84986877441406
+  panda:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 413.5
+    y: 64.0
+    z: 2220.5
+    yaw: -29.252288818359375
+    pitch: 34.8359260559082
+  mcm:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7326.699999988079
+    y: 23.0
+    z: -5489.699999988079
+    yaw: -35.61474609375
+    pitch: 61.94995880126953
+  deepdark:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 1583.5
+    y: -35.0
+    z: -2606.5
+    yaw: -5.416849613189697
+    pitch: 19.50000762939453
+  sable:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -663.9450364837802
+    y: 64.0
+    z: 1423.2745911912136
+    yaw: 178.93545532226562
+    pitch: 39.1498908996582
+  lau:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 4284.715235872258
+    y: 117.0
+    z: -1515.8656915115375
+    yaw: 46.671390533447266
+    pitch: 29.359012603759766
+money: '1399127.2245614032949089'
+nickname: §x§0§4§D§9§8§BIntegrale§3Epice
+muted: false
+godmode: false
+jailed: false
+socialspy: false
+ip-address: 88.120.122.71
+last-account-name: IntegraleEpice
+teleportenabled: true
+teleportauto: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+mail:
+- legacy: false
+  read: true
+  message: il me semble au vu du nombre de coffres en montagne sur ton claim que tu
+    as pas mal de quoi faire mais quoi qu'il en soit la map ressources est la pour
+    ca (pas le sous sol du claim)
+  sender-name: roselfe
+  sender-uuid: 210dd662-86f3-307d-899a-07c85f3e65a5
+  timestamp: 1669321675864
+  expire: 0

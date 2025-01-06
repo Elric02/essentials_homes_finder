@@ -1,0 +1,63 @@
+timestamps:
+  login: 1643832484925
+  lastteleport: 1643808185006
+  logout: 1643833348170
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3064.4939040608897
+  y: 88.0
+  z: -2911.0812350618
+  yaw: -227.2502899169922
+  pitch: 20.40004539489746
+  world-name: world
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -5816.384312035848
+  y: 77.0
+  z: 3809.437367455069
+  yaw: -323.8994140625
+  pitch: 44.2500114440918
+  world-name: world
+homes:
+  t:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5834.160430053101
+    y: 78.0
+    z: 3802.3114942370325
+    yaw: -12.148545265197754
+    pitch: 53.249820709228516
+    world-name: world
+  r:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3033.5398597593817
+    y: 80.0
+    z: -2950.8249910282116
+    yaw: -41.24916458129883
+    pitch: 9.149975776672363
+    world-name: world
+  l:
+    world: world
+    x: 3441.878443639798
+    y: 89.0
+    z: -5445.6141724701665
+    yaw: -173.53892517089844
+    pitch: 50.699928283691406
+    world-name: ''
+afk: false
+jailed: false
+ip-address: 77.205.187.217
+last-account-name: Dangerous_wolf
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

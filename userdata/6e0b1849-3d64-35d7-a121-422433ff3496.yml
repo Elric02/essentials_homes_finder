@@ -1,0 +1,38 @@
+timestamps:
+  login: 1606583792720
+  lastteleport: 1598791377050
+  logout: 1606583878148
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 143.1327813952867
+  y: 63.0
+  z: 7.783803972449309
+  yaw: -259.3613586425781
+  pitch: 39.50642776489258
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 171.16918809008612
+  y: 150.0
+  z: -10.516895256971889
+  yaw: 356.9024658203125
+  pitch: 81.02416229248047
+  world-name: ''
+money: '0'
+ip-address: 90.54.99.26
+last-account-name: Volubal
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1486234021221
+  lastteleport: 1486240176696
+  logout: 1486240242352
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -142.14432432541957
+  y: 64.0
+  z: 659.2899555778131
+  yaw: -172.6423797607422
+  pitch: 40.199954986572266
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6763.731441413936
+  y: 74.0
+  z: -5814.257874151191
+  yaw: 42.272064208984375
+  pitch: 24.299991607666016
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 6759.991861493937
+    y: 74.0
+    z: -5799.1046494703605
+    yaw: 10.3221435546875
+    pitch: 18.900007247924805
+    world-name: ''
+  piege:
+    world: ressource
+    x: -140.55634072373175
+    y: 64.0
+    z: 659.2617836483356
+    yaw: -172.6423797607422
+    pitch: 40.199954986572266
+    world-name: ''
+ip-address: 93.121.181.231
+last-account-name: Sniper971
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

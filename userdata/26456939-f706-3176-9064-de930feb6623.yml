@@ -1,0 +1,78 @@
+timestamps:
+  login: 1734964109842
+  lastteleport: 1734914051975
+  logout: 1734966663580
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1601.9707684051175
+  y: 77.5625
+  z: -1679.7238124858084
+  yaw: 6.613555908203125
+  pitch: 16.949121475219727
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1499.214317205411
+  y: 70.0
+  z: -1512.0133320548316
+  yaw: -5.970942974090576
+  pitch: 4.649328708648682
+  world-name: world
+money: '10950.0'
+homes:
+  h1:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1636.989497454944
+    y: 82.0
+    z: -1664.1068113406054
+    yaw: -107.08069610595703
+    pitch: 20.399995803833008
+    world-name: world
+  h2:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    x: 721.7428507693619
+    y: 72.0
+    z: -2386.925521627519
+    yaw: 170.3993377685547
+    pitch: 13.08558464050293
+    world-name: Ressource
+  h3:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1645.1349970974568
+    y: 82.0
+    z: -1579.0416710915547
+    yaw: 93.33600616455078
+    pitch: 15.449033737182617
+    world-name: world
+afk: false
+jailed: false
+ip-address: 176.145.65.20
+last-account-name: alin
+mail:
+- legacy: true
+  read: false
+  message: §e[§rDiaval93§e] §rcoucou!
+- legacy: true
+  read: false
+  message: §e[§rDiaval93§e] §rcoucou! je vais t'ajouter sur facebook parce que ça
+    me manque de parler avec toi!
+- legacy: true
+  read: false
+  message: §e[§rDiaval93§e] §rje sais pour le shop, j'ai des problèmes de rg t'en
+    fais pas ça sera réglé
+- legacy: true
+  read: false
+  message: §e[§rDiaval93§e] §rj'adooooooooooooooooooooooooooooore ton shop
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

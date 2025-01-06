@@ -1,0 +1,38 @@
+timestamps:
+  login: 1607274616361
+  lastteleport: 1607275482294
+  logout: 1607275650118
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.64593523601704
+  y: 64.0
+  z: 30.634592943042747
+  yaw: -233.64508056640625
+  pitch: -28.97414207458496
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2779.2277555598384
+  y: 85.0
+  z: 6442.967213277687
+  yaw: 293.69970703125
+  pitch: 19.95001792907715
+  world-name: ''
+ip-address: 105.156.170.65
+last-account-name: xacit
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

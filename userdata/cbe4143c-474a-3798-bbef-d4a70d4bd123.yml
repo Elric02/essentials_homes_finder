@@ -1,0 +1,38 @@
+timestamps:
+  login: 1531785179920
+  logout: 1531785197852
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.0313622247463
+  y: 65.0
+  z: 98.98313759362095
+  yaw: 172.2338409423828
+  pitch: -14.164107322692871
+  world-name: ''
+ip-address: 90.33.98.166
+last-account-name: wifilaroche
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

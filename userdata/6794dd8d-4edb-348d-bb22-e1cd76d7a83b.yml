@@ -1,0 +1,38 @@
+timestamps:
+  login: 1577478124159
+  logout: 1577481577109
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 864.8104847168283
+  y: 42.0
+  z: -992.1091890112733
+  yaw: -334.650390625
+  pitch: 12.600110054016113
+  world-name: ''
+afk: false
+ip-address: 176.164.93.223
+last-account-name: ghost7651
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

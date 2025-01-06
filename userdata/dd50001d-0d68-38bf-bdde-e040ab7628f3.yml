@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618438025072
+  lastteleport: 1618438066315
+  logout: 1618438153753
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.04749068407116
+  y: 64.0
+  z: 66.87382275922258
+  yaw: 201.99571228027344
+  pitch: 6.690639019012451
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1480.699999988079
+  y: 56.0
+  z: -1995.300000011921
+  yaw: -1.3890380859375
+  pitch: -6.600528717041016
+  world-name: ''
+ip-address: 216.239.70.136
+last-account-name: X3n0_321
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

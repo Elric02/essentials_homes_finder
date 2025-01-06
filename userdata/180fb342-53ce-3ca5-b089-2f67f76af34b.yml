@@ -1,0 +1,63 @@
+timestamps:
+  login: 1545672954942
+  logout: 1545673088612
+  lastteleport: 1545673053734
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -643.4117408087169
+  y: 134.0
+  z: -2843.0386231651796
+  yaw: 66.10368347167969
+  pitch: 4.826631546020508
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -568.2514408531649
+  y: 64.0
+  z: -759.0411756358504
+  yaw: -87.1790771484375
+  pitch: 19.777780532836914
+  world-name: ''
+homes:
+  a:
+    world: world
+    x: -639.020380565202
+    y: 124.0
+    z: -2854.616099017099
+    yaw: -181.02542114257812
+    pitch: -5.6626105308532715
+    world-name: ''
+  b:
+    world: world
+    x: -7282.830740809136
+    y: 65.0
+    z: -1343.3726144572013
+    yaw: 260.46484375
+    pitch: 57.90266799926758
+    world-name: ''
+  c:
+    world: world
+    x: -587.5466089350041
+    y: 80.0
+    z: -2978.2291690023935
+    yaw: 135.54296875
+    pitch: 17.204038619995117
+    world-name: ''
+afk: false
+ip-address: 2.10.200.176
+last-account-name: StardustIII
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,66 @@
+timestamps:
+  login: 1727903932681
+  lastteleport: 1718644924060
+  logout: 1727904287532
+  jail: 0
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+  kits:
+    stationaute: 1665938755367
+    explorateur: 1672832900447
+lastlocation:
+  world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+  x: -1939.6663014316873
+  y: -45.0
+  z: 201.55941441274632
+  yaw: -71.67013549804688
+  pitch: -14.84991455078125
+  world-name: Ressource
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -2529.3157212626265
+  y: 74.0
+  z: -252.46824910696697
+  yaw: -7.68798828125
+  pitch: 13.049785614013672
+  world-name: world
+money: '23222.666666666666657'
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2523.321046157643
+    y: 72.0
+    z: -280.7774877455434
+    yaw: 21.798675537109375
+    pitch: 58.050010681152344
+    world-name: world
+  eglise:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2569.9567123426236
+    y: 77.0
+    z: -202.29990036843964
+    yaw: 174.97897338867188
+    pitch: 32.113983154296875
+    world-name: world
+  moderne:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4151.311976147174
+    y: 93.0
+    z: -5703.725702535149
+    yaw: -181.20616149902344
+    pitch: 13.637066841125488
+    world-name: world
+afk: false
+jailed: false
+muted: false
+ip-address: 91.166.118.61
+last-account-name: rathur000
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

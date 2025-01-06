@@ -1,0 +1,38 @@
+timestamps:
+  login: 1525952732366
+  logout: 1525952806100
+  lastteleport: 1524240379081
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 166.3593447622397
+  y: 63.5
+  z: 26.11936875202579
+  yaw: 1.3291637897491455
+  pitch: 24.178667068481445
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 54.54446738497346
+  y: 67.0
+  z: 57.02891966198003
+  yaw: -348.1708984375
+  pitch: 21.778667449951172
+  world-name: ''
+afk: false
+money: '0'
+ip-address: 84.99.17.175
+last-account-name: MissBonbon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

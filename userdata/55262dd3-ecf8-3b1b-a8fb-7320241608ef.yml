@@ -1,0 +1,47 @@
+timestamps:
+  login: 1513278555745
+  lastteleport: 1513268367055
+  logout: 1513286227425
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: -822.7640827462731
+  y: 33.0
+  z: 674.6239919263886
+  yaw: 97.4886703491211
+  pitch: 24.59989356994629
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -6306.866400830537
+    y: 118.0
+    z: 5619.7279521749615
+    yaw: 22.637939453125
+    pitch: 36.749977111816406
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -6308.762499988079
+  y: 124.0
+  z: 5612.378814649119
+  yaw: 264.197265625
+  pitch: 7.949976444244385
+  world-name: ''
+afk: false
+ip-address: 5.48.240.71
+last-account-name: Manocaras
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

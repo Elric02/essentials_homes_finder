@@ -1,0 +1,55 @@
+timestamps:
+  login: 1489931164422
+  lastteleport: 1489847980740
+  logout: 1489931344359
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4607.908360122253
+  y: 64.0
+  z: -5275.421199096762
+  yaw: -279.6803894042969
+  pitch: 16.350025177001953
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 4603.5
+    y: 64.0
+    z: -5267.5
+    yaw: -13.130383491516113
+    pitch: 27.1500301361084
+    world-name: ''
+  shop:
+    world: world
+    x: -566.6830001061006
+    y: 65.0
+    z: -726.4075115140273
+    yaw: -269.348388671875
+    pitch: 44.126365661621094
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -7624.589319710561
+  y: 70.0
+  z: 14086.603287708527
+  yaw: 2.4862060546875
+  pitch: 41.84994888305664
+  world-name: ''
+money: '0'
+afk: false
+jailed: false
+ip-address: 90.9.15.156
+last-account-name: AsrielNEO
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

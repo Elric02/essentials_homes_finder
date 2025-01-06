@@ -1,0 +1,38 @@
+timestamps:
+  login: 1620505253127
+  lastteleport: 1620505400249
+  logout: 1620505890940
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.95468007720422
+  y: 63.5
+  z: 65.96135033494488
+  yaw: -137.6028289794922
+  pitch: 12.99064826965332
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1441.619493547525
+  y: 63.0
+  z: -1998.5551582168162
+  yaw: -235.87548828125
+  pitch: 45.600242614746094
+  world-name: ''
+ip-address: 176.153.7.118
+last-account-name: Martin_74
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

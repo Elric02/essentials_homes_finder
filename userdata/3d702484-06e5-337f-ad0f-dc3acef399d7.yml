@@ -1,0 +1,63 @@
+timestamps:
+  login: 1626182735875
+  logout: 1626182743912
+  lastteleport: 1626180854502
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.63475957228087
+  y: 64.0
+  z: 22.075881895749273
+  yaw: -166.59532165527344
+  pitch: 64.47590637207031
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -672.9249179955946
+  y: 66.0
+  z: -6886.215915235653
+  yaw: -8.146470069885254
+  pitch: 15.89990520477295
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  stuff:
+    world: Ressource
+    x: 3794.300000011921
+    y: 72.0
+    z: 3590.3010970850682
+    yaw: -299.4000244140625
+    pitch: 57.45000457763672
+    world-name: ''
+  chiens:
+    world: world
+    x: -1031.4859897990355
+    y: 68.0
+    z: -6885.474078491529
+    yaw: -103.48756408691406
+    pitch: 88.94999694824219
+    world-name: ''
+  base:
+    world: world
+    x: -676.1236761675327
+    y: 66.0
+    z: -6887.655725425406
+    yaw: 185.353515625
+    pitch: 90.0
+    world-name: ''
+ip-address: 81.254.2.25
+last-account-name: GxShado
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

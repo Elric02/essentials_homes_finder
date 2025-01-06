@@ -1,0 +1,47 @@
+timestamps:
+  login: 1501080238924
+  lastteleport: 1501094653499
+  logout: 1501095044836
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -5518.574481172221
+    y: 63.0
+    z: 6083.880287720073
+    yaw: -253.04144287109375
+    pitch: 39.74998092651367
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -5519.840213793668
+  y: 63.0
+  z: 6082.789400115674
+  yaw: 198.4588165283203
+  pitch: 25.94999885559082
+  world-name: ''
+ip-address: 78.159.28.104
+last-account-name: kika09
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

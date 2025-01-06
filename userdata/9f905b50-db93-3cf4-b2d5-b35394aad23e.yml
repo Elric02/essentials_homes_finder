@@ -1,0 +1,38 @@
+timestamps:
+  login: 1584291072856
+  lastteleport: 1584292321995
+  logout: 1584292570510
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: 0.5403178110495864
+  y: 5.0
+  z: -27.13267203940295
+  yaw: -181.1382293701172
+  pitch: 19.86927032470703
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 153.32937374411688
+  y: 63.0
+  z: 2.1672876042804443
+  yaw: 63.72918701171875
+  pitch: 25.228635787963867
+  world-name: ''
+ip-address: 88.137.16.177
+last-account-name: nightblock
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

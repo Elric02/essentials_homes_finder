@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.214.218.37
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1672005484660
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672005905055
+  login: 1672005434143
+money: '0'
+lastlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -1311.5
+  y: 93.0
+  z: 4207.5
+  yaw: 114.55767822265625
+  pitch: 18.049545288085938
+last-account-name: PokeDrago
+logoutlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: 73.13817117702469
+  y: 65.0
+  z: -64.83635277665473
+  yaw: -64.54522705078125
+  pitch: 15.299301147460938

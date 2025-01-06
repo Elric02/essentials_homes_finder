@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485021596439
+  lastteleport: 1485021668158
+  logout: 1485021682787
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 131.82903935572247
+  y: 64.5
+  z: -26.015614194891334
+  yaw: -171.79742431640625
+  pitch: -61.95000457763672
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+ip-address: 81.254.166.131
+last-account-name: yayap
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

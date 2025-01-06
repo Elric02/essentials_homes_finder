@@ -1,0 +1,38 @@
+timestamps:
+  login: 1524220791702
+  lastteleport: 1524220942764
+  logout: 1524221172082
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1829.9369131401006
+  y: 67.0
+  z: -6396.898863513383
+  yaw: -36.4502067565918
+  pitch: 31.65005111694336
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4514.689690725213
+  y: 69.0
+  z: -3657.8542629314693
+  yaw: -212.40130615234375
+  pitch: 51.14985656738281
+  world-name: ''
+ip-address: 84.99.194.97
+last-account-name: Akroma
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

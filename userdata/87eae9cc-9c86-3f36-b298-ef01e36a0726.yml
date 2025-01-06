@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508329864767
+  lastteleport: 1508329837285
+  logout: 1508329904209
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.2686803908545
+  y: 64.0
+  z: 20.05780274079649
+  yaw: -226.82081604003906
+  pitch: 8.278668403625488
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 157.47868005581074
+  y: 64.0
+  z: 24.06944347378312
+  yaw: -357.920654296875
+  pitch: 13.078683853149414
+  world-name: ''
+ip-address: 90.11.14.70
+last-account-name: asphalt10000
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

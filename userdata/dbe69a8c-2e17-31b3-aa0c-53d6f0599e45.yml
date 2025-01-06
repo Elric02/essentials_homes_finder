@@ -1,0 +1,162 @@
+timestamps:
+  login: 1701262299611
+  lastteleport: 1701262468435
+  logout: 1701265164589
+  jail: 0
+  mute: 0
+  kits:
+    vip: 1618942038933
+  onlinejail: 0
+  lastheal: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 4913.9921812646
+  y: 168.0625
+  z: 6135.819875610985
+  yaw: 138.80287170410156
+  pitch: 16.19965362548828
+  world-name: world
+afk: false
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 5024.6603147613605
+  y: 196.0
+  z: 6187.751243559356
+  yaw: -95.56689453125
+  pitch: 35.84949493408203
+  world-name: world
+money: '100.0'
+homes:
+  noel:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 4916.601019012976
+    y: 238.5
+    z: 6136.46297143372
+    yaw: 273.1931457519531
+    pitch: -20.400136947631836
+    world-name: world
+  shop:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4748.681661755349
+    y: 65.0
+    z: -339.54263866249613
+    yaw: 165.27734375
+    pitch: 17.549968719482422
+    world-name: world
+  taba:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 4992.956303930932
+    y: 220.0
+    z: 6058.525780196732
+    yaw: -90.36722564697266
+    pitch: 24.627403259277344
+    world-name: world
+  coffre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 4939.450661677018
+    y: 58.0
+    z: 6027.138773486277
+    yaw: 7.282837867736816
+    pitch: 11.877412796020508
+    world-name: world
+  city:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5118.116619190719
+    y: 147.0
+    z: 5987.416532169095
+    yaw: -256.5122985839844
+    pitch: 38.84990692138672
+    world-name: world
+  extenddidi:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 4927.358360204282
+    y: 115.0
+    z: 6202.7073389485595
+    yaw: 103.34789276123047
+    pitch: 66.14967346191406
+    world-name: world
+  claimconer1:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 4760.724932009137
+    y: 115.0
+    z: 5936.53792061328
+    yaw: 272.878662109375
+    pitch: 89.55075073242188
+    world-name: world
+  claimcorner2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5095.699999988079
+    y: 159.0
+    z: 6272.442347661288
+    yaw: 270.8971252441406
+    pitch: 28.050256729125977
+    world-name: world
+  natura:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5038.436323447441
+    y: 127.0
+    z: -590.36555187067
+    yaw: -180.4190673828125
+    pitch: 67.20071411132812
+    world-name: world
+  natu:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3839.419785807223
+    y: 34.0
+    z: 6255.584094869377
+    yaw: 51.67596435546875
+    pitch: 4.050062656402588
+    world-name: world
+  didiafk:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 4904.500618515273
+    y: 132.0
+    z: 5937.56813883316
+    yaw: 82.93896484375
+    pitch: 53.849632263183594
+    world-name: world
+  claimdidi:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3901.400929038167
+    y: 16.0
+    z: 6188.376764624412
+    yaw: 207.07371520996094
+    pitch: 14.220869064331055
+    world-name: world
+  chapo:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 4845.393779971895
+    y: 210.0
+    z: 6222.62337900213
+    yaw: 166.42430114746094
+    pitch: -27.82005500793457
+    world-name: world
+  pvp:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    x: 1353.8383700583624
+    y: 122.0
+    z: -2100.3415981848143
+    yaw: -271.1434326171875
+    pitch: 11.399757385253906
+    world-name: Event
+  quai934:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 4910.058897989541
+    y: 168.0
+    z: 6135.504032617667
+    yaw: -88.74691772460938
+    pitch: 11.549665451049805
+    world-name: world
+jailed: false
+muted: false
+nickname: §6BurnyLe§cDiavalien
+ip-address: 88.174.14.31
+last-account-name: IBurningTV
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

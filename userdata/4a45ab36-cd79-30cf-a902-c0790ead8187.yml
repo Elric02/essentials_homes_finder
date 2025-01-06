@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508667011030
+  logout: 1508667083799
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 149.11189755686738
+  y: 64.0
+  z: 26.299105225796346
+  yaw: 107.23504638671875
+  pitch: 4.213282585144043
+  world-name: ''
+ip-address: 86.205.181.94
+last-account-name: LeVapeAmomo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

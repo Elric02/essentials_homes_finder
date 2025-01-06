@@ -1,0 +1,38 @@
+timestamps:
+  login: 1678720253210
+  logout: 1678720258984
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 150.81050833173683
+  y: 64.0
+  z: 15.908630304485119
+  yaw: 121.89642333984375
+  pitch: -1.5594242811203003
+  world-name: world
+ip-address: 90.108.206.128
+last-account-name: scrooZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

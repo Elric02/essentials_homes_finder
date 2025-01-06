@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.174.135.46
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1652565649744
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1652566038128
+  login: 1652565459807
+money: '0'
+last-account-name: mikmik
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 151.77885988569594
+  y: 63.0
+  z: 50.70805452631191
+  yaw: 141.54241943359375
+  pitch: -0.6594166159629822
+logoutlocation:
+  world: 158f63a7-37cc-420e-a860-ab8cb54c9591
+  world-name: Ressource
+  x: 1881.7648208518606
+  y: 123.0
+  z: -3636.660979285189
+  yaw: 88.04830169677734
+  pitch: -19.314817428588867

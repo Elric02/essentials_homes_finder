@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617638491131
+  logout: 1617638507023
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.9604869069502
+  y: 65.5
+  z: 97.13671274869262
+  yaw: 141.5469207763672
+  pitch: 9.990653991699219
+  world-name: ''
+ip-address: 89.83.172.24
+last-account-name: Sliford
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

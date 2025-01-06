@@ -1,0 +1,55 @@
+timestamps:
+  login: 1486131110292
+  lastteleport: 1486130969259
+  logout: 1486131765287
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51729069572895
+  y: 64.0
+  z: 26.625739857475576
+  yaw: -190.7109375
+  pitch: -2.675485134124756
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -6896.569312676794
+    y: 67.9375
+    z: -2013.6532533584505
+    yaw: -185.33349609375
+    pitch: 34.95009994506836
+    world-name: ''
+  ressources:
+    world: ressource
+    x: -768.6039741826922
+    y: 70.0
+    z: 2967.8849622720277
+    yaw: 2.398162841796875
+    pitch: 38.0999755859375
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6908.963456793291
+  y: 67.0
+  z: -2026.527233474407
+  yaw: 20.2119140625
+  pitch: 54.8996696472168
+  world-name: ''
+ip-address: 88.173.108.199
+last-account-name: Flyroxio
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

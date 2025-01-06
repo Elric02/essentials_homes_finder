@@ -1,0 +1,47 @@
+timestamps:
+  login: 1483736104293
+  lastteleport: 1483736839369
+  logout: 1483737643151
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5388.913172054977
+  y: 110.0
+  z: -1783.2343682848712
+  yaw: 9.447265625
+  pitch: 25.3862247467041
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 5385.570363733857
+    y: 109.0
+    z: -1782.155398013973
+    yaw: 334.7508544921875
+    pitch: 40.07676696777344
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 115.56580953615612
+  y: 63.0
+  z: -36.63906738435384
+  yaw: -322.0006103515625
+  pitch: 16.487178802490234
+  world-name: ''
+afk: false
+ip-address: 79.81.193.158
+last-account-name: Nidalyre
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

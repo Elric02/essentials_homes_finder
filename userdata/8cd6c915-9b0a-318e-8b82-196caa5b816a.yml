@@ -1,0 +1,38 @@
+timestamps:
+  login: 1522689793393
+  lastteleport: 1522690756542
+  logout: 1522692971119
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 81.35663742059417
+  y: 68.0
+  z: -6663.300000011921
+  yaw: -48.52684783935547
+  pitch: 11.103619575500488
+  world-name: ''
+ip-address: 90.51.112.119
+last-account-name: folgg
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482528387014
+  lastteleport: 1482528445538
+  logout: 1482529608430
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.46755107140643
+  y: 63.0
+  z: 34.03841446786105
+  yaw: -167.27999877929688
+  pitch: 19.275327682495117
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 908.0844272119102
+  y: 63.0
+  z: -1100.0465493595207
+  yaw: -14.72998046875
+  pitch: -27.06072235107422
+  world-name: ''
+ip-address: 109.222.4.113
+last-account-name: Zataek
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

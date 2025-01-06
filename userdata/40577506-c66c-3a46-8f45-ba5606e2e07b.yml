@@ -1,0 +1,63 @@
+timestamps:
+  login: 1732435771868
+  lastteleport: 1647633083203
+  logout: 1732435787564
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -766.0294843788935
+  y: 50.0
+  z: 238.05260722748764
+  yaw: 80.94001770019531
+  pitch: 23.924945831298828
+  world-name: world
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -765.9828737892414
+  y: 50.0
+  z: 238.0514511481145
+  yaw: -28.260295867919922
+  pitch: 8.174985885620117
+  world-name: world
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -803.0637629192533
+    y: 61.0
+    z: 242.97472774628645
+    yaw: -182.00961303710938
+    pitch: 29.024993896484375
+    world-name: world
+  shop:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1478.9298738850835
+    y: 71.0
+    z: -2186.746059501176
+    yaw: 4.308746337890625
+    pitch: 20.700027465820312
+    world-name: world
+  m:
+    world: Ressource
+    x: 286.9831875866346
+    y: 76.0
+    z: -3151.5086098564743
+    yaw: 22.634302139282227
+    pitch: 0.7497658729553223
+    world-name: ''
+afk: false
+ip-address: 176.133.166.81
+last-account-name: Bitonio54
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

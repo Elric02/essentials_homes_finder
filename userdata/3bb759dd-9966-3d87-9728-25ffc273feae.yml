@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.169.50.156
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674990053672
+  login: 1674990023969
+money: '0'
+last-account-name: trolakai
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.00609171730457
+  y: 81.0
+  z: -3111.224021664745
+  yaw: -89.09819793701172
+  pitch: 7.499965190887451
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.00609171730457
+  y: 81.0
+  z: -3111.224021664745
+  yaw: -78.29820251464844
+  pitch: 6.599964618682861

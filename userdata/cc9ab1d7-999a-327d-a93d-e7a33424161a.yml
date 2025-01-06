@@ -1,0 +1,113 @@
+timestamps:
+  login: 1588016398104
+  lastteleport: 1588016419775
+  logout: 1588016487386
+  mute: 0
+  jail: 0
+  kits:
+    color: 1587936190784
+    vip: 1587399641298
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4952.512063719719
+  y: 78.0
+  z: -529.9340278952631
+  yaw: 327.6009826660156
+  pitch: 17.69877815246582
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5468.455932075388
+  y: 50.0
+  z: 851.8785662798131
+  yaw: 309.1498718261719
+  pitch: 25.94981575012207
+  world-name: ''
+homes:
+  farme:
+    world: world
+    x: 567.8519444944227
+    y: 67.0
+    z: -3003.699999988079
+    yaw: 93.14894104003906
+    pitch: 21.45000648498535
+    world-name: ''
+  cofre:
+    world: world
+    x: -5467.827513873992
+    y: 50.0
+    z: 850.7620806273142
+    yaw: 2.40185546875
+    pitch: 23.85000991821289
+    world-name: ''
+  base:
+    world: world
+    x: 3243.8008296082107
+    y: 76.0
+    z: -1558.5806382889264
+    yaw: -2.549163818359375
+    pitch: -1.6500887870788574
+    world-name: ''
+  tita:
+    world: world
+    x: -4874.23686459204
+    y: 64.0
+    z: -1131.656367165046
+    yaw: 179.27313232421875
+    pitch: 17.853395462036133
+    world-name: ''
+  lilol:
+    world: world
+    x: 2362.811741392028
+    y: 68.0
+    z: 1914.5527868963923
+    yaw: 168.57968139648438
+    pitch: 5.999718189239502
+    world-name: ''
+  g4:
+    world: world
+    x: -894.4652895499532
+    y: 79.0
+    z: -3471.715613232111
+    yaw: 178.62889099121094
+    pitch: 17.22709083557129
+    world-name: ''
+  ville:
+    world: world
+    x: -1643.5
+    y: 76.0
+    z: -6540.5
+    yaw: -89.76451873779297
+    pitch: 4.049211025238037
+    world-name: ''
+  natu:
+    world: world
+    x: -4971.272943680999
+    y: 71.0
+    z: -531.1571712400677
+    yaw: -88.1944580078125
+    pitch: 13.199764251708984
+    world-name: ''
+afk: false
+muted: false
+jailed: false
+godmode: false
+nickname: §6mildu38§f_§1Ve§flk§4oz
+ip-address: 37.165.122.144
+last-account-name: mildu38
+mail:
+- legacy: true
+  read: false
+  message: §e[§rroselfe§e] §rje suis désolée mais je n'ai pas pu m'occuper du decodefi
+    et je retrouve pas le message ou tu m'a dit ce que tu voulais comme blocs pour
+    gold envois moi le en /mail send comme ca j'y penserai en me reco demain
+teleportenabled: true
+teleportauto: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

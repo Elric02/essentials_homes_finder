@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483371609962
+  logout: 1483371641276
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.70555241583233
+  y: 63.0
+  z: 45.08686859140682
+  yaw: -259.99737548828125
+  pitch: 1.1474004983901978
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.80865587991227
+  y: 28.0
+  z: 20.822690866219432
+  yaw: -241.39744567871094
+  pitch: -3.952601194381714
+  world-name: ''
+ip-address: 92.154.151.74
+last-account-name: mastercube
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

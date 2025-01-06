@@ -1,0 +1,38 @@
+timestamps:
+  login: 1504108308535
+  lastteleport: 1504108438498
+  logout: 1504108734706
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -190.56089782714844
+  pitch: 5.424515247344971
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -955.0392747480331
+  y: 82.0
+  z: -5387.205161782593
+  yaw: -164.84967041015625
+  pitch: 19.500043869018555
+  world-name: ''
+money: '0'
+ip-address: 90.92.116.120
+last-account-name: LeLooping752
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

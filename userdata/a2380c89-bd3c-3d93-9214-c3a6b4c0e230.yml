@@ -1,0 +1,63 @@
+timestamps:
+  login: 1515958140482
+  lastteleport: 1515328806080
+  logout: 1515958257832
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 118.17666224045736
+  y: 63.0
+  z: 42.1004647745472
+  yaw: -240.9189453125
+  pitch: 6.149871349334717
+  world-name: ''
+money: '0'
+homes:
+  dehors:
+    world: Ressource
+    x: 176.94182839785267
+    y: 65.0
+    z: -239.42820141209458
+    yaw: -33.3133544921875
+    pitch: 10.802435874938965
+    world-name: ''
+  maison:
+    world: world
+    x: 5251.675941566396
+    y: 65.0
+    z: 4396.837526545385
+    yaw: -9.300048828125
+    pitch: 9.299860000610352
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 123.46972472646377
+    y: 9.0
+    z: -531.6466298835082
+    yaw: -179.51611328125
+    pitch: 27.450393676757812
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5251.762499988079
+  y: 64.0
+  z: 4399.270275298531
+  yaw: -62.39641571044922
+  pitch: 22.048912048339844
+  world-name: ''
+afk: false
+ip-address: 90.43.167.31
+last-account-name: iKiira
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

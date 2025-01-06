@@ -1,0 +1,38 @@
+timestamps:
+  login: 1622928267724
+  lastteleport: 1622628903824
+  logout: 1622929111485
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -421.30000001192093
+  y: 72.0
+  z: 673.8120378302535
+  yaw: 356.5511169433594
+  pitch: 38.25017166137695
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 199.87498062918206
+  y: 63.0625
+  z: 31.225101764538035
+  yaw: 265.85455322265625
+  pitch: 10.175859451293945
+  world-name: ''
+ip-address: 78.243.89.176
+last-account-name: Adamay6
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

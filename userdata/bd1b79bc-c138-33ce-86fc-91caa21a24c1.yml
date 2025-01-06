@@ -1,0 +1,38 @@
+timestamps:
+  login: 1551208139029
+  logout: 1551210116182
+  lastteleport: 1551208458494
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.83380536714031
+  y: 63.0
+  z: 57.835867725756884
+  yaw: -19.646814346313477
+  pitch: 14.119613647460938
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -138.33872886328223
+  y: 60.0
+  z: -110.69999998807907
+  yaw: 358.279541015625
+  pitch: 11.339301109313965
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 92.152.145.12
+last-account-name: ZenShay
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

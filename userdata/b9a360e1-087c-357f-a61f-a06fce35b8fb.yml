@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 174.93.155.59
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655747729396
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1657834599565
+  login: 1657834595510
+money: '0'
+last-account-name: MasterGick122
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -117.64314938383934
+  y: 65.0
+  z: 42.110472072162395
+  yaw: 9.900652885437012
+  pitch: -1.5001180171966553
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -25.35547858947982
+  y: 65.0
+  z: 169.94739289172395
+  yaw: -116.70072174072266
+  pitch: 18.59996795654297

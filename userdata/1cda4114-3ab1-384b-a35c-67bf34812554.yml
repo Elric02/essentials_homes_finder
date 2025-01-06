@@ -1,0 +1,38 @@
+timestamps:
+  login: 1569665583329
+  lastteleport: 1569666110842
+  logout: 1569666226965
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -312.37668049031487
+  y: 64.0
+  z: -161.07702686581726
+  yaw: -179.1211700439453
+  pitch: 39.32870864868164
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.1283953991402
+  y: 63.0
+  z: 39.450305846290604
+  yaw: -90.4708251953125
+  pitch: 35.428653717041016
+  world-name: ''
+ip-address: 88.169.55.232
+last-account-name: ElectroPhenix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

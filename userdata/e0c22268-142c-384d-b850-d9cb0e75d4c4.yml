@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.175.172.207
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731438870084
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731440707996
+  login: 1731440704936
+money: '0'
+last-account-name: DexD4321
+lastlocation:
+  world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+  world-name: Ressource
+  x: -1044.9700423431425
+  y: 67.0
+  z: 311.4628984504919
+  yaw: -52.053306579589844
+  pitch: 32.849647521972656
+logoutlocation:
+  world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+  world-name: Ressource
+  x: -1045.0150199249056
+  y: 67.0
+  z: 311.42782965917667
+  yaw: -156.1533660888672
+  pitch: 34.500022888183594

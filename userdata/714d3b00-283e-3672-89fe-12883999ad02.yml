@@ -1,0 +1,63 @@
+timestamps:
+  login: 1488621505466
+  lastteleport: 1488544557319
+  logout: 1488621676400
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -123.67013687406616
+  y: 47.0
+  z: 418.8019373640128
+  yaw: -3.35552978515625
+  pitch: 38.49799346923828
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  base:
+    world: world
+    x: 436.46870181329285
+    y: 70.0
+    z: 6352.899028512027
+    yaw: -106.99951171875
+    pitch: 18.836769104003906
+    world-name: ''
+  shop:
+    world: world
+    x: -123.96319795800794
+    y: 46.0
+    z: 411.7183458513847
+    yaw: -204.151611328125
+    pitch: 38.14998245239258
+    world-name: ''
+  zombie:
+    world: Ressource
+    x: 6863.300000011921
+    y: 49.0
+    z: 4181.627961696271
+    yaw: -294.822998046875
+    pitch: 29.45030403137207
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 428.61333816872985
+  y: 73.0
+  z: 6378.312135043005
+  yaw: -66.26947021484375
+  pitch: 35.88804244995117
+  world-name: ''
+ip-address: 113.21.120.155
+last-account-name: jackmine007
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

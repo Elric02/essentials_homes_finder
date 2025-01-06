@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.125.116.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1670158607471
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670163319486
+  login: 1670158395339
+money: '0'
+last-account-name: X_Just_Miss_X
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -23.48051451333943
+  y: 67.0
+  z: 57.13749998807907
+  yaw: -0.145263671875
+  pitch: 13.349926948547363
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 225.22820000043006
+  y: 69.0
+  z: -171.2539795551864
+  yaw: 141.43798828125
+  pitch: 7.9494805335998535

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1463837898795
+  lastteleport: 1463675316717
+  logout: 1463838152684
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 228.5843419661154
+  y: 61.0
+  z: -67.79342643595851
+  yaw: 259.65185546875
+  pitch: 21.374195098876953
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -197.69735230479318
+  y: 72.0
+  z: 256.1535694126538
+  yaw: 308.935791015625
+  pitch: 26.099992752075195
+  world-name: ''
+ip-address: 109.219.195.188
+last-account-name: demonfire
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

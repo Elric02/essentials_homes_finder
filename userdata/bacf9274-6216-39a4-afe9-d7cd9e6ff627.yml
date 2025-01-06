@@ -1,0 +1,38 @@
+timestamps:
+  login: 1473857736106
+  logout: 1473857857309
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.41540361571822
+  y: 63.0
+  z: 48.140965941620145
+  yaw: -259.9974060058594
+  pitch: -5.302600383758545
+  world-name: ''
+ip-address: 176.129.83.9
+last-account-name: PapyChatDu21
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472489819159
+  logout: 1472489937832
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.02168556135666
+  y: 63.0
+  z: 47.698510782729464
+  yaw: -151.01028442382812
+  pitch: 17.84078025817871
+  world-name: ''
+ip-address: 88.174.144.29
+last-account-name: El0Craft04
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

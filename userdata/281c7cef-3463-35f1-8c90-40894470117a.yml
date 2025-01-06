@@ -1,0 +1,38 @@
+timestamps:
+  login: 1611611201760
+  logout: 1611613108671
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 141.4034141574805
+  y: 63.5
+  z: 20.19842822152363
+  yaw: -97.5958480834961
+  pitch: -3.774141550064087
+  world-name: ''
+ip-address: 37.166.50.184
+last-account-name: Boby__59
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1525878240738
+  lastteleport: 1525878513607
+  logout: 1525878559106
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1454.343087012189
+  y: 64.0
+  z: -2168.6734791681024
+  yaw: -197.97235107421875
+  pitch: 51.275569915771484
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 0.5
+  y: 70.0
+  z: 0.5
+  yaw: -358.6856689453125
+  pitch: 4.833090305328369
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 88.187.234.19
+last-account-name: OneAge
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

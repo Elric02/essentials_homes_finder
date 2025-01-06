@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481403728303
+  logout: 1481404155274
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 260.48520145902444
+  y: 121.0
+  z: -129.82369730541143
+  yaw: 176.592529296875
+  pitch: 14.072563171386719
+  world-name: ''
+ip-address: 176.151.54.91
+last-account-name: WarAlpha
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

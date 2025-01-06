@@ -1,0 +1,38 @@
+timestamps:
+  login: 1501618076149
+  logout: 1501618116766
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.21735613544496
+  y: 63.0
+  z: 49.9618552406546
+  yaw: -247.69737243652344
+  pitch: 5.947402000427246
+  world-name: ''
+ip-address: 90.6.195.198
+last-account-name: ARIIF
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

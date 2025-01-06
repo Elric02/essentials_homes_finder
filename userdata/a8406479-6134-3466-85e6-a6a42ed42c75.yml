@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.173.44.111
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1666178844348
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1666179225255
+  login: 1666178773694
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 396.0040865328946
+  y: 81.0
+  z: -3109.8210399873838
+  yaw: -121.16468048095703
+  pitch: 19.80881690979004
+last-account-name: Noah2Coco
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -11.573853506758418
+  y: 68.0
+  z: 309.77944515399355
+  yaw: 87.1807861328125
+  pitch: 41.46031951904297

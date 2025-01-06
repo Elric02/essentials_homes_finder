@@ -1,0 +1,55 @@
+timestamps:
+  login: 1592767400791
+  lastteleport: 1592767826122
+  logout: 1592770206368
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6194.092530375396
+  y: 71.0
+  z: 4296.855838663685
+  yaw: 1.891754150390625
+  pitch: 42.59967041015625
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -3348.914320983146
+  y: 63.0
+  z: 196.44575601430842
+  yaw: -158.04725646972656
+  pitch: 34.650203704833984
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 6250.463065479832
+    y: 105.8500000178814
+    z: 4426.176236951734
+    yaw: 18.148895263671875
+    pitch: 30.600130081176758
+    world-name: ''
+  alexis:
+    world: world
+    x: 6181.690535460452
+    y: 75.0
+    z: 4314.95169857028
+    yaw: 114.93546295166016
+    pitch: 28.649988174438477
+    world-name: ''
+afk: false
+ip-address: 83.79.161.136
+last-account-name: grecos_ch
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

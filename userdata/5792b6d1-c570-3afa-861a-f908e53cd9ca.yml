@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558380162935
+  logout: 1558381067020
+  lastteleport: 1558381024876
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1156.300000011921
+  y: 75.0
+  z: -3351.4228894536454
+  yaw: 324.4501037597656
+  pitch: 77.39999389648438
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 855.8027661388688
+  y: 70.0
+  z: -4912.817894894833
+  yaw: 17.8497314453125
+  pitch: 12.74998664855957
+  world-name: ''
+money: '0'
+ip-address: 88.175.197.112
+last-account-name: ALAT64
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

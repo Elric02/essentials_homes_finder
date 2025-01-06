@@ -1,0 +1,38 @@
+timestamps:
+  login: 1523177671770
+  lastteleport: 1523178495158
+  logout: 1523178572391
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 167.69169981579626
+  y: 140.0
+  z: -121.82827931913748
+  yaw: 314.099365234375
+  pitch: 30.4500675201416
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 165.49483905778808
+  y: 63.5
+  z: 12.669156286922211
+  yaw: -320.720947265625
+  pitch: 44.249996185302734
+  world-name: ''
+ip-address: 128.199.52.124
+last-account-name: Alexandre_PvP
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

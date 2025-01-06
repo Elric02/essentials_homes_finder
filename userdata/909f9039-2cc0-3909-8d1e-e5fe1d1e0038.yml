@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 160.154.244.199
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1653833050250
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1653833080902
+  login: 1653831769884
+money: '0'
+last-account-name: Ic3m3n
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.5034059126296
+  y: 64.0
+  z: 16.80659451310182
+  yaw: -179.84323120117188
+  pitch: 21.59954833984375
+homes:
+  new:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 562.9463088546538
+    y: 80.0
+    z: 1714.6121850180227
+    yaw: 71.70053100585938
+    pitch: 28.049999237060547
+  donjon:
+    world: ddf65972-e2e1-484e-b68b-78f4e36f8fd9
+    world-name: Ressource
+    x: 1490.245315587837
+    y: 74.0
+    z: -3678.3316648587656
+    yaw: -322.201416015625
+    pitch: 28.949941635131836
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3528.5
+  y: 216.0
+  z: 3622.5
+  yaw: -0.6692985892295837
+  pitch: -2.5499579906463623

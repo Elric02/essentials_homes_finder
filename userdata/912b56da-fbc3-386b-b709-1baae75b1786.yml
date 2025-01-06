@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477593743997
+  lastteleport: 1477593929538
+  logout: 1477594047311
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 9.184231193765804
+  y: 68.0
+  z: 800.6999999880791
+  yaw: -58.649898529052734
+  pitch: 7.950060844421387
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -60.074999988079085
+  y: 47.5
+  z: 479.2144529134742
+  yaw: -233.15139770507812
+  pitch: 34.1177864074707
+  world-name: ''
+ip-address: 176.146.58.197
+last-account-name: dogsy_wolf
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

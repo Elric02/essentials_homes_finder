@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492858003242
+  logout: 1492858539284
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 123.88246826006782
+  y: 63.0
+  z: -18.361525382986805
+  yaw: -283.1230773925781
+  pitch: 2.252161741256714
+  world-name: ''
+ip-address: 217.169.241.161
+last-account-name: MissPanda55
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

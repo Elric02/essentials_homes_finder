@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519315713545
+  logout: 1519315831093
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 719.222737979544
+  y: 63.0
+  z: 2649.3362529493415
+  yaw: -273.305419921875
+  pitch: 8.646995544433594
+  world-name: ''
+ip-address: 78.211.40.228
+last-account-name: Mefisto47
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

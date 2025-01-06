@@ -1,0 +1,47 @@
+timestamps:
+  login: 1480677799794
+  lastteleport: 1480678202714
+  logout: 1480678586737
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 147.8852737035315
+  y: 63.0
+  z: 60.33971467903716
+  yaw: -76.8604736328125
+  pitch: 6.899997711181641
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -794.7398583700281
+  y: 64.0
+  z: -5598.855685670993
+  yaw: 76.91966247558594
+  pitch: 10.800000190734863
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: -807.8118696236521
+    y: 64.0
+    z: -5594.852426133433
+    yaw: -152.51023864746094
+    pitch: 26.84998321533203
+    world-name: ''
+muted: false
+ip-address: 92.147.112.215
+last-account-name: Mistibulle4
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

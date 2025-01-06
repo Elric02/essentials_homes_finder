@@ -1,0 +1,98 @@
+timestamps:
+  login: 1735761686256
+  lastteleport: 1735762174246
+  logout: 1735762175747
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  kits:
+    stationaute: 1733676310741
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -711.4470426900797
+  y: 63.0625
+  z: -4526.275134742996
+  yaw: -90.10595703125
+  pitch: -24.266082763671875
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -630.5
+  y: 7.0
+  z: -4533.5
+  yaw: -40.15313720703125
+  pitch: 28.683624267578125
+  world-name: world
+money: '2904.986666666666635'
+homes:
+  b:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1725.7347365548412
+    y: 64.0
+    z: 889.0312486437247
+    yaw: 94.0340576171875
+    pitch: 9.000029563903809
+  i:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -651.7935364065361
+    y: 64.0
+    z: -4539.688663827878
+    yaw: 134.44781494140625
+    pitch: 43.38373565673828
+  o:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1676.058019476304
+    y: 65.0
+    z: 1959.8376780540916
+    yaw: 41.699745178222656
+    pitch: 28.36124038696289
+  end:
+    world: 6bdd2179-c84d-4026-8d7c-65a544be51ab
+    world-name: HestiaEnd
+    x: -261.4891998807162
+    y: 60.0
+    z: -15.300000011920929
+    yaw: 123.89678955078125
+    pitch: 46.04999923706055
+  net:
+    world: 662d438a-3236-43b5-be72-96a96955dbc4
+    world-name: RessourceNether
+    x: -797.0914699376814
+    y: 72.0
+    z: 589.5759613283253
+    yaw: -83.3935546875
+    pitch: 38.549964904785156
+  ii:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -630.0729049661039
+    y: 7.0
+    z: -4533.910758073197
+    yaw: -40.15313720703125
+    pitch: 28.683624267578125
+afk: false
+ip-address: 91.173.154.198
+last-account-name: Naos0
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+mail:
+- legacy: false
+  read: true
+  message: Merci de décorer ta ferme, les fermes en pleine air sont interdites. Coo
+    -7762 4485
+  sender-name: naturalizee
+  sender-uuid: cc702e34-b94b-3106-b41f-f357d3bf3dac
+  timestamp: 1660481747899
+  expire: 0

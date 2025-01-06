@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.81.124.187
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655683326205
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655683364889
+  login: 1655683306200
+money: '0'
+last-account-name: HellSquid007
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -4408.853590873297
+  y: 65.0
+  z: 1627.4867193501227
+  yaw: 126.43608093261719
+  pitch: 31.500276565551758
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 178.15660798362632
+  y: 63.0
+  z: -27.50503729169371
+  yaw: -90.448486328125
+  pitch: 16.04997444152832

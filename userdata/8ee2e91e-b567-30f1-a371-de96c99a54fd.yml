@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470957837918
+  lastteleport: 1470958252225
+  logout: 1470958694893
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.2372903963178
+  y: 27.0
+  z: 20.41025780615001
+  yaw: 278.48870849609375
+  pitch: 11.424516677856445
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 286.8614026965241
+  y: 20.0
+  z: 492.4781710831467
+  yaw: 191.939453125
+  pitch: 23.55002784729004
+  world-name: ''
+ip-address: 89.159.132.245
+last-account-name: zardoxe
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

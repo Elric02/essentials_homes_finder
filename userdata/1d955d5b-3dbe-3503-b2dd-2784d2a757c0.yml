@@ -1,0 +1,47 @@
+timestamps:
+  login: 1512299370371
+  lastteleport: 1512299464206
+  logout: 1512299535149
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+homes:
+  home:
+    world: Ressource
+    x: -3.0454053553187164
+    y: 71.0
+    z: 90.57044339349517
+    yaw: 188.0628662109375
+    pitch: 32.39997100830078
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Event
+  x: 3501.533394021852
+  y: 5.0
+  z: 3502.003170531127
+  yaw: 265.1598815917969
+  pitch: 6.921687126159668
+  world-name: ''
+ip-address: 78.235.45.67
+last-account-name: Fire64
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

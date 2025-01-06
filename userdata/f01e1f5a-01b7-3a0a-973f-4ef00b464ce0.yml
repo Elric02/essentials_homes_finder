@@ -1,0 +1,47 @@
+timestamps:
+  login: 1562587915187
+  lastteleport: 1562589554571
+  logout: 1562589607367
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.57904254670584
+  y: 63.0
+  z: 49.84328162946542
+  yaw: -39.114715576171875
+  pitch: 11.359758377075195
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -1963.699999988079
+    y: 16.0
+    z: -2643.2865530348495
+    yaw: -273.7161560058594
+    pitch: 49.69088363647461
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -296.69999998807907
+  y: 45.0
+  z: -78.69999998807907
+  yaw: 53.785133361816406
+  pitch: 86.70317077636719
+  world-name: ''
+ip-address: 93.1.63.248
+last-account-name: Boulle2Neige
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

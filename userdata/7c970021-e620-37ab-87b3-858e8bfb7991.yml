@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526462931012
+  lastteleport: 1526462966340
+  logout: 1526463103853
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.13036356032202
+  y: 65.0
+  z: 82.5063246135423
+  yaw: -21.390838623046875
+  pitch: 28.646913528442383
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1333.1254199422253
+  y: 51.0
+  z: -4722.366837905132
+  yaw: -1.0822677612304688
+  pitch: 6.9001617431640625
+  world-name: ''
+ip-address: 90.108.123.72
+last-account-name: CHeterKiler
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

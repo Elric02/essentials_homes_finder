@@ -1,0 +1,47 @@
+timestamps:
+  login: 1575191764255
+  lastteleport: 1575193369843
+  logout: 1575194506261
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1375.267655451845
+  y: 84.5
+  z: -1716.9303067601388
+  yaw: -60.16465759277344
+  pitch: 15.000062942504883
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -3570.883399756223
+    y: 70.0
+    z: -4005.682793380714
+    yaw: -104.24982452392578
+    pitch: 31.350004196166992
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 158.25303746759633
+  y: 64.0
+  z: 26.381587708885164
+  yaw: 112.17912292480469
+  pitch: -19.04999351501465
+  world-name: ''
+afk: false
+ip-address: 86.254.99.18
+last-account-name: sampa17
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

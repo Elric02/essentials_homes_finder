@@ -1,0 +1,38 @@
+timestamps:
+  login: 1502816146515
+  logout: 1502816161689
+  lastteleport: 1502652015557
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 160.69999998807907
+  y: 22.0
+  z: -24.30000001192093
+  yaw: 89.49750518798828
+  pitch: 85.07502746582031
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.81071571273142
+  y: 28.0
+  z: 23.06555385289444
+  yaw: 171.46719360351562
+  pitch: 21.633983612060547
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 86.244.13.212
+last-account-name: JeJoue_EnCalson
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

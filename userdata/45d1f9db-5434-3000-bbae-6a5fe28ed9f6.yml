@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586258694751
+  lastteleport: 1586258791192
+  logout: 1586260532988
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 178.5024744933691
+  y: 64.0
+  z: -32.88765722829608
+  yaw: -9.62322998046875
+  pitch: 6.439274787902832
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5433.699999988079
+  y: 81.0
+  z: 1179.945228415781
+  yaw: 48.8155517578125
+  pitch: 49.92282485961914
+  world-name: ''
+afk: false
+jailed: false
+ip-address: 91.172.76.252
+last-account-name: lebuilderfou2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

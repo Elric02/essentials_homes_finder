@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516644773918
+  logout: 1516645332625
+  lastteleport: 1516644982433
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.80930497194146
+  y: 66.0
+  z: 18.440328279116763
+  yaw: 277.89617919921875
+  pitch: -30.209325790405273
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 100.34640650514427
+  y: 63.0
+  z: 25.87756522284693
+  yaw: 69.57968139648438
+  pitch: 19.828659057617188
+  world-name: ''
+afk: false
+money: '0'
+ip-address: 78.214.161.21
+last-account-name: Shadowzz1531
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

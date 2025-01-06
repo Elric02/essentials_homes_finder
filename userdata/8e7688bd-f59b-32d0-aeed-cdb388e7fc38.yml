@@ -1,0 +1,55 @@
+timestamps:
+  login: 1525856712057
+  lastteleport: 1525805575148
+  logout: 1525856906195
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 281.3310697257746
+  y: 40.0
+  z: 177.0465097705337
+  yaw: 252.4891357421875
+  pitch: 4.649999141693115
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 103.17363386669093
+    y: 70.0
+    z: 21.510028787758834
+    yaw: -77.96356201171875
+    pitch: -0.15004119277000427
+    world-name: ''
+  jaquie:
+    world: world
+    x: 317.6999999880791
+    y: 70.0
+    z: 2511.0849235045944
+    yaw: 115.22930908203125
+    pitch: -17.70002555847168
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 321.3803582641684
+  y: 73.0
+  z: 2497.300000011921
+  yaw: 174.6048583984375
+  pitch: 22.500062942504883
+  world-name: ''
+ip-address: 91.161.158.138
+last-account-name: lucasGRCCC
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

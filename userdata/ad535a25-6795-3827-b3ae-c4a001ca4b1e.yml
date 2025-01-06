@@ -1,0 +1,55 @@
+timestamps:
+  login: 1525602745902
+  logout: 1525604035671
+  lastteleport: 1525603967507
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.30000001192093
+  y: 71.0
+  z: 2023.699999988079
+  yaw: 21.5479736328125
+  pitch: -7.847807884216309
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: -6891.131677309954
+    y: 34.0
+    z: -2007.3364022816156
+    yaw: 146.461181640625
+    pitch: 11.893604278564453
+    world-name: ''
+  suicide:
+    world: world
+    x: 169.50180431676662
+    y: 150.0
+    z: -116.56431657051148
+    yaw: 7.728515625
+    pitch: 72.51034545898438
+    world-name: ''
+ip-address: 105.235.158.35
+last-account-name: XagentX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

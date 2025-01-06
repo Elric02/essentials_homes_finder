@@ -1,0 +1,47 @@
+timestamps:
+  login: 1487338494105
+  lastteleport: 1487338577344
+  logout: 1487339664646
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6541.172765251105
+  y: 78.0
+  z: 5086.189486932707
+  yaw: -27.737497329711914
+  pitch: 70.66836547851562
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -510.8794907800925
+  y: 14.0
+  z: 389.0485326799995
+  yaw: -42.5513916015625
+  pitch: 10.354260444641113
+  world-name: ''
+homes:
+  home:
+    world: Ressource
+    x: -156.22966389341445
+    y: 11.0
+    z: 393.4502980132474
+    yaw: -268.4505615234375
+    pitch: 28.309328079223633
+    world-name: ''
+ip-address: 2.8.37.81
+last-account-name: TheArrowFly
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

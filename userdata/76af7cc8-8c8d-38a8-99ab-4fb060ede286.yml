@@ -1,0 +1,38 @@
+timestamps:
+  login: 1531843454470
+  logout: 1531843862512
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.67162542915966
+  y: 65.0
+  z: 79.16871484298225
+  yaw: -181.641845703125
+  pitch: 5.644660472869873
+  world-name: ''
+ip-address: 77.136.19.200
+last-account-name: Destrorc
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

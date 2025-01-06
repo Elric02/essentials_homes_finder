@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488313757850
+  lastteleport: 1488320680013
+  logout: 1488320857746
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.8327161680969
+  y: 63.0
+  z: 7.901120202358058
+  yaw: -224.91058349609375
+  pitch: 35.7244987487793
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 170.46182825904424
+  y: 150.0
+  z: -126.83741504617748
+  yaw: 125.9403076171875
+  pitch: 57.17445373535156
+  world-name: ''
+ip-address: 84.98.243.235
+last-account-name: Episthaxis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

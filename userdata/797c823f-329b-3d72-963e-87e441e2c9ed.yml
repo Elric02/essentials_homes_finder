@@ -1,0 +1,38 @@
+timestamps:
+  login: 1515192257464
+  lastteleport: 1515192404486
+  logout: 1515192790095
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.07935447495382
+  y: 63.0
+  z: 63.31653140118527
+  yaw: -164.87234497070312
+  pitch: -0.04622141644358635
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 5318.313311810101
+  y: 83.0
+  z: 1262.299458939283
+  yaw: 351.5957336425781
+  pitch: 59.36479949951172
+  world-name: ''
+ip-address: 176.152.57.7
+last-account-name: Appaly
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

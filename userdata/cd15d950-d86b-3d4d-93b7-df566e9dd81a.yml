@@ -1,0 +1,47 @@
+timestamps:
+  login: 1585319665534
+  lastteleport: 1585320201335
+  logout: 1585320357207
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -7587.923558438891
+  y: 47.0
+  z: 3672.300000011921
+  yaw: -116.76594543457031
+  pitch: 33.807376861572266
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -7580.17351604601
+  y: 50.0
+  z: 3675.300000011921
+  yaw: 64.2403564453125
+  pitch: 8.364879608154297
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -7610.157156232437
+    y: 64.0
+    z: 3681.4777080378417
+    yaw: 253.64649963378906
+    pitch: 14.174697875976562
+    world-name: ''
+ip-address: 217.67.148.225
+last-account-name: LeVraiBOBLEPONGE
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

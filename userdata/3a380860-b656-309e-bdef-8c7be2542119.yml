@@ -1,0 +1,55 @@
+timestamps:
+  login: 1488893373269
+  logout: 1488893798761
+  lastteleport: 1488714141764
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 10759.875958459006
+  y: 64.0
+  z: 10432.509241675707
+  yaw: -350.91705322265625
+  pitch: 16.990787506103516
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1739.4320224825738
+  y: 69.0
+  z: -1359.6473468576444
+  yaw: -238.78594970703125
+  pitch: 8.418600082397461
+  world-name: ''
+homes:
+  build:
+    world: world
+    x: 4772.411528880026
+    y: 69.0
+    z: -2352.9788138799818
+    yaw: 274.98388671875
+    pitch: -8.674728393554688
+    world-name: ''
+  island:
+    world: world
+    x: 10760.949699363358
+    y: 68.0
+    z: 10430.106475156726
+    yaw: -82.06820678710938
+    pitch: 14.287253379821777
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 90.127.201.57
+last-account-name: HyptnnoTiik
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

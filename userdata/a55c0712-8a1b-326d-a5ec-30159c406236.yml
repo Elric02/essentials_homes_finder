@@ -1,0 +1,38 @@
+timestamps:
+  login: 1507968266271
+  logout: 1507968698056
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 143.66678227707072
+  y: 66.0
+  z: -0.3172176784691077
+  yaw: -117.60276794433594
+  pitch: 26.715728759765625
+  world-name: ''
+ip-address: 80.200.223.30
+last-account-name: akronman1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

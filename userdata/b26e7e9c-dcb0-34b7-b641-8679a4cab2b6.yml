@@ -1,0 +1,106 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.173.10.173
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1669067967010
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669068012880
+  login: 1669066958293
+  kits:
+    color: 1641681889200
+money: '100.0'
+last-account-name: Hokuusai
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -6237.927698737474
+  y: 58.5
+  z: 5383.889295100527
+  yaw: -19.388671875
+  pitch: -12.004902839660645
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 6320.2573974562965
+  y: 69.0
+  z: 900.1544524417651
+  yaw: 34.357452392578125
+  pitch: 20.28162956237793
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6352.511793818936
+    y: 72.0
+    z: 806.80003958281
+    yaw: -180.79290771484375
+    pitch: 12.299708366394043
+  mat:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6265.475802851416
+    y: 64.0
+    z: 5386.6800432585105
+    yaw: -97.31417846679688
+    pitch: 14.099967002868652
+  coffre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6358.938487331293
+    y: 62.0
+    z: 809.305874700294
+    yaw: -89.89286041259766
+    pitch: 18.149702072143555
+  village:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6299.2781280680565
+    y: 65.0
+    z: 869.7147914125114
+    yaw: -66.19168090820312
+    pitch: 6.7497124671936035
+  trade:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6334.302419424097
+    y: 56.0
+    z: 804.3328351334019
+    yaw: -268.3930969238281
+    pitch: 10.949715614318848
+  malta:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6910.813659964423
+    y: 76.0
+    z: -1976.4429938966168
+    yaw: 272.7177734375
+    pitch: 28.19983673095703
+  shop:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2752.4771073267902
+    y: 64.0
+    z: -210.2350623066204
+    yaw: 0.395233154296875
+    pitch: 8.09996509552002
+  shop2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -348.8852324139902
+    y: 65.0
+    z: 369.7368379225381
+    yaw: 184.1923828125
+    pitch: -11.399953842163086
+nickname: §5H§9okusai

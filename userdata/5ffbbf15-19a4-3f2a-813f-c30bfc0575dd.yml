@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482503398233
+  lastteleport: 1482503429078
+  logout: 1482503755548
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.07371801799357
+  y: 63.0
+  z: 48.513537110139076
+  yaw: -301.997314453125
+  pitch: 3.547394275665283
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: 416.62446870557693
+  y: 64.0
+  z: -94.28458402935813
+  yaw: -5.851320266723633
+  pitch: 54.59999465942383
+  world-name: ''
+ip-address: 90.53.13.130
+last-account-name: Lex13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

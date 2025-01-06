@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498494754310
+  lastteleport: 1498078808511
+  logout: 1498495631242
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3641.79001380094
+  y: 61.0
+  z: 895.1559193459533
+  yaw: 219.44976806640625
+  pitch: -9.713417053222656
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3628.2493335954537
+  y: 64.0
+  z: 907.770142251077
+  yaw: -311.6205749511719
+  pitch: 25.264663696289062
+  world-name: ''
+ip-address: 176.138.102.83
+last-account-name: blackcatchad743
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

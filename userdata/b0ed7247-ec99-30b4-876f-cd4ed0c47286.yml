@@ -1,0 +1,47 @@
+timestamps:
+  login: 1689862609695
+  lastteleport: 1613825480168
+  logout: 1689862613513
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3379.807479971352
+  y: 73.875
+  z: -3025.0390649822316
+  yaw: -146.60421752929688
+  pitch: 19.349489212036133
+  world-name: world
+money: '0'
+afk: false
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3379.6281890652444
+    y: 73.875
+    z: -3025.1290711347406
+    yaw: -146.60421752929688
+    pitch: 19.349489212036133
+    world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3379.807479971352
+  y: 73.875
+  z: -3025.0390649822316
+  yaw: -146.60421752929688
+  pitch: 19.349489212036133
+  world-name: world
+ip-address: 109.89.169.100
+last-account-name: TheScream_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

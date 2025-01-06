@@ -1,0 +1,47 @@
+timestamps:
+  login: 1468918091372
+  lastteleport: 1468918594577
+  logout: 1468919589111
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -590.8310091253378
+  y: 73.0
+  z: -6645.199195353123
+  yaw: 298.496337890625
+  pitch: 24.299985885620117
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 260.300000011921
+  y: 55.0
+  z: 149.24563915426066
+  yaw: 24.822265625
+  pitch: 51.70161437988281
+  world-name: ''
+homes:
+  arbre:
+    world: world
+    x: -594.8229827521726
+    y: 76.0
+    z: -6564.177595001654
+    yaw: 262.646728515625
+    pitch: 64.04999542236328
+    world-name: ''
+afk: false
+ip-address: 82.229.219.139
+last-account-name: Aliris123
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.68.180.163
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1634737083490
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1634819628266
+  login: 1634819256154
+money: '0'
+last-account-name: Vihiborg
+lastlocation:
+  world: 886c7d43-b736-498b-8648-cad06b6b21d1
+  world-name: Event
+  x: 1606.3275275438007
+  y: 4.0625
+  z: -1072.9434931288624
+  yaw: 243.42381286621094
+  pitch: 24.29996109008789
+logoutlocation:
+  world: 72881a70-0539-4344-a645-fa1d7b7818ea
+  world-name: Ressource
+  x: 120.69999998807907
+  y: 63.0
+  z: -265.361831822663
+  yaw: -86.81485748291016
+  pitch: 47.849971771240234

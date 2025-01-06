@@ -1,0 +1,38 @@
+timestamps:
+  login: 1588346925766
+  lastteleport: 1588347210832
+  logout: 1588347541638
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -284.94352011942436
+  y: 67.0
+  z: 354.00996229235307
+  yaw: -196.04949951171875
+  pitch: -6.449986934661865
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 143.3561681045414
+  y: 66.0
+  z: 99.31780558206077
+  yaw: -296.72125244140625
+  pitch: 24.299976348876953
+  world-name: ''
+ip-address: 92.129.204.152
+last-account-name: kittycatava12345
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

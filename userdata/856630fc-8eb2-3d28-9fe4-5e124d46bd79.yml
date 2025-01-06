@@ -1,0 +1,47 @@
+timestamps:
+  login: 1611719873056
+  lastteleport: 1611725567314
+  logout: 1611726055156
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1814.6385615785296
+  y: 65.0
+  z: 1061.699999988079
+  yaw: 354.656494140625
+  pitch: 18.897869110107422
+  world-name: ''
+homes:
+  home:
+    world: Ressource
+    x: 2007.3279957894836
+    y: 66.0
+    z: 1443.2607886426176
+    yaw: 225.306884765625
+    pitch: 32.69944381713867
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 2008.4358933374474
+  y: 60.0
+  z: 1435.4660281178537
+  yaw: 55.742523193359375
+  pitch: 42.312320709228516
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 107.159.105.58
+last-account-name: ZachTheTank
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

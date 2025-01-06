@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479230095895
+  logout: 1479230310437
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 197.3243770869878
+  y: 64.0
+  z: 13.958994093581875
+  yaw: -214.8038330078125
+  pitch: 21.173765182495117
+  world-name: ''
+ip-address: 90.26.252.221
+last-account-name: MonsteryoloZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

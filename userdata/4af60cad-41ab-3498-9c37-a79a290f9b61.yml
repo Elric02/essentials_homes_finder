@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.89.191.99
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669738627210
+  login: 1669738570420
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.01172262992714
+  y: 81.0
+  z: -3111.010198866455
+  yaw: -67.19816589355469
+  pitch: -0.8801711797714233
+last-account-name: CestBienMoi
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 397.331328444017
+  y: 81.0
+  z: -3109.53599977583
+  yaw: 169.68295288085938
+  pitch: 27.623363494873047

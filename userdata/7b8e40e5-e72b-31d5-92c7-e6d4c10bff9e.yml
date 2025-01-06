@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468847938335
+  logout: 1468848174109
+  lastteleport: 1468847979186
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: -3958.6947620502665
+  y: 68.0
+  z: 681.3000000119209
+  yaw: -29.9248046875
+  pitch: 22.144790649414062
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.18452638843405
+  y: 64.0
+  z: 7.01120957788247
+  yaw: -178.376220703125
+  pitch: -3.176668405532837
+  world-name: ''
+money: '0'
+ip-address: 78.202.87.2
+last-account-name: Nacrist
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

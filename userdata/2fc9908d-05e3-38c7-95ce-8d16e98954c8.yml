@@ -1,0 +1,55 @@
+timestamps:
+  login: 1511959853796
+  lastteleport: 1509998634813
+  logout: 1511959893555
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 43.02719850507738
+    y: 63.0
+    z: -2687.4485211148617
+    yaw: -55.032958984375
+    pitch: 43.015342712402344
+    world-name: ''
+  b:
+    world: world
+    x: 1623.5577782506712
+    y: 70.0
+    z: -2974.1974641179695
+    yaw: -324.26702880859375
+    pitch: 68.61528015136719
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1867.4929200688077
+  y: 69.0
+  z: 6026.218319038788
+  yaw: -157.7559814453125
+  pitch: -7.05351448059082
+  world-name: ''
+ip-address: 78.239.80.151
+last-account-name: mehmetozer2120
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

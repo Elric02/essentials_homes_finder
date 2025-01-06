@@ -1,0 +1,47 @@
+timestamps:
+  login: 1511127430558
+  lastteleport: 1511127476611
+  logout: 1511127495141
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2292.916942173027
+  y: 63.0
+  z: -2311.3815936522337
+  yaw: -209.6712188720703
+  pitch: 19.193191528320312
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 214.1756422276676
+  y: 100.0
+  z: -104.58459461343108
+  yaw: -25.129547119140625
+  pitch: 23.35978889465332
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 2290.6986987076148
+    y: 63.5625
+    z: -2306.7743022425657
+    yaw: -79.76378631591797
+    pitch: 26.716114044189453
+    world-name: ''
+afk: false
+ip-address: 109.10.206.194
+last-account-name: choucr
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

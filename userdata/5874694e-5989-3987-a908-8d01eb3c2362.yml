@@ -1,0 +1,51 @@
+timestamps:
+  login: 1583691119370
+  lastteleport: 1583692907396
+  logout: 1583692930596
+  kits:
+    color: 1583692811795
+    vip: 1583692788799
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -5320.462173521127
+  y: 88.0
+  z: -6914.476759082253
+  yaw: -72.75100708007812
+  pitch: 10.199606895446777
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 692.146789728273
+  y: 70.0
+  z: 4603.344361237191
+  yaw: 223.4781951904297
+  pitch: 16.38443946838379
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 695.2820519551238
+    y: 71.0
+    z: 4595.147685754299
+    yaw: 171.12887573242188
+    pitch: 38.284332275390625
+    world-name: ''
+afk: false
+nickname: §eHellishRebuke
+ip-address: 178.112.137.221
+last-account-name: xixenar
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

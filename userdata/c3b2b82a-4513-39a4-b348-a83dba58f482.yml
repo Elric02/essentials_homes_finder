@@ -1,0 +1,63 @@
+timestamps:
+  login: 1493296642480
+  lastteleport: 1489150242133
+  logout: 1493296663929
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5445838297931
+  y: 64.0
+  z: 21.288713538390283
+  yaw: 185.45855712890625
+  pitch: 9.845444679260254
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 1704.326158922791
+    y: 65.0
+    z: 4718.181068436158
+    yaw: -222.5335693359375
+    pitch: 15.51845932006836
+    world-name: ''
+  messa:
+    world: Ressource
+    x: 19600.99852076531
+    y: 67.0
+    z: 15725.71607666864
+    yaw: -223.8081512451172
+    pitch: 11.133113861083984
+    world-name: ''
+  exido:
+    world: world
+    x: 533.1752657519289
+    y: 64.0
+    z: 2361.8274106023982
+    yaw: -331.65435791015625
+    pitch: 17.882844924926758
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1670.6316584701851
+  y: 65.5
+  z: 4738.201122062668
+  yaw: -138.52728271484375
+  pitch: 2.4820029735565186
+  world-name: ''
+muted: false
+jailed: false
+ip-address: 90.42.215.84
+last-account-name: Ange_Mortaly
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

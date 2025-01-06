@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614197483183
+  logout: 1614197512186
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.25171840925285
+  y: 63.0
+  z: 38.57196531468005
+  yaw: -178.70443725585938
+  pitch: 7.140759468078613
+  world-name: ''
+ip-address: 90.78.214.192
+last-account-name: KaaMikaaZee_PvP
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

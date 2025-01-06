@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477781104646
+  logout: 1477781783408
+  lastteleport: 1477781488850
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -87.48445842969993
+  y: 67.5
+  z: 631.6876730370413
+  yaw: -270.607177734375
+  pitch: 0.505772590637207
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: -102.61416547714536
+  y: 68.0
+  z: 698.2264053763687
+  yaw: 261.4325256347656
+  pitch: 17.144968032836914
+  world-name: ''
+ip-address: 88.166.254.189
+last-account-name: Zelkiax_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1595956034860
+  lastteleport: 1595956346261
+  logout: 1595956406723
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -627.8648927627127
+  y: 64.0
+  z: -747.4477222458833
+  yaw: -274.6500244140625
+  pitch: 20.091205596923828
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -155.95113969034475
+  y: 47.0
+  z: 531.4924361442361
+  yaw: 71.198974609375
+  pitch: 38.0999755859375
+  world-name: ''
+ip-address: 24.203.105.43
+last-account-name: gelan1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

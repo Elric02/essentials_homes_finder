@@ -1,0 +1,55 @@
+timestamps:
+  login: 1471179544956
+  lastteleport: 1471180188534
+  logout: 1471181105908
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2094.043566611158
+  y: 67.0
+  z: -1376.3500348672078
+  yaw: -283.0462646484375
+  pitch: -34.259117126464844
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2084.8030130341226
+  y: 95.0
+  z: -1384.638486434109
+  yaw: -154.9285888671875
+  pitch: 11.436182975769043
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world_nether
+    x: 3274.4289092142803
+    y: 128.0
+    z: -4126.080525936265
+    yaw: -88.58233642578125
+    pitch: 34.48423767089844
+    world-name: ''
+  home:
+    world: world
+    x: -2082.3117916440656
+    y: 94.0
+    z: -1392.6100357063965
+    yaw: -308.845947265625
+    pitch: 72.76415252685547
+    world-name: ''
+afk: false
+ip-address: 82.123.211.74
+last-account-name: Tino_o
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

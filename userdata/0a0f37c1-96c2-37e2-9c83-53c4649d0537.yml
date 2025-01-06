@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517617880072
+  logout: 1517617905689
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2942.420639239687
+  y: 99.0
+  z: 6979.713164749214
+  yaw: 212.9234619140625
+  pitch: 13.975648880004883
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3094.404396438664
+  y: 59.0
+  z: 6985.586001574
+  yaw: -268.8541259765625
+  pitch: -1.0840245485305786
+  world-name: ''
+ip-address: 90.39.226.41
+last-account-name: Sora952
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

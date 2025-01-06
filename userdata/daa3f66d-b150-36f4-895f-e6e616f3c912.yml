@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487280277462
+  logout: 1487281931583
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3076.699999988079
+  y: 24.0
+  z: 2358.4691244667233
+  yaw: 107.24859619140625
+  pitch: 2.4000203609466553
+  world-name: ''
+ip-address: 77.146.80.29
+last-account-name: macuse
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

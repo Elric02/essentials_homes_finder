@@ -1,0 +1,47 @@
+timestamps:
+  login: 1562464036671
+  lastteleport: 1562464811577
+  logout: 1562465054449
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.7265086756674
+  y: 64.0
+  z: 10.500875515126006
+  yaw: -188.87078857421875
+  pitch: 11.878670692443848
+  world-name: ''
+homes:
+  home:
+    world: Ressource
+    x: -1013.8127618159008
+    y: 67.0
+    z: -278.2737375545237
+    yaw: 17.25020408630371
+    pitch: 44.69996643066406
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -131.62522890336982
+  y: 5.0
+  z: 96.69999998807907
+  yaw: 9.597291946411133
+  pitch: 90.0
+  world-name: ''
+ip-address: 88.167.43.207
+last-account-name: swamp
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

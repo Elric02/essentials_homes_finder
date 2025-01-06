@@ -1,0 +1,55 @@
+timestamps:
+  login: 1561628028944
+  lastteleport: 1561628683780
+  logout: 1561630063266
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 65.07039114625574
+  y: 94.0
+  z: 60.233991556875864
+  yaw: -11.627960205078125
+  pitch: 30.626361846923828
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -3296.563388444167
+    y: 72.0
+    z: -2659.40420630255
+    yaw: -258.1522216796875
+    pitch: 23.070180892944336
+    world-name: ''
+  maison:
+    world: world
+    x: -552.9176247141914
+    y: 84.0
+    z: -2943.3466165695786
+    yaw: 108.66822814941406
+    pitch: 19.695938110351562
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -504.6216346555553
+  y: 64.0
+  z: -2962.9849562133404
+  yaw: 138.09326171875
+  pitch: 29.365421295166016
+  world-name: ''
+afk: false
+money: '0'
+ip-address: 93.24.164.114
+last-account-name: aaronz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

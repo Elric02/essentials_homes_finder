@@ -1,0 +1,38 @@
+timestamps:
+  login: 1556114726110
+  lastteleport: 1556114658677
+  logout: 1556114817325
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1956.9343291206621
+  y: 84.0
+  z: -748.1558394556118
+  yaw: 268.45391845703125
+  pitch: 12.878636360168457
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3681.5091142630563
+  y: 127.5
+  z: -2815.414807240423
+  yaw: 136.64028930664062
+  pitch: 37.09516906738281
+  world-name: ''
+ip-address: 88.160.110.5
+last-account-name: guigui1e
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

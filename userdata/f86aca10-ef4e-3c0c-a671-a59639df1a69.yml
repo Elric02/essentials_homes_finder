@@ -1,0 +1,55 @@
+timestamps:
+  login: 1497802339246
+  lastteleport: 1497802812721
+  logout: 1497802899751
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4236.034799138382
+  y: 67.0
+  z: 5300.833789330916
+  yaw: 87.45748901367188
+  pitch: -1.9152528047561646
+  world-name: ''
+money: '0'
+homes:
+  mine:
+    world: Ressource
+    x: -3648.069754072045
+    y: 19.0
+    z: 3063.916215993509
+    yaw: 94.66546630859375
+    pitch: 2.564944267272949
+    world-name: ''
+  ny:
+    world: world
+    x: -4296.449164919756
+    y: 70.0
+    z: 5321.655915260138
+    yaw: -285.8662109375
+    pitch: 34.967899322509766
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4329.232118913949
+  y: 70.875
+  z: 5292.6581951235485
+  yaw: 238.7515106201172
+  pitch: 13.227768898010254
+  world-name: ''
+ip-address: 105.102.166.135
+last-account-name: Syriox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

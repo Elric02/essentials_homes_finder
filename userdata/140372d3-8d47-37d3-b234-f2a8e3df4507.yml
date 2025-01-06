@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492895299133
+  lastteleport: 1492896813125
+  logout: 1492897105654
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -246.70244980446955
+  y: 65.0
+  z: 363.8491757224865
+  yaw: 249.6007843017578
+  pitch: 10.650008201599121
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4725.3852024339985
+  y: 71.0
+  z: -463.5307343804872
+  yaw: 76.17791748046875
+  pitch: 17.249990463256836
+  world-name: ''
+ip-address: 78.239.88.161
+last-account-name: Slyth3riin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

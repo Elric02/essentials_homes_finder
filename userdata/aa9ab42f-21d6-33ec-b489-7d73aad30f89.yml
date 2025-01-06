@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558146384802
+  lastteleport: 1558147716898
+  logout: 1558147938093
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3876.3357985060807
+  y: 66.0
+  z: 1058.7529228000078
+  yaw: -20.75994873046875
+  pitch: 19.374961853027344
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4199.526066158371
+  y: 62.0
+  z: -3007.6297537542596
+  yaw: 118.69664001464844
+  pitch: 37.44516372680664
+  world-name: ''
+ip-address: 123.50.68.103
+last-account-name: tea
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

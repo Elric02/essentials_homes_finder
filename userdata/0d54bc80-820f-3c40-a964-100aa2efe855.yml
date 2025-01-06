@@ -1,0 +1,38 @@
+timestamps:
+  login: 1503253158612
+  lastteleport: 1503253815356
+  logout: 1503253847987
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 271.65130856154775
+  y: 61.41999998688698
+  z: -426.69999998807907
+  yaw: -203.046630859375
+  pitch: 11.850006103515625
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -123.21092987060547
+  pitch: -69.57548522949219
+  world-name: ''
+ip-address: 90.30.4.100
+last-account-name: XxSirBlackxX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

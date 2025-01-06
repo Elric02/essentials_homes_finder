@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470253543464
+  logout: 1470253881735
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 9.046882295692757
+  y: 63.0
+  z: -264.2272200682189
+  yaw: -167.1607208251953
+  pitch: 6.988374710083008
+  world-name: ''
+ip-address: 81.251.245.99
+last-account-name: kartmam
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1539374098584
+  logout: 1539374196870
+  lastteleport: 1539284516956
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1257.3544514406542
+  y: 73.0
+  z: 1643.037326476305
+  yaw: -74.84994506835938
+  pitch: 12.45002269744873
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -113.47851346676511
+  y: 47.0
+  z: 461.11516102694793
+  yaw: -143.7526092529297
+  pitch: 42.3000373840332
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -113.5122727767073
+    y: 50.1875
+    z: 460.46100916624994
+    yaw: 86.9459228515625
+    pitch: 27.900035858154297
+    world-name: ''
+afk: false
+ip-address: 92.93.243.91
+last-account-name: vbsteve1606
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

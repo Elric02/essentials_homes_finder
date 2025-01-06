@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514892363503
+  lastteleport: 1514892653738
+  logout: 1514892699537
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4884.576686414276
+  y: 69.0
+  z: -363.2711229187964
+  yaw: -98.12127685546875
+  pitch: 14.999975204467773
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.01831594901694
+  y: 63.5
+  z: 6.5861092012972335
+  yaw: -10.221099853515625
+  pitch: -23.2213191986084
+  world-name: ''
+ip-address: 84.6.105.170
+last-account-name: CrypToX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

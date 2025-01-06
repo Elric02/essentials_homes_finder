@@ -1,0 +1,38 @@
+timestamps:
+  login: 1605290612103
+  logout: 1605290640679
+  lastteleport: 1605290516103
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6383.02335662041
+  y: 74.0
+  z: 5024.585358860516
+  yaw: -123.60063934326172
+  pitch: 21.449949264526367
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5857.300000011921
+  y: 53.0
+  z: -6358.300000011921
+  yaw: 353.3764953613281
+  pitch: 8.399596214294434
+  world-name: ''
+money: '0'
+ip-address: 91.173.119.209
+last-account-name: simonfalke
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

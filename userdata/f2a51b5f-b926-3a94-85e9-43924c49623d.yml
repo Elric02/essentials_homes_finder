@@ -1,0 +1,63 @@
+timestamps:
+  login: 1489785903424
+  lastteleport: 1489787469908
+  logout: 1489791111063
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 953.5334632019388
+  y: 4.0
+  z: -1325.0512407752922
+  yaw: 134.5498809814453
+  pitch: 6.749980449676514
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1297.2271814716437
+  y: 81.0
+  z: -4009.281673678308
+  yaw: -72.5947265625
+  pitch: 15.00002670288086
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 1326.5145592416898
+    y: 80.0
+    z: -3958.910458152586
+    yaw: -332.39599609375
+    pitch: 49.05023193359375
+    world-name: ''
+  shop:
+    world: world
+    x: -4792.35446754653
+    y: 70.0
+    z: -338.91551498299395
+    yaw: 69.72743225097656
+    pitch: 12.2999906539917
+    world-name: ''
+  wild:
+    world: world
+    x: 1992.806258240017
+    y: 63.0
+    z: 7272.998984680398
+    yaw: 191.8507080078125
+    pitch: 17.69999885559082
+    world-name: ''
+afk: false
+ip-address: 91.69.223.225
+last-account-name: kewin34230
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

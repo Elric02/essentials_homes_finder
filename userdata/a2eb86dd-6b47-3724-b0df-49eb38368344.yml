@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487450738404
+  lastteleport: 1487451267543
+  logout: 1487451654833
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.88763720565095
+  y: 64.0
+  z: 30.723514543946564
+  yaw: -13.260894775390625
+  pitch: 17.574512481689453
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Ressource
+  x: 301.6385889441154
+  y: 64.0
+  z: 109.21801960013288
+  yaw: -254.45172119140625
+  pitch: 4.7373433113098145
+  world-name: ''
+ip-address: 90.44.71.1
+last-account-name: Akadae
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

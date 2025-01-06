@@ -1,0 +1,63 @@
+timestamps:
+  login: 1522354633366
+  lastteleport: 1522356142447
+  logout: 1522356199153
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1478.699999988079
+  y: 4.0
+  z: -245.69999998807907
+  yaw: -164.3970947265625
+  pitch: -77.2498779296875
+  world-name: ''
+homes:
+  sapins:
+    world: Ressource
+    x: -1952.0
+    y: 63.0
+    z: -3881.0
+    yaw: 270.4498596191406
+    pitch: 16.800004959106445
+    world-name: ''
+  maison:
+    world: world
+    x: 5391.966699813948
+    y: 72.0
+    z: 6079.437104587222
+    yaw: -106.69149780273438
+    pitch: 22.799652099609375
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 1476.2145755446836
+    y: 62.0
+    z: -246.29685129518435
+    yaw: -12.149505615234375
+    pitch: 22.199954986572266
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5392.032067992406
+  y: 72.0
+  z: 6076.480096419913
+  yaw: -192.64068603515625
+  pitch: 8.699676513671875
+  world-name: ''
+afk: false
+ip-address: 213.49.7.219
+last-account-name: Dragunk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

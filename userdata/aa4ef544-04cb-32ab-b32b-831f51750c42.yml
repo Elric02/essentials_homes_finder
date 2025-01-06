@@ -1,0 +1,63 @@
+timestamps:
+  login: 1477169065384
+  lastteleport: 1477169180268
+  logout: 1477169325790
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6233.701713203411
+  y: 134.24918707874468
+  z: -1521.1202471476704
+  yaw: -86.41552734375
+  pitch: 13.949925422668457
+  world-name: ''
+homes:
+  home1:
+    world: world
+    x: 6205.229196312355
+    y: 131.0
+    z: -1535.7853852226463
+    yaw: -205.8085174560547
+    pitch: 24.60002326965332
+    world-name: ''
+  coffres:
+    world: world
+    x: 6208.106920269588
+    y: 117.0
+    z: -1542.6925491037416
+    yaw: -206.70826721191406
+    pitch: 28.800024032592773
+    world-name: ''
+  commun:
+    world: world
+    x: 6219.690200038383
+    y: 127.0
+    z: -1519.6955948622776
+    yaw: 123.8914794921875
+    pitch: 17.399993896484375
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 6298.998905108901
+  y: 103.0
+  z: -1540.8602290092338
+  yaw: -77.13479614257812
+  pitch: 25.49256134033203
+  world-name: ''
+muted: true
+ip-address: 78.238.91.151
+last-account-name: Force4
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

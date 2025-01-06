@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609358022925
+  logout: 1609359261074
+  lastteleport: 1609358935421
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.61842842771946
+  y: 64.0
+  z: 24.382349723468174
+  yaw: -304.8940124511719
+  pitch: 19.776161193847656
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5419.292916762145
+  y: 62.0
+  z: 2434.010031936437
+  yaw: -116.43060302734375
+  pitch: 70.19972229003906
+  world-name: ''
+money: '0'
+ip-address: 89.158.167.148
+last-account-name: Rafacraft05
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

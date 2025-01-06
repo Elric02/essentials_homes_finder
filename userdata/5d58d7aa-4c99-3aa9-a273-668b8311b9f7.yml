@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472386391587
+  logout: 1472386425785
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.15798112954883
+  y: 63.0
+  z: 47.276177345524246
+  yaw: 58.49750518798828
+  pitch: -24.924226760864258
+  world-name: ''
+ip-address: 81.53.128.18
+last-account-name: DerkerFR
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

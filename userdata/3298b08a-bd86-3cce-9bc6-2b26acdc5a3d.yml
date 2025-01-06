@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616951958134
+  logout: 1616952309200
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.92500001192093
+  y: 65.0
+  z: 85.02448115597258
+  yaw: 227.769287109375
+  pitch: 22.939390182495117
+  world-name: ''
+ip-address: 90.89.4.123
+last-account-name: lestblood
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

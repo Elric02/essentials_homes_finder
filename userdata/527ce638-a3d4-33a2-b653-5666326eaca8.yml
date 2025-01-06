@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483978388256
+  logout: 1483978547501
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.98380520611101
+  y: 27.0
+  z: 20.519756227425127
+  yaw: -88.54742431640625
+  pitch: 19.297372817993164
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.35299070446501
+  y: 64.0
+  z: 16.48200265177597
+  yaw: 109.15252685546875
+  pitch: -12.450029373168945
+  world-name: ''
+ip-address: 81.241.100.120
+last-account-name: The_Dark4400
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

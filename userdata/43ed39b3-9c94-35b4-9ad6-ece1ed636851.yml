@@ -1,0 +1,63 @@
+timestamps:
+  login: 1612474234714
+  lastteleport: 1612474916463
+  logout: 1612474981565
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.48040729700628
+  y: 64.0
+  z: 24.38475791455537
+  yaw: -194.66201782226562
+  pitch: 67.32948303222656
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 6550.043310075612
+    y: 65.0
+    z: 1724.137515681358
+    yaw: 324.40362548828125
+    pitch: 43.30548858642578
+    world-name: ''
+  n:
+    world: world
+    x: -1867.5863775016571
+    y: 75.25
+    z: -2412.1177487650893
+    yaw: -143.51675415039062
+    pitch: 50.540225982666016
+    world-name: ''
+  end:
+    world: End
+    x: -0.11657720681120143
+    y: 57.0
+    z: -381.19057607066435
+    yaw: -17.210693359375
+    pitch: 50.678306579589844
+    world-name: ''
+logoutlocation:
+  world: End
+  x: -1.699999988079071
+  y: 24.0
+  z: -382.8095294211681
+  yaw: -328.7117614746094
+  pitch: 32.8607063293457
+  world-name: ''
+afk: false
+ip-address: 194.254.30.125
+last-account-name: FireFox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

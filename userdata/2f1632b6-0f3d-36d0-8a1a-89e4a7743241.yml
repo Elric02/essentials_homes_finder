@@ -1,0 +1,38 @@
+timestamps:
+  login: 1536275392153
+  lastteleport: 1536275593434
+  logout: 1536275667950
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.23241596275645
+  y: 27.5
+  z: 23.740850057885655
+  yaw: 0.13922911882400513
+  pitch: 11.555069923400879
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -117.83721679233611
+  y: 94.0
+  z: 15.892836617054012
+  yaw: -119.80116271972656
+  pitch: 8.627750396728516
+  world-name: ''
+ip-address: 78.193.36.234
+last-account-name: Cereale
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1540806980858
+  logout: 1540807041512
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 113.32502476329856
+  y: 63.0
+  z: 41.315309034961174
+  yaw: 168.39752197265625
+  pitch: 19.500009536743164
+  world-name: ''
+ip-address: 86.244.7.108
+last-account-name: Poussine
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

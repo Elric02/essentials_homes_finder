@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.103.68.60
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1656949523501
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1656949613791
+  login: 1656949393639
+money: '0'
+last-account-name: arxjojo
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -1.6177420828163556
+  y: 52.200000047683716
+  z: 1.9850526693305843
+  yaw: -170.9272918701172
+  pitch: -14.999688148498535
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -92.0888262021957
+  y: 65.0
+  z: -127.17571920028684
+  yaw: -126.15142059326172
+  pitch: 40.95012664794922

@@ -1,0 +1,39 @@
+timestamps:
+  login: 1611957712866
+  lastteleport: 1611958907183
+  jail: 1611960030222
+  onlinejail: 0
+  logout: 1611959326106
+  lastheal: 0
+  mute: 0
+lastlocation:
+  world: Ressource
+  x: 55.307779368649264
+  y: 10.0
+  z: 107.6661366937124
+  yaw: 359.2463073730469
+  pitch: 25.199914932250977
+  world-name: ''
+money: '0'
+jailed: true
+jail: cage
+logoutlocation:
+  world: world
+  x: 199.1365228584967
+  y: 74.0
+  z: 18.282370576081057
+  yaw: -270.57476806640625
+  pitch: 29.58387565612793
+  world-name: ''
+ip-address: 86.195.248.125
+last-account-name: Dadaro
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

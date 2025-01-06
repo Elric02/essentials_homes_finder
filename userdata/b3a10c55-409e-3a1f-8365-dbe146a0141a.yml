@@ -1,0 +1,47 @@
+timestamps:
+  login: 1495996095599
+  lastteleport: 1495998530540
+  logout: 1495998840718
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6489.592267324427
+  y: 64.0
+  z: 3515.854419504941
+  yaw: -251.1016845703125
+  pitch: 51.1499137878418
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6487.390799437366
+    y: 63.0
+    z: 3520.060200733897
+    yaw: -344.1016845703125
+    pitch: 17.249914169311523
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 6458.426158109178
+  y: 68.0
+  z: 3499.0094042884675
+  yaw: -69.7515869140625
+  pitch: 22.350021362304688
+  world-name: ''
+ip-address: 88.185.244.139
+last-account-name: Mahmoud91
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

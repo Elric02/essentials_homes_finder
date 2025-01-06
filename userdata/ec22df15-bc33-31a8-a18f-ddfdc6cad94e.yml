@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.52.253.136
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635337461795
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635337536168
+  login: 1635336281872
+money: '0'
+last-account-name: HiroNakamura43
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -5766.589627263537
+  y: 68.0
+  z: 5895.300000011921
+  yaw: -167.40077209472656
+  pitch: -6.450000762939453
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3196.509404088746
+    y: 61.666136467236406
+    z: -339.8294492309138
+    yaw: -129.59974670410156
+    pitch: 5.100004196166992
+  e:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5767.623907587333
+    y: 69.0
+    z: 5889.721544868141
+    yaw: 52.349708557128906
+    pitch: 11.549802780151367
+  nether:
+    world: 51b33b7f-f196-432e-83ea-89c5a7e038c4
+    world-name: Ressourcenether
+    x: 1272.573906499491
+    y: 87.0
+    z: 271.03190197187024
+    yaw: -145.47787475585938
+    pitch: 32.0998649597168
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 219.43665657895193
+  y: 63.0
+  z: -67.51876473978642
+  yaw: -174.33816528320312
+  pitch: 26.927379608154297

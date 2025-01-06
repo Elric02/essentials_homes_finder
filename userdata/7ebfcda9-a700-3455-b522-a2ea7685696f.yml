@@ -1,0 +1,66 @@
+timestamps:
+  login: 1516549008701
+  logout: 1516549643073
+  lastteleport: 1516549492760
+  kits:
+    vip: 1507399585344
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: Donjon
+  x: 3057.300000011921
+  y: 42.01770207488718
+  z: 3119.699999988079
+  yaw: 202.63916015625
+  pitch: 51.449947357177734
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 10685.706156857703
+  y: 64.0
+  z: -10924.300000011921
+  yaw: -340.315185546875
+  pitch: 24.777469635009766
+  world-name: ''
+money: '0'
+homes:
+  burn:
+    world: world
+    x: 4852.760250123594
+    y: 173.5
+    z: 6160.897740421141
+    yaw: -237.7515869140625
+    pitch: 69.15000915527344
+    world-name: ''
+  arbre:
+    world: world
+    x: -2625.918094540889
+    y: 72.0
+    z: 6778.869745384136
+    yaw: 132.29727172851562
+    pitch: -1.0499571561813354
+    world-name: ''
+  vip:
+    world: world
+    x: -6702.423571320537
+    y: 65.0
+    z: -4023.924844328582
+    yaw: -218.60302734375
+    pitch: 36.29999542236328
+    world-name: ''
+afk: false
+muted: false
+jailed: false
+nickname: §1Freux
+ip-address: 107.171.230.153
+last-account-name: Freux
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

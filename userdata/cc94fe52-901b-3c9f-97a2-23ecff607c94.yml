@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.232.125.89
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1681585740704
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681585823162
+  login: 1681585702503
+money: '0'
+last-account-name: XioSymA
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -38.65096888618934
+  y: 66.0
+  z: 69.5087310757307
+  yaw: -57.522396087646484
+  pitch: 12.8692045211792
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -122.80510823562967
+  y: 65.0
+  z: -227.62847164785572
+  yaw: 109.88819122314453
+  pitch: 23.212535858154297

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.250.157.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1707866205995
+  login: 1707866201148
+money: '0'
+last-account-name: tz9
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9879889897591
+  y: 81.0
+  z: -3111.1456433364824
+  yaw: -60.74807357788086
+  pitch: 22.19993782043457
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.95743506363334
+  y: 81.0
+  z: -3111.0868693280527
+  yaw: -63.74795150756836
+  pitch: -2.400031328201294

@@ -1,0 +1,107 @@
+timestamps:
+  login: 1716197120154
+  lastteleport: 1716134784394
+  logout: 1716197121741
+  jail: 0
+  kits:
+    color: 1613308045247
+    vip: 1567167453167
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 153.57621852775577
+  y: 63.0
+  z: -15.950783487517068
+  yaw: -176.83428955078125
+  pitch: 10.650161743164062
+  world-name: world
+homes:
+  sese:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -7116.5
+    y: 75.0
+    z: -4033.5
+    yaw: 357.3726501464844
+    pitch: 33.5999870300293
+    world-name: world
+  sese2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4180.5
+    y: 64.0
+    z: -3768.5
+    yaw: 181.98968505859375
+    pitch: 8.962747573852539
+    world-name: world
+  hobbit:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 7636.5
+    y: 75.0
+    z: -7691.5
+    yaw: -270.2287292480469
+    pitch: 2.100020408630371
+    world-name: world
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2002.3254517971436
+    y: 84.5
+    z: 2296.9123100686597
+    yaw: -273.1787109375
+    pitch: 26.699996948242188
+    world-name: world
+  sdc:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1355.7890409382587
+    y: 38.0
+    z: -3353.557917711811
+    yaw: -91.1281967163086
+    pitch: 26.80910873413086
+    world-name: world
+  dok:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3481.2125386305784
+    y: 193.0
+    z: 3480.741757828995
+    yaw: 219.44815063476562
+    pitch: 43.499855041503906
+    world-name: world
+  four:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -7106.310382574126
+    y: 14.0
+    z: -4026.116178984827
+    yaw: -181.72821044921875
+    pitch: 22.200098037719727
+    world-name: world
+  creep:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4636.995149047188
+    y: 63.0
+    z: -4871.506404157144
+    yaw: -75.96646118164062
+    pitch: 4.199330806732178
+    world-name: world
+money: '0.04'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -3610.216692362279
+  y: 193.89388913933473
+  z: 3365.300000011921
+  yaw: -56.31962585449219
+  pitch: -20.099918365478516
+  world-name: world
+socialspy: false
+afk: false
+nickname: §9Groot_Boudeuse_§8La§eFri§4te
+jailed: false
+ip-address: 91.90.44.21
+last-account-name: Groot_Boudeuse
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

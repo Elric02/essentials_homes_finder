@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618082680968
+  lastteleport: 1618082878514
+  logout: 1618082902413
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.54862091837816
+  y: 63.0
+  z: 60.8533752496073
+  yaw: -65.25010681152344
+  pitch: 5.100006580352783
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3496.43964595015
+  y: 204.5
+  z: 3614.300000011921
+  yaw: -99.66926574707031
+  pitch: 20.850046157836914
+  world-name: ''
+ip-address: 89.159.217.165
+last-account-name: Aliice99
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

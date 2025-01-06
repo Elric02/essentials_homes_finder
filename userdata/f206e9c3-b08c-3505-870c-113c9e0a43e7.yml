@@ -1,0 +1,38 @@
+timestamps:
+  login: 1530893624250
+  logout: 1530894232900
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 116.5197054653561
+  y: 63.0
+  z: -37.66264436306127
+  yaw: -70.699951171875
+  pitch: 15.990592956542969
+  world-name: ''
+ip-address: 80.9.7.158
+last-account-name: stormnuke
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

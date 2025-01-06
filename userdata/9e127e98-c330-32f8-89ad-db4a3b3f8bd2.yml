@@ -1,0 +1,87 @@
+timestamps:
+  login: 1710856893985
+  logout: 1710856897395
+  lastteleport: 1696789778648
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  x: 152.28530797627585
+  y: 26.0
+  z: 594.9473565733181
+  yaw: -10.149425506591797
+  pitch: 8.533124923706055
+  world-name: grosPlot
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  x: 151.86075147681632
+  y: 26.0
+  z: 594.2217985878422
+  yaw: -21.14618492126465
+  pitch: 12.688610076904297
+  world-name: grosPlot
+money: '250.0'
+homes:
+  zoo:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 38.844038476750484
+    y: 74.0
+    z: -7645.587750793825
+    yaw: 259.68670654296875
+    pitch: 33.959693908691406
+    world-name: world
+  tete:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -757.4616695635477
+    y: 70.0
+    z: -3674.217559102289
+    yaw: -172.87106323242188
+    pitch: 26.868162155151367
+  lola:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2382.783490185473
+    y: 79.0
+    z: 1860.1884198510838
+    yaw: 34.27085876464844
+    pitch: 46.949886322021484
+  mine:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -1406.8076967163868
+    y: -25.0
+    z: -2565.0232548642434
+    yaw: -91.92431640625
+    pitch: 15.626716613769531
+  entre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2018.7066168974727
+    y: 57.0
+    z: -3226.389196246661
+    yaw: -20.3582763671875
+    pitch: 19.649747848510742
+  plot:
+    world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+    world-name: grosPlot
+    x: 275.62837398309273
+    y: 33.0
+    z: 547.4461834449548
+    yaw: 4.65008020401001
+    pitch: -16.049985885620117
+afk: false
+jailed: false
+ip-address: 90.55.11.142
+last-account-name: G4lexiare
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

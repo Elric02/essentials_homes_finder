@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500836799485
+  logout: 1500836849442
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 142.13038771003096
+  y: 64.0
+  z: 20.257287123131924
+  yaw: -89.90443420410156
+  pitch: 8.360260009765625
+  world-name: ''
+ip-address: 89.2.117.38
+last-account-name: Sacifym
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

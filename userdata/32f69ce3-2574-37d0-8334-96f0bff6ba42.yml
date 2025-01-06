@@ -1,0 +1,38 @@
+timestamps:
+  login: 1591002537499
+  lastteleport: 1591002911665
+  logout: 1591002920964
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -154.50361123055671
+  y: 84.0
+  z: -4005.3519539150816
+  yaw: -214.49978637695312
+  pitch: 78.44988250732422
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.49681494296388
+  y: 64.0
+  z: 23.858218950419353
+  yaw: -173.8709716796875
+  pitch: -2.0713305473327637
+  world-name: ''
+ip-address: 81.242.223.146
+last-account-name: mass_k0
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

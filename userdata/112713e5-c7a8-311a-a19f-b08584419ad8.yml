@@ -1,0 +1,69 @@
+timestamps:
+  login: 1689001257173
+  lastteleport: 1679411890153
+  logout: 1689002149408
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: a6fa93b2-53d7-45d9-96e4-95d57c48e044
+  x: 14.442944030301875
+  y: 33.0
+  z: -38.69999998807907
+  yaw: -45.36871337890625
+  pitch: 25.687007904052734
+  world-name: RessourceNether
+money: '11202.1783333333334580'
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3697.42746667866
+    y: 69.0
+    z: 3974.200607042199
+    yaw: 191.9818115234375
+    pitch: 28.799917221069336
+    world-name: world
+  chalet:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5982.596515108732
+    y: 113.0
+    z: 291.0058841579028
+    yaw: 251.55450439453125
+    pitch: 35.83742141723633
+    world-name: world
+  s:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3854.9286669548505
+    y: 72.0
+    z: -4619.3958328328035
+    yaw: 278.3305358886719
+    pitch: -26.334646224975586
+    world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -3738.4773030558026
+  y: 69.0
+  z: -4522.060749417691
+  yaw: -145.35357666015625
+  pitch: 1.9870039224624634
+  world-name: world
+afk: false
+ip-address: 81.49.97.92
+last-account-name: geek59
+mail:
+- legacy: true
+  read: false
+  message: §e[§rCronox54§e] §rSalut geek, j'ai un doute, est ce que tu as reçu ta
+    récompense de l'event de la saint-valentin ? Renvoie moi un mail ou un mp quand
+    tu auras lu ca, merci ;)
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

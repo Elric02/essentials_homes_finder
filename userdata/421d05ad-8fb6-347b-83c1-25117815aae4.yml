@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558380195576
+  lastteleport: 1558380583346
+  logout: 1558381063589
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1549.829985104204
+  y: 80.76636799395752
+  z: -3485.8012231189914
+  yaw: 174.60032653808594
+  pitch: 36.89999771118164
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3806.6755445047124
+  y: 70.0
+  z: -4679.800923889983
+  yaw: -248.69972229003906
+  pitch: 19.050006866455078
+  world-name: ''
+ip-address: 77.207.153.140
+last-account-name: Anzo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

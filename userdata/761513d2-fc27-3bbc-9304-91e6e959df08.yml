@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490208732453
+  logout: 1490209122331
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 119.5968892621642
+  y: 63.0
+  z: -56.21242754534362
+  yaw: -59.259212493896484
+  pitch: 11.291824340820312
+  world-name: ''
+ip-address: 178.194.1.138
+last-account-name: MrAzakov_YT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

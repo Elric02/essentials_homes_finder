@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485966860369
+  lastteleport: 1485967268392
+  logout: 1485967631497
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4884.867802416656
+  y: 84.0
+  z: -450.86672667829845
+  yaw: 56.377288818359375
+  pitch: 21.149991989135742
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4864.447248810826
+  y: 70.0
+  z: -127.4185701424357
+  yaw: 332.3772277832031
+  pitch: -0.9000093340873718
+  world-name: ''
+ip-address: 88.169.158.116
+last-account-name: louann84
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

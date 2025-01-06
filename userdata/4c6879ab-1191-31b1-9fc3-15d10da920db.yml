@@ -1,0 +1,63 @@
+timestamps:
+  login: 1508949884389
+  logout: 1508949982340
+  lastteleport: 1487437226222
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 257.5932232769044
+  y: 81.5
+  z: -3105.9403351277883
+  yaw: -183.66769409179688
+  pitch: 6.327020645141602
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -571.1477523770013
+  y: 64.0
+  z: -783.0720955524722
+  yaw: 28.025726318359375
+  pitch: 24.403654098510742
+  world-name: ''
+money: '0'
+homes:
+  a:
+    world: world
+    x: 256.5
+    y: 82.0
+    z: -3111.5
+    yaw: -199.13922119140625
+    pitch: 39.228126525878906
+    world-name: ''
+  desert:
+    world: ressource
+    x: -396.8234222921854
+    y: 63.0
+    z: -5533.332821766395
+    yaw: 284.5574645996094
+    pitch: 16.427303314208984
+    world-name: ''
+  mine:
+    world: ressource
+    x: -496.0203517887629
+    y: 15.0
+    z: -5333.137648807871
+    yaw: -117.30718994140625
+    pitch: 64.99397277832031
+    world-name: ''
+afk: false
+ip-address: 86.238.14.254
+last-account-name: Alzyohan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

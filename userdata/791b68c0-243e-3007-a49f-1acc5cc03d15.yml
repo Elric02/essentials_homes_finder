@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558559384031
+  logout: 1558559420164
+  lastteleport: 1558554684235
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.2733897328238
+  y: 63.0
+  z: 58.5042114724738
+  yaw: 317.715087890625
+  pitch: -0.5519976615905762
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.13393120076327
+  y: 64.0
+  z: 21.79530661676035
+  yaw: -354.91632080078125
+  pitch: 1.7867995500564575
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 91.69.69.59
+last-account-name: Harrisson123
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

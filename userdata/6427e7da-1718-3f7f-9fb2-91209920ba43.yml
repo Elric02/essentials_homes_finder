@@ -1,0 +1,47 @@
+timestamps:
+  login: 1504244685126
+  logout: 1504245221078
+  lastteleport: 1504245192869
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6696.681917507248
+  y: 139.9432360274095
+  z: 3262.6138340229086
+  yaw: -131.55091857910156
+  pitch: 79.20000457763672
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6782.443680101188
+  y: 76.0
+  z: 3268.699999988079
+  yaw: 1.34917414188385
+  pitch: 35.54998779296875
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -6782.501077011294
+    y: 76.0
+    z: 3267.860635349843
+    yaw: -6.000823974609375
+    pitch: 90.0
+    world-name: ''
+ip-address: 88.166.101.12
+last-account-name: Mahe
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

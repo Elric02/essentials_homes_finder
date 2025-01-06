@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498154030485
+  logout: 1498154115141
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 114.4862093106486
+  y: 63.5
+  z: -69.6310215485841
+  yaw: -171.6472625732422
+  pitch: 6.697392463684082
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5603.357991314679
+  y: 70.5
+  z: 2138.1061996982244
+  yaw: -98.0286865234375
+  pitch: 12.894381523132324
+  world-name: ''
+ip-address: 90.108.124.176
+last-account-name: DonaldDuccK
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

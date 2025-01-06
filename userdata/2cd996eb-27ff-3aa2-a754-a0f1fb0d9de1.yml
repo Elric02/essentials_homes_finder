@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519343567160
+  lastteleport: 1519340817155
+  logout: 1519345346194
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 176.51423117936255
+  y: 65.29411158926754
+  z: 1.7040426772217923
+  yaw: -180.02093505859375
+  pitch: 36.928680419921875
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6380.583035282817
+  y: 79.0
+  z: -3914.442872647587
+  yaw: 220.96533203125
+  pitch: 90.0
+  world-name: ''
+ip-address: 77.207.169.48
+last-account-name: Dijikko
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

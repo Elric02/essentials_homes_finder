@@ -1,0 +1,38 @@
+timestamps:
+  login: 1493167476795
+  lastteleport: 1493167439027
+  logout: 1493167621168
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.82353557697775
+  y: 63.0
+  z: 48.70733015966868
+  yaw: 96.08906555175781
+  pitch: 2.2499945163726807
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 118.18637124877198
+  y: 63.0
+  z: 38.34986339760156
+  yaw: -168.81121826171875
+  pitch: 7.224422454833984
+  world-name: ''
+ip-address: 77.204.187.227
+last-account-name: Assassin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

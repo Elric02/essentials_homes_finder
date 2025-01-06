@@ -1,0 +1,55 @@
+timestamps:
+  login: 1537103524372
+  lastteleport: 1537111220797
+  logout: 1537114706165
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4629.810784457721
+  y: 69.0
+  z: 1567.2418370383741
+  yaw: 53.51091003417969
+  pitch: 20.021623611450195
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4640.321045569163
+  y: 40.0
+  z: 1540.699999988079
+  yaw: -1.9154052734375
+  pitch: 39.404605865478516
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4616.521733260939
+    y: 71.0
+    z: 1567.2546981857558
+    yaw: 161.115234375
+    pitch: 21.161762237548828
+    world-name: ''
+  spider:
+    world: world
+    x: -4638.171871803838
+    y: 34.0
+    z: 1536.300000011921
+    yaw: -352.50830078125
+    pitch: 5.911863803863525
+    world-name: ''
+afk: false
+ip-address: 84.6.189.190
+last-account-name: MC_Imer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

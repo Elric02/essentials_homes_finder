@@ -1,0 +1,47 @@
+timestamps:
+  login: 1538949472919
+  lastteleport: 1489958578206
+  logout: 1538949486412
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5124.61348449277
+  y: 63.0
+  z: -5415.139292055888
+  yaw: -220.0430908203125
+  pitch: 18.501895904541016
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4854.0
+    y: 76.0
+    z: -5792.0
+    yaw: -2.7526907920837402
+    pitch: 37.6201057434082
+    world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 158.66307035107008
+  y: 64.0
+  z: 14.564680560133048
+  yaw: 168.83432006835938
+  pitch: 7.771451950073242
+  world-name: ''
+ip-address: 91.163.192.59
+last-account-name: Galaxie09
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

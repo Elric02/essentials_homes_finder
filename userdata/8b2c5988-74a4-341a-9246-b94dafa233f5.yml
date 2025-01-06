@@ -1,0 +1,55 @@
+timestamps:
+  login: 1517160389054
+  lastteleport: 1517162408536
+  logout: 1517162425716
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -622.1644669642736
+  y: 65.0
+  z: -724.7766523634589
+  yaw: 196.1442108154297
+  pitch: 9.692440032958984
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 1276.6374120051962
+    y: 68.78608123157454
+    z: 4035.699999988079
+    yaw: -236.36846923828125
+    pitch: 8.903636932373047
+    world-name: ''
+  maire:
+    world: world
+    x: -647.6166625751507
+    y: 64.0
+    z: -712.5953895311007
+    yaw: -3.40252685546875
+    pitch: 12.531723022460938
+    world-name: ''
+ip-address: 90.120.190.249
+last-account-name: Lekious_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

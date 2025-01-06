@@ -1,0 +1,38 @@
+timestamps:
+  login: 1463079420920
+  lastteleport: 1463080188592
+  logout: 1463080220040
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -177.53643406431834
+  y: 64.0
+  z: -217.68083611480182
+  yaw: 6.1561665534973145
+  pitch: 5.100030899047852
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 141.70308618916937
+  y: 64.0
+  z: 19.048896753397095
+  yaw: -92.09728240966797
+  pitch: 4.874192714691162
+  world-name: ''
+ip-address: 82.236.60.163
+last-account-name: alan76600
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1491337891369
+  lastteleport: 1491338261887
+  logout: 1491338447000
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6813.486234654489
+  y: 68.0
+  z: 5163.12911346404
+  yaw: 14.70001220703125
+  pitch: 11.700003623962402
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 161.0683026448751
+  y: 64.0
+  z: 21.453417172453456
+  yaw: -273.0609436035156
+  pitch: 26.724515914916992
+  world-name: ''
+ip-address: 109.14.67.150
+last-account-name: cabiner123
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

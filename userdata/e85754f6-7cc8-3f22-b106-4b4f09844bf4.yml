@@ -1,0 +1,63 @@
+timestamps:
+  login: 1477494026498
+  logout: 1477494095244
+  lastteleport: 1477489956856
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7611.015317175831
+  y: 73.0
+  z: 3101.5846515477483
+  yaw: 183.58755493164062
+  pitch: 0.6519556045532227
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 7626.817481117986
+  y: 72.0
+  z: 3098.6732405000207
+  yaw: -308.685791015625
+  pitch: 9.30030345916748
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 7619.080256342548
+    y: 71.0
+    z: 3118.04506117246
+    yaw: -91.72396850585938
+    pitch: 90.0
+    world-name: ''
+  mobile:
+    world: world_nether
+    x: 1525.300000011921
+    y: 14.0
+    z: -3149.7409168667386
+    yaw: 109.0098876953125
+    pitch: 17.421497344970703
+    world-name: ''
+  spawner:
+    world: world
+    x: 7954.229232055464
+    y: 44.0
+    z: 2910.0887041918622
+    yaw: -270.0730895996094
+    pitch: 82.81304168701172
+    world-name: ''
+money: '0'
+muted: false
+afk: false
+jailed: false
+ip-address: 89.94.244.23
+last-account-name: GEEK1590
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

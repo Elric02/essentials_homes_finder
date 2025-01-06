@@ -1,0 +1,47 @@
+timestamps:
+  login: 1512626005940
+  lastteleport: 1512626437791
+  logout: 1512626461276
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3480.069904217489
+  y: 63.0
+  z: -5127.860636519585
+  yaw: 207.14990234375
+  pitch: 23.399995803833008
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 3359.558941575785
+    y: 65.0
+    z: -5203.22842252323
+    yaw: 33.749969482421875
+    pitch: 16.64998435974121
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 138.23989889119682
+  y: 63.0
+  z: -20.795227368831405
+  yaw: -232.82089233398438
+  pitch: 31.52865982055664
+  world-name: ''
+afk: false
+ip-address: 96.21.23.75
+last-account-name: FoxyKitsune
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

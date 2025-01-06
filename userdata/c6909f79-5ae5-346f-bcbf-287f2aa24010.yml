@@ -1,0 +1,59 @@
+timestamps:
+  login: 1597602659498
+  lastteleport: 1597606051003
+  logout: 1597606904789
+  kits:
+    color: 1597604678048
+    vip: 1597604655348
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 195.53639522792236
+  y: 11.0
+  z: -2819.5054412163568
+  yaw: -171.28993225097656
+  pitch: 12.749926567077637
+  world-name: ''
+money: '0'
+homes:
+  mine:
+    world: Ressource
+    x: 202.60286787089953
+    y: 11.0
+    z: -2766.270030601693
+    yaw: -188.08984375
+    pitch: 16.04991340637207
+    world-name: ''
+  base:
+    world: world
+    x: 4857.27497451358
+    y: 63.0
+    z: -6662.539836151946
+    yaw: 196.64942932128906
+    pitch: 23.39996910095215
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 4855.610863586538
+  y: 63.0
+  z: -6660.823824487922
+  yaw: 209.10009765625
+  pitch: 10.050131797790527
+  world-name: ''
+afk: false
+nickname: Eskimo
+ip-address: 176.180.58.178
+last-account-name: Eskimo_TheUgly
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1615638708252
+  lastteleport: 1615639063537
+  logout: 1615639560198
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5219706617853
+  y: 64.0
+  z: 24.59015183032405
+  yaw: -181.14532470703125
+  pitch: 9.575874328613281
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3412.8064961863874
+  y: 62.95
+  z: -4591.866525885649
+  yaw: -29.69183349609375
+  pitch: 23.849985122680664
+  world-name: ''
+afk: false
+homes:
+  ahaha:
+    world: world
+    x: -3441.314872683552
+    y: 111.0
+    z: -4580.584672406183
+    yaw: 124.20095825195312
+    pitch: 45.000064849853516
+    world-name: ''
+  portal:
+    world: world
+    x: -3446.3674579675476
+    y: 110.0
+    z: -4579.143639135055
+    yaw: -110.69904327392578
+    pitch: 59.40007019042969
+    world-name: ''
+  pig:
+    world: Nether
+    x: 130.17160898195561
+    y: 84.0
+    z: 81.32809521020945
+    yaw: -147.23789978027344
+    pitch: 56.54998016357422
+    world-name: ''
+ip-address: 176.164.88.121
+last-account-name: Yaya331901
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

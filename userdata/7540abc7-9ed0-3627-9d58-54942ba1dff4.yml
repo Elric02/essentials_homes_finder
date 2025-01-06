@@ -1,0 +1,38 @@
+timestamps:
+  login: 1501887756474
+  lastteleport: 1501887645061
+  logout: 1501887756663
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.47854079948448
+  y: 63.0
+  z: 45.468121095223665
+  yaw: -331.0153503417969
+  pitch: -6.858139514923096
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 1.3686651823172888
+  y: 89.5
+  z: -3.594243062424058
+  yaw: -327.0374755859375
+  pitch: 5.348293781280518
+  world-name: ''
+ip-address: 86.211.210.8
+last-account-name: ElephantMan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

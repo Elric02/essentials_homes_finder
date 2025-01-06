@@ -1,0 +1,68 @@
+timestamps:
+  login: 1590088101331
+  lastteleport: 1590090028467
+  logout: 1590090368283
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2398.399784952766
+    y: 69.0
+    z: -1123.3268592628658
+    yaw: -181.23101806640625
+    pitch: 20.01327133178711
+    world-name: ''
+  fer:
+    world: world
+    x: 2395.9959926894153
+    y: 149.0
+    z: -1133.0797572712208
+    yaw: -177.55735778808594
+    pitch: 36.49736404418945
+    world-name: ''
+  village:
+    world: world
+    x: 2396.261156935919
+    y: 130.0
+    z: -1156.4085130365975
+    yaw: 318.78173828125
+    pitch: -21.686260223388672
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2434.699999988079
+  y: 67.0
+  z: -1163.300000011921
+  yaw: 18.97705078125
+  pitch: 3.3958780765533447
+  world-name: ''
+afk: false
+ip-address: 46.193.0.150
+last-account-name: herobleu
+mail:
+- legacy: true
+  read: false
+  message: §e[§relriclespiques§e] §rSalut, j'ai éteint ta ferme à mobs, les clocks
+    ne sont pas autorisées pour des problèmes de lags
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

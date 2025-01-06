@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468575026011
+  lastteleport: 1468574737504
+  logout: 1468575082437
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 554.483394904511
+  y: 71.0
+  z: -65.82762198657886
+  yaw: 168.2236328125
+  pitch: 14.850008010864258
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 275.1503273546242
+  y: 69.0
+  z: 132.12609270524294
+  yaw: 76.12344360351562
+  pitch: 27.85154151916504
+  world-name: ''
+ip-address: 82.248.67.77
+last-account-name: MrSlime602
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

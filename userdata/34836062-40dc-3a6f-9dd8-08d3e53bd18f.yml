@@ -1,0 +1,38 @@
+timestamps:
+  login: 1584464514070
+  lastteleport: 1584464527405
+  logout: 1584464532020
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.02237467597305
+  y: 65.0
+  z: 98.32964378967573
+  yaw: 131.59524536132812
+  pitch: -2.1574366092681885
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -139.8850860595703
+  pitch: -11.743278503417969
+  world-name: ''
+ip-address: 176.157.77.79
+last-account-name: SokiShow
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

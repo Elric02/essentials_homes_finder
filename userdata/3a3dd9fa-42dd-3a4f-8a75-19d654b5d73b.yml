@@ -1,0 +1,47 @@
+timestamps:
+  login: 1475353287653
+  lastteleport: 1475074554407
+  logout: 1475353314015
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: 162.51656905140197
+  y: 68.0
+  z: 477.3720808437233
+  yaw: 75.97148895263672
+  pitch: 27.47760772705078
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 196.12506200056583
+    y: 64.0
+    z: 18.701400634493286
+    yaw: -94.86092376708984
+    pitch: 20.57451820373535
+    world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 653.728234224805
+  y: 62.073264324665075
+  z: 1330.0297133392173
+  yaw: 251.9725799560547
+  pitch: 90.0
+  world-name: ''
+ip-address: 77.130.115.3
+last-account-name: Clomo77
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

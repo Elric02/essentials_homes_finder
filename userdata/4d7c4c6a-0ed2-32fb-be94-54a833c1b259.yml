@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484149869272
+  logout: 1484150145407
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world_the_end
+  x: 28.68249352356657
+  y: 67.0
+  z: 6.835299042829523
+  yaw: -182.560546875
+  pitch: 8.282559394836426
+  world-name: ''
+ip-address: 80.12.63.55
+last-account-name: AzIthax
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

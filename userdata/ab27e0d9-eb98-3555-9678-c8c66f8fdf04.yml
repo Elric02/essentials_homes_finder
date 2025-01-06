@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485691005538
+  logout: 1485691055105
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3824.253382409458
+  y: 74.0
+  z: -5098.533304641039
+  yaw: -12.028817176818848
+  pitch: 15.153656959533691
+  world-name: ''
+ip-address: 78.199.19.104
+last-account-name: akihima
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

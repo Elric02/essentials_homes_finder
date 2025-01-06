@@ -1,0 +1,38 @@
+timestamps:
+  login: 1520942285449
+  lastteleport: 1520943447332
+  logout: 1520946335016
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 150.61564577138876
+  y: 63.0
+  z: -17.05991494247216
+  yaw: 121.62890625
+  pitch: 32.72866439819336
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4052.7748541236574
+  y: 71.0
+  z: -3622.010369994522
+  yaw: 166.34893798828125
+  pitch: 4.349981784820557
+  world-name: ''
+money: '0'
+ip-address: 46.193.64.129
+last-account-name: Burgamer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

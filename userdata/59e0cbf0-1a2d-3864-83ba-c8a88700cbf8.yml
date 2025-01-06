@@ -1,0 +1,47 @@
+timestamps:
+  login: 1479378404633
+  lastteleport: 1479378407582
+  logout: 1479378476323
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.86541467292722
+  y: 63.0
+  z: 7.521608035266896
+  yaw: -230.01275634765625
+  pitch: 33.92377471923828
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 153.328785446413
+    y: 63.0
+    z: 48.44885574734833
+    yaw: -267.9440612792969
+    pitch: 5.349570274353027
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 195.10799576694066
+  y: 63.0
+  z: -44.35041781863105
+  yaw: -1.53955078125
+  pitch: 31.471405029296875
+  world-name: ''
+ip-address: 213.219.146.158
+last-account-name: _Red_Killer_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

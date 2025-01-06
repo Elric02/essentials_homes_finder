@@ -1,0 +1,63 @@
+timestamps:
+  login: 1533239939693
+  logout: 1533240307060
+  lastteleport: 1533239372517
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3558.11015464466
+  y: 65.0
+  z: -3621.595494914422
+  yaw: -257.909423828125
+  pitch: 27.62262535095215
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1697.0532287761894
+  y: 72.0
+  z: -4525.130834072866
+  yaw: -282.7499084472656
+  pitch: 30.44999885559082
+  world-name: ''
+money: '0'
+homes:
+  pillage:
+    world: world
+    x: 3550.4544522081246
+    y: 63.0
+    z: -3634.5434830021636
+    yaw: -161.75840759277344
+    pitch: 10.672626495361328
+    world-name: ''
+  base:
+    world: world
+    x: 3356.4911335892975
+    y: 41.0
+    z: 3597.0735464978798
+    yaw: 185.82745361328125
+    pitch: -18.27259063720703
+    world-name: ''
+  creeper:
+    world: world
+    x: 3356.6137288770487
+    y: 41.0
+    z: 3597.699999988079
+    yaw: 177.43150329589844
+    pitch: 14.732271194458008
+    world-name: ''
+afk: false
+ip-address: 91.176.91.197
+last-account-name: MyZuReW
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

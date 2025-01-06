@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470506967287
+  logout: 1470507242220
+  lastteleport: 1470507015005
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -715.0294727538535
+  y: 68.0
+  z: -3065.6355425270926
+  yaw: 220.64984130859375
+  pitch: 12.900023460388184
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 132.45829702720383
+  y: 63.0
+  z: -21.642870039002947
+  yaw: -186.36085510253906
+  pitch: 26.724567413330078
+  world-name: ''
+ip-address: 109.89.56.131
+last-account-name: Sarahmrc7
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

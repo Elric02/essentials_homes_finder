@@ -1,0 +1,47 @@
+timestamps:
+  login: 1487418931360
+  lastteleport: 1487421413742
+  logout: 1487421540298
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4253.518669328678
+  y: 63.0
+  z: -3707.3369265959072
+  yaw: -29.7701416015625
+  pitch: 13.159449577331543
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.31623116234505
+  y: 64.0
+  z: 23.866522112412838
+  yaw: -139.48977661132812
+  pitch: 5.556853771209717
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  reserve:
+    world: world
+    x: -4249.916004213381
+    y: 63.0
+    z: -3706.5612899175294
+    yaw: 90.56597900390625
+    pitch: 15.148581504821777
+    world-name: ''
+ip-address: 85.68.220.21
+last-account-name: Lophtil
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

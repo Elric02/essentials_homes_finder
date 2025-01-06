@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.174.226.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1685288528139
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1685288817484
+  login: 1685286523090
+money: '100.0'
+last-account-name: _DariusLeKing_
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.25187902853227
+  y: 63.0
+  z: -0.4309998971096768
+  yaw: 179.4015350341797
+  pitch: -7.200034141540527
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 3661.300000011921
+  y: 70.0
+  z: 7936.131087118578
+  yaw: 148.0519256591797
+  pitch: 20.099998474121094

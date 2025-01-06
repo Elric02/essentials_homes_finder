@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617040897623
+  logout: 1617041250636
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3068.2968571679776
+  y: 70.0
+  z: 806.2988985596852
+  yaw: -78.63827514648438
+  pitch: 34.79966354370117
+  world-name: ''
+ip-address: 86.234.162.149
+last-account-name: GooseGoHome
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

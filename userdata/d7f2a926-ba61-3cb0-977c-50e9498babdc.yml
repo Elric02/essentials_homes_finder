@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498081630066
+  logout: 1498081637630
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 141.29684733306271
+  y: 63.5
+  z: 17.405245452664005
+  yaw: 90.90248107910156
+  pitch: 10.309281349182129
+  world-name: ''
+ip-address: 24.212.32.20
+last-account-name: NukeXToF
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

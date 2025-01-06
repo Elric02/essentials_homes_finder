@@ -1,0 +1,47 @@
+timestamps:
+  login: 1555854153159
+  lastteleport: 1555855860349
+  logout: 1555856369577
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1187.5
+  y: 62.0
+  z: 1020.5
+  yaw: 94.65010833740234
+  pitch: 25.79987335205078
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1187.5903283709051
+    y: 62.0
+    z: 1020.8817397884127
+    yaw: 56.85011291503906
+    pitch: 28.649873733520508
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 144.72390642681108
+  y: 63.0
+  z: 31.326064089418264
+  yaw: 4.029154300689697
+  pitch: 40.828670501708984
+  world-name: ''
+ip-address: 78.225.49.72
+last-account-name: mounkhf
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

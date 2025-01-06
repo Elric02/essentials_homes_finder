@@ -1,0 +1,63 @@
+timestamps:
+  login: 1551038978925
+  logout: 1551039502757
+  lastteleport: 1550781037307
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 163.28447179082764
+  y: 12.0
+  z: -285.6240791233314
+  yaw: 314.552490234375
+  pitch: 22.50002670288086
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -713.7523388185184
+  y: 69.0
+  z: -1988.112302876281
+  yaw: 91.8414306640625
+  pitch: -11.099956512451172
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -730.0926818031796
+    y: 69.0
+    z: -1995.3625233595367
+    yaw: 86.74149322509766
+    pitch: 18.528240203857422
+    world-name: ''
+  xp:
+    world: Nether
+    x: -395.62394790196475
+    y: 37.0
+    z: 0.4340826498787727
+    yaw: -262.84552001953125
+    pitch: 2.7169342041015625
+    world-name: ''
+  end:
+    world: End
+    x: -843.2411336140146
+    y: 59.0
+    z: -2177.165460674979
+    yaw: 332.94927978515625
+    pitch: 26.49497413635254
+    world-name: ''
+afk: false
+ip-address: 109.214.228.165
+last-account-name: Zelmer_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

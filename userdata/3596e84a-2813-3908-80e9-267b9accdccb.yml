@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471603427736
+  logout: 1471604410751
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.10176966366413
+  y: 27.0
+  z: 20.714147937018517
+  yaw: -112.1810073852539
+  pitch: 18.30000877380371
+  world-name: ''
+logoutlocation:
+  world: world_nether
+  x: 74.39908668522966
+  y: 77.0
+  z: -34.47451269247958
+  yaw: 77.22647094726562
+  pitch: -3.5999903678894043
+  world-name: ''
+ip-address: 176.179.82.184
+last-account-name: Yann
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

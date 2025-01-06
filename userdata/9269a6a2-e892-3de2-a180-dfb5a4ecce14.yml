@@ -1,0 +1,38 @@
+timestamps:
+  login: 1593808306297
+  logout: 1593808348324
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.32024076459007
+  y: 60.32499994116702
+  z: 83.43719356998166
+  yaw: 165.24765014648438
+  pitch: 8.490657806396484
+  world-name: ''
+ip-address: 176.155.80.166
+last-account-name: cams
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

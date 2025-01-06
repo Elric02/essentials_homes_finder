@@ -1,0 +1,38 @@
+timestamps:
+  login: 1506720855458
+  logout: 1506721257457
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.3087784966369
+  y: 64.0
+  z: 20.348575557287084
+  yaw: 126.76121520996094
+  pitch: 20.85684585571289
+  world-name: ''
+ip-address: 176.174.232.191
+last-account-name: TheFantasio974
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

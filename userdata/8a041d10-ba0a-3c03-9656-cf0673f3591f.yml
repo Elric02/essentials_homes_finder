@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592145346642
+  logout: 1592145387494
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 124.51699520677747
+  y: 64.7531999805212
+  z: 28.12088305291525
+  yaw: -336.8742370605469
+  pitch: 9.238040924072266
+  world-name: ''
+ip-address: 84.97.56.206
+last-account-name: Erwanndu51
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

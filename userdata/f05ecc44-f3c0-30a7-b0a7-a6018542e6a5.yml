@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478646111357
+  logout: 1478646368148
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world_the_end
+  x: 52.62034364470695
+  y: -218.01657292333346
+  z: -36.38347551761559
+  yaw: 51.22393798828125
+  pitch: -81.44999694824219
+  world-name: ''
+ip-address: 86.192.236.100
+last-account-name: allan80140
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

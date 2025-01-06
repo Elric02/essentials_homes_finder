@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484849565034
+  lastteleport: 1484853253014
+  mute: 0
+  logout: 1484853489954
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6676.0
+  y: 71.0
+  z: -6791.0
+  yaw: -14.400008201599121
+  pitch: -1.6500017642974854
+  world-name: ''
+money: '0'
+muted: false
+afk: false
+logoutlocation:
+  world: world
+  x: 160.89020150295067
+  y: 64.0
+  z: 25.76970483484622
+  yaw: 16.002655029296875
+  pitch: 13.799986839294434
+  world-name: ''
+ip-address: 83.228.133.19
+last-account-name: davig
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

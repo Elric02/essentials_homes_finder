@@ -1,0 +1,55 @@
+timestamps:
+  login: 1479262210975
+  lastteleport: 1479263260955
+  logout: 1479263283729
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+homes:
+  home:
+    world: ressource
+    x: -5585.699999988079
+    y: 11.0
+    z: -9455.300000011921
+    yaw: 215.65609741210938
+    pitch: 20.408782958984375
+    world-name: ''
+  loll:
+    world: ressource
+    x: -5585.699999988079
+    y: 11.0
+    z: -9455.300000011921
+    yaw: 215.65609741210938
+    pitch: 20.408782958984375
+    world-name: ''
+logoutlocation:
+  world: ressource
+  x: -5587.595374463805
+  y: 11.0
+  z: -9419.463027373491
+  yaw: 358.456298828125
+  pitch: 19.208789825439453
+  world-name: ''
+ip-address: 89.158.100.247
+last-account-name: DYLAN150905
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

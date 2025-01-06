@@ -1,0 +1,63 @@
+timestamps:
+  login: 1529769395604
+  logout: 1529769529332
+  lastteleport: 1529769512369
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 14.475886811232671
+  y: 65.0
+  z: 16.800457732176344
+  yaw: 12.778834342956543
+  pitch: 19.080413818359375
+  world-name: ''
+logoutlocation:
+  world: Event
+  x: 37.98347460515305
+  y: 155.0
+  z: -2037.9876823693307
+  yaw: -246.17112731933594
+  pitch: 10.701383590698242
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 5269.699999988079
+    y: 50.0
+    z: -1691.2353760251572
+    yaw: 77.89225006103516
+    pitch: 26.699329376220703
+    world-name: ''
+  maison:
+    world: world
+    x: 1444.8421254174134
+    y: 63.0
+    z: -2270.888611993841
+    yaw: -266.3875732421875
+    pitch: 12.371116638183594
+    world-name: ''
+  shop:
+    world: world
+    x: 1479.080942792325
+    y: 66.0
+    z: -2079.039927311224
+    yaw: -157.2685546875
+    pitch: 21.597997665405273
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 90.32.80.156
+last-account-name: fireblock29
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

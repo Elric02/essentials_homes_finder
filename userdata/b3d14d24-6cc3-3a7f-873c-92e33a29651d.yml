@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477842845419
+  logout: 1477842916428
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.13894807721834
+  y: 63.0
+  z: 47.11050653595879
+  yaw: -87.6473159790039
+  pitch: -0.052618660032749176
+  world-name: ''
+ip-address: 2.15.154.219
+last-account-name: erwan06
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

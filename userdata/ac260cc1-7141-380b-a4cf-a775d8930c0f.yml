@@ -1,0 +1,63 @@
+timestamps:
+  login: 1588176214747
+  lastteleport: 1587584889023
+  logout: 1588176844539
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5471.706695009476
+  y: 64.0
+  z: 812.2148631601287
+  yaw: -17.158935546875
+  pitch: 2.100095272064209
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2325.237500011921
+  y: 68.0
+  z: 1902.8805310538191
+  yaw: -92.48863983154297
+  pitch: 53.70005798339844
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2328.8918506926584
+    y: 68.0
+    z: 1902.6805849654163
+    yaw: -32.48187255859375
+    pitch: 15.560100555419922
+    world-name: ''
+  nini1558:
+    world: world
+    x: 2556.109864982339
+    y: 64.0
+    z: 2104.699999988079
+    yaw: -180.931396484375
+    pitch: 14.099990844726562
+    world-name: ''
+  ferme:
+    world: world
+    x: -1578.5487436838212
+    y: 73.0
+    z: -1606.763610029714
+    yaw: 87.95587158203125
+    pitch: 2.6999714374542236
+    world-name: ''
+afk: false
+ip-address: 109.16.209.2
+last-account-name: lilol22
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

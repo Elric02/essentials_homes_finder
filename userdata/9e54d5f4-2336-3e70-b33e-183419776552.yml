@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516562876404
+  lastteleport: 1516554232552
+  logout: 1516563154373
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 154.69999998807907
+  y: 32.0
+  z: -92.30000001192093
+  yaw: 320.8849182128906
+  pitch: 4.1999897956848145
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.6799357727491
+  y: 64.0
+  z: 11.950270915740358
+  yaw: -266.5707702636719
+  pitch: 12.778668403625488
+  world-name: ''
+money: '0'
+ip-address: 90.55.229.232
+last-account-name: roi_juju
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

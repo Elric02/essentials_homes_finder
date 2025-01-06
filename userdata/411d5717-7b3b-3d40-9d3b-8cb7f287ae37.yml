@@ -1,0 +1,54 @@
+timestamps:
+  login: 1515874449378
+  lastteleport: 1515874485478
+  logout: 1515874501290
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1246.699999988079
+  y: 69.0
+  z: -1874.300000011921
+  yaw: 139.7274932861328
+  pitch: 12.599984169006348
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 773.5844257836668
+    y: 76.0
+    z: 6558.134242457913
+    yaw: -272.3890686035156
+    pitch: 18.255386352539062
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -235.6708526611328
+  pitch: 8.128669738769531
+  world-name: ''
+money: '0'
+ip-address: 95.157.228.9
+last-account-name: lockiye
+mail:
+- legacy: true
+  read: false
+  message: §e[§rkillian971317§e] §rta maison que tu as fait avec arthur est à 37 blocs
+    de ma ville, tu a fait une mine en plus ce qui est formellement interdit donc
+    je te laisse 1 semaine à partir du 13/01 pour partir et pour la mine on verra
+    avec les admin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

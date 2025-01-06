@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.166.164.197
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1680713656644
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680713761279
+  login: 1680713237718
+money: '50.0'
+last-account-name: JAIMELESPATES
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -97.26544266265216
+  y: 99.0
+  z: 144.10999841183988
+  yaw: 174.4510498046875
+  pitch: 10.199886322021484
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -156.00094854571526
+  y: 114.10158223915865
+  z: 276.1190374341009
+  yaw: -110.85006713867188
+  pitch: 37.05004119873047

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1534012202333
+  lastteleport: 1534012438774
+  logout: 1534012828923
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3741.8012792211243
+  y: 63.0
+  z: -3675.6827699217415
+  yaw: 347.40716552734375
+  pitch: 16.784521102905273
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3310.699999988079
+  y: 58.0
+  z: -4059.699999988079
+  yaw: -74.47412872314453
+  pitch: 45.525245666503906
+  world-name: ''
+ip-address: 109.27.230.69
+last-account-name: Hope
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

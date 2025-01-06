@@ -1,0 +1,38 @@
+timestamps:
+  login: 1623254096204
+  lastteleport: 1623255337884
+  logout: 1623255651694
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 4321.576648186143
+  y: 11.0
+  z: -2404.7678546734314
+  yaw: 166.5006103515625
+  pitch: 38.85038757324219
+  world-name: ''
+ip-address: 93.8.190.23
+last-account-name: jamy_dft
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

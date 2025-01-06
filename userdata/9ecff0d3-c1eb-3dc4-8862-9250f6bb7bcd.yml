@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514737762487
+  lastteleport: 1514737858552
+  logout: 1514737984534
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.4417677422049
+  y: 63.5
+  z: 66.38594436970342
+  yaw: 176.55484008789062
+  pitch: 1.1632983684539795
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -156.93531378021453
+  y: 47.0
+  z: 462.3602802855044
+  yaw: -184.88829040527344
+  pitch: 6.356992721557617
+  world-name: ''
+ip-address: 176.185.27.217
+last-account-name: Zacchary_Dollars
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

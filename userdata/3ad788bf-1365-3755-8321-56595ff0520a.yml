@@ -1,0 +1,38 @@
+timestamps:
+  login: 1556295343379
+  logout: 1556297058037
+  lastteleport: 1556297014572
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.35417376944778
+  y: 65.16610926093821
+  z: 23.812399518328604
+  yaw: -184.5208740234375
+  pitch: -49.6213264465332
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 51.86239487607506
+  y: 19.0
+  z: 283.21888925375094
+  yaw: -221.998046875
+  pitch: -29.70008087158203
+  world-name: ''
+money: '0'
+ip-address: 77.144.59.230
+last-account-name: bilibob
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

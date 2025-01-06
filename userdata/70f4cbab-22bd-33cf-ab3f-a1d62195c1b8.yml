@@ -1,0 +1,63 @@
+timestamps:
+  login: 1491334685021
+  lastteleport: 1490794770311
+  logout: 1491334945408
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6.374331255519202
+  y: 64.0
+  z: -6313.334187314189
+  yaw: 87.42681121826172
+  pitch: -1.9501550197601318
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 2.73558431756346
+    y: 64.0
+    z: -6314.706050534267
+    yaw: 90.88836669921875
+    pitch: 17.892274856567383
+    world-name: ''
+  mine:
+    world: ressource
+    x: -298.9807441289269
+    y: 17.0
+    z: 3368.740448531588
+    yaw: 43.92431640625
+    pitch: 33.449947357177734
+    world-name: ''
+  toit:
+    world: world
+    x: 2.0852196330630655
+    y: 75.0
+    z: -6314.114140843049
+    yaw: 84.28799438476562
+    pitch: -3.750009059906006
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 156.62463476638862
+  y: 64.0
+  z: 21.379680865634906
+  yaw: -174.96083068847656
+  pitch: 9.024516105651855
+  world-name: ''
+ip-address: 193.253.223.225
+last-account-name: canailledu33
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

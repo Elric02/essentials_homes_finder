@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511089022771
+  lastteleport: 1511089349079
+  logout: 1511091368840
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4336.483509318847
+  y: 68.0
+  z: 3649.971040442241
+  yaw: 237.9578857421875
+  pitch: 29.509748458862305
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4156.493752730808
+  y: 57.0
+  z: 3770.300000011921
+  yaw: -44.54701614379883
+  pitch: 21.70453643798828
+  world-name: ''
+afk: false
+ip-address: 81.49.91.255
+last-account-name: Sam_Robaz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

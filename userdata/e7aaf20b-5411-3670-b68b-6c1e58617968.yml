@@ -1,0 +1,63 @@
+timestamps:
+  login: 1465653258671
+  lastteleport: 1465126636099
+  logout: 1465654172373
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: -2813.0060498023904
+  y: 63.0
+  z: 1979.538787389117
+  yaw: 342.8948974609375
+  pitch: -40.79994201660156
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.45594559567587
+  y: 64.0625
+  z: 19.433668642457526
+  yaw: -177.5972442626953
+  pitch: 32.02418518066406
+  world-name: ''
+homes:
+  home:
+    world: world_the_end
+    x: -2677.5380406231825
+    y: 57.0
+    z: 2126.722718042576
+    yaw: 85.79670715332031
+    pitch: 36.450096130371094
+    world-name: ''
+  messa:
+    world: ressource
+    x: 1634.216507431919
+    y: 70.0
+    z: -9333.476638396285
+    yaw: 19.348934173583984
+    pitch: 4.799963474273682
+    world-name: ''
+  ami:
+    world: world
+    x: -85.74996014535948
+    y: 68.0625
+    z: -230.37070769711374
+    yaw: 274.6552429199219
+    pitch: 50.40000534057617
+    world-name: ''
+afk: false
+ip-address: 78.251.83.33
+last-account-name: ouranos16
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

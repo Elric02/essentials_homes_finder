@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478462464111
+  lastteleport: 1478449673570
+  logout: 1478462471152
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.55475717628278
+  y: 63.0
+  z: 48.56489620950803
+  yaw: -15.347320556640625
+  pitch: -0.802599310874939
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.76941927800334
+  y: 63.0
+  z: 49.79628817512337
+  yaw: -210.4970245361328
+  pitch: 3.924516439437866
+  world-name: ''
+ip-address: 77.203.253.139
+last-account-name: anthony69150
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518356674692
+  lastteleport: 1518357702023
+  logout: 1518358700860
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.422919554112
+  y: 64.0
+  z: 14.880631306733882
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -192.6264269758768
+  y: 63.0
+  z: -3819.104363318602
+  yaw: 112.64453125
+  pitch: 19.649980545043945
+  world-name: ''
+money: '0'
+ip-address: 78.205.12.8
+last-account-name: ErIsIX_YT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

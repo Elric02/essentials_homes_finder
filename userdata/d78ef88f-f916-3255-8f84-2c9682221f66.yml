@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526128415925
+  lastteleport: 1526128599529
+  logout: 1526128614553
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.94226396976399
+  y: 66.0
+  z: -4.874280531884077
+  yaw: 175.47857666015625
+  pitch: -27.721267700195312
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world_the_end
+  x: 39.79124854918469
+  y: -65.69405951528498
+  z: -45.844092144077756
+  yaw: -121.161865234375
+  pitch: 90.0
+  world-name: ''
+ip-address: 82.227.192.15
+last-account-name: Aho
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

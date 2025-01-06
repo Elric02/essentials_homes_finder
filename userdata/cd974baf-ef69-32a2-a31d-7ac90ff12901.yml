@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609330193553
+  logout: 1609330418652
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1446.3781591544384
+  y: 62.64201050977014
+  z: -6843.233161046302
+  yaw: 147.4497528076172
+  pitch: 28.649961471557617
+  world-name: ''
+ip-address: 91.170.16.161
+last-account-name: lurexus4320
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

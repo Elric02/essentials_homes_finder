@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468792736721
+  logout: 1468792790669
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 150.65573478360167
+  y: 63.0
+  z: -14.107896790740591
+  yaw: -88.04779052734375
+  pitch: 13.574188232421875
+  world-name: ''
+ip-address: 176.148.124.60
+last-account-name: TRAMAWA
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

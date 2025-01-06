@@ -1,0 +1,63 @@
+timestamps:
+  login: 1632331130055
+  lastteleport: 1632331427800
+  logout: 1632331570910
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -462.5748936636329
+  y: 65.0
+  z: -3064.5828383495823
+  yaw: -177.628173828125
+  pitch: 24.60007095336914
+  world-name: world
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 112.55116037063175
+  y: 63.0
+  z: 19.341004248725874
+  yaw: -39.096923828125
+  pitch: 0.4257121980190277
+  world-name: world
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -456.77420001597307
+    y: 63.0
+    z: -3065.699999988079
+    yaw: -119.39947509765625
+    pitch: 10.799960136413574
+    world-name: world
+  vache:
+    world: world_the_end
+    x: 2212.23522948521
+    y: 66.0
+    z: -812.5386621804807
+    yaw: -109.43032836914062
+    pitch: 29.0137996673584
+    world-name: ''
+  spawner:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 8414.5
+    y: 63.0
+    z: -1201.5
+    yaw: -128.80551147460938
+    pitch: 10.362369537353516
+    world-name: world
+afk: false
+ip-address: 90.107.205.37
+last-account-name: wolfcroft
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

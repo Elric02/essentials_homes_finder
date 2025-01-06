@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472757146922
+  lastteleport: 1472757884392
+  logout: 1472758440524
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: -53.6718177644524
+  y: 74.0
+  z: 79.37878548230441
+  yaw: -211.93873596191406
+  pitch: 27.115482330322266
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 178.536078462281
+  y: 65.0625
+  z: -46.58530543087102
+  yaw: 171.9122772216797
+  pitch: 8.747220993041992
+  world-name: ''
+ip-address: 90.9.75.245
+last-account-name: kaizwald
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

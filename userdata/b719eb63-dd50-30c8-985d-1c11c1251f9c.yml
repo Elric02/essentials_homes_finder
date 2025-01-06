@@ -1,0 +1,38 @@
+timestamps:
+  login: 1532455121819
+  lastteleport: 1532455440449
+  logout: 1532455451671
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -2.311466342138002
+  y: 90.58847746960939
+  z: 0.22864863225513304
+  yaw: -148.640625
+  pitch: 5.153207302093506
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.54066916597245
+  y: 64.0
+  z: 28.835810842729046
+  yaw: -8.41668701171875
+  pitch: 10.97864818572998
+  world-name: ''
+ip-address: 37.170.112.8
+last-account-name: Hirohtoph
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

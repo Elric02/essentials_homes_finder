@@ -1,0 +1,87 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.169.212.109
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1670110144762
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670110270517
+  login: 1670109949523
+money: '676.32'
+last-account-name: MedicisIV
+lastlocation:
+  world: df07db1e-b199-46d9-9d37-2fe95ae52b01
+  world-name: Ressourcenether
+  x: -2.130007247248371
+  y: 38.0
+  z: 84.45666852711236
+  yaw: 126.55825805664062
+  pitch: 27.13311195373535
+homes:
+  premier:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 114.27600019907186
+    y: 8.0
+    z: 294.44685053801567
+    yaw: 99.467529296875
+    pitch: 25.73152732849121
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2553.16195840647
+    y: 67.0
+    z: 4583.53815363862
+    yaw: -125.56982421875
+    pitch: 21.100605010986328
+  air:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2566.660425746395
+    y: 100.0
+    z: 4585.832256344309
+    yaw: -29.085052490234375
+    pitch: 4.037269115447998
+  farm:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2577.353173510597
+    y: 28.0
+    z: 4589.30764503948
+    yaw: -84.76312255859375
+    pitch: -36.26209259033203
+  village:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -694.6760651368451
+    y: 74.0
+    z: 2463.2239123613604
+    yaw: 87.26593017578125
+    pitch: 19.130563735961914
+  fond:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2560.940653508445
+    y: 51.0
+    z: 4582.860543633176
+    yaw: -33.03558349609375
+    pitch: 18.081331253051758
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 2578.6605803348275
+  y: 28.0
+  z: 4590.1515057859215
+  yaw: -69.5682373046875
+  pitch: -63.36788558959961

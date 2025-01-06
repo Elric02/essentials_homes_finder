@@ -1,0 +1,38 @@
+timestamps:
+  login: 1522699008204
+  logout: 1522700076226
+  lastteleport: 1522699452647
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 361.38931134002024
+  y: 66.0
+  z: -2899.9281913849163
+  yaw: -132.60113525390625
+  pitch: 26.249958038330078
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.47545295119485
+  y: 64.0
+  z: 22.267769982203884
+  yaw: -3.2918701171875
+  pitch: 14.576897621154785
+  world-name: ''
+money: '0'
+ip-address: 78.119.238.230
+last-account-name: Darcklife
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

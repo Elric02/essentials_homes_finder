@@ -1,0 +1,47 @@
+timestamps:
+  login: 1514886312936
+  logout: 1514886342391
+  lastteleport: 1472058309094
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2611.9811738640806
+  y: 64.0
+  z: -1358.3850292602078
+  yaw: -88.45003509521484
+  pitch: 46.17924118041992
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.2336650470758
+  y: 64.0
+  z: 19.81244706316815
+  yaw: -266.2471618652344
+  pitch: 11.475517272949219
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -2607.5118021651574
+    y: 64.0
+    z: -1354.0004696493243
+    yaw: -106.07526397705078
+    pitch: 35.574039459228516
+    world-name: ''
+ip-address: 78.231.228.133
+last-account-name: PonyGames25
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

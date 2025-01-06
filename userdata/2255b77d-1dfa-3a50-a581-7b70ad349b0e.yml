@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482448774953
+  lastteleport: 1482448991290
+  logout: 1482449122695
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 58.69999998807907
+  y: 50.0
+  z: -301.69999998807907
+  yaw: -0.359954833984375
+  pitch: 15.90000057220459
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.2882844614581
+  y: 64.0
+  z: 27.523690918307327
+  yaw: -180.81089782714844
+  pitch: 9.024514198303223
+  world-name: ''
+ip-address: 78.120.65.212
+last-account-name: kookiMAX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

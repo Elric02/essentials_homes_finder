@@ -1,0 +1,47 @@
+timestamps:
+  login: 1618575765377
+  lastteleport: 1618577533299
+  logout: 1618578246545
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1904.4845989983226
+  y: 63.0
+  z: -6282.28588973575
+  yaw: 40.92369079589844
+  pitch: 36.149696350097656
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 1958.1386243694628
+  y: 90.0
+  z: -6120.821130163264
+  yaw: 191.22442626953125
+  pitch: 12.899101257324219
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 1957.8500272398728
+    y: 90.0
+    z: -6120.491382068923
+    yaw: 248.0791778564453
+    pitch: 11.849675178527832
+    world-name: ''
+ip-address: 176.157.42.229
+last-account-name: HeavyStorm_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

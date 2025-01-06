@@ -1,0 +1,38 @@
+timestamps:
+  login: 1542378196137
+  logout: 1542378291304
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -32.29481198530211
+  y: 66.0
+  z: 4.69146201925323
+  yaw: 14.71474552154541
+  pitch: 27.134178161621094
+  world-name: ''
+ip-address: 86.248.78.230
+last-account-name: salutlesgars
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

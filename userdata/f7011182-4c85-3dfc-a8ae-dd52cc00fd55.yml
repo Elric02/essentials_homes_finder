@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471618604432
+  logout: 1471618682310
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 132.39280100204073
+  y: 63.0
+  z: 21.61862919316639
+  yaw: -328.09765625
+  pitch: 81.90000915527344
+  world-name: ''
+ip-address: 109.21.30.77
+last-account-name: mahamadou94
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

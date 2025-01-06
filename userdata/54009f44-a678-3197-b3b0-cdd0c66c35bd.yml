@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.171.246.159
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643488695557
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1679830836454
+  login: 1679830831071
+money: '0'
+last-account-name: Noma74
+lastlocation:
+  world: 53088384-c7c2-4056-b289-104b018f6c26
+  world-name: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -356.67935998293666
+  y: 20.0
+  z: -107.64217491904351
+  yaw: -8.93052864074707
+  pitch: 45.045555114746094

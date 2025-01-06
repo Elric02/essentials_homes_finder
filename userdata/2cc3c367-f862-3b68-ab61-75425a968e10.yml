@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.177.66.36
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1692384200878
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1692384491382
+  login: 1692380808070
+money: '100.0'
+last-account-name: Meryyys
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -6378.286092033442
+  y: 69.0
+  z: -3408.9482382638816
+  yaw: -36.978515625
+  pitch: 3.7503440380096436
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -6343.498918148809
+  y: 39.0
+  z: 4529.909931175655
+  yaw: 97.359375
+  pitch: -36.15013885498047

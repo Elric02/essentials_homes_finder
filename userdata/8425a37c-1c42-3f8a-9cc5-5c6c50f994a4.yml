@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482020759094
+  lastteleport: 1482021298332
+  logout: 1482022764975
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 117.40512838611346
+  y: 63.0
+  z: 49.612179663936494
+  yaw: -169.86085510253906
+  pitch: 63.17454528808594
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -27.060922622680664
+  pitch: -88.62548065185547
+  world-name: ''
+ip-address: 77.144.149.54
+last-account-name: Thezorux
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

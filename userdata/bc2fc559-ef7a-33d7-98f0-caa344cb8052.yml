@@ -1,0 +1,47 @@
+timestamps:
+  login: 1480107664866
+  logout: 1480109536504
+  lastteleport: 1480108241042
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.01953070706108
+  y: 27.0
+  z: 20.71439566539335
+  yaw: -111.3029556274414
+  pitch: 83.14247131347656
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 131.4803835080983
+  y: 64.5
+  z: -25.88295348397409
+  yaw: 343.8031005859375
+  pitch: -1.1622906015418266E-7
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 145.62802433652885
+    y: 64.0
+    z: 15.858555538280482
+    yaw: -139.89981079101562
+    pitch: 1.3863861560821533
+    world-name: ''
+money: '0'
+ip-address: 87.64.210.57
+last-account-name: Frosty
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

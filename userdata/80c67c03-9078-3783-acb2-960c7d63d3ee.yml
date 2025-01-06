@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499776537245
+  logout: 1499776724403
+  lastteleport: 1499776673632
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 10.527072507639252
+  y: 17.0
+  z: -12.8450509574539
+  yaw: -338.4339599609375
+  pitch: 2.699979305267334
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 163.31233135215038
+  y: 64.0
+  z: 20.470158261615133
+  yaw: -287.4607238769531
+  pitch: 27.624515533447266
+  world-name: ''
+ip-address: 82.248.73.107
+last-account-name: hulkesse
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

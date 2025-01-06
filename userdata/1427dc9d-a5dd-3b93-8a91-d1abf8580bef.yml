@@ -1,0 +1,38 @@
+timestamps:
+  login: 1663782371692
+  lastteleport: 1564582408326
+  logout: 1663782373773
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.9752539985873
+  y: 65.5
+  z: 90.69688205826957
+  yaw: 160.59690856933594
+  pitch: 20.19065284729004
+  world-name: ''
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  x: 275.49833748337926
+  y: 65.0
+  z: -348.2772059905325
+  yaw: 100.34928131103516
+  pitch: 0.7498286366462708
+  world-name: plot
+ip-address: 87.90.200.106
+last-account-name: The_Galaxy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

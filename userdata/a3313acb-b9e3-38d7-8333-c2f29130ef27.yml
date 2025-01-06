@@ -1,0 +1,63 @@
+timestamps:
+  login: 1587140606847
+  logout: 1587141256892
+  lastteleport: 1587140573567
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -49.45923203315755
+  y: 59.0
+  z: 20.95988497921265
+  yaw: -231.6768798828125
+  pitch: 13.922266006469727
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -44.228942007472085
+  y: 77.0
+  z: -2082.205565254054
+  yaw: 192.0475616455078
+  pitch: 23.828807830810547
+  world-name: ''
+homes:
+  hobbit:
+    world: world
+    x: -158.50215472455022
+    y: 77.0
+    z: -2036.8906478219374
+    yaw: -89.60478210449219
+    pitch: 23.318950653076172
+    world-name: ''
+  c:
+    world: world
+    x: -433.4520166904321
+    y: 97.0
+    z: -1904.9908516157031
+    yaw: 104.04083251953125
+    pitch: 29.86241340637207
+    world-name: ''
+  a:
+    world: world
+    x: -356.3973308225971
+    y: 139.0
+    z: -1821.4468582738803
+    yaw: -269.54046630859375
+    pitch: 15.123887062072754
+    world-name: ''
+ip-address: 90.112.226.122
+last-account-name: _Kyusei_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

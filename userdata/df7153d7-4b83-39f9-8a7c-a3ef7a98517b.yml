@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477862420601
+  lastteleport: 1477861989538
+  logout: 1477862560470
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.13303282156036
+  y: 63.875
+  z: 9.965043018736957
+  yaw: -64.86094665527344
+  pitch: 35.874488830566406
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -7832.5
+  y: 137.0
+  z: -5087.5
+  yaw: 116.10043334960938
+  pitch: 46.500038146972656
+  world-name: ''
+ip-address: 78.234.24.145
+last-account-name: Loltheogamer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

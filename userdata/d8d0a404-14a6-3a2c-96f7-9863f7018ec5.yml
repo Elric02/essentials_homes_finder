@@ -1,0 +1,38 @@
+timestamps:
+  login: 1534242406491
+  lastteleport: 1533805081876
+  logout: 1534242437921
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: 1.062955114267318
+  y: 90.0
+  z: 1.0598078734912257
+  yaw: -1.428297758102417
+  pitch: 9.447552680969238
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 158.02491031394973
+  y: 65.0
+  z: 78.63829347389628
+  yaw: -68.35617065429688
+  pitch: 27.48362922668457
+  world-name: ''
+ip-address: 92.129.184.44
+last-account-name: warwick
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

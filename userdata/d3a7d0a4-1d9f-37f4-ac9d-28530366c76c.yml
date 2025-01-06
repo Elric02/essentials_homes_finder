@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.252.175.58
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1691619951326
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1691620167018
+  login: 1691620095897
+money: '50.0'
+last-account-name: KiingJ
+lastlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 2198.997492425162
+  y: 99.0
+  z: 2321.2223935204215
+  yaw: -99.29755401611328
+  pitch: 50.10013961791992
+logoutlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 2165.6831447754284
+  y: 99.0
+  z: 2192.1946624488946
+  yaw: 171.75228881835938
+  pitch: 10.499934196472168

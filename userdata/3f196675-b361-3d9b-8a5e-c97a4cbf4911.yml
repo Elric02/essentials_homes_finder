@@ -1,0 +1,47 @@
+timestamps:
+  login: 1478447042295
+  lastteleport: 1478446031021
+  logout: 1478447099075
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.15466238436824
+  y: 27.0
+  z: 20.32873327276545
+  yaw: -91.41114807128906
+  pitch: 3.7500009536743164
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -212.5125541502559
+    y: 61.0
+    z: -3855.455442814019
+    yaw: -64.34957885742188
+    pitch: 17.40004539489746
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 150.6683926340776
+  y: 64.0
+  z: 16.769372171280395
+  yaw: -134.16136169433594
+  pitch: -8.1000394821167
+  world-name: ''
+ip-address: 88.219.214.138
+last-account-name: blackase453
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

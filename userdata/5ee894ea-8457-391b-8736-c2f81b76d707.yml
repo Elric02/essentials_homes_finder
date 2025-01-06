@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487507609849
+  logout: 1487508074984
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.13232939100672
+  y: 27.0
+  z: 20.527778517186043
+  yaw: -82.6973876953125
+  pitch: 15.697376251220703
+  world-name: ''
+logoutlocation:
+  world: world_the_end
+  x: -0.3000000119209296
+  y: 56.0
+  z: 0.3000000119209334
+  yaw: -125.77642822265625
+  pitch: 81.15001678466797
+  world-name: ''
+ip-address: 77.146.80.29
+last-account-name: toto1228
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

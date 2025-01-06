@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474569492617
+  logout: 1474571207504
+  lastteleport: 1474570644036
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: 6.992239050336746
+  y: 70.0
+  z: 203.4016588832569
+  yaw: -3.97784423828125
+  pitch: 16.349992752075195
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.33673223781082
+  y: 64.0
+  z: 15.777667814333808
+  yaw: -2.16094970703125
+  pitch: 9.324528694152832
+  world-name: ''
+afk: false
+ip-address: 193.253.218.92
+last-account-name: SkillVodk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

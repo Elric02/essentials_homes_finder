@@ -1,0 +1,38 @@
+timestamps:
+  login: 1606842659002
+  logout: 1606842829682
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -2.2753119437611984
+  y: 90.0
+  z: 0.45608621300656915
+  yaw: 41.81174850463867
+  pitch: -9.860210418701172
+  world-name: ''
+ip-address: 92.184.107.75
+last-account-name: Swerii
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

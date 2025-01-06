@@ -1,0 +1,38 @@
+timestamps:
+  login: 1608745819715
+  logout: 1608745834175
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 162.2639350946565
+  y: 61.18320339334513
+  z: 83.44834415326699
+  yaw: 194.948974609375
+  pitch: 17.64063262939453
+  world-name: ''
+ip-address: 77.204.19.128
+last-account-name: Lenfer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

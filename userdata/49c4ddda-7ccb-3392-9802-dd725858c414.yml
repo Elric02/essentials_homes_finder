@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.170.78.141
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660260401301
+  login: 1660260394711
+money: '0'
+last-account-name: Dextry_V2
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.72177223314276
+  y: 63.0
+  z: -9.495954866629768
+  yaw: -174.6517333984375
+  pitch: -6.019951343536377
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -209.40820304707975
+  y: 87.02693260501957
+  z: 220.75243216716726
+  yaw: 140.3156280517578
+  pitch: 25.649642944335938

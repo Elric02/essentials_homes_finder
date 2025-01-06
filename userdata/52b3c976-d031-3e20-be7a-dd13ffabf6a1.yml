@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518479645916
+  logout: 1518481222147
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 150.82584392078476
+  y: 64.0
+  z: 16.87660944162598
+  yaw: 82.2584228515625
+  pitch: 0.9621630907058716
+  world-name: ''
+ip-address: 2.3.88.21
+last-account-name: WarriorUS63
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

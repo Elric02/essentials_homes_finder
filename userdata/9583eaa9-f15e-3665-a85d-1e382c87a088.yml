@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.216.89.152
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1630802076101
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718739208952
+  login: 1718739190443
+money: '0'
+last-account-name: SakuraiFR
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1695.0407503789704
+  y: 70.0
+  z: 3312.6622557582646
+  yaw: 53.264896392822266
+  pitch: -0.34028714895248413
+homes:
+  coffre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1698.9011587622044
+    y: 71.875
+    z: 3328.323426223892
+    yaw: 228.9886474609375
+    pitch: 24.999094009399414
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1695.0407503789704
+  y: 70.0
+  z: 3312.6622557582646
+  yaw: -133.70516967773438
+  pitch: 13.674237251281738

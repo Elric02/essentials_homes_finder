@@ -1,0 +1,63 @@
+timestamps:
+  login: 1517072004612
+  lastteleport: 1517072037231
+  logout: 1517072473087
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 70.34245644309317
+  y: 63.0
+  z: 48.5720194226043
+  yaw: -111.17047882080078
+  pitch: 31.82862663269043
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 24.135392039143547
+    y: 63.0
+    z: -374.05399128422306
+    yaw: -248.0552215576172
+    pitch: 30.599864959716797
+    world-name: ''
+  trow:
+    world: world
+    x: -68.58804572106422
+    y: 69.5
+    z: -352.0079122945185
+    yaw: -185.20509338378906
+    pitch: 34.6498908996582
+    world-name: ''
+  nether:
+    world: world_nether
+    x: 360.4706671383742
+    y: 67.0
+    z: -124.84923532087876
+    yaw: 5.15625
+    pitch: -0.2999912202358246
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -66.04808451260888
+  y: 64.0
+  z: -365.0584899748893
+  yaw: -343.605712890625
+  pitch: 16.19990348815918
+  world-name: ''
+ip-address: 78.196.70.195
+last-account-name: Mrfreeze
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1530426823660
+  lastteleport: 1530426855421
+  logout: 1530427022505
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.95677454516473
+  y: 66.0
+  z: 20.123929906021267
+  yaw: -86.27082061767578
+  pitch: 8.578686714172363
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 219.55561743113498
+  y: 63.0
+  z: 174.60707254426208
+  yaw: -217.52093505859375
+  pitch: 3.0286595821380615
+  world-name: ''
+money: '0'
+ip-address: 86.209.140.135
+last-account-name: BART700
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.95.237.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1646490893421
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665328426521
+  login: 1665328416168
+money: '0'
+last-account-name: scoffan_theboss
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 65.30011950791851
+  y: 75.0
+  z: 60.32581015480393
+  yaw: 79.6552734375
+  pitch: 62.249698638916016
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -19.49466894071916
+  y: 46.0
+  z: -8.079911557122838
+  yaw: 88.94976806640625
+  pitch: 28.48564338684082

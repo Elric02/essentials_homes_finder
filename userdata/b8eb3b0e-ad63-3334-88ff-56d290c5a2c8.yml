@@ -1,0 +1,38 @@
+timestamps:
+  login: 1591777413999
+  lastteleport: 1591777808771
+  logout: 1591777920720
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: -3.5571452287542136
+  y: 54.5
+  z: -1.2649170194671593
+  yaw: -9.65118408203125
+  pitch: -2.1326589584350586
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.7247150112535
+  y: 69.1875
+  z: 76.45611334814852
+  yaw: -199.4530792236328
+  pitch: 51.32958221435547
+  world-name: ''
+ip-address: 213.49.199.253
+last-account-name: kingVDM
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

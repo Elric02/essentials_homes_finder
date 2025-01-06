@@ -1,0 +1,38 @@
+timestamps:
+  login: 1569523592982
+  lastteleport: 1569524815674
+  logout: 1569524819670
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 364.5548105366449
+  y: 65.0
+  z: -193.1040280021216
+  yaw: 18.90142822265625
+  pitch: 3.1499743461608887
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -313.37078857421875
+  pitch: 9.778668403625488
+  world-name: ''
+ip-address: 78.213.22.238
+last-account-name: pixelmine29
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

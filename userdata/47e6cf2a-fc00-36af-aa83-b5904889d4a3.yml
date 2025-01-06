@@ -1,0 +1,47 @@
+timestamps:
+  login: 1601054350983
+  lastteleport: 1601057240890
+  logout: 1601057546872
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 783.2349308562017
+  y: 59.70492307465284
+  z: 4429.389647729394
+  yaw: -356.251953125
+  pitch: 9.149995803833008
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 3673.0480241447453
+  y: 71.0
+  z: 1335.2651979936036
+  yaw: -38.39898681640625
+  pitch: 16.65013313293457
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 3679.646275987669
+    y: 72.0
+    z: 1338.9899959625823
+    yaw: 122.2515869140625
+    pitch: 27.900100708007812
+    world-name: ''
+ip-address: 91.161.239.203
+last-account-name: Kirito_Kuru
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

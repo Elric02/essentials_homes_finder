@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481477868448
+  logout: 1481477948834
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 75.25969426640052
+  y: 85.55683263595613
+  z: 13.63146239361765
+  yaw: -103.24746704101562
+  pitch: 19.89739418029785
+  world-name: ''
+ip-address: 176.147.189.246
+last-account-name: MamieNova
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

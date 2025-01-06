@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475176983634
+  lastteleport: 1475177167703
+  logout: 1475177360428
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.13716345284823
+  y: 63.0
+  z: 48.21403203869933
+  yaw: -276.9609375
+  pitch: -7.925487041473389
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -620.6489161384046
+  y: 65.0
+  z: -720.9245444995603
+  yaw: -267.0968322753906
+  pitch: 11.876343727111816
+  world-name: ''
+ip-address: 82.126.229.203
+last-account-name: EldiabloSI
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

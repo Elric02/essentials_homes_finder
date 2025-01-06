@@ -1,0 +1,55 @@
+timestamps:
+  login: 1721743592216
+  logout: 1721743712217
+  lastteleport: 1681039403318
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: 1128.0689250434966
+  y: 70.0
+  z: -1554.0014806915042
+  yaw: -114.06591033935547
+  pitch: 42.750465393066406
+  world-name: Althium
+homes:
+  moi:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2758.663593305763
+    y: 82.0
+    z: -3617.699999988079
+    yaw: -348.9557189941406
+    pitch: 41.71723937988281
+    world-name: world
+  didi:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4979.214676729792
+    y: 71.0
+    z: -404.68504052110535
+    yaw: 49.34440994262695
+    pitch: 46.9496955871582
+    world-name: world
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: 1128.1248314740499
+  y: 70.0
+  z: -1554.026448519698
+  yaw: 123.83399963378906
+  pitch: 17.850017547607422
+  world-name: Althium
+money: '0'
+afk: false
+socialspy: false
+muted: false
+ip-address: 91.175.115.212
+last-account-name: Mortghan
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521659133565
+  logout: 1521659396677
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 143.0770084093703
+  y: 64.0
+  z: 16.518405891150994
+  yaw: 59.05152893066406
+  pitch: 5.31036901473999
+  world-name: ''
+ip-address: 85.26.62.18
+last-account-name: Lafollette69
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

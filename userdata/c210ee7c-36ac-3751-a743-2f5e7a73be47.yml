@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.253.135.30
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635265171114
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635265291863
+  login: 1635265118742
+money: '0'
+last-account-name: ragnar
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 6707.266237863053
+  y: 64.0
+  z: -978.3516559683519
+  yaw: -182.7015380859375
+  pitch: 37.499698638916016
+homes:
+  b:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6707.586646263173
+    y: 64.0
+    z: -978.644040192039
+    yaw: -105.871337890625
+    pitch: 26.69979476928711
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 95.99185877764106
+  y: 64.0
+  z: 34.857283928403106
+  yaw: -183.8037109375
+  pitch: 4.0499958992004395

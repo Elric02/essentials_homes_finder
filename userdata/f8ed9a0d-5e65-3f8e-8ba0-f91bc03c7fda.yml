@@ -1,0 +1,38 @@
+timestamps:
+  login: 1657225444763
+  lastteleport: 1614098867622
+  logout: 1657227390873
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 154.60750111614598
+  y: 63.0
+  z: -2.534053342977337
+  yaw: 179.85821533203125
+  pitch: 8.133087158203125
+  world-name: world
+afk: false
+money: '0'
+ip-address: 89.2.63.65
+last-account-name: Darket389
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

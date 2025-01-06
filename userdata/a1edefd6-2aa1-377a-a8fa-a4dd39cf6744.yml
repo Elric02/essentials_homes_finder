@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.162.255.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1666539886238
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1666896543102
+  login: 1666895879342
+money: '50.0'
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -303.4349904504224
+  y: 64.625
+  z: 119.21781710964947
+  yaw: 39.94712829589844
+  pitch: 13.200445175170898
+last-account-name: noxignix
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -276.4428039700778
+  y: 73.73752481997467
+  z: 113.45008944978326
+  yaw: 63.345703125
+  pitch: 4.34930419921875

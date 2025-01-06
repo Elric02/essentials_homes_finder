@@ -1,0 +1,47 @@
+timestamps:
+  login: 1492528204083
+  logout: 1492528690644
+  lastteleport: 1492528552507
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1115.852229899283
+  y: 70.0
+  z: -2314.5891481855942
+  yaw: -239.04652404785156
+  pitch: 12.449997901916504
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 60.40993140730822
+  y: 67.0
+  z: 62.45526548972247
+  yaw: -54.510406494140625
+  pitch: 11.424515724182129
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -1114.618832418054
+    y: 70.0
+    z: -2332.6494418392685
+    yaw: 102.35313415527344
+    pitch: 24.5999813079834
+    world-name: ''
+afk: false
+ip-address: 88.176.81.157
+last-account-name: SalfH
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1520073108863
+  logout: 1520073171586
+  lastteleport: 1519326719596
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -381.8745587426725
+  y: 105.0
+  z: -3878.1196485122487
+  yaw: 321.29327392578125
+  pitch: 11.940027236938477
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -490.8588567022484
+  y: 68.0
+  z: -3784.300000011921
+  yaw: -56.99713134765625
+  pitch: 6.119401931762695
+  world-name: ''
+afk: false
+homes:
+  maison:
+    world: world
+    x: -378.2766774497261
+    y: 105.0
+    z: -3879.8011941853583
+    yaw: 79.70535278320312
+    pitch: 20.046485900878906
+    world-name: ''
+ip-address: 86.233.63.5
+last-account-name: TheDoctor_Who
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

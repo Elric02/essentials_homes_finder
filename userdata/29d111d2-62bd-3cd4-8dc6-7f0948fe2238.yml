@@ -1,0 +1,47 @@
+timestamps:
+  login: 1531139118767
+  lastteleport: 1531140665477
+  logout: 1531140882995
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2260.8470326300376
+  y: 78.0
+  z: 3339.4930507762683
+  yaw: -299.24853515625
+  pitch: 15.389459609985352
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: 2260.8470326300376
+    y: 78.0
+    z: 3339.4930507762683
+    yaw: -295.95751953125
+    pitch: 7.27007532119751
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 40.80790138573112
+  y: 69.0
+  z: -59.25978548462587
+  yaw: -279.4058837890625
+  pitch: 13.759139060974121
+  world-name: ''
+ip-address: 90.7.71.198
+last-account-name: maxence0101
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

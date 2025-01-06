@@ -1,0 +1,38 @@
+timestamps:
+  login: 1558380462863
+  lastteleport: 1558380949293
+  logout: 1558381373104
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 748.3000000119209
+  y: 68.49520087700593
+  z: -1989.397462616974
+  yaw: -234.6083984375
+  pitch: 11.724332809448242
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2661.663976686469
+  y: 71.0
+  z: -1929.5914398108591
+  yaw: -146.73486328125
+  pitch: 21.982545852661133
+  world-name: ''
+ip-address: 77.207.153.140
+last-account-name: DODOTORRES64
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

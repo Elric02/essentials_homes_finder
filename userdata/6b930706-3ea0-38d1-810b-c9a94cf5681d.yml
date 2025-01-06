@@ -1,0 +1,63 @@
+timestamps:
+  login: 1604076485031
+  lastteleport: 1604076518624
+  logout: 1604076710315
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2064.2729602409922
+  y: 75.0
+  z: 3617.3877737597436
+  yaw: -327.5806884765625
+  pitch: 14.352192878723145
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 2200.71136961177
+  y: 63.0
+  z: 5550.565285060963
+  yaw: 95.75115966796875
+  pitch: 9.154841423034668
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 2200.5
+    y: 64.0
+    z: 5550.5
+    yaw: 105.97380828857422
+    pitch: 27.300050735473633
+    world-name: ''
+  mm:
+    world: world
+    x: -2068.5220311191842
+    y: 61.0
+    z: 3617.1466901793488
+    yaw: -191.56396484375
+    pitch: -61.800010681152344
+    world-name: ''
+  gg:
+    world: Ressource
+    x: 1617.6188033363203
+    y: 28.0
+    z: -831.0251411011832
+    yaw: -281.4130859375
+    pitch: 25.485990524291992
+    world-name: ''
+ip-address: 78.122.8.54
+last-account-name: bonsoir
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

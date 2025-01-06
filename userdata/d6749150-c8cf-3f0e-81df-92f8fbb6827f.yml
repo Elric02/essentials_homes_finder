@@ -1,0 +1,63 @@
+timestamps:
+  login: 1483230007495
+  logout: 1483230298357
+  lastteleport: 1483230147246
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 150.93909668164486
+  y: 64.8500000178814
+  z: 8.174743857523346
+  yaw: 29.731985092163086
+  pitch: 9.230584144592285
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2860.7843174295776
+  y: 71.0
+  z: 6340.300000011921
+  yaw: 244.40118408203125
+  pitch: 41.74600601196289
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  grenier:
+    world: world
+    x: -2871.951140683617
+    y: 71.0
+    z: 6341.526791253241
+    yaw: -15.09808349609375
+    pitch: 8.809477806091309
+    world-name: ''
+  paturage:
+    world: world
+    x: -2774.187143466589
+    y: 88.0
+    z: 6325.812784477024
+    yaw: 153.78013610839844
+    pitch: 45.10566329956055
+    world-name: ''
+  end:
+    world: world_the_end
+    x: -308.3671452027799
+    y: 58.0
+    z: -960.2243294484218
+    yaw: 168.8589324951172
+    pitch: 5.66586446762085
+    world-name: ''
+ip-address: 5.51.216.49
+last-account-name: EscrimeurInconnu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

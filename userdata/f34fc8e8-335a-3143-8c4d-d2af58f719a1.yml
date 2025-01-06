@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.142.56.101
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1637018861550
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1637019489880
+  login: 1637018709895
+money: '0'
+last-account-name: Jus2BaNaNa
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1607.9928634784117
+  y: 68.0
+  z: 1723.629282091761
+  yaw: -318.0376892089844
+  pitch: 11.700068473815918
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 6805.211496144588
+  y: 63.0
+  z: 5783.008447446764
+  yaw: -206.21383666992188
+  pitch: 0.1498863250017166

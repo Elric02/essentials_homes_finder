@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485072818947
+  lastteleport: 1485072936019
+  logout: 1485073018558
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: 10.537597698009955
+  y: 64.0
+  z: -0.046252730048425755
+  yaw: 58.385616302490234
+  pitch: 17.505844116210938
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 188.67297977446236
+  y: 63.0
+  z: 5.565188214720271
+  yaw: -137.8484649658203
+  pitch: 22.81125831604004
+  world-name: ''
+ip-address: 78.218.202.88
+last-account-name: Xeptox_YT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

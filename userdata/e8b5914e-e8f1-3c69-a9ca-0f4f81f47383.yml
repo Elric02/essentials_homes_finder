@@ -1,0 +1,74 @@
+lastlocation:
+  world: world
+  x: 156.76803473780402
+  y: 64.0
+  z: 22.323709952371313
+  yaw: 229.64857482910156
+  pitch: 4.7999982833862305
+  world-name: ''
+timestamps:
+  login: 1467994406186
+  lastteleport: 1468002109105
+  logout: 1468002785887
+  jail: 0
+  kits:
+    vip: 1467807492306
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -519.9327297857077
+    y: 65.0
+    z: 576.699676819514
+    yaw: 2.056459665298462
+    pitch: 10.800148010253906
+    world-name: ''
+  village:
+    world: world
+    x: 8.994132601775638
+    y: 131.0
+    z: 2351.6741359336925
+    yaw: 5.048828125
+    pitch: 1.8000138998031616
+    world-name: ''
+  boutique:
+    world: world
+    x: -226.97829109651906
+    y: 65.0
+    z: 333.37631745020997
+    yaw: -16.859355926513672
+    pitch: 0.22491136193275452
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 330.1220854415843
+    y: 18.0
+    z: -300.69999998807907
+    yaw: 60.596923828125
+    pitch: 59.09959030151367
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -558.6934927320918
+  y: 75.0
+  z: 599.8883991148743
+  yaw: 106.00628662109375
+  pitch: 9.300002098083496
+  world-name: ''
+afk: false
+socialspy: true
+jailed: false
+nickname: cowboydu33
+muted: false
+ip-address: 78.112.17.127
+last-account-name: cowboydu33
+teleportenabled: true
+teleportauto: false
+godmode: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

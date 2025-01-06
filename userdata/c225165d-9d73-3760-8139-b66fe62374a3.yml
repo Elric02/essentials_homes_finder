@@ -1,0 +1,38 @@
+timestamps:
+  login: 1529748762502
+  lastteleport: 1529567933506
+  logout: 1529748996234
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.95935525591503
+  y: 66.0
+  z: 19.368115090911388
+  yaw: -88.9283218383789
+  pitch: 11.481082916259766
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 136.95995603609634
+  y: 69.0
+  z: -90.18385298360661
+  yaw: -191.12890625
+  pitch: 2.099453926086426
+  world-name: ''
+money: '0'
+ip-address: 89.94.205.8
+last-account-name: Uwaps
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

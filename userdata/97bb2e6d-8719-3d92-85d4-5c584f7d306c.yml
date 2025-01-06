@@ -1,0 +1,68 @@
+timestamps:
+  login: 1594122145346
+  lastteleport: 1594122533036
+  logout: 1594122918078
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.85814621819432
+  y: 64.0
+  z: 25.02488746291054
+  yaw: 158.52931213378906
+  pitch: 24.478660583496094
+  world-name: ''
+money: '0'
+homes:
+  coco911:
+    world: world
+    x: -7014.73985941365
+    y: 80.0
+    z: 782.0836807584769
+    yaw: -298.79443359375
+    pitch: -6.772573947906494
+    world-name: ''
+  zdnl:
+    world: world
+    x: 2070.355541231028
+    y: 70.0
+    z: -2737.472982137844
+    yaw: 178.3499755859375
+    pitch: -11.999985694885254
+    world-name: ''
+  rose:
+    world: world
+    x: -7014.5
+    y: 80.0
+    z: 782.5
+    yaw: -289.9444274902344
+    pitch: -0.9225741028785706
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -7216.428195693931
+  y: 64.0
+  z: 473.5815451967197
+  yaw: 0.10137939453125
+  pitch: 0.3992981016635895
+  world-name: ''
+afk: false
+ip-address: 90.93.189.192
+last-account-name: coco
+mail:
+- legacy: true
+  read: false
+  message: §e[§rjuju62180§e] §rpeut tu me refaire un stuff et une armure avec ce quil
+    ya dans les coffres ? merci
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

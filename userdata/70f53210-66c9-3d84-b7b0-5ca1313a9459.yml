@@ -1,0 +1,38 @@
+timestamps:
+  login: 1502107514534
+  lastteleport: 1502107601238
+  logout: 1502107612982
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 115.11212795777247
+  y: 63.0
+  z: 38.14132529899463
+  yaw: -191.7882080078125
+  pitch: 30.874738693237305
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.49252110146335
+  y: 64.0
+  z: 27.196561546658764
+  yaw: -180.2613525390625
+  pitch: 6.624515056610107
+  world-name: ''
+ip-address: 90.109.114.232
+last-account-name: _LuBoXiT_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

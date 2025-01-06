@@ -1,0 +1,38 @@
+timestamps:
+  login: 1569752651551
+  lastteleport: 1569753380312
+  logout: 1569753871178
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -411.72910811483285
+  y: 82.0
+  z: 371.0608833853368
+  yaw: 272.1003112792969
+  pitch: 16.199981689453125
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1299.7517912118317
+  y: 67.0
+  z: -1949.300000011921
+  yaw: 329.32537841796875
+  pitch: 14.40005874633789
+  world-name: ''
+ip-address: 176.154.155.46
+last-account-name: Funnido
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

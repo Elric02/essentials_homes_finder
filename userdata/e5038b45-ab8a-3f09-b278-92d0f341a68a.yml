@@ -1,0 +1,38 @@
+timestamps:
+  login: 1463430840392
+  logout: 1463430878756
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5660471774525
+  y: 63.5
+  z: 6.564521099862153
+  yaw: 182.1027374267578
+  pitch: -1.4258146286010742
+  world-name: ''
+ip-address: 31.32.15.84
+last-account-name: Nadj3t
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

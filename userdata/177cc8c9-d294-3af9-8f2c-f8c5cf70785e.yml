@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609163098438
+  lastteleport: 1609164223299
+  logout: 1609165369743
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 143.02383603465995
+  y: 63.0
+  z: 7.554156697496399
+  yaw: -216.5487060546875
+  pitch: 41.37550735473633
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 151.2822832483008
+  y: 64.5
+  z: 28.954047702943562
+  yaw: 35.93169403076172
+  pitch: 42.75004196166992
+  world-name: ''
+ip-address: 77.201.229.239
+last-account-name: doliprane_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

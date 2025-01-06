@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478198202952
+  lastteleport: 1478199374947
+  logout: 1478199400840
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 161.18455586918336
+  y: 64.0
+  z: 18.410349995665314
+  yaw: -226.2609405517578
+  pitch: 19.524513244628906
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -196.26092529296875
+  pitch: 20.124515533447266
+  world-name: ''
+ip-address: 109.223.175.230
+last-account-name: kylian
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

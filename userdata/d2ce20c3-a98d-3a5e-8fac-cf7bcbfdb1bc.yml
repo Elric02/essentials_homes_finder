@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.241.63.87
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1666966928900
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1676844866475
+  login: 1676844824944
+money: '0'
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -367.8058213196014
+  y: 54.0
+  z: 535.0
+  yaw: 40.118629455566406
+  pitch: 58.05000686645508
+last-account-name: YukiSnow_
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -349.4034215710354
+  y: 33.0
+  z: 487.9368492358559
+  yaw: -107.63139343261719
+  pitch: 30.299997329711914

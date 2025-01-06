@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617803942405
+  lastteleport: 1617806628488
+  logout: 1617808360486
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.61729161214248
+  y: 64.0
+  z: 22.98413552608934
+  yaw: -147.3953094482422
+  pitch: -1.0741266012191772
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3388.5677921355773
+  y: 71.0
+  z: 3922.93710129901
+  yaw: -97.940185546875
+  pitch: 39.7491569519043
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 90.22.56.136
+last-account-name: Odessaa__
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

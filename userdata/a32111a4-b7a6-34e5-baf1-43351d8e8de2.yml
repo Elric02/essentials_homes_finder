@@ -1,0 +1,63 @@
+timestamps:
+  login: 1671358794840
+  lastteleport: 1630857926871
+  logout: 1671358806642
+  jail: 0
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -88.30000001192093
+  y: 68.0
+  z: -138.09114079779118
+  yaw: 138.845947265625
+  pitch: 36.89999008178711
+  world-name: world
+money: '100.0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 2048.988933259677
+  y: 88.0625
+  z: -3034.699999988079
+  yaw: 53.75382614135742
+  pitch: 16.79969024658203
+  world-name: world
+afk: false
+homes:
+  pmj:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2569.372644429084
+    y: 84.0
+    z: 2320.0614995886667
+    yaw: 0.8105655908584595
+    pitch: 14.99997615814209
+    world-name: world
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -133.90409701976108
+    y: 74.0
+    z: -110.71631173341574
+    yaw: -90.66075897216797
+    pitch: 12.064056396484375
+    world-name: world
+  farm:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 209.69999998807907
+    y: 60.0
+    z: -111.30000001192093
+    yaw: -214.664794921875
+    pitch: 43.949981689453125
+    world-name: world
+jailed: false
+muted: false
+ip-address: 2.4.134.153
+last-account-name: lois31
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

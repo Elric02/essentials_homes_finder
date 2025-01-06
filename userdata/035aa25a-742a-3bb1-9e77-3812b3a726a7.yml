@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617040913816
+  lastteleport: 1617041092448
+  logout: 1617041267530
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2908.8535265604287
+  y: 72.0
+  z: 910.5723138311973
+  yaw: -96.7506103515625
+  pitch: 9.299809455871582
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -190.41785226012456
+  y: 63.0
+  z: -259.69999998807907
+  yaw: 176.7001190185547
+  pitch: 63.150001525878906
+  world-name: ''
+ip-address: 193.250.77.65
+last-account-name: louis641
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

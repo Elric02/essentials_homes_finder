@@ -1,0 +1,55 @@
+timestamps:
+  login: 1620554037138
+  lastteleport: 1620554158460
+  logout: 1620554254995
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressourcenether
+  x: -36.5
+  y: 34.0
+  z: -366.5
+  yaw: 57.13315200805664
+  pitch: 55.650611877441406
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -843.1705280848059
+    y: 69.0
+    z: 1971.377525008903
+    yaw: -32.39739990234375
+    pitch: 28.200214385986328
+    world-name: ''
+  p:
+    world: Ressourcenether
+    x: -36.952890422144336
+    y: 34.0
+    z: -366.508598848403
+    yaw: -44.566986083984375
+    pitch: 62.850677490234375
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -850.6020827401932
+  y: 68.0
+  z: 1983.7799334330853
+  yaw: -357.7469482421875
+  pitch: 18.000560760498047
+  world-name: ''
+afk: false
+ip-address: 90.46.0.21
+last-account-name: LudodoMax
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1555959974975
+  lastteleport: 1555960466232
+  logout: 1555960633985
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3988.29458317307
+  y: 98.0
+  z: -3528.3413633495584
+  yaw: 91.5703125
+  pitch: 45.150001525878906
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Event
+  x: 709.8536522281489
+  y: 4.0
+  z: -1291.7076682340328
+  yaw: -346.094970703125
+  pitch: 68.82975769042969
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -3983.699999988079
+    y: 95.0
+    z: -3525.8842070560304
+    yaw: 196.1209716796875
+    pitch: 38.400028228759766
+    world-name: ''
+afk: false
+ip-address: 78.205.24.147
+last-account-name: Ornitho_Kawaii
+npc: true
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

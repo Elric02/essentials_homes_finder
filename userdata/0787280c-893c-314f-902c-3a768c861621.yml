@@ -1,0 +1,63 @@
+timestamps:
+  login: 1534426428671
+  lastteleport: 1532859030379
+  logout: 1534426497191
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5365.384206198457
+  y: 84.0
+  z: 2344.510937829266
+  yaw: 252.20326232910156
+  pitch: 11.089544296264648
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6270.300000011921
+  y: 81.0
+  z: 1703.3106389413053
+  yaw: -264.515380859375
+  pitch: 23.760852813720703
+  world-name: ''
+homes:
+  meg:
+    world: world
+    x: 6284.514515363341
+    y: 69.0
+    z: 1704.7328725648583
+    yaw: -187.06689453125
+    pitch: 18.02602195739746
+    world-name: ''
+  home:
+    world: world
+    x: 7030.1720483983645
+    y: 63.0
+    z: -5648.377738404689
+    yaw: -70.51730346679688
+    pitch: 0.9962901473045349
+    world-name: ''
+  mai:
+    world: world
+    x: 5354.963984973013
+    y: 83.0
+    z: 2353.8899844784305
+    yaw: -64.81494140625
+    pitch: 37.69889450073242
+    world-name: ''
+afk: false
+muted: false
+ip-address: 88.180.17.129
+last-account-name: guiguif38
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

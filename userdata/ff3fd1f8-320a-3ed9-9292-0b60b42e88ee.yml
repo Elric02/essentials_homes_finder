@@ -1,0 +1,38 @@
+timestamps:
+  login: 1540296324939
+  lastteleport: 1540297201368
+  logout: 1540297631200
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -402.83501241709854
+  y: 68.0
+  z: 303.4127401226019
+  yaw: 124.89781951904297
+  pitch: 15.663601875305176
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+ip-address: 82.233.9.201
+last-account-name: Fennec
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

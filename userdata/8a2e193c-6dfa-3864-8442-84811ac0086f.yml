@@ -1,0 +1,38 @@
+timestamps:
+  login: 1658587210369
+  logout: 1658587517129
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -429.84038553721643
+  y: 64.0
+  z: -4044.295948641259
+  yaw: 49.66165542602539
+  pitch: 13.367765426635742
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 2496.699999988079
+  y: 69.0
+  z: -6090.563077413511
+  yaw: 135.54049682617188
+  pitch: 7.253627777099609
+  world-name: world
+ip-address: 213.188.186.245
+last-account-name: TonyDelta
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

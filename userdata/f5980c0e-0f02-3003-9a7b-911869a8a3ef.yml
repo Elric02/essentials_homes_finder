@@ -1,0 +1,47 @@
+timestamps:
+  login: 1614597474208
+  lastteleport: 1614599628608
+  logout: 1614600050425
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2305.1467623967274
+  y: 13.0
+  z: -3532.699999988079
+  yaw: -99.8232421875
+  pitch: 9.858515739440918
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 1937.817631035787
+    y: 110.0
+    z: -3509.5672889132015
+    yaw: -116.28158569335938
+    pitch: 43.62838363647461
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1939.0230470728852
+  y: 110.0
+  z: -3509.6851733105345
+  yaw: -165.8592529296875
+  pitch: 32.73725128173828
+  world-name: ''
+ip-address: 91.165.185.193
+last-account-name: Hubato
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

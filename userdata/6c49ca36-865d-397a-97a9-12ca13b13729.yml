@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616863260423
+  lastteleport: 1616863566868
+  logout: 1616863600250
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2742.931829466553
+  y: 98.5
+  z: -57.30026811217409
+  yaw: -95.72366333007812
+  pitch: 29.815500259399414
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1514.8596770016586
+  y: 72.0
+  z: -2180.116139617602
+  yaw: -101.27161407470703
+  pitch: 19.603891372680664
+  world-name: ''
+ip-address: 78.245.170.93
+last-account-name: Valfout
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

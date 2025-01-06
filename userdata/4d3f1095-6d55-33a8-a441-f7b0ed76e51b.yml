@@ -1,0 +1,38 @@
+timestamps:
+  login: 1504448237421
+  lastteleport: 1504448365785
+  logout: 1504448683925
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.3583011867497
+  y: 63.0
+  z: 46.64152810457537
+  yaw: -337.4215087890625
+  pitch: 5.500937461853027
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -41.06155701382269
+  y: 51.0
+  z: 3587.639687799162
+  yaw: -37.39846420288086
+  pitch: 20.785058975219727
+  world-name: ''
+ip-address: 92.142.221.205
+last-account-name: MarcelPivot
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

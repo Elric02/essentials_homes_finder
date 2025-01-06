@@ -1,0 +1,63 @@
+timestamps:
+  login: 1551494673423
+  lastteleport: 1545079239608
+  logout: 1551494824654
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3886.2965226532037
+  y: 69.0
+  z: 2017.6092108434639
+  yaw: 153.28643798828125
+  pitch: 2.819990873336792
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1158.6379150640312
+  y: 78.0
+  z: -5267.583809347743
+  yaw: -81.9039306640625
+  pitch: 28.475177764892578
+  world-name: ''
+afk: false
+homes:
+  ryan:
+    world: world
+    x: 1152.5935736503948
+    y: 68.0
+    z: -5246.453046505844
+    yaw: 181.79551696777344
+    pitch: 36.125205993652344
+    world-name: ''
+  nether:
+    world: Nether
+    x: -61.24252462964751
+    y: 65.0
+    z: 136.77952413313722
+    yaw: 92.15792083740234
+    pitch: 0.15024831891059875
+    world-name: ''
+  base:
+    world: world
+    x: -3885.5386637215242
+    y: 64.0
+    z: 2012.073022165538
+    yaw: -14.41357421875
+    pitch: 7.1700615882873535
+    world-name: ''
+ip-address: 90.103.232.104
+last-account-name: SigmaGamerOne
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

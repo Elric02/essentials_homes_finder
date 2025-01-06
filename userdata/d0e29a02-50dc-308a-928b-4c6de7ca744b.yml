@@ -1,0 +1,47 @@
+timestamps:
+  login: 1550855259969
+  lastteleport: 1550855285296
+  logout: 1550856053650
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.33021154402138
+  y: 63.85000001788139
+  z: -10.515061056055787
+  yaw: -225.3928680419922
+  pitch: 55.35002899169922
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2439.7148774385732
+    y: 69.0
+    z: -641.8489907732373
+    yaw: -148.92250061035156
+    pitch: 17.399988174438477
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 2441.2249003901607
+  y: 73.0
+  z: -641.4941348729885
+  yaw: -225.89735412597656
+  pitch: 41.84990692138672
+  world-name: ''
+ip-address: 78.198.154.37
+last-account-name: miss1220
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

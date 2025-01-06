@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517711400961
+  logout: 1517711432816
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.8612377946443
+  y: 65.0
+  z: 78.08466899492083
+  yaw: 182.79705810546875
+  pitch: 15.240660667419434
+  world-name: ''
+ip-address: 82.236.246.52
+last-account-name: Thegamer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

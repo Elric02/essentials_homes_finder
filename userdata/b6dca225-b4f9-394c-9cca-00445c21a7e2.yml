@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521741075018
+  lastteleport: 1521741224551
+  logout: 1521741317034
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -572.1363975258247
+  y: 77.0
+  z: -4764.573783803649
+  yaw: -267.190673828125
+  pitch: 33.71101760864258
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.35172374583985
+  y: 63.0
+  z: -11.873865180211912
+  yaw: -175.52099609375
+  pitch: 9.47866439819336
+  world-name: ''
+ip-address: 176.163.141.58
+last-account-name: Gamer85
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

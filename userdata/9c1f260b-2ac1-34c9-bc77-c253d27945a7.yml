@@ -1,0 +1,38 @@
+timestamps:
+  login: 1585827491650
+  lastteleport: 1585827948067
+  logout: 1585827966664
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: 14.885352512555064
+  y: 61.0
+  z: 306.0380454620395
+  yaw: -11.636911392211914
+  pitch: 23.700275421142578
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -183.4704132080078
+  pitch: 21.32863998413086
+  world-name: ''
+ip-address: 90.41.92.248
+last-account-name: spec_artaxerces
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

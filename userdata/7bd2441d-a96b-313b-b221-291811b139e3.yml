@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.147.240.14
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1673545844556
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673545880735
+  login: 1673545761066
+money: '0'
+last-account-name: Gauplay08
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 402.92129499806214
+  y: 81.0
+  z: -3107.991326021162
+  yaw: -87.28937530517578
+  pitch: 8.67788314819336
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 181.04440287987887
+  y: 65.0
+  z: -95.91423386048268
+  yaw: 107.46366882324219
+  pitch: 11.3411865234375

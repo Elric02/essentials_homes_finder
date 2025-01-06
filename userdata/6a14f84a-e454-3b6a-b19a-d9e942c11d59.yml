@@ -1,0 +1,38 @@
+timestamps:
+  login: 1595794536107
+  lastteleport: 1595795415861
+  logout: 1595796047620
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -861.1902226366634
+  y: 70.0
+  z: 1513.263437021237
+  yaw: -268.04998779296875
+  pitch: 46.65005111694336
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5228.227442525272
+  y: 61.0
+  z: 1618.190156466775
+  yaw: -351.157958984375
+  pitch: 12.599896430969238
+  world-name: ''
+ip-address: 161.129.197.163
+last-account-name: Aystar123
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

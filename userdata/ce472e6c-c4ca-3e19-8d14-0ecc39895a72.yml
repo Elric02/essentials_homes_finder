@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472222905299
+  lastteleport: 1472223082136
+  logout: 1472223083046
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 148.14872045514937
+  y: 63.0
+  z: -18.509974192156115
+  yaw: -220.09716796875
+  pitch: 15.997429847717285
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -186.51092529296875
+  pitch: 7.374515056610107
+  world-name: ''
+ip-address: 93.6.57.50
+last-account-name: Raphael
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

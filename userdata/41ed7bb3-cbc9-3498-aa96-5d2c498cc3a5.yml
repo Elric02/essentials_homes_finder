@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.249.131.73
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642954252386
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642955377526
+  login: 1642954887178
+money: '0'
+last-account-name: AxolotlParesseux
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 6246.08972243599
+  y: 65.0
+  z: -3161.88217096173
+  yaw: -81.10787963867188
+  pitch: 8.8988037109375
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 6247.095079223873
+  y: 65.0
+  z: -3162.298348502993
+  yaw: -36.8466796875
+  pitch: 8.743227005004883
+homes:
+  rat:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6246.08972243599
+    y: 65.0
+    z: -3161.88217096173
+    yaw: -81.10787963867188
+    pitch: 8.8988037109375

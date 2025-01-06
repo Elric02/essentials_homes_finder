@@ -1,0 +1,47 @@
+timestamps:
+  login: 1488570633231
+  logout: 1488570782222
+  lastteleport: 1487361634605
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.16668854496646
+  y: 63.5
+  z: 14.062427338273645
+  yaw: -311.1104431152344
+  pitch: 10.35104751586914
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -5567.4165964062
+  y: 64.0
+  z: 580.7519179478807
+  yaw: 259.28216552734375
+  pitch: 17.865028381347656
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -5565.387782570635
+    y: 64.0
+    z: 572.3485704190663
+    yaw: 177.49478149414062
+    pitch: 31.26288604736328
+    world-name: ''
+ip-address: 82.233.185.248
+last-account-name: iHayDeN_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

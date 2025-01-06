@@ -1,0 +1,38 @@
+timestamps:
+  login: 1554819370811
+  lastteleport: 1554820497260
+  logout: 1554820663105
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3316.6801144635633
+  y: 74.0
+  z: -2666.701473208819
+  yaw: -82.715576171875
+  pitch: 28.050113677978516
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1755.7052777270383
+  y: 66.0
+  z: 3207.8266627530315
+  yaw: 29.5010986328125
+  pitch: 16.349977493286133
+  world-name: ''
+ip-address: 78.230.248.206
+last-account-name: Zerghunter35
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

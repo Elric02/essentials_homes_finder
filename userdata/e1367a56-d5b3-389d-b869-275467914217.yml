@@ -1,0 +1,38 @@
+timestamps:
+  login: 1619722925955
+  lastteleport: 1619726309961
+  logout: 1619726653763
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1228.0
+  y: 61.32576195691547
+  z: 1131.0
+  yaw: 37.51708984375
+  pitch: 5.529598712921143
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.45560622386492
+  y: 64.0
+  z: 18.94999998807907
+  yaw: -0.5118722915649414
+  pitch: 70.33917999267578
+  world-name: ''
+ip-address: 92.149.192.211
+last-account-name: enderlov3r
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1498393318706
+  lastteleport: 1498393458334
+  logout: 1498393543333
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4519.348420096753
+  y: 66.0
+  z: 5151.411342024669
+  yaw: 2.850128412246704
+  pitch: 16.199983596801758
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 93.7930278890536
+  y: 64.0
+  z: -0.01356936967509384
+  yaw: -39.06103515625
+  pitch: 31.824520111083984
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4512.3596455047045
+    y: 66.0
+    z: 5155.063688812494
+    yaw: 279.900146484375
+    pitch: 12.74998664855957
+    world-name: ''
+  nether:
+    world: world_nether
+    x: -4881.330176106343
+    y: 59.0
+    z: 5493.732022311725
+    yaw: -93.172607421875
+    pitch: 20.399988174438477
+    world-name: ''
+  mine:
+    world: world_the_end
+    x: 1856.1119754480574
+    y: 122.0
+    z: -1543.4279223297629
+    yaw: -268.03564453125
+    pitch: 7.200217247009277
+    world-name: ''
+afk: false
+ip-address: 80.201.167.42
+last-account-name: Kesturae
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

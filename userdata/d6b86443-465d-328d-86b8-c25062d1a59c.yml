@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478974670061
+  lastteleport: 1478974728256
+  logout: 1478974774973
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.9681409577869
+  y: 63.0
+  z: 49.77494363584158
+  yaw: -244.24737548828125
+  pitch: -1.2525984048843384
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: 78.62211053400843
+  y: 88.0
+  z: 700.2311317582901
+  yaw: -25.19976806640625
+  pitch: 21.899951934814453
+  world-name: ''
+ip-address: 86.236.17.108
+last-account-name: planeton
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

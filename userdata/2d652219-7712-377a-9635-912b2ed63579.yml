@@ -1,0 +1,38 @@
+timestamps:
+  login: 1585754317813
+  logout: 1585757250663
+  lastteleport: 1585742530764
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 143.08642446841156
+  y: 63.0
+  z: 7.979677966977526
+  yaw: -228.9227294921875
+  pitch: 35.09994888305664
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2515.2603033668247
+  y: 22.0
+  z: -3371.32047582345
+  yaw: -92.8675537109375
+  pitch: 3.450223922729492
+  world-name: ''
+money: '0'
+ip-address: 78.237.237.68
+last-account-name: GabinLeGamin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

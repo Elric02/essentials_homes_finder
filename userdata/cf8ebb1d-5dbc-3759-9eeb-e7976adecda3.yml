@@ -1,0 +1,38 @@
+timestamps:
+  login: 1567959712551
+  lastteleport: 1567960358161
+  logout: 1567960503609
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.70811810365026
+  y: 63.0
+  z: 41.536155259421776
+  yaw: 218.82933044433594
+  pitch: 3.928662061691284
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.9208221435547
+  pitch: 2.128669500350952
+  world-name: ''
+ip-address: 86.208.169.88
+last-account-name: Cata_ix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

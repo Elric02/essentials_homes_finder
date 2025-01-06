@@ -1,0 +1,55 @@
+timestamps:
+  login: 1593094061525
+  lastteleport: 1593102574515
+  logout: 1593103269849
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -592.8890384606455
+  y: 65.0625
+  z: -761.7134745649125
+  yaw: 333.4541015625
+  pitch: 16.95919418334961
+  world-name: ''
+homes:
+  mine:
+    world: Ressource
+    x: 1979.095736111155
+    y: 74.0
+    z: 709.5825678525331
+    yaw: 234.54916381835938
+    pitch: 13.46800422668457
+    world-name: ''
+  base:
+    world: world
+    x: -5836.728711320159
+    y: 78.0
+    z: 3815.0578017023536
+    yaw: 27.235095977783203
+    pitch: 11.396859169006348
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 41.03282410231569
+  y: 77.0
+  z: -12.640072955849744
+  yaw: -263.317626953125
+  pitch: 90.0
+  world-name: ''
+ip-address: 77.134.56.13
+last-account-name: Pistache37
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

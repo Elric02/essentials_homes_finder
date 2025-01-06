@@ -1,0 +1,47 @@
+timestamps:
+  login: 1508693914254
+  logout: 1508710830288
+  lastteleport: 1508709410632
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 143.8961006311365
+  y: 79.0
+  z: 2084.081441942229
+  yaw: 311.58203125
+  pitch: 23.99996566772461
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 2567.571810056213
+    y: 63.0
+    z: 3308.658994259686
+    yaw: 355.5001220703125
+    pitch: 3.000004529953003
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2534.263951279369
+  y: 72.0
+  z: 3334.0433569857105
+  yaw: 218.397216796875
+  pitch: 35.24989318847656
+  world-name: ''
+afk: false
+ip-address: 83.154.224.36
+last-account-name: smoho
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1467852302866
+  lastteleport: 1467823354021
+  logout: 1467852306694
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6379.706029035831
+  y: 63.0
+  z: 798.1765962675468
+  yaw: 272.2471008300781
+  pitch: 19.35000228881836
+  world-name: ''
+money: '0'
+homes:
+  mesa:
+    world: world
+    x: -3964.318091470698
+    y: 63.0
+    z: -5988.9227142277405
+    yaw: 153.4500274658203
+    pitch: 2.700000047683716
+    world-name: ''
+  h:
+    world: world
+    x: -6379.855930767827
+    y: 64.0
+    z: 793.0308195777478
+    yaw: 205.79705810546875
+    pitch: 11.700003623962402
+    world-name: ''
+  hm:
+    world: world
+    x: 3768.6137910268567
+    y: 69.0
+    z: 3128.6897842943
+    yaw: 260.1003112792969
+    pitch: -53.99996566772461
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3766.095813263155
+  y: 67.0
+  z: 3131.8372024810624
+  yaw: -184.20245361328125
+  pitch: 32.39999771118164
+  world-name: ''
+afk: false
+ip-address: 78.237.41.32
+last-account-name: Kana777
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

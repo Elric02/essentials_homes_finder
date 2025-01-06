@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483632888157
+  logout: 1483633488825
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 124.64271597815556
+  y: 63.0
+  z: 18.671407103021103
+  yaw: -48.6474609375
+  pitch: 7.650014877319336
+  world-name: ''
+ip-address: 81.254.166.131
+last-account-name: leozangdar
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

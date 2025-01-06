@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472202401776
+  lastteleport: 1472202428263
+  logout: 1472202563869
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.90557484068358
+  y: 63.0
+  z: 7.300000011920927
+  yaw: -255.06089782714844
+  pitch: 16.374507904052734
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 152.31130815863855
+  y: 64.0
+  z: 17.138571169487033
+  yaw: -45.810874938964844
+  pitch: 2.5745134353637695
+  world-name: ''
+ip-address: 85.203.64.181
+last-account-name: theo27430
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

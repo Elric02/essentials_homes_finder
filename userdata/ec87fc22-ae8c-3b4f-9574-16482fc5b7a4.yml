@@ -1,0 +1,63 @@
+timestamps:
+  login: 1474561056922
+  lastteleport: 1474059640173
+  logout: 1474561129532
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 837.530397916997
+  y: 71.0
+  z: -937.4315605503166
+  yaw: -282.35247802734375
+  pitch: -31.949989318847656
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 938.7178870509173
+    y: 87.0
+    z: -1097.4880975653637
+    yaw: 233.188720703125
+    pitch: 68.70003509521484
+    world-name: ''
+  ressource:
+    world: Ressources
+    x: 209.69999998807907
+    y: 70.0
+    z: 475.69999998807907
+    yaw: 138.22171020507812
+    pitch: 16.077625274658203
+    world-name: ''
+  chambre:
+    world: world
+    x: 914.9936520330583
+    y: 60.0
+    z: -1097.9770877254662
+    yaw: 281.94775390625
+    pitch: 35.70000457763672
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 930.2175053148009
+  y: 100.0
+  z: -1068.6824107078223
+  yaw: -125.31271362304688
+  pitch: 21.749980926513672
+  world-name: ''
+ip-address: 90.55.83.163
+last-account-name: Damienne75
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

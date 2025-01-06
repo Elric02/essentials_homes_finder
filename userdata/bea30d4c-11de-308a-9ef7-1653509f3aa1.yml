@@ -1,0 +1,38 @@
+timestamps:
+  login: 1593969272116
+  logout: 1593969549766
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.28270887545207
+  y: 64.0
+  z: 20.886972082467103
+  yaw: -181.4038848876953
+  pitch: 36.99053192138672
+  world-name: ''
+ip-address: 188.7.248.47
+last-account-name: maloun57
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1591687122926
+  lastteleport: 1591687302124
+  logout: 1591687323211
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.3787747007193
+  y: 63.0
+  z: 40.99420906005795
+  yaw: -49.8199462890625
+  pitch: 17.27864646911621
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 37.97242083307013
+  y: 55.90837611240198
+  z: -12.667527987113335
+  yaw: -135.45298767089844
+  pitch: 5.135857105255127
+  world-name: ''
+ip-address: 86.206.243.170
+last-account-name: Emmet
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1590493152787
+  lastteleport: 1590495313990
+  logout: 1590495560521
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 17.476006040280524
+  y: 8.0
+  z: -66.25569089547386
+  yaw: -73.6864013671875
+  pitch: 33.407073974609375
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 69.46667191719652
+  y: 94.0
+  z: 62.30659888881161
+  yaw: -79.841796875
+  pitch: 18.875354766845703
+  world-name: ''
+ip-address: 78.225.195.3
+last-account-name: Abak205_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

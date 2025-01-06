@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.221.197.41
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668015482903
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668015708445
+  login: 1668006943892
+money: '450.0'
+lastlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: 2750.536318310759
+  y: 80.0
+  z: 3179.8975600054596
+  yaw: -48.241455078125
+  pitch: -8.100203514099121
+last-account-name: Blacki77
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -1872.4111680365952
+  y: 75.0
+  z: -2903.6027317992493
+  yaw: -24.50146484375
+  pitch: 19.199867248535156
+homes:
+  b:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -1887.1868673947479
+    y: 73.0
+    z: -2910.404024917909
+    yaw: -68.93185424804688
+    pitch: 22.499855041503906
+  aca:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 2750.536318310759
+    y: 80.0
+    z: 3179.8975600054596
+    yaw: -48.241455078125
+    pitch: -8.100203514099121

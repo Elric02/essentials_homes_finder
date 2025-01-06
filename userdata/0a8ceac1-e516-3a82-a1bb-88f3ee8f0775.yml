@@ -1,0 +1,55 @@
+timestamps:
+  login: 1603819114174
+  lastteleport: 1603824284521
+  logout: 1603824337325
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4804.52989705533
+  y: 64.0
+  z: -2683.8993804051097
+  yaw: -322.4422302246094
+  pitch: 47.405311584472656
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 3801.241420474967
+    y: 72.0
+    z: 5456.801358537826
+    yaw: 61.163917541503906
+    pitch: 17.17475128173828
+    world-name: ''
+  base2:
+    world: world
+    x: 5516.2090703678605
+    y: 74.0
+    z: -4356.900311782257
+    yaw: -92.043701171875
+    pitch: 43.53422164916992
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3799.033620493569
+  y: 71.5
+  z: 5455.952065454117
+  yaw: -322.82672119140625
+  pitch: 54.871036529541016
+  world-name: ''
+ip-address: 2.10.132.149
+last-account-name: RPG_soviati
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

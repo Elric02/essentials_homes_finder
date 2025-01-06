@@ -1,0 +1,38 @@
+timestamps:
+  login: 1619197954688
+  logout: 1619197961617
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.01996346961212
+  y: 63.0
+  z: -15.168230594230591
+  yaw: 212.49588012695312
+  pitch: 26.790647506713867
+  world-name: ''
+ip-address: 77.135.115.79
+last-account-name: LaChevreDePaul
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

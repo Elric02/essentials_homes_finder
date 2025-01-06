@@ -1,0 +1,47 @@
+timestamps:
+  login: 1501793443315
+  lastteleport: 1501446562409
+  logout: 1501795363463
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -879.395069454094
+  y: 41.0
+  z: 139.41697130843176
+  yaw: 185.191162109375
+  pitch: 37.64984893798828
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1015.7900776442184
+  y: 63.5
+  z: 131.75690048649187
+  yaw: 330.32958984375
+  pitch: 51.000396728515625
+  world-name: ''
+afk: false
+muted: false
+homes:
+  home:
+    world: world
+    x: -882.1876726784061
+    y: 70.0
+    z: 152.3008495979984
+    yaw: -2.77490234375
+    pitch: 11.617233276367188
+    world-name: ''
+ip-address: 193.250.55.151
+last-account-name: matis33
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

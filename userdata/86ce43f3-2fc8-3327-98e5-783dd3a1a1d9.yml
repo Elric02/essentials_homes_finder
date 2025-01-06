@@ -1,0 +1,63 @@
+timestamps:
+  login: 1532511794498
+  lastteleport: 1532446122649
+  logout: 1532513898453
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1558.300000011921
+  y: 53.0
+  z: -2175.699999988079
+  yaw: -243.52288818359375
+  pitch: 22.349998474121094
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 143.77524258235425
+  y: 64.0
+  z: 17.220875640019152
+  yaw: -201.32086181640625
+  pitch: 13.228668212890625
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 3431.8708115377867
+    y: 62.0
+    z: -2602.462701956841
+    yaw: -151.49847412109375
+    pitch: 4.649965286254883
+    world-name: ''
+  homenatura:
+    world: world
+    x: -4997.990285436035
+    y: 71.0
+    z: -499.91497321787
+    yaw: 10.77743148803711
+    pitch: 23.399927139282227
+    world-name: ''
+  blague:
+    world: world
+    x: -340.11286980399825
+    y: 83.0
+    z: -3773.4196068147166
+    yaw: -5.7330322265625
+    pitch: 14.999972343444824
+    world-name: ''
+ip-address: 212.195.84.38
+last-account-name: Roans
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

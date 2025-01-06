@@ -1,0 +1,47 @@
+timestamps:
+  login: 1499314060992
+  lastteleport: 1483289933234
+  logout: 1499314344562
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 162.47531853840027
+  y: 10.0
+  z: 29.740052419900852
+  yaw: 1.04949951171875
+  pitch: 10.199966430664062
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -3178.4908869761075
+    y: 57.0
+    z: -1045.8311147828
+    yaw: -176.564208984375
+    pitch: 18.900104522705078
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -3178.4055726350416
+  y: 57.0
+  z: -1044.1648474664855
+  yaw: -352.2132873535156
+  pitch: 6.7501301765441895
+  world-name: ''
+ip-address: 82.122.83.148
+last-account-name: MrSergent
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

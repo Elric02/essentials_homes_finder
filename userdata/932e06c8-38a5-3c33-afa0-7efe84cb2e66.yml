@@ -1,0 +1,38 @@
+timestamps:
+  login: 1596394077306
+  lastteleport: 1596394262067
+  logout: 1596394455667
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.15466725290932
+  y: 63.0
+  z: 65.55168728043232
+  yaw: 198.69686889648438
+  pitch: 0.6906508803367615
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -594.0890638466041
+  y: 70.0
+  z: -527.726248812641
+  yaw: -183.14556884765625
+  pitch: 10.19958782196045
+  world-name: ''
+ip-address: 109.18.103.41
+last-account-name: anthodu02
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1501950378752
+  lastteleport: 1501848288925
+  logout: 1501950409971
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.5628579647919
+  y: 66.0
+  z: 43.95883775097664
+  yaw: -6.647476673126221
+  pitch: -8.002602577209473
+  world-name: ''
+logoutlocation:
+  world: world_nether
+  x: -4500.315880846884
+  y: 53.0
+  z: 5676.39819654923
+  yaw: -114.32308197021484
+  pitch: 52.13185501098633
+  world-name: ''
+ip-address: 90.40.8.82
+last-account-name: Pokegroudon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

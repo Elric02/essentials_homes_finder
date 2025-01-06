@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492712151701
+  logout: 1492712185937
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.044563766486114
+  yaw: -29.297332763671875
+  pitch: 19.349998474121094
+  world-name: ''
+ip-address: 176.145.108.164
+last-account-name: ninigdn74150
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

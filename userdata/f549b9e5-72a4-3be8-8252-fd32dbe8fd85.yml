@@ -1,0 +1,47 @@
+timestamps:
+  login: 1549448157866
+  logout: 1549448188442
+  lastteleport: 1532634248876
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: -1926.5888525544844
+  y: 1.0
+  z: -2097.4632191109827
+  yaw: -239.5537872314453
+  pitch: 6.139956474304199
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 939.4281838472576
+  y: 93.0
+  z: -1068.677261578273
+  yaw: -279.9937438964844
+  pitch: 24.91749382019043
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: 935.8975948763087
+    y: 104.0
+    z: -1044.7033492710239
+    yaw: -182.911376953125
+    pitch: 4.199970245361328
+    world-name: ''
+afk: false
+ip-address: 86.217.237.107
+last-account-name: BreakShirt
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.184.201.252
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1647456583949
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1647456746424
+  login: 1647456566859
+money: '0'
+last-account-name: fockssxe
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 159.45836815530757
+  y: 67.0
+  z: 102.743484047137
+  yaw: 142.44683837890625
+  pitch: 29.940601348876953
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1297.8143116749611
+  y: 40.0
+  z: -7209.831735251051
+  yaw: 6.331406593322754
+  pitch: 25.800817489624023

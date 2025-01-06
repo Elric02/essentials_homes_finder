@@ -1,0 +1,38 @@
+timestamps:
+  login: 1534716846173
+  lastteleport: 1534717347273
+  logout: 1534717360416
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -3.0341343546280672
+  y: 89.5
+  z: 12.13618605319645
+  yaw: -179.2423553466797
+  pitch: 33.353328704833984
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.4695589686744
+  y: 64.0
+  z: 18.67594659202266
+  yaw: -180.7708282470703
+  pitch: -3.5713305473327637
+  world-name: ''
+ip-address: 86.219.56.148
+last-account-name: Jurch
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1594041354489
+  logout: 1594041627041
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.98160422455135
+  y: 65.0
+  z: 75.4505882148985
+  yaw: -187.25177001953125
+  pitch: 5.040637493133545
+  world-name: ''
+ip-address: 91.68.59.40
+last-account-name: crazysasa06
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

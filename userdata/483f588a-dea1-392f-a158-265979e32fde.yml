@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509453954238
+  lastteleport: 1509454006638
+  logout: 1509454113057
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.90956664622317
+  y: 63.0
+  z: 57.49023196718318
+  yaw: -23.00775146484375
+  pitch: -2.9245893955230713
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -25.194816196747443
+  y: 66.0
+  z: 98.24340816744588
+  yaw: -124.67544555664062
+  pitch: 11.755306243896484
+  world-name: ''
+ip-address: 82.232.221.84
+last-account-name: thomas40
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1608063437791
+  lastteleport: 1608067456789
+  logout: 1608067458441
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -1330.300000011921
+  y: 12.0
+  z: -1270.300000011921
+  yaw: 123.59808349609375
+  pitch: 32.85050964355469
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 5800.440092468527
+    y: 18.0
+    z: 5201.695712736275
+    yaw: 202.26446533203125
+    pitch: 11.249659538269043
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5800.5
+  y: 18.0
+  z: 5201.5
+  yaw: 202.26446533203125
+  pitch: 11.249659538269043
+  world-name: ''
+ip-address: 77.205.166.35
+last-account-name: LeGameurFou57
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

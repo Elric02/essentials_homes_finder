@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480751191105
+  lastteleport: 1480751648083
+  logout: 1480753274437
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.07950996433738
+  y: 28.0
+  z: 21.679082422490858
+  yaw: -14.7771635055542
+  pitch: 5.84158992767334
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 145.6085344011338
+  y: 64.0
+  z: 18.179815670501746
+  yaw: -102.06092834472656
+  pitch: 15.474518775939941
+  world-name: ''
+ip-address: 92.134.210.72
+last-account-name: maxwel31
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

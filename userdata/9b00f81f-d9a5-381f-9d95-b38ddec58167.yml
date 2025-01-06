@@ -1,0 +1,38 @@
+timestamps:
+  login: 1493818272864
+  logout: 1493818292397
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.3054665599589
+  y: 63.0
+  z: 49.203706821245824
+  yaw: -257.9332580566406
+  pitch: 0.7920843362808228
+  world-name: ''
+ip-address: 88.177.120.140
+last-account-name: FrosquiGames
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

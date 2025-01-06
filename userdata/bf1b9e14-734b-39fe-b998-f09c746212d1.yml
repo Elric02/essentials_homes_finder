@@ -1,0 +1,90 @@
+timestamps:
+  login: 1537494311437
+  lastteleport: 1537374086867
+  logout: 1537374260732
+  mute: 0
+  kits:
+    vip: 1519557614875
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6835.015671688052
+  y: 46.0
+  z: -3729.712343621885
+  yaw: -286.9583740234375
+  pitch: 9.89990234375
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6126.359180919036
+  y: 71.0
+  z: 2375.5117617451306
+  yaw: -90.95063018798828
+  pitch: 9.10811710357666
+  world-name: ''
+afk: true
+homes:
+  maison:
+    world: world
+    x: -3323.848052390358
+    y: 69.0
+    z: 2020.2569887532877
+    yaw: 295.19769287109375
+    pitch: 11.549978256225586
+    world-name: ''
+  vip:
+    world: world
+    x: -6680.346982670932
+    y: 91.0
+    z: -3780.4665710406716
+    yaw: 302.93084716796875
+    pitch: 21.449811935424805
+    world-name: ''
+  shop:
+    world: world
+    x: -4879.032366324832
+    y: 69.0
+    z: -371.38381509595496
+    yaw: -103.09912109375
+    pitch: 22.049606323242188
+    world-name: ''
+  arene:
+    world: Event
+    x: 9938.959501551308
+    y: 4.0
+    z: 214.9812945630367
+    yaw: 202.500244140625
+    pitch: 20.249937057495117
+    world-name: ''
+  sable:
+    world: Ressource
+    x: -6332.449957016149
+    y: 72.0
+    z: 5370.132282098678
+    yaw: -188.55014038085938
+    pitch: 32.99989318847656
+    world-name: ''
+  star:
+    world: world
+    x: 6127.359699874998
+    y: 71.0
+    z: 2373.872264871606
+    yaw: 262.59869384765625
+    pitch: -46.69193649291992
+    world-name: ''
+muted: false
+nickname: §aGign
+ip-address: 109.218.159.80
+last-account-name: gign_
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

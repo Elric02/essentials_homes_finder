@@ -1,0 +1,38 @@
+timestamps:
+  login: 1598963884020
+  lastteleport: 1598963945591
+  logout: 1598964022920
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -71.69999998807907
+  y: 66.0
+  z: 4.791196758782666
+  yaw: 51.426368713378906
+  pitch: 26.118122100830078
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 262.0313097744137
+  y: 139.0
+  z: 2326.851588617709
+  yaw: 92.77627563476562
+  pitch: 59.30166244506836
+  world-name: ''
+ip-address: 92.157.217.105
+last-account-name: jdfrkjd
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

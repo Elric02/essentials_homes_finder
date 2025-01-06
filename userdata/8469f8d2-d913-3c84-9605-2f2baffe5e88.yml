@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472202484195
+  lastteleport: 1469729619665
+  logout: 1472202696708
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 120.98496907169874
+  y: 63.0
+  z: -35.41043303042749
+  yaw: -220.49725341796875
+  pitch: 31.349992752075195
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -157.3750100128588
+  y: 64.0
+  z: -38.35464866698789
+  yaw: 92.83135223388672
+  pitch: 13.20000171661377
+  world-name: ''
+ip-address: 78.228.86.170
+last-account-name: TheKilleur95PvP
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

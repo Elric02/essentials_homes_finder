@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.209.34.130
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1641995540356
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643652284866
+  login: 1643652236372
+money: '0'
+last-account-name: Ninja_Unreal
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 149.858099330477
+  y: 63.0
+  z: 44.48471676461853
+  yaw: -314.8252258300781
+  pitch: -0.9135475754737854
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 191.85203347589888
+  y: 64.1875
+  z: 21.78592420051074
+  yaw: 81.04251098632812
+  pitch: -7.445230960845947

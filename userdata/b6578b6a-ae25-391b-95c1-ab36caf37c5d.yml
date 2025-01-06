@@ -1,0 +1,63 @@
+timestamps:
+  login: 1703623446827
+  logout: 1703623451388
+  lastteleport: 1699134174469
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 311.48040420017315
+  y: 89.0
+  z: -326.55846344240047
+  yaw: -92.87939453125
+  pitch: 26.099884033203125
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 309.69999998807907
+  y: 78.0
+  z: -321.88367384563617
+  yaw: -49.49258804321289
+  pitch: -6.160800933837891
+  world-name: world
+homes:
+  a:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 300.5675217491378
+    y: 77.0
+    z: -319.38010203072827
+    yaw: -156.32960510253906
+    pitch: 13.295858383178711
+    world-name: world
+  b:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 282.69999998807907
+    y: 72.0
+    z: -352.30000001192093
+    yaw: -289.34259033203125
+    pitch: 33.28919982910156
+    world-name: world
+  c:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 325.69999998807907
+    y: 53.0
+    z: -345.69999998807907
+    yaw: -287.42828369140625
+    pitch: 35.64583969116211
+    world-name: world
+money: '100.0'
+afk: false
+jailed: false
+ip-address: 86.210.249.143
+last-account-name: Medditor
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

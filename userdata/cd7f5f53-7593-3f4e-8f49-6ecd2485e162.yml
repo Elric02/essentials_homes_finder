@@ -1,0 +1,47 @@
+timestamps:
+  login: 1564430329579
+  lastteleport: 1564430564680
+  logout: 1564430693309
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.71671828851433
+  y: 64.0
+  z: 25.918699751474456
+  yaw: -133.86947631835938
+  pitch: 32.67575454711914
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -5108.462787037731
+    y: 67.0
+    z: -1397.5363207645526
+    yaw: 74.2147216796875
+    pitch: 43.18062973022461
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -5115.481077887534
+  y: 67.0
+  z: -1397.9707202485467
+  yaw: -93.70474243164062
+  pitch: -19.933931350708008
+  world-name: ''
+ip-address: 77.136.42.42
+last-account-name: SeynoK
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472455399203
+  logout: 1472455551585
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.46359237141067
+  y: 27.0
+  z: 20.295929312127573
+  yaw: -87.647216796875
+  pitch: 6.097404956817627
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.15929848738188
+  y: 64.0
+  z: 8.604214432627504
+  yaw: -308.89715576171875
+  pitch: -1.852595567703247
+  world-name: ''
+ip-address: 92.155.202.32
+last-account-name: Dark_PvP89
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.49.38.207
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635429687962
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635430766060
+  login: 1635429663078
+money: '0'
+last-account-name: R3YKun
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 148.25723034011492
+  y: 64.0
+  z: 20.6131487892445
+  yaw: -326.5599060058594
+  pitch: 8.489686965942383
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 157.29754116996276
+  y: 64.0
+  z: 20.003249478430988
+  yaw: -260.15460205078125
+  pitch: 5.034328460693359

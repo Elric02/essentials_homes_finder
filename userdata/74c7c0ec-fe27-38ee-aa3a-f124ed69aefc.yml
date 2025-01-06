@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488044312953
+  logout: 1488044404801
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 162.7529145494762
+  y: 64.0
+  z: 19.834728569989057
+  yaw: 59.20257568359375
+  pitch: -0.14999696612358093
+  world-name: ''
+ip-address: 94.111.238.169
+last-account-name: Kaffword
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

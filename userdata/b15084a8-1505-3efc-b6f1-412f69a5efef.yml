@@ -1,0 +1,38 @@
+timestamps:
+  login: 1564428036659
+  lastteleport: 1564429447372
+  logout: 1564430873596
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.26473960029557
+  y: 64.0
+  z: 17.629719662681786
+  yaw: -36.92085647583008
+  pitch: 8.578673362731934
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -5095.750567286808
+  y: 72.0
+  z: -1401.5446034151937
+  yaw: 194.110107421875
+  pitch: 38.399993896484375
+  world-name: ''
+ip-address: 90.19.120.101
+last-account-name: AlteK41
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

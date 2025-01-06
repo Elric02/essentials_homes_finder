@@ -1,0 +1,38 @@
+timestamps:
+  login: 1612525611755
+  lastteleport: 1612525854145
+  logout: 1612526160752
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1459.2208161820954
+  y: 74.0
+  z: -2169.699999988079
+  yaw: -206.76953125
+  pitch: 25.9500675201416
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -157.646159866636
+  y: 55.0
+  z: 568.5052615521408
+  yaw: -292.40057373046875
+  pitch: 16.350095748901367
+  world-name: ''
+ip-address: 14.207.41.125
+last-account-name: VincedoubleO
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

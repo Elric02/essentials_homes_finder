@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468240543137
+  logout: 1468240627523
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 143.05930292148827
+  y: 63.0
+  z: 7.816787317586575
+  yaw: -235.4971923828125
+  pitch: 3.824181318283081
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 164.82475408976697
+  y: 150.0
+  z: -121.62637924330082
+  yaw: 52.9541015625
+  pitch: 53.47416305541992
+  world-name: ''
+ip-address: 86.215.105.219
+last-account-name: maximusraven14
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

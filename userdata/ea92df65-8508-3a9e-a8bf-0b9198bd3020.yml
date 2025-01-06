@@ -1,0 +1,60 @@
+timestamps:
+  login: 1648265364182
+  lastteleport: 1648266131593
+  logout: 1648266579335
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1187.3779817105324
+  y: 68.0
+  z: -7211.694161875223
+  yaw: -62.67645263671875
+  pitch: 65.70018768310547
+  world-name: world
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1297.555506598781
+  y: 40.0
+  z: -7217.348466928774
+  yaw: -41.16802978515625
+  pitch: 22.353565216064453
+  world-name: world
+afk: false
+homes:
+  spawnerend:
+    world: cd3daf9d-04dc-408c-bdc6-10a1187cb230
+    x: -289.5358414348917
+    y: 1.0
+    z: 743.3022091521052
+    yaw: 2.279567003250122
+    pitch: 4.949651718139648
+    world-name: End
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1282.300000011921
+    y: 40.0
+    z: -7218.493770248287
+    yaw: -89.9500503540039
+    pitch: 2.6457756757736206E-4
+    world-name: world
+ip-address: 176.191.75.180
+last-account-name: Dokkaebi707
+mail:
+- legacy: true
+  read: true
+  message: §e[§relriclespiques§e] §rSalut, j'ai mis ta récompense pour les 150 votes
+    à ton /home home. Merci encore ;)
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

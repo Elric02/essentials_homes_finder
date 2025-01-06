@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486829001144
+  logout: 1486829533729
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 69.34603511341257
+  y: 64.0
+  z: 47.018921724687885
+  yaw: -139.997314453125
+  pitch: 40.44743728637695
+  world-name: ''
+ip-address: 213.55.30.85
+last-account-name: SuperNono
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

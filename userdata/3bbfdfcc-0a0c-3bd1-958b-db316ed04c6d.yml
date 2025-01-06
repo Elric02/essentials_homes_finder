@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487017820453
+  logout: 1487019019709
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 194.39777177721567
+  y: 63.5
+  z: 17.44054911273891
+  yaw: -122.2364501953125
+  pitch: -31.017601013183594
+  world-name: ''
+ip-address: 86.223.116.57
+last-account-name: diablo89310
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

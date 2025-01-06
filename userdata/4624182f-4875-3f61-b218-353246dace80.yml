@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485006670236
+  logout: 1485006812493
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world_the_end
+  x: 43.433712824051824
+  y: 58.0
+  z: -34.14816927478563
+  yaw: -39.075347900390625
+  pitch: 17.987964630126953
+  world-name: ''
+ip-address: 95.131.19.126
+last-account-name: kiwiki76
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

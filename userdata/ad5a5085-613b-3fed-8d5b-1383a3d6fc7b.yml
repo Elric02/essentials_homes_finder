@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.176.103.12
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1692194023463
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1692194425111
+  login: 1692189665660
+money: '200.0'
+last-account-name: constantinyr
+lastlocation:
+  world: 72904504-567d-4815-8388-f0d7ca583f74
+  world-name: Ressource
+  x: -1.8564197250812515
+  y: 90.0
+  z: 2.198585545918976
+  yaw: -104.9853515625
+  pitch: -31.325681686401367
+logoutlocation:
+  world: 72904504-567d-4815-8388-f0d7ca583f74
+  world-name: Ressource
+  x: -2071.0863094036013
+  y: 62.19849978979411
+  z: -1162.2910398978886
+  yaw: 152.5458984375
+  pitch: 27.016822814941406

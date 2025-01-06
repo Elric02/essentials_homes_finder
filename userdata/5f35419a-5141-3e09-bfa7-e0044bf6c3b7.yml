@@ -1,0 +1,63 @@
+timestamps:
+  login: 1517520091725
+  lastteleport: 1512818479861
+  logout: 1517520105870
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6383.805687621069
+  y: 79.0
+  z: 457.37571572034864
+  yaw: -193.87139892578125
+  pitch: 10.263761520385742
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 6270.576227194321
+    y: 62.0
+    z: 1703.529660702145
+    yaw: -77.57070922851562
+    pitch: 10.897782325744629
+    world-name: ''
+  nether:
+    world: world_nether
+    x: -93.73583885876083
+    y: 85.0
+    z: 466.416103462563
+    yaw: 162.38465881347656
+    pitch: 36.78063201904297
+    world-name: ''
+  mine:
+    world: world
+    x: -2965.699999988079
+    y: 13.0
+    z: -2141.699999988079
+    yaw: 326.1604309082031
+    pitch: 18.913864135742188
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4106.699999988079
+  y: 69.0
+  z: -891.2182609515726
+  yaw: -55.44218826293945
+  pitch: 10.676763534545898
+  world-name: ''
+afk: false
+ip-address: 88.180.16.200
+last-account-name: tutur8
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

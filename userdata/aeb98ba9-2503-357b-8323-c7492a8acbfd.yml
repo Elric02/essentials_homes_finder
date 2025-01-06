@@ -1,0 +1,38 @@
+timestamps:
+  login: 1622661203910
+  logout: 1622661326886
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -24.699999988079075
+  y: 73.0
+  z: -32.300000011920936
+  yaw: 43.146568298339844
+  pitch: 21.990636825561523
+  world-name: ''
+ip-address: 176.130.53.149
+last-account-name: Mendez
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

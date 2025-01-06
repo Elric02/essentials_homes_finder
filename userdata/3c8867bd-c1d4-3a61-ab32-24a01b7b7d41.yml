@@ -1,0 +1,63 @@
+timestamps:
+  login: 1477492495150
+  logout: 1477492507566
+  lastteleport: 1473944012916
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.6668957495277
+  y: 28.0
+  z: 19.94573499911845
+  yaw: 132.81390380859375
+  pitch: 12.470243453979492
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3721.6248980212645
+  y: 65.0
+  z: 1787.6508951305477
+  yaw: 119.93954467773438
+  pitch: 10.313460350036621
+  world-name: ''
+homes:
+  village:
+    world: world
+    x: 2708.699461338412
+    y: 70.0
+    z: -6587.358974455561
+    yaw: 250.28968811035156
+    pitch: 23.84441375732422
+    world-name: ''
+  temple:
+    world: world
+    x: -3067.802506735639
+    y: 65.0
+    z: 1848.1491904888442
+    yaw: 355.36065673828125
+    pitch: 16.00538444519043
+    world-name: ''
+  base:
+    world: world
+    x: -3708.3071239948767
+    y: 64.0
+    z: 1809.0238339368236
+    yaw: 300.26007080078125
+    pitch: 2.1601972579956055
+    world-name: ''
+afk: false
+ip-address: 77.207.31.252
+last-account-name: Thxmvs
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

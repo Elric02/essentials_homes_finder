@@ -1,0 +1,63 @@
+timestamps:
+  login: 1509564328864
+  lastteleport: 1509565779506
+  logout: 1509565965769
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -172.9800567626953
+  pitch: 6.8231658935546875
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 2425.291429229725
+    y: 72.0
+    z: -6201.296300212947
+    yaw: -325.40673828125
+    pitch: 18.77252197265625
+    world-name: ''
+  attack:
+    world: world
+    x: 5451.54580754688
+    y: 94.0
+    z: -1198.814227165298
+    yaw: 260.1455078125
+    pitch: 43.543663024902344
+    world-name: ''
+  love:
+    world: Ressource
+    x: 3638.6641949111877
+    y: 87.5
+    z: 6402.789651123621
+    yaw: 76.1466064453125
+    pitch: 11.991500854492188
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 2442.1522472424385
+  y: 68.0
+  z: -6181.06023480551
+  yaw: 43.38301467895508
+  pitch: 20.707046508789062
+  world-name: ''
+ip-address: 2.8.20.190
+last-account-name: PrincessZoe85
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

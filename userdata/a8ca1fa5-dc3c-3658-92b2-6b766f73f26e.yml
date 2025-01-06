@@ -1,0 +1,38 @@
+timestamps:
+  login: 1497206504573
+  lastteleport: 1497206725329
+  logout: 1497206779584
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3945.699999988079
+  y: 72.63588500535488
+  z: 2760.300000011921
+  yaw: 187.20005798339844
+  pitch: 11.549981117248535
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 147.94055375488787
+  y: 64.0
+  z: 11.15153203454981
+  yaw: -145.86090087890625
+  pitch: 21.024505615234375
+  world-name: ''
+ip-address: 91.86.48.70
+last-account-name: wolfy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

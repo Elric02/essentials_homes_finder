@@ -1,0 +1,38 @@
+timestamps:
+  login: 1608231762600
+  lastteleport: 1608231831246
+  logout: 1616359089240
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 146.48481529065688
+  y: 63.0
+  z: 45.63302923205862
+  yaw: -121.89569091796875
+  pitch: 20.825881958007812
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.54243561200454
+  y: 64.0
+  z: 28.719785245898453
+  yaw: -144.54542541503906
+  pitch: -19.049991607666016
+  world-name: ''
+money: '0'
+ip-address: 77.141.93.217
+last-account-name: kaniat
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

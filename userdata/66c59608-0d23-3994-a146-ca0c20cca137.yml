@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.50.251.30
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1677356173236
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677356211059
+  login: 1677356139006
+money: '0'
+last-account-name: GamerLePlusFou
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 144.49650826778483
+  y: 63.0
+  z: -21.011927025552502
+  yaw: 138.6151885986328
+  pitch: 9.600299835205078
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 446.97513570210384
+  y: 64.0
+  z: -4259.637024019144
+  yaw: -87.43438720703125
+  pitch: 28.20025634765625

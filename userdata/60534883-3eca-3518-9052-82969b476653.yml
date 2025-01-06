@@ -1,0 +1,38 @@
+timestamps:
+  login: 1578590481827
+  lastteleport: 1578593341454
+  logout: 1578593567168
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2413.436646566449
+  y: 72.0
+  z: 1913.4676147365992
+  yaw: -105.8319091796875
+  pitch: 6.149998664855957
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 971.9155618891826
+  y: 63.0
+  z: 1055.4851120384992
+  yaw: -299.21636962890625
+  pitch: 16.799970626831055
+  world-name: ''
+afk: false
+money: '0'
+ip-address: 41.63.129.244
+last-account-name: Betty
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615482055096
+  lastteleport: 1615482274099
+  logout: 1615483548527
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 124.30000001192093
+  y: 62.0
+  z: 50.30264943382571
+  yaw: -112.69351196289062
+  pitch: 62.24126434326172
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -4853.300000011921
+  y: 71.0
+  z: -553.5363882975536
+  yaw: -204.03057861328125
+  pitch: 19.94529151916504
+  world-name: ''
+ip-address: 92.145.197.166
+last-account-name: WilTark
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

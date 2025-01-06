@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.65.134.133
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709372784179
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1710145793275
+  login: 1710145788618
+  kits:
+    creatif: 1709684807586
+money: '50.0'
+last-account-name: MERIDIEN
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -40.3344208152229
+  y: 65.0
+  z: 55.73941625205831
+  yaw: -24.150346755981445
+  pitch: -4.649977207183838
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -256.3265809818981
+  y: 65.05651581022234
+  z: -309.67571155432654
+  yaw: -176.2626953125
+  pitch: 9.749669075012207

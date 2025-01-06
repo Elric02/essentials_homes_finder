@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.65.96.41
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1645123512764
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1645128497707
+  login: 1645127987940
+money: '0'
+last-account-name: Sennin_kame
+lastlocation:
+  world: 27d75173-7a5e-49c7-9e35-856f6c1d3e3c
+  world-name: Ressource
+  x: 1939.699999988079
+  y: 39.0
+  z: -2366.699999988079
+  yaw: -142.075439453125
+  pitch: 46.34984588623047
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 19.308237446701693
+  y: 25.0
+  z: 72.38847573342859
+  yaw: -85.99560546875
+  pitch: -16.1994686126709

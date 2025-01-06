@@ -1,0 +1,38 @@
+timestamps:
+  login: 1540226742762
+  lastteleport: 1539601498404
+  logout: 1540227253236
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.76319419880053
+  y: 64.0
+  z: 10.810897289031049
+  yaw: -175.2808074951172
+  pitch: 1.8608629703521729
+  world-name: ''
+logoutlocation:
+  world: Event
+  x: -7579.751414346555
+  y: 15.0
+  z: -7722.502717753425
+  yaw: 275.03582763671875
+  pitch: 25.458627700805664
+  world-name: ''
+money: '0'
+ip-address: 86.245.254.102
+last-account-name: MSTY_LouFou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

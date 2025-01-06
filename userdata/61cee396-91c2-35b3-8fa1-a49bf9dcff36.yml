@@ -1,0 +1,195 @@
+timestamps:
+  login: 1736087114066
+  logout: 1736090081672
+  lastteleport: 1736089880622
+  mute: 0
+  kits:
+    color: 1736089143771
+    vip: 1736089142611
+    stationaute: 1736089148642
+  jail: 0
+  onlinejail: 0
+  lastheal: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1917.5272227253508
+  y: 132.34033767610038
+  z: -3327.3972431103202
+  yaw: -9.422210693359375
+  pitch: 48.79340744018555
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 2787.224175630917
+  y: 102.0
+  z: -4126.5940359576525
+  yaw: 8.726226806640625
+  pitch: 24.79326629638672
+  world-name: world
+money: '-20470.12'
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4096.057626276817
+    y: 53.5
+    z: 3949.2962570718596
+    yaw: -179.2197723388672
+    pitch: 14.092935562133789
+    world-name: world
+  shop:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2779.1858105681667
+    y: 79.0
+    z: -75.47374513617073
+    yaw: -268.6999206542969
+    pitch: 18.763668060302734
+    world-name: world
+  beton:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 2792.380788853721
+    y: 64.0
+    z: -4259.807766486331
+    yaw: -179.6721954345703
+    pitch: 9.314192771911621
+    world-name: world
+  usine:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 2521.4354238685364
+    y: 72.0
+    z: -4247.454792743571
+    yaw: 88.37628173828125
+    pitch: 24.393877029418945
+    world-name: world
+  salou:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1012.0449844252986
+    y: 64.0
+    z: -2709.166587403185
+    yaw: 185.97862243652344
+    pitch: 23.022659301757812
+    world-name: world
+  fours:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 2734.5871813319527
+    y: 43.5
+    z: -4026.5198449495833
+    yaw: -270.4333190917969
+    pitch: 6.963886737823486
+    world-name: world
+  test:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    x: 325.5
+    y: 4.0
+    z: -173.5
+    yaw: 76.51316833496094
+    pitch: -10.0508451461792
+    world-name: Test
+  fer:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 2652.699999988079
+    y: 75.0
+    z: -3859.5230360681285
+    yaw: 89.68345642089844
+    pitch: -10.661527633666992
+    world-name: world
+  ferme:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 2845.4451436659615
+    y: 63.0
+    z: -4032.456543006029
+    yaw: 92.42744445800781
+    pitch: -1.4568673372268677
+    world-name: world
+  lulu:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6805.7000806091355
+    y: 32.0
+    z: -3882.0625311652775
+    yaw: -89.05731201171875
+    pitch: 10.465262413024902
+    world-name: world
+  aquarium:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 2435.424204217277
+    y: 40.0
+    z: -4124.247363453439
+    yaw: 178.3747100830078
+    pitch: 12.055907249450684
+    world-name: world
+  villageois:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 2488.5
+    y: 59.0
+    z: -4065.5
+    yaw: 180.99276733398438
+    pitch: 8.334762573242188
+    world-name: world
+  moorland:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 183.12642102870103
+    y: 64.0
+    z: -6511.137142871992
+    yaw: 346.388427734375
+    pitch: 22.35077476501465
+  manoir:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2948.023966788129
+    y: 75.0
+    z: -4277.02691253127
+    yaw: -90.03507232666016
+    pitch: 9.11808967590332
+  bandits:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7639.184294398883
+    y: 77.0
+    z: -2375.8754541198914
+    yaw: -180.1558837890625
+    pitch: 36.74993133544922
+  theemperor:
+    world: 6b791b62-b860-492a-aa67-db025bcd5247
+    world-name: world2
+    x: 2804.884666204613
+    y: 63.0
+    z: 352.5432964894706
+    yaw: 84.35427856445312
+    pitch: 12.149709701538086
+  citrouille:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2468.383219718042
+    y: 58.0
+    z: -4108.476933801249
+    yaw: 92.0390625
+    pitch: 6.600092887878418
+afk: false
+muted: false
+nickname: Thesimon59
+jailed: false
+socialspy: false
+ip-address: 81.49.177.166
+last-account-name: Thesimon59
+teleportenabled: true
+teleportauto: false
+godmode: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+mail:
+- legacy: false
+  read: true
+  message: Ton shop n18 a été vendu à oozemanV2, les 2k ont été transférés
+  sender-name: naturalizee
+  sender-uuid: cc702e34-b94b-3106-b41f-f357d3bf3dac
+  timestamp: 1665401483232
+  expire: 0
+- legacy: false
+  read: true
+  message: je tai vendu ton shop n.14, je te dois 2000$
+  sender-name: naturalizee
+  sender-uuid: cc702e34-b94b-3106-b41f-f357d3bf3dac
+  timestamp: 1642269640666
+  expire: 0

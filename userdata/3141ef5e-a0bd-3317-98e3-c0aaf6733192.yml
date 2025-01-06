@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.149.56.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1711771307330
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1711771992984
+  login: 1711767222847
+  kits:
+    stationaute: 1711768498691
+money: '650.0'
+last-account-name: BalooMCW
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 64.43765858799479
+  y: 94.0
+  z: 56.86250001192093
+  yaw: -161.838623046875
+  pitch: 42.000267028808594
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 2308.398747049327
+  y: 66.0
+  z: -871.6563321910746
+  yaw: -70.3465576171875
+  pitch: 15.450007438659668

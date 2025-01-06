@@ -1,0 +1,38 @@
+timestamps:
+  login: 1525711711547
+  logout: 1525711874852
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.76856743925285
+  y: 67.0
+  z: 102.79956594784034
+  yaw: -48.8031120300293
+  pitch: 36.84062957763672
+  world-name: ''
+ip-address: 90.63.61.185
+last-account-name: JandJ_II
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

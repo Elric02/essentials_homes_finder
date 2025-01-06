@@ -1,0 +1,38 @@
+timestamps:
+  login: 1591905793173
+  lastteleport: 1591907278166
+  logout: 1591909844251
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3086.628039577885
+  y: 55.0
+  z: -5141.337077420056
+  yaw: -3.600830078125
+  pitch: -17.69981575012207
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3080.699999988079
+  y: 59.0
+  z: -5142.306123944066
+  yaw: -277.64971923828125
+  pitch: 4.949202537536621
+  world-name: ''
+afk: false
+ip-address: 90.70.128.9
+last-account-name: papamamane
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479062678486
+  lastteleport: 1479062812658
+  logout: 1479063025511
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 171.3870440683505
+  y: 130.0
+  z: -123.59872166196337
+  yaw: -137.46444702148438
+  pitch: 32.39998245239258
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4310.323016731824
+  y: 60.0
+  z: -3315.5684689004574
+  yaw: -177.89959716796875
+  pitch: 86.24996185302734
+  world-name: ''
+ip-address: 217.15.236.212
+last-account-name: SirJoey_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

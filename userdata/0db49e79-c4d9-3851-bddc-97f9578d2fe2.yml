@@ -1,0 +1,63 @@
+timestamps:
+  login: 1504693623514
+  lastteleport: 1504693523241
+  logout: 1504693643881
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5918.973847905988
+  y: 64.0
+  z: 248.62104825523778
+  yaw: -80.85002899169922
+  pitch: 24.45000648498535
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: -5631.5655093872665
+    y: 72.0
+    z: 2040.466213829061
+    yaw: 180.49964904785156
+    pitch: 6.449901580810547
+    world-name: ''
+  build:
+    world: world
+    x: 6326.922491590997
+    y: 97.0
+    z: 5406.292712821618
+    yaw: -143.24853515625
+    pitch: 17.24993896484375
+    world-name: ''
+  aide:
+    world: world
+    x: -6677.620129217647
+    y: 70.0
+    z: -3816.9845103242496
+    yaw: -187.68186950683594
+    pitch: 24.44999885559082
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 6330.185150018444
+  y: 97.0
+  z: 5405.691475301151
+  yaw: -144.14852905273438
+  pitch: 21.149938583374023
+  world-name: ''
+ip-address: 72.11.184.77
+last-account-name: jakethesnake01
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

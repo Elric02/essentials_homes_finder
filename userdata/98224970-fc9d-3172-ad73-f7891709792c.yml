@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500456673025
+  lastteleport: 1500456933752
+  logout: 1500456949209
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4612.603528472154
+  y: 63.0
+  z: -3709.617763320879
+  yaw: -83.3270263671875
+  pitch: 15.137734413146973
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.49582226202438
+  y: 64.0
+  z: 16.574886028154673
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+ip-address: 82.240.136.20
+last-account-name: SplashWear
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1577645210325
+  logout: 1577647065669
+  lastteleport: 1577639303832
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -662.4335740420681
+  y: 65.0
+  z: -858.5064192682415
+  yaw: -311.099365234375
+  pitch: 12.300024032592773
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 862.5708561367918
+  y: 64.0
+  z: -1660.3159801583024
+  yaw: -31.94980239868164
+  pitch: 33.90003204345703
+  world-name: ''
+money: '0'
+homes:
+  poupoune:
+    world: world
+    x: 154.5
+    y: 64.0
+    z: 24.5
+    yaw: -180.62083435058594
+    pitch: 1.97866952419281
+    world-name: ''
+  home:
+    world: Ressource
+    x: 541.3635079049413
+    y: 65.0
+    z: -1205.5014118985175
+    yaw: 91.34957885742188
+    pitch: 5.250073432922363
+    world-name: ''
+afk: false
+ip-address: 92.134.118.22
+last-account-name: poupoune
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

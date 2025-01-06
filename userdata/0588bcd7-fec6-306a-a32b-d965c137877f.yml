@@ -1,0 +1,38 @@
+timestamps:
+  login: 1588277720546
+  logout: 1588277748108
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 149.2769461583422
+  y: 66.0
+  z: 103.13087735849125
+  yaw: 108.39683532714844
+  pitch: 23.04059600830078
+  world-name: ''
+ip-address: 90.35.40.223
+last-account-name: Le_Fenec_Tueur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

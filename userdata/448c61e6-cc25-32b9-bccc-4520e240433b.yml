@@ -1,0 +1,63 @@
+timestamps:
+  login: 1502271698176
+  lastteleport: 1502273976494
+  logout: 1502274004813
+  jail: 0
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: 15.992633907200162
+  y: 56.5
+  z: -297.95327700898054
+  yaw: 258.709716796875
+  pitch: 6.150014877319336
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -1070.2966167524417
+    y: 64.0
+    z: -2106.587533661471
+    yaw: 179.3046875
+    pitch: 3.0000452995300293
+    world-name: ''
+  xp:
+    world: world_the_end
+    x: 24.76249998807907
+    y: 57.0
+    z: -292.678757594987
+    yaw: 98.511474609375
+    pitch: 9.300008773803711
+    world-name: ''
+  lol:
+    world: world_the_end
+    x: 25.13664595284536
+    y: 91.0
+    z: -287.7314592104429
+    yaw: 124.46148681640625
+    pitch: 27.749982833862305
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 161.54835971817246
+  y: 64.0
+  z: 27.074216386873267
+  yaw: -89.76092529296875
+  pitch: 4.374513149261475
+  world-name: ''
+jailed: false
+muted: false
+ip-address: 81.66.105.65
+last-account-name: simonp1410
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1593631524069
+  lastteleport: 1593632401686
+  logout: 1593633386340
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -102.50216932754985
+  y: 66.0
+  z: -2.9582293498434504
+  yaw: -242.8358154296875
+  pitch: 37.80049514770508
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5531.745348709848
+  y: 58.0
+  z: 1060.312680234553
+  yaw: 157.5000762939453
+  pitch: 36.149757385253906
+  world-name: ''
+ip-address: 91.69.74.19
+last-account-name: Gabifaa
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

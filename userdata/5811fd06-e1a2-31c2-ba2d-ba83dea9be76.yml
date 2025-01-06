@@ -1,0 +1,38 @@
+timestamps:
+  login: 1686500520874
+  lastteleport: 1594123225931
+  logout: 1686500566976
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 68.03178893379969
+  y: 59.375
+  z: 16.68612644429509
+  yaw: 53.197540283203125
+  pitch: 12.599893569946289
+  world-name: ''
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 68.30000001192093
+  y: 63.0
+  z: 51.698100413372664
+  yaw: 112.16089630126953
+  pitch: 28.727750778198242
+  world-name: world
+money: '0'
+ip-address: 82.120.165.154
+last-account-name: blaise374
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

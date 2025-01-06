@@ -1,0 +1,38 @@
+timestamps:
+  login: 1562111120709
+  lastteleport: 1562111426768
+  logout: 1562111514960
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.301566276655
+  y: 65.0
+  z: 82.76220930357721
+  yaw: -278.5703430175781
+  pitch: 4.678670883178711
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -209.72442820419812
+  y: 47.0
+  z: 485.078821420095
+  yaw: 272.9468994140625
+  pitch: 14.39999008178711
+  world-name: ''
+money: '0'
+ip-address: 41.100.114.60
+last-account-name: spider
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

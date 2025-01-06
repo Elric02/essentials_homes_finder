@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490286694060
+  logout: 1490286725689
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.9307484495285
+  y: 63.0
+  z: 43.27794880951889
+  yaw: -0.488525390625
+  pitch: 23.54998779296875
+  world-name: ''
+ip-address: 81.242.108.179
+last-account-name: DarkFire9458
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

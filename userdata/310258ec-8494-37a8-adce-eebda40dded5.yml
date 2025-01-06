@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.90.236.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1662754405224
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1679516014594
+  login: 1679515995341
+  kits:
+    debutant: 1662755312179
+money: '0'
+last-account-name: Loickdu92
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 107.37101897928139
+  y: 63.0
+  z: -2.983267479395152
+  yaw: -131.4913787841797
+  pitch: 25.207094192504883
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 107.36761464567225
+  y: 63.0
+  z: -2.9802572339781412
+  yaw: -131.4913787841797
+  pitch: 25.207094192504883

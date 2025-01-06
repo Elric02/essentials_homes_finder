@@ -1,0 +1,38 @@
+timestamps:
+  login: 1497318240088
+  lastteleport: 1497319329556
+  logout: 1497319333960
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -34.66607942264888
+  y: 63.0
+  z: -14.882791883727865
+  yaw: -93.78680419921875
+  pitch: -7.166903495788574
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.48137522824982
+  y: 64.0
+  z: 28.48889162272795
+  yaw: -182.61093139648438
+  pitch: 11.574516296386719
+  world-name: ''
+ip-address: 86.237.223.173
+last-account-name: Tartiflette
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

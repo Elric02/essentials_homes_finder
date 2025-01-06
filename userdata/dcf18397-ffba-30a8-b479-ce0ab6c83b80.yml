@@ -1,0 +1,38 @@
+timestamps:
+  login: 1524843513440
+  logout: 1524843602400
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 68.21424762428666
+  y: 63.0
+  z: -12.74575046635634
+  yaw: -256.71728515625
+  pitch: 12.3709135055542
+  world-name: ''
+ip-address: 176.165.19.9
+last-account-name: Hakro_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

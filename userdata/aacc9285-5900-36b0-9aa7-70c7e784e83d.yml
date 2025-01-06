@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 160.176.21.59
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663168007113
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663168141380
+  login: 1663167645920
+money: '0'
+last-account-name: Shadow_night
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -4049.699999988079
+  y: 96.1875
+  z: -7755.699999988079
+  yaw: 168.1702880859375
+  pitch: 11.849985122680664
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 415.74744003496954
+  y: 80.5
+  z: -3088.994876504826
+  yaw: -175.9498291015625
+  pitch: 14.100010871887207

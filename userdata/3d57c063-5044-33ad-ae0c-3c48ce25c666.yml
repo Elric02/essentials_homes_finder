@@ -1,0 +1,52 @@
+timestamps:
+  login: 1540038860117
+  lastteleport: 1540040350728
+  logout: 1540040380952
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1774.2709475776473
+  y: 71.0
+  z: -6892.562829652878
+  yaw: 153.20152282714844
+  pitch: 24.299970626831055
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -614.1448144349872
+  y: 70.5
+  z: -740.4132311583782
+  yaw: 47.30259323120117
+  pitch: 70.07636260986328
+  world-name: ''
+afk: false
+homes:
+  base:
+    world: world
+    x: -1780.888687287312
+    y: 70.0
+    z: -6890.008501438881
+    yaw: 142.40113830566406
+    pitch: 24.599885940551758
+    world-name: ''
+muted: false
+ip-address: 91.161.52.148
+last-account-name: MaximeGTA
+mail:
+- legacy: true
+  read: false
+  message: §e[§rLulu_LT§e] §rquand tu va me rmboursé pour ton shop j'attends je t'ai
+    prêtez des sous je te rappel tu prends du temps a me remboursé
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617305133706
+  logout: 1617305258220
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.72252790137767
+  y: 63.0
+  z: 34.2478345148182
+  yaw: -175.55307006835938
+  pitch: 18.990713119506836
+  world-name: ''
+ip-address: 176.154.91.21
+last-account-name: Kaidjakou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

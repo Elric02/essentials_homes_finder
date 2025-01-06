@@ -1,0 +1,47 @@
+timestamps:
+  login: 1476640042881
+  lastteleport: 1476639823714
+  logout: 1476640219368
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: 38.05428796001153
+  y: 67.0
+  z: 747.4544583243625
+  yaw: 267.82073974609375
+  pitch: 2.2499380111694336
+  world-name: ''
+homes:
+  home:
+    world: Ressources
+    x: 35.01950744788982
+    y: 67.0
+    z: 747.1076353277149
+    yaw: -254.3291015625
+    pitch: 17.699981689453125
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 151.73876291443193
+  y: 64.0
+  z: 7.178328711395768
+  yaw: -346.71063232421875
+  pitch: 47.87451171875
+  world-name: ''
+ip-address: 109.222.28.58
+last-account-name: Linove2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.110.254.42
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1649603772993
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1649604122090
+  login: 1649603361682
+money: '0'
+last-account-name: nTmrK6
+lastlocation:
+  world: 46f3ebd9-7618-4f4c-a43b-1732420e5390
+  world-name: Ressourcenether
+  x: 759.3125168613645
+  y: 69.0
+  z: 1282.6975508836608
+  yaw: -161.54026794433594
+  pitch: 28.350065231323242
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -1764.5
+  y: 63.0
+  z: 5773.5
+  yaw: 0.7388144731521606
+  pitch: 20.700014114379883
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1764.8420113047378
+    y: 63.0
+    z: 5773.113057100202
+    yaw: 43.48881149291992
+    pitch: 73.19995880126953

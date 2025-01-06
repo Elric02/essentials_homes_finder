@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492359454167
+  logout: 1492359507708
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 799.658772596509
+  y: 66.0
+  z: 4377.593549861041
+  yaw: 113.69259643554688
+  pitch: 85.65930938720703
+  world-name: ''
+ip-address: 84.7.229.184
+last-account-name: Dazeme
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

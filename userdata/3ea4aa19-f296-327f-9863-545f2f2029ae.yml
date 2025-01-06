@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481471741233
+  logout: 1481471804395
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 222.6978669120872
+  y: 67.0
+  z: 16.300000011920922
+  yaw: -176.46432495117188
+  pitch: 90.0
+  world-name: ''
+ip-address: 78.221.86.54
+last-account-name: Fast_Fox54
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

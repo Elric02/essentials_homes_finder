@@ -1,0 +1,63 @@
+timestamps:
+  login: 1471359284231
+  lastteleport: 1470325565490
+  logout: 1471359300708
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 149.97411683117872
+  y: 68.0
+  z: 384.4396897424918
+  yaw: -176.46051025390625
+  pitch: 31.268936157226562
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1707.4309057281923
+    y: 71.0
+    z: 1047.6981799650223
+    yaw: 91.43537902832031
+    pitch: 22.219417572021484
+    world-name: ''
+  ile:
+    world: world
+    x: 1700.4118370265194
+    y: 68.0
+    z: 1052.6753476898075
+    yaw: 215.3350830078125
+    pitch: 12.900016784667969
+    world-name: ''
+  villeneige:
+    world: world
+    x: 5894.1923540106445
+    y: 98.0
+    z: 1258.097682748929
+    yaw: 176.40048217773438
+    pitch: 52.649993896484375
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1733.8652917249194
+  y: 63.0
+  z: 1047.5923600242124
+  yaw: -287.4640808105469
+  pitch: 23.400012969970703
+  world-name: ''
+afk: false
+ip-address: 83.76.252.230
+last-account-name: EvanTheCube
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

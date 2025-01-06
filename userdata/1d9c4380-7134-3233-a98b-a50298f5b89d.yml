@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517249598241
+  lastteleport: 1517249706548
+  logout: 1517249717236
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.92829126289817
+  y: 66.0
+  z: 19.037354109966177
+  yaw: 269.9476318359375
+  pitch: 1.44070565700531
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -2.8061109719011936
+  y: 89.5
+  z: 21.8521134033548
+  yaw: -253.01498413085938
+  pitch: 24.93192481994629
+  world-name: ''
+ip-address: 81.251.27.174
+last-account-name: timo366
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500407702725
+  lastteleport: 1500408063011
+  logout: 1500408238973
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 118.46482019008482
+  y: 63.0
+  z: 26.88058116532723
+  yaw: -146.4656982421875
+  pitch: 15.888345718383789
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2302.178165226039
+  y: 78.0
+  z: -1974.344173859924
+  yaw: 96.63004302978516
+  pitch: 9.69151496887207
+  world-name: ''
+ip-address: 92.135.38.51
+last-account-name: Klepto56
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

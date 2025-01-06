@@ -1,0 +1,55 @@
+timestamps:
+  login: 1635166229880
+  lastteleport: 1635166317167
+  logout: 1635167696746
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -857.7212148302075
+  y: 65.0
+  z: -1451.3518606671569
+  yaw: -15.243367195129395
+  pitch: 13.65015697479248
+  world-name: world
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -6795.9979895085535
+  y: 106.0
+  z: 4990.193110777814
+  yaw: 355.64794921875
+  pitch: 22.65003204345703
+  world-name: world
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6784.720610312315
+    y: 122.0
+    z: 5029.367295197276
+    yaw: 48.747314453125
+    pitch: 17.849916458129883
+    world-name: world
+  jungle:
+    world: Ressource
+    x: -1964.1492539929939
+    y: 83.0
+    z: 1571.2755253282755
+    yaw: -327.00262451171875
+    pitch: 33.149959564208984
+    world-name: ''
+afk: false
+ip-address: 77.150.244.186
+last-account-name: KekeLaDetail
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

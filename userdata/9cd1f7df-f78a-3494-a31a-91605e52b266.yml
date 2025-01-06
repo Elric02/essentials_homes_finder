@@ -1,0 +1,63 @@
+timestamps:
+  login: 1485531224992
+  logout: 1485532743696
+  lastteleport: 1485532313023
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6092.2938504363665
+  y: 88.0
+  z: -6243.3532850993915
+  yaw: -63.56879425048828
+  pitch: 17.90156364440918
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -561.3164366344383
+  y: 63.0
+  z: -492.4544628129383
+  yaw: -36.3265380859375
+  pitch: 35.411128997802734
+  world-name: ''
+homes:
+  b:
+    world: world
+    x: -6090.541343983306
+    y: 88.0
+    z: -6242.7613461058345
+    yaw: 103.80313873291016
+    pitch: 24.75003433227539
+    world-name: ''
+  backup:
+    world: world
+    x: -6092.424651674344
+    y: 50.0
+    z: -6241.458426176596
+    yaw: -25.49786376953125
+    pitch: 71.09999084472656
+    world-name: ''
+  en:
+    world: world
+    x: -4832.099529941601
+    y: 74.0
+    z: -375.06967104181774
+    yaw: 112.792236328125
+    pitch: 23.082889556884766
+    world-name: ''
+afk: false
+money: '0'
+ip-address: 88.183.174.75
+last-account-name: NikerDrak
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

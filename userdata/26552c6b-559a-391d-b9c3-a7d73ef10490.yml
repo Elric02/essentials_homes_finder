@@ -1,0 +1,47 @@
+timestamps:
+  login: 1521825442731
+  lastteleport: 1521825493301
+  logout: 1521825524218
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: -4.563027196294357
+  y: 64.0
+  z: -23.687802324116838
+  yaw: 104.72740173339844
+  pitch: 10.89047908782959
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 7125.489131360165
+    y: 62.0
+    z: 2853.9813929207216
+    yaw: -258.6141662597656
+    pitch: 44.24953079223633
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 7122.437260768545
+  y: 63.0
+  z: 2853.326317060465
+  yaw: -275.01690673828125
+  pitch: 6.760021686553955
+  world-name: ''
+ip-address: 78.244.132.145
+last-account-name: Foufout
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

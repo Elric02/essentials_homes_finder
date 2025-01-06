@@ -1,0 +1,38 @@
+timestamps:
+  login: 1554050989822
+  lastteleport: 1554051017326
+  logout: 1554051021435
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.21615556013427
+  y: 63.0
+  z: 66.6880655299336
+  yaw: 345.8102111816406
+  pitch: 12.912406921386719
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -198.94981384277344
+  pitch: 6.762531280517578
+  world-name: ''
+ip-address: 86.72.71.121
+last-account-name: Edox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

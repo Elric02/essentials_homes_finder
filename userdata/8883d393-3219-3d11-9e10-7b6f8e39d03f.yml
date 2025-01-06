@@ -1,0 +1,55 @@
+timestamps:
+  login: 1479306836893
+  lastteleport: 1479311500784
+  logout: 1479311582120
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2572.750891593112
+  y: 71.0
+  z: -2016.5791577432883
+  yaw: -139.06053161621094
+  pitch: -16.291231155395508
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -2557.487500011921
+    y: 71.0
+    z: -2023.2203954395554
+    yaw: -268.88031005859375
+    pitch: 15.043184280395508
+    world-name: ''
+  bois:
+    world: world
+    x: 1155.8925213204768
+    y: 77.0
+    z: 4590.699999988079
+    yaw: -104.44801330566406
+    pitch: 14.131206512451172
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -106.3329086303711
+  pitch: 4.166914463043213
+  world-name: ''
+muted: false
+ip-address: 82.250.132.252
+last-account-name: diamondboy
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

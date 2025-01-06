@@ -1,0 +1,39 @@
+timestamps:
+  login: 1614447161174
+  jail: 1614447524205
+  onlinejail: 0
+  logout: 1614447227858
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+lastlocation:
+  world: world
+  x: 155.7382669218353
+  y: 65.0
+  z: 77.45253779194083
+  yaw: 150.2469482421875
+  pitch: 46.14065170288086
+  world-name: ''
+jailed: true
+jail: dunkirschen5
+logoutlocation:
+  world: world
+  x: -2669.3359867842637
+  y: 62.0
+  z: -207.92425948643591
+  yaw: 199.74798583984375
+  pitch: 2.4255480766296387
+  world-name: ''
+ip-address: 78.213.225.37
+last-account-name: tornado_yt022
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

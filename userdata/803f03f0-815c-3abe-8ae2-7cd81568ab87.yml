@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: true
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633447912641
+  login: 1633447851225
+money: '0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 161.35438554724092
+  y: 65.0
+  z: 101.0957763456721
+  yaw: -261.2556457519531
+  pitch: 33.33371353149414
+homes:
+  base:
+    world: world
+    x: -1935.7180644224431
+    y: 72.0
+    z: 3855.181284767154
+    yaw: -4.61328125
+    pitch: 13.839202880859375
+    world-name: ''
+  baaase:
+    world: world
+    x: -1935.7180644224431
+    y: 72.0
+    z: 3855.181284767154
+    yaw: -4.61328125
+    pitch: 13.839202880859375
+    world-name: ''
+  shopzdnl:
+    world: world
+    x: 1493.1070794913128
+    y: 71.0
+    z: -2189.611694327379
+    yaw: -198.29637145996094
+    pitch: 37.956390380859375
+    world-name: ''
+afk: false
+ip-address: 86.213.124.146
+last-account-name: Unity_skrillex

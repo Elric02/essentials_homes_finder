@@ -1,0 +1,38 @@
+timestamps:
+  login: 1489081799498
+  lastteleport: 1489081819353
+  logout: 1489081844790
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2555.4856042864462
+  y: 66.0
+  z: 3892.6792891712494
+  yaw: -96.49737548828125
+  pitch: 19.488086700439453
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.98652479939201
+  y: 64.0
+  z: 19.30875155642563
+  yaw: -78.27233123779297
+  pitch: 15.6351318359375
+  world-name: ''
+ip-address: 77.109.116.161
+last-account-name: sean123
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

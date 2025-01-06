@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474307642865
+  lastteleport: 1465753534985
+  logout: 1474307667344
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.53850507058485
+  y: 28.0
+  z: 20.273850530973554
+  yaw: -347.0966796875
+  pitch: 9.674185752868652
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 153.67983086717894
+  y: 64.0
+  z: 17.444109264172223
+  yaw: -308.7610778808594
+  pitch: 9.774517059326172
+  world-name: ''
+ip-address: 88.172.75.113
+last-account-name: onetheo59
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

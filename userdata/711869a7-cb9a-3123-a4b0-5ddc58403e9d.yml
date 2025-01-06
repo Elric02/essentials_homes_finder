@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516141812932
+  logout: 1516142358797
+  lastteleport: 1516142180395
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.4465122275648
+  y: 66.0
+  z: -4.931604124877527
+  yaw: -182.4208221435547
+  pitch: -6.3000054359436035
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.0208282470703
+  pitch: 8.428669929504395
+  world-name: ''
+money: '0'
+ip-address: 151.25.3.138
+last-account-name: Jacopo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1545498271971
+  lastteleport: 1545499290437
+  logout: 1545499620144
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 134.12808499414967
+  y: 63.0
+  z: 19.841909063758372
+  yaw: -285.62103271484375
+  pitch: 0.3000143766403198
+  world-name: ''
+money: '0'
+homes:
+  clem:
+    world: world
+    x: -6122.472436374789
+    y: 94.0
+    z: -6077.418829844555
+    yaw: 31.28443717956543
+    pitch: 25.500017166137695
+    world-name: ''
+  h:
+    world: world
+    x: -3620.5147698754445
+    y: 72.5
+    z: 2769.6049238906508
+    yaw: -71.25042724609375
+    pitch: 22.799983978271484
+    world-name: ''
+  r:
+    world: Ressource
+    x: -1399.8092671104546
+    y: 74.0
+    z: -1779.7201007221913
+    yaw: 134.4000244140625
+    pitch: 6.899962425231934
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -3570.295425589363
+  y: 75.5
+  z: 2746.2683451809457
+  yaw: -199.3499755859375
+  pitch: 36.00001525878906
+  world-name: ''
+afk: false
+ip-address: 88.183.172.214
+last-account-name: _DarkSky_193
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

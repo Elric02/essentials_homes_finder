@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.251.162.196
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1651441525445
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1651445633665
+  login: 1651441424534
+money: '0'
+last-account-name: priotmusic
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -1373.5502350246893
+  y: 57.0
+  z: -2501.5536846301347
+  yaw: 26.2265625
+  pitch: 3.150034189224243
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -1371.610304070235
+  y: 57.0
+  z: -2493.50034948709
+  yaw: -0.705078125
+  pitch: -2.699974298477173

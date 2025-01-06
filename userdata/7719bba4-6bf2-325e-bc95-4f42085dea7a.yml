@@ -1,0 +1,39 @@
+timestamps:
+  login: 1521231956767
+  logout: 1521232222811
+  mute: 0
+  lastteleport: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 198.48744983757823
+  y: 74.0
+  z: 18.516908154051997
+  yaw: -270.57415771484375
+  pitch: 17.883726119995117
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 199.13749998807907
+  y: 74.0
+  z: 19.13749998807907
+  yaw: -217.45919799804688
+  pitch: 16.97109603881836
+  world-name: ''
+muted: true
+jailed: true
+jail: cage
+ip-address: 217.64.113.196
+last-account-name: BurnGemios3643SZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

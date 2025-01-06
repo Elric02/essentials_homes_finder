@@ -1,0 +1,38 @@
+timestamps:
+  login: 1602576954781
+  lastteleport: 1602579592263
+  logout: 1602579912711
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: 745.2695576251389
+  y: 67.0
+  z: 366.5249052211735
+  yaw: -308.88427734375
+  pitch: -39.7500114440918
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5448.473709995933
+  y: 63.0
+  z: -6057.245452340467
+  yaw: 133.0517578125
+  pitch: 16.35005760192871
+  world-name: ''
+ip-address: 80.214.145.93
+last-account-name: Shepard42
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614016687065
+  lastteleport: 1614018143257
+  logout: 1614018358339
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 122.29320946403232
+  y: 63.0
+  z: 37.69999998807907
+  yaw: -359.51898193359375
+  pitch: 28.19474983215332
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Ressource
+  x: -755.0622876575227
+  y: 62.073264889255626
+  z: -66.30907067917457
+  yaw: 65.26439666748047
+  pitch: 16.535884857177734
+  world-name: ''
+ip-address: 82.65.196.201
+last-account-name: HellMonSRT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

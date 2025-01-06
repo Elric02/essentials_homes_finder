@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509575415976
+  logout: 1509575629035
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.03198246477203
+  y: 64.0
+  z: 22.078270650520718
+  yaw: -189.6029052734375
+  pitch: 3.3701963424682617
+  world-name: ''
+ip-address: 79.83.10.178
+last-account-name: SpaghettiCarbo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

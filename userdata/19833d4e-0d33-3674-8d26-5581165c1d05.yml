@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.169.243.17
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675117418981
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675511927101
+  login: 1675511735670
+money: '10.0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 73.34503925259483
+  y: 64.0
+  z: 0.9150075840547724
+  yaw: 148.20632934570312
+  pitch: 25.650026321411133
+last-account-name: TYGRISS
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3788.8788390409786
+  y: 63.0625
+  z: -1083.92835677391
+  yaw: -175.37234497070312
+  pitch: 15.150126457214355
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3787.365990874417
+    y: 63.0
+    z: -1070.2886950498325
+    yaw: 97.62772369384766
+    pitch: 23.795656204223633
+  vendeur:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 212.48090635546822
+    y: 63.0
+    z: -66.65270801854746
+    yaw: -103.944091796875
+    pitch: 8.700013160705566
+  axsolot:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -300.5372170121504
+    y: 7.0
+    z: -290.81365211246003
+    yaw: -163.20240783691406
+    pitch: 19.950206756591797

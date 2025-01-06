@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466787698892
+  lastteleport: 1466524678226
+  logout: 1466787956781
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -627.6181990742213
+  y: 64.0
+  z: -761.1878137174223
+  yaw: 275.93731689453125
+  pitch: -7.485988616943359
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -316.5148356599181
+  y: 65.0
+  z: 365.3676233740477
+  yaw: 53.37274169921875
+  pitch: -43.68242263793945
+  world-name: ''
+ip-address: 82.229.160.122
+last-account-name: Voyou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

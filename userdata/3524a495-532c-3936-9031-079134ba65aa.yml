@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488834688156
+  logout: 1488834734703
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 154.21906322960191
+  y: 63.0
+  z: 36.84317360352383
+  yaw: -168.6824188232422
+  pitch: 10.768868446350098
+  world-name: ''
+ip-address: 82.240.72.24
+last-account-name: Arctix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

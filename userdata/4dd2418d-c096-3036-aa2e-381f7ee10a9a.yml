@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.215.105.75
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1640969678791
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1640970128205
+  login: 1640969860936
+money: '0'
+last-account-name: yuri
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -473.93648087163456
+  y: 76.0
+  z: 5968.086924096018
+  yaw: 168.2996368408203
+  pitch: 16.64998435974121
+logoutlocation:
+  world: ba24a173-de76-46e3-9b01-741466ccc128
+  world-name: Ressource
+  x: 3432.300000011921
+  y: 64.0
+  z: -1370.181113622892
+  yaw: -246.59771728515625
+  pitch: 49.79996871948242

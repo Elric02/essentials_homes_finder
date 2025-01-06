@@ -1,0 +1,63 @@
+timestamps:
+  login: 1622968327844
+  lastteleport: 1622968537485
+  logout: 1622968934912
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3879.6582433632716
+  y: 27.0
+  z: -3508.533311380748
+  yaw: 0.16869664192199707
+  pitch: 21.600040435791016
+  world-name: ''
+money: '0'
+homes:
+  mine:
+    world: world
+    x: 3881.699999988079
+    y: 27.0
+    z: -3511.302132812343
+    yaw: -81.7315902709961
+    pitch: 48.60002899169922
+    world-name: ''
+  maison:
+    world: world
+    x: 3750.0241058346824
+    y: 69.0
+    z: -3518.3878944149424
+    yaw: -356.15625
+    pitch: 14.999785423278809
+    world-name: ''
+  home:
+    world: world
+    x: 4092.969783419136
+    y: 70.0
+    z: -3795.1487118425302
+    yaw: -9.16461181640625
+    pitch: 28.49980354309082
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 6376.026077627542
+  y: 81.0
+  z: 3133.193526681638
+  yaw: -23.399065017700195
+  pitch: 11.399938583374023
+  world-name: ''
+ip-address: 92.105.60.222
+last-account-name: yvvy7
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

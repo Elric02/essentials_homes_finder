@@ -1,0 +1,47 @@
+timestamps:
+  login: 1586372792646
+  lastteleport: 1562589573974
+  logout: 1586372797440
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.21247146449912
+  y: 63.0
+  z: 48.55450606372237
+  yaw: -228.9586181640625
+  pitch: 22.83592987060547
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: -1680.5856636969054
+    y: 20.0
+    z: 1926.8351690580698
+    yaw: -269.1943359375
+    pitch: 15.68080997467041
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 3.014605768993364
+  y: 86.1788382721679
+  z: 4.06695495591816
+  yaw: 68.1031494140625
+  pitch: 1.8819125890731812
+  world-name: ''
+ip-address: 78.119.91.33
+last-account-name: Boulette2Viande
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

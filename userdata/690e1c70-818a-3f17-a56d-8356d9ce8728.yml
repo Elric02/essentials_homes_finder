@@ -1,0 +1,47 @@
+timestamps:
+  login: 1522609695409
+  lastteleport: 1522618465221
+  logout: 1522619548422
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -2524.0243618369614
+  y: 75.0
+  z: -6596.730169907012
+  yaw: 72.19013977050781
+  pitch: 19.383316040039062
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 7380.49122819964
+    y: 70.0
+    z: -295.1566531913528
+    yaw: 232.8388214111328
+    pitch: 22.420333862304688
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 7379.7340571043605
+  y: 70.0
+  z: -295.6835931614071
+  yaw: 245.31805419921875
+  pitch: 12.414416313171387
+  world-name: ''
+ip-address: 89.2.114.255
+last-account-name: Princess59790
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1540835555123
+  lastteleport: 1540835488336
+  logout: 1540836134517
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.93887341751292
+  y: 66.0
+  z: 21.242355553944215
+  yaw: -87.17068481445312
+  pitch: 23.128681182861328
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 150.63813231255142
+  y: 63.0
+  z: -13.15115351179921
+  yaw: -158.72085571289062
+  pitch: 25.228675842285156
+  world-name: ''
+ip-address: 105.156.112.134
+last-account-name: SignesFin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

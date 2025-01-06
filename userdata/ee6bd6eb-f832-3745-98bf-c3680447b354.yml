@@ -1,0 +1,63 @@
+timestamps:
+  login: 1525599155266
+  logout: 1525605007382
+  lastteleport: 1525604952855
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1095.9380266791773
+  y: 70.0
+  z: -1469.22386196117
+  yaw: -8.10012149810791
+  pitch: 61.049983978271484
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 118.55637432240498
+  y: 63.0
+  z: 63.22928816791298
+  yaw: -11.2708740234375
+  pitch: -0.12133805453777313
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  b:
+    world: world
+    x: 1491.7747783284437
+    y: 66.0
+    z: -2109.0840204964093
+    yaw: 1.1271657943725586
+    pitch: 48.435935974121094
+    world-name: ''
+  b3:
+    world: world
+    x: 1093.9471748466235
+    y: 69.0
+    z: -1459.0381715688286
+    yaw: 122.10000610351562
+    pitch: 66.29998779296875
+    world-name: ''
+  b2:
+    world: world
+    x: 5999.699999988079
+    y: 38.0
+    z: 4322.005507553204
+    yaw: 18.816608428955078
+    pitch: 23.370092391967773
+    world-name: ''
+muted: false
+ip-address: 81.241.184.182
+last-account-name: BD_2007
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

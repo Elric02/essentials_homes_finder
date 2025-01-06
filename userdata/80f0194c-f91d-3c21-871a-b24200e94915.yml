@@ -1,0 +1,38 @@
+timestamps:
+  login: 1598616709540
+  lastteleport: 1598616905566
+  logout: 1598617183172
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.19808706943954
+  y: 64.5
+  z: -2.482074244319077
+  yaw: 45.5789794921875
+  pitch: 19.678495407104492
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.2358155124059
+  y: 65.0
+  z: 19.8982446236368
+  yaw: -222.0203857421875
+  pitch: 43.52865982055664
+  world-name: ''
+afk: false
+ip-address: 31.34.201.198
+last-account-name: songoku_du_54
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

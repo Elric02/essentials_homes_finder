@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 84.236.100.116
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681918377021
+  login: 1681918370630
+money: '0'
+last-account-name: Tibyy
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 148.8343994591031
+  y: 67.5
+  z: 99.06889049983427
+  yaw: 99.87947082519531
+  pitch: 20.711658477783203
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 161.92210979156758
+  y: 65.5
+  z: 99.23669394346999
+  yaw: -71.72660064697266
+  pitch: 27.005281448364258

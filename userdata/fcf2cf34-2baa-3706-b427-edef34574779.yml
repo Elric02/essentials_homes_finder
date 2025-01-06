@@ -1,0 +1,55 @@
+timestamps:
+  login: 1464992684686
+  lastteleport: 1464960059903
+  logout: 1464993100667
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -516.7913798110176
+  y: 63.0
+  z: 48.99286913078251
+  yaw: 152.09979248046875
+  pitch: 15.750046730041504
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 517.9343892214257
+  y: 73.0
+  z: 571.9372286865637
+  yaw: 1.644317865371704
+  pitch: 25.46023178100586
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 517.8177387857361
+    y: 73.0
+    z: 573.3331758214044
+    yaw: -269.550048828125
+    pitch: 23.774263381958008
+    world-name: ''
+  mine:
+    world: ressource
+    x: 330.69999998807907
+    y: 7.0
+    z: 34.26096716325293
+    yaw: -83.99455261230469
+    pitch: 24.14997673034668
+    world-name: ''
+ip-address: 90.13.213.188
+last-account-name: Clara13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

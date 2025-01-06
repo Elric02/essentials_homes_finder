@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616184412400
+  lastteleport: 1616185000993
+  logout: 1616186051885
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.68632964354535
+  y: 64.0
+  z: 22.222757016509597
+  yaw: -184.42324829101562
+  pitch: 18.982337951660156
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1924.3585071881491
+  y: 81.57969854367613
+  z: -5513.304508802551
+  yaw: 24.615478515625
+  pitch: 55.651973724365234
+  world-name: ''
+ip-address: 2.10.195.143
+last-account-name: Zurikh
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

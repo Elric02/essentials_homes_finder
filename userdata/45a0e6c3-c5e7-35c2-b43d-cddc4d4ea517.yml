@@ -1,0 +1,38 @@
+timestamps:
+  login: 1603220234152
+  logout: 1603220536199
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 118.96150308816839
+  y: 63.0
+  z: -85.21192941207052
+  yaw: -265.7027587890625
+  pitch: 8.191003799438477
+  world-name: ''
+ip-address: 109.215.133.88
+last-account-name: BlackShadow8L
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

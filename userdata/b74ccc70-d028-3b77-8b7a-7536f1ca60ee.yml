@@ -1,0 +1,63 @@
+timestamps:
+  login: 1488165239241
+  lastteleport: 1488166170237
+  logout: 1488166206979
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2456.568039217348
+  y: 44.0
+  z: -6573.4967202414055
+  yaw: -236.05715942382812
+  pitch: 6.442185878753662
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 5662.547488695219
+    y: 78.0
+    z: 4843.179764708145
+    yaw: -150.55850219726562
+    pitch: 17.56172752380371
+    world-name: ''
+  mesa:
+    world: world
+    x: -4312.190434058485
+    y: 60.0
+    z: -6816.037818078763
+    yaw: -89.501708984375
+    pitch: 10.968648910522461
+    world-name: ''
+  mob:
+    world: world
+    x: 5701.797250899627
+    y: 16.0
+    z: 4897.699999988079
+    yaw: -226.39126586914062
+    pitch: 27.494447708129883
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5664.567761653263
+  y: 78.0
+  z: 4841.514363026112
+  yaw: -6.912473678588867
+  pitch: 28.301149368286133
+  world-name: ''
+ip-address: 75.152.34.245
+last-account-name: Aneym
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

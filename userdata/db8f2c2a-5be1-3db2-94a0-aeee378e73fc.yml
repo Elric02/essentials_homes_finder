@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.12.189.122
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1650026451450
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670871864047
+  login: 1670871853043
+money: '0'
+last-account-name: shadowroms
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 4907.628390813724
+  y: 50.0
+  z: -859.0141281777013
+  yaw: 1.933430790901184
+  pitch: 22.29755401611328
+homes:
+  mushroom:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -2483.391262368744
+    y: 75.0
+    z: 205.561993815447
+    yaw: 1.9336661100387573
+    pitch: -6.546483039855957
+  base_temp:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 4898.699999988079
+    y: 63.0
+    z: -860.8142556126523
+    yaw: -74.5135498046875
+    pitch: 37.499149322509766
+  minage_obsi:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 4615.6464837455815
+    y: -54.0
+    z: -915.1359183647502
+    yaw: -27.363059997558594
+    pitch: 15.442900657653809
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 4907.699999988079
+  y: 50.0
+  z: -859.4136576079247
+  yaw: 111.28361511230469
+  pitch: 68.84992218017578

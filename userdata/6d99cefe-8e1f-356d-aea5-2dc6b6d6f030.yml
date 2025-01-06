@@ -1,0 +1,124 @@
+timestamps:
+  login: 1723370582629
+  logout: 1723370839283
+  lastteleport: 1723370775086
+  kits:
+    color: 1618227322846
+    vip: 1710030503009
+    stationaute: 1671374016914
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 154.5609146265702
+  y: 64.0
+  z: 18.125563680909497
+  yaw: -177.2496337890625
+  pitch: 2.9784257411956787
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -5463.72564449181
+  y: 50.0
+  z: 873.8072784153358
+  yaw: 139.10031127929688
+  pitch: 12.734283447265625
+  world-name: world
+money: '3.0'
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3243.5
+    y: 77.0
+    z: -1558.5
+    yaw: -5.625164031982422
+    pitch: 16.19070816040039
+    world-name: world
+  farme:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 567.5
+    y: 67.0
+    z: -3003.5
+    yaw: 88.63758087158203
+    pitch: 25.756404876708984
+    world-name: world
+  g4:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -894.5
+    y: 79.0
+    z: -3471.5
+    yaw: 178.62889099121094
+    pitch: 17.22709083557129
+    world-name: world
+  ville:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -1643.5
+    y: 76.0
+    z: -6540.5
+    yaw: -89.76451873779297
+    pitch: 4.049211025238037
+    world-name: world
+  titani:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4866.40044863296
+    y: 63.0
+    z: -1159.1645746649624
+    yaw: 344.0282897949219
+    pitch: 9.40715217590332
+    world-name: world
+  ben:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5662.645659947553
+    y: 76.0
+    z: 416.41882135457234
+    yaw: -180.48052978515625
+    pitch: 23.249666213989258
+    world-name: world
+  laine:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 2416.7635030859033
+    y: 28.0
+    z: -3041.393460431646
+    yaw: -296.6455078125
+    pitch: 11.399621963500977
+    world-name: world
+  cofre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5468.026190684166
+    y: 56.0
+    z: 837.6048282496037
+    yaw: 0.3244088292121887
+    pitch: 3.3537845611572266
+    world-name: world
+  shopbois:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4971.846408618127
+    y: 71.0
+    z: -531.4552903855244
+    yaw: -88.74549865722656
+    pitch: -4.59606409072876
+  shopmedieval:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -595.5310501116764
+    y: 64.0
+    z: -738.5042843490687
+    yaw: 90.52410888671875
+    pitch: 3.6017837524414062
+nickname: §dVel§5koz§f_§6mil§edu
+afk: false
+ip-address: 37.65.91.183
+last-account-name: Velkoz_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

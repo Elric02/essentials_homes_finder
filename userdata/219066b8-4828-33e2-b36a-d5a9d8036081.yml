@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485545470181
+  lastteleport: 1485547652312
+  logout: 1485547774269
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -314.41090512063744
+  y: 70.0
+  z: 799.1827911369584
+  yaw: 260.3505859375
+  pitch: 18.74998664855957
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -262.6280595397528
+  y: 65.0
+  z: 369.8241810501236
+  yaw: 226.5003662109375
+  pitch: 18.600017547607422
+  world-name: ''
+ip-address: 88.163.70.116
+last-account-name: NPCnightmare999
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

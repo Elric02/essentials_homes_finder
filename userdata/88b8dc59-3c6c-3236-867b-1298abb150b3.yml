@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.176.24.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635523075917
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635523143868
+  login: 1635522844989
+money: '0'
+last-account-name: kenoukie
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 163.2898225231991
+  y: 63.0
+  z: -17.363649013765198
+  yaw: 264.1048583984375
+  pitch: 13.351340293884277
+logoutlocation:
+  world: 299486cc-f566-4eb7-990b-9b1fcca86de8
+  world-name: Ressource
+  x: -3569.442194627583
+  y: 86.0
+  z: 3854.9432674166237
+  yaw: 296.2126159667969
+  pitch: 39.843353271484375

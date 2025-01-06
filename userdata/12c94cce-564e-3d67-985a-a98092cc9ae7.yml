@@ -1,0 +1,63 @@
+timestamps:
+  login: 1575556537163
+  lastteleport: 1575484473067
+  logout: 1575557365154
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -371.8856100491305
+  y: 78.0
+  z: 397.0598773359352
+  yaw: -191.16705322265625
+  pitch: 17.36480140686035
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: 736.4909921585432
+    y: 76.0
+    z: -207.23912421688988
+    yaw: 2.54925537109375
+    pitch: 36.599971771240234
+    world-name: ''
+  vote:
+    world: world
+    x: 108.31947867293549
+    y: 63.0
+    z: 489.6398507339208
+    yaw: -12.304747581481934
+    pitch: 27.799442291259766
+    world-name: ''
+  bp:
+    world: world
+    x: 246.4073791223037
+    y: 63.0
+    z: 560.8776012642361
+    yaw: -10.17801284790039
+    pitch: 17.165790557861328
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 247.41989083534844
+  y: 63.0
+  z: 562.4170247188162
+  yaw: -287.7170715332031
+  pitch: 55.22536849975586
+  world-name: ''
+ip-address: 91.161.37.193
+last-account-name: AzHard
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

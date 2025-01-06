@@ -1,0 +1,47 @@
+timestamps:
+  login: 1483030470465
+  lastteleport: 1472551731105
+  logout: 1483030702722
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -744.7181048798515
+  y: 77.0
+  z: -993.4241552539781
+  yaw: 166.09942626953125
+  pitch: 61.37626647949219
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -705.4111004456545
+  y: 63.0
+  z: -1003.9459848612621
+  yaw: 12.05224609375
+  pitch: 18.45000457763672
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -736.7824871133415
+    y: 66.0
+    z: -989.9311193804714
+    yaw: 241.399658203125
+    pitch: 28.826250076293945
+    world-name: ''
+money: '0'
+ip-address: 86.221.43.155
+last-account-name: creeperkiller12
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

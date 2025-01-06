@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.135.190.66
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719521711151
+  login: 1719521681066
+money: '0'
+last-account-name: Firef1ight
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 69.98237196673796
+  y: 94.0
+  z: 62.63189418756512
+  yaw: -89.46844482421875
+  pitch: 44.143836975097656
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 69.34058043518388
+  y: 94.0
+  z: 62.62918828505775
+  yaw: -104.31784057617188
+  pitch: 19.54375457763672

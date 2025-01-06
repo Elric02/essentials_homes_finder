@@ -1,0 +1,55 @@
+timestamps:
+  login: 1579454683259
+  lastteleport: 1579455340930
+  logout: 1579455613142
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2177.6494985291724
+  y: 57.875
+  z: -1579.300000011921
+  yaw: 58.7491455078125
+  pitch: 32.774513244628906
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4809.599208752662
+  y: 69.0
+  z: -319.7121330936311
+  yaw: -13.10894775390625
+  pitch: 38.46531677246094
+  world-name: ''
+homes:
+  build:
+    world: world
+    x: -2177.024444505732
+    y: 63.5
+    z: -1580.596421981973
+    yaw: -335.557861328125
+    pitch: 19.738231658935547
+    world-name: ''
+  test:
+    world: world
+    x: 947.6415998505639
+    y: 65.0
+    z: 1478.4521367404582
+    yaw: -180.69696044921875
+    pitch: 17.275562286376953
+    world-name: ''
+afk: false
+muted: false
+ip-address: 185.216.24.52
+last-account-name: Owen
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

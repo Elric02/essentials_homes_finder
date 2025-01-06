@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492201984834
+  logout: 1492205390428
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 62.705074158035096
+  y: 68.0625
+  z: 65.69999998807909
+  yaw: 137.80078125
+  pitch: 10.20004653930664
+  world-name: ''
+ip-address: 78.125.185.57
+last-account-name: FluffyChubby
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

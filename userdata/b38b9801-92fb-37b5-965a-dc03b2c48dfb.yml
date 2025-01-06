@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 196.75.84.52
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668703166427
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668703177974
+  login: 1668703042854
+money: '0'
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -47.54846118564552
+  y: 66.0
+  z: 50.6216783622107
+  yaw: 153.61021423339844
+  pitch: -21.14995574951172
+last-account-name: BILAL123s
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -47.94554360425007
+  y: 65.5
+  z: 44.099213523108105
+  yaw: -172.20077514648438
+  pitch: 0.45005178451538086

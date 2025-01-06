@@ -1,0 +1,63 @@
+timestamps:
+  login: 1526810159680
+  lastteleport: 1504186922833
+  logout: 1526810424227
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: -110.17038443390584
+  y: 92.0
+  z: 279.81866412090363
+  yaw: -204.91741943359375
+  pitch: 3.8999946117401123
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2128.5098888028665
+  y: 87.0
+  z: -925.0627719069249
+  yaw: -54.91940689086914
+  pitch: 6.157103538513184
+  world-name: ''
+homes:
+  c:
+    world: world
+    x: -2153.5
+    y: 71.0
+    z: -936.5
+    yaw: 108.76188659667969
+    pitch: 14.252838134765625
+    world-name: ''
+  neige:
+    world: world
+    x: 6300.918803534688
+    y: 113.0
+    z: -2864.366462953436
+    yaw: 59.250240325927734
+    pitch: 36.45001220703125
+    world-name: ''
+  end:
+    world: world_the_end
+    x: -17915.685368050275
+    y: 63.0
+    z: 1004.6713233895395
+    yaw: -233.4432373046875
+    pitch: 14.549951553344727
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 78.217.132.75
+last-account-name: SelbyGaming
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

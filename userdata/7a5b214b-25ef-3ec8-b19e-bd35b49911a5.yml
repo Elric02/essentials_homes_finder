@@ -1,0 +1,38 @@
+timestamps:
+  login: 1584464494175
+  lastteleport: 1584464506481
+  logout: 1584464509974
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.5
+  y: 65.0
+  z: 100.5
+  yaw: 134.1246337890625
+  pitch: 3.1709911823272705
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.49210790576495
+  y: 64.0
+  z: 23.20861780647729
+  yaw: -217.97779846191406
+  pitch: -6.443057537078857
+  world-name: ''
+ip-address: 86.241.158.64
+last-account-name: NZLG
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517841732381
+  lastteleport: 1504265591884
+  logout: 1517842158963
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Test
+  x: 26.09385497949136
+  y: 4.0
+  z: 34.41424848874379
+  yaw: 10.913978576660156
+  pitch: 1.7999966144561768
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 116.49262291000272
+  y: 63.0
+  z: 19.480184398856228
+  yaw: -92.010986328125
+  pitch: 6.47450065612793
+  world-name: ''
+ip-address: 92.142.245.12
+last-account-name: MrHoStille
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

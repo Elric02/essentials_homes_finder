@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 199.91.207.18
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1638404849559
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1638406199192
+  login: 1638403052954
+money: '0'
+last-account-name: XaVar0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -5810.546716714802
+  y: 79.0
+  z: -4185.2869237177365
+  yaw: -88.093505859375
+  pitch: 29.849756240844727
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6048.376134639949
+    y: 72.0
+    z: -4221.798755356425
+    yaw: -214.05987548828125
+    pitch: 18.149951934814453
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -804.1686133530607
+  y: 73.0
+  z: 311.3034194895484
+  yaw: -11.393261909484863
+  pitch: 14.92862319946289

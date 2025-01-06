@@ -1,0 +1,38 @@
+timestamps:
+  login: 1629568919206
+  lastteleport: 1629569049019
+  logout: 1629569071350
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.7937509872214
+  y: 63.0
+  z: 63.031271363912204
+  yaw: 246.996337890625
+  pitch: 7.890653133392334
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1490.5817914998815
+  y: 71.0
+  z: -2180.2489459083235
+  yaw: 267.8270568847656
+  pitch: 29.685922622680664
+  world-name: ''
+ip-address: 91.170.50.132
+last-account-name: ShaDowKill1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

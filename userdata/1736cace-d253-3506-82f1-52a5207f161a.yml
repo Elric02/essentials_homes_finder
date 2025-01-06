@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.65.135.228
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1651068117433
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1653229216987
+  login: 1653227737336
+money: '0'
+last-account-name: PayeTaRDR
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3284.495475691439
+  y: 80.0
+  z: -6154.159764361499
+  yaw: -0.6067171692848206
+  pitch: 17.700397491455078
+logoutlocation:
+  world: 886c7d43-b736-498b-8648-cad06b6b21d1
+  world-name: Event
+  x: 1593.6647675058389
+  y: 9.0
+  z: -2707.2586436739116
+  yaw: 94.05389404296875
+  pitch: 36.44947052001953
+homes:
+  maison:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    world-name: Event
+    x: 1593.5408215461593
+    y: 9.0
+    z: -2708.2740903722624
+    yaw: -299.847412109375
+    pitch: 38.100059509277344
+  demeure:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3284.6740333871176
+    y: 80.0
+    z: -6154.778597709536
+    yaw: -3.4567179679870605
+    pitch: 14.400405883789062

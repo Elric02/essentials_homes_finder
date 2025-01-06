@@ -1,0 +1,55 @@
+timestamps:
+  login: 1568216287997
+  lastteleport: 1568220323877
+  logout: 1568220469201
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -83.14840587000393
+  y: 69.0
+  z: 11.460228652474193
+  yaw: -74.01728057861328
+  pitch: 20.88134765625
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  maison:
+    world: world
+    x: 4778.769726757678
+    y: 69.0
+    z: -2270.253544159615
+    yaw: -174.30101013183594
+    pitch: 22.349977493286133
+    world-name: ''
+  a:
+    world: Ressource
+    x: -241.57944809607355
+    y: 71.0
+    z: -1563.1525266483666
+    yaw: -314.0997314453125
+    pitch: 21.900012969970703
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 4829.289926763503
+  y: 81.0
+  z: -2251.214142440968
+  yaw: 99.74957275390625
+  pitch: 8.55001449584961
+  world-name: ''
+ip-address: 78.206.162.43
+last-account-name: Ravensheperd
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

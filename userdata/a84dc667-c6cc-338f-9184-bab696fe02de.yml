@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477500085038
+  lastteleport: 1477500504036
+  logout: 1477500522554
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -136.37960880347606
+  y: 42.0
+  z: 479.44931717544546
+  yaw: -173.099853515625
+  pitch: 42.74998474121094
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 159.72556597711682
+  y: 64.0
+  z: 14.49200680598176
+  yaw: 294.6891784667969
+  pitch: 48.77450942993164
+  world-name: ''
+ip-address: 90.0.215.3
+last-account-name: AlexMat
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.146.103.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1633084903974
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633085092823
+  login: 1633084593391
+money: '0'
+last-account-name: BattRock29
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3457.3747102205116
+  y: 193.0
+  z: 3546.4325301937038
+  yaw: -201.25741577148438
+  pitch: 26.836111068725586
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3448.8060565669925
+  y: 53.75671810196748
+  z: 3505.2036820186836
+  yaw: 129.0619659423828
+  pitch: -3.4204039573669434

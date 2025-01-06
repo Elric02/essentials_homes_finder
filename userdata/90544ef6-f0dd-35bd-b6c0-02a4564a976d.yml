@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.254.255.23
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668961162828
+  login: 1668961154994
+money: '0'
+last-account-name: bloblolachause
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.0124274039189
+  y: 81.0
+  z: -3111.097753097013
+  yaw: -31.721487045288086
+  pitch: 4.805220603942871
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9990317540297
+  y: 81.0
+  z: -3111.1194263829516
+  yaw: -31.721487045288086
+  pitch: 4.805220603942871

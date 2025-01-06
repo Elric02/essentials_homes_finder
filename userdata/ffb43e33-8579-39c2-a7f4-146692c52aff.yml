@@ -1,0 +1,38 @@
+timestamps:
+  login: 1529506681519
+  lastteleport: 1529505364331
+  logout: 1529508301523
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.3747919442936
+  y: 63.0
+  z: 47.18047130151412
+  yaw: 162.396240234375
+  pitch: 11.49067497253418
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -182.72084045410156
+  pitch: 3.9286694526672363
+  world-name: ''
+money: '0'
+ip-address: 90.127.137.170
+last-account-name: Shaony
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

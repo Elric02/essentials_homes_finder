@@ -1,0 +1,38 @@
+timestamps:
+  login: 1546572297076
+  logout: 1546572754960
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: -264.18092295814927
+  y: 73.0
+  z: -249.25620794537795
+  yaw: 253.56761169433594
+  pitch: 27.474363327026367
+  world-name: ''
+ip-address: 94.224.18.75
+last-account-name: chaosbesar44
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

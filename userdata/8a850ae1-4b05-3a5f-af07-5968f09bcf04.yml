@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614021522162
+  lastteleport: 1614021893344
+  logout: 1614022068323
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5687.9628350492485
+  y: 61.0
+  z: 327.04475948488084
+  yaw: 231.63951110839844
+  pitch: -21.76423454284668
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -2745.7064654196956
+  y: 95.0
+  z: 594.9898481332292
+  yaw: 112.800048828125
+  pitch: 25.34996223449707
+  world-name: ''
+ip-address: 78.211.168.186
+last-account-name: Zuygui
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

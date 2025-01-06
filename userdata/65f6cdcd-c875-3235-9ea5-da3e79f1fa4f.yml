@@ -1,0 +1,63 @@
+timestamps:
+  login: 1509717507129
+  logout: 1509718710306
+  lastteleport: 1509718058199
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4859.186066366734
+  y: 71.0
+  z: -584.5129522068075
+  yaw: -0.022803878411650658
+  pitch: 9.150025367736816
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -121.9708251953125
+  pitch: 83.27867126464844
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: -6928.542145717306
+    y: 53.0
+    z: 6972.1352743958105
+    yaw: -331.95013427734375
+    pitch: 42.449981689453125
+    world-name: ''
+  shops:
+    world: world
+    x: -123.30000001192093
+    y: 46.0
+    z: 410.4636002016264
+    yaw: 13.59893798828125
+    pitch: 9.300027847290039
+    world-name: ''
+  m:
+    world: Ressource
+    x: -4685.885018116231
+    y: 5.0
+    z: 1951.6689773904836
+    yaw: -89.701904296875
+    pitch: 9.2999849319458
+    world-name: ''
+afk: false
+ip-address: 78.223.122.79
+last-account-name: M_skyboss
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1512066121498
+  lastteleport: 1512066221691
+  logout: 1512066689156
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.63974519876905
+  y: 66.5
+  z: 94.90784239292408
+  yaw: -181.2926025390625
+  pitch: 14.737933158874512
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 232.41440531109328
+  y: 65.0
+  z: -114.68253081832869
+  yaw: -134.2699737548828
+  pitch: 23.849864959716797
+  world-name: ''
+ip-address: 78.204.182.29
+last-account-name: SilverBlackHawk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

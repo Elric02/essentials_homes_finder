@@ -1,0 +1,63 @@
+timestamps:
+  login: 1496328853125
+  lastteleport: 1486760720471
+  logout: 1496328900259
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4880.545129316719
+  y: 69.0
+  z: -263.0645025058077
+  yaw: 335.050537109375
+  pitch: 14.676102638244629
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -4871.960246925999
+  y: 70.0
+  z: -245.42353810194246
+  yaw: 357.45751953125
+  pitch: 23.503803253173828
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -2078.401271221974
+    y: 64.0
+    z: 5178.454348525109
+    yaw: -93.71990966796875
+    pitch: 39.23454666137695
+    world-name: ''
+  shop:
+    world: world
+    x: -4880.586609886437
+    y: 69.0
+    z: -259.826878341984
+    yaw: 180.5021514892578
+    pitch: 78.97930145263672
+    world-name: ''
+  neige:
+    world: ressource
+    x: -2396.8943885948415
+    y: 89.0
+    z: 4390.550913832186
+    yaw: 289.9697265625
+    pitch: 8.512979507446289
+    world-name: ''
+muted: false
+ip-address: 92.155.224.185
+last-account-name: ItziQuertzZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

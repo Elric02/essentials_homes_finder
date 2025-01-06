@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510856024576
+  lastteleport: 1496942539797
+  logout: 1510856828336
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -4021.740202273716
+  y: 79.0
+  z: -2219.300000011921
+  yaw: 2.9996337890625
+  pitch: -5.699991703033447
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4869.693359453232
+  y: 65.0
+  z: 5053.718221538873
+  yaw: 18.24615478515625
+  pitch: 13.99251651763916
+  world-name: ''
+ip-address: 176.164.78.228
+last-account-name: Malikdu23
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

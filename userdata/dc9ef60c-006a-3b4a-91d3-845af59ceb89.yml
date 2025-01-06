@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508182635367
+  lastteleport: 1508183115613
+  logout: 1508183187387
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 124.30000001192093
+  y: 73.0
+  z: 71.88806086234456
+  yaw: 107.51422119140625
+  pitch: 53.700008392333984
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.69999998807907
+  y: 100.0
+  z: 18.92500001192093
+  yaw: 156.27928161621094
+  pitch: 18.32866668701172
+  world-name: ''
+ip-address: 89.157.242.139
+last-account-name: Diogene10
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

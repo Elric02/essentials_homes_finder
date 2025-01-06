@@ -1,0 +1,55 @@
+timestamps:
+  login: 1478368425523
+  lastteleport: 1478370477341
+  logout: 1478370517343
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -4926.699999988079
+  y: 32.0
+  z: -1564.699999988079
+  yaw: -168.460693359375
+  pitch: 68.4959487915039
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 10874.114154100584
+    y: 72.0
+    z: 10100.271124572319
+    yaw: 149.7979736328125
+    pitch: 48.22077941894531
+    world-name: ''
+  minage:
+    world: ressource
+    x: -4926.699999988079
+    y: 32.0
+    z: -1564.699999988079
+    yaw: -168.460693359375
+    pitch: 68.4959487915039
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 10876.802160129344
+  y: 69.0
+  z: 10096.87558618545
+  yaw: -60.941070556640625
+  pitch: 33.47520065307617
+  world-name: ''
+ip-address: 92.132.123.4
+last-account-name: ninja_II
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

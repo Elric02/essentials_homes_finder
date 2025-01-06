@@ -1,0 +1,38 @@
+timestamps:
+  login: 1491730865754
+  lastteleport: 1489333687281
+  logout: 1491730982552
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.2948601125093
+  y: 63.0
+  z: 48.29637082333624
+  yaw: 88.14017486572266
+  pitch: -1.9255003929138184
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5838.5230316747065
+  y: 59.0
+  z: -6329.300000011921
+  yaw: 20.547138214111328
+  pitch: 24.300094604492188
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 81.67.147.90
+last-account-name: ThEkIkOoLoL
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

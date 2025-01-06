@@ -1,0 +1,55 @@
+timestamps:
+  login: 1477693603541
+  lastteleport: 1477695027144
+  logout: 1477695268666
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1205.9097138769737
+  y: 122.0
+  z: -5518.388049518994
+  yaw: -83.596435546875
+  pitch: 36.08041000366211
+  world-name: ''
+homes:
+  home:
+    world: ressource
+    x: -82.62785300239918
+    y: 64.0
+    z: 524.3160986272608
+    yaw: 358.4985046386719
+    pitch: -16.049882888793945
+    world-name: ''
+  thibautlebg62:
+    world: ressource
+    x: -81.99960433472953
+    y: 65.0
+    z: 510.7224659161203
+    yaw: 76.64862060546875
+    pitch: 16.200117111206055
+    world-name: ''
+logoutlocation:
+  world: ressource
+  x: 28.033764803844896
+  y: 70.0
+  z: 488.8832721907704
+  yaw: 44.851318359375
+  pitch: 8.850038528442383
+  world-name: ''
+ip-address: 88.122.158.9
+last-account-name: Thibautlebg62
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

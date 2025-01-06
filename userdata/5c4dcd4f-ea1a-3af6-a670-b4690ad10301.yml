@@ -1,0 +1,63 @@
+timestamps:
+  login: 1477649938279
+  lastteleport: 1477651611749
+  logout: 1477652012704
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 17.699999988079078
+  y: 51.0
+  z: 454.30000001192093
+  yaw: -359.25048828125
+  pitch: 18.7500057220459
+  world-name: ''
+homes:
+  des:
+    world: world
+    x: -4832.426391878628
+    y: 52.0
+    z: 6963.4596970939365
+    yaw: -280.34814453125
+    pitch: 18.749998092651367
+    world-name: ''
+  maison:
+    world: world
+    x: -4832.60767801229
+    y: 52.0
+    z: 6963.56664475194
+    yaw: -262.04803466796875
+    pitch: 76.64998626708984
+    world-name: ''
+  mine:
+    world: ressource
+    x: 14.05080316339485
+    y: 62.0
+    z: 444.69999998807907
+    yaw: -234.89955139160156
+    pitch: 59.099979400634766
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4829.907896664913
+  y: 53.0
+  z: 6963.300000011921
+  yaw: -262.95361328125
+  pitch: -89.8499984741211
+  world-name: ''
+afk: false
+ip-address: 87.90.36.113
+last-account-name: legendgame750
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

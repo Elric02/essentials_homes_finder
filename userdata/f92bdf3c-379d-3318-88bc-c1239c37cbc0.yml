@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499879553617
+  lastteleport: 1499879717883
+  logout: 1499879987100
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -3107.699999988079
+  y: 67.0
+  z: -388.30000001192093
+  yaw: -176.73069763183594
+  pitch: 5.260317325592041
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 4104.470243932714
+  y: 44.0
+  z: 4629.02922775354
+  yaw: 170.1060028076172
+  pitch: 55.964622497558594
+  world-name: ''
+ip-address: 176.153.72.19
+last-account-name: Eskobar
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

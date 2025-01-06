@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519327952881
+  lastteleport: 1519328141303
+  logout: 1519328202265
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.7457235167931
+  y: 66.0
+  z: -4.904977721356652
+  yaw: -172.22052001953125
+  pitch: -0.2713359594345093
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -158.57083129882812
+  pitch: 16.528669357299805
+  world-name: ''
+money: '0'
+ip-address: 87.88.8.63
+last-account-name: cocog
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

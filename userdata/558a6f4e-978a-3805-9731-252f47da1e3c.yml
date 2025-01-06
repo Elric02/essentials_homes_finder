@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477233983407
+  logout: 1477234251557
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1282.473167671097
+  y: 71.0
+  z: -3815.88905267762
+  yaw: -26.999967575073242
+  pitch: 4.6500115394592285
+  world-name: ''
+ip-address: 89.227.61.50
+last-account-name: bled
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

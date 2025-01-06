@@ -1,0 +1,38 @@
+timestamps:
+  login: 1540557545332
+  lastteleport: 1536248745870
+  logout: 1540557553972
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.33242332110663
+  y: 63.0
+  z: 39.91163398548091
+  yaw: 172.35220336914062
+  pitch: -4.7140679359436035
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 1040.2264291004956
+  y: 59.493291369991866
+  z: 1126.0122377488785
+  yaw: 325.177734375
+  pitch: 4.555515766143799
+  world-name: ''
+ip-address: 37.173.146.255
+last-account-name: Z3lG3tsu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1501837439767
+  lastteleport: 1501773151537
+  logout: 1501841812668
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 16.198849720057133
+  y: 70.0
+  z: 120.00869616667204
+  yaw: -193.53515625
+  pitch: 9.300048828125
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 5453.420427469699
+    y: 79.0
+    z: -2164.8898381571094
+    yaw: -7.09063720703125
+    pitch: 49.500003814697266
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 5451.9248585548685
+  y: 79.0
+  z: -2164.5372883776226
+  yaw: 218.98829650878906
+  pitch: 18.599952697753906
+  world-name: ''
+ip-address: 81.244.75.58
+last-account-name: Mazikeen_3
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1509557729750
+  logout: 1509562844634
+  lastteleport: 1509562814220
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 3.3000000119209254
+  y: 4.0
+  z: 73.29959513824366
+  yaw: -118.54052734375
+  pitch: 42.14999771118164
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2657.267186341727
+    y: 63.0
+    z: -5364.655582915034
+    yaw: -9.75128173828125
+    pitch: 16.200044631958008
+    world-name: ''
+  manoir:
+    world: world
+    x: 5622.079618726127
+    y: 68.0
+    z: -3171.300000011921
+    yaw: 51.59588623046875
+    pitch: 0.44997575879096985
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5639.562506320653
+  y: 71.0
+  z: -3173.1808557866384
+  yaw: -192.75418090820312
+  pitch: 25.349992752075195
+  world-name: ''
+afk: false
+ip-address: 88.163.211.58
+last-account-name: Zoro_Roronoa
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

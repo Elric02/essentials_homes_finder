@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.238.26.28
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1669057306589
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669057532992
+  login: 1669056132190
+money: '50.0'
+lastlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: 1.0671387891255255
+  y: 90.0
+  z: 0.21516660363269288
+  yaw: 85.49712371826172
+  pitch: 4.385792255401611
+last-account-name: Yuriitae_
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -46.06410087518915
+  y: 70.0
+  z: 25.031728429211253
+  yaw: -17.815673828125
+  pitch: 27.449674606323242

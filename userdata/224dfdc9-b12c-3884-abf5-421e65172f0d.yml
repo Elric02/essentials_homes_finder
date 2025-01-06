@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521576536158
+  lastteleport: 1521576543933
+  logout: 1521576547248
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 159.28949433370855
+  y: 64.0
+  z: 13.01842332465521
+  yaw: -232.67074584960938
+  pitch: 51.178646087646484
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+ip-address: 109.16.163.132
+last-account-name: Iwixi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

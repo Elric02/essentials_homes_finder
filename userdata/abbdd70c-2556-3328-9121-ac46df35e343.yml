@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.171.57.196
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1647102638680
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1647102663881
+  login: 1647102504343
+money: '0'
+last-account-name: Morgan7735
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 148.84617415309378
+  y: 63.0
+  z: 51.59358159839206
+  yaw: 164.9470977783203
+  pitch: 2.040578842163086
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -296.6036539257326
+  y: 64.0
+  z: 356.5486439293353
+  yaw: -111.14964294433594
+  pitch: 1.2000471353530884

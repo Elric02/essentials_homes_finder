@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516624042440
+  lastteleport: 1510958912750
+  logout: 1516624059748
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -616.5
+  y: 77.0
+  z: -1545.5
+  yaw: -265.4106750488281
+  pitch: -3.833111524581909
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -157.0992606421352
+  y: 47.0
+  z: 504.4879961901628
+  yaw: 180.26617431640625
+  pitch: 6.131397724151611
+  world-name: ''
+ip-address: 88.123.98.136
+last-account-name: kako
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

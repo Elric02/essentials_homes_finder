@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467296447447
+  lastteleport: 1467296501104
+  logout: 1467296546285
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 164.36996429315917
+  y: 150.0
+  z: -120.00116929221248
+  yaw: 37.944091796875
+  pitch: 68.71672821044922
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 205.9070139748394
+  y: 63.0
+  z: 12.300000011920927
+  yaw: -212.36917114257812
+  pitch: 4.254251480102539
+  world-name: ''
+ip-address: 90.66.48.112
+last-account-name: Chi_Chips
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

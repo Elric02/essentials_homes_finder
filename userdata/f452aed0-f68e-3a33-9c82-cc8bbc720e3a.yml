@@ -1,0 +1,38 @@
+timestamps:
+  login: 1491936738043
+  logout: 1491937832013
+  lastteleport: 1491937698636
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: -4503.084742649419
+  y: 49.0
+  z: 5683.950757882359
+  yaw: 22.927215576171875
+  pitch: 5.031886577606201
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 153.01952792195357
+  y: 64.0
+  z: 19.18438749373569
+  yaw: 260.48736572265625
+  pitch: 15.474535942077637
+  world-name: ''
+ip-address: 31.38.141.83
+last-account-name: missmiss
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

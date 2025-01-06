@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.65.134.146
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1702924224669
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1708906882202
+  login: 1708906880643
+money: '100.0'
+last-account-name: Wesey7FR
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.3193844537492
+  y: 64.0
+  z: 19.52225789090084
+  yaw: 179.40135192871094
+  pitch: 3.299962043762207
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 7516.9946404785505
+  y: 64.0
+  z: -6570.970060222249
+  yaw: -167.84971618652344
+  pitch: -0.8999995589256287

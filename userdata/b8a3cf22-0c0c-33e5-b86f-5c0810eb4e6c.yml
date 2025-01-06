@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521886138226
+  logout: 1521886224712
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5627.300000011921
+  y: 59.0
+  z: -5141.699999988079
+  yaw: 268.1999816894531
+  pitch: 20.850008010864258
+  world-name: ''
+ip-address: 78.238.124.79
+last-account-name: willi54
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

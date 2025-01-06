@@ -1,0 +1,63 @@
+timestamps:
+  login: 1488123684462
+  lastteleport: 1487183427650
+  logout: 1488123723674
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 501.69999998807907
+  y: 34.0
+  z: -1502.699999988079
+  yaw: 68.98544311523438
+  pitch: 36.54718017578125
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -1790.5
+    y: 55.0
+    z: 3975.5
+    yaw: 355.470947265625
+    pitch: 36.59208679199219
+    world-name: ''
+  village:
+    world: ressource
+    x: -3986.6624110831062
+    y: 66.0
+    z: 6918.986413673487
+    yaw: 193.81344604492188
+    pitch: 21.504106521606445
+    world-name: ''
+  m:
+    world: world
+    x: 1394.5
+    y: 64.0
+    z: -3007.5
+    yaw: 336.9451599121094
+    pitch: 19.293766021728516
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1361.7552679672133
+  y: 65.0
+  z: -3027.1391856565383
+  yaw: 21.734703063964844
+  pitch: 26.301368713378906
+  world-name: ''
+afk: false
+ip-address: 79.88.170.81
+last-account-name: Karcharos
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

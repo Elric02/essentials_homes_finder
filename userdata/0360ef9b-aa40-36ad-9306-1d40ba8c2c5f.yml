@@ -1,0 +1,47 @@
+timestamps:
+  login: 1562425594856
+  lastteleport: 1562427389579
+  logout: 1562427870168
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.79406074646317
+  y: 63.0
+  z: 5.559147246923694
+  yaw: -157.07080078125
+  pitch: 47.57866287231445
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: -3695.359028157195
+    y: 132.0
+    z: -2821.4722744220385
+    yaw: -97.20149230957031
+    pitch: 76.04999542236328
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -3697.783170366823
+  y: 118.0
+  z: -2804.823646632966
+  yaw: -239.55169677734375
+  pitch: 40.649959564208984
+  world-name: ''
+ip-address: 78.247.190.61
+last-account-name: ThePixel78Phenix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483549248096
+  lastteleport: 1483549489542
+  logout: 1483550634446
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2510.7368088329513
+  y: 64.0
+  z: 6822.0546278235315
+  yaw: 307.6656494140625
+  pitch: -41.74290084838867
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4229.145671635731
+  y: 62.9375
+  z: -3689.57987671678
+  yaw: 270.04248046875
+  pitch: 4.659763336181641
+  world-name: ''
+ip-address: 92.142.47.214
+last-account-name: Ex0TiiKinG
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

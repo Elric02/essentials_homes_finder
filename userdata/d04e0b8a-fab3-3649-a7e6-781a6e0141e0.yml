@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 128.78.49.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1678555493654
+  login: 1678555431519
+money: '0'
+last-account-name: crosdark
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9880012068298
+  y: 81.0
+  z: -3111.789449354849
+  yaw: -159.89788818359375
+  pitch: 5.999968528747559
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9880012068298
+  y: 81.0
+  z: -3111.789449354849
+  yaw: -81.29847717285156
+  pitch: 11.099971771240234

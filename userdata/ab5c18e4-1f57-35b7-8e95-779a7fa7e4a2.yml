@@ -1,0 +1,38 @@
+timestamps:
+  login: 1489231287043
+  logout: 1489231405041
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.98036483183793
+  y: 63.0
+  z: -13.61699338581199
+  yaw: -183.09075927734375
+  pitch: -16.294010162353516
+  world-name: ''
+ip-address: 90.37.147.154
+last-account-name: Sterson13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

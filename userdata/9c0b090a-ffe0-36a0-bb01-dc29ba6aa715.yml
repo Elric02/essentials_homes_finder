@@ -1,0 +1,38 @@
+timestamps:
+  login: 1589111967468
+  logout: 1589112074060
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 148.41355282481663
+  y: 70.0
+  z: 105.2507054860173
+  yaw: -156.3712158203125
+  pitch: 19.380584716796875
+  world-name: ''
+ip-address: 86.235.176.241
+last-account-name: Sweade
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

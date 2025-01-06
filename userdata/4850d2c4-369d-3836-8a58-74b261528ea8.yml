@@ -1,0 +1,38 @@
+timestamps:
+  login: 1620418749987
+  logout: 1620418766884
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 163.70938756894083
+  y: 62.141448729511126
+  z: 78.12548467443492
+  yaw: 220.87757873535156
+  pitch: 6.640749931335449
+  world-name: ''
+ip-address: 105.97.0.119
+last-account-name: Snowkhey
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

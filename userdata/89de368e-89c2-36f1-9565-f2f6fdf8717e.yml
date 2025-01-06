@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468843087693
+  logout: 1468843119782
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 145.97784479636778
+  y: 64.0
+  z: 18.915622536722154
+  yaw: -277.1972961425781
+  pitch: 8.924181938171387
+  world-name: ''
+ip-address: 91.177.248.144
+last-account-name: Puppet101
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1520187236048
+  lastteleport: 1520187271860
+  logout: 1520187296399
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.82693920641853
+  y: 64.0
+  z: 13.671272240542015
+  yaw: -132.58053588867188
+  pitch: 8.04843807220459
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  home:
+    world: world
+    x: 667.6225602972015
+    y: 64.0
+    z: 4929.097398477262
+    yaw: -265.790771484375
+    pitch: 11.576212882995605
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 720.8219121434066
+  y: 64.0
+  z: 4934.467242143279
+  yaw: -255.2669677734375
+  pitch: 7.437605857849121
+  world-name: ''
+ip-address: 83.134.41.72
+last-account-name: Diablo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

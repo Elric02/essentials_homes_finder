@@ -1,0 +1,38 @@
+timestamps:
+  login: 1608586612785
+  lastteleport: 1608586874657
+  logout: 1608587057200
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 716.002033634365
+  y: 65.0
+  z: 4233.524163432221
+  yaw: -25.69117546081543
+  pitch: 19.844825744628906
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 131.12895456250385
+  y: 63.0
+  z: -8.541813767616812
+  yaw: 296.42620849609375
+  pitch: 3.821889877319336
+  world-name: ''
+ip-address: 91.160.143.29
+last-account-name: TheBeeLaMouche
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

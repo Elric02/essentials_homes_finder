@@ -1,0 +1,38 @@
+timestamps:
+  login: 1625447650836
+  logout: 1625447731334
+  lastteleport: 1625447714163
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.04994399769865
+  y: 63.0
+  z: 63.97017898895356
+  yaw: 185.48211669921875
+  pitch: 21.865888595581055
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -48.57575515767797
+  y: 61.89495449587802
+  z: -11.017797910897539
+  yaw: 171.6267547607422
+  pitch: 7.546501636505127
+  world-name: ''
+ip-address: 31.38.201.62
+last-account-name: VARGUN_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

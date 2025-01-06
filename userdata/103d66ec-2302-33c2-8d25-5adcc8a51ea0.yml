@@ -1,0 +1,47 @@
+timestamps:
+  login: 1509293126117
+  lastteleport: 1509199898839
+  logout: 1509302719884
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 404.77199535290873
+  y: 71.0
+  z: -208.25148190407575
+  yaw: 209.2122802734375
+  pitch: -39.15018844604492
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 1148.118686199909
+    y: 70.0
+    z: -1663.9464451216816
+    yaw: 27.29913330078125
+    pitch: 10.799999237060547
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1166.4598779449057
+  y: 64.0
+  z: -1662.9703203332094
+  yaw: -229.5205078125
+  pitch: 21.299819946289062
+  world-name: ''
+afk: false
+ip-address: 92.133.101.196
+last-account-name: Amnesia
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

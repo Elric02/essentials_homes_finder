@@ -1,0 +1,198 @@
+npc: false
+last-account-name: Bouh
+money: '242862.49637254900215390'
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.66.229.56
+afk: false
+socialspy: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1697100182202
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697100184616
+  login: 1697099810650
+  kits:
+    vip: 1696695866411
+    explorateur: 1696695963766
+    stationaute: 1696695876909
+    ambassadeur: 1696696006127
+    stadawan: 1678203652976
+    spaceranger: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 141.92495021031667
+  y: 63.0
+  z: 24.565436527125094
+  yaw: 67.81533813476562
+  pitch: 27.15017318725586
+homes:
+  h:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -1213.781843119845
+    y: 122.0
+    z: -5527.940803614095
+    yaw: -22.70659637451172
+    pitch: 0.5934549570083618
+    world-name: world
+  b:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -1258.080141256557
+    y: 63.0
+    z: -5597.580508973318
+    yaw: -276.21844482421875
+    pitch: 24.502975463867188
+    world-name: world
+  h2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 7837.300000011921
+    y: 80.0
+    z: 284.30000001192093
+    yaw: -23.966567993164062
+    pitch: 29.882953643798828
+    world-name: world
+  s:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -1096.3093174846922
+    y: 63.0
+    z: -5487.460164782073
+    yaw: -92.43492126464844
+    pitch: 6.800750732421875
+    world-name: world
+  concours_laby:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    x: -4875.282286839887
+    y: 4.0
+    z: -4767.024703093847
+    yaw: -1.9475852251052856
+    pitch: 2.4791793823242188
+    world-name: Event
+  castle:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -1321.1834126084009
+    y: 79.0
+    z: -5358.286325780471
+    yaw: 178.4510955810547
+    pitch: 11.674688339233398
+    world-name: world
+  concours_bateaux:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    x: -7588.5
+    y: 14.0
+    z: -7574.5
+    yaw: 116.29867553710938
+    pitch: 20.05670166015625
+    world-name: Event
+  lekanto:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 7855.692756237338
+    y: 63.0
+    z: 7864.221111886784
+    yaw: 124.752685546875
+    pitch: 5.312534332275391
+    world-name: world
+  messa:
+    world: e929909b-d39e-492b-9ab3-07c468f510b6
+    x: 399.3827508219144
+    y: 64.0
+    z: -1745.2440483353637
+    yaw: -219.6791534423828
+    pitch: 44.26238250732422
+    world-name: Ressource
+  sucre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -1044.9582515927912
+    y: 66.0
+    z: -5390.699861593952
+    yaw: -111.15097045898438
+    pitch: 15.421859741210938
+    world-name: world
+  r:
+    world: e929909b-d39e-492b-9ab3-07c468f510b6
+    world-name: Ressource
+    x: -3210.6795710753877
+    y: -25.0
+    z: -1826.300000011921
+    yaw: 160.30450439453125
+    pitch: 21.400299072265625
+  e:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1239.0055518726163
+    y: 148.0
+    z: -5512.944065571562
+    yaw: -20.92532730102539
+    pitch: 17.74341583251953
+  a:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 2201.1982616755836
+    y: 67.0
+    z: 1643.3559289340105
+    yaw: -110.82659912109375
+    pitch: 40.5545654296875
+  aa:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 2252.2052218507283
+    y: 38.0
+    z: 1725.4767486884114
+    yaw: 89.329833984375
+    pitch: 10.041339874267578
+  m:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1172.9654418394584
+    y: 20.0
+    z: -5481.515318614127
+    yaw: -89.36962890625
+    pitch: 16.277956008911133
+  rr:
+    world: e929909b-d39e-492b-9ab3-07c468f510b6
+    world-name: Ressource
+    x: 171.69999998807907
+    y: -40.0
+    z: -3022.300000011921
+    yaw: 147.5977783203125
+    pitch: 25.63217544555664
+  rrr:
+    world: e929909b-d39e-492b-9ab3-07c468f510b6
+    world-name: Ressource
+    x: -1457.4340589466697
+    y: -17.0
+    z: 4190.575030142697
+    yaw: -50.483734130859375
+    pitch: 22.058420181274414
+  sp:
+    world: 199fa0fd-d85c-4ac2-b213-91f380b2bca7
+    world-name: RessourceNether
+    x: -543.4037986247564
+    y: 70.0
+    z: 2282.3063229905965
+    yaw: -127.8717041015625
+    pitch: 18.47273063659668
+  f:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1214.571913068932
+    y: 76.0
+    z: -5422.409398940223
+    yaw: -98.75656127929688
+    pitch: 11.393446922302246
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -1213.5
+  y: 122.0
+  z: -5527.5
+  yaw: -23.756593704223633
+  pitch: -0.9065453410148621

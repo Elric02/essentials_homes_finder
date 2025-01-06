@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592770784874
+  lastteleport: 1592771396537
+  logout: 1592771608471
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7.271803232024268
+  y: 67.0
+  z: 11.036112754376223
+  yaw: -161.05413818359375
+  pitch: 18.127470016479492
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1436.1822223014779
+  y: 63.0
+  z: -2029.4289986022827
+  yaw: -307.76513671875
+  pitch: 7.82040548324585
+  world-name: ''
+ip-address: 92.171.32.7
+last-account-name: juluce51
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

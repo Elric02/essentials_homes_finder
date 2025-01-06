@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482352583045
+  lastteleport: 1482352614985
+  logout: 1482352733805
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.12700482112427
+  y: 63.0
+  z: 50.35283380987349
+  yaw: 88.90240478515625
+  pitch: 21.997392654418945
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 178.8122558343532
+  y: 63.0
+  z: -6.615168578204999
+  yaw: -21.51031494140625
+  pitch: 24.924530029296875
+  world-name: ''
+ip-address: 89.157.203.142
+last-account-name: arrow059
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

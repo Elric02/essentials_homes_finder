@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518023485057
+  logout: 1518023513500
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 149.6673730144584
+  y: 66.0
+  z: 104.2695887862115
+  yaw: -83.60309600830078
+  pitch: 23.340675354003906
+  world-name: ''
+ip-address: 176.159.110.80
+last-account-name: _ArGameX9_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

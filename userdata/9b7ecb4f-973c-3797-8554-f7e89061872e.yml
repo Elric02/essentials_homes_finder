@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484162560577
+  logout: 1484162836109
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 100.032737605507
+  y: 64.0
+  z: 28.954801113377336
+  yaw: -319.07916259765625
+  pitch: -1.0282293558120728
+  world-name: ''
+ip-address: 96.20.165.63
+last-account-name: MainGraves
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

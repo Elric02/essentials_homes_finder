@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.50.232.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1670077341769
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670158905547
+  login: 1670157522100
+money: '50.0'
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -219.30000001192093
+  y: 65.5
+  z: -80.69999998807907
+  yaw: -14.605119705200195
+  pitch: 46.99195861816406
+last-account-name: Popolito44
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -206.73083626076829
+  y: 86.85199492411944
+  z: -83.20549530347894
+  yaw: 62.67919921875
+  pitch: 28.5599365234375

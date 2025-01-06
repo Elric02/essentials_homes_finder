@@ -1,0 +1,63 @@
+timestamps:
+  login: 1544015624614
+  lastteleport: 1544015649928
+  logout: 1544015771597
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1713.5
+  y: 68.0
+  z: 3970.5
+  yaw: -84.6701889038086
+  pitch: 53.448490142822266
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -623.301653564442
+  y: 64.5
+  z: -635.7864115604341
+  yaw: 92.17132568359375
+  pitch: 82.8600082397461
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -1713.1297750868885
+    y: 69.0
+    z: 3970.488650119862
+    yaw: -15.40557861328125
+    pitch: 19.350004196166992
+    world-name: ''
+  p6:
+    world: world
+    x: 2691.1791151018365
+    y: 66.0
+    z: -6111.300000011921
+    yaw: -82.1944580078125
+    pitch: 19.799945831298828
+    world-name: ''
+  p3:
+    world: Ressource
+    x: -1126.9150475868148
+    y: 63.0
+    z: -299.85244279830806
+    yaw: -281.7519836425781
+    pitch: 16.137313842773438
+    world-name: ''
+jailed: false
+ip-address: 176.155.177.45
+last-account-name: M3M2005
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

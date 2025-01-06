@@ -1,0 +1,47 @@
+timestamps:
+  login: 1508182568372
+  lastteleport: 1508185107086
+  logout: 1508186054007
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -607.8706605832232
+  y: 64.0
+  z: -657.7184503917355
+  yaw: -343.5972900390625
+  pitch: 16.226425170898438
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -606.9015747759635
+    y: 64.0
+    z: -661.0249410428505
+    yaw: -351.8472900390625
+    pitch: 17.726421356201172
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -607.2896038952641
+  y: 64.0
+  z: -654.9516819664582
+  yaw: -170.79733276367188
+  pitch: 27.32640838623047
+  world-name: ''
+ip-address: 90.89.93.148
+last-account-name: claclamimosa
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.37.227.98
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698505389158
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698505651183
+  login: 1698504867875
+money: '50.0'
+last-account-name: _DiegO55
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 3084.4986734969734
+  y: 73.0
+  z: -2234.834714357992
+  yaw: -99.1783447265625
+  pitch: 16.651630401611328
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 4197.174478632679
+  y: 63.0625
+  z: -1818.7586004652383
+  yaw: 98.41204833984375
+  pitch: 11.982368469238281

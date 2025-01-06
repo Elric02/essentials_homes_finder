@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614545242461
+  lastteleport: 1614545901942
+  logout: 1614546105055
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+afk: false
+logoutlocation:
+  world: Ressource
+  x: 3176.522268102967
+  y: 72.0
+  z: -2106.507261894926
+  yaw: 1.445068359375
+  pitch: 33.26033020019531
+  world-name: ''
+ip-address: 184.95.193.202
+last-account-name: MoonSushiO_o
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592670858564
+  lastteleport: 1592669968496
+  logout: 1592670998878
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.08820655551617
+  y: 63.0
+  z: 41.81692467828863
+  yaw: 223.7795867919922
+  pitch: 12.47856330871582
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -69.85906010588677
+  y: 37.0
+  z: 170.69999998807907
+  yaw: 239.54278564453125
+  pitch: 5.099952220916748
+  world-name: ''
+ip-address: 88.121.159.21
+last-account-name: zertaqs21
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,51 @@
+timestamps:
+  login: 1467716412889
+  lastteleport: 1467716421550
+  logout: 1467716528312
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.63577431765958
+  y: 28.0
+  z: 18.877739147182385
+  yaw: 18.600200653076172
+  pitch: 20.250019073486328
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 112.75405498887866
+  y: 63.0
+  z: -159.1180226796344
+  yaw: 198.3009033203125
+  pitch: 10.350019454956055
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 110.21493360606277
+    y: 63.0
+    z: -166.67875838590527
+    yaw: -195.74908447265625
+    pitch: 6.900022506713867
+    world-name: ''
+muted: false
+ip-address: 86.197.138.214
+last-account-name: kiliandu83
+mail:
+- legacy: true
+  read: false
+  message: §6[§rbryjnolf§6] §ril est INTERDIS de vendre des maisons !
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

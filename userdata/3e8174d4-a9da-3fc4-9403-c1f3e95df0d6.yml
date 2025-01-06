@@ -1,0 +1,38 @@
+timestamps:
+  login: 1589968119120
+  logout: 1589968490913
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -171.69999998807907
+  y: 29.0
+  z: 2.699999988079071
+  yaw: 70.7997817993164
+  pitch: 90.0
+  world-name: ''
+ip-address: 92.184.108.44
+last-account-name: DJ_Immax
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

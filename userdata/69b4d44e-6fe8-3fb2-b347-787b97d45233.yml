@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614769247364
+  logout: 1614769511357
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.72876519521523
+  y: 65.0
+  z: 85.09374411096971
+  yaw: 201.69686889648438
+  pitch: 25.890636444091797
+  world-name: ''
+ip-address: 92.145.203.207
+last-account-name: Akhezon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

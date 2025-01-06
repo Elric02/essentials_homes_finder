@@ -1,0 +1,63 @@
+timestamps:
+  login: 1652896270442
+  logout: 1652899412706
+  lastteleport: 1652898772848
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ddf65972-e2e1-484e-b68b-78f4e36f8fd9
+  x: -1468.822331637512
+  y: -44.0
+  z: 302.1175447743885
+  yaw: -101.540771484375
+  pitch: -2.099942207336426
+  world-name: Ressource
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -1858.4653739008286
+  y: 97.0
+  z: -2481.2517688322273
+  yaw: -8.287872314453125
+  pitch: 7.349952220916748
+  world-name: world
+money: '0'
+homes:
+  boubou:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1731.5
+    y: 63.0
+    z: 2300.5
+    yaw: -262.52264404296875
+    pitch: 25.94981575012207
+    world-name: world
+  village:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5657.2903469545845
+    y: 68.0
+    z: 5130.300681735144
+    yaw: 354.1490478515625
+    pitch: 20.250181198120117
+    world-name: world
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -1807.6486781185458
+    y: 66.9375
+    z: -2437.745118805678
+    yaw: 180.2606964111328
+    pitch: 25.799991607666016
+    world-name: world
+afk: false
+ip-address: 92.138.51.185
+last-account-name: Slasheuse
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

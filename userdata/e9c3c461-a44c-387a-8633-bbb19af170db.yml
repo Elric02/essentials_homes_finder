@@ -1,0 +1,177 @@
+timestamps:
+  login: 1730490368755
+  lastteleport: 1667406098780
+  logout: 1730490473451
+  kits:
+    color: 1632857700534
+    vip: 1635714546007
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -7006.1952152492595
+  y: 75.0
+  z: 96.63092951406844
+  yaw: 112.46004486083984
+  pitch: 20.79973793029785
+  world-name: world
+money: '171.7599999999999997'
+afk: false
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -7004.705019424609
+  y: 75.0
+  z: 97.7973900564107
+  yaw: 130.7606658935547
+  pitch: 13.149625778198242
+  world-name: world
+homes:
+  coco2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -7136.63172386733
+    y: 65.0
+    z: 377.3787276700419
+    yaw: 277.6051330566406
+    pitch: 53.64979934692383
+    world-name: world
+  inte:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -7209.082498457119
+    y: 123.9375
+    z: -5490.592787260783
+    yaw: 12.8509521484375
+    pitch: 9.149059295654297
+    world-name: world
+  corail:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 4751.126918224516
+    y: 59.47801471889515
+    z: -1467.9457326551722
+    yaw: -82.41299438476562
+    pitch: 50.33118438720703
+    world-name: world
+  chat:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -7206.330503922359
+    y: 56.0
+    z: 541.1713858136324
+    yaw: -110.68024444580078
+    pitch: 31.802377700805664
+    world-name: world
+  kiki:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 969.6799566071179
+    y: 62.0
+    z: -2093.5624538298175
+    yaw: 259.828857421875
+    pitch: 69.69986724853516
+    world-name: world
+  coco1:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 7099.086527974086
+    y: 69.0
+    z: -2797.3529904737825
+    yaw: 348.47662353515625
+    pitch: 90.0
+    world-name: world
+  slime:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 31.40894027656219
+    y: 62.0
+    z: -857.6509233350351
+    yaw: -87.39599609375
+    pitch: 46.17574691772461
+  tom_3:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3678.0235602942676
+    y: 77.0
+    z: -2483.1608832752127
+    yaw: 15.004388809204102
+    pitch: 35.55013656616211
+  miss:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 4284.691423589593
+    y: 125.0
+    z: -1508.0038438320237
+    yaw: 70.96734619140625
+    pitch: 37.512474060058594
+  nether:
+    world: 889c592f-aaa9-4fbd-abc8-8414e32cfca2
+    world-name: Ressourcenether
+    x: -384.7518318404685
+    y: 35.0
+    z: -1287.139760551768
+    yaw: 206.84393310546875
+    pitch: -23.24981117248535
+  end:
+    world: 0a8bffbf-cea6-409e-a652-e9cc6f5e8360
+    world-name: End
+    x: 37.6455482871939
+    y: 28.0
+    z: -370.3221721018211
+    yaw: 350.30059814453125
+    pitch: 34.19989776611328
+  ressource:
+    world: bd63a69b-f162-438e-8437-fbdb5ea04361
+    world-name: Ressource
+    x: 262.86153252447366
+    y: 31.0
+    z: 2143.207006270617
+    yaw: -8.5272216796875
+    pitch: 2.0994834899902344
+  kelp:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7317.354862116208
+    y: 24.781567459063705
+    z: -5721.606946392721
+    yaw: -178.448486328125
+    pitch: 90.0
+  roi:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 77.30000001192093
+    y: 7.0
+    z: 156.16254549486192
+    yaw: 49.1031494140625
+    pitch: 10.62571907043457
+jailed: false
+ip-address: 82.120.165.154
+last-account-name: cocotte_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+mail:
+- legacy: false
+  read: true
+  message: j'aurais pu pas le faire
+  sender-name: Taha133
+  sender-uuid: 1a4ba2f5-82b1-3220-adf6-2cbfb8e26fea
+  timestamp: 1633778166303
+  expire: 0
+- legacy: false
+  read: true
+  message: '&3&lpelle pour soul sand'
+  sender-name: IntegraleEpice
+  sender-uuid: bdccd7c0-d924-3f6c-a006-ba04d8529248
+  timestamp: 1633732983980
+  expire: 0
+- legacy: false
+  read: true
+  message: Tu m'nerves ta volé mon argent espèce d'escro - Anonyme
+  sender-name: Taha133
+  sender-uuid: 1a4ba2f5-82b1-3220-adf6-2cbfb8e26fea
+  timestamp: 1633343874527
+  expire: 0
+nickname: cocotte

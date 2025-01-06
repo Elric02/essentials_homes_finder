@@ -1,0 +1,63 @@
+timestamps:
+  login: 1508537800598
+  lastteleport: 1508537856247
+  logout: 1508537919118
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 119.59731240439089
+  y: 66.0
+  z: -2.9537515630212123
+  yaw: -303.48638916015625
+  pitch: 16.0831241607666
+  world-name: ''
+money: '0'
+homes:
+  pillage:
+    world: Ressource
+    x: 124.57585246538251
+    y: 66.0
+    z: -4.15073965518335
+    yaw: -174.9364013671875
+    pitch: 13.233121871948242
+    world-name: ''
+  a:
+    world: Ressource
+    x: 95.46468057950175
+    y: 64.0
+    z: -30.91267693688924
+    yaw: -51.336612701416016
+    pitch: 37.79999542236328
+    world-name: ''
+  at:
+    world: Ressource
+    x: 95.46468057950175
+    y: 64.0
+    z: -30.91267693688924
+    yaw: -51.336612701416016
+    pitch: 37.79999542236328
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -179.87083435058594
+  pitch: 3.4786696434020996
+  world-name: ''
+ip-address: 92.154.145.120
+last-account-name: PookiePowerYT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

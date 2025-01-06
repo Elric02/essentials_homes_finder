@@ -1,0 +1,38 @@
+timestamps:
+  login: 1523129083484
+  lastteleport: 1523129166513
+  logout: 1523129232677
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.46362372437727
+  y: 66.0
+  z: 43.921432410415534
+  yaw: 11.832623481750488
+  pitch: -5.5160231590271
+  world-name: ''
+logoutlocation:
+  world: world_nether
+  x: 40.37115213070094
+  y: 36.0
+  z: -37.11440447625633
+  yaw: 183.20486450195312
+  pitch: 27.781024932861328
+  world-name: ''
+ip-address: 88.160.92.56
+last-account-name: Mylan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

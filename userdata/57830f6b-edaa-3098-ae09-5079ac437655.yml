@@ -1,0 +1,38 @@
+timestamps:
+  login: 1606045389882
+  lastteleport: 1606046004360
+  logout: 1606046046580
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -39.50281391567722
+  y: 64.5
+  z: -361.45292557137134
+  yaw: -90.05175018310547
+  pitch: 21.749935150146484
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.20134383060903
+  y: 63.0
+  z: 54.19549873788553
+  yaw: -23.121002197265625
+  pitch: 4.678658485412598
+  world-name: ''
+ip-address: 92.167.211.204
+last-account-name: spartaExillence
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

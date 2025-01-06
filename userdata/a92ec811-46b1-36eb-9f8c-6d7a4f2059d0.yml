@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477796871350
+  logout: 1477796945520
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -6707.955658226021
+  y: 84.0
+  z: 2268.4974599740285
+  yaw: -75.00006103515625
+  pitch: 16.950000762939453
+  world-name: ''
+ip-address: 92.141.142.156
+last-account-name: IG_DLNDark
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

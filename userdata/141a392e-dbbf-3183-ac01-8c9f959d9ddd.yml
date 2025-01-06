@@ -1,0 +1,38 @@
+timestamps:
+  login: 1555280305122
+  lastteleport: 1555280352611
+  logout: 1555281074879
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.2721772553484
+  y: 66.5
+  z: 95.25776882600053
+  yaw: 186.695068359375
+  pitch: 27.990617752075195
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 181.74509474573625
+  y: 59.0
+  z: 2137.0973449488097
+  yaw: -89.96160888671875
+  pitch: 13.199982643127441
+  world-name: ''
+ip-address: 93.23.249.42
+last-account-name: neobip
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

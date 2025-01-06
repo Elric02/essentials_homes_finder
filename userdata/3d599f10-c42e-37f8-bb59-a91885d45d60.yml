@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476300710451
+  logout: 1476300973103
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 118.02245268307102
+  y: 58.0
+  z: 52.92663907358844
+  yaw: -249.347412109375
+  pitch: -0.15002334117889404
+  world-name: ''
+ip-address: 41.99.43.111
+last-account-name: Porky
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.2.106.70
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1661089307240
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672105304842
+  login: 1662476782518
+money: '0'
+last-account-name: Stabiloooo
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 24.013087576089845
+  y: 78.4769956154154
+  z: -74.98993997350108
+  yaw: 89.29052734375
+  pitch: 4.507444381713867
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -181.17506888167668
+  y: 65.0
+  z: -12.387341080883893
+  yaw: -105.4852294921875
+  pitch: -13.59219741821289

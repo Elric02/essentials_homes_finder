@@ -1,0 +1,38 @@
+timestamps:
+  login: 1489993583176
+  logout: 1489993671021
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 128.53357383250352
+  y: 63.0
+  z: 0.3057258662887533
+  yaw: -3.347442626953125
+  pitch: -8.45258617401123
+  world-name: ''
+ip-address: 92.171.170.88
+last-account-name: Leo_Demo122
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

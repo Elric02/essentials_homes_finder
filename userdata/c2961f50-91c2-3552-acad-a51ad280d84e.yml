@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500137361905
+  logout: 1500137542220
+  lastteleport: 1500137487639
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.41345594949317
+  y: 64.0
+  z: 10.797928792863312
+  yaw: -89.29739379882812
+  pitch: 15.600000381469727
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 1.0089009241256621
+  y: 53.27661535103557
+  z: 56.527164028364126
+  yaw: -3.335693359375
+  pitch: 0.45001220703125
+  world-name: ''
+ip-address: 81.241.83.58
+last-account-name: Lexi_Games
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

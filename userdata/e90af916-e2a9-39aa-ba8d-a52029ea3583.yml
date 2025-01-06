@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483829043127
+  logout: 1483829547223
+  lastteleport: 1483829378710
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -466.9513369235039
+  y: 64.02799997925757
+  z: -2202.5427400606613
+  yaw: -185.61471557617188
+  pitch: 32.803443908691406
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: 72.45748901367188
+  pitch: 12.154112815856934
+  world-name: ''
+ip-address: 82.250.97.226
+last-account-name: Feli
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

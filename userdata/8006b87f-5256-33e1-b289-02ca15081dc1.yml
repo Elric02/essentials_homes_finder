@@ -1,0 +1,38 @@
+timestamps:
+  login: 1573470156322
+  logout: 1573470214989
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 19.91156232348166
+  y: 80.0565400975214
+  z: 1678.4526100510982
+  yaw: -334.9005126953125
+  pitch: 41.73733139038086
+  world-name: ''
+ip-address: 90.91.72.61
+last-account-name: gagachouc
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

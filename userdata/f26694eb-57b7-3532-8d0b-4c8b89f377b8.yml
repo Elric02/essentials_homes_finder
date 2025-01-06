@@ -1,0 +1,38 @@
+timestamps:
+  login: 1501541941447
+  lastteleport: 1501542349694
+  logout: 1501542847652
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0666049155994
+  y: 64.0
+  z: 17.162138216376942
+  yaw: -249.04742431640625
+  pitch: 5.947409152984619
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5604.504720885571
+  y: 68.9375
+  z: 2049.853187215948
+  yaw: 232.4005126953125
+  pitch: 23.249940872192383
+  world-name: ''
+ip-address: 90.78.166.207
+last-account-name: eddy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

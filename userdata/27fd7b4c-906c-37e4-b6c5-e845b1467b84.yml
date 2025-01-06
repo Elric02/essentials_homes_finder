@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617562406745
+  lastteleport: 1617562496902
+  logout: 1617562505952
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.30000001192093
+  y: 66.0
+  z: 105.78344895667891
+  yaw: 96.99687957763672
+  pitch: 31.590635299682617
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.84530639648438
+  pitch: 9.425874710083008
+  world-name: ''
+ip-address: 109.18.143.61
+last-account-name: Faydennn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1506081523365
+  lastteleport: 1506081614798
+  mute: 0
+  logout: 1506082694280
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.71569678202638
+  y: 63.0
+  z: 49.68653383241145
+  yaw: -250.8473358154297
+  pitch: -8.602602005004883
+  world-name: ''
+money: '0'
+muted: false
+logoutlocation:
+  world: Ressource
+  x: -948.6999999880791
+  y: 13.0
+  z: 2671.6324202637056
+  yaw: -211.05712890625
+  pitch: 36.300025939941406
+  world-name: ''
+ip-address: 41.224.147.151
+last-account-name: dapoxou
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

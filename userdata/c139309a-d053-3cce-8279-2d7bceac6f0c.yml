@@ -1,0 +1,38 @@
+timestamps:
+  login: 1566472560339
+  logout: 1566474072001
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.86891057610663
+  y: 63.0
+  z: 7.300000011920932
+  yaw: 117.84429931640625
+  pitch: 24.90000343322754
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 168.30000001192093
+  y: 140.0
+  z: -123.69999998807907
+  yaw: 189.84471130371094
+  pitch: 14.100001335144043
+  world-name: ''
+afk: false
+ip-address: 105.159.161.2
+last-account-name: momodumarocitaly
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

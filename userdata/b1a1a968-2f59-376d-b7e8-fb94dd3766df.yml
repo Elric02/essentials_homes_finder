@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.130.252.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1687514376299
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1687514455270
+  login: 1687513311968
+money: '1650.0'
+last-account-name: Shira_Yukihime12
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 244.4580719822378
+  y: 132.0
+  z: 140.51826217276772
+  yaw: 88.2209701538086
+  pitch: 55.35034942626953
+homes:
+  a:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 766.6292254630479
+    y: 67.0
+    z: -3323.0622473297094
+    yaw: -164.84986877441406
+    pitch: 37.95000076293945
+  b:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1001.9615773129125
+    y: 64.0
+    z: -3305.8944666919692
+    yaw: -25.652233123779297
+    pitch: 22.50017547607422
+  c:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 807.5007899114456
+    y: 91.0
+    z: -3254.6253722109113
+    yaw: 89.097412109375
+    pitch: 31.34990692138672
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 140.67400644981637
+  y: 63.0
+  z: 24.43291760936786
+  yaw: 94.21517181396484
+  pitch: 32.85015869140625

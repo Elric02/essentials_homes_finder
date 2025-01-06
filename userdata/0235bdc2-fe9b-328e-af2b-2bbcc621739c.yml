@@ -1,0 +1,63 @@
+timestamps:
+  login: 1484846777558
+  lastteleport: 1480884125003
+  logout: 1484847059965
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5041.8310914400945
+  y: 63.0
+  z: 2561.686782921673
+  yaw: 96.76412200927734
+  pitch: 16.75798988342285
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -4305.19995105428
+  y: 78.0
+  z: 1309.1092216840684
+  yaw: -13.482421875
+  pitch: 46.645137786865234
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -4307.399606336051
+    y: 75.0
+    z: 1316.5155175127688
+    yaw: 249.20111083984375
+    pitch: 14.63914680480957
+    world-name: ''
+  enchant:
+    world: world
+    x: 118.2438473695872
+    y: 87.0
+    z: -99.33161378918804
+    yaw: -267.94256591796875
+    pitch: 73.42682647705078
+    world-name: ''
+  noel:
+    world: world
+    x: 5043.947180133682
+    y: 63.0
+    z: 2557.803402479935
+    yaw: -85.75083923339844
+    pitch: 9.067646026611328
+    world-name: ''
+ip-address: 90.33.110.63
+last-account-name: ErTy_TeQuilla
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

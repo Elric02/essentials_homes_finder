@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485977579906
+  lastteleport: 1482860640253
+  logout: 1485978092957
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 1014.4605005597297
+  y: 10.0
+  z: -2086.677194763982
+  yaw: 114.42431640625
+  pitch: 24.599655151367188
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -177.66094970703125
+  pitch: -0.7254848480224609
+  world-name: ''
+ip-address: 78.242.140.7
+last-account-name: Arrow
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

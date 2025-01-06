@@ -1,0 +1,63 @@
+timestamps:
+  login: 1483894812837
+  logout: 1483896060883
+  lastteleport: 1483894966233
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5846.7818258103625
+  y: 74.0
+  z: 2420.502505316753
+  yaw: 280.65948486328125
+  pitch: 45.7631950378418
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 110.5
+  y: 63.0
+  z: 77.5
+  yaw: -173.42286682128906
+  pitch: 35.08313751220703
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -6653.505601184677
+    y: 68.0
+    z: 4542.180745376556
+    yaw: 312.7293701171875
+    pitch: 27.648021697998047
+    world-name: ''
+  steampeak:
+    world: world
+    x: -4882.133872709338
+    y: 69.0
+    z: -329.26545720086204
+    yaw: 10.633382797241211
+    pitch: 4.598382949829102
+    world-name: ''
+  shop:
+    world: world
+    x: -348.93009896045425
+    y: 69.0
+    z: 361.77225529007796
+    yaw: -174.0421142578125
+    pitch: 18.115203857421875
+    world-name: ''
+afk: false
+ip-address: 82.250.97.226
+last-account-name: zeprof2musik
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

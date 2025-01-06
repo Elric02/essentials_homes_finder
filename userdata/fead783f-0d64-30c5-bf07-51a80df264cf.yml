@@ -1,0 +1,63 @@
+timestamps:
+  login: 1557582169228
+  lastteleport: 1550846198578
+  logout: 1557582276552
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 265.3653666673339
+  y: 63.0
+  z: 2605.361752209088
+  yaw: -120.931640625
+  pitch: 20.59256935119629
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6875.919781046966
+  y: 42.0
+  z: -1988.3909844829157
+  yaw: -198.7259521484375
+  pitch: 1.5680248737335205
+  world-name: ''
+homes:
+  manoir:
+    world: world
+    x: -6890.271947317784
+    y: 68.0
+    z: -2004.9221674329892
+    yaw: -166.8897705078125
+    pitch: 26.156583786010742
+    world-name: ''
+  tortuga:
+    world: world
+    x: 249.04436209469176
+    y: 72.0
+    z: 2620.955874781729
+    yaw: -76.322265625
+    pitch: 30.306528091430664
+    world-name: ''
+  phare:
+    world: world
+    x: 252.36715117009808
+    y: 130.0
+    z: 2639.587880595271
+    yaw: -269.8349609375
+    pitch: 38.5870475769043
+    world-name: ''
+afk: false
+ip-address: 91.163.5.112
+last-account-name: Matier
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

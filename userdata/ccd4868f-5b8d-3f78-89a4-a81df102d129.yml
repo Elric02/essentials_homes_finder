@@ -1,0 +1,38 @@
+timestamps:
+  login: 1579442246390
+  lastteleport: 1579442915272
+  logout: 1579443250383
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2912.4403094819068
+  y: 69.0
+  z: -1536.717147010234
+  yaw: 291.2997131347656
+  pitch: 28.05001449584961
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.88702707877943
+  y: 63.0
+  z: -14.941587997419814
+  yaw: -171.6204833984375
+  pitch: -1.4713160991668701
+  world-name: ''
+ip-address: 185.216.24.52
+last-account-name: AmiralLoup
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

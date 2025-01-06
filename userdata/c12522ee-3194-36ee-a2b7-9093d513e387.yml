@@ -1,0 +1,130 @@
+timestamps:
+  login: 1707079427376
+  lastteleport: 1707062207508
+  logout: 1707079458345
+  mute: 0
+  jail: 0
+  kits:
+    color: 1581196952750
+    vip: 1510173145212
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 6224.164409686734
+  y: 74.0
+  z: -5809.351063983329
+  yaw: 162.98719787597656
+  pitch: 17.69257354736328
+  world-name: world
+money: '650.0'
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6195.33444461344
+    y: 55.0
+    z: -5845.791814778168
+    yaw: -89.23475646972656
+    pitch: 3.000004768371582
+    world-name: world
+  vip:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6712.596159064919
+    y: 63.5
+    z: -4185.665962284746
+    yaw: 180.24273681640625
+    pitch: 6.000002384185791
+    world-name: world
+  port:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1172.553806029965
+    y: 65.0
+    z: -541.4566484059892
+    yaw: -89.78611755371094
+    pitch: 2.9999823570251465
+    world-name: world
+  maisonnether:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: 728.7746196983396
+    y: 72.0
+    z: 382.85715697802925
+    yaw: -286.546142578125
+    pitch: 15.120753288269043
+    world-name: Nether
+  alnathnether:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: 457.5
+    y: 85.0
+    z: 219.5
+    yaw: -179.98199462890625
+    pitch: 36.60127639770508
+    world-name: Nether
+  boisnether:
+    world: 662d438a-3236-43b5-be72-96a96955dbc4
+    x: 166.46070068416967
+    y: 53.0
+    z: -583.0860756217937
+    yaw: -23.319000244140625
+    pitch: 73.51142883300781
+    world-name: RessourceNether
+  tmp:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1126.0868420971397
+    y: 63.0
+    z: -2253.1713087384596
+    yaw: -6.68865966796875
+    pitch: 22.684301376342773
+    world-name: world
+  quartz:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6990.9608826342965
+    y: 37.0
+    z: -4807.670577880358
+    yaw: 146.06643676757812
+    pitch: 31.383665084838867
+    world-name: world
+  projet:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1607.3533946300217
+    y: 64.69607997716047
+    z: -2257.6286078679714
+    yaw: 91.31758880615234
+    pitch: 53.08843994140625
+    world-name: world
+  desert:
+    world: f6cc7e86-533e-4833-a044-23fb95716522
+    x: -2617.59921505553
+    y: 81.65794052533883
+    z: -3446.313391767255
+    yaw: -183.733154296875
+    pitch: 90.0
+    world-name: Ressource
+  jump:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1553.4686655881185
+    y: 50.0
+    z: -2088.4895569312407
+    yaw: -87.4171142578125
+    pitch: 90.0
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1480.7417352538412
+  y: 77.0
+  z: -2187.349594890808
+  yaw: 88.80572509765625
+  pitch: 22.404953002929688
+  world-name: world
+afk: false
+muted: false
+jailed: false
+socialspy: false
+godmode: false
+ip-address: 92.171.221.131
+last-account-name: killian971317
+teleportenabled: true
+teleportauto: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,68 @@
+timestamps:
+  login: 1563447784020
+  lastteleport: 1559210008825
+  logout: 1563447937888
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5471.145665581671
+  y: 64.0
+  z: 1572.0868342532308
+  yaw: -183.08462524414062
+  pitch: -60.54521179199219
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -5082.765827606009
+    y: 71.0
+    z: 1519.4674866095588
+    yaw: -271.7967529296875
+    pitch: 10.732756614685059
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 121.48158114262077
+    y: 72.0
+    z: -1243.2484644702686
+    yaw: -10.34497356414795
+    pitch: 6.722991943359375
+    world-name: ''
+  nether:
+    world: Nether
+    x: -97.15824495862888
+    y: 45.0
+    z: 271.24054078836707
+    yaw: -269.229248046875
+    pitch: 16.69574737548828
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5076.487911027056
+  y: 63.0
+  z: 1520.457106813296
+  yaw: -284.10406494140625
+  pitch: 11.036779403686523
+  world-name: ''
+afk: false
+muted: false
+ip-address: 82.124.215.24
+last-account-name: Dindonoglouglou
+mail:
+- legacy: true
+  read: false
+  message: §e[§relriclespiques§e] §rSalut, je me suis permis de mettre des fours sur
+    vos entonnoirs du haut, ça réduit les lags. Évitez de mettre + d'entonnoir svp
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

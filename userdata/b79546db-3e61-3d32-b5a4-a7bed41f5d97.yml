@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.193.2.6
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1658092040328
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1658092674779
+  login: 1658091901818
+money: '0'
+last-account-name: XploreAndData
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 2543.7583272134675
+  y: 64.5
+  z: -6024.460221324843
+  yaw: -99.2984619140625
+  pitch: 25.950225830078125
+homes:
+  home:
+    world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+    world-name: plot
+    x: -91.28057416717114
+    y: 76.15776662787637
+    z: 165.60022628760927
+    yaw: 104.24745178222656
+    pitch: 18.300060272216797
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -119.40059197752846
+  y: 67.65097054999698
+  z: 165.38514351817412
+  yaw: 21.3016357421875
+  pitch: 47.249820709228516

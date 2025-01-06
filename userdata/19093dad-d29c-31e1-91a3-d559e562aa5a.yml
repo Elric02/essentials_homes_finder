@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487190859620
+  logout: 1487191013476
+  lastteleport: 1487190930255
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.7410881204664
+  y: 64.0
+  z: 18.81327214836642
+  yaw: -304.87353515625
+  pitch: 0.2502116560935974
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 184.49683777658743
+  y: 63.0
+  z: 16.356451647917496
+  yaw: 281.07769775390625
+  pitch: 10.578636169433594
+  world-name: ''
+afk: false
+money: '0'
+ip-address: 109.220.185.128
+last-account-name: petitkinder82
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

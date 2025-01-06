@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481582840445
+  lastteleport: 1481582880154
+  logout: 1481582923746
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.06208574720253
+  y: 63.0
+  z: 44.497978432951285
+  yaw: -268.4109802246094
+  pitch: -3.1254873275756836
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.40946448397355
+  y: 27.5
+  z: 21.113643896938516
+  yaw: -271.56085205078125
+  pitch: 13.52451229095459
+  world-name: ''
+ip-address: 123.50.67.169
+last-account-name: TheSword
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

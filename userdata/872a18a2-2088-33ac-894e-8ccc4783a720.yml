@@ -1,0 +1,38 @@
+timestamps:
+  login: 1702922547841
+  lastteleport: 1620230741195
+  logout: 1702922667825
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -2903.612788314374
+  y: 65.0
+  z: -3966.4203245803446
+  yaw: 308.40045166015625
+  pitch: 27.00019073486328
+  world-name: ''
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 156.4539205356177
+  y: 63.5
+  z: 11.52200410496039
+  yaw: -139.7505340576172
+  pitch: -3.6003551483154297
+  world-name: world
+ip-address: 37.170.213.33
+last-account-name: tgallard65
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

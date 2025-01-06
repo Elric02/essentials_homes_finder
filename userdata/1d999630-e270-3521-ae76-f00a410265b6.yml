@@ -1,0 +1,63 @@
+timestamps:
+  login: 1592512466700
+  lastteleport: 1592513129952
+  logout: 1592513378405
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4571.621015960412
+  y: 69.875
+  z: -4430.722909034925
+  yaw: 119.81500244140625
+  pitch: 36.601043701171875
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -577.3397863096253
+  y: 79.0
+  z: -4794.791037229688
+  yaw: 53.1875
+  pitch: 14.036685943603516
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -592.4065478773826
+    y: 77.0
+    z: -4804.79829447473
+    yaw: 294.85467529296875
+    pitch: 23.12168312072754
+    world-name: ''
+  w:
+    world: world
+    x: -4635.223060156958
+    y: 64.0
+    z: -4280.371150039703
+    yaw: -10.200653076171875
+    pitch: 1.707588791847229
+    world-name: ''
+  f:
+    world: world
+    x: -2200.111083651367
+    y: 66.0
+    z: -5754.022867051531
+    yaw: 76.2314453125
+    pitch: 31.720565795898438
+    world-name: ''
+afk: false
+ip-address: 83.93.114.25
+last-account-name: Perfetto
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

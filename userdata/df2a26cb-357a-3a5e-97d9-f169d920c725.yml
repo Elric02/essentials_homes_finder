@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479045915606
+  lastteleport: 1479045713492
+  logout: 1479045919207
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.9640900769289
+  y: 63.0
+  z: 7.300000011920928
+  yaw: -272.16094970703125
+  pitch: 31.674522399902344
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 218.30000001192093
+  y: 71.0
+  z: -108.37602204085917
+  yaw: 83.341552734375
+  pitch: 10.35004711151123
+  world-name: ''
+ip-address: 87.64.129.225
+last-account-name: ggg
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

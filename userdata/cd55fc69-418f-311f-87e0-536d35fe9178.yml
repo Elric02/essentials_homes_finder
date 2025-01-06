@@ -1,0 +1,47 @@
+timestamps:
+  login: 1487272583187
+  lastteleport: 1487272836140
+  logout: 1487275717744
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6839.28803933005
+  y: 75.0
+  z: 5394.601420165465
+  yaw: -94.36221313476562
+  pitch: 7.349907875061035
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6890.543414496881
+  y: 70.5
+  z: 5389.065864004081
+  yaw: 321.45361328125
+  pitch: 3.7499642372131348
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 6848.3325258415225
+    y: 70.0
+    z: 5402.575557969801
+    yaw: -268.05426025390625
+    pitch: 18.5999813079834
+    world-name: ''
+afk: false
+ip-address: 2.2.221.29
+last-account-name: Kiklan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

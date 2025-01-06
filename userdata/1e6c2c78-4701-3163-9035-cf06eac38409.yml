@@ -1,0 +1,38 @@
+timestamps:
+  login: 1555517757720
+  logout: 1555518846313
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2770.218281368673
+  y: 75.0
+  z: -3634.010978524578
+  yaw: 156.08935546875
+  pitch: 17.849302291870117
+  world-name: ''
+ip-address: 90.112.127.40
+last-account-name: kaviarr
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

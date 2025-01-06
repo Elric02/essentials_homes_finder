@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482744815378
+  lastteleport: 1482748826078
+  logout: 1482748853138
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 559.1091217378229
+  y: 64.0
+  z: -5115.911427356346
+  yaw: 207.898681640625
+  pitch: 20.09031105041504
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -179.61094665527344
+  pitch: -12.575484275817871
+  world-name: ''
+ip-address: 89.94.224.101
+last-account-name: XSkySorPvP
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1488216133852
+  logout: 1488217527646
+  lastteleport: 1488217410582
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 407.3890615853914
+  y: 37.0
+  z: 86.69999998807907
+  yaw: 355.89849853515625
+  pitch: 20.70001983642578
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2328.6794542274542
+  y: 40.0
+  z: 4223.109114853854
+  yaw: 219.869873046875
+  pitch: 9.449997901916504
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -2330.254555330369
+    y: 40.0
+    z: 4217.470634418322
+    yaw: -133.37997436523438
+    pitch: -7.651584625244141
+    world-name: ''
+ip-address: 128.78.208.83
+last-account-name: lucasberaet
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

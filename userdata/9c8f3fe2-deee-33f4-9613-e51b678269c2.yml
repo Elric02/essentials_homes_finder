@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484675190775
+  logout: 1484675328686
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 208.85753775919756
+  y: 140.0
+  z: -429.17777110974583
+  yaw: -88.24713134765625
+  pitch: 43.19997024536133
+  world-name: ''
+ip-address: 90.57.247.24
+last-account-name: Pronture
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

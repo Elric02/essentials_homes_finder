@@ -1,0 +1,38 @@
+timestamps:
+  login: 1577907850681
+  logout: 1577907987852
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 164.2819867898542
+  y: 66.0
+  z: 102.53145007098712
+  yaw: -95.15298461914062
+  pitch: 10.290641784667969
+  world-name: ''
+ip-address: 176.145.62.79
+last-account-name: Orshy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1595084160984
+  lastteleport: 1595085308908
+  logout: 1595087040531
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6038.687621905652
+  y: 41.31345047138322
+  z: -2595.300000011921
+  yaw: -198.44821166992188
+  pitch: 52.3499641418457
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -5478.435724186714
+  y: 62.0
+  z: 989.6999999880791
+  yaw: -0.75115966796875
+  pitch: 5.399909973144531
+  world-name: ''
+ip-address: 82.125.40.199
+last-account-name: DouzaTheKing
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

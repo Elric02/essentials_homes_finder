@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468856680554
+  logout: 1468856991850
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.73064828639124
+  y: 27.0
+  z: 20.691081292064013
+  yaw: -90.87599182128906
+  pitch: 6.717253684997559
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.45594559567587
+  y: 64.0625
+  z: 19.433668642457526
+  yaw: -201.83987426757812
+  pitch: -1.1988192796707153
+  world-name: ''
+ip-address: 88.167.142.122
+last-account-name: Furax45
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

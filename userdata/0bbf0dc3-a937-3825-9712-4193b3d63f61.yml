@@ -1,0 +1,38 @@
+timestamps:
+  login: 1598012950969
+  lastteleport: 1598009941338
+  logout: 1598013193522
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 852.881076276383
+  y: 81.0
+  z: -2686.455646934735
+  yaw: 99.01970672607422
+  pitch: 44.84953689575195
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.08391988394737
+  y: 64.0
+  z: 18.428907803899307
+  yaw: -73.23223876953125
+  pitch: 49.499542236328125
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 109.31.42.215
+last-account-name: SECTIX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

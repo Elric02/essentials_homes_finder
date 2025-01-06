@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477926573966
+  lastteleport: 1477923757471
+  mute: 0
+  logout: 1477926604620
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -39.97881503285824
+  y: 51.0
+  z: 677.9269748307615
+  yaw: -36.18856430053711
+  pitch: 71.66055297851562
+  world-name: ''
+afk: false
+muted: false
+logoutlocation:
+  world: ressource
+  x: -14.771077289253762
+  y: 65.0
+  z: 684.945070320013
+  yaw: -11.81574535369873
+  pitch: 14.849990844726562
+  world-name: ''
+ip-address: 89.86.36.129
+last-account-name: alexleitao
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

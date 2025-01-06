@@ -1,0 +1,38 @@
+timestamps:
+  login: 1491759667746
+  lastteleport: 1491759819583
+  logout: 1491760123223
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 161.048651561924
+  y: 64.0
+  z: 19.33492182141826
+  yaw: 82.88933563232422
+  pitch: 19.22452735900879
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1981.1722719173886
+  y: 84.0
+  z: -3617.4306949004517
+  yaw: -180.900146484375
+  pitch: 23.999990463256836
+  world-name: ''
+ip-address: 78.200.131.52
+last-account-name: EllimaC0902
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,39 @@
+timestamps:
+  login: 1467822462880
+  logout: 1467822797728
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -40.44665667602557
+  y: 75.0
+  z: -47.46950653251466
+  yaw: -242.246826171875
+  pitch: 7.2741618156433105
+  world-name: ''
+jailed: true
+jail: rose2
+logoutlocation:
+  world: world
+  x: -161.44616123067354
+  y: 18.5
+  z: 567.4568425166345
+  yaw: -50.09994125366211
+  pitch: 18.5999755859375
+  world-name: ''
+ip-address: 90.3.21.160
+last-account-name: MissJumper
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

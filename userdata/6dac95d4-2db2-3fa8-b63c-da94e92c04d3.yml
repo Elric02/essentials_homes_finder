@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.29.136.135
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635873408865
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635873427632
+  login: 1635873314653
+money: '0'
+last-account-name: IVhenryIV
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.87497175675875
+  y: 63.0
+  z: 9.410902801902633
+  yaw: 174.78741455078125
+  pitch: 17.650463104248047
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 4945.303437898932
+  y: 83.0
+  z: -3697.300000011921
+  yaw: 39.733699798583984
+  pitch: 13.606338500976562

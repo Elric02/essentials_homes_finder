@@ -1,0 +1,38 @@
+timestamps:
+  login: 1594756388407
+  lastteleport: 1594758231516
+  logout: 1594758875756
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1591.4500759913485
+  y: 68.0
+  z: 2754.0221353068937
+  yaw: 285.381103515625
+  pitch: 34.3346061706543
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1874.699999988079
+  y: 78.0
+  z: 2785.723081313058
+  yaw: 224.6007080078125
+  pitch: 19.086421966552734
+  world-name: ''
+ip-address: 83.205.217.27
+last-account-name: Lymae
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

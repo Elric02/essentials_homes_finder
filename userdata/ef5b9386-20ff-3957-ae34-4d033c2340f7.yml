@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472725875644
+  logout: 1472726053514
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.13059743614065
+  y: 27.0
+  z: 20.43628465029023
+  yaw: -93.49761962890625
+  pitch: 6.847409248352051
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 105.85031813801787
+  y: 63.0
+  z: -41.2665954775666
+  yaw: 111.55239868164062
+  pitch: 1.7474435567855835
+  world-name: ''
+ip-address: 109.130.248.231
+last-account-name: Mirousouhi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

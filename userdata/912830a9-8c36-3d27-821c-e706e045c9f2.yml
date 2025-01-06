@@ -1,0 +1,47 @@
+timestamps:
+  login: 1476217048369
+  lastteleport: 1476116962765
+  logout: 1476217735456
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -30.79736089405303
+  y: 74.96636804164123
+  z: -53.06351400244623
+  yaw: 26.799501419067383
+  pitch: 88.6500015258789
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -25.69715473190293
+  y: 70.0
+  z: -45.08160593891659
+  yaw: 182.03775024414062
+  pitch: 25.500049591064453
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -25.34621565427456
+    y: 70.0
+    z: -46.35097789999543
+    yaw: 13.439697265625
+    pitch: 27.14999771118164
+    world-name: ''
+ip-address: 78.250.238.70
+last-account-name: Diab
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

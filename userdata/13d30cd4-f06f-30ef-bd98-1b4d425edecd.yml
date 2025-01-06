@@ -1,0 +1,38 @@
+timestamps:
+  login: 1587492316450
+  logout: 1587493613703
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6461.957723667845
+  y: 74.0
+  z: 3590.097028569142
+  yaw: -268.7995300292969
+  pitch: 10.650084495544434
+  world-name: ''
+ip-address: 90.109.160.170
+last-account-name: Alexis2005
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

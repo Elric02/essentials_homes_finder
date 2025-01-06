@@ -1,0 +1,47 @@
+timestamps:
+  login: 1485693354430
+  lastteleport: 1485693860577
+  logout: 1485693880969
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -182.31092834472656
+  pitch: 3.02451491355896
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2060.6495441119546
+    y: 57.0
+    z: -823.952613930656
+    yaw: -154.34613037109375
+    pitch: 26.69977569580078
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2070.2940380754053
+  y: 64.0
+  z: -823.6445246253538
+  yaw: -221.0968017578125
+  pitch: 17.849775314331055
+  world-name: ''
+afk: false
+ip-address: 90.109.201.68
+last-account-name: enzo52
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

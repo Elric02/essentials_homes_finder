@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.172.64.216
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1665835666526
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665835744683
+  login: 1665831368684
+money: '50.0'
+last-account-name: raramel
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -120.44045295783377
+  y: 77.50193847921254
+  z: -190.56556860391228
+  yaw: -136.0928192138672
+  pitch: 47.39993667602539
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 396.00938337136836
+  y: 81.0
+  z: -3112.699999988079
+  yaw: -178.64822387695312
+  pitch: -9.150016784667969

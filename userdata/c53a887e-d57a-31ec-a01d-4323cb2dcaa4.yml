@@ -1,0 +1,38 @@
+timestamps:
+  login: 1559220111451
+  lastteleport: 1559220206277
+  logout: 1559220220339
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51580504821223
+  y: 64.0
+  z: 24.824888493315935
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.4414908135077
+  y: 64.0
+  z: 24.56659342109284
+  yaw: -135.0208282470703
+  pitch: -90.0
+  world-name: ''
+ip-address: 83.194.240.167
+last-account-name: SoulSilverGoldy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

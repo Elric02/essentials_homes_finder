@@ -1,0 +1,38 @@
+timestamps:
+  login: 1544385889057
+  lastteleport: 1544385956010
+  logout: 1544385990945
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 87.58930888611057
+  y: 63.0
+  z: 14.06730451046378
+  yaw: -59.12104034423828
+  pitch: 20.100011825561523
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 157.93722859777972
+  y: 63.0
+  z: 33.42624313369368
+  yaw: -337.0709533691406
+  pitch: 20.428667068481445
+  world-name: ''
+ip-address: 88.121.85.90
+last-account-name: bet_alpha
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

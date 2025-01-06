@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480857371521
+  lastteleport: 1480515699633
+  logout: 1480857392319
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -105.98200599693891
+  y: 62.0
+  z: 5.342277497786158
+  yaw: -158.76040649414062
+  pitch: 13.950016021728516
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 164.26935142476165
+  y: 64.0
+  z: 21.83898940543109
+  yaw: 61.73734664916992
+  pitch: 4.050065517425537
+  world-name: ''
+money: '0'
+afk: false
+muted: true
+ip-address: 90.37.187.44
+last-account-name: pepoeuf04
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

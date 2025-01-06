@@ -1,0 +1,38 @@
+timestamps:
+  login: 1625591274351
+  logout: 1625592541482
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 153.98969979257618
+  y: 63.0
+  z: 41.98332878245282
+  yaw: 7.72780179977417
+  pitch: -5.654555797576904
+  world-name: ''
+ip-address: 92.148.2.106
+last-account-name: dragonix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

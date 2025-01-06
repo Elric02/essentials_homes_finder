@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517077235873
+  mute: 0
+  lastteleport: 1517078275611
+  logout: 1517078502130
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -276.6477740739667
+  y: 68.0
+  z: 352.4608407841307
+  yaw: -88.83074951171875
+  pitch: 17.482961654663086
+  world-name: ''
+muted: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 146.02400301097893
+  y: 63.0
+  z: 38.69999998807907
+  yaw: -68.45523071289062
+  pitch: -14.099724769592285
+  world-name: ''
+ip-address: 78.227.114.125
+last-account-name: ewen29
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

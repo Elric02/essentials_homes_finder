@@ -1,0 +1,55 @@
+timestamps:
+  login: 1472946824870
+  lastteleport: 1472948352966
+  logout: 1472949051541
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 123.88163470664313
+  y: 25.0
+  z: 441.2989273199272
+  yaw: -9.812896728515625
+  pitch: 24.450002670288086
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.51839871277872
+  y: 64.0
+  z: 30.878685065885648
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+homes:
+  thom:
+    world: Ressources
+    x: -222.3007200391722
+    y: 56.0
+    z: 399.78964881250283
+    yaw: 45.52187728881836
+    pitch: -36.57246017456055
+    world-name: ''
+  new:
+    world: Ressources
+    x: -294.94012258779566
+    y: 42.33075838692348
+    z: 446.5841304222917
+    yaw: -279.828125
+    pitch: 37.799983978271484
+    world-name: ''
+ip-address: 77.202.210.124
+last-account-name: AzzoxYT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

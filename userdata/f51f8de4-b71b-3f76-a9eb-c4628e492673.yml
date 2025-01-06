@@ -1,0 +1,38 @@
+timestamps:
+  login: 1561036991946
+  lastteleport: 1561037358688
+  logout: 1561037463018
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -455.4722118667408
+  y: 76.0
+  z: 321.0644029823814
+  yaw: -266.8151550292969
+  pitch: 7.13336181640625
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 207.38563833015775
+  y: 63.0
+  z: -46.859087412772766
+  yaw: -161.9111328125
+  pitch: -12.609136581420898
+  world-name: ''
+ip-address: 92.140.131.159
+last-account-name: Talesis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

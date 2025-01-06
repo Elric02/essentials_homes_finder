@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475169582285
+  lastteleport: 1475170066334
+  logout: 1475170294492
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3981.3093479931263
+  y: 74.0
+  z: -6674.453869946451
+  yaw: 47.099609375
+  pitch: 1.9499341249465942
+  world-name: ''
+logoutlocation:
+  world: Ressources
+  x: 312.7824700622033
+  y: 68.0
+  z: 604.5568766487539
+  yaw: -267.678466796875
+  pitch: 35.10003662109375
+  world-name: ''
+ip-address: 176.179.171.37
+last-account-name: TomClancy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

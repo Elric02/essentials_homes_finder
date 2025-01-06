@@ -1,0 +1,38 @@
+timestamps:
+  login: 1593332783088
+  lastteleport: 1593332947581
+  logout: 1593333083355
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -238.12632359938235
+  y: 138.0
+  z: -1270.4429586553597
+  yaw: -76.05061340332031
+  pitch: 20.700008392333984
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 44.966696297121544
+  y: 64.0
+  z: -2.9684686302014582
+  yaw: -312.0188293457031
+  pitch: 17.849977493286133
+  world-name: ''
+ip-address: 88.120.168.48
+last-account-name: SPLATMINE
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1486322657843
+  logout: 1486327124168
+  lastteleport: 1486326992216
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4826.723849771912
+  y: 70.0
+  z: -268.52200205575
+  yaw: -253.37265014648438
+  pitch: 22.35000991821289
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -293.37177785975507
+  y: 60.0
+  z: -706.9580184173437
+  yaw: -253.9091796875
+  pitch: 40.20003128051758
+  world-name: ''
+money: '0'
+homes:
+  four:
+    world: world
+    x: -306.25572794754646
+    y: 71.0
+    z: -706.4663619176724
+    yaw: -111.70955657958984
+    pitch: 5.850027084350586
+    world-name: ''
+  bulle:
+    world: world
+    x: -78.62178782272571
+    y: 49.0
+    z: 506.1810968926226
+    yaw: -270.201171875
+    pitch: 5.399986743927002
+    world-name: ''
+  steam:
+    world: world
+    x: -4205.842697909234
+    y: 69.0625
+    z: -3633.789466516497
+    yaw: -197.5478515625
+    pitch: 28.071842193603516
+    world-name: ''
+afk: false
+ip-address: 78.126.4.253
+last-account-name: PrSS_Silver
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

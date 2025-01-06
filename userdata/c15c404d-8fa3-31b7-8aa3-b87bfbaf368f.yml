@@ -1,0 +1,71 @@
+timestamps:
+  login: 1734130789975
+  lastteleport: 1734130847406
+  logout: 1734130848753
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -7036.813358478666
+  y: 70.275125
+  z: -5565.252029639168
+  yaw: 16.947795867919922
+  pitch: 25.349895477294922
+  world-name: world
+money: '119818.13000000000010066'
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -7205.012825720816
+    y: 66.0
+    z: -5563.343226429116
+    yaw: -80.0487060546875
+    pitch: 43.79990005493164
+    world-name: world
+  tour1:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 1437.720088276551
+    y: 111.0
+    z: 2425.6738362625033
+    yaw: 73.94329833984375
+    pitch: 38.55003356933594
+  net:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7050.611991349617
+    y: 65.0
+    z: -5490.078496211456
+    yaw: 119.0985107421875
+    pitch: 24.899673461914062
+  faire:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7031.219785488035
+    y: 70.0
+    z: -5565.095137736093
+    yaw: 20.997907638549805
+    pitch: 22.799890518188477
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -7205.5
+  y: 66.0
+  z: -5563.5
+  yaw: -80.0487060546875
+  pitch: 43.79990005493164
+  world-name: world
+afk: false
+ip-address: 76.67.191.168
+last-account-name: AngieetKassou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

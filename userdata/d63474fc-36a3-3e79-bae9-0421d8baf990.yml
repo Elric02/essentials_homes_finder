@@ -1,0 +1,55 @@
+timestamps:
+  login: 1567861640924
+  lastteleport: 1567861817928
+  logout: 1567861889725
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 235.5
+  y: 30.0
+  z: -3352.5
+  yaw: -173.096923828125
+  pitch: 16.799978256225586
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 249.69999998807907
+  y: 18.0
+  z: -3358.497547433564
+  yaw: -253.6469268798828
+  pitch: 19.499980926513672
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 235.7860376915988
+    y: 30.0
+    z: -3352.607388459693
+    yaw: -173.096923828125
+    pitch: 16.799978256225586
+    world-name: ''
+  chien:
+    world: Ressource
+    x: 1123.974274264249
+    y: 68.0
+    z: 837.2847874649391
+    yaw: 161.8126678466797
+    pitch: 21.69865608215332
+    world-name: ''
+ip-address: 176.134.28.90
+last-account-name: morgane
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

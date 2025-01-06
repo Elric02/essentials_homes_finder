@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586722024048
+  lastteleport: 1586724016893
+  logout: 1586724172386
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 421.5
+  y: 78.0
+  z: 1646.5
+  yaw: -8.549774169921875
+  pitch: 12.44998836517334
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1649.091994560928
+  y: 89.0
+  z: -3930.145748391501
+  yaw: 260.754638671875
+  pitch: 17.947509765625
+  world-name: ''
+ip-address: 152.89.162.186
+last-account-name: miaka02
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

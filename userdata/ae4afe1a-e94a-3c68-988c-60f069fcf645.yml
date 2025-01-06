@@ -1,0 +1,38 @@
+timestamps:
+  login: 1552232879231
+  lastteleport: 1552232992088
+  logout: 1552233049993
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2630.4676754563225
+  y: 70.0
+  z: -4597.734680849287
+  yaw: 103.67570495605469
+  pitch: 16.272193908691406
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.06508243231806
+  y: 64.0
+  z: 18.232038957111136
+  yaw: 168.19935607910156
+  pitch: 12.036134719848633
+  world-name: ''
+ip-address: 109.15.39.79
+last-account-name: axephir
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,214 @@
+timestamps:
+  login: 1728350690653
+  lastteleport: 1726179990180
+  logout: 1728437332215
+  kits:
+    vip: 1670197066265
+    stationaute: 1669509893684
+    color: 1669512742542
+    explorateur: 1670197120126
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: -1513.726004104145
+  y: 79.76423819379859
+  z: -157.9405884332037
+  yaw: -130.4202880859375
+  pitch: 17.9996395111084
+  world-name: Althium
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 5351.4169620592675
+  y: 83.51105865014442
+  z: 6185.1188505866985
+  yaw: 129.88168334960938
+  pitch: 46.05081558227539
+  world-name: world
+homes:
+  build:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5412.935260545354
+    y: 91.0
+    z: 6154.0128811717295
+    yaw: 30.04248046875
+    pitch: 39.90456771850586
+    world-name: world
+  coffre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 4932.5
+    y: 55.0
+    z: 6030.5
+    yaw: -292.094970703125
+    pitch: 3.7500598430633545
+    world-name: world
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 4873.877400792017
+    y: 170.0
+    z: 6071.531634095616
+    yaw: 78.30805206298828
+    pitch: 19.800025939941406
+    world-name: world
+  '93_4':
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 4911.242825297779
+    y: 168.0
+    z: 6143.541137009532
+    yaw: 120.04550170898438
+    pitch: 32.549705505371094
+    world-name: world
+  claimsolo:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5370.773225328429
+    y: 68.0
+    z: 6195.823744819165
+    yaw: -90.77571868896484
+    pitch: 28.499534606933594
+    world-name: world
+  shopamoi:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -374.8204509504332
+    y: 98.0
+    z: 435.9387468207674
+    yaw: 172.87271118164062
+    pitch: 23.249788284301758
+  banane:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -1541.0218440281858
+    y: 62.0
+    z: -172.41281033152092
+    yaw: -174.57763671875
+    pitch: 90.0
+  prune:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -2388.987500011921
+    y: -24.0
+    z: -2863.7117364816363
+    yaw: 53.40507507324219
+    pitch: 76.95022583007812
+  tomate:
+    world: 662d438a-3236-43b5-be72-96a96955dbc4
+    world-name: RessourceNether
+    x: -983.9211623277756
+    y: 60.0
+    z: -766.3527900417312
+    yaw: 85.49810791015625
+    pitch: 26.099864959716797
+  poire:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -2937.699999988079
+    y: 6.0
+    z: -4082.7363760602434
+    yaw: 62.516632080078125
+    pitch: 17.5498104095459
+  pomme:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -2375.482276187223
+    y: -22.0
+    z: -2875.7194059354765
+    yaw: 32.686279296875
+    pitch: 37.7996940612793
+  avocat:
+    world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+    world-name: grosPlot
+    x: 250.85428713660778
+    y: 36.67563965330826
+    z: 395.7255989026571
+    yaw: -143.9292449951172
+    pitch: 4.200121879577637
+  carrotte:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -1516.893972194579
+    y: 58.0
+    z: -164.80712904176494
+    yaw: -9.453125
+    pitch: 48.450096130371094
+  quest:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -132.3581648914984
+    y: 71.0625
+    z: 70.83764790346063
+    yaw: 173.7059783935547
+    pitch: 33.60014343261719
+  rotie:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -978.3251447976382
+    y: 65.5
+    z: -2035.4009313037811
+    yaw: -109.3489761352539
+    pitch: 49.050411224365234
+  kitchen:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -1503.647158975108
+    y: 46.0
+    z: -149.43586972520094
+    yaw: -141.818115234375
+    pitch: 13.55079460144043
+  geode:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -389.2968376031256
+    y: 0.0
+    z: -2038.864027054645
+    yaw: 176.51898193359375
+    pitch: 3.850623607635498
+  base2:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -1069.7332611073682
+    y: 65.0
+    z: -136.07780898245719
+    yaw: 140.451171875
+    pitch: 21.074724197387695
+  nain:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -679.3968240887608
+    y: -55.0
+    z: 115.25700947677173
+    yaw: 136.4722900390625
+    pitch: 42.750465393066406
+  expfarm:
+    world: 6bdd2179-c84d-4026-8d7c-65a544be51ab
+    world-name: HestiaEnd
+    x: -261.6970220310186
+    y: 60.0
+    z: -16.656206831076172
+    yaw: 88.2542724609375
+    pitch: 26.09959602355957
+money: '27723.8999999999999259'
+afk: false
+godmode: false
+jailed: false
+ip-address: 193.32.126.138
+last-account-name: AdroseML
+teleportenabled: true
+teleportauto: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+mail:
+- legacy: false
+  read: true
+  message: coucou ca serait bien que tu finisses de mettre des trucs en vente au shops
+    que tu as a roseport
+  sender-name: roselfe
+  sender-uuid: 210dd662-86f3-307d-899a-07c85f3e65a5
+  timestamp: 1667676067792
+  expire: 0
+nickname: §fLaGrandeAdroseML

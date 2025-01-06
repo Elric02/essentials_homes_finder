@@ -1,0 +1,38 @@
+timestamps:
+  login: 1530784216167
+  lastteleport: 1525278036821
+  logout: 1530784223517
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.52983060149458
+  y: 64.0
+  z: 23.252265646468587
+  yaw: -221.3212127685547
+  pitch: 14.416669845581055
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 219.6977179357663
+  y: 76.0625
+  z: -96.62021828898197
+  yaw: -123.5616683959961
+  pitch: 34.089599609375
+  world-name: ''
+ip-address: 88.177.215.139
+last-account-name: thechosenone
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

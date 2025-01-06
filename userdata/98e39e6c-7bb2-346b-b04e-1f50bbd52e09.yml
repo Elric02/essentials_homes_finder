@@ -1,0 +1,38 @@
+timestamps:
+  login: 1611690432886
+  lastteleport: 1611692994533
+  logout: 1611694334597
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.8046861714111284
+  y: 90.0
+  z: 1.3184252371761742
+  yaw: -200.04669189453125
+  pitch: 11.049711227416992
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -3338.5513252332103
+  y: 9.0
+  z: 4332.609505691482
+  yaw: -192.140380859375
+  pitch: 55.498512268066406
+  world-name: ''
+ip-address: 78.114.254.14
+last-account-name: Hetzer666
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586801374447
+  lastteleport: 1586802892629
+  logout: 1586803253290
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 143.15637613352928
+  y: 63.0
+  z: 8.090316121704983
+  yaw: -226.12295532226562
+  pitch: 29.30313491821289
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 210.51509792919808
+  y: 99.0
+  z: -113.50997043025504
+  yaw: 109.70654296875
+  pitch: 16.371797561645508
+  world-name: ''
+ip-address: 96.22.38.113
+last-account-name: ninja900
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

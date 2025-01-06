@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616859225389
+  logout: 1616859305692
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 168.60967696479005
+  y: 68.0
+  z: 104.76276917388644
+  yaw: 31.148107528686523
+  pitch: 57.990867614746094
+  world-name: ''
+ip-address: 78.127.183.55
+last-account-name: Gr_Yn_Der
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

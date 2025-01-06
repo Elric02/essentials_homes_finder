@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500451593503
+  lastteleport: 1500452006324
+  logout: 1500452035778
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 177.0340284611007
+  y: 63.0
+  z: 18.532935827928917
+  yaw: -109.7109603881836
+  pitch: 1.2245184183120728
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 151.38816235017464
+  y: 63.0
+  z: -14.861667570935417
+  yaw: -180.0609130859375
+  pitch: 8.424515724182129
+  world-name: ''
+ip-address: 118.179.247.190
+last-account-name: etienne
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

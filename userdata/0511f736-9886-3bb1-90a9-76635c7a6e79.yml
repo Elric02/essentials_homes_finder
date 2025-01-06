@@ -1,0 +1,63 @@
+timestamps:
+  login: 1495125272690
+  logout: 1495125506796
+  lastteleport: 1495125480019
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 188.18575670760262
+  y: 90.0
+  z: -222.05194064652594
+  yaw: -332.285888671875
+  pitch: 3.333146095275879
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -104.10800294311997
+  y: 47.0
+  z: 506.118244070134
+  yaw: -93.50125122070312
+  pitch: 1.3500138521194458
+  world-name: ''
+homes:
+  four:
+    world: world
+    x: -306.17001548120834
+    y: 71.0
+    z: -706.2274282424437
+    yaw: -105.97767639160156
+    pitch: 12.227550506591797
+    world-name: ''
+  bulle:
+    world: world
+    x: -79.8182050463963
+    y: 49.0
+    z: 506.71676054429304
+    yaw: -269.0013122558594
+    pitch: 13.800019264221191
+    world-name: ''
+  end:
+    world: world_the_end
+    x: -569.4403559880991
+    y: 58.0
+    z: 1226.3160227787105
+    yaw: -188.85455322265625
+    pitch: 26.849857330322266
+    world-name: ''
+afk: false
+ip-address: 78.126.4.253
+last-account-name: Hephaistone
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

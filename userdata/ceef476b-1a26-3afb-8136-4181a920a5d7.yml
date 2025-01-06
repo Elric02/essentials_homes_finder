@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.105.59.25
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655141907503
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683301661990
+  login: 1683301635831
+money: '0'
+last-account-name: Schmoldu
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -647.5138030976746
+  y: 65.0
+  z: 63.345937794862145
+  yaw: 178.88246154785156
+  pitch: 87.91683197021484
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -647.5138030976746
+  y: 65.0
+  z: 63.345937794862145
+  yaw: 133.607666015625
+  pitch: 20.00533103942871

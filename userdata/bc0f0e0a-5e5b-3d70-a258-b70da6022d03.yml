@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514993924001
+  lastteleport: 1514994954921
+  logout: 1514994998550
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3719.8040747212026
+  y: 72.0
+  z: -3285.481897486977
+  yaw: -172.99423217773438
+  pitch: 6.150135040283203
+  world-name: ''
+afk: false
+ip-address: 92.147.81.163
+last-account-name: Aloix1234
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.120.102.186
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665926770810
+  login: 1665926470893
+  kits:
+    stationaute: 1665926599802
+money: '50.0'
+last-account-name: MissCorail
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 16.3124295093697
+  y: 65.0
+  z: 28.594938947223223
+  yaw: 2.37945556640625
+  pitch: 30.851879119873047
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3464.212124448971
+  y: 196.5
+  z: 3609.5326114437794
+  yaw: -134.2669677734375
+  pitch: -0.1980629712343216

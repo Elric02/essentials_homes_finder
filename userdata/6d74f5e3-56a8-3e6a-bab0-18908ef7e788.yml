@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.130.252.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668368154975
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668368586572
+  login: 1668368097513
+money: '500.0'
+last-account-name: SamaelMoretti
+lastlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -3150.300000011921
+  y: 39.0
+  z: -1907.0252070877586
+  yaw: -84.60479736328125
+  pitch: 83.99995422363281
+homes:
+  a:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3931.0441606939207
+    y: 78.0
+    z: 7535.038801299503
+    yaw: -36.73223876953125
+    pitch: 54.60007095336914
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3931.26681664566
+  y: 78.0
+  z: 7534.511058678244
+  yaw: 98.40191650390625
+  pitch: 17.85008430480957

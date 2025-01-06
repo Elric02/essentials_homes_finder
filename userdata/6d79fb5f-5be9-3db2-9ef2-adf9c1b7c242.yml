@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.203.86.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672083059106
+  login: 1672083022011
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.72664542940595
+  y: 81.0
+  z: -3110.9640764686005
+  yaw: -22.92513656616211
+  pitch: 0.011657476425170898
+last-account-name: 500mg_2_DPH
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 401.82685837041
+  y: 81.0
+  z: -3108.299892219114
+  yaw: -80.66702270507812
+  pitch: 8.294970512390137

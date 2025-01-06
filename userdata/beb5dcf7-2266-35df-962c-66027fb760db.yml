@@ -1,0 +1,38 @@
+timestamps:
+  login: 1608506570632
+  lastteleport: 1608506739214
+  logout: 1608506772786
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 150.39132898816533
+  y: 63.0
+  z: -11.93915778072001
+  yaw: -180.95574951171875
+  pitch: 3.835692882537842
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1440.8574513334022
+  y: 64.0
+  z: -2185.006759326148
+  yaw: -192.37509155273438
+  pitch: 18.981414794921875
+  world-name: ''
+ip-address: 89.158.116.99
+last-account-name: PlaquetteDeJaune
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

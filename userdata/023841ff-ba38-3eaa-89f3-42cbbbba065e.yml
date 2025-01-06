@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519236708845
+  lastteleport: 1519238142905
+  logout: 1519238349181
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.88520735282
+  y: 63.0
+  z: 7.872888630818274
+  yaw: -199.07080078125
+  pitch: 22.67865753173828
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 137.2677438111392
+  y: 63.0
+  z: -17.581416248175106
+  yaw: 331.7790832519531
+  pitch: 11.400195121765137
+  world-name: ''
+ip-address: 109.18.101.242
+last-account-name: MiuMiikuMiau
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

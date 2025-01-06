@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478433484786
+  logout: 1478433528843
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 194.19024976223005
+  y: 64.0
+  z: 8.188687987271614
+  yaw: -84.3020248413086
+  pitch: 0.8913348913192749
+  world-name: ''
+ip-address: 90.78.123.126
+last-account-name: T_Shark999
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

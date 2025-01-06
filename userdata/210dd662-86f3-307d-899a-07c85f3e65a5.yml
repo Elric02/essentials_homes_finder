@@ -1,0 +1,258 @@
+npc: false
+last-account-name: roselfe
+money: '88949.2357500000000014'
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.3.157.8
+afk: false
+socialspy: true
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1734297076039
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734826170108
+  login: 1734821240908
+  kits:
+    creatif: 1715216946625
+    color: 1715216952349
+    vip: 1715216963238
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 157.9784117085475
+  y: -379.6510986155448
+  z: 23.539090602065063
+  yaw: -1.0322078466415405
+  pitch: 19.949975967407227
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -348.2746328385329
+  y: 84.8692520371314
+  z: 593.1122018681615
+  yaw: -144.0589599609375
+  pitch: 5.550150394439697
+homes:
+  mox:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 1098.3513042913248
+    y: 71.0
+    z: -1578.300000011921
+    yaw: -133.80068969726562
+    pitch: 13.200007438659668
+  montagne:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1220.3164795784858
+    y: 76.0
+    z: -2263.5127360691104
+    yaw: 124.16146850585938
+    pitch: -2.8503012657165527
+  contenaire:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1370.8818998560052
+    y: 65.0
+    z: -2512.3194736212813
+    yaw: 55.622802734375
+    pitch: -22.31692123413086
+  vip:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6975.975298246742
+    y: 182.0
+    z: -3671.0716030432445
+    yaw: 92.61540222167969
+    pitch: 24.59945297241211
+  coffre2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -960.3808484869064
+    y: 50.0
+    z: -1532.3180927300077
+    yaw: -35.630435943603516
+    pitch: -1.0501898527145386
+  avenir:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 1907.9929316455712
+    y: 22.0
+    z: -1038.5026376406556
+    yaw: -151.283203125
+    pitch: 27.600616455078125
+  yann:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -507.1497393063065
+    y: 69.0
+    z: -2256.515776843592
+    yaw: -170.79025268554688
+    pitch: 6.29905891418457
+  bry:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6227.92483787835
+    y: 63.5
+    z: 192.7337411813349
+    yaw: 23.459392547607422
+    pitch: 11.698882102966309
+  guerre:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 289.9141881588785
+    y: 40.14669111190551
+    z: 223.4784306524255
+    yaw: -32.21575927734375
+    pitch: 20.549184799194336
+  repliquespawn:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 482.5773465522283
+    y: 44.48434433924567
+    z: 920.9454942442806
+    yaw: 29.5821533203125
+    pitch: 22.948888778686523
+  kdonowel:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 1186.16667103929
+    y: 13.575000047683716
+    z: -686.183430442025
+    yaw: 83.9215087890625
+    pitch: 30.14955711364746
+  labo:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -396.7496837691328
+    y: 4.0
+    z: 844.4142388031731
+    yaw: -161.1132354736328
+    pitch: 9.8997802734375
+  causette:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6237.790503035909
+    y: 66.0
+    z: 5897.184729153784
+    yaw: 81.0274429321289
+    pitch: 20.849416732788086
+  truc:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -2386.1578160424388
+    y: -30.9375
+    z: -2866.4664464303773
+    yaw: -77.44406127929688
+    pitch: 20.999507904052734
+  spawnbuild01:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -249.45476193528808
+    y: 30.79692041555343
+    z: -283.92052515423325
+    yaw: -18.087799072265625
+    pitch: 17.121902465820312
+  spawnbuild02:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: 342.83528715621594
+    y: 70.0
+    z: -439.48352412274016
+    yaw: -85.29244995117188
+    pitch: 21.771875381469727
+  spawnbuild03test:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -1814.126750093001
+    y: 53.624425699151054
+    z: -700.038664542411
+    yaw: 178.64942932128906
+    pitch: 12.599903106689453
+  am_01:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 2695.550517207447
+    y: -16.0
+    z: 3565.928756218728
+    yaw: -55.18310546875
+    pitch: -57.75874710083008
+  am_02:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 2790.300000011921
+    y: 20.103056455037738
+    z: -3210.699999988079
+    yaw: -38.9248046875
+    pitch: 38.250205993652344
+  yannfake:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 400.1250285929794
+    y: 73.09375
+    z: 764.9860724585944
+    yaw: 178.80328369140625
+    pitch: -2.4755735397338867
+  emeraude:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 1360.699999988079
+    y: 4.0
+    z: -1579.734366630019
+    yaw: -83.63212585449219
+    pitch: 14.550182342529297
+  testtt:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -2528.9501907788335
+    y: 73.0
+    z: -2982.26750190671
+    yaw: -6.641815185546875
+    pitch: 24.299518585205078
+  pixel:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6730.3905021002065
+    y: 99.80981419156313
+    z: -7879.770703655155
+    yaw: -173.7113037109375
+    pitch: 33.899688720703125
+mail:
+- legacy: false
+  read: true
+  message: coucou maman tu peut me mp discord quand tu revient ^^
+  sender-name: AdroseML
+  sender-uuid: 7856d8e8-a925-3ce8-8960-46b3621ba664
+  timestamp: 1684896005367
+  expire: 0
+- legacy: false
+  read: true
+  message: je t'ai envoyer 3500$, j'ai vendu ton shop 03 (Roseport) a maltanir45
+  sender-name: naturalizee
+  sender-uuid: cc702e34-b94b-3106-b41f-f357d3bf3dac
+  timestamp: 1673471054781
+  expire: 0
+- legacy: false
+  read: true
+  message: j'ai pas de béton dans les coffre c'est un truc que je farm directement
+  sender-name: IntegraleEpice
+  sender-uuid: bdccd7c0-d924-3f6c-a006-ba04d8529248
+  timestamp: 1669407149920
+  expire: 0
+- legacy: false
+  read: true
+  message: bonjour, tu va bien ? j'ai bien pris en compte votre demande sur le cachage
+    de mes fermes je voudrais savoir si je peut farmer plein de block pour pouvoir
+    ensuite les poser.
+  sender-name: IntegraleEpice
+  sender-uuid: bdccd7c0-d924-3f6c-a006-ba04d8529248
+  timestamp: 1669306393970
+  expire: 0

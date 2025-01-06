@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517414952414
+  logout: 1517415021747
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 71.30000001192093
+  y: 62.0
+  z: 93.91047801963124
+  yaw: -286.511474609375
+  pitch: 21.10314178466797
+  world-name: ''
+ip-address: 83.200.117.75
+last-account-name: Maelosaure
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

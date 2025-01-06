@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484319048936
+  logout: 1484319067706
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 59.740633942823415
+  y: 59.0
+  z: 20.620697127345526
+  yaw: -227.59799194335938
+  pitch: 13.297342300415039
+  world-name: ''
+ip-address: 90.126.99.211
+last-account-name: NewlerEyera
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

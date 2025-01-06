@@ -1,0 +1,38 @@
+timestamps:
+  login: 1556206146389
+  lastteleport: 1556207623427
+  logout: 1556207867165
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -627.8125954217264
+  y: 78.0
+  z: -2790.69101371646
+  yaw: 214.2000274658203
+  pitch: -7.950002193450928
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -189.620849609375
+  pitch: 22.528675079345703
+  world-name: ''
+money: '0'
+ip-address: 90.120.156.216
+last-account-name: silvain
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

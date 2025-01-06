@@ -1,0 +1,38 @@
+timestamps:
+  login: 1536085209634
+  lastteleport: 1536085443958
+  logout: 1536085474620
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4310.217765802515
+  y: 73.0
+  z: 1211.8247942494245
+  yaw: 188.3309326171875
+  pitch: 13.46806812286377
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 157.1092448024037
+  y: 63.0
+  z: 39.45126391008145
+  yaw: -63.7719841003418
+  pitch: 9.017004013061523
+  world-name: ''
+ip-address: 88.183.220.11
+last-account-name: chocapoca
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

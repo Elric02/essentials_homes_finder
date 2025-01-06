@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.238.205.35
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1633804073281
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633804106466
+  login: 1633803995090
+money: '0'
+last-account-name: ARD_exe
+lastlocation:
+  world: 9f558405-e9a0-48ce-9c3e-d633a67539fd
+  world-name: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+logoutlocation:
+  world: 9f558405-e9a0-48ce-9c3e-d633a67539fd
+  world-name: Ressource
+  x: 3.699999988079073
+  y: 62.0
+  z: 100.30000001192093
+  yaw: -123.00277709960938
+  pitch: 28.8000431060791

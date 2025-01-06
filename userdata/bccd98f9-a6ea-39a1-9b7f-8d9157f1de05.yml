@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616191795583
+  logout: 1616192199615
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 161.14742611436324
+  y: 64.0
+  z: 14.078802999150767
+  yaw: -132.8447265625
+  pitch: 20.225845336914062
+  world-name: ''
+ip-address: 102.159.192.238
+last-account-name: infinity2001
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

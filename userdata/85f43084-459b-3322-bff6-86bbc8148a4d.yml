@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476715518316
+  logout: 1476716053226
+  lastteleport: 1476455185010
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: 526.9205601967517
+  y: 69.0
+  z: 373.38030373912915
+  yaw: 64.02063751220703
+  pitch: 24.536104202270508
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2950.633556248058
+  y: 66.0
+  z: -5753.153433483211
+  yaw: 73.22103881835938
+  pitch: 33.982826232910156
+  world-name: ''
+ip-address: 78.214.244.98
+last-account-name: Loubafritz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

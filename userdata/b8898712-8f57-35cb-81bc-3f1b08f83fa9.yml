@@ -1,0 +1,106 @@
+timestamps:
+  login: 1667324151400
+  lastteleport: 1667326325519
+  logout: 1667326597018
+  kits:
+    vip: 1613998931678
+  jail: 0
+  onlinejail: 0
+  lastheal: 0
+  mute: 0
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  x: 421.54744397954926
+  y: 81.0
+  z: -3126.470883476656
+  yaw: 169.35679626464844
+  pitch: 12.59996223449707
+  world-name: station
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 686.6999999880791
+  y: 72.0
+  z: 731.0522745705995
+  yaw: 10.11328125
+  pitch: 18.302703857421875
+  world-name: world
+money: '100.0'
+homes:
+  chaton:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 766.5
+    y: 63.0
+    z: 84.5
+    yaw: 146.5341033935547
+    pitch: 13.199512481689453
+    world-name: world
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -1902.5
+    y: 74.0
+    z: -1565.5
+    yaw: -230.73190307617188
+    pitch: 8.291741371154785
+    world-name: world
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4887.5
+    y: 63.0
+    z: -556.5
+    yaw: -80.71066284179688
+    pitch: 14.697671890258789
+    world-name: world
+  didi:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4948.53150846841
+    y: 63.5
+    z: -617.4111926476721
+    yaw: 266.21514892578125
+    pitch: 31.275665283203125
+    world-name: world
+  dokka:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1279.5
+    y: 95.5
+    z: -7202.5
+    yaw: -98.6264877319336
+    pitch: 27.007198333740234
+    world-name: world
+  rose:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -495.5444694774788
+    y: 169.0
+    z: 467.5156937753951
+    yaw: -342.05853271484375
+    pitch: 9.160890579223633
+    world-name: world
+  farm:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: 1116.407487398624
+    y: 36.0
+    z: -947.1259368297026
+    yaw: -243.6790771484375
+    pitch: 19.34758758544922
+    world-name: Nether
+  bichon:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 601.9860791788823
+    y: 64.0
+    z: 766.4688649343778
+    yaw: 117.3732681274414
+    pitch: 17.1024227142334
+    world-name: world
+nickname: §0STYL2_
+afk: false
+jailed: false
+ip-address: 82.66.167.196
+last-account-name: STYL2_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

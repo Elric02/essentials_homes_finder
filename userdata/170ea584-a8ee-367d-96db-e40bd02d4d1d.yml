@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485648015241
+  lastteleport: 1485648061035
+  logout: 1485648297626
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.38344408186146
+  y: 63.0
+  z: 47.48787019765431
+  yaw: -276.79742431640625
+  pitch: -11.902599334716797
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4831.825870750984
+  y: 71.0
+  z: -507.5414539312018
+  yaw: 275.3774108886719
+  pitch: 10.650001525878906
+  world-name: ''
+ip-address: 213.245.165.6
+last-account-name: ColonelBlanco
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

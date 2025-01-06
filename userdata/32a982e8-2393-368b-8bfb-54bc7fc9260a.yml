@@ -1,0 +1,47 @@
+timestamps:
+  login: 1487843254270
+  lastteleport: 1487843172729
+  logout: 1487844184497
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -56.90830165590623
+  y: 64.0
+  z: 32.46298622408031
+  yaw: 246.3971710205078
+  pitch: 19.79985809326172
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2831.5276176053726
+  y: 63.0
+  z: 1692.5582089904574
+  yaw: 56.1007080078125
+  pitch: 12.75007438659668
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: -2828.5919022528064
+    y: 63.0
+    z: 1690.5226717804146
+    yaw: 2.100341796875
+    pitch: 90.0
+    world-name: ''
+afk: false
+ip-address: 82.125.218.94
+last-account-name: theblacky06
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

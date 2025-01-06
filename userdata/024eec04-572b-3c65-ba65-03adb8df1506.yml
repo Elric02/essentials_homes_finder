@@ -1,0 +1,47 @@
+timestamps:
+  login: 1535626410371
+  lastteleport: 1535626419868
+  logout: 1535626453986
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -7292.981483091443
+  y: 154.0
+  z: -1559.6327075630088
+  yaw: -171.76904296875
+  pitch: -7.336760997772217
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1943.6421277523134
+  y: 56.0
+  z: -2161.6904655178214
+  yaw: 198.749755859375
+  pitch: 32.24995422363281
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1910.7843063481685
+    y: 67.0625
+    z: -2161.573156717306
+    yaw: 282.29974365234375
+    pitch: 7.799953460693359
+    world-name: ''
+afk: false
+ip-address: 78.232.55.9
+last-account-name: FrDarkSider
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

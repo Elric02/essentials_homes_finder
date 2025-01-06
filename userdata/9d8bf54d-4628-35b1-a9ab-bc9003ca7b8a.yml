@@ -1,0 +1,55 @@
+timestamps:
+  login: 1617637503826
+  lastteleport: 1617638161621
+  logout: 1617638505737
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressourcenether
+  x: 0.6999999880790682
+  y: 3.0
+  z: -21.45276296741367
+  yaw: 299.2513427734375
+  pitch: 7.049522399902344
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 6800.368285477461
+    y: 60.0
+    z: -3888.3441087049778
+    yaw: -75.15019226074219
+    pitch: 12.899967193603516
+    world-name: ''
+  end:
+    world: End
+    x: -393.10505019695347
+    y: 1.0
+    z: -0.6269706892209955
+    yaw: -86.38131713867188
+    pitch: 4.349826335906982
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5219706617853
+  y: 64.0
+  z: 24.59015183032405
+  yaw: -181.14532470703125
+  pitch: 9.575874328613281
+  world-name: ''
+afk: false
+ip-address: 81.48.19.252
+last-account-name: Guillaumegdr
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

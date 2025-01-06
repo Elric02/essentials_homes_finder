@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526398994585
+  lastteleport: 1526399326655
+  logout: 1526399534052
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 149.0054822083244
+  y: 66.0
+  z: 103.34425288570664
+  yaw: 11.8302001953125
+  pitch: 14.27868938446045
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 203.30000001192093
+  y: 83.0
+  z: 2176.228828655184
+  yaw: 325.5255126953125
+  pitch: 41.400054931640625
+  world-name: ''
+ip-address: 91.182.148.48
+last-account-name: Lukas
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

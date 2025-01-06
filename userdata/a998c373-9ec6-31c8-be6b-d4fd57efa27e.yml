@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467983812097
+  lastteleport: 1467989490624
+  logout: 1467990277764
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.45594559567587
+  y: 64.0625
+  z: 19.433668642457526
+  yaw: -178.647216796875
+  pitch: -11.475815773010254
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 142.37678531775074
+  y: 63.0
+  z: -17.34452610388499
+  yaw: -213.31492614746094
+  pitch: 27.741174697875977
+  world-name: ''
+money: '0'
+ip-address: 92.167.255.246
+last-account-name: snipe35111
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

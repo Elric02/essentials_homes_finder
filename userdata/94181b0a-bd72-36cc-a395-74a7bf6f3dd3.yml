@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521833898367
+  lastteleport: 1521423710012
+  logout: 1521834001694
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.8035829507402
+  y: 66.0
+  z: 19.251463008293378
+  yaw: 277.89617919921875
+  pitch: 25.440641403198242
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 5676.507687815933
+  y: 102.0
+  z: 1232.9564014725397
+  yaw: -35.6377067565918
+  pitch: 29.099964141845703
+  world-name: ''
+ip-address: 90.36.3.137
+last-account-name: theo64
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

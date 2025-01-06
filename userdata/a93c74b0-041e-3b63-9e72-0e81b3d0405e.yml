@@ -1,0 +1,47 @@
+timestamps:
+  login: 1539357979712
+  logout: 1539357990461
+  lastteleport: 1537096386473
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.15645883447323
+  y: 63.0
+  z: 57.67400477014613
+  yaw: -62.270694732666016
+  pitch: -9.721341133117676
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 48.25901487191583
+  y: 59.856823828673384
+  z: 42.20777883926685
+  yaw: 355.64617919921875
+  pitch: 4.050009250640869
+  world-name: ''
+money: '0'
+homes:
+  base7:
+    world: world
+    x: -278.1163392399628
+    y: 66.0
+    z: 4977.651938158031
+    yaw: -344.99993896484375
+    pitch: 16.500015258789062
+    world-name: ''
+ip-address: 90.103.182.217
+last-account-name: loulou592
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586788262858
+  lastteleport: 1586788902482
+  logout: 1586790098676
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -1241.064907795117
+  y: 63.0
+  z: -1101.300000011921
+  yaw: -204.74972534179688
+  pitch: 12.812349319458008
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -1218.1468011487254
+  y: 55.0
+  z: -933.6999999880791
+  yaw: -96.59657287597656
+  pitch: 29.6771240234375
+  world-name: ''
+ip-address: 176.163.69.160
+last-account-name: avroka
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

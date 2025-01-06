@@ -1,0 +1,38 @@
+timestamps:
+  login: 1529486744607
+  lastteleport: 1529486930575
+  logout: 1529486965411
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6989.142551798592
+  y: 99.02442408821369
+  z: 886.1663342268803
+  yaw: -14.84307861328125
+  pitch: 13.350069046020508
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -6954.0565881579705
+  y: 79.0
+  z: 779.4869662519079
+  yaw: -111.44332122802734
+  pitch: 0.7500020265579224
+  world-name: ''
+ip-address: 78.210.94.60
+last-account-name: Cyriuce
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1509483427212
+  lastteleport: 1509485839939
+  logout: 1509486012253
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -232.30000001192093
+  y: 69.0
+  z: -4947.4186434900375
+  yaw: -70.94963073730469
+  pitch: 15.00005054473877
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6374.39182950758
+  y: 79.0
+  z: -6014.206573384601
+  yaw: -344.9809875488281
+  pitch: 10.800104141235352
+  world-name: ''
+homes:
+  home:
+    world: Ressource
+    x: -2394.0592368140883
+    y: 8.0
+    z: -1394.3821876382385
+    yaw: 328.4991149902344
+    pitch: 20.100027084350586
+    world-name: ''
+  maison:
+    world: world
+    x: 6374.748128820595
+    y: 80.0
+    z: -5997.135861383711
+    yaw: 15.9185791015625
+    pitch: 4.950016021728516
+    world-name: ''
+  desert:
+    world: Ressource
+    x: -235.05544820725927
+    y: 69.0
+    z: -4947.041409518053
+    yaw: -70.94963073730469
+    pitch: 15.00005054473877
+    world-name: ''
+money: '0'
+ip-address: 77.151.76.212
+last-account-name: Adamant
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

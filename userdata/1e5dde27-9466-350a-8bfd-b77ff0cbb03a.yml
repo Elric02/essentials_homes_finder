@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468072308551
+  logout: 1468073450424
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 452.65314960351907
+  y: 96.0
+  z: -147.66255686168378
+  yaw: 198.603271484375
+  pitch: 12.600041389465332
+  world-name: ''
+ip-address: 195.132.223.191
+last-account-name: kutsaru
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.103.36.70
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1669044571396
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669045134242
+  login: 1669044206648
+money: '0'
+last-account-name: samsam2411
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 396.66331031847267
+  y: 81.0
+  z: -3109.1681040188273
+  yaw: -175.65057373046875
+  pitch: 15.15001106262207
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 493.58839889049966
+  y: 95.97166113712782
+  z: 116.01101536060611
+  yaw: 16.0386962890625
+  pitch: 33.44962692260742

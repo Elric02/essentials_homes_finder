@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508972685413
+  logout: 1508972822636
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 63.009037544205384
+  y: 64.0
+  z: 47.71110697243736
+  yaw: -188.148193359375
+  pitch: 72.54740905761719
+  world-name: ''
+ip-address: 82.120.146.162
+last-account-name: martouille80
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

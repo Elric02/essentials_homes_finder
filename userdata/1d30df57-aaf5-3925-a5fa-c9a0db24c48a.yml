@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.65.8.165
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1659734008676
+  login: 1659733913318
+money: '0'
+last-account-name: uranium_is_ctxe
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 155.15792912971423
+  y: 63.0
+  z: -9.748788651144702
+  yaw: 176.34690856933594
+  pitch: 8.340662956237793
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -6270.7938848858
+  y: 104.0
+  z: -6089.872446759342
+  yaw: 157.89723205566406
+  pitch: 28.590578079223633

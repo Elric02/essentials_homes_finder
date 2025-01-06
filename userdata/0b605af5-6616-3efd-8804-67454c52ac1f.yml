@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616355650565
+  logout: 1616355677948
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -516.2629054547418
+  y: 69.0
+  z: -16.22663862378861
+  yaw: 4.979827880859375
+  pitch: 23.5495662689209
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6929.311195432517
+  y: 67.0
+  z: 2064.2826733151965
+  yaw: 270.8907775878906
+  pitch: 28.7998046875
+  world-name: ''
+ip-address: 82.124.194.254
+last-account-name: Takzwan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

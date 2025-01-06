@@ -1,0 +1,63 @@
+timestamps:
+  login: 1487731520808
+  lastteleport: 1487733634057
+  logout: 1487733666697
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2545.695771589964
+  y: 78.0
+  z: -1788.699999988079
+  yaw: -88.91948699951172
+  pitch: 43.71773910522461
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: -2543.482223801516
+    y: 78.0
+    z: -1787.8469590190505
+    yaw: 84.72607421875
+    pitch: 16.40080451965332
+    world-name: ''
+  minage:
+    world: Ressource
+    x: 518.3682829154002
+    y: 19.0
+    z: 130.86027097103658
+    yaw: -20.7332763671875
+    pitch: 28.232337951660156
+    world-name: ''
+  nether:
+    world: world_nether
+    x: -4209.300000011921
+    y: 74.0
+    z: 5444.300000011921
+    yaw: -357.5494384765625
+    pitch: 14.13888168334961
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 118.08299114485118
+  y: 58.0
+  z: 52.89033916420595
+  yaw: -230.17098999023438
+  pitch: 24.545841217041016
+  world-name: ''
+ip-address: 113.21.120.155
+last-account-name: NoRajLookMaCo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

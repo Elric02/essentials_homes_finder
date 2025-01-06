@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614547369527
+  logout: 1614547380324
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.0410898491712
+  y: 65.0
+  z: 70.32208545883422
+  yaw: 183.99603271484375
+  pitch: 21.54062271118164
+  world-name: ''
+ip-address: 88.127.236.114
+last-account-name: Yoska
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

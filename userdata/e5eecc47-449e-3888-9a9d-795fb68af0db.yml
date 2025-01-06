@@ -1,0 +1,38 @@
+timestamps:
+  login: 1566582402327
+  logout: 1566583550905
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -64.23121262185401
+  y: 90.17675927506424
+  z: -47.34214781380723
+  yaw: 61.212890625
+  pitch: 39.013423919677734
+  world-name: ''
+money: '0'
+ip-address: 86.235.192.233
+last-account-name: _Oracle
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

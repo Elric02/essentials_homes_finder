@@ -1,0 +1,55 @@
+timestamps:
+  login: 1498502471045
+  lastteleport: 1498394106408
+  logout: 1498503693223
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.0972548959721
+  y: 63.0
+  z: -24.055210731327804
+  yaw: 7.4395751953125
+  pitch: -13.219269752502441
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  moi:
+    world: world
+    x: -2121.717211431585
+    y: 63.0
+    z: 5057.169870841063
+    yaw: -97.317626953125
+    pitch: 26.107423782348633
+    world-name: ''
+  home:
+    world: world
+    x: -2230.008927332417
+    y: 70.0
+    z: 5071.967431411823
+    yaw: -131.5977020263672
+    pitch: 12.796463012695312
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -2244.649498465633
+  y: 70.0
+  z: 5089.232565098537
+  yaw: -50.67440414428711
+  pitch: -5.23194694519043
+  world-name: ''
+ip-address: 90.9.203.168
+last-account-name: MaRGo_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

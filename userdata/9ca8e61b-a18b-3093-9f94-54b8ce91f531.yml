@@ -1,0 +1,38 @@
+timestamps:
+  login: 1595080866334
+  logout: 1595081251737
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5661.845421419223
+  y: 85.0
+  z: 916.8872416539197
+  yaw: -38.287445068359375
+  pitch: 14.452794075012207
+  world-name: ''
+ip-address: 90.73.98.6
+last-account-name: sfhjZEF54
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1493022934188
+  lastteleport: 1493024837482
+  logout: 1493025062924
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -6.592833236995362
+  y: 15.0
+  z: 266.300000011921
+  yaw: -39.970703125
+  pitch: 17.40009880065918
+  world-name: ''
+homes:
+  stef:
+    world: world
+    x: -2677.300000011921
+    y: 90.0
+    z: -922.4691361133923
+    yaw: 265.2001037597656
+    pitch: 79.35000610351562
+    world-name: ''
+  bmw:
+    world: ressource
+    x: 2114.4445622884377
+    y: 63.0
+    z: 3064.908420053135
+    yaw: -124.34242248535156
+    pitch: 13.650046348571777
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2628.0752475128556
+  y: 91.0
+  z: -903.5074677699683
+  yaw: 92.70085906982422
+  pitch: 1.950003981590271
+  world-name: ''
+afk: false
+ip-address: 89.89.17.140
+last-account-name: stephane
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

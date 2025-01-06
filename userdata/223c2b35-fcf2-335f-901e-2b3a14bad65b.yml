@@ -1,0 +1,38 @@
+timestamps:
+  login: 1587081261181
+  lastteleport: 1587081802813
+  logout: 1587081867676
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1459.4763322188767
+  y: 64.0
+  z: -2168.512499988079
+  yaw: -2.772822141647339
+  pitch: -0.7640507221221924
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -999.9792481493996
+  y: 71.52767571705644
+  z: 264.5401058759757
+  yaw: 107.7993392944336
+  pitch: 59.317726135253906
+  world-name: ''
+ip-address: 90.76.28.14
+last-account-name: K4rt3n
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

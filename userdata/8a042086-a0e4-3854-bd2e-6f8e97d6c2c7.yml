@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470943142545
+  lastteleport: 1470943158254
+  logout: 1470943310086
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.26961540541873
+  y: 100.0
+  z: 19.780702486954127
+  yaw: -170.2233428955078
+  pitch: 51.71070098876953
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 141.32835584437288
+  y: 63.5
+  z: 22.53566062610805
+  yaw: -177.96096801757812
+  pitch: 15.324515342712402
+  world-name: ''
+ip-address: 77.202.231.165
+last-account-name: remitoon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

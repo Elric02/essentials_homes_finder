@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.51.224.131
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1639067970906
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670196487408
+  login: 1670196480562
+money: '0'
+last-account-name: Zeleph666
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -1351.34889397559
+  y: 72.0
+  z: 3961.746478105438
+  yaw: 149.943115234375
+  pitch: 30.150014877319336
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -152.25561134768188
+  y: 17.0
+  z: -3352.5325072251185
+  yaw: 83.39973449707031
+  pitch: 15.300688743591309
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1352.3126004459905
+    y: 72.0
+    z: 3960.248516443746
+    yaw: 260.0537109375
+    pitch: 36.90000915527344

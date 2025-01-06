@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490291450147
+  logout: 1490291462230
+  lastteleport: 1490291219178
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -684.1197497311482
+  y: 72.0
+  z: -6570.842294688988
+  yaw: -184.20095825195312
+  pitch: 8.8500394821167
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 113.30000001192093
+  y: 63.0
+  z: -61.373023757696096
+  yaw: -230.61083984375
+  pitch: 11.424518585205078
+  world-name: ''
+money: '0'
+ip-address: 176.163.96.11
+last-account-name: valentin2004
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

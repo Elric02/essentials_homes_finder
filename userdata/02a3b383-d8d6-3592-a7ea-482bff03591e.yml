@@ -1,0 +1,38 @@
+timestamps:
+  login: 1465027378756
+  lastteleport: 1465027473722
+  logout: 1465027559646
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 159.0261321324767
+  y: 64.0
+  z: 19.389359357772626
+  yaw: -268.42974853515625
+  pitch: 11.53670883178711
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 208.80663212484194
+  y: 64.0
+  z: -46.1804088110657
+  yaw: 80.65522003173828
+  pitch: 37.13066482543945
+  world-name: ''
+ip-address: 88.170.28.100
+last-account-name: minou71
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

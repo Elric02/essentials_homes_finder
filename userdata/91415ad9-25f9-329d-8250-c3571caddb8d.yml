@@ -1,0 +1,47 @@
+timestamps:
+  login: 1560694671192
+  lastteleport: 1560696259319
+  logout: 1560696350559
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -342.889550371158
+  y: 71.0
+  z: -2731.810956259819
+  yaw: 337.7010192871094
+  pitch: -1.6550225019454956
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -347.32874179896174
+    y: 70.0
+    z: -2724.790824872055
+    yaw: 328.2929992675781
+    pitch: 13.162588119506836
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5796.741263099425
+  y: 63.0
+  z: 2189.049337852232
+  yaw: -236.1099395751953
+  pitch: 38.88091278076172
+  world-name: ''
+ip-address: 81.49.203.124
+last-account-name: Sky
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

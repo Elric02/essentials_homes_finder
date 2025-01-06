@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521300531778
+  logout: 1521300583975
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.67620892636478
+  y: 76.0
+  z: 95.28013873580853
+  yaw: 54.02183151245117
+  pitch: 54.42551040649414
+  world-name: ''
+ip-address: 62.149.29.36
+last-account-name: whoneedsleep
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483462827804
+  logout: 1483462845902
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.66523845143587
+  y: 63.0
+  z: 49.05050805563464
+  yaw: -266.66595458984375
+  pitch: -2.6096253395080566
+  world-name: ''
+ip-address: 176.151.125.111
+last-account-name: FoxyGaming08
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

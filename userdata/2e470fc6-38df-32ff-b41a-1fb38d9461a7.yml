@@ -1,0 +1,75 @@
+timestamps:
+  login: 1595683914873
+  logout: 1595684594795
+  lastteleport: 1595684356541
+  kits:
+    color: 1577004149033
+    vip: 1581236136023
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 87.57959183904855
+  y: 63.0
+  z: -2.267589663297384
+  yaw: -54.808868408203125
+  pitch: 11.465863227844238
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -442.93293209764346
+  y: 64.0
+  z: 6402.300000011921
+  yaw: -298.01373291015625
+  pitch: 38.536922454833984
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: -335.5169649400998
+    y: 79.0
+    z: 6339.740018932789
+    yaw: -269.93194580078125
+    pitch: 8.784066200256348
+    world-name: ''
+  kiki:
+    world: world
+    x: 6163.380375884345
+    y: 72.0
+    z: -5870.115945409853
+    yaw: -5.5338134765625
+    pitch: 20.383502960205078
+    world-name: ''
+  mushroom:
+    world: Ressource
+    x: 21566.55269880523
+    y: 79.0
+    z: 3102.6484217212333
+    yaw: -91.27740478515625
+    pitch: 6.831165313720703
+    world-name: ''
+  famr:
+    world: Ressource
+    x: 1861.699999988079
+    y: 66.0
+    z: 2213.9376712760536
+    yaw: -49.80020523071289
+    pitch: 14.999874114990234
+    world-name: ''
+afk: false
+nickname: §2Niridian_Raven
+ip-address: 90.114.212.109
+last-account-name: Niridian
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

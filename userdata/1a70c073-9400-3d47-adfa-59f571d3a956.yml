@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467658295548
+  logout: 1467658387495
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 142.32733287935957
+  y: 63.0
+  z: 40.555781817887386
+  yaw: 30.602813720703125
+  pitch: -0.9758154153823853
+  world-name: ''
+ip-address: 77.195.239.119
+last-account-name: McCroquet
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

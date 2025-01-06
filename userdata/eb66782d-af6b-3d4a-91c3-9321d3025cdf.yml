@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.162.66.86
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1696344818994
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696439665975
+  login: 1696439135213
+money: '1000.0'
+last-account-name: Marshall
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 245.49760412339816
+  y: 133.74319993104933
+  z: 139.63416019231977
+  yaw: 179.72105407714844
+  pitch: 7.500364303588867
+homes:
+  ville:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6273.735343131654
+    y: 63.0
+    z: 5381.362055295342
+    yaw: 111.79000091552734
+    pitch: 25.64995574951172
+  basefk:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 4995.444007948533
+    y: 63.0
+    z: 5491.3185375701705
+    yaw: -268.650146484375
+    pitch: 4.500030517578125
+  ferme_cannasucre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6313.22929662701
+    y: 63.0
+    z: 5258.054242216486
+    yaw: -90.85910034179688
+    pitch: 6.599940776824951
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -6245.955887746419
+  y: 64.0
+  z: 5387.169752842558
+  yaw: -29.35018539428711
+  pitch: 25.677993774414062

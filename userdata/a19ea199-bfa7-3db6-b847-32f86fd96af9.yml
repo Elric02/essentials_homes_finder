@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614453628047
+  lastteleport: 1614453716619
+  logout: 1614454572140
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 88.51249998807907
+  y: 58.231523797587016
+  z: -51.69701630618838
+  yaw: -83.19477844238281
+  pitch: 5.098151206970215
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 87.69999998807907
+  y: 59.0
+  z: -51.8261514258405
+  yaw: 287.96826171875
+  pitch: 0.04087395220994949
+  world-name: ''
+money: '0'
+ip-address: 91.161.244.218
+last-account-name: FastyFreezio
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

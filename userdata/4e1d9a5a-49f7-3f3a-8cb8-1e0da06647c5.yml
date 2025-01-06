@@ -1,0 +1,47 @@
+timestamps:
+  login: 1467302131208
+  lastteleport: 1467303188518
+  logout: 1467303746503
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -209.63179929344915
+  y: 63.0
+  z: -717.6759205509906
+  yaw: -234.54855346679688
+  pitch: 37.67633056640625
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 617.9357906791954
+    y: 69.0
+    z: -786.7356122227302
+    yaw: -178.14825439453125
+    pitch: 4.5263495445251465
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 618.2886124045394
+  y: 69.0
+  z: -789.9468167185667
+  yaw: -173.1982879638672
+  pitch: 12.926349639892578
+  world-name: ''
+ip-address: 81.57.52.70
+last-account-name: Daftcaps
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

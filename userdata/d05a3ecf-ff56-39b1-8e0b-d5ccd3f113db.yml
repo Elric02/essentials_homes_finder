@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517068197074
+  lastteleport: 1517067681812
+  logout: 1517068238868
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4852.722463344553
+  y: 64.0
+  z: 5959.345514705084
+  yaw: -71.98778533935547
+  pitch: 6.368598937988281
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.67787638382597
+  y: 64.0
+  z: 21.760677760907967
+  yaw: 92.16680145263672
+  pitch: -8.393610000610352
+  world-name: ''
+money: '0'
+ip-address: 77.148.31.142
+last-account-name: zkpickas
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1495874067007
+  logout: 1495874083756
+  lastteleport: 1495227126266
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.073172057594725
+  yaw: -183.97776794433594
+  pitch: 27.72287940979004
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4212.132990000545
+  y: 63.0
+  z: -3691.64509212871
+  yaw: 37.05882263183594
+  pitch: 28.396778106689453
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -4209.979382251298
+    y: 67.0
+    z: -3692.9873126311813
+    yaw: 13.408241271972656
+    pitch: 48.959991455078125
+    world-name: ''
+afk: false
+ip-address: 90.113.22.0
+last-account-name: Taymang
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

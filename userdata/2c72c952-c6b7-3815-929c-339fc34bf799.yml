@@ -1,0 +1,38 @@
+timestamps:
+  login: 1539813930173
+  lastteleport: 1539815282547
+  logout: 1539815383936
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1452.4244567284861
+  y: 64.0
+  z: -2180.175399011963
+  yaw: 175.6273193359375
+  pitch: -8.86405086517334
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 98.53611019175133
+  y: 63.0
+  z: -14.563278978934845
+  yaw: -49.43345642089844
+  pitch: 1.3726775646209717
+  world-name: ''
+ip-address: 78.219.251.117
+last-account-name: Ekute
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509207642082
+  lastteleport: 1509207656191
+  logout: 1509207685905
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.65940693984624
+  y: 63.0
+  z: 52.93142836329589
+  yaw: -153.4974822998047
+  pitch: -3.952599287033081
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 197.62988301885073
+  y: 64.0
+  z: 15.23279417991709
+  yaw: -260.12078857421875
+  pitch: 1.5286699533462524
+  world-name: ''
+ip-address: 90.20.26.195
+last-account-name: Marchia
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

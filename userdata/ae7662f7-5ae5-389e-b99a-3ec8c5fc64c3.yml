@@ -1,0 +1,64 @@
+timestamps:
+  login: 1524915320360
+  lastteleport: 1511118301489
+  logout: 1524915626368
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -158.2756094511548
+  y: 12.0
+  z: 569.3660171099652
+  yaw: -292.3498229980469
+  pitch: 30.450031280517578
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -155.84377386457646
+  y: 12.0
+  z: 571.4814691621211
+  yaw: -341.8020935058594
+  pitch: 27.55514144897461
+  world-name: ''
+homes:
+  cave:
+    world: world
+    x: 1278.433310466395
+    y: 30.0
+    z: -4113.3835439768845
+    yaw: 312.63262939453125
+    pitch: 55.480716705322266
+    world-name: ''
+  tour:
+    world: world
+    x: 3952.525305894225
+    y: 103.0
+    z: -2841.7778201024694
+    yaw: 79.56356048583984
+    pitch: 28.585025787353516
+    world-name: ''
+  batcave:
+    world: world
+    x: -3012.7977338855894
+    y: 77.0
+    z: 6737.458297757362
+    yaw: 165.31201171875
+    pitch: 31.55525016784668
+    world-name: ''
+afk: false
+jailed: true
+jail: rose1
+ip-address: 82.226.14.70
+last-account-name: sokidan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

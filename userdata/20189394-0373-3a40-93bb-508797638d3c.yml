@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.94.145.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1648392549309
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1703411465480
+  login: 1703411458335
+money: '0'
+last-account-name: Derquraiders_
+lastlocation:
+  world: 6b791b62-b860-492a-aa67-db025bcd5247
+  world-name: world2
+  x: 1593.1186258907576
+  y: 47.0
+  z: -2925.0718841447842
+  yaw: -107.25514221191406
+  pitch: 9.52239990234375
+homes:
+  encienne:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -300.630996642939
+    y: 60.0
+    z: -4844.0265805276385
+    yaw: 112.51641845703125
+    pitch: -30.329057693481445
+  b2:
+    world: 6b791b62-b860-492a-aa67-db025bcd5247
+    world-name: world2
+    x: 1596.6317158702368
+    y: 47.0
+    z: -2934.348639198724
+    yaw: 92.71725463867188
+    pitch: 45.470523834228516
+  grotte:
+    world: b07f0d4e-3705-4848-8c34-caf728b24ec9
+    world-name: Ressource
+    x: -3404.369994298459
+    y: -16.0
+    z: -1844.659717267383
+    yaw: -122.61376953125
+    pitch: 37.121456146240234
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 2256.0374188985256
+  y: -42.0
+  z: 3689.699999988079
+  yaw: 68.10629272460938
+  pitch: 25.31853675842285

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1606418635839
+  lastteleport: 1606419648845
+  logout: 1606420922732
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.3386057954495
+  y: 64.0
+  z: 24.568467432028587
+  yaw: -165.0205078125
+  pitch: 22.228683471679688
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Event
+  x: 3451.125832913484
+  y: 58.5
+  z: -3517.800527183078
+  yaw: -259.1838073730469
+  pitch: 47.10104751586914
+  world-name: ''
+ip-address: 86.234.192.202
+last-account-name: kirito33240
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1594316752115
+  lastteleport: 1594310502398
+  logout: 1594317176052
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -3853.3166379892887
+  y: 63.0
+  z: 2664.699999988079
+  yaw: 26.397003173828125
+  pitch: 38.99980163574219
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  lac:
+    world: world
+    x: -6296.53858032396
+    y: 64.0
+    z: -2886.258828492851
+    yaw: 39.26484680175781
+    pitch: 20.849414825439453
+    world-name: ''
+  xp:
+    world: End
+    x: -329.8647942248102
+    y: 66.0
+    z: -0.6999999880790746
+    yaw: -256.02960205078125
+    pitch: 15.150664329528809
+    world-name: ''
+  enchant:
+    world: world
+    x: -6275.750344038804
+    y: 63.0
+    z: -2798.4385863384387
+    yaw: -91.8362808227539
+    pitch: 28.049510955810547
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -6274.889423169746
+  y: 63.0
+  z: -2798.300000011921
+  yaw: -331.38055419921875
+  pitch: 31.500093460083008
+  world-name: ''
+ip-address: 90.100.145.13
+last-account-name: DreadLord21
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

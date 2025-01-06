@@ -1,0 +1,101 @@
+timestamps:
+  login: 1668899274724
+  logout: 1668902662952
+  lastteleport: 1668902182165
+  kits:
+    color: 1666879865436
+    vip: 1668876396322
+    stationaute: 1666544647292
+    explorateur: 1668873689926
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: 2362.009648906624
+  y: 67.9778337222942
+  z: 3160.699999988079
+  yaw: 98.25152587890625
+  pitch: 55.94987869262695
+  world-name: Althium
+logoutlocation:
+  world: c57b9e2e-e619-4022-bb8b-7925496d5963
+  x: 67.11059649028809
+  y: 54.0
+  z: 275.21474572921875
+  yaw: -133.8009033203125
+  pitch: 23.39999771118164
+  world-name: HestiaEnd
+money: '0'
+homes:
+  bd:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5840.1427350027525
+    y: 71.0
+    z: 3852.335183217155
+    yaw: 71.250244140625
+    pitch: 37.49991226196289
+    world-name: world
+  r1:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 2235.368746424411
+    y: 97.0
+    z: 3051.8538512096457
+    yaw: -22.799009323120117
+    pitch: 20.250076293945312
+  shop:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -183.86585785002694
+    y: 71.0
+    z: -119.0333438792378
+    yaw: -0.148590087890625
+    pitch: 13.800076484680176
+  end:
+    world: c57b9e2e-e619-4022-bb8b-7925496d5963
+    world-name: HestiaEnd
+    x: 70.48909447636483
+    y: 54.0
+    z: 275.3316536830225
+    yaw: -162.89755249023438
+    pitch: 0.7500007748603821
+  e:
+    world: c57b9e2e-e619-4022-bb8b-7925496d5963
+    world-name: HestiaEnd
+    x: 1381.0771042510128
+    y: 121.0
+    z: 683.778695354142
+    yaw: 157.2001495361328
+    pitch: 31.199861526489258
+  t:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 2180.2771180931545
+    y: 64.0
+    z: 3678.8535214960875
+    yaw: 176.2517547607422
+    pitch: 88.19998168945312
+  me:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2698.612933518024
+    y: 70.0
+    z: -1237.861373954406
+    yaw: -67.33467864990234
+    pitch: 84.15003967285156
+afk: false
+nickname: §eFire§fPelu§7che
+ip-address: 77.205.153.69
+last-account-name: Fireduck056
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

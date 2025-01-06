@@ -1,0 +1,63 @@
+timestamps:
+  login: 1515231728639
+  lastteleport: 1515231787550
+  logout: 1515231942738
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1461.5
+  y: 58.852004992295484
+  z: -5323.5
+  yaw: 160.95001220703125
+  pitch: -2.6999928951263428
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6768.87436278855
+  y: 69.0
+  z: -5352.292219813331
+  yaw: -120.01827239990234
+  pitch: 21.150012969970703
+  world-name: ''
+homes:
+  projet:
+    world: world
+    x: 6794.109191527418
+    y: 65.0
+    z: -5351.479546867776
+    yaw: 65.23153686523438
+    pitch: 18.29999542236328
+    world-name: ''
+  mesa:
+    world: Ressource
+    x: 1461.629054448185
+    y: 71.0
+    z: -5323.616736672804
+    yaw: -245.6999969482422
+    pitch: 21.44999885559082
+    world-name: ''
+  lol:
+    world: world
+    x: 6705.447315573988
+    y: 65.0
+    z: -5332.394383127778
+    yaw: -89.26844787597656
+    pitch: 11.999980926513672
+    world-name: ''
+afk: false
+ip-address: 77.131.177.43
+last-account-name: Yohan277
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.32.94.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1644956657474
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644957485223
+  login: 1644955038838
+money: '0'
+last-account-name: Babyl
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -4726.834771422002
+  y: 69.0
+  z: 1554.3572064612279
+  yaw: -40.832332611083984
+  pitch: -4.800003528594971
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.29481298697206
+  y: 64.0
+  z: 19.290541625391672
+  yaw: 118.05680847167969
+  pitch: 27.749788284301758
+homes:
+  meven:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5378.772410697722
+    y: 65.0
+    z: 1429.3943254808105
+    yaw: -170.35662841796875
+    pitch: 15.299949645996094
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4726.527658518793
+    y: 69.0
+    z: 1554.2382198756982
+    yaw: -9.33233642578125
+    pitch: 5.700000762939453

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.192.188.176
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699369978364
+  login: 1699369593719
+money: '0'
+last-account-name: majalejo33
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 419.4561281623325
+  y: 80.0
+  z: -3230.1198918559135
+  yaw: -178.04840087890625
+  pitch: 25.649911880493164
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 308.8167329985604
+  y: -4666.044512494071
+  z: -3239.3554505705183
+  yaw: 119.7021484375
+  pitch: -35.699989318847656

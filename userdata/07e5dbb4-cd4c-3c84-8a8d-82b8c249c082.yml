@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609513748441
+  lastteleport: 1609513609419
+  logout: 1609513757780
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -2787.861552459355
+  y: 16.0
+  z: -93.46158020728438
+  yaw: 169.06422424316406
+  pitch: 41.270450592041016
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 152.07192376310968
+  y: 63.0
+  z: -1.5325276270808976
+  yaw: -142.2901153564453
+  pitch: -8.873832702636719
+  world-name: ''
+ip-address: 77.145.89.47
+last-account-name: dubtree
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

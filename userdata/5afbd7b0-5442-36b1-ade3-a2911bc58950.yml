@@ -1,0 +1,163 @@
+timestamps:
+  login: 1736086364517
+  logout: 1736088820866
+  lastteleport: 1736088368229
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  kits:
+    color: 1662562619785
+    vip: 1662562625917
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3093.544536082229
+  y: 64.0
+  z: 800.9612321745994
+  yaw: 117.865478515625
+  pitch: 14.143180847167969
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3128.0069144155564
+  y: 68.0
+  z: 741.3385783230468
+  yaw: 170.3247528076172
+  pitch: 22.862123489379883
+  world-name: world
+money: '200.0'
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3130.5
+    y: 68.0
+    z: 741.5
+    yaw: -134.4364471435547
+    pitch: 18.21169090270996
+    world-name: world
+  chalet:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6798.685503786619
+    y: 77.0
+    z: -4330.616643973026
+    yaw: -89.34712219238281
+    pitch: 25.499902725219727
+    world-name: world
+  field:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3116.5
+    y: 79.0
+    z: 751.5
+    yaw: -138.28424072265625
+    pitch: 17.355058670043945
+    world-name: world
+  ile:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    x: 191.5
+    y: 103.0
+    z: -1739.5
+    yaw: 5.425581932067871
+    pitch: 39.32948303222656
+    world-name: Event
+  new:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3061.5
+    y: 75.0
+    z: 732.5
+    yaw: 272.1780090332031
+    pitch: 25.350353240966797
+    world-name: world
+  projet:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    x: 221.5
+    y: 20.0
+    z: -1807.5
+    yaw: 258.57843017578125
+    pitch: 46.84634780883789
+    world-name: Event
+  raidfarm:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5497.5
+    y: 84.0
+    z: -5093.5
+    yaw: 47.9559326171875
+    pitch: 38.42162322998047
+    world-name: world
+  raidfarm2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5448.5
+    y: 99.5625
+    z: -5662.5
+    yaw: 21.06395721435547
+    pitch: 84.344482421875
+    world-name: world
+  raidfarm3:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5445.5
+    y: 247.0
+    z: -5659.5
+    yaw: 146.49172973632812
+    pitch: 59.584503173828125
+    world-name: world
+  shop:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3452.5
+    y: 198.0
+    z: 3512.5
+    yaw: 110.5099105834961
+    pitch: 38.69388961791992
+    world-name: world
+  sugar:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3051.5
+    y: 70.0
+    z: 768.5
+    yaw: -180.51434326171875
+    pitch: 32.2723388671875
+    world-name: world
+  village:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3061.5
+    y: 85.0
+    z: 774.5
+    yaw: -3.6275110244750977
+    pitch: 27.94301986694336
+    world-name: world
+  work:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3056.256137896363
+    y: 112.5
+    z: 785.2238099424113
+    yaw: -182.26055908203125
+    pitch: 36.341552734375
+    world-name: world
+  farmend:
+    world: 93714a8d-e743-4d67-95ef-b0f6f725600b
+    x: -405.1694612667241
+    y: 57.0
+    z: -80.54702528562427
+    yaw: 171.83349609375
+    pitch: 10.546873092651367
+    world-name: End
+  perdu:
+    world: 6b791b62-b860-492a-aa67-db025bcd5247
+    world-name: world2
+    x: -2598.4442319898885
+    y: 66.0
+    z: -1569.9216833067885
+    yaw: 177.52899169921875
+    pitch: 34.01239013671875
+nickname: §0D§7e§8k
+afk: false
+ip-address: 24.157.254.121
+last-account-name: Sir_Tyu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

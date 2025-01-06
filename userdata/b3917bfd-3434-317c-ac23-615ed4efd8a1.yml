@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609065699849
+  lastteleport: 1609066152154
+  logout: 1609066370387
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6.218344473255125
+  y: 58.56794336548754
+  z: 334.2214036112998
+  yaw: 278.5498962402344
+  pitch: -10.04981517791748
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2867.744026066645
+  y: 63.0
+  z: -156.75680105609666
+  yaw: 170.02969360351562
+  pitch: -10.335909843444824
+  world-name: ''
+ip-address: 213.111.20.76
+last-account-name: Bullobily
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

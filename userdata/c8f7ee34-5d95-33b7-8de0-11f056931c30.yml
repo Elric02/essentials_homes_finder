@@ -1,0 +1,38 @@
+timestamps:
+  login: 1523178027941
+  lastteleport: 1523178317495
+  logout: 1523178696780
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2593.2654146792684
+  y: 65.0
+  z: 1428.9424832920547
+  yaw: 347.54986572265625
+  pitch: 34.94999694824219
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 110.69999998807907
+  y: 74.0
+  z: -327.6955465583596
+  yaw: 57.27904510498047
+  pitch: 58.52867126464844
+  world-name: ''
+ip-address: 79.95.233.208
+last-account-name: gameur22_yt
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

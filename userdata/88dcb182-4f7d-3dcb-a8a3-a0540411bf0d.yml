@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483644781300
+  lastteleport: 1483644800166
+  logout: 1483644819935
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.12745152061146
+  y: 63.0
+  z: 47.62910301487882
+  yaw: -63.647430419921875
+  pitch: -2.902596950531006
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 200.93831581656235
+  y: 63.0
+  z: 28.663029288366964
+  yaw: -121.26110076904297
+  pitch: -3.125490427017212
+  world-name: ''
+ip-address: 72.11.184.35
+last-account-name: desmont323
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1465851468775
+  lastteleport: 1465851480092
+  logout: 1465851875519
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.05948067036607
+  y: 64.0
+  z: 25.573129526399214
+  yaw: -6.9000244140625
+  pitch: -4.8758087158203125
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -2824.5296971937873
+    y: 67.0
+    z: -1211.6711368919296
+    yaw: -149.400390625
+    pitch: 26.24998664855957
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -2812.47946951537
+  y: 63.0
+  z: -1210.069719500954
+  yaw: -96.0009765625
+  pitch: 21.75000762939453
+  world-name: ''
+afk: false
+ip-address: 92.170.62.82
+last-account-name: xMiiG
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

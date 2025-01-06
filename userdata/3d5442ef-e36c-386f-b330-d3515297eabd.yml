@@ -1,0 +1,63 @@
+timestamps:
+  login: 1605714114940
+  logout: 1605714482635
+  lastteleport: 1605714181453
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4108.590283193599
+  y: 38.0
+  z: -5196.868344760773
+  yaw: -203.39427185058594
+  pitch: -11.786157608032227
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4086.097326012744
+    y: 67.0
+    z: -5208.803776757819
+    yaw: -300.486572265625
+    pitch: 5.045793056488037
+    world-name: ''
+  a:
+    world: world
+    x: -4106.473186715804
+    y: 38.0
+    z: -5195.040625188897
+    yaw: -87.34171295166016
+    pitch: 8.222947120666504
+    world-name: ''
+  messa:
+    world: world
+    x: -4081.6180555709047
+    y: 64.0
+    z: -5316.390585793554
+    yaw: -182.3228759765625
+    pitch: 22.3162899017334
+    world-name: ''
+logoutlocation:
+  world: Nether
+  x: 1310.8095805020523
+  y: 43.0
+  z: 201.69894540070632
+  yaw: -310.94549560546875
+  pitch: 13.589351654052734
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 88.160.134.208
+last-account-name: LilySlowly
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

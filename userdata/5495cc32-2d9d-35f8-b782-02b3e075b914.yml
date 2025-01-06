@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476967650362
+  logout: 1476967688722
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.2233263642557
+  y: 64.0
+  z: 22.250996641916604
+  yaw: -138.37185668945312
+  pitch: -18.344676971435547
+  world-name: ''
+ip-address: 82.239.194.198
+last-account-name: Leo42
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

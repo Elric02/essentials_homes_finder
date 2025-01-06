@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466075676705
+  lastteleport: 1466010934066
+  logout: 1466075697079
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -287.74244950364243
+  y: 69.0
+  z: 344.53252496303185
+  yaw: -66.20974731445312
+  pitch: 6.374915599822998
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -2.7598655301866306
+  y: 66.0
+  z: 30.512367271651193
+  yaw: 159.60000610351562
+  pitch: 5.400007247924805
+  world-name: ''
+ip-address: 78.119.115.28
+last-account-name: WolfsGames
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1599999767039
+  lastteleport: 1600004232843
+  logout: 1600004349728
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2802.959201115952
+  y: 11.0
+  z: 928.0854461641251
+  yaw: -106.199462890625
+  pitch: 49.20001983642578
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 171.25137559169607
+  y: 65.0
+  z: -46.62161223481485
+  yaw: -66.02086639404297
+  pitch: -15.4213228225708
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: -6793.29791419924
+    y: 55.0
+    z: 323.58281754761146
+    yaw: -179.59622192382812
+    pitch: 32.999996185302734
+    world-name: ''
+  arbre:
+    world: world
+    x: -2652.22008002915
+    y: 64.0
+    z: 6785.5457870122655
+    yaw: -318.218994140625
+    pitch: 27.246944427490234
+    world-name: ''
+  vip:
+    world: world
+    x: -6691.359866244098
+    y: 63.0
+    z: -3922.3897291859735
+    yaw: -28.0169677734375
+    pitch: 13.597637176513672
+    world-name: ''
+ip-address: 24.105.75.163
+last-account-name: xFoxyy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

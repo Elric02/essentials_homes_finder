@@ -1,0 +1,47 @@
+timestamps:
+  login: 1497172020860
+  logout: 1497172435752
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4922.603399379296
+    y: 70.0
+    z: 5454.675147414258
+    yaw: 49.3189811706543
+    pitch: 82.12189483642578
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4925.300000011921
+  y: 64.0
+  z: 5454.691828158684
+  yaw: 136.77447509765625
+  pitch: 4.509053707122803
+  world-name: ''
+ip-address: 86.253.101.72
+last-account-name: rolfinger
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

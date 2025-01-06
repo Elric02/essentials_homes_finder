@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618494299546
+  lastteleport: 1618495197991
+  logout: 1618495371974
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1086.0
+  y: 84.0
+  z: 1801.0
+  yaw: 162.45008850097656
+  pitch: -7.95001745223999
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6801.375487174285
+  y: 67.0
+  z: 149.8101465896732
+  yaw: 96.15035247802734
+  pitch: -6.0001020431518555
+  world-name: ''
+ip-address: 92.94.18.73
+last-account-name: Vorlod
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477073261136
+  logout: 1477073378065
+  lastteleport: 1477073297581
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.4235219184214
+  y: 63.0
+  z: 47.69403465416012
+  yaw: -93.94734191894531
+  pitch: -3.352600336074829
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -891.6175206805002
+  y: 71.0
+  z: -3946.4983658673887
+  yaw: -100.35089111328125
+  pitch: 38.99998474121094
+  world-name: ''
+ip-address: 78.195.160.59
+last-account-name: telloc2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1531211861429
+  lastteleport: 1531211965488
+  logout: 1531212587379
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 150.6436379895465
+  y: 63.0
+  z: 65.29954820233917
+  yaw: -37.10456848144531
+  pitch: -1.4671682947664522E-5
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 405.5
+  y: 92.0
+  z: 2167.5
+  yaw: -90.26918029785156
+  pitch: 8.249932289123535
+  world-name: ''
+ip-address: 41.107.128.196
+last-account-name: momo_ch
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

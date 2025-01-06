@@ -1,0 +1,38 @@
+timestamps:
+  login: 1622661199463
+  logout: 1622661337686
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2.9780763750552595
+  y: 69.0
+  z: -62.17311718736646
+  yaw: -344.3017272949219
+  pitch: 15.840619087219238
+  world-name: ''
+ip-address: 176.145.136.236
+last-account-name: EdwardNewgate_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

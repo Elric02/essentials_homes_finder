@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486822878837
+  logout: 1486823066055
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 126.30000001192091
+  y: 63.0
+  z: 28.12885613895342
+  yaw: -296.3109436035156
+  pitch: 8.724510192871094
+  world-name: ''
+money: '0'
+ip-address: 109.164.236.237
+last-account-name: Manueloro
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

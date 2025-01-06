@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471812803688
+  logout: 1471813163334
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 223.300000011921
+  y: 9.0
+  z: 438.59093693515894
+  yaw: 143.03533935546875
+  pitch: -88.20000457763672
+  world-name: ''
+ip-address: 92.94.132.45
+last-account-name: Cloclo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

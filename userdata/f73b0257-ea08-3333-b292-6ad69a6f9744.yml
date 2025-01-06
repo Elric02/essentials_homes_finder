@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470748724783
+  logout: 1470748751091
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.55151621843922
+  y: 100.0
+  z: 26.771730654272435
+  yaw: -1.53656005859375
+  pitch: -9.675642967224121
+  world-name: ''
+ip-address: 92.152.136.65
+last-account-name: altayre
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

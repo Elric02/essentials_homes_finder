@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471085401553
+  lastteleport: 1471005155619
+  logout: 1471085492688
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 159.51557660983406
+  y: 64.1212968405392
+  z: -41.108514056593535
+  yaw: -178.56947326660156
+  pitch: 9.743302345275879
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4934.569864134851
+  y: 77.0
+  z: -2839.222055199642
+  yaw: -93.62606811523438
+  pitch: 28.75421142578125
+  world-name: ''
+ip-address: 78.214.24.169
+last-account-name: RapiDiDi14
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.37.208.97
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1691169984165
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1691170457878
+  login: 1691170017116
+money: '0'
+last-account-name: waedox
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 245.5
+  y: 132.0
+  z: 140.5
+  yaw: 179.72105407714844
+  pitch: 7.500364303588867
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 140.45320310129608
+  y: 70.61818630747644
+  z: 398.02020589062187
+  yaw: 39.898468017578125
+  pitch: 32.10020446777344

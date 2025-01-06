@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.168.71.51
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667949309689
+  login: 1667949233932
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.0180470621413
+  y: 81.0
+  z: -3111.203129017282
+  yaw: -83.49739837646484
+  pitch: 15.979853630065918
+last-account-name: ZamiaT
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.31823266291
+  y: 81.0
+  z: -3111.2746333694045
+  yaw: -83.65059661865234
+  pitch: 15.979853630065918

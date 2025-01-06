@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592741209743
+  logout: 1592741299717
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 184.8722279983965
+  y: 66.0
+  z: 149.80628865935603
+  yaw: 41.8006591796875
+  pitch: 16.890705108642578
+  world-name: ''
+ip-address: 176.190.3.172
+last-account-name: legameryoutube
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

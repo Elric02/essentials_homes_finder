@@ -1,0 +1,38 @@
+timestamps:
+  login: 1599595858046
+  logout: 1599595991231
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 138.49012082271022
+  y: 63.0
+  z: -17.46869454802106
+  yaw: 68.83496856689453
+  pitch: 14.670507431030273
+  world-name: ''
+ip-address: 197.25.159.133
+last-account-name: RUBIX_PvP
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

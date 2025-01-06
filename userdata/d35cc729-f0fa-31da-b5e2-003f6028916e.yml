@@ -1,0 +1,63 @@
+timestamps:
+  login: 1536094505569
+  lastteleport: 1536095966221
+  logout: 1536096064140
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2393.5705994876575
+  y: 47.0
+  z: -3259.1994710322656
+  yaw: 261.9071044921875
+  pitch: 26.400053024291992
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 2417.2304517997495
+  y: 64.0
+  z: -3206.925000011921
+  yaw: -149.40028381347656
+  pitch: 25.95000457763672
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2398.246444068263
+    y: 64.0
+    z: -3244.5532603740435
+    yaw: -146.3997344970703
+    pitch: 19.499948501586914
+    world-name: ''
+  test:
+    world: world
+    x: -580.5906719569624
+    y: 88.0
+    z: -736.1673363840831
+    yaw: 16.750703811645508
+    pitch: -32.25006866455078
+    world-name: ''
+  champs:
+    world: world
+    x: 2423.8453728614395
+    y: 63.0
+    z: -3236.526805002277
+    yaw: 119.84960174560547
+    pitch: 17.10000991821289
+    world-name: ''
+ip-address: 82.253.175.108
+last-account-name: Tazou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

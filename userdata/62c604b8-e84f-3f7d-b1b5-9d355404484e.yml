@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475414501359
+  lastteleport: 1475414599793
+  logout: 1475414694181
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: 215.15162731404558
+  y: 73.5
+  z: 479.9246458212813
+  yaw: 135.72708129882812
+  pitch: 6.188771724700928
+  world-name: ''
+logoutlocation:
+  world: Ressources
+  x: 240.69999998807907
+  y: 77.0
+  z: 660.239997316364
+  yaw: -42.788246154785156
+  pitch: -17.369522094726562
+  world-name: ''
+ip-address: 78.234.153.140
+last-account-name: espanich
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

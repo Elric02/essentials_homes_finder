@@ -1,0 +1,55 @@
+timestamps:
+  login: 1483735993290
+  lastteleport: 1483736851847
+  logout: 1483740452704
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5387.967376123811
+  y: 109.0
+  z: -1780.529136514392
+  yaw: -187.20648193359375
+  pitch: 30.018583297729492
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 2482.704774110443
+    y: 66.0
+    z: 6990.9947138183
+    yaw: -194.84796142578125
+    pitch: 47.8499641418457
+    world-name: ''
+  base:
+    world: world
+    x: 4619.5064213616115
+    y: 75.0
+    z: -3423.135330001288
+    yaw: 147.7801513671875
+    pitch: 3.1074352264404297
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 166.3492361523863
+  y: 64.0
+  z: 22.572994071579544
+  yaw: 237.08856201171875
+  pitch: 31.374500274658203
+  world-name: ''
+afk: false
+muted: false
+ip-address: 77.206.94.114
+last-account-name: morganette3013
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

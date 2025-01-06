@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511654748955
+  logout: 1511655273789
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.5761222088385
+  y: 63.0
+  z: 48.48348017440924
+  yaw: -268.847412109375
+  pitch: -6.20259952545166
+  world-name: ''
+afk: false
+ip-address: 179.208.241.98
+last-account-name: station5
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

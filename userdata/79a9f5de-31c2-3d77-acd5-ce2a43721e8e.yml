@@ -1,0 +1,47 @@
+timestamps:
+  login: 1510692676138
+  lastteleport: 1510692897942
+  logout: 1510692914985
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.87837571252274
+  y: 63.0
+  z: 4.978821012840994
+  yaw: -184.82080078125
+  pitch: 37.07866287231445
+  world-name: ''
+homes:
+  home:
+    world: world_the_end
+    x: -204.69999998807907
+    y: 57.5
+    z: 34.15741783448173
+    yaw: 69.56336975097656
+    pitch: 19.199996948242188
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world_nether
+  x: -4502.5
+  y: 38.0
+  z: 5669.5
+  yaw: 269.67730712890625
+  pitch: 5.931878566741943
+  world-name: ''
+ip-address: 195.132.144.146
+last-account-name: YTBgamingFR
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

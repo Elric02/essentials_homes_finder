@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617703485657
+  logout: 1617703765548
+  lastteleport: 1617703747415
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.2434261733273
+  y: 27.0
+  z: 24.442293096429296
+  yaw: -26.017019271850586
+  pitch: 13.40910816192627
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -607.6234694774936
+  y: 64.0
+  z: -1530.5174530838897
+  yaw: -73.99798583984375
+  pitch: 76.35282897949219
+  world-name: ''
+ip-address: 86.193.130.75
+last-account-name: RicoSiff
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

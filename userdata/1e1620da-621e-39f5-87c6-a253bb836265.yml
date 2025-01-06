@@ -1,0 +1,71 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.173.47.145
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1688387356041
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1689154669412
+  login: 1689153539566
+money: '915.5'
+last-account-name: Mat35440
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 245.50431257804405
+  y: 132.0
+  z: 142.18203779044168
+  yaw: 179.72105407714844
+  pitch: 7.500364303588867
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1530.5
+    y: 63.0
+    z: -3731.5
+    yaw: -5.999786376953125
+    pitch: 8.099987983703613
+  aze:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1683.5
+    y: 67.9375
+    z: 3154.5
+    yaw: 183.24851989746094
+    pitch: 39.90000915527344
+  tnt:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2011.5
+    y: 73.0
+    z: -3872.5
+    yaw: 356.79443359375
+    pitch: 35.41215515136719
+  eopia:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3604.595673169257
+    y: 188.5
+    z: 3385.1698094728285
+    yaw: -1.3968526124954224
+    pitch: 54.45598602294922
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1629.7940032087206
+  y: 74.0
+  z: -2025.4553608562899
+  yaw: 17.5478515625
+  pitch: 13.349733352661133

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469906502545
+  logout: 1469906733675
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 63.69999998807907
+  y: 72.0
+  z: -119.30000001192093
+  yaw: 208.48764038085938
+  pitch: -35.472412109375
+  world-name: ''
+ip-address: 90.104.172.82
+last-account-name: Meboo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

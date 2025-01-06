@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615413034490
+  lastteleport: 1615413926603
+  logout: 1615414241746
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 87.55550867190868
+  y: 64.0
+  z: 77.54702653336253
+  yaw: 268.3470153808594
+  pitch: 68.55001068115234
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 156.4728547599082
+  y: 63.0
+  z: 42.457133280712945
+  yaw: -146.79656982421875
+  pitch: 39.30000305175781
+  world-name: ''
+ip-address: 78.247.125.54
+last-account-name: Noobixx457
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1515245041446
+  logout: 1515245088173
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.90671457318635
+  y: 66.0
+  z: 91.92864473582273
+  yaw: 148.59698486328125
+  pitch: 6.69065523147583
+  world-name: ''
+ip-address: 176.157.15.22
+last-account-name: Wizard_of_fire
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

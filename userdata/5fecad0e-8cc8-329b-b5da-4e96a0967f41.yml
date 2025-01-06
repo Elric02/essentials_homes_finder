@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467402927419
+  logout: 1467402974753
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 175.55121036483885
+  y: 63.0
+  z: 20.172927718967593
+  yaw: -104.09712219238281
+  pitch: -3.825813055038452
+  world-name: ''
+ip-address: 77.199.180.104
+last-account-name: NitrOz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

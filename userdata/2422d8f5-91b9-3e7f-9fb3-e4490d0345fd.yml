@@ -1,0 +1,47 @@
+timestamps:
+  login: 1507406211067
+  lastteleport: 1506971711029
+  jail: 0
+  logout: 1507406284721
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 117.3545265642365
+  y: 58.0
+  z: 51.80836905648646
+  yaw: -177.5101318359375
+  pitch: 19.974456787109375
+  world-name: ''
+jailed: false
+money: '0'
+homes:
+  home:
+    world: world
+    x: 4013.0797228685974
+    y: 84.0
+    z: -3833.1227910287844
+    yaw: -278.70751953125
+    pitch: 57.299922943115234
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 4012.522298983831
+  y: 84.0
+  z: -3830.08032501726
+  yaw: -113.40826416015625
+  pitch: 17.849979400634766
+  world-name: ''
+afk: false
+ip-address: 90.73.203.179
+last-account-name: DeathBrain
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

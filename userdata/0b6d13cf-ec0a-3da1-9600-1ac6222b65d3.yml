@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519926790622
+  logout: 1519927356098
+  lastteleport: 1519927170645
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -13.618449632307518
+  y: 88.5
+  z: 7.414294400790057
+  yaw: -5.948974609375
+  pitch: 76.23062896728516
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 2781.9427402304814
+  y: 71.0
+  z: 1191.3216327528482
+  yaw: -358.6322326660156
+  pitch: 34.77438735961914
+  world-name: ''
+money: '0'
+ip-address: 176.185.67.11
+last-account-name: DarkHugo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

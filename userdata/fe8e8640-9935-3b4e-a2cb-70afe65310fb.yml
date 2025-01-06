@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478945048742
+  lastteleport: 1478945140532
+  logout: 1478945271321
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.1172142853395
+  y: 63.0
+  z: 38.04356699650056
+  yaw: -6.999359130859375
+  pitch: 16.165708541870117
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 64.14163853927117
+  y: 67.0
+  z: 59.80281469090157
+  yaw: -340.260986328125
+  pitch: 40.349998474121094
+  world-name: ''
+muted: false
+afk: false
+ip-address: 90.63.43.139
+last-account-name: cyralex
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

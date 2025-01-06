@@ -1,0 +1,180 @@
+timestamps:
+  login: 1736091301899
+  lastteleport: 1736095465310
+  logout: 1736095599458
+  kits:
+    color: 1618778066104
+    vip: 1687963034247
+    stationaute: 1687963032702
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  x: 136.7222140848998
+  y: 83.0
+  z: -106.19666360053763
+  yaw: 94.09204864501953
+  pitch: 11.553299903869629
+  world-name: pvp
+homes:
+  wither:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: 707.0015629739974
+    y: 56.0
+    z: -3427.2230547757
+    yaw: -1.2035917043685913
+    pitch: 43.94963836669922
+    world-name: Nether
+  guardian:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6501.618069490709
+    y: 183.0
+    z: -863.9636725413363
+    yaw: -267.97509765625
+    pitch: 25.31257438659668
+    world-name: world
+  gold:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: -2651.687674237291
+    y: 60.0
+    z: -2885.9098777751597
+    yaw: 55.9046630859375
+    pitch: 45.506309509277344
+    world-name: Nether
+  excelsior:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 939.5238407201789
+    y: 58.0
+    z: -4460.4250337097055
+    yaw: 20.455690383911133
+    pitch: -0.6024937033653259
+    world-name: world
+  champimeuh:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6462.346362685811
+    y: 64.0
+    z: -5578.336280178893
+    yaw: 162.09600830078125
+    pitch: 23.59651756286621
+    world-name: world
+  raid:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5860.65652344096
+    y: 159.5625
+    z: -6895.2153052757285
+    yaw: 171.66339111328125
+    pitch: 54.61103057861328
+    world-name: world
+  quetes:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3815.822958068328
+    y: 56.0
+    z: 4146.253150941447
+    yaw: -216.81687927246094
+    pitch: 23.093338012695312
+    world-name: world
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2378.699999988079
+    y: 95.0
+    z: -6676.404363444216
+    yaw: 94.26311492919922
+    pitch: -23.12355613708496
+    world-name: world
+  jungle:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    x: -2206.952071138582
+    y: 66.0
+    z: 961.7768529251132
+    yaw: -6.246807098388672
+    pitch: 4.849494457244873
+    world-name: Ressource
+  pnj:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2276.632178633143
+    y: 60.0
+    z: -6727.639038004685
+    yaw: 2.5337038040161133
+    pitch: 20.051166534423828
+    world-name: world
+  roi_de_l_eau:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3010.811503088915
+    y: 135.0
+    z: 6712.497114538711
+    yaw: 3.710418701171875
+    pitch: 15.063154220581055
+    world-name: world
+  roi_de_glace:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5555.300000011921
+    y: 47.0
+    z: -6974.699999988079
+    yaw: 211.77288818359375
+    pitch: 42.70039749145508
+    world-name: world
+  crane:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -89.17375816585704
+    y: 24.0
+    z: 142.7754938263892
+    yaw: -161.30572509765625
+    pitch: 14.704875946044922
+    world-name: world
+  o:
+    world: b7fb2600-9a6b-4455-aa1e-a8df500c3eeb
+    x: 5182.362982231396
+    y: 86.5
+    z: 4856.8449371239685
+    yaw: 188.05828857421875
+    pitch: 44.32960891723633
+    world-name: Donjon
+  natura:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4864.699999988079
+    y: 74.0
+    z: -430.39713647619965
+    yaw: -164.52630615234375
+    pitch: 7.099338054656982
+    world-name: world
+  topp:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4947.557443847056
+    y: 109.0
+    z: -161.63218337056557
+    yaw: 304.97650146484375
+    pitch: 54.29842758178711
+    world-name: world
+  roi:
+    world: b7fb2600-9a6b-4455-aa1e-a8df500c3eeb
+    x: 840.1657375986119
+    y: 4.0
+    z: 90.91341914220914
+    yaw: 55.9282112121582
+    pitch: 21.61260223388672
+    world-name: Donjon
+money: '474.07999999999719'
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  x: 425.79965440493635
+  y: 100.0
+  z: -3087.9973103964285
+  yaw: 121.31851959228516
+  pitch: 44.73123550415039
+  world-name: station
+afk: false
+nickname: §eFreezio
+ip-address: 91.161.244.218
+last-account-name: Freezio_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

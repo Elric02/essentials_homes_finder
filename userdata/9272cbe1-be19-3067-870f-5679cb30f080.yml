@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.120.185.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668605084141
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668605228007
+  login: 1668605199815
+money: '50.0'
+last-account-name: Ewen_bklf
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -1499.162625613716
+  y: 89.0
+  z: 542.5004050426431
+  yaw: -88.36416625976562
+  pitch: 5.444791316986084
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -1499.162625613716
+  y: 89.0
+  z: 542.5004050426431
+  yaw: -88.36416625976562
+  pitch: 5.444791316986084

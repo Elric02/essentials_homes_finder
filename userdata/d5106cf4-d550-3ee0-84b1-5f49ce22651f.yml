@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484149827648
+  lastteleport: 1482871888210
+  logout: 1484150092472
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -267.0473937988281
+  pitch: -7.85260009765625
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -633.1080839904683
+  y: 65.0
+  z: -400.7182820259881
+  yaw: -302.7967529296875
+  pitch: 35.700016021728516
+  world-name: ''
+ip-address: 86.238.76.153
+last-account-name: yourotle
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

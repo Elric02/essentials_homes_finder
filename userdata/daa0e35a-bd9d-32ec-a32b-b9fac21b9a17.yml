@@ -1,0 +1,38 @@
+timestamps:
+  login: 1559072476549
+  lastteleport: 1559072915925
+  logout: 1559072990609
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 851.1176410552199
+  y: 85.0
+  z: -1729.3679531266293
+  yaw: -83.39974975585938
+  pitch: -77.70002746582031
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.70739515720388
+  y: 63.0
+  z: 41.533120831366475
+  yaw: -70.52117919921875
+  pitch: 41.57863998413086
+  world-name: ''
+ip-address: 90.126.164.4
+last-account-name: benjiiiii
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

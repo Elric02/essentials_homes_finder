@@ -1,0 +1,47 @@
+timestamps:
+  login: 1578057172231
+  lastteleport: 1578061726806
+  logout: 1578061768923
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1830.3006829221692
+  y: 75.0
+  z: -573.609481434985
+  yaw: -307.6052551269531
+  pitch: -20.334087371826172
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  claim:
+    world: world
+    x: -1829.7279705601677
+    y: 75.0
+    z: -575.6999999880791
+    yaw: -307.6052551269531
+    pitch: -20.334087371826172
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 42.310751483228955
+  y: 63.0
+  z: 5.91920523451971
+  yaw: 335.3968505859375
+  pitch: -0.26415735483169556
+  world-name: ''
+ip-address: 90.78.185.206
+last-account-name: ShaaaaDowwww
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1603128175560
+  lastteleport: 1603128956477
+  logout: 1603129225405
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 5.0224609375
+  y: 62.52326395461276
+  z: 1359.5546875
+  yaw: -4.375
+  pitch: -12.061437606811523
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Donjon
+  x: 2076.994857129265
+  y: 3.9375
+  z: 2011.4740769051866
+  yaw: -264.5037536621094
+  pitch: 18.055152893066406
+  world-name: ''
+ip-address: 82.229.49.10
+last-account-name: The_Cell
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1597790557068
+  lastteleport: 1597797676020
+  logout: 1597797821690
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 189.30000001192093
+  y: 79.0
+  z: 196.69999998807907
+  yaw: -94.198486328125
+  pitch: -76.05888366699219
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 183.12439265451187
+  y: 63.0
+  z: -30.76982696685282
+  yaw: -180.31814575195312
+  pitch: 6.502612590789795
+  world-name: ''
+ip-address: 69.24.57.11
+last-account-name: Swat1249
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

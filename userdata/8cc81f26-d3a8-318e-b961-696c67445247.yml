@@ -1,0 +1,47 @@
+timestamps:
+  login: 1488218439214
+  lastteleport: 1488221177467
+  logout: 1488223065399
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4848.519753360324
+  y: 13.0
+  z: 3334.4522899574367
+  yaw: -206.46507263183594
+  pitch: 13.50000286102295
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4960.670021934987
+  y: 83.0
+  z: 3373.4041115436357
+  yaw: 308.7849426269531
+  pitch: 1.0499924421310425
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -4958.717351722517
+    y: 73.0
+    z: 3373.4233777999034
+    yaw: -267.5146179199219
+    pitch: 54.04042053222656
+    world-name: ''
+afk: false
+ip-address: 86.237.168.14
+last-account-name: Azolue
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

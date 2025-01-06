@@ -1,0 +1,38 @@
+timestamps:
+  login: 1464106080926
+  lastteleport: 1464107843414
+  logout: 1464107920117
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -147.69999998807907
+  y: 16.0
+  z: -111.38038660079178
+  yaw: 294.00146484375
+  pitch: 53.84999084472656
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 126.41075051925148
+  y: 63.0
+  z: 16.967311022134595
+  yaw: 279.1523742675781
+  pitch: -4.275822162628174
+  world-name: ''
+ip-address: 90.7.44.39
+last-account-name: axel714
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1580058655190
+  lastteleport: 1580058710809
+  logout: 1580065164267
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 2017.0863592889937
+  y: 5.0
+  z: -4001.7256549261115
+  yaw: 271.65093994140625
+  pitch: 8.833671569824219
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  home:
+    world: world
+    x: -7271.388675296422
+    y: 36.5
+    z: -1555.0998094451497
+    yaw: -295.7577819824219
+    pitch: -7.050369739532471
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -7278.242754397349
+  y: 36.5
+  z: -1567.5314771834644
+  yaw: -216.2824249267578
+  pitch: 8.793644905090332
+  world-name: ''
+ip-address: 185.216.24.52
+last-account-name: DqZen
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

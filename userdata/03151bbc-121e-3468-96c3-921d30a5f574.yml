@@ -1,0 +1,38 @@
+timestamps:
+  login: 1522879742184
+  lastteleport: 1522879799601
+  logout: 1522879863373
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.4854882621209
+  y: 65.0
+  z: 87.20208716226394
+  yaw: 147.69692993164062
+  pitch: 16.740657806396484
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -108.69999998807909
+  y: 47.0
+  z: 506.46080807058445
+  yaw: -284.6015625
+  pitch: 24.967742919921875
+  world-name: ''
+ip-address: 91.160.15.149
+last-account-name: Nathan968
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

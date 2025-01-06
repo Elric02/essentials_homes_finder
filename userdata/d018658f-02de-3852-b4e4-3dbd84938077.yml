@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509618929021
+  lastteleport: 1509618985904
+  logout: 1509619039988
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.8441571048178
+  y: 66.0
+  z: 19.72807947089979
+  yaw: -84.10749816894531
+  pitch: -7.95253849029541
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -6125.505033736813
+  y: 61.0
+  z: 69.6233716551522
+  yaw: 153.18060302734375
+  pitch: 46.7038688659668
+  world-name: ''
+ip-address: 86.194.248.30
+last-account-name: HaDeSs_0o
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

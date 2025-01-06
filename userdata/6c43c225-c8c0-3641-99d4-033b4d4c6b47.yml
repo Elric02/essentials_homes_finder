@@ -1,0 +1,63 @@
+timestamps:
+  login: 1515599258079
+  lastteleport: 1515601516365
+  logout: 1515602105892
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2393.063726041908
+  y: 5.0
+  z: -3097.408625619768
+  yaw: -200.09890747070312
+  pitch: 3.960266351699829
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 2422.9746859889597
+  y: 33.0
+  z: -3065.222087537231
+  yaw: 131.69964599609375
+  pitch: 16.65000343322754
+  world-name: ''
+homes:
+  a:
+    world: world
+    x: 2392.4950548904667
+    y: 28.0
+    z: -3088.488457944734
+    yaw: -85.79887390136719
+    pitch: 27.360273361206055
+    world-name: ''
+  z:
+    world: world
+    x: 1444.546165238684
+    y: 64.0
+    z: -2187.494243052425
+    yaw: -332.4726257324219
+    pitch: 47.09999465942383
+    world-name: ''
+  cave:
+    world: world
+    x: 2410.9032102053684
+    y: 28.0
+    z: -3095.6265698123666
+    yaw: -80.09986114501953
+    pitch: 22.050004959106445
+    world-name: ''
+afk: false
+ip-address: 37.171.207.145
+last-account-name: Fenakor
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

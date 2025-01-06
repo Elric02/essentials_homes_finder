@@ -1,0 +1,63 @@
+timestamps:
+  login: 1502285748892
+  logout: 1502285801536
+  lastteleport: 1501937201586
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4031.190778044954
+  y: 73.0
+  z: 6894.625375462301
+  yaw: -179.30787658691406
+  pitch: 43.57810592651367
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 162.4441156189447
+  y: 64.0
+  z: 18.865474665496606
+  yaw: -277.7109375
+  pitch: 23.399986267089844
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  base:
+    world: world
+    x: -4029.5817125041617
+    y: 73.0
+    z: 6899.860172608296
+    yaw: -174.50779724121094
+    pitch: 19.278093338012695
+    world-name: ''
+  beacon:
+    world: world
+    x: -5451.518248124967
+    y: 66.0
+    z: 1645.425676698864
+    yaw: 188.8473358154297
+    pitch: 68.97956085205078
+    world-name: ''
+  lol:
+    world: world_the_end
+    x: 23.798452320900964
+    y: 57.0
+    z: -294.0907782215217
+    yaw: -280.64794921875
+    pitch: 10.94345760345459
+    world-name: ''
+ip-address: 92.156.248.187
+last-account-name: Vocoder
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

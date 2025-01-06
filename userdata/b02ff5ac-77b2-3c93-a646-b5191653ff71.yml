@@ -1,0 +1,55 @@
+timestamps:
+  login: 1723659321825
+  lastteleport: 1686139906575
+  logout: 1723659424039
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -3747.7317794953165
+  y: 66.0
+  z: 4025.2151847972655
+  yaw: -71.25225830078125
+  pitch: 1.2323228120803833
+  world-name: world
+money: '0.0'
+afk: false
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -3725.5617621371484
+  y: 69.0
+  z: -4614.827407816103
+  yaw: 63.510223388671875
+  pitch: -7.2496747970581055
+  world-name: world
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3739.3939374997676
+    y: 65.0
+    z: 3871.7010117512477
+    yaw: 269.6875
+    pitch: 42.75014114379883
+    world-name: world
+  witcher:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3875.875215160489
+    y: 70.0
+    z: -4622.03092930078
+    yaw: 115.110107421875
+    pitch: 11.950305938720703
+    world-name: world
+ip-address: 91.165.153.9
+last-account-name: noxiga
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

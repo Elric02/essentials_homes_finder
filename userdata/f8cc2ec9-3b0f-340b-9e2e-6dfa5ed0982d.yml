@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499115081548
+  logout: 1499115099232
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.34073399579123
+  y: 63.0
+  z: -4.740273938140522
+  yaw: -185.80645751953125
+  pitch: 14.258310317993164
+  world-name: ''
+ip-address: 90.73.150.48
+last-account-name: TheBawss
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

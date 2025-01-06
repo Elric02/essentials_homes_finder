@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469988827424
+  logout: 1469989078243
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.2418590274387
+  y: 27.0
+  z: 20.657579092660715
+  yaw: 273.0026550292969
+  pitch: 12.37418270111084
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 417.30000001192093
+  y: 64.0
+  z: 141.30000001192093
+  yaw: 158.62242126464844
+  pitch: 3.551567316055298
+  world-name: ''
+money: '0'
+ip-address: 176.183.187.222
+last-account-name: xdemi07
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474414774133
+  logout: 1474414861806
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 93.02442225447429
+  y: 63.0
+  z: -43.48307008688761
+  yaw: 109.57347869873047
+  pitch: 8.100030899047852
+  world-name: ''
+ip-address: 99.199.198.194
+last-account-name: mick
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

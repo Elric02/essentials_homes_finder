@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481246698763
+  logout: 1481246856026
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6.073831683402101
+  y: 70.0
+  z: -1056.4217814119788
+  yaw: -248.6949005126953
+  pitch: 50.464378356933594
+  world-name: ''
+ip-address: 206.172.86.4
+last-account-name: Galdorn
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

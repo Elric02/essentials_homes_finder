@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499779261623
+  logout: 1499779694719
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3433.300000011921
+  y: 86.0
+  z: -3450.699999988079
+  yaw: 188.8501739501953
+  pitch: 1.9499536752700806
+  world-name: ''
+ip-address: 90.103.137.0
+last-account-name: Jonathan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

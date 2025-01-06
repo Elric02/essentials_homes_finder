@@ -1,0 +1,38 @@
+timestamps:
+  login: 1571249080921
+  lastteleport: 1571249436560
+  logout: 1571249654705
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.40022331258686
+  y: 64.0
+  z: 66.76456864855342
+  yaw: 200.64698791503906
+  pitch: 1.7406541109085083
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 2003.300000011921
+  y: 65.00459999847412
+  z: 1714.300000011921
+  yaw: -30.599998474121094
+  pitch: 58.650001525878906
+  world-name: ''
+ip-address: 91.164.231.215
+last-account-name: MrLoveur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

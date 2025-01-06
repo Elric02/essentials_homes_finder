@@ -1,0 +1,38 @@
+timestamps:
+  login: 1566058191254
+  logout: 1566058215699
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 163.45462784645684
+  y: 66.2531999805212
+  z: 101.75923723994201
+  yaw: -62.152992248535156
+  pitch: 37.14063262939453
+  world-name: ''
+ip-address: 78.195.89.91
+last-account-name: ZivalSky
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

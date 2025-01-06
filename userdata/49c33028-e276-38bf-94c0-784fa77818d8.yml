@@ -1,0 +1,38 @@
+timestamps:
+  login: 1598627906092
+  logout: 1598628198210
+  lastteleport: 1598628013438
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 104.06810912250569
+  y: 63.0
+  z: 65.43426830115551
+  yaw: 32.64681625366211
+  pitch: 17.640623092651367
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 172.30000001192093
+  y: 56.0
+  z: 175.19057558434804
+  yaw: 101.49310302734375
+  pitch: 68.42389678955078
+  world-name: ''
+ip-address: 37.165.161.75
+last-account-name: red_pvp_anis_360
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

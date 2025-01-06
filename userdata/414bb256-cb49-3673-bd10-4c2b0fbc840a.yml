@@ -1,0 +1,63 @@
+timestamps:
+  login: 1488568630074
+  logout: 1488569879270
+  lastteleport: 1488568886704
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -279.84920430342305
+  y: 60.9579895340108
+  z: 545.3163666430501
+  yaw: -72.92459106445312
+  pitch: -87.90000915527344
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -197.4720272907763
+    y: 44.0
+    z: 460.42988078568897
+    yaw: 271.58935546875
+    pitch: 53.549991607666016
+    world-name: ''
+  base:
+    world: world
+    x: -2467.6245008761316
+    y: 72.0
+    z: 2288.3622639349737
+    yaw: 263.017822265625
+    pitch: 36.30004119873047
+    world-name: ''
+  shop:
+    world: world
+    x: -4790.555501097618
+    y: 70.0
+    z: -331.694762539415
+    yaw: -232.82437133789062
+    pitch: -25.650012969970703
+    world-name: ''
+afk: false
+ip-address: 86.238.192.132
+last-account-name: Sirion992
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1552074638572
+  logout: 1552074898185
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2995.225169980077
+  y: 63.0
+  z: -1523.2251858167695
+  yaw: -182.09930419921875
+  pitch: -6.749988079071045
+  world-name: ''
+ip-address: 83.197.83.39
+last-account-name: pikachugirl2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1497880508943
+  lastteleport: 1497881414567
+  logout: 1497883933033
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 49.345178406756084
+  y: 70.0
+  z: 7.02847955200572
+  yaw: -14.285186767578125
+  pitch: 48.9000129699707
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -3085.4967392111053
+    y: 65.0
+    z: 6081.170434107412
+    yaw: -173.84837341308594
+    pitch: 16.650007247924805
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3077.0355736188835
+  y: 67.0
+  z: 6043.556279242852
+  yaw: -59.0977783203125
+  pitch: 35.399906158447266
+  world-name: ''
+ip-address: 109.213.42.127
+last-account-name: Nef4rio
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1477582044865
+  lastteleport: 1477583623234
+  logout: 1477584747155
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -50.0081800720313
+  y: 67.0
+  z: 6654.734357826957
+  yaw: 71.69603729248047
+  pitch: 17.700008392333984
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: -50.12598866622295
+    y: 67.0
+    z: 6652.456486264322
+    yaw: 253.7960205078125
+    pitch: 14.69999885559082
+    world-name: ''
+money: '0'
+muted: false
+logoutlocation:
+  world: world
+  x: 361.4308143728234
+  y: 70.0
+  z: 6862.838243683046
+  yaw: -283.5042724609375
+  pitch: 26.400028228759766
+  world-name: ''
+ip-address: 90.50.36.131
+last-account-name: WhatTheGame
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

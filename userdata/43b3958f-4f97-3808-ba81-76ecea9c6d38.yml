@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526904721064
+  logout: 1526904750920
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 167.29598063065387
+  y: 64.0
+  z: 21.902761127698604
+  yaw: -264.80316162109375
+  pitch: 8.190779685974121
+  world-name: ''
+ip-address: 77.134.120.139
+last-account-name: nounoursdu53
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

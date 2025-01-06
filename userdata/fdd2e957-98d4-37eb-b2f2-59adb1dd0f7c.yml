@@ -1,0 +1,47 @@
+timestamps:
+  login: 1539111656232
+  lastteleport: 1539113317542
+  logout: 1539113596036
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.9880300558532
+  y: 66.0
+  z: 18.1140777905039
+  yaw: -85.37075805664062
+  pitch: 0.6286712288856506
+  world-name: ''
+homes:
+  deushome:
+    world: world
+    x: -636.0041258060678
+    y: 125.0
+    z: -2854.8383868099413
+    yaw: -321.9595947265625
+    pitch: 22.200002670288086
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 110.9637721438873
+  y: 53.670296556472735
+  z: -274.4126441802506
+  yaw: 270.74755859375
+  pitch: 10.9500093460083
+  world-name: ''
+ip-address: 83.197.140.221
+last-account-name: Eddie_riggs29
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1497129510723
+  logout: 1497129576317
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.371654354656
+  y: 63.0
+  z: 48.5508312209702
+  yaw: -251.64407348632812
+  pitch: 9.77180004119873
+  world-name: ''
+ip-address: 90.23.64.72
+last-account-name: Julosadiz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

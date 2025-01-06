@@ -1,0 +1,55 @@
+timestamps:
+  login: 1528052432556
+  lastteleport: 1528049239444
+  logout: 1528052678851
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -819.771319856054
+  y: 26.0
+  z: -2299.5428765393963
+  yaw: -186.79910278320312
+  pitch: 0.9764094948768616
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5565.526899364155
+  y: 78.0
+  z: 7474.594444437752
+  yaw: -89.71732330322266
+  pitch: -19.537389755249023
+  world-name: ''
+homes:
+  forest:
+    world: Ressource
+    x: -1760.7210990371352
+    y: 72.0
+    z: -613.039930183838
+    yaw: -84.36758422851562
+    pitch: 12.771100997924805
+    world-name: ''
+  e:
+    world: world
+    x: -5571.9907786449085
+    y: 75.0
+    z: 7459.556603069276
+    yaw: -218.72496032714844
+    pitch: 59.55263900756836
+    world-name: ''
+afk: false
+ip-address: 90.65.70.139
+last-account-name: Gribiis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

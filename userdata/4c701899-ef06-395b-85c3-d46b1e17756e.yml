@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618827080385
+  logout: 1618827324719
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4895.712983765353
+  y: 64.0
+  z: -2230.099396349675
+  yaw: -48.710636138916016
+  pitch: 12.918593406677246
+  world-name: ''
+ip-address: 91.171.132.203
+last-account-name: mr_deuble
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

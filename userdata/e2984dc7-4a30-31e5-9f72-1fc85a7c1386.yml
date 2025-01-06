@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488710392113
+  logout: 1488710415090
+  lastteleport: 1488709998922
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -178.1109161376953
+  pitch: 10.374515533447266
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6056.699999988079
+  y: 65.0
+  z: 5314.287905496177
+  yaw: 315.900146484375
+  pitch: 21.150007247924805
+  world-name: ''
+afk: false
+ip-address: 109.132.111.25
+last-account-name: DespicableBeth
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

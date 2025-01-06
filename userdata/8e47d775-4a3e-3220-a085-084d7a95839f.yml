@@ -1,0 +1,47 @@
+timestamps:
+  login: 1617286165821
+  lastteleport: 1617284545772
+  logout: 1617286323831
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.17121945129855
+  y: 64.0
+  z: 22.028265953557263
+  yaw: -276.54534912109375
+  pitch: 5.0758795738220215
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 5051.631952822274
+    y: 64.0
+    z: -5112.0750949234725
+    yaw: 297.3006286621094
+    pitch: 32.4000358581543
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5095.350484480858
+  y: 63.0
+  z: -5106.793529567204
+  yaw: 76.34957885742188
+  pitch: 7.6499104499816895
+  world-name: ''
+ip-address: 86.70.204.18
+last-account-name: AxLhaha
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

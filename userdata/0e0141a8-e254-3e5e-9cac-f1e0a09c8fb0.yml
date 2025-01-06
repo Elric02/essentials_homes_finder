@@ -1,0 +1,55 @@
+timestamps:
+  login: 1618326008695
+  lastteleport: 1618326112412
+  logout: 1618328819170
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6418.342650732078
+  y: 57.938578280074545
+  z: -6733.193261919892
+  yaw: -162.1494140625
+  pitch: 6.299900531768799
+  world-name: ''
+homes:
+  minage:
+    world: world
+    x: 3866.6677247296607
+    y: 83.0
+    z: 5335.403558127775
+    yaw: -236.70025634765625
+    pitch: 49.50006103515625
+    world-name: ''
+  home:
+    world: Ressource
+    x: -2675.296377768642
+    y: 68.0
+    z: -4319.074996227793
+    yaw: 180.0001983642578
+    pitch: 29.399988174438477
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3929.64301631148
+  y: 11.0
+  z: 5354.685500213538
+  yaw: -355.0499267578125
+  pitch: -1.4999618530273438
+  world-name: ''
+afk: false
+ip-address: 86.193.87.217
+last-account-name: AnirDesNeiges
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

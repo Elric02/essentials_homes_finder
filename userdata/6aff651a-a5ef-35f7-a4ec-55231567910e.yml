@@ -1,0 +1,63 @@
+timestamps:
+  login: 1487161817585
+  lastteleport: 1477054762006
+  logout: 1487161938674
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 117.76950517726328
+  y: 58.0
+  z: 53.69999998807907
+  yaw: -28.14599609375
+  pitch: 39.81853485107422
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 114.7124425358044
+  y: 63.0
+  z: 535.8559576577059
+  yaw: -276.70550537109375
+  pitch: 14.106988906860352
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 121.59865672121768
+    y: 150.0
+    z: 556.7130712682878
+    yaw: -239.10044860839844
+    pitch: 48.45001220703125
+    world-name: ''
+  shop:
+    world: world
+    x: -5393.958181709438
+    y: 71.0
+    z: 318.7570523094667
+    yaw: 181.61181640625
+    pitch: 16.003002166748047
+    world-name: ''
+  chelou:
+    world: Ressources
+    x: 6882.089558028662
+    y: 91.0
+    z: 3948.742037117769
+    yaw: -81.74981689453125
+    pitch: 17.250057220458984
+    world-name: ''
+afk: false
+ip-address: 86.246.252.62
+last-account-name: Banou957
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

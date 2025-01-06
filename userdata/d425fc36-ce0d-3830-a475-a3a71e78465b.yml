@@ -1,0 +1,47 @@
+timestamps:
+  login: 1512838981895
+  lastteleport: 1512841693705
+  logout: 1512841847139
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -215.64861641827645
+  y: 46.0
+  z: 414.0999460043605
+  yaw: 177.00027465820312
+  pitch: 7.050005912780762
+  world-name: ''
+homes:
+  bc:
+    world: world
+    x: -6562.224915327367
+    y: 78.0
+    z: 3809.8625946726966
+    yaw: 61.05309295654297
+    pitch: 12.449867248535156
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+ip-address: 176.160.161.61
+last-account-name: Drak1000
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

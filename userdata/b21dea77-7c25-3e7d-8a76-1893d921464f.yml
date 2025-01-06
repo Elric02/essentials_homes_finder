@@ -1,0 +1,47 @@
+timestamps:
+  login: 1486207381875
+  lastteleport: 1486164549811
+  logout: 1486207555483
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -803.2977058059802
+  y: 66.0
+  z: -562.4161289549762
+  yaw: 34.48193359375
+  pitch: 17.017820358276367
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6807.990475989426
+    y: 85.0
+    z: -5867.156985974439
+    yaw: -41.3206672668457
+    pitch: 42.60416793823242
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 6802.88561582015
+  y: 69.0
+  z: -5901.2999494253645
+  yaw: 146.0004119873047
+  pitch: 1.0684723854064941
+  world-name: ''
+afk: false
+ip-address: 86.236.238.230
+last-account-name: cocodu45
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

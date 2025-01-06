@@ -1,0 +1,38 @@
+timestamps:
+  login: 1474828286056
+  logout: 1474828406938
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.52966697206756
+  y: 63.5
+  z: 5.70211559526227
+  yaw: -174.64752197265625
+  pitch: -14.602587699890137
+  world-name: ''
+ip-address: 88.178.217.183
+last-account-name: CouscousKNT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

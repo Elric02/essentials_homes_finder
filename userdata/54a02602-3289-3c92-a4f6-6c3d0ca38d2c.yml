@@ -1,0 +1,38 @@
+timestamps:
+  login: 1549051900193
+  logout: 1549055704245
+  lastteleport: 1549053277447
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1515.699999988079
+  y: 50.0
+  z: 2781.699999988079
+  yaw: 178.413330078125
+  pitch: 18.547618865966797
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1576.3931035230337
+  y: 69.0
+  z: 2819.924118505648
+  yaw: 266.8907470703125
+  pitch: 44.6176872253418
+  world-name: ''
+ip-address: 86.234.84.12
+last-account-name: Picsor
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470957833860
+  lastteleport: 1470958344660
+  logout: 1470958390815
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.2994589447682
+  y: 64.0
+  z: 19.378399548581935
+  yaw: -99.75325012207031
+  pitch: 7.375060081481934
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 161.45501859896646
+  y: 67.73403831067891
+  z: 11.48824788458149
+  yaw: -84.49220275878906
+  pitch: 90.0
+  world-name: ''
+ip-address: 93.16.242.138
+last-account-name: Azexflog
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

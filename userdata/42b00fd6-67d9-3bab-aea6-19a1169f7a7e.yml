@@ -1,0 +1,38 @@
+timestamps:
+  login: 1539429980888
+  logout: 1539430154026
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7.449983841589756
+  y: 67.0
+  z: 10.838769116748724
+  yaw: 168.54673767089844
+  pitch: 35.640663146972656
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1450.770068751586
+  y: 64.0
+  z: -2179.9736651940084
+  yaw: 72.54676818847656
+  pitch: 10.59066390991211
+  world-name: ''
+ip-address: 78.208.28.19
+last-account-name: lucas13120
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

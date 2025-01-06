@@ -1,0 +1,38 @@
+timestamps:
+  login: 1525186757285
+  lastteleport: 1525187066917
+  logout: 1525187488087
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.90981197376075
+  y: 64.0
+  z: 18.353755922655463
+  yaw: -169.01756286621094
+  pitch: 10.501845359802246
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -235.5250819962731
+  y: 124.0
+  z: -3860.3954432503833
+  yaw: -277.433837890625
+  pitch: 28.375986099243164
+  world-name: ''
+ip-address: 87.91.78.10
+last-account-name: maze1804
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.160.46.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668856796106
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668857152602
+  login: 1668856874510
+money: '0'
+last-account-name: sarracroche
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 397.0729862051378
+  y: 81.0
+  z: -3109.1937504352727
+  yaw: 163.2159423828125
+  pitch: 24.600154876708984
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -100.33822639872223
+  y: 66.0
+  z: 82.59492915507354
+  yaw: -74.09622192382812
+  pitch: -9.000178337097168

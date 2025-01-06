@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.125.112.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701526837970
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701526859451
+  login: 1701526709478
+money: '0'
+last-account-name: boba_fett004
+lastlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 162.87288616341672
+  y: 83.5
+  z: -104.51979017220555
+  yaw: 90.84757995605469
+  pitch: 15.64596939086914
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.99592236805626
+  y: 81.0
+  z: -3111.375103500612
+  yaw: -62.2545280456543
+  pitch: 14.43722915649414

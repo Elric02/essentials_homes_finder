@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471373333308
+  lastteleport: 1471373458717
+  logout: 1471373588787
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.23720546730922
+  y: 63.0
+  z: 44.33892845806988
+  yaw: 85.88914489746094
+  pitch: 9.474513053894043
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.94050355915098
+  y: 28.0
+  z: 21.187870504914226
+  yaw: 105.98914337158203
+  pitch: 10.224512100219727
+  world-name: ''
+ip-address: 213.176.219.107
+last-account-name: noemy68
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

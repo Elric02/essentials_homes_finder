@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.243.66.102
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1649717130676
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1649717413499
+  login: 1649716938087
+money: '0'
+last-account-name: xXjulius57Xx
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 148.89526612421258
+  y: 63.0
+  z: 50.63235373748327
+  yaw: 149.95404052734375
+  pitch: 0.14338500797748566
+logoutlocation:
+  world: 9ae49fc9-52ed-408c-94a2-ef296500163a
+  world-name: Ressource
+  x: 386.24880059821214
+  y: 69.0
+  z: -2907.119390380516
+  yaw: -59.400543212890625
+  pitch: 14.585944175720215

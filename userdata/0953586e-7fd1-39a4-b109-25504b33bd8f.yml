@@ -1,0 +1,63 @@
+timestamps:
+  login: 1603476765998
+  lastteleport: 1603478133129
+  logout: 1603478453668
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6739.346286077605
+  y: 64.0
+  z: -1289.7003539302027
+  yaw: -124.050048828125
+  pitch: 16.65001678466797
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5849.277420436815
+  y: 72.0
+  z: 3850.7329632905357
+  yaw: 155.87936401367188
+  pitch: 14.933862686157227
+  world-name: ''
+money: '0'
+homes:
+  staff:
+    world: world
+    x: 1457.700546055759
+    y: 89.0
+    z: -6658.529223959558
+    yaw: 104.13491821289062
+    pitch: 26.544950485229492
+    world-name: ''
+  nether:
+    world: Nether
+    x: 1612.7315144633615
+    y: 60.0
+    z: -614.4310443854068
+    yaw: 335.03851318359375
+    pitch: -3.0730834007263184
+    world-name: ''
+  cach_:
+    world: world
+    x: 155.34603392026403
+    y: 85.0
+    z: 21.34351438584494
+    yaw: -183.60179138183594
+    pitch: 69.43355560302734
+    world-name: ''
+ip-address: 79.84.157.183
+last-account-name: Ted5525
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

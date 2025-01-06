@@ -1,0 +1,38 @@
+timestamps:
+  login: 1515322942053
+  logout: 1515322977359
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.6170483720571
+  y: 65.0
+  z: 99.43407713811416
+  yaw: 189.8209228515625
+  pitch: 31.062227249145508
+  world-name: ''
+ip-address: 90.9.40.18
+last-account-name: Imbossof63
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

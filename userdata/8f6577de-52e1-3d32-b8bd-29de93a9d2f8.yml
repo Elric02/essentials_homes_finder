@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508598110138
+  lastteleport: 1508598437598
+  logout: 1508598599962
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 37.866939869236305
+  y: 64.0
+  z: 23.04235493031512
+  yaw: -19.1025390625
+  pitch: 1.5972769260406494
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5422.300000011921
+  y: 72.0
+  z: 615.6999999880791
+  yaw: -12.2943115234375
+  pitch: 19.05006217956543
+  world-name: ''
+ip-address: 92.159.184.46
+last-account-name: FryTv
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

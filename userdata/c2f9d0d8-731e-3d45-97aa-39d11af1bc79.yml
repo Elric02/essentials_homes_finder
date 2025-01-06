@@ -1,0 +1,47 @@
+timestamps:
+  login: 1477387927042
+  logout: 1477388086442
+  lastteleport: 1477388029096
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.96497758803892
+  y: 63.0
+  z: 45.261851698588956
+  yaw: -42.17218017578125
+  pitch: 6.0854010581970215
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2984.861849013099
+  y: 69.0
+  z: 4738.022303458993
+  yaw: -289.8426513671875
+  pitch: 26.011194229125977
+  world-name: ''
+homes:
+  lol:
+    world: world
+    x: 2984.861849013099
+    y: 69.0
+    z: 4738.022303458993
+    yaw: -289.8426513671875
+    pitch: 26.011194229125977
+    world-name: ''
+ip-address: 82.248.39.39
+last-account-name: Daftpunk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

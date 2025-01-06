@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476118951485
+  lastteleport: 1476119286716
+  logout: 1476119345127
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.9898107128076
+  y: 28.0
+  z: 22.45306734728145
+  yaw: -10.401748657226562
+  pitch: -1.5119218826293945
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -275.21805103058847
+  y: 68.0
+  z: 350.0189098908223
+  yaw: 72.76260375976562
+  pitch: 7.187288284301758
+  world-name: ''
+ip-address: 90.1.100.70
+last-account-name: Paulleguerrier20
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

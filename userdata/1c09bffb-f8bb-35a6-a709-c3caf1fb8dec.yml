@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.91.136.93
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1636576550549
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1636577073121
+  login: 1636575948274
+money: '0'
+last-account-name: PhiPsi64
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -4572.393349218207
+  y: 71.0
+  z: -4746.704539531276
+  yaw: 328.49932861328125
+  pitch: 37.472476959228516
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4572.9488630900805
+    y: 70.0
+    z: -4742.846066400594
+    yaw: 173.939453125
+    pitch: 30.12137222290039
+logoutlocation:
+  world: d2e59b71-a6cc-46c3-9366-582a12c8b4fb
+  world-name: Ressource
+  x: -2402.653173214845
+  y: 35.0
+  z: -1250.300000011921
+  yaw: 133.14263916015625
+  pitch: 7.704021453857422

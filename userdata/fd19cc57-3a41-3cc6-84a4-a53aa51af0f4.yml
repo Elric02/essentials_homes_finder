@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521827586063
+  logout: 1521828534940
+  lastteleport: 1519326691318
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -245.86125204498484
+  y: 83.0
+  z: -3959.668998113231
+  yaw: -351.3225402832031
+  pitch: 22.800045013427734
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -385.237699946288
+  y: 105.0
+  z: -3896.770544290825
+  yaw: 173.28903198242188
+  pitch: 29.549985885620117
+  world-name: ''
+ip-address: 78.116.212.17
+last-account-name: marinectrx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

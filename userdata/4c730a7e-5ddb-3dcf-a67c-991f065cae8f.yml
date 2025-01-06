@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.126.213.211
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682254503930
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682255160514
+  login: 1682254425868
+money: '0'
+last-account-name: Komeskou
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -71.21089385268986
+  y: 67.07261114218966
+  z: 38.67723206508995
+  yaw: 103.0507583618164
+  pitch: 25.64998435974121
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 140.52141212248966
+  y: 80.0
+  z: -311.4840288862165
+  yaw: 2.655914306640625
+  pitch: 50.849609375

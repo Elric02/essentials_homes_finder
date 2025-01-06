@@ -1,0 +1,55 @@
+timestamps:
+  login: 1592804756277
+  lastteleport: 1592804784061
+  logout: 1592804800514
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1255.3062349427
+  y: 64.0
+  z: 609.7561406829506
+  yaw: -34.021907806396484
+  pitch: -1.0275753736495972
+  world-name: ''
+homes:
+  m:
+    world: world
+    x: -1257.1789352391263
+    y: 64.0
+    z: 614.4872675592158
+    yaw: 116.099853515625
+    pitch: 23.54995346069336
+    world-name: ''
+  v:
+    world: world
+    x: 1245.1458853228426
+    y: 68.0
+    z: -4727.592636531122
+    yaw: -82.80094146728516
+    pitch: 34.49993896484375
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1242.969753436167
+  y: 66.0
+  z: -4729.091297373358
+  yaw: -45.72552490234375
+  pitch: 40.19346237182617
+  world-name: ''
+ip-address: 93.2.155.43
+last-account-name: VladeDivac
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

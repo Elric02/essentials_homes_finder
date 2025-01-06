@@ -1,0 +1,38 @@
+timestamps:
+  login: 1591832947500
+  logout: 1591833562729
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -73.44750620033055
+  y: 64.0
+  z: -351.0203998339997
+  yaw: 111.14300537109375
+  pitch: 66.45014953613281
+  world-name: ''
+ip-address: 93.21.248.93
+last-account-name: ArowZ_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

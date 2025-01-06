@@ -1,0 +1,42 @@
+timestamps:
+  login: 1504266606437
+  lastteleport: 1504266317886
+  logout: 1504266767225
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.41502852814855
+  y: 64.0
+  z: 13.9662243798589
+  yaw: -169.9674835205078
+  pitch: 34.70399856567383
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 183.49054394629079
+  y: 62.95
+  z: 78.7266652828646
+  yaw: 26.444686889648438
+  pitch: 22.59893226623535
+  world-name: ''
+money: '0'
+ip-address: 82.249.108.97
+last-account-name: console
+mail:
+- legacy: true
+  read: false
+  message: §e[§rServer§e] §rtest
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

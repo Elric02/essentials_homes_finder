@@ -1,0 +1,55 @@
+timestamps:
+  login: 1504425187702
+  lastteleport: 1496562970209
+  logout: 1504425194208
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.72246003028636
+  y: 63.0
+  z: 1.495258317011012
+  yaw: -144.96084594726562
+  pitch: 11.42451000213623
+  world-name: ''
+money: '0'
+homes:
+  a:
+    world: world
+    x: -4347.699624163739
+    y: 64.0
+    z: 4440.300000011921
+    yaw: -60.53459167480469
+    pitch: 44.999996185302734
+    world-name: ''
+  base:
+    world: world
+    x: -4407.566754535503
+    y: 111.0
+    z: 4525.359413128424
+    yaw: -60.68385314941406
+    pitch: 7.050082683563232
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4406.300000011921
+  y: 111.0
+  z: 4522.300000011921
+  yaw: 1.6563674211502075
+  pitch: 40.52463150024414
+  world-name: ''
+ip-address: 109.130.102.130
+last-account-name: Min3x_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

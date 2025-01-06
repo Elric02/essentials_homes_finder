@@ -1,0 +1,38 @@
+timestamps:
+  login: 1594018827415
+  lastteleport: 1593969205279
+  logout: 1594018867525
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 340.90832467364356
+  y: 64.0
+  z: 3270.3824190963273
+  yaw: -64.34713745117188
+  pitch: 15.347471237182617
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -563.592074464719
+  y: 64.0
+  z: -751.4295878378197
+  yaw: 270.75494384765625
+  pitch: 17.850011825561523
+  world-name: ''
+ip-address: 154.67.220.79
+last-account-name: RedStrikell
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

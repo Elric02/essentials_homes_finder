@@ -1,0 +1,38 @@
+timestamps:
+  login: 1624704640245
+  logout: 1624704884059
+  lastteleport: 1624704674586
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 17.69999998807907
+  y: 64.0
+  z: 7.300000011920929
+  yaw: -145.0521240234375
+  pitch: -77.69998931884766
+  world-name: ''
+ip-address: 93.1.69.128
+last-account-name: MImille40
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

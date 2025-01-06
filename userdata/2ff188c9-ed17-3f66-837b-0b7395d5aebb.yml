@@ -1,0 +1,63 @@
+timestamps:
+  login: 1538562798500
+  lastteleport: 1489076840055
+  logout: 1538563902480
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5152.699999988079
+  y: 73.0
+  z: -1695.9945581617055
+  yaw: -51.959877014160156
+  pitch: 9.936673164367676
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 1504.0589837700497
+    y: 134.0
+    z: 2426.9454076145753
+    yaw: 29.6898193359375
+    pitch: 33.83048629760742
+    world-name: ''
+  asterix:
+    world: world
+    x: 4552.188293383944
+    y: 64.0
+    z: -5495.014696149776
+    yaw: -142.959716796875
+    pitch: 30.019559860229492
+    world-name: ''
+  jungle:
+    world: world
+    x: 5189.317195276471
+    y: 107.0
+    z: -1653.9530710866984
+    yaw: 152.394287109375
+    pitch: 45.047157287597656
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2551.300000011921
+  y: 64.0
+  z: -4021.681044942151
+  yaw: 297.05218505859375
+  pitch: 58.45426940917969
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 92.157.228.144
+last-account-name: Arresvay
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

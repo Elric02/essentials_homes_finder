@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.220.225.169
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671812071795
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671812390182
+  login: 1671811913139
+money: '0'
+last-account-name: Aeikos_
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 3554.8272470019615
+  y: 64.0
+  z: 5602.672178037113
+  yaw: -80.47037506103516
+  pitch: 10.199800491333008
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 106.90723106754871
+  y: 64.0
+  z: 24.237156147581125
+  yaw: -2.683441162109375
+  pitch: 10.200225830078125

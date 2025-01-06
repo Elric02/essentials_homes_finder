@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617394314349
+  lastteleport: 1617394405651
+  logout: 1617394445499
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.0126639727321
+  y: 66.0
+  z: 96.94205350635923
+  yaw: -257.1526794433594
+  pitch: 9.240659713745117
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.46585773200331
+  y: 64.0
+  z: 13.554240616794793
+  yaw: 287.1552734375
+  pitch: 6.875894546508789
+  world-name: ''
+ip-address: 105.235.135.60
+last-account-name: lender
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

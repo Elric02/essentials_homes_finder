@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.208.53.141
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663517198246
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663607874213
+  login: 1663607867612
+  kits:
+    debutant: 1663517068191
+money: '0'
+last-account-name: KazeeKamii
+lastlocation:
+  world: 695c07f9-e798-4e52-bd51-6ab01549c52e
+  world-name: HestiaEnd
+  x: -79.62378655430587
+  y: 63.0
+  z: 14.195341500757314
+  yaw: 84.19440460205078
+  pitch: 25.011329650878906
+logoutlocation:
+  world: 695c07f9-e798-4e52-bd51-6ab01549c52e
+  world-name: HestiaEnd
+  x: 3.5706898735052315
+  y: 58.0
+  z: -50.442658574638465
+  yaw: -0.00994873046875
+  pitch: 14.771636009216309

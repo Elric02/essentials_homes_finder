@@ -1,0 +1,58 @@
+timestamps:
+  login: 1645975287253
+  lastteleport: 1645975321850
+  logout: 1645975370940
+  kits:
+    color: 1588111320646
+    vip: 1638621995460
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -5604.303072856921
+  y: 61.0
+  z: -159.1203887138229
+  yaw: 174.98236083984375
+  pitch: 8.099690437316895
+  world-name: world
+money: '0'
+logoutlocation:
+  world: 6b791b62-b860-492a-aa67-db025bcd5247
+  x: -240.52778701253402
+  y: 64.0
+  z: 4.450877650236958
+  yaw: -153.300048828125
+  pitch: 19.350358963012695
+  world-name: world2
+afk: false
+homes:
+  _:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5201.427072266565
+    y: 71.0
+    z: -4218.567555261676
+    yaw: -359.7060546875
+    pitch: 47.550048828125
+    world-name: world
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5604.198511084915
+    y: 59.0
+    z: -158.8754119487228
+    yaw: -100.26873779296875
+    pitch: 6.000038146972656
+ip-address: 81.220.197.99
+last-account-name: Bakka49_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

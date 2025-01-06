@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616781892061
+  logout: 1616782062919
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.61709514335328
+  y: 64.0
+  z: 11.879614405877941
+  yaw: 127.07278442382812
+  pitch: 11.083381652832031
+  world-name: ''
+ip-address: 92.89.44.122
+last-account-name: Frosterrox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

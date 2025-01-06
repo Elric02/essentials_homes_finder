@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466616643021
+  mute: 0
+  jail: 0
+  logout: 1466617025413
+  lastteleport: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 199.13749998807907
+  y: 74.0
+  z: 17.86250001192093
+  yaw: -290.5241394042969
+  pitch: 36.18372344970703
+  world-name: ''
+muted: false
+jailed: false
+logoutlocation:
+  world: world
+  x: 42.55977834055485
+  y: 64.0
+  z: 44.67589931683542
+  yaw: 194.8525390625
+  pitch: 15.824223518371582
+  world-name: ''
+ip-address: 31.34.112.120
+last-account-name: Chocolatire
+teleportenabled: true
+teleportauto: false
+godmode: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

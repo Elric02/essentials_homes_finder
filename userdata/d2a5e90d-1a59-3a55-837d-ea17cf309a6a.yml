@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488475245957
+  logout: 1488476406855
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.05949949270675
+  y: 27.0
+  z: 20.700348081490638
+  yaw: -90.6478271484375
+  pitch: 18.99742317199707
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 140.2550616845775
+  y: 63.0
+  z: 19.072126165476902
+  yaw: -258.660888671875
+  pitch: 12.924515724182129
+  world-name: ''
+ip-address: 176.185.14.91
+last-account-name: firefall15
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

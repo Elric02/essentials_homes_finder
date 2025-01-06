@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511904491479
+  logout: 1511904541289
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.4946294614258
+  y: 63.0
+  z: 57.55700457682649
+  yaw: -218.452880859375
+  pitch: 6.840672969818115
+  world-name: ''
+ip-address: 90.70.129.154
+last-account-name: superspeed
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

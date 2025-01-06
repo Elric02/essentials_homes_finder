@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477558167777
+  lastteleport: 1477558795761
+  logout: 1477558867417
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.05036432769313
+  y: 63.0
+  z: 48.482257050140625
+  yaw: -276.2108459472656
+  pitch: 3.324516534805298
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -156.39008856172006
+  y: 47.0
+  z: 544.5353310234904
+  yaw: 197.49822998046875
+  pitch: 3.4499895572662354
+  world-name: ''
+ip-address: 83.193.90.171
+last-account-name: pierrerouss
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

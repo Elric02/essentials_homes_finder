@@ -1,0 +1,63 @@
+timestamps:
+  login: 1501173788301
+  logout: 1501173804944
+  lastteleport: 1501172779492
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1440.762499988079
+  y: 88.0
+  z: -6655.021625660011
+  yaw: 80.84329223632812
+  pitch: 42.499961853027344
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2365.4369698059863
+  y: 64.0
+  z: 3584.817664462195
+  yaw: 39.70122146606445
+  pitch: -27.607501983642578
+  world-name: ''
+homes:
+  jap:
+    world: world
+    x: -2356.3106074007533
+    y: 64.0
+    z: 3584.9365014979535
+    yaw: 210.70115661621094
+    pitch: 15.892484664916992
+    world-name: ''
+  b:
+    world: world
+    x: 1493.9834287880785
+    y: 92.0
+    z: -6664.554078159567
+    yaw: 267.7427978515625
+    pitch: 46.700016021728516
+    world-name: ''
+  projet:
+    world: world
+    x: -6454.446399384563
+    y: 67.0
+    z: 612.1716200283726
+    yaw: 112.95071411132812
+    pitch: 39.450008392333984
+    world-name: ''
+afk: false
+money: '0'
+jailed: false
+ip-address: 86.225.41.23
+last-account-name: Erisium_Mathieu1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

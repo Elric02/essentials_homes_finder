@@ -1,0 +1,38 @@
+timestamps:
+  login: 1613816079480
+  lastteleport: 1613816497570
+  logout: 1613816514435
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4971.142692828287
+  y: 71.0
+  z: -431.7488080499854
+  yaw: -61.5460205078125
+  pitch: 21.63163185119629
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -181.14532470703125
+  pitch: 9.575874328613281
+  world-name: ''
+ip-address: 109.25.201.56
+last-account-name: Coralie97412
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

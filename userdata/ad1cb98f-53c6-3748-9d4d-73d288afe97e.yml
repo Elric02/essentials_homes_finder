@@ -1,0 +1,63 @@
+timestamps:
+  login: 1498069845964
+  lastteleport: 1498050442374
+  logout: 1498070276386
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1319.3635644063968
+  y: 67.0
+  z: -2904.36170813332
+  yaw: 24.575998306274414
+  pitch: 22.11839485168457
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5299.511120782427
+  y: 63.0
+  z: 6117.151087841956
+  yaw: 193.4943084716797
+  pitch: 23.64479637145996
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 5306.96361046642
+    y: 63.0
+    z: 6108.900783770729
+    yaw: -83.60011291503906
+    pitch: 64.80960083007812
+    world-name: ''
+  nether:
+    world: world
+    x: -4556.80060816804
+    y: 70.0
+    z: -4434.49303770522
+    yaw: -266.7637939453125
+    pitch: 18.729591369628906
+    world-name: ''
+  roseport:
+    world: world
+    x: -248.03452783966517
+    y: 58.0
+    z: 351.7372547465297
+    yaw: -95.095703125
+    pitch: 30.4031982421875
+    world-name: ''
+afk: false
+muted: false
+ip-address: 82.250.222.101
+last-account-name: AigleDayo
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

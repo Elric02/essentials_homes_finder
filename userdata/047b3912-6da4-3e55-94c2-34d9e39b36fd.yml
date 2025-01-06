@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 105.102.223.96
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1666901255857
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667243136271
+  login: 1667243108761
+money: '50.0'
+last-account-name: hunterprime201
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -140.9593053630179
+  y: 67.0
+  z: -14.7800803700925
+  yaw: 163.6511688232422
+  pitch: 12.299989700317383
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -140.9593053630179
+  y: 67.0
+  z: -14.7800803700925
+  yaw: 150.9011993408203
+  pitch: -8.850010871887207

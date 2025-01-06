@@ -1,0 +1,38 @@
+timestamps:
+  login: 1613314830610
+  lastteleport: 1613315263660
+  logout: 1613315281296
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressourcenether
+  x: -6.5677668052934175
+  y: 54.0
+  z: -7.79109245936994
+  yaw: -176.97866821289062
+  pitch: -4.395697593688965
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.3938797943309
+  y: 64.0
+  z: 18.54916255995829
+  yaw: -181.14532470703125
+  pitch: 9.575874328613281
+  world-name: ''
+ip-address: 90.109.66.74
+last-account-name: Thizky
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

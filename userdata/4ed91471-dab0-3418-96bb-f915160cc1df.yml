@@ -1,0 +1,38 @@
+timestamps:
+  login: 1611152318090
+  lastteleport: 1611152385298
+  logout: 1611152412067
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.50491197151516
+  y: 63.0
+  z: 57.631782608123736
+  yaw: 335.4752197265625
+  pitch: 11.931912422180176
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1435.5540457957675
+  y: 63.0
+  z: -2154.332400749223
+  yaw: 353.3114929199219
+  pitch: 13.311984062194824
+  world-name: ''
+ip-address: 91.167.102.123
+last-account-name: Thesnipercraft
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

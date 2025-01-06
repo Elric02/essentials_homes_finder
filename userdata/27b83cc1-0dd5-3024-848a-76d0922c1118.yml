@@ -1,0 +1,63 @@
+timestamps:
+  login: 1488165209672
+  lastteleport: 1488165723844
+  logout: 1488165836744
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -555.6540089575642
+  y: 64.0
+  z: -738.6030593366379
+  yaw: -285.7244873046875
+  pitch: 19.09969139099121
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 5680.185114952703
+    y: 64.0
+    z: 4899.395190020845
+    yaw: -180.55615234375
+    pitch: 11.712997436523438
+    world-name: ''
+  base2:
+    world: world
+    x: 5662.891804332728
+    y: 78.0
+    z: 4841.783950899626
+    yaw: -281.1407165527344
+    pitch: 23.751768112182617
+    world-name: ''
+  spawner:
+    world: world
+    x: 5698.4775279475525
+    y: 16.0
+    z: 4893.300000011921
+    yaw: -43.064605712890625
+    pitch: 26.11602783203125
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5602.709043052347
+  y: 99.0
+  z: 4926.339528649224
+  yaw: -192.57826232910156
+  pitch: 50.89478302001953
+  world-name: ''
+ip-address: 24.212.18.191
+last-account-name: yuloti15_game
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

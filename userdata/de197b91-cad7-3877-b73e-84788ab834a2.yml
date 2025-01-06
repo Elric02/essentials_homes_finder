@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509102207884
+  lastteleport: 1509102224920
+  logout: 1509102249065
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.0514968127747
+  y: 63.0
+  z: 48.71614952929615
+  yaw: -271.9974060058594
+  pitch: 0.6973992586135864
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 148.08846749053492
+  y: 64.0
+  z: 18.854871989351015
+  yaw: -78.77088165283203
+  pitch: -3.8713290691375732
+  world-name: ''
+ip-address: 86.217.20.108
+last-account-name: guegue1995
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

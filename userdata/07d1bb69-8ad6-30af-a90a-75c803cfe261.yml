@@ -1,0 +1,38 @@
+timestamps:
+  login: 1605971151557
+  lastteleport: 1605971228895
+  logout: 1605971272739
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.2332852888957
+  y: 65.0
+  z: 98.23750001192093
+  yaw: 335.4971008300781
+  pitch: -5.909382343292236
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 111.14543342143311
+  y: 64.0
+  z: -45.722170645533055
+  yaw: -283.8205261230469
+  pitch: 19.678672790527344
+  world-name: ''
+ip-address: 86.248.51.241
+last-account-name: CarterRawks
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

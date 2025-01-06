@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.160.178.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1703347971105
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1703355874679
+  login: 1703355768263
+money: '50.0'
+last-account-name: ZThTT3
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3441.003243530468
+  y: 66.0
+  z: 4059.8583730987443
+  yaw: -37.22664260864258
+  pitch: 90.0
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3441.5536566648543
+  y: 66.0
+  z: 4059.445034365617
+  yaw: 133.5065155029297
+  pitch: 90.0

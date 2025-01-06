@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.234.192.244
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1641740927107
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1641740983723
+  login: 1641740114142
+money: '0'
+last-account-name: Gabplanks
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.13721593668006
+  y: 63.0
+  z: 32.18209686322929
+  yaw: 220.16029357910156
+  pitch: 2.6283233165740967
+logoutlocation:
+  world: ba24a173-de76-46e3-9b01-741466ccc128
+  world-name: Ressource
+  x: -3566.880814884311
+  y: 65.0
+  z: 562.0996534754144
+  yaw: 222.59994506835938
+  pitch: -3.7499983310699463

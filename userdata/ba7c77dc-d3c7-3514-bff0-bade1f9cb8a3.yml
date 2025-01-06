@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.215.56.130
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1650029968325
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1650030306869
+  login: 1650029618751
+money: '0'
+last-account-name: XtremSplit
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -11.699999988079071
+  y: 65.23152379758702
+  z: 8.454368709393705
+  yaw: 98.25607299804688
+  pitch: 31.649816513061523
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -158.98959620661898
+  y: 47.0
+  z: 457.56337432907384
+  yaw: -174.5942840576172
+  pitch: 15.899860382080078

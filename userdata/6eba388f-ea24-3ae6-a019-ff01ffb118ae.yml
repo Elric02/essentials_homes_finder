@@ -1,0 +1,38 @@
+timestamps:
+  login: 1484309413128
+  lastteleport: 1484309442633
+  logout: 1484309639467
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -258.4975280761719
+  pitch: 27.99739646911621
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 157.4188726903095
+  y: 64.0
+  z: 16.857535749106304
+  yaw: -228.51068115234375
+  pitch: 9.474510192871094
+  world-name: ''
+ip-address: 90.42.113.53
+last-account-name: _MisterWither_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

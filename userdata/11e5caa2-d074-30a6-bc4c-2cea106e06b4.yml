@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499374707878
+  logout: 1499374831150
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3932.6833842043648
+  y: 64.0
+  z: 6570.638971344155
+  yaw: -117.12640380859375
+  pitch: 19.969831466674805
+  world-name: ''
+ip-address: 92.133.242.222
+last-account-name: KilCraft34
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

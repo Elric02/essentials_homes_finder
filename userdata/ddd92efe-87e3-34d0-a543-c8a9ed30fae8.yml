@@ -1,0 +1,47 @@
+timestamps:
+  login: 1504366432488
+  lastteleport: 1504366659832
+  logout: 1504366727167
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Builder
+  x: -123.15997700964704
+  y: 4.0
+  z: 62.67821865361084
+  yaw: -325.05072021484375
+  pitch: 3.600004196166992
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: ressource
+    x: -32.12259223950066
+    y: 16.0
+    z: 38.95849097532326
+    yaw: 56.849639892578125
+    pitch: 10.949991226196289
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 156.2724737697461
+  y: 63.0
+  z: 43.54149208858885
+  yaw: 316.5891418457031
+  pitch: -0.2754855155944824
+  world-name: ''
+ip-address: 81.248.149.158
+last-account-name: Alexi159
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

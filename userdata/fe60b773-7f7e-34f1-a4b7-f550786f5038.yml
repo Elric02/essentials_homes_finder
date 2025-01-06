@@ -1,0 +1,47 @@
+timestamps:
+  login: 1489424969493
+  lastteleport: 1489338435862
+  logout: 1489426217423
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: -862.5729710411683
+  y: 63.0
+  z: -603.4866545670752
+  yaw: -173.5009002685547
+  pitch: 30.142959594726562
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2771.012633199987
+    y: 67.0
+    z: -1023.977787218706
+    yaw: 84.09821319580078
+    pitch: 17.12903594970703
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2761.94391120403
+  y: 71.0
+  z: -1023.1652650306607
+  yaw: 228.1824951171875
+  pitch: 17.723901748657227
+  world-name: ''
+afk: false
+ip-address: 90.16.135.11
+last-account-name: lobi124
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

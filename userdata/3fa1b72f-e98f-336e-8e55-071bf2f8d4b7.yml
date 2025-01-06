@@ -1,0 +1,38 @@
+timestamps:
+  login: 1533554815195
+  logout: 1533554876432
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.68469616367764
+  y: 63.0
+  z: 54.74737299006251
+  yaw: -160.85340881347656
+  pitch: 22.14065170288086
+  world-name: ''
+ip-address: 92.138.64.227
+last-account-name: Warentsig
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1662061430414
+  logout: 1662061500498
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  x: -128.88271270006632
+  y: 80.17903424988586
+  z: 68.80130254404904
+  yaw: 94.95004272460938
+  pitch: 54.30018997192383
+  world-name: plot
+ip-address: 90.22.78.147
+last-account-name: Mistertrace28
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

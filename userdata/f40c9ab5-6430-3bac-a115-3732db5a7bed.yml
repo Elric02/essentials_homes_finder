@@ -1,0 +1,47 @@
+timestamps:
+  login: 1479326636011
+  lastteleport: 1479330462238
+  logout: 1479341805064
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5222.30575086452
+  y: 74.0
+  z: 567.278627999917
+  yaw: -136.38807678222656
+  pitch: 16.152996063232422
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home1:
+    world: world
+    x: 2155.9372947555635
+    y: 88.0
+    z: -2808.414300223761
+    yaw: -132.4505615234375
+    pitch: 24.300010681152344
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 2161.0008731661815
+  y: 88.0
+  z: -2808.8740768525754
+  yaw: -181.4140625
+  pitch: 28.199914932250977
+  world-name: ''
+ip-address: 90.113.192.249
+last-account-name: NeroElestros
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

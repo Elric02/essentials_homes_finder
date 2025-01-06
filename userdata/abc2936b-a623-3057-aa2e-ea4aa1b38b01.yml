@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472569582857
+  logout: 1472569790623
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.65157308628542
+  y: 63.0
+  z: 48.060987796299315
+  yaw: -258.0985107421875
+  pitch: 14.64564037322998
+  world-name: ''
+ip-address: 79.89.182.126
+last-account-name: Arckene
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

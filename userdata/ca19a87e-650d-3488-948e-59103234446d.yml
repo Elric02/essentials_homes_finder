@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517136057327
+  lastteleport: 1517137377477
+  logout: 1517137411777
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 25.30000001192093
+  y: 17.0
+  z: 5.613596771845497
+  yaw: -127.31446838378906
+  pitch: 10.94999885559082
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 162.77478879158645
+  y: 63.0
+  z: 5.212734782482267
+  yaw: -356.1209411621094
+  pitch: 16.678661346435547
+  world-name: ''
+ip-address: 78.202.1.108
+last-account-name: Iris_2_Speculoos
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

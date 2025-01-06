@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480516806157
+  mute: 0
+  logout: 1480517447910
+  lastteleport: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+muted: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 1010.4945654845052
+  y: 64.23152379758702
+  z: -2622.942288780054
+  yaw: -187.52537536621094
+  pitch: 17.082134246826172
+  world-name: ''
+ip-address: 90.52.202.153
+last-account-name: Nostenfer
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

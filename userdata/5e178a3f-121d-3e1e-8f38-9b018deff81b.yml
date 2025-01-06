@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.119.156.221
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1639333610879
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1639333651273
+  login: 1639333246306
+money: '0'
+last-account-name: Lunawae
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 164.94490707645272
+  y: 63.0
+  z: 9.361221965081352
+  yaw: 225.6897430419922
+  pitch: 5.859869003295898
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 6506.909592002494
+  y: 67.0
+  z: 6551.284004844552
+  yaw: -151.43211364746094
+  pitch: 15.876678466796875

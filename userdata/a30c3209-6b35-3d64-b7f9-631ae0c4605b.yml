@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487616785539
+  lastteleport: 1487614400726
+  logout: 1487618232878
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.74100903379033
+  y: 63.02159999847412
+  z: 8.480247899382036
+  yaw: -347.4609069824219
+  pitch: 5.124514579772949
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 0.3000000119209304
+  y: 90.0
+  z: 36.96894736184688
+  yaw: -291.35821533203125
+  pitch: -4.499969005584717
+  world-name: ''
+afk: false
+ip-address: 78.213.242.214
+last-account-name: Laughing_Jack
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

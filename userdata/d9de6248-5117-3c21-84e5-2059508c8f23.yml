@@ -1,0 +1,38 @@
+timestamps:
+  login: 1559480708502
+  lastteleport: 1559480459971
+  logout: 1559480775075
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.89042911558442
+  y: 56.92990332984163
+  z: 92.690830918192
+  yaw: 121.74697875976562
+  pitch: 18.090654373168945
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 64.30000001192093
+  y: 70.49520087700593
+  z: 96.54042173235831
+  yaw: -317.8704833984375
+  pitch: 56.72869110107422
+  world-name: ''
+ip-address: 86.238.148.110
+last-account-name: EthanLH
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1669473932320
+  lastteleport: 1650025287773
+  logout: 1669473949146
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -3221.9998788316434
+  y: 69.0
+  z: 6005.396539502839
+  yaw: 9.906982421875
+  pitch: 53.69997024536133
+  world-name: world
+homes:
+  baselolo:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: 1437.9361051571568
+    y: 41.0
+    z: -925.5836494039673
+    yaw: 271.3638000488281
+    pitch: 21.149982452392578
+    world-name: Nether
+  baselelia:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3222.5
+    y: 65.0
+    z: 6008.5
+    yaw: -29.09714126586914
+    pitch: 30.749893188476562
+    world-name: world
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -3221.9998788316434
+  y: 69.0
+  z: 6005.396539502839
+  yaw: 12.156968116760254
+  pitch: 54.3000602722168
+  world-name: world
+afk: false
+ip-address: 90.109.171.76
+last-account-name: Barbille
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

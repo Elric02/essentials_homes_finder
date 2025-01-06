@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472398887514
+  lastteleport: 1472405420173
+  logout: 1472405672895
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -5005.465970391741
+  y: 21.0
+  z: -1126.725688226956
+  yaw: -267.9522705078125
+  pitch: 7.349715709686279
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 148.82761101186873
+  y: 64.0
+  z: 16.3514274915828
+  yaw: 272.3390808105469
+  pitch: 16.074548721313477
+  world-name: ''
+ip-address: 89.81.22.165
+last-account-name: Amaterasu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

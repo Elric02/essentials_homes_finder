@@ -1,0 +1,47 @@
+timestamps:
+  login: 1498092335054
+  logout: 1498092394544
+  lastteleport: 1498002633731
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3576.300000011921
+  y: 82.0
+  z: 898.9299857818002
+  yaw: 207.1433563232422
+  pitch: 21.450090408325195
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 3584.463865733612
+    y: 81.0
+    z: 898.2220691704846
+    yaw: 246.00009155273438
+    pitch: 24.299997329711914
+    world-name: ''
+afk: false
+ip-address: 89.82.206.245
+last-account-name: Ddrx3
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

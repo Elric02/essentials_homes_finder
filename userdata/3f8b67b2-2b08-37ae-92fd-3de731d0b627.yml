@@ -1,0 +1,63 @@
+timestamps:
+  login: 1518711432692
+  lastteleport: 1518711487146
+  logout: 1518711801286
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6144.31993238695
+  y: 64.0
+  z: -3124.8499840574177
+  yaw: -231.5997314453125
+  pitch: 25.7999210357666
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -6263.157079548859
+  y: 77.0
+  z: -3203.300000011921
+  yaw: -193.64947509765625
+  pitch: 32.69997787475586
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -6294.991997752769
+    y: 73.0
+    z: -3194.0974923004505
+    yaw: -272.99932861328125
+    pitch: 18.44999122619629
+    world-name: ''
+  jungle:
+    world: world
+    x: 5243.9652708614985
+    y: 65.0
+    z: -1677.300000011921
+    yaw: 26.549997329711914
+    pitch: 8.549988746643066
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 261.9966810410321
+    y: 5.0
+    z: -5522.619385577903
+    yaw: 2.0987865924835205
+    pitch: 20.55000877380371
+    world-name: ''
+afk: false
+ip-address: 109.23.146.241
+last-account-name: Arkanz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

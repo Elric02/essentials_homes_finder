@@ -1,0 +1,38 @@
+timestamps:
+  login: 1520954956993
+  logout: 1520955112768
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 98.74096868171866
+  y: 63.0
+  z: 13.212499808428959
+  yaw: 132.54685974121094
+  pitch: 5.490664005279541
+  world-name: ''
+ip-address: 86.202.88.110
+last-account-name: RagnarVK
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

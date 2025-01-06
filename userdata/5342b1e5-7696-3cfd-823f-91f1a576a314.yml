@@ -1,0 +1,55 @@
+timestamps:
+  login: 1467054549513
+  lastteleport: 1467054906770
+  logout: 1467055029593
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -352.31950270421123
+  y: 70.5
+  z: 10462.922121968915
+  yaw: -253.9468994140625
+  pitch: 32.10002899169922
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -411.9114205299722
+  y: 63.0
+  z: 1237.2575509045605
+  yaw: -187.10623168945312
+  pitch: 11.849966049194336
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -357.630806724786
+    y: 64.0
+    z: 9342.368405306535
+    yaw: -187.9456787109375
+    pitch: 71.25001525878906
+    world-name: ''
+  new:
+    world: world
+    x: -331.2067077947497
+    y: 70.0
+    z: 10466.14779530328
+    yaw: -108.1478271484375
+    pitch: 27.44999122619629
+    world-name: ''
+afk: false
+ip-address: 83.113.50.114
+last-account-name: LordzCut01
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

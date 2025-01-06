@@ -1,0 +1,38 @@
+timestamps:
+  login: 1473793791028
+  lastteleport: 1473793928611
+  logout: 1473800518520
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 209.77373649991785
+  y: 63.0
+  z: 16.502771324984842
+  yaw: -288.09368896484375
+  pitch: 10.076635360717773
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Ressources
+  x: -267.30000001192093
+  y: 13.0
+  z: 1485.300000011921
+  yaw: 50.11865234375
+  pitch: 21.5668888092041
+  world-name: ''
+ip-address: 176.155.125.43
+last-account-name: el_chu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

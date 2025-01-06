@@ -1,0 +1,55 @@
+timestamps:
+  login: 1582835365020
+  lastteleport: 1582835751512
+  logout: 1582835854728
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7317.13008396259
+  y: 64.0
+  z: 3565.5000439061605
+  yaw: 53.149810791015625
+  pitch: 33.08020782470703
+  world-name: ''
+logoutlocation:
+  world: Event
+  x: 1174.127989858039
+  y: 4.0
+  z: -1110.3368192271316
+  yaw: -85.40242767333984
+  pitch: 19.705766677856445
+  world-name: ''
+money: '0'
+homes:
+  shop:
+    world: world
+    x: -4900.944248432294
+    y: 69.0
+    z: -266.8139601653829
+    yaw: -173.263916015625
+    pitch: 29.256425857543945
+    world-name: ''
+  b:
+    world: world
+    x: 7323.012595350803
+    y: 64.0
+    z: 3577.5373461018844
+    yaw: 183.53570556640625
+    pitch: 23.13753890991211
+    world-name: ''
+afk: false
+ip-address: 78.243.204.130
+last-account-name: WikiliX666
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

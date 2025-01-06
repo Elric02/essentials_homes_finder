@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500637662186
+  logout: 1500638789609
+  lastteleport: 1500638262082
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.6321955798906
+  y: 66.0
+  z: 43.86116395464702
+  yaw: 13.5831298828125
+  pitch: -6.000009536743164
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.55886313835447
+  y: 64.0
+  z: 14.960167386382395
+  yaw: -104.91009521484375
+  pitch: 3.0000109672546387
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 77.145.41.225
+last-account-name: kyky9
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

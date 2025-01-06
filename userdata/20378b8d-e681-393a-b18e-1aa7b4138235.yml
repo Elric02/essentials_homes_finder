@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488835476010
+  logout: 1488835539988
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 64.57572788711323
+  y: 69.0
+  z: -47.059492420666174
+  yaw: -303.64739990234375
+  pitch: -15.952605247497559
+  world-name: ''
+ip-address: 77.153.160.54
+last-account-name: '147258'
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

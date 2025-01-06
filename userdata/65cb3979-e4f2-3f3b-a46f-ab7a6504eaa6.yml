@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487857878939
+  lastteleport: 1487786850303
+  logout: 1487857990595
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: 65.52614722260316
+  y: 92.0
+  z: -24.84384436021262
+  yaw: -64.97433471679688
+  pitch: 0.8555278182029724
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 216.65008979980936
+  y: 63.0
+  z: 57.39458931182245
+  yaw: -136.4105224609375
+  pitch: 5.424530029296875
+  world-name: ''
+ip-address: 90.33.49.57
+last-account-name: NeoZpvp
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479043889427
+  lastteleport: 1479043934269
+  logout: 1479044348942
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 105.40205462197838
+  y: 63.0
+  z: 57.65370725411065
+  yaw: -7.57611083984375
+  pitch: 32.8258056640625
+  world-name: ''
+logoutlocation:
+  world: Event
+  x: 746.3000000119209
+  y: 4.0
+  z: -1332.300000011921
+  yaw: -142.851318359375
+  pitch: 10.210186004638672
+  world-name: ''
+ip-address: 176.145.45.161
+last-account-name: Weyzen
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

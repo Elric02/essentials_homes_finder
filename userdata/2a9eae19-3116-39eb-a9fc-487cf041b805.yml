@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.4.135.202
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675100479952
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716635421226
+  login: 1716635404165
+money: '10150.0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -137.32464064609732
+  y: 66.0
+  z: -151.20978690929402
+  yaw: -1.9082608222961426
+  pitch: 10.141362190246582
+last-account-name: Abdel_KadeR
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 3426.273936919715
+  y: 65.0
+  z: -175.10245235900078
+  yaw: 102.45919799804688
+  pitch: -1.423205852508545

@@ -1,0 +1,59 @@
+timestamps:
+  login: 1501245937413
+  lastteleport: 1501163728043
+  logout: 1501247221168
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3048.6746073811546
+  y: 67.0
+  z: 6061.2851084751155
+  yaw: 90.146240234375
+  pitch: 29.25008201599121
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3046.228893152236
+  y: 67.0
+  z: 6027.071097572653
+  yaw: 356.990478515625
+  pitch: 14.849860191345215
+  world-name: ''
+homes:
+  benoit:
+    world: world
+    x: -347.25926717857993
+    y: 69.0
+    z: 359.2263756392869
+    yaw: 35.8948974609375
+    pitch: 21.14999771118164
+    world-name: ''
+  alba:
+    world: world
+    x: -3094.376937629436
+    y: 55.5
+    z: 6048.473272385312
+    yaw: 179.84527587890625
+    pitch: 12.600008010864258
+    world-name: ''
+afk: false
+muted: false
+ip-address: 90.63.58.161
+last-account-name: Alba1
+mail:
+- legacy: true
+  read: false
+  message: §e[§rExidotaku§e] §rpas mal le jump =)
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

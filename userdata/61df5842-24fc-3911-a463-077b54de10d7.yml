@@ -1,0 +1,63 @@
+timestamps:
+  login: 1499522501043
+  lastteleport: 1499524772355
+  logout: 1499525157229
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5359.648859521237
+  y: 62.00020283911811
+  z: -1296.3141036657137
+  yaw: 175.0063018798828
+  pitch: 24.300003051757812
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4699.165448916433
+  y: 79.0
+  z: 6927.68874644541
+  yaw: -256.5282287597656
+  pitch: 8.100064277648926
+  world-name: ''
+money: '0'
+homes:
+  bas:
+    world: world
+    x: 2565.105345935887
+    y: 65.0
+    z: -5963.439933126852
+    yaw: -245.74282836914062
+    pitch: 11.549978256225586
+    world-name: ''
+  home:
+    world: world
+    x: 5344.410319393136
+    y: 48.0
+    z: -1253.543442508442
+    yaw: -220.9927978515625
+    pitch: 23.399967193603516
+    world-name: ''
+  bl_:
+    world: world
+    x: 5323.68701478784
+    y: 89.0
+    z: -1250.9678433465426
+    yaw: -317.59307861328125
+    pitch: 58.95000076293945
+    world-name: ''
+afk: false
+muted: false
+ip-address: 91.160.208.64
+last-account-name: gost
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

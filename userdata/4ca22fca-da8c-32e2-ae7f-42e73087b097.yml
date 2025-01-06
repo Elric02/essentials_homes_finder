@@ -1,0 +1,47 @@
+timestamps:
+  login: 1482070920576
+  logout: 1482071003466
+  lastteleport: 1479550287323
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 134.61945072943792
+  y: 63.0
+  z: 55.568702466704934
+  yaw: -156.51080322265625
+  pitch: -8.525491714477539
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 310.0331603879562
+  y: 94.0
+  z: -333.0570071237788
+  yaw: -314.85009765625
+  pitch: 39.599998474121094
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 373.15382934451924
+    y: 103.0
+    z: -162.01810838852143
+    yaw: -95.36236572265625
+    pitch: 21.599987030029297
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 90.78.175.253
+last-account-name: dashazerty
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

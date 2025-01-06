@@ -1,0 +1,38 @@
+timestamps:
+  login: 1465718727101
+  lastteleport: 1465718799333
+  logout: 1465718803022
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 193.80888730952094
+  y: 63.5
+  z: 17.626494031346606
+  yaw: 335.8525695800781
+  pitch: 8.774179458618164
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -598.1594079924724
+  y: 65.0
+  z: -759.8053920076075
+  yaw: -274.5973815917969
+  pitch: 8.576343536376953
+  world-name: ''
+ip-address: 77.134.41.218
+last-account-name: Gahlis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

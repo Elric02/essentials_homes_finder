@@ -1,0 +1,63 @@
+timestamps:
+  login: 1599149834910
+  logout: 1599150452761
+  lastteleport: 1535813746581
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: -372.1398736738014
+  y: 57.0
+  z: 227.75564101507769
+  yaw: -179.108154296875
+  pitch: -2.3027803897857666
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -4235.5928442292325
+    y: 63.0
+    z: -3696.2554100002176
+    yaw: 217.6685791015625
+    pitch: 15.205235481262207
+    world-name: ''
+  ferme:
+    world: ressource
+    x: 1442.699999988079
+    y: 21.5
+    z: 1802.5842301386072
+    yaw: 90.29983520507812
+    pitch: -15.750077247619629
+    world-name: ''
+  glace:
+    world: world
+    x: 2480.488571212537
+    y: 63.0
+    z: 6978.8495549559475
+    yaw: 297.2345886230469
+    pitch: 15.600127220153809
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -4206.423616535882
+  y: 66.0
+  z: -3624.098785713396
+  yaw: 198.2551727294922
+  pitch: 16.79998779296875
+  world-name: ''
+ip-address: 176.170.244.212
+last-account-name: Tri5
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

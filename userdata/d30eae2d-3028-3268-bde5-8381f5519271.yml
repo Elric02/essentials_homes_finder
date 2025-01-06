@@ -1,0 +1,63 @@
+timestamps:
+  login: 1520711745449
+  lastteleport: 1520711906690
+  logout: 1520712634981
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.4509375586058
+  y: 64.0
+  z: 21.941953766520314
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4254.148630861211
+  y: 69.0
+  z: -5093.747913716211
+  yaw: -344.1552734375
+  pitch: 17.87971305847168
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -4253.2875123140475
+    y: 69.0
+    z: -5092.09065120175
+    yaw: -118.64730072021484
+    pitch: 15.599919319152832
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 73.30000001192093
+    y: 19.0
+    z: -24.972023695566588
+    yaw: -119.58447265625
+    pitch: 19.500024795532227
+    world-name: ''
+  mine2:
+    world: Ressource
+    x: -4635.512002186406
+    y: 7.0
+    z: 1170.5964017235783
+    yaw: 257.38818359375
+    pitch: 26.099985122680664
+    world-name: ''
+afk: false
+ip-address: 69.166.126.67
+last-account-name: supergirl224
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

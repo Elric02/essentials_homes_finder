@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498497033683
+  lastteleport: 1498497532054
+  logout: 1498497601906
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -225.05258521844829
+  y: 47.0
+  z: 506.39175493116255
+  yaw: 266.39990234375
+  pitch: 11.549968719482422
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -592.8210050004707
+  y: 65.0
+  z: -725.1826046375174
+  yaw: -41.046478271484375
+  pitch: 18.749998092651367
+  world-name: ''
+ip-address: 78.253.194.97
+last-account-name: Tom40
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

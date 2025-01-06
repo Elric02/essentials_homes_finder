@@ -1,0 +1,38 @@
+timestamps:
+  login: 1522693798603
+  logout: 1522693807691
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.30725131864463
+  y: 65.0
+  z: 98.08718862863125
+  yaw: 97.74688720703125
+  pitch: 16.140668869018555
+  world-name: ''
+ip-address: 92.184.101.38
+last-account-name: AraGon_TazZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

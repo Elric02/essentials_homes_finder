@@ -1,0 +1,63 @@
+timestamps:
+  login: 1468238033730
+  logout: 1468238414117
+  lastteleport: 1468238200364
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.93802267678862
+  y: 64.0
+  z: 7.384542090702032
+  yaw: 162.60279846191406
+  pitch: 29.174184799194336
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -503.17318376757004
+  y: 64.0
+  z: -37.959613356297304
+  yaw: -14.512454986572266
+  pitch: 25.199996948242188
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -501.1788900993247
+    y: 64.0
+    z: -36.52230141798765
+    yaw: -345.4114990234375
+    pitch: 15.750004768371582
+    world-name: ''
+  ender:
+    world: world_the_end
+    x: -261.19272409948303
+    y: 57.0
+    z: -4.654602898125258
+    yaw: -267.89996337890625
+    pitch: 1.3499821424484253
+    world-name: ''
+  farm:
+    world: world
+    x: -242.4779926376392
+    y: 68.0
+    z: 49.65383369094612
+    yaw: -320.69500732421875
+    pitch: 27.974210739135742
+    world-name: ''
+muted: false
+afk: false
+jailed: false
+ip-address: 89.157.212.6
+last-account-name: the_creeptueur
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

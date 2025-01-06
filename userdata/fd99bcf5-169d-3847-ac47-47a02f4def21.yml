@@ -1,0 +1,38 @@
+timestamps:
+  login: 1507481581765
+  lastteleport: 1507481732501
+  logout: 1507483036344
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.9252891773402
+  y: 66.0
+  z: 19.897096035955634
+  yaw: -84.79754638671875
+  pitch: -3.052614688873291
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 146.12877676892248
+  y: 64.0
+  z: 20.77550254333931
+  yaw: -90.21087646484375
+  pitch: 13.349994659423828
+  world-name: ''
+ip-address: 92.131.87.27
+last-account-name: jinky
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1564170046966
+  lastteleport: 1564167073330
+  logout: 1564170060005
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -266.30000001192093
+  y: 11.0
+  z: -389.69999998807907
+  yaw: 183.53285217285156
+  pitch: 22.104095458984375
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 201.5698659121199
+  y: 63.0
+  z: 16.148171017027813
+  yaw: -262.87347412109375
+  pitch: -17.66118812561035
+  world-name: ''
+money: '0'
+homes:
+  village:
+    world: Ressource
+    x: -1768.0607629032086
+    y: 68.0
+    z: -190.30548115710755
+    yaw: 324.5416259765625
+    pitch: 15.933116912841797
+    world-name: ''
+ip-address: 82.228.117.13
+last-account-name: Epistaxys
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

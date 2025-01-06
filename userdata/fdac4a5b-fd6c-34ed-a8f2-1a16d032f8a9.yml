@@ -1,0 +1,38 @@
+timestamps:
+  login: 1581860316434
+  lastteleport: 1581860390454
+  logout: 1581860404446
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.84747897284092
+  y: 63.0
+  z: -16.29183163260207
+  yaw: 271.2980041503906
+  pitch: -0.3593190610408783
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.50131534903917
+  y: 64.0
+  z: 24.719594665382957
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+ip-address: 185.216.24.52
+last-account-name: Jolc
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

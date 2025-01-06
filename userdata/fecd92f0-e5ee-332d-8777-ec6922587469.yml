@@ -1,0 +1,38 @@
+timestamps:
+  login: 1507988983583
+  logout: 1507989004739
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 163.20711297964644
+  y: 64.0
+  z: 58.057091244790726
+  yaw: -103.39752197265625
+  pitch: 9.097402572631836
+  world-name: ''
+ip-address: 78.112.12.6
+last-account-name: theobou27
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

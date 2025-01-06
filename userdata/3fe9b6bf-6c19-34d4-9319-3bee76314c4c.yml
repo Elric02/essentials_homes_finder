@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514762126483
+  lastteleport: 1514762262174
+  logout: 1514762310641
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.27886766803832
+  y: 64.5
+  z: 68.53146774501546
+  yaw: 182.61289978027344
+  pitch: 0.7451720833778381
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 2.9201021934407745
+  y: 17.0
+  z: 3.0907526533766623
+  yaw: -204.0357666015625
+  pitch: 2.283090114593506
+  world-name: ''
+ip-address: 88.127.166.15
+last-account-name: K4T22
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

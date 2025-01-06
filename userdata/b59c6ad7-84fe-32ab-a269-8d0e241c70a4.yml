@@ -1,0 +1,55 @@
+timestamps:
+  login: 1518980864908
+  lastteleport: 1518981650289
+  logout: 1518981667699
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1440.512872606284
+  y: 64.0
+  z: -2164.300000011921
+  yaw: -16.16455078125
+  pitch: 16.39114761352539
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 5357.212790259729
+    y: 63.0
+    z: -1243.6194857070561
+    yaw: -60.9185791015625
+    pitch: 25.73370361328125
+    world-name: ''
+  gost:
+    world: world
+    x: 5421.475263349946
+    y: 89.0
+    z: -1197.7725392815853
+    yaw: 184.5010528564453
+    pitch: 36.82827377319336
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+afk: false
+ip-address: 2.0.177.231
+last-account-name: SirJulesDezart
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

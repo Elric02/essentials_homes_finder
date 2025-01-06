@@ -1,0 +1,63 @@
+timestamps:
+  login: 1522000102788
+  lastteleport: 1521829214884
+  logout: 1522000497940
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5628.300000011921
+  y: 71.0
+  z: -3167.6666773878023
+  yaw: 67.6541748046875
+  pitch: 19.64992904663086
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5039.221191210954
+  y: 80.0
+  z: 4666.046337268054
+  yaw: -140.54998779296875
+  pitch: 85.19999694824219
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2658.9342903788583
+    y: 63.0
+    z: -5367.795854406999
+    yaw: -213.7522735595703
+    pitch: 34.04999542236328
+    world-name: ''
+  manoir:
+    world: world
+    x: 5633.353793505674
+    y: 71.0
+    z: -3132.1826863699716
+    yaw: 131.552734375
+    pitch: 1.799973726272583
+    world-name: ''
+  fort:
+    world: world
+    x: 5171.42324837741
+    y: 72.0
+    z: 813.3797519754966
+    yaw: 357.449462890625
+    pitch: 20.700000762939453
+    world-name: ''
+afk: false
+ip-address: 88.163.211.58
+last-account-name: leFrancais
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

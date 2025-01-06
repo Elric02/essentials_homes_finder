@@ -1,0 +1,38 @@
+timestamps:
+  login: 1502829647587
+  lastteleport: 1502829773182
+  logout: 1502829816112
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.51343025853728
+  y: 63.0
+  z: 48.437258252046256
+  yaw: -267.729736328125
+  pitch: 8.209207534790039
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 18.1368966709129
+  y: 17.0
+  z: 24.706448589623736
+  yaw: 154.00381469726562
+  pitch: 32.14961624145508
+  world-name: ''
+ip-address: 82.247.200.188
+last-account-name: Walabar
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

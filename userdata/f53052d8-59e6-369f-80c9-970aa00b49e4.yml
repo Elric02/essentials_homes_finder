@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.65.6.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681662131034
+  login: 1681662044933
+money: '0'
+last-account-name: SixOoooo
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.02138053206863
+  y: 81.0
+  z: -3111.219525568366
+  yaw: -59.99897766113281
+  pitch: 1.349929928779602
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.97198772991374
+  y: 81.0
+  z: -3111.2480419894214
+  yaw: -59.99897766113281
+  pitch: 1.349929928779602

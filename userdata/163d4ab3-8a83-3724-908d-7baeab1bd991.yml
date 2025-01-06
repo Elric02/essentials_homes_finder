@@ -1,0 +1,140 @@
+timestamps:
+  login: 1730673709959
+  lastteleport: 1727781110942
+  logout: 1730673710145
+  kits:
+    color: 1699862343235
+    vip: 1699862357990
+    stationaute: 1699772678310
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -1490.8114088723225
+  y: 66.0
+  z: 979.9700670024846
+  yaw: 90.1112060546875
+  pitch: 4.427933692932129
+  world-name: world
+money: '42596.81'
+homes:
+  build:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    x: -1133.0812395965436
+    y: 4.0
+    z: -611.2740091258645
+    yaw: -0.7498779296875
+    pitch: 4.499998092651367
+    world-name: Builder
+  nether:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    x: -285.80260104827755
+    y: 91.0
+    z: 442.78022791948837
+    yaw: -358.1410827636719
+    pitch: 25.350318908691406
+    world-name: Nether
+  test2:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    x: -1458.2145239061324
+    y: 4.0
+    z: -605.0811551614896
+    yaw: 96.90032958984375
+    pitch: 27.299861907958984
+    world-name: Test
+  event:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    world-name: Event
+    x: 1592.81648807078
+    y: 65.0
+    z: -2692.5912511905435
+    yaw: -179.07952880859375
+    pitch: 81.15011596679688
+  vip:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6900.448990385323
+    y: 48.0
+    z: -4090.0638523531925
+    yaw: -351.9384460449219
+    pitch: 5.0999369621276855
+  rail:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6997.5
+    y: 37.0
+    z: -4809.5
+    yaw: -209.2694091796875
+    pitch: 7.799901008605957
+  moi:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2115.375865357027
+    y: 37.75
+    z: -2829.3868331920376
+    yaw: -354.0400695800781
+    pitch: 27.67793846130371
+  acdc:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1478.5
+    y: 64.0
+    z: 947.5
+    yaw: -354.0400695800781
+    pitch: 27.67793846130371
+  ferme:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2372.3105404609128
+    y: 38.0
+    z: -3102.5872739547576
+    yaw: -95.740478515625
+    pitch: -1.5719969272613525
+  avion:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1809.6709849725612
+    y: 220.0
+    z: -3036.5682236457037
+    yaw: -82.99105072021484
+    pitch: 17.927824020385742
+  monton:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2426.706456068061
+    y: 28.0
+    z: -3053.838502643837
+    yaw: 47.21133041381836
+    pitch: 6.228165149688721
+  m:
+    world: f6cc7e86-533e-4833-a044-23fb95716522
+    world-name: Ressource
+    x: 134.77325039619683
+    y: -41.0
+    z: 1251.2932214518703
+    yaw: -105.02294921875
+    pitch: 26.700923919677734
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 2081.5521396580466
+  y: 38.0
+  z: -2797.545205694825
+  yaw: 77.50814819335938
+  pitch: 6.449742317199707
+  world-name: world
+socialspy: false
+afk: false
+nickname: §2a§fcd§4c_§8z§edn§4l
+ip-address: 91.90.44.24
+last-account-name: acdc_zdnl
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

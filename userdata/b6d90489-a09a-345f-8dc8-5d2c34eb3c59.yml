@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.189.73.67
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1650918124710
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1650918925959
+  login: 1650917820854
+money: '0'
+last-account-name: Arthurlepro
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 148.84714643583297
+  y: 63.0
+  z: 50.561456716368944
+  yaw: 144.3980255126953
+  pitch: 16.740638732910156
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 159.74282803060277
+  y: 63.0
+  z: 27.706414859447356
+  yaw: 4.357513427734375
+  pitch: 30.000015258789062

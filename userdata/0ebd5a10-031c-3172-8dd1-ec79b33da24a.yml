@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467145542231
+  logout: 1467146047461
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 17.226367688818655
+  y: 60.0
+  z: 57.74499922309137
+  yaw: 172.79983520507812
+  pitch: 57.59999084472656
+  world-name: ''
+ip-address: 92.139.89.10
+last-account-name: Louise35
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

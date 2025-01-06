@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467316858754
+  lastteleport: 1467317362187
+  logout: 1467318184904
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -179.7918784098884
+  y: 65.0
+  z: 22.226522010220037
+  yaw: -279.86199951171875
+  pitch: 8.478490829467773
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 128.3396558353737
+  y: 42.0
+  z: -426.0266215104904
+  yaw: -310.129638671875
+  pitch: 32.36553192138672
+  world-name: ''
+ip-address: 78.201.226.106
+last-account-name: Doogie_YT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

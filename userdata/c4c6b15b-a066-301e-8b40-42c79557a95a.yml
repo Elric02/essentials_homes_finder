@@ -1,0 +1,38 @@
+timestamps:
+  login: 1591117951345
+  lastteleport: 1591113480476
+  logout: 1591118005422
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.681352718876
+  y: 65.0
+  z: 100.74911543712179
+  yaw: 12.996855735778809
+  pitch: 0.8406521081924438
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -135.15394637495817
+  y: 63.0
+  z: -127.76805898485286
+  yaw: -251.42318725585938
+  pitch: 14.550073623657227
+  world-name: ''
+ip-address: 93.22.150.153
+last-account-name: xXIsiolece66Xx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

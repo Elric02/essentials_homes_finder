@@ -1,0 +1,38 @@
+timestamps:
+  login: 1540477435283
+  logout: 1540477753217
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -47.30000001192095
+  y: 65.78608123157454
+  z: 11.40153464743165
+  yaw: -183.7266845703125
+  pitch: 20.71876335144043
+  world-name: ''
+ip-address: 86.208.14.70
+last-account-name: rollingstar101
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

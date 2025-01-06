@@ -1,0 +1,38 @@
+timestamps:
+  login: 1576271729276
+  lastteleport: 1576272061236
+  logout: 1576272333566
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.97030134183336
+  y: 66.0
+  z: 19.67575083365606
+  yaw: -93.80242919921875
+  pitch: -2.0093109607696533
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 1698.300000011921
+  y: 62.0
+  z: 441.8961410972696
+  yaw: 132.59986877441406
+  pitch: 40.19999694824219
+  world-name: ''
+ip-address: 88.136.172.75
+last-account-name: OceanicBlues
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

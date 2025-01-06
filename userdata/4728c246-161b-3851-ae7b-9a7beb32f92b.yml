@@ -1,0 +1,38 @@
+timestamps:
+  login: 1594838264576
+  logout: 1594838496401
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 100.07304349328345
+  y: 63.162141421026995
+  z: -45.5929326168104
+  yaw: 106.14907836914062
+  pitch: 12.450008392333984
+  world-name: ''
+ip-address: 89.89.227.250
+last-account-name: coinflip_of_fate
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

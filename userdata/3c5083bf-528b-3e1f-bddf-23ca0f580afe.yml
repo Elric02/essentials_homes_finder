@@ -1,0 +1,47 @@
+timestamps:
+  login: 1553424056698
+  logout: 1553424291081
+  lastteleport: 1550684370916
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7783.811352207368
+  y: 69.0
+  z: -7894.018811769491
+  yaw: -279.451171875
+  pitch: 6.749889850616455
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 128.35977738032864
+  y: 74.0
+  z: -2213.2232835803325
+  yaw: -314.5894775390625
+  pitch: 53.549964904785156
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 125.30000001192091
+    y: 73.0
+    z: -2225.699999988079
+    yaw: -65.115234375
+    pitch: 4.349868297576904
+    world-name: ''
+afk: false
+ip-address: 85.201.156.182
+last-account-name: Luffy2501
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

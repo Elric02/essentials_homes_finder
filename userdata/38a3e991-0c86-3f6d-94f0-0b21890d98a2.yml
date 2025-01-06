@@ -1,0 +1,47 @@
+timestamps:
+  login: 1603760979955
+  logout: 1603761046264
+  lastteleport: 1601057281093
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 95.09727478027344
+  pitch: -2.6641619205474854
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3682.022910223594
+  y: 71.0
+  z: 1341.3163117860913
+  yaw: 229.2027587890625
+  pitch: 30.90010643005371
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: 3678.1563367411536
+    y: 73.0
+    z: 1336.814519568092
+    yaw: 239.252685546875
+    pitch: 19.649946212768555
+    world-name: ''
+afk: false
+ip-address: 89.91.215.26
+last-account-name: Bisexual_Girl
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

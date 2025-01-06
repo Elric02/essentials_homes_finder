@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475869364966
+  logout: 1475869718070
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world_the_end
+  x: -2.770576981177555
+  y: 67.0625
+  z: -4.691557212789043
+  yaw: 285.07489013671875
+  pitch: -4.649985313415527
+  world-name: ''
+ip-address: 77.146.35.178
+last-account-name: Lithium
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

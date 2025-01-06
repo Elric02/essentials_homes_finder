@@ -1,0 +1,47 @@
+timestamps:
+  login: 1586608499746
+  logout: 1586608511139
+  lastteleport: 1586526177831
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5380.227772190653
+  y: 58.0
+  z: 1445.0639563282518
+  yaw: 352.0293884277344
+  pitch: 17.523757934570312
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 103.23681966369334
+  y: 61.4737362335058
+  z: 281.93261329369375
+  yaw: -303.7680358886719
+  pitch: 34.22288131713867
+  world-name: ''
+homes:
+  azetisme3576:
+    world: world
+    x: 116.56539411922472
+    y: 64.5
+    z: 257.84872899795766
+    yaw: -313.9394226074219
+    pitch: 25.406963348388672
+    world-name: ''
+ip-address: 86.228.96.246
+last-account-name: minecraft_333
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

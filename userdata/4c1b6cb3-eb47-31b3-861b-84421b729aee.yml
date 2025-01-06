@@ -1,0 +1,55 @@
+timestamps:
+  login: 1539978405096
+  logout: 1539980017544
+  lastteleport: 1539978871986
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.45041141769616
+  y: 64.0
+  z: 20.781892339620494
+  yaw: 118.77914428710938
+  pitch: 12.178667068481445
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -146.57083129882812
+  pitch: -7.471330642700195
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  h1:
+    world: world
+    x: 1678.5729828111912
+    y: 72.0
+    z: -1639.0861145391714
+    yaw: 26.5506591796875
+    pitch: 21.449966430664062
+    world-name: ''
+  h3:
+    world: Ressource
+    x: -2067.68563770852
+    y: 28.0
+    z: -5567.9000446231485
+    yaw: -83.9998779296875
+    pitch: 21.599946975708008
+    world-name: ''
+ip-address: 80.215.210.195
+last-account-name: armelito
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

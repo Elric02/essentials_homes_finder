@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.170.124.45
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682881733826
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682881838425
+  login: 1682881509885
+money: '0'
+last-account-name: PayHuw
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.99592236805626
+  y: 81.0
+  z: -3111.375103500612
+  yaw: -72.89768981933594
+  pitch: 17.999958038330078
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -16.093347882113534
+  y: 178.28282934672384
+  z: 21.729612886686088
+  yaw: 134.9117889404297
+  pitch: 27.599327087402344

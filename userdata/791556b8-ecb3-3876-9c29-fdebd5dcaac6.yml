@@ -1,0 +1,47 @@
+timestamps:
+  login: 1600706425302
+  lastteleport: 1600709058235
+  logout: 1600709628843
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 833.0602021978314
+  y: 21.0
+  z: -710.3586278201121
+  yaw: 202.65167236328125
+  pitch: 40.04997634887695
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 3207.9826194686007
+  y: 63.0
+  z: -6415.748319961181
+  yaw: 269.843994140625
+  pitch: 22.499719619750977
+  world-name: ''
+homes:
+  a:
+    world: world
+    x: 3202.237459003482
+    y: 63.0
+    z: -6421.590657720719
+    yaw: 269.546142578125
+    pitch: 29.099891662597656
+    world-name: ''
+ip-address: 89.91.215.26
+last-account-name: YukiaWolf
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1587921980194
+  lastteleport: 1587922032870
+  logout: 1587922049232
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.7875603836703
+  y: 64.0
+  z: 66.704945496641
+  yaw: 197.34703063964844
+  pitch: 13.140670776367188
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 1.4349297097254277
+  y: 63.0
+  z: 2.9591604547369714
+  yaw: 333.8973388671875
+  pitch: 23.88585090637207
+  world-name: ''
+ip-address: 37.171.218.223
+last-account-name: MisterM15400
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480243180386
+  lastteleport: 1480244368423
+  logout: 1480244953440
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5449.164171886044
+  y: 74.0
+  z: 649.7127090424366
+  yaw: -288.59906005859375
+  pitch: 11.850021362304688
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -5245.2374884833835
+  y: 78.0
+  z: 455.21206200874093
+  yaw: -249.59942626953125
+  pitch: 27.599987030029297
+  world-name: ''
+ip-address: 78.215.69.234
+last-account-name: Kasuno_Arsk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

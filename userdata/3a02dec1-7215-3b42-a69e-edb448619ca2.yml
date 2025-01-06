@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471953498604
+  logout: 1471953610410
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 221.46728731848458
+  y: 66.0
+  z: 19.38743033701843
+  yaw: -88.39786529541016
+  pitch: 1.597401738166809
+  world-name: ''
+ip-address: 79.91.163.231
+last-account-name: _TheDisneyFan_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.1.179.170
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1692105852638
+  login: 1692105846927
+money: '0'
+last-account-name: kevidryon2
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9256241415895
+  y: 81.0
+  z: -3111.0004588010984
+  yaw: -44.89524459838867
+  pitch: 10.386625289916992
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9256241415895
+  y: 81.0
+  z: -3111.0004588010984
+  yaw: 37.176170349121094
+  pitch: 13.588006973266602

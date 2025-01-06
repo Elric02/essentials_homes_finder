@@ -1,0 +1,63 @@
+timestamps:
+  login: 1588247522647
+  lastteleport: 1588249496402
+  logout: 1588249647485
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -283.26928957549455
+  y: 57.0
+  z: 5.69999998807907
+  yaw: -88.18463134765625
+  pitch: 11.399795532226562
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: -1915.6122189289858
+    y: 72.0
+    z: -2789.776449164742
+    yaw: -181.3105926513672
+    pitch: 41.11289596557617
+    world-name: ''
+  end:
+    world: End
+    x: -324.30000001192093
+    y: 57.0
+    z: 5.373690856814946
+    yaw: 91.06291198730469
+    pitch: 16.499771118164062
+    world-name: ''
+  messa:
+    world: world
+    x: 1684.9002175788628
+    y: 70.0
+    z: -6582.963034876636
+    yaw: -56.25325393676758
+    pitch: 16.649883270263672
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -1915.7816156577187
+  y: 72.0
+  z: -2801.237500011921
+  yaw: 10.669323921203613
+  pitch: 29.700178146362305
+  world-name: ''
+muted: false
+jailed: false
+ip-address: 78.211.218.109
+last-account-name: titipv14
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

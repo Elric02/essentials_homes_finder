@@ -1,0 +1,38 @@
+timestamps:
+  login: 1512066223033
+  logout: 1512066330562
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 128.17805322571405
+  y: 63.0
+  z: -8.144640823905439
+  yaw: 256.94482421875
+  pitch: 11.54773998260498
+  world-name: ''
+ip-address: 88.165.22.65
+last-account-name: elolo44
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,74 @@
+timestamps:
+  login: 1504703314408
+  lastteleport: 1504445291244
+  logout: 1504703547168
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -3765.699999988079
+  y: 11.0
+  z: 6860.300000011921
+  yaw: -49.9373779296875
+  pitch: 48.219871520996094
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -4366.625793247715
+    y: 87.0
+    z: -6644.702254319007
+    yaw: 324.2248840332031
+    pitch: 26.203983306884766
+    world-name: ''
+  mine:
+    world: Ressource
+    x: -3809.300000011921
+    y: 11.0
+    z: 6799.92248618747
+    yaw: -82.69012451171875
+    pitch: 22.951509475708008
+    world-name: ''
+  sable:
+    world: Ressource
+    x: 3833.0192195811433
+    y: 75.0
+    z: -1772.0444789188768
+    yaw: -3.752819299697876
+    pitch: 31.27256202697754
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4356.793044860017
+  y: 99.0
+  z: -6631.189937668371
+  yaw: -37.6258544921875
+  pitch: 22.451509475708008
+  world-name: ''
+afk: false
+ip-address: 88.164.197.224
+last-account-name: Misterchief
+mail:
+- legacy: true
+  read: false
+  message: §e[§rbryjnolf§e] §rje m'occupe des deux zozos qui ont grief ^^
+- legacy: true
+  read: false
+  message: §e[§rbryjnolf§e] §rj'ai reparer les betises sur ta maison ^^
+- legacy: true
+  read: false
+  message: §e[§rbryjnolf§e] §ret les deux autres vont etre tempban 1 semaine, c'etais
+    jeansebm et MrKoala55
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

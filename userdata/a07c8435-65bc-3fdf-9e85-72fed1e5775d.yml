@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586208967185
+  logout: 1586209238219
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 836.0381147755896
+  y: 81.0
+  z: -2805.585207134677
+  yaw: -354.3000793457031
+  pitch: 26.25005531311035
+  world-name: ''
+ip-address: 91.172.121.148
+last-account-name: Evan23YT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1482947567672
+  lastteleport: 1482947904381
+  logout: 1482947931159
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.69999998807907
+  y: 64.0
+  z: 18.69999998807907
+  yaw: -216.0594482421875
+  pitch: 38.78315734863281
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 153.4934179187864
+    y: 27.0
+    z: 24.800307337802312
+    yaw: -358.599609375
+    pitch: 13.10837173461914
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 150.4284906876786
+  y: 64.0
+  z: 27.62580219768522
+  yaw: -27.98702621459961
+  pitch: 12.98835277557373
+  world-name: ''
+ip-address: 78.230.150.124
+last-account-name: Olblack
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

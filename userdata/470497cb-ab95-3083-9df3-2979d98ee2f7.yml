@@ -1,0 +1,47 @@
+timestamps:
+  login: 1634045457145
+  lastteleport: 1634044501917
+  logout: 1634045591225
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -5082.074999988079
+  y: 72.0
+  z: -515.5059644564171
+  yaw: 95.52311706542969
+  pitch: 22.050024032592773
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -4934.5
+  y: 71.0
+  z: -528.5
+  yaw: 100.04197692871094
+  pitch: -1.3499828577041626
+  world-name: world
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4934.3120175022705
+    y: 71.0
+    z: -528.6759618055155
+    yaw: 207.44207763671875
+    pitch: 22.94979476928711
+    world-name: world
+money: '0'
+afk: false
+ip-address: 109.62.69.39
+last-account-name: kakaCactus
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

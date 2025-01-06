@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468100845217
+  logout: 1468102495716
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 363.04739988720877
+  y: 5.0
+  z: 103.78993016265093
+  yaw: 41.02557373046875
+  pitch: 26.99997329711914
+  world-name: ''
+ip-address: 90.31.171.115
+last-account-name: Popeye97311
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

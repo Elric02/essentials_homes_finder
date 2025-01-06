@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.134.140.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1665919368745
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665919868051
+  login: 1665918118329
+  kits:
+    stationaute: 1665918485666
+money: '150.0'
+last-account-name: RaxounCheatON
+lastlocation:
+  world: c4aa0be1-96e4-4d26-b064-d4d2526e9bea
+  world-name: AlthiumRessource
+  x: -429.669553685101
+  y: 64.0
+  z: 1602.6337938758832
+  yaw: 18.298492431640625
+  pitch: -45.599403381347656
+logoutlocation:
+  world: a6d82af7-ca13-4d37-9417-d065011747bd
+  world-name: AlthiumEnd
+  x: -8.178643588199401
+  y: 65.0
+  z: 1.0721722649135308
+  yaw: -56.6824951171875
+  pitch: 59.54997634887695

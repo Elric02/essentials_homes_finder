@@ -1,0 +1,47 @@
+timestamps:
+  login: 1485023443973
+  lastteleport: 1485023748634
+  logout: 1485024189228
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1289.227086740446
+  y: 74.0
+  z: -4782.040562148739
+  yaw: 87.74993896484375
+  pitch: 16.80000114440918
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 154.5
+    y: 64.0
+    z: 31.5
+    yaw: -180.06092834472656
+    pitch: 6.624515056610107
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 179.90770940178228
+  y: 63.0
+  z: -29.58116151767843
+  yaw: -356.9097900390625
+  pitch: 10.824527740478516
+  world-name: ''
+ip-address: 176.134.75.114
+last-account-name: owlscraft58
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

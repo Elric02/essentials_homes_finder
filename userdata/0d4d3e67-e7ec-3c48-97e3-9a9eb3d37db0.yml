@@ -1,0 +1,47 @@
+timestamps:
+  login: 1474816811270
+  lastteleport: 1474816884262
+  logout: 1474817267337
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 129.34708815517172
+  y: 63.0
+  z: -9.586403545265895
+  yaw: 275.3858337402344
+  pitch: 18.113182067871094
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 100.16193099387233
+    y: 67.0
+    z: -295.23020068555593
+    yaw: -184.491455078125
+    pitch: 30.1216983795166
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 104.62431028671675
+  y: 67.0
+  z: -279.13408262894524
+  yaw: -218.443359375
+  pitch: 11.531455993652344
+  world-name: ''
+afk: false
+muted: false
+ip-address: 80.8.46.62
+last-account-name: WoZiX
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

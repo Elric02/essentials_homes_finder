@@ -1,0 +1,38 @@
+timestamps:
+  login: 1533840869443
+  lastteleport: 1533834603573
+  logout: 1533840881448
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.60825318082115
+  y: 64.0
+  z: 11.412937233712066
+  yaw: 192.71463012695312
+  pitch: -2.4149885177612305
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -49.511162239843884
+  y: 78.0
+  z: -821.1765844484679
+  yaw: -83.60664367675781
+  pitch: -1.9643205404281616
+  world-name: ''
+ip-address: 91.161.253.124
+last-account-name: pierro80
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

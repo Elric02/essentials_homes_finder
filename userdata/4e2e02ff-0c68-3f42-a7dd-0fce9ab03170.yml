@@ -1,0 +1,38 @@
+timestamps:
+  login: 1465142138404
+  logout: 1465142182210
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 172.56143684299124
+  y: 64.0
+  z: -24.519993752368364
+  yaw: -98.8472900390625
+  pitch: 21.07419204711914
+  world-name: ''
+ip-address: 78.114.236.78
+last-account-name: momodu18
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

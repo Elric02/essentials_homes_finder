@@ -1,0 +1,38 @@
+timestamps:
+  login: 1567344209287
+  lastteleport: 1567346048840
+  logout: 1567346085053
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.49696861329372
+  y: 64.0
+  z: 19.642189425209214
+  yaw: -9.48345947265625
+  pitch: 90.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1456.699999988079
+  y: 63.90199999809265
+  z: -2195.324868322583
+  yaw: 91.86178588867188
+  pitch: 1.4089802503585815
+  world-name: ''
+money: '0'
+ip-address: 94.239.61.144
+last-account-name: praprakiller
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

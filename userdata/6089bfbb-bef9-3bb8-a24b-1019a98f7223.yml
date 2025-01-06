@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472921107691
+  logout: 1472922073304
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.20002673624825
+  y: 27.0
+  z: 20.49101518030147
+  yaw: -91.09722900390625
+  pitch: 15.997381210327148
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.91015967264417
+  y: 63.0
+  z: -17.107375215440896
+  yaw: -264.9652099609375
+  pitch: 10.50001049041748
+  world-name: ''
+ip-address: 78.248.181.46
+last-account-name: danakil
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

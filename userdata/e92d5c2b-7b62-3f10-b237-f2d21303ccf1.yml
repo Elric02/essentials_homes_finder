@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492342206207
+  lastteleport: 1492342226179
+  logout: 1492342258940
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: -9.375443401585542
+  y: 60.0
+  z: -4.211548865574726
+  yaw: 170.1729278564453
+  pitch: 11.205939292907715
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.8523631802339
+  y: 64.0
+  z: 7.085761232824796
+  yaw: -212.37437438964844
+  pitch: 5.449489116668701
+  world-name: ''
+ip-address: 90.56.141.182
+last-account-name: Nouliaqs
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

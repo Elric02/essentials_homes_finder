@@ -1,0 +1,99 @@
+timestamps:
+  login: 1625996610786
+  lastteleport: 1625998293030
+  logout: 1625998376531
+  jail: 0
+  kits:
+    color: 1588845134210
+    vip: 1588845137411
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 135.72598858777698
+  y: 63.0
+  z: -21.760411491047954
+  yaw: -255.686767578125
+  pitch: 2.012211322784424
+  world-name: ''
+money: '0'
+homes:
+  b:
+    world: world
+    x: -1330.9648367143423
+    y: 67.0
+    z: -4311.158746179877
+    yaw: -299.552001953125
+    pitch: 31.28423500061035
+    world-name: ''
+  art:
+    world: world
+    x: -5547.414619869718
+    y: 71.0
+    z: 6274.999812827472
+    yaw: 2.991665840148926
+    pitch: 70.08433532714844
+    world-name: ''
+  u:
+    world: world
+    x: -4779.122055945543
+    y: 69.0
+    z: -317.30000001192093
+    yaw: -325.8017578125
+    pitch: -3.898597240447998
+    world-name: ''
+  loup:
+    world: world
+    x: -759.9770680059368
+    y: 69.0
+    z: -4129.4438178441105
+    yaw: -208.7525634765625
+    pitch: 35.01786422729492
+    world-name: ''
+  fontaine:
+    world: world
+    x: -5124.79745653161
+    y: 75.0
+    z: 1258.8768487823318
+    yaw: -235.326171875
+    pitch: 14.125503540039062
+    world-name: ''
+  avion:
+    world: world
+    x: 50.30000001192093
+    y: 115.0
+    z: 24.61496838788455
+    yaw: -263.19464111328125
+    pitch: -4.501842021942139
+    world-name: ''
+  test1:
+    world: world
+    x: 154.5542425292026
+    y: 100.0
+    z: 11.294444800932176
+    yaw: -177.559814453125
+    pitch: 43.72285079956055
+    world-name: ''
+logoutlocation:
+  world: Donjon
+  x: 2060.4760153914317
+  y: 4.0
+  z: 2003.2276232174015
+  yaw: 277.5660705566406
+  pitch: 5.966763973236084
+  world-name: ''
+jailed: false
+afk: false
+nickname: §1N§2o§3k§6r§5e§es
+ip-address: 82.65.93.117
+last-account-name: Nokres
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

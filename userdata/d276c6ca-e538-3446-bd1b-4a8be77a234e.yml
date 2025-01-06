@@ -1,0 +1,47 @@
+timestamps:
+  login: 1487793353280
+  lastteleport: 1487795834086
+  logout: 1487796138038
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2944.466460701961
+  y: 17.0
+  z: 1630.300000011921
+  yaw: -185.8563232421875
+  pitch: 90.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2834.3268587390967
+  y: 63.0
+  z: 1690.3024341340083
+  yaw: -296.1041259765625
+  pitch: 10.949997901916504
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  b:
+    world: world
+    x: -2828.4797216852976
+    y: 63.0
+    z: 1690.1243272861389
+    yaw: -192.00592041015625
+    pitch: 69.29998779296875
+    world-name: ''
+ip-address: 90.50.23.175
+last-account-name: tauren
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

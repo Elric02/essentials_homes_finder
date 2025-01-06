@@ -1,0 +1,38 @@
+timestamps:
+  login: 1513285099206
+  lastteleport: 1513285829461
+  logout: 1513287036605
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -157.5
+  y: 72.0
+  z: 565.5
+  yaw: -175.25131225585938
+  pitch: 38.31774139404297
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -598.7026300113234
+  y: 64.5
+  z: -759.3782716910465
+  yaw: -60.847328186035156
+  pitch: -21.1236572265625
+  world-name: ''
+ip-address: 78.215.54.49
+last-account-name: mojoo67
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

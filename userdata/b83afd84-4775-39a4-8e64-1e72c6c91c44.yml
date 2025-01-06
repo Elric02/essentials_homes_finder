@@ -1,0 +1,38 @@
+timestamps:
+  login: 1553445620267
+  lastteleport: 1553445693359
+  logout: 1553445696068
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.78584751813963
+  y: 64.0
+  z: 25.5147585898236
+  yaw: -97.19507598876953
+  pitch: 33.6873893737793
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -167.2825164794922
+  pitch: 10.518514633178711
+  world-name: ''
+ip-address: 37.168.201.111
+last-account-name: Firefly
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

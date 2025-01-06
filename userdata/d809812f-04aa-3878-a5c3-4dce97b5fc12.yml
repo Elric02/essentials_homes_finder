@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481384619703
+  lastteleport: 1481386234532
+  logout: 1481386572681
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 211.28994152694122
+  y: 98.0
+  z: -95.45028735173958
+  yaw: 258.4022216796875
+  pitch: 90.0
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: ressource
+  x: 387.66278463509224
+  y: 77.0
+  z: 114.34766375766776
+  yaw: 322.6368408203125
+  pitch: -61.20000076293945
+  world-name: ''
+ip-address: 77.152.7.98
+last-account-name: pixrox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

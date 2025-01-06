@@ -1,0 +1,38 @@
+timestamps:
+  login: 1572006776066
+  logout: 1572006939932
+  lastteleport: 1572006794073
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.319814912037
+  y: 64.0
+  z: 67.55393725433296
+  yaw: -174.95355224609375
+  pitch: 5.790652275085449
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -699.668778620417
+  y: 63.0
+  z: -698.9839833014855
+  yaw: -95.94705200195312
+  pitch: 7.826345443725586
+  world-name: ''
+ip-address: 78.221.240.250
+last-account-name: L1nis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

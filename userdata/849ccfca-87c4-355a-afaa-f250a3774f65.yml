@@ -1,0 +1,38 @@
+timestamps:
+  login: 1466550791630
+  lastteleport: 1466558861492
+  logout: 1466558901476
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -9.921504838360848
+  y: 8.0
+  z: 31.69999998807907
+  yaw: -291.1497802734375
+  pitch: 72.8998794555664
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: -307.0107826828955
+  y: 69.0
+  z: 344.36474071032836
+  yaw: -271.55938720703125
+  pitch: -7.2750678062438965
+  world-name: ''
+ip-address: 90.0.7.160
+last-account-name: lebgdu11
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

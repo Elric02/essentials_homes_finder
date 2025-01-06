@@ -1,0 +1,47 @@
+timestamps:
+  login: 1600186160932
+  lastteleport: 1600186423894
+  logout: 1600186691971
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -647.983019478812
+  y: 64.0
+  z: -638.1188708239673
+  yaw: 180.2958984375
+  pitch: 23.99150848388672
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5174.368850297
+  y: 65.5
+  z: -3718.8607041045316
+  yaw: 150.263671875
+  pitch: 9.900229454040527
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 5202.643282588022
+    y: 65.0
+    z: -3632.6159064796984
+    yaw: 0.5306568145751953
+    pitch: 9.150062561035156
+    world-name: ''
+ip-address: 176.181.79.228
+last-account-name: Luxus09
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

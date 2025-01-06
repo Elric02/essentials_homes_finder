@@ -1,0 +1,43 @@
+timestamps:
+  login: 1491919889300
+  lastteleport: 1491919954542
+  logout: 1491919967207
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 196.24202547462056
+  y: 66.0
+  z: -4.784683008580081
+  yaw: -177.94741821289062
+  pitch: -7.2526021003723145
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: -1.9500000476837158
+  pitch: -5.699999809265137
+  world-name: ''
+ip-address: 109.21.185.66
+last-account-name: killian
+mail:
+- legacy: true
+  read: false
+  message: §e[§rxixenar§e] §r971317 OK, j'ai eu une panne d'internet...mais bon je
+    te rappelerai pour le claim
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

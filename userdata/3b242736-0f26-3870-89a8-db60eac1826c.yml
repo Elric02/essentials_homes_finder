@@ -1,0 +1,64 @@
+timestamps:
+  login: 1478700005312
+  logout: 1478702189251
+  lastteleport: 1478529424425
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5230.739761624893
+  y: 69.0
+  z: 570.1694734544
+  yaw: 16.0118408203125
+  pitch: 21.85302734375
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1964.9271595617286
+  y: 63.0
+  z: 3918.3711589230156
+  yaw: 45.6439208984375
+  pitch: 25.65025520324707
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 1917.7596355801452
+    y: 64.0
+    z: 3945.4815706279674
+    yaw: 149.14895629882812
+    pitch: 10.649956703186035
+    world-name: ''
+  ah:
+    world: ressource
+    x: 6439.699999988079
+    y: 16.0
+    z: -1803.3405118118787
+    yaw: 186.32041931152344
+    pitch: 27.59962272644043
+    world-name: ''
+  b:
+    world: ressource
+    x: 2255.536783011389
+    y: 76.0
+    z: -5677.568667021844
+    yaw: 177.591796875
+    pitch: 15.599980354309082
+    world-name: ''
+money: '0'
+afk: false
+muted: false
+nickname: lucky2176
+ip-address: 82.126.247.7
+last-account-name: lucky2176
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

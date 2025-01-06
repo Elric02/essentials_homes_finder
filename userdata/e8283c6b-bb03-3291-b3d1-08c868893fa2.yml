@@ -1,0 +1,63 @@
+timestamps:
+  login: 1503154928949
+  lastteleport: 1503155639338
+  logout: 1503155714670
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4688.380436301712
+  y: 68.0
+  z: 1603.3495693096393
+  yaw: -235.65011596679688
+  pitch: 8.699995040893555
+  world-name: ''
+homes:
+  cimetier:
+    world: world
+    x: -273.2283485537272
+    y: 71.0
+    z: 4334.101286581686
+    yaw: 75.874267578125
+    pitch: 24.599971771240234
+    world-name: ''
+  lysus:
+    world: world
+    x: -326.1727049535559
+    y: 30.0
+    z: 4225.489757040651
+    yaw: 108.111328125
+    pitch: 29.54999351501465
+    world-name: ''
+  m:
+    world: world
+    x: -177.5
+    y: 69.0
+    z: 4238.5
+    yaw: 265.2336730957031
+    pitch: 18.500741958618164
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -208.53818800358897
+  y: 71.5
+  z: 4194.982909197566
+  yaw: 14.487488746643066
+  pitch: 62.25
+  world-name: ''
+ip-address: 78.218.56.117
+last-account-name: Natok
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

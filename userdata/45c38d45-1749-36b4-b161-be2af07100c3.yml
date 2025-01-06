@@ -1,0 +1,38 @@
+timestamps:
+  login: 1597618650434
+  lastteleport: 1597618639217
+  logout: 1597618824753
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.63303027016306
+  y: 65.0
+  z: 75.9684802640285
+  yaw: -20.570898056030273
+  pitch: 6.178627967834473
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -92.35526371493846
+  y: 73.0
+  z: -2.0809765705111314
+  yaw: 150.44740295410156
+  pitch: 34.23580551147461
+  world-name: ''
+ip-address: 188.141.170.80
+last-account-name: SahQuelPlaisir
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

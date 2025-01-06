@@ -1,0 +1,66 @@
+timestamps:
+  login: 1677782008324
+  lastteleport: 1677783321160
+  logout: 1677783323348
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  kits:
+    stationaute: 1668276086844
+lastlocation:
+  world: b7fb2600-9a6b-4455-aa1e-a8df500c3eeb
+  x: 4163.300000011921
+  y: 14.0
+  z: 3968.699999988079
+  yaw: -109.4593505859375
+  pitch: 5.824355125427246
+  world-name: Donjon
+money: '314.0'
+homes:
+  eopia:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3487.733762614374
+    y: 201.0
+    z: 3718.6678534105286
+    yaw: -10.875184059143066
+    pitch: 37.50000762939453
+    world-name: world
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 5436.728969372724
+    y: 72.0
+    z: 2432.4456814014793
+    yaw: -84.78031158447266
+    pitch: 30.1256103515625
+    world-name: world
+  jolieville:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 4884.699999988079
+    y: 78.0
+    z: 4966.520170811974
+    yaw: 100.58413696289062
+    pitch: 21.818254470825195
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 5436.5
+  y: 72.0
+  z: 2432.5
+  yaw: -84.78031158447266
+  pitch: 30.1256103515625
+  world-name: world
+afk: false
+ip-address: 62.167.164.142
+last-account-name: Yuujin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+nickname: Yuujin

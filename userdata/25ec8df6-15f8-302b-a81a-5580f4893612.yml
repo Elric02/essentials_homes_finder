@@ -1,0 +1,38 @@
+timestamps:
+  login: 1620567626436
+  logout: 1620567666409
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.60221132909456
+  y: 65.0
+  z: 71.52226612914717
+  yaw: 188.79721069335938
+  pitch: 10.440645217895508
+  world-name: ''
+ip-address: 78.246.94.2
+last-account-name: Mine2556
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

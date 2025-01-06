@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514757998077
+  logout: 1514758093500
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.17591215208262
+  y: 63.5
+  z: 66.52225412756803
+  yaw: 231.69688415527344
+  pitch: 5.790646076202393
+  world-name: ''
+ip-address: 62.235.203.149
+last-account-name: YaYaDiablo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

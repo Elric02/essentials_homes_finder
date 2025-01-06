@@ -1,0 +1,38 @@
+timestamps:
+  login: 1563835722686
+  logout: 1563836593809
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2919.7245080227626
+  y: 66.0
+  z: -1010.3840943829305
+  yaw: -192.1058807373047
+  pitch: 13.706303596496582
+  world-name: ''
+ip-address: 109.218.196.117
+last-account-name: BZGogetaashameH
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

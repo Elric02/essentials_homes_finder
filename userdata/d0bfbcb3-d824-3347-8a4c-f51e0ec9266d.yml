@@ -1,0 +1,63 @@
+timestamps:
+  login: 1531059596520
+  lastteleport: 1531061998125
+  logout: 1531062113777
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.69999998807907
+  y: 91.0
+  z: -94.30000001192093
+  yaw: 178.7767333984375
+  pitch: 49.199951171875
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 5987.957427454766
+    y: 71.0
+    z: 4424.045136943956
+    yaw: -0.8294926285743713
+    pitch: 4.3499531745910645
+    world-name: ''
+  merlin:
+    world: world
+    x: 64.39919298284443
+    y: 94.0
+    z: 58.74268060882661
+    yaw: -225.6142578125
+    pitch: 12.000019073486328
+    world-name: ''
+  spawneur:
+    world: world
+    x: 221.91114349807472
+    y: 100.0
+    z: -96.67132273015257
+    yaw: -277.6673889160156
+    pitch: 45.1500129699707
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5985.486271572149
+  y: 76.0625
+  z: 4419.783294338699
+  yaw: -145.27874755859375
+  pitch: 31.79998207092285
+  world-name: ''
+afk: false
+ip-address: 81.48.57.76
+last-account-name: claas
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

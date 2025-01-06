@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.92.118.51
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1705744393883
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705747850424
+  login: 1705746073790
+money: '100.0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -105.70382972661163
+  y: 63.0
+  z: 45.96618731028902
+  yaw: -14.38616943359375
+  pitch: 12.000025749206543
+last-account-name: Elsker1548
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -6.927151919947989
+  y: 71.0
+  z: 236.61770034046953
+  yaw: -143.8521728515625
+  pitch: -0.3003513813018799

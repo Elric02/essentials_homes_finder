@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.51.226.114
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725153132535
+  login: 1725153012544
+money: '0'
+last-account-name: tigre971content
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.1858262664651
+  y: 81.0
+  z: -3111.0030745309073
+  yaw: 166.05230712890625
+  pitch: 23.399917602539062
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.7232378545676
+  y: 81.0
+  z: -3111.0660059886654
+  yaw: -73.64768981933594
+  pitch: 12.599912643432617

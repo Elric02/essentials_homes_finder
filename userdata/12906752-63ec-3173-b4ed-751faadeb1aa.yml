@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.233.204.234
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1648986914998
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1648986941634
+  login: 1648986876052
+money: '0'
+last-account-name: Alane38
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 156.09930081136582
+  y: 65.0
+  z: 83.60103245218448
+  yaw: 61.146331787109375
+  pitch: 17.190711975097656
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 156.4015193611193
+  y: 64.0
+  z: 18.99131359960143
+  yaw: 166.65570068359375
+  pitch: 18.44961929321289

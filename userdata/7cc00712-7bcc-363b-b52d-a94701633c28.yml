@@ -1,0 +1,38 @@
+timestamps:
+  login: 1591201985625
+  lastteleport: 1591202039688
+  logout: 1591202055260
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.6841078166721
+  y: 64.0
+  z: 66.90588679369596
+  yaw: -173.95204162597656
+  pitch: 5.693496227264404
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.20479751193992
+  y: 63.0
+  z: 38.25750373820778
+  yaw: -1.001251220703125
+  pitch: 6.450489044189453
+  world-name: ''
+ip-address: 86.200.29.45
+last-account-name: FuLouMix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

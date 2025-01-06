@@ -1,0 +1,47 @@
+timestamps:
+  login: 1471160939242
+  lastteleport: 1471161498562
+  logout: 1471161520420
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.57283651026856
+  y: 63.0
+  z: 35.46083362919587
+  yaw: -85.7109375
+  pitch: 26.8745174407959
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3453.433575851342
+  y: 73.0
+  z: -6662.298355166122
+  yaw: 21.600067138671875
+  pitch: 86.24983215332031
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -3449.1200478956134
+    y: 72.0
+    z: -6665.289824106873
+    yaw: 9.300124168395996
+    pitch: 26.84983253479004
+    world-name: ''
+afk: false
+ip-address: 89.86.64.146
+last-account-name: SoraGunLe_Diable
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

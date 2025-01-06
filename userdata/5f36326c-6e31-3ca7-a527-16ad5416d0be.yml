@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469827775407
+  lastteleport: 1469828041835
+  logout: 1469828072056
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 134.00574988530235
+  y: 64.5
+  z: -26.472706005933908
+  yaw: -193.68995666503906
+  pitch: 10.89187240600586
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -253.59649728264867
+  y: 75.0
+  z: 319.21822500335355
+  yaw: -271.5592956542969
+  pitch: 13.574922561645508
+  world-name: ''
+ip-address: 109.221.8.195
+last-account-name: Pod
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

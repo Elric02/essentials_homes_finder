@@ -1,0 +1,91 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.65.93.218
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1672747803917
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673021178171
+  login: 1673020940450
+  kits:
+    stationaute: 1671034656456
+    explorateur: 1672766387321
+    vip: 1672766383175
+money: '160358.9299999999998633'
+last-account-name: Titou
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -3170.5831390164426
+  y: 63.9375
+  z: -926.9460372244004
+  yaw: -42.9244384765625
+  pitch: 0.44989073276519775
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -3168.6093946935134
+  y: 58.0
+  z: -912.2848831306815
+  yaw: -0.44661039113998413
+  pitch: 9.449872970581055
+homes:
+  ressource:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 2186.929626579693
+    y: 70.0
+    z: 404.9848646720793
+    yaw: 133.49459838867188
+    pitch: -0.30006641149520874
+  home:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -3155.226402478781
+    y: 64.0
+    z: -910.3370284343001
+    yaw: -31.66814422607422
+    pitch: 7.9499831199646
+  domaine:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -3152.839523251246
+    y: 64.0
+    z: -911.0136140008186
+    yaw: 5.681849479675293
+    pitch: -1.500018835067749
+  shoptitou:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -349.35736257681185
+    y: 69.0
+    z: 362.4764009810533
+    yaw: 178.654541015625
+    pitch: 17.85005760192871
+  arbre:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -3841.0318482426655
+    y: 64.0
+    z: 414.2244376687574
+    yaw: 100.7963638305664
+    pitch: 12.035797119140625
+  mine:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 3009.039371103873
+    y: -17.0
+    z: -1753.4054446669115
+    yaw: -81.5931396484375
+    pitch: 76.65093994140625

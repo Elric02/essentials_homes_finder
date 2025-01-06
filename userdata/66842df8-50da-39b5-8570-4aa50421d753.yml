@@ -1,0 +1,63 @@
+timestamps:
+  login: 1680976117225
+  lastteleport: 1637362629447
+  logout: 1680976244476
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1572.9759815743605
+  y: 65.0
+  z: 4060.6588211442663
+  yaw: -78.2003173828125
+  pitch: 16.35024070739746
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -12.12403498809444
+  y: 73.75
+  z: 132.69999998807907
+  yaw: -176.65029907226562
+  pitch: 90.0
+  world-name: world
+money: '100.0'
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1578.6690566361624
+    y: 64.0
+    z: 4059.9683653663014
+    yaw: 8.19802474975586
+    pitch: 37.24093246459961
+    world-name: world
+  mine:
+    world: Ressource
+    x: 1572.699999988079
+    y: 12.0
+    z: -2000.699999988079
+    yaw: -7.006035804748535
+    pitch: 13.19707202911377
+    world-name: ''
+  zap:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1617.4841465647155
+    y: 71.0
+    z: -2988.027261578394
+    yaw: -203.54205322265625
+    pitch: 10.949835777282715
+afk: false
+ip-address: 82.121.58.21
+last-account-name: Who_Doctor37
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1577132964008
+  logout: 1577133099614
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 253.70097852735265
+  y: 64.0
+  z: 41.91310008241946
+  yaw: 75.91424560546875
+  pitch: -8.803579330444336
+  world-name: ''
+ip-address: 91.86.50.120
+last-account-name: mathieo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

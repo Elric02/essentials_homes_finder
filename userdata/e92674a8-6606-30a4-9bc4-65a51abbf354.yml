@@ -1,0 +1,63 @@
+timestamps:
+  login: 1488385069544
+  lastteleport: 1488386760705
+  logout: 1488386835695
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 224.54311441692172
+  y: 70.0
+  z: -106.91060086107048
+  yaw: 38.64482879638672
+  pitch: -3.600004196166992
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 81.09091037941022
+  y: 64.0
+  z: 41.55040400251683
+  yaw: -131.910400390625
+  pitch: 9.174495697021484
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -135.32385813488833
+    y: 79.0
+    z: -113.69999998807907
+    yaw: -17.761323928833008
+    pitch: 4.6500630378723145
+    world-name: ''
+  base:
+    world: world
+    x: -163.79383912658068
+    y: 50.0
+    z: -137.2143124160991
+    yaw: 22.8845157623291
+    pitch: 10.349990844726562
+    world-name: ''
+  bateau:
+    world: world
+    x: -4997.974369111792
+    y: 71.0
+    z: 260.82385448212176
+    yaw: 1.82073974609375
+    pitch: 16.200014114379883
+    world-name: ''
+ip-address: 109.17.209.195
+last-account-name: irwan30
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

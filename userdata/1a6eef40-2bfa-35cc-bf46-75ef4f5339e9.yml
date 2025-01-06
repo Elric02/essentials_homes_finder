@@ -1,0 +1,38 @@
+timestamps:
+  login: 1612434854865
+  lastteleport: 1612434917090
+  logout: 1612434959241
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.25981389094537
+  y: 64.0
+  z: 66.84293609468645
+  yaw: -159.8031463623047
+  pitch: 11.790667533874512
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2724.7504972519328
+  y: 76.0
+  z: -98.523038410091
+  yaw: -192.97105407714844
+  pitch: 14.414127349853516
+  world-name: ''
+ip-address: 102.101.216.46
+last-account-name: jad_elkadi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477922988885
+  logout: 1477923078400
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.99166857250873
+  y: 63.0
+  z: 7.534804898674976
+  yaw: -272.2972106933594
+  pitch: 35.6474723815918
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 169.4123192134621
+  y: 150.0
+  z: -118.24381158588861
+  yaw: 1.4527587890625
+  pitch: 39.697471618652344
+  world-name: ''
+ip-address: 78.221.239.109
+last-account-name: xProGamer45
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

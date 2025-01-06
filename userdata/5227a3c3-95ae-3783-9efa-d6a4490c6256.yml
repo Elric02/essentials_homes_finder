@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614963841851
+  lastteleport: 1614539820405
+  logout: 1614963968989
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.14315756776227728
+  y: 90.0
+  z: 0.5101305032912686
+  yaw: 89.09725189208984
+  pitch: 6.035839557647705
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Ressource
+  x: 515.5294253975704
+  y: 16.0
+  z: 181.0636590341669
+  yaw: -83.87802124023438
+  pitch: 24.75048828125
+  world-name: ''
+ip-address: 176.191.86.31
+last-account-name: Miwa_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482862041368
+  lastteleport: 1482863292178
+  logout: 1482865061897
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 920.1657356797606
+  y: 11.0
+  z: -1290.401324853557
+  yaw: 254.13720703125
+  pitch: -73.26207733154297
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world_nether
+  x: -4242.217479656093
+  y: 75.0
+  z: 5447.953615311679
+  yaw: 270.0260009765625
+  pitch: 9.750110626220703
+  world-name: ''
+ip-address: 93.28.252.118
+last-account-name: Tolpif
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

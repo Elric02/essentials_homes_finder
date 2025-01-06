@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614616016537
+  logout: 1614616994513
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.76141760821832
+  y: 63.0
+  z: 8.094410553883447
+  yaw: -191.1753387451172
+  pitch: 22.139448165893555
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.82066905331013
+  y: 64.0
+  z: 26.723427372759105
+  yaw: -204.1471405029297
+  pitch: 90.0
+  world-name: ''
+ip-address: 78.248.44.3
+last-account-name: trainercat
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

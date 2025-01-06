@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.51.8.134
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1634377356881
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1634377532182
+  login: 1634377196470
+money: '0'
+last-account-name: Dark_sky_frost
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 148.35482183741317
+  y: 63.0
+  z: 50.91636796216846
+  yaw: 113.64989471435547
+  pitch: -3.5093507766723633
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1471.421457782301
+  y: 66.0
+  z: -2128.9704763123373
+  yaw: -259.58056640625
+  pitch: 16.936023712158203

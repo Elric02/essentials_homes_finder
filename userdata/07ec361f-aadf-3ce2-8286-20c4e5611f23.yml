@@ -1,0 +1,38 @@
+timestamps:
+  login: 1667052048725
+  lastteleport: 1472494427067
+  logout: 1667052147868
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 155.18722633343393
+  y: 70.0
+  z: 466.3037299467799
+  yaw: 78.86973571777344
+  pitch: 18.60484504699707
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 640.5
+  y: 70.0
+  z: 1189.5
+  yaw: 78.86973571777344
+  pitch: 18.60484504699707
+  world-name: world
+ip-address: 91.167.133.254
+last-account-name: MEDERYC59
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

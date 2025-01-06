@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477227912815
+  lastteleport: 1477229010172
+  logout: 1477230382555
+  mute: 1477230697622
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 125.81130063725408
+  y: 64.0
+  z: 27.243167082501362
+  yaw: 54.639896392822266
+  pitch: 18.298112869262695
+  world-name: ''
+money: '0'
+muted: true
+logoutlocation:
+  world: world
+  x: -619.8771981239474
+  y: 64.0
+  z: -729.352890433753
+  yaw: -68.73110961914062
+  pitch: -46.99199676513672
+  world-name: ''
+ip-address: 82.249.215.4
+last-account-name: Zeprof2math
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

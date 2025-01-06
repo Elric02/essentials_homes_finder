@@ -1,0 +1,55 @@
+timestamps:
+  login: 1506205946248
+  lastteleport: 1497165729396
+  logout: 1506206158923
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 366.70676373600276
+  y: 80.0
+  z: -300.0688594059689
+  yaw: -112.56369018554688
+  pitch: 20.85003089904785
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 289.03998310184613
+    y: 77.0
+    z: -321.69494490462176
+    yaw: 258.08587646484375
+    pitch: 3.7500009536743164
+    world-name: ''
+  b:
+    world: world
+    x: 274.28574901832656
+    y: 68.0
+    z: -358.4687275906817
+    yaw: -229.8638153076172
+    pitch: -6.4499921798706055
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 290.12862127198815
+  y: 77.0
+  z: -321.6052721023918
+  yaw: -81.06201171875
+  pitch: 14.24999713897705
+  world-name: ''
+ip-address: 95.168.15.25
+last-account-name: Anthony09500
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

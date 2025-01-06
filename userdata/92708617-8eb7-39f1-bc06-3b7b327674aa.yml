@@ -1,0 +1,63 @@
+timestamps:
+  login: 1622392837192
+  lastteleport: 1622393522535
+  logout: 1622393577531
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4794.199893484752
+  y: 11.0
+  z: -4090.870320329725
+  yaw: 103.492919921875
+  pitch: 6.390192031860352
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 4790.272489915482
+    y: 64.0
+    z: -4013.9003987825645
+    yaw: 187.0162353515625
+    pitch: 15.676799774169922
+    world-name: ''
+  mine:
+    world: world
+    x: 5366.023590275254
+    y: 31.0
+    z: -1452.9666117993586
+    yaw: 180.63401794433594
+    pitch: 10.127930641174316
+    world-name: ''
+  ville:
+    world: world
+    x: -6495.413901911541
+    y: 67.0
+    z: 363.87917921885537
+    yaw: -186.6025390625
+    pitch: 23.933147430419922
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6519.149921163372
+  y: 67.0
+  z: 330.09054790300974
+  yaw: 90.19190979003906
+  pitch: 10.43101978302002
+  world-name: ''
+afk: false
+ip-address: 90.73.243.57
+last-account-name: Telsefox
+npc: true
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

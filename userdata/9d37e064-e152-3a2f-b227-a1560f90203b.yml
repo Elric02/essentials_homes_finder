@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586881635849
+  lastteleport: 1586882402355
+  logout: 1586882478662
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.6215841594235
+  y: 64.0
+  z: 12.32559322503583
+  yaw: -31.222129821777344
+  pitch: 18.028717041015625
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3274.3439521634436
+  y: 29.0
+  z: -5244.203405860239
+  yaw: -304.3221130371094
+  pitch: -9.900016784667969
+  world-name: ''
+ip-address: 82.251.81.91
+last-account-name: Pokule
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

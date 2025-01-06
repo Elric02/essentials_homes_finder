@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508788051632
+  logout: 1508788700004
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 153.57279175820804
+  y: 65.0
+  z: 82.42716656688665
+  yaw: -158.29730224609375
+  pitch: 5.197390079498291
+  world-name: ''
+ip-address: 109.15.108.249
+last-account-name: Awesomeboy4702
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

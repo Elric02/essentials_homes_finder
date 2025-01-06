@@ -1,0 +1,47 @@
+timestamps:
+  login: 1565106100886
+  lastteleport: 1565108077091
+  logout: 1565109279370
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1837.300000011921
+  y: 22.0
+  z: -44.49621692233157
+  yaw: -186.044921875
+  pitch: 82.26985168457031
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 1837.5789218065386
+    y: 78.0
+    z: -47.381924854273514
+    yaw: -222.20449829101562
+    pitch: 26.440746307373047
+    world-name: ''
+afk: false
+logoutlocation:
+  world: Ressource
+  x: 1837.5
+  y: 78.0
+  z: -47.5
+  yaw: -269.94970703125
+  pitch: 53.572086334228516
+  world-name: ''
+ip-address: 81.50.176.204
+last-account-name: killiz
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

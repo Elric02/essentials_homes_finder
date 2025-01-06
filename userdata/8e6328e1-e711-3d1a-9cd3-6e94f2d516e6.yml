@@ -1,0 +1,38 @@
+timestamps:
+  login: 1608151787018
+  logout: 1608152856453
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5919.7142732381535
+  y: 64.0
+  z: 2728.7142635033247
+  yaw: 302.0802001953125
+  pitch: 17.83651351928711
+  world-name: ''
+money: '0'
+ip-address: 91.164.173.181
+last-account-name: Shadoxy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1480863274653
+  lastteleport: 1469709085005
+  logout: 1480863346925
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 206.9844350887648
+  y: 7.5
+  z: -31.112105782325276
+  yaw: -117.38204193115234
+  pitch: 30.560400009155273
+  world-name: ''
+homes:
+  marai:
+    world: world
+    x: -3008.911112016775
+    y: 63.0
+    z: -303.7087553482688
+    yaw: 34.500030517578125
+    pitch: 13.200016975402832
+    world-name: ''
+  xp:
+    world: Ressource
+    x: 206.70055680563203
+    y: 7.5
+    z: -30.31025496896303
+    yaw: 88.63763427734375
+    pitch: 5.699932098388672
+    world-name: ''
+  b:
+    world: world
+    x: 67.54854450261952
+    y: 66.0
+    z: -4556.4625256453955
+    yaw: 163.74070739746094
+    pitch: 72.59994506835938
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 71.69999998807907
+  y: 63.5
+  z: -4541.887433399577
+  yaw: -111.10498809814453
+  pitch: 49.026206970214844
+  world-name: ''
+afk: false
+ip-address: 5.49.223.125
+last-account-name: Rom1lo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

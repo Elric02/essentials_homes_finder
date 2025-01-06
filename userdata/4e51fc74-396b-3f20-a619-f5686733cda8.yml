@@ -1,0 +1,38 @@
+timestamps:
+  login: 1489122882062
+  lastteleport: 1489122911690
+  logout: 1489123830278
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.0771011647992
+  y: 63.0
+  z: 33.904136587198664
+  yaw: -186.3475799560547
+  pitch: 3.097395420074463
+  world-name: ''
+logoutlocation:
+  world: Builder
+  x: 481.69999998807907
+  y: 4.5
+  z: -101.52857402060613
+  yaw: -189.873291015625
+  pitch: 18.899803161621094
+  world-name: ''
+ip-address: 83.115.98.253
+last-account-name: Mister_Bretzel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

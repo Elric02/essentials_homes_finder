@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470576508835
+  logout: 1470576519756
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.50559966126457
+  y: 101.24918707874468
+  z: 26.79142893533118
+  yaw: -217.47332763671875
+  pitch: 10.310699462890625
+  world-name: ''
+ip-address: 79.94.183.247
+last-account-name: laurant789
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

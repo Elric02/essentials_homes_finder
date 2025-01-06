@@ -1,0 +1,38 @@
+timestamps:
+  login: 1606132715655
+  logout: 1606132862987
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.16607845356998
+  y: 64.0
+  z: 21.8602468731536
+  yaw: 189.5478515625
+  pitch: 21.39063835144043
+  world-name: ''
+ip-address: 92.88.81.151
+last-account-name: _PrettyGirl1994_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

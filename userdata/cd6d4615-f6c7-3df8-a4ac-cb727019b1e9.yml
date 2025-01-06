@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592852464648
+  lastteleport: 1592853089077
+  logout: 1592853100183
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -1429.699999988079
+  y: 65.0
+  z: -1966.699999988079
+  yaw: -216.29981994628906
+  pitch: 47.70001983642578
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 157.65839412791146
+  y: 63.0
+  z: 38.692646462564625
+  yaw: -36.3206901550293
+  pitch: 14.428666114807129
+  world-name: ''
+ip-address: 78.252.248.10
+last-account-name: Fall_king_R7
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

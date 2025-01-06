@@ -1,0 +1,55 @@
+npc: false
+last-account-name: bryjnolf
+money: '250.0'
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.22.214.5
+afk: false
+socialspy: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1671648015799
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671649127404
+  login: 1671648735396
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -1390.4822609266237
+  y: 57.0
+  z: -2486.2718580459145
+  yaw: -22.97866439819336
+  pitch: -1.1668155193328857
+homes:
+  steampunk:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -509.4591031771553
+    y: 69.0
+    z: -2297.699999988079
+    yaw: 162.66400146484375
+    pitch: 90.0
+  survie:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6227.5
+    y: 64.0
+    z: 192.5
+    yaw: 23.459392547607422
+    pitch: 11.698882102966309
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -2382.0641490888215
+  y: -30.9375
+  z: -2868.6304439770875
+  yaw: 107.84385681152344
+  pitch: 3.4497580528259277

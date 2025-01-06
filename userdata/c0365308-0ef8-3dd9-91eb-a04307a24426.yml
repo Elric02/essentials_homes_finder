@@ -1,0 +1,63 @@
+timestamps:
+  login: 1474209229009
+  lastteleport: 1474209034826
+  logout: 1474209233981
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -623.5
+  y: 64.0
+  z: -738.5
+  yaw: 278.4532470703125
+  pitch: 43.64997482299805
+  world-name: ''
+money: '0'
+homes:
+  thomshop:
+    world: world
+    x: -623.5499425231209
+    y: 64.0
+    z: -738.6443259370557
+    yaw: 278.4532470703125
+    pitch: 43.64997482299805
+    world-name: ''
+  shop:
+    world: world
+    x: -5257.989865396661
+    y: 69.0
+    z: 574.8529587199915
+    yaw: 6.86273193359375
+    pitch: 18.55303192138672
+    world-name: ''
+  end:
+    world: world_the_end
+    x: -4740.699999988079
+    y: 103.0
+    z: -1878.699999988079
+    yaw: 307.4998779296875
+    pitch: -42.449981689453125
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 65.3941186543598
+  y: 67.0
+  z: 582.7389727655479
+  yaw: -96.3629150390625
+  pitch: 54.000022888183594
+  world-name: ''
+afk: false
+muted: false
+ip-address: 77.199.234.111
+last-account-name: Thom_Creator
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

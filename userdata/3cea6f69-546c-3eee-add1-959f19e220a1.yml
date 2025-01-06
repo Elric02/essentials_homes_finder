@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617281295959
+  logout: 1617281463121
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 69.92280246592003
+  y: 64.0
+  z: -18.885256602744672
+  yaw: -132.96463012695312
+  pitch: 13.590688705444336
+  world-name: ''
+ip-address: 194.230.146.210
+last-account-name: williteix27
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

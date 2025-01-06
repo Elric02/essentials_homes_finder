@@ -1,0 +1,38 @@
+timestamps:
+  login: 1493631816125
+  lastteleport: 1493226099310
+  logout: 1493631833406
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 140.7969978084393
+  y: 63.5
+  z: 20.34152338354786
+  yaw: -202.1108856201172
+  pitch: 13.374516487121582
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 154.4963826824751
+  y: 64.0
+  z: 23.952439606705454
+  yaw: -180.5109100341797
+  pitch: 6.624515056610107
+  world-name: ''
+money: '0'
+ip-address: 86.238.225.199
+last-account-name: lahcenedu91
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

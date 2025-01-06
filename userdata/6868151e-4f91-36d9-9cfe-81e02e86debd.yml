@@ -1,0 +1,38 @@
+timestamps:
+  login: 1555348749203
+  lastteleport: 1555340697569
+  logout: 1555349619280
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.2413066612989
+  y: 27.0
+  z: 20.52614277446081
+  yaw: 277.7244567871094
+  pitch: 41.30398178100586
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4253.676692520669
+  y: 54.0
+  z: 911.6466924223652
+  yaw: 274.51849365234375
+  pitch: 88.72232818603516
+  world-name: ''
+afk: false
+ip-address: 91.88.80.112
+last-account-name: MrMammochon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1515178794558
+  lastteleport: 1515178998410
+  logout: 1515179242670
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5649.608208606434
+  y: 86.0
+  z: -2577.2661495191837
+  yaw: -248.5259552001953
+  pitch: 26.062135696411133
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1484.348337291999
+  y: 67.0625
+  z: -2146.834313933248
+  yaw: -8.689638137817383
+  pitch: 30.452360153198242
+  world-name: ''
+homes:
+  home:
+    world: Ressource
+    x: 599.6490638989848
+    y: 5.0
+    z: -157.49386469857623
+    yaw: 262.80108642578125
+    pitch: 3.5997376441955566
+    world-name: ''
+  tour:
+    world: world
+    x: 169.6396451127476
+    y: 150.0
+    z: -118.64746296840545
+    yaw: 358.329833984375
+    pitch: 32.2786750793457
+    world-name: ''
+  base:
+    world: world
+    x: 5630.054604960868
+    y: 81.0
+    z: -2584.0915946665014
+    yaw: 99.47384643554688
+    pitch: 15.562138557434082
+    world-name: ''
+afk: false
+ip-address: 91.86.124.181
+last-account-name: joesncb
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

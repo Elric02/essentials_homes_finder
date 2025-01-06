@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486213001408
+  logout: 1486213242857
+  lastteleport: 1486213170451
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.59416045769493
+  y: 63.0
+  z: 49.463262328810686
+  yaw: -247.14556884765625
+  pitch: -6.568772315979004
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -152.62541851468862
+  y: 54.78837667300025
+  z: 564.1693813203045
+  yaw: -47.1640625
+  pitch: 43.86181640625
+  world-name: ''
+ip-address: 38.133.52.237
+last-account-name: youva
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

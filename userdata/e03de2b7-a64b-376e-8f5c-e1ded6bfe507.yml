@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498849371657
+  lastteleport: 1488373357282
+  logout: 1498849416384
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2982.2887145102814
+  y: 64.0
+  z: 1662.9198355732958
+  yaw: 142.80006408691406
+  pitch: 16.949995040893555
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 190.26946560474596
+  y: 63.0
+  z: 13.366871108045194
+  yaw: -133.56130981445312
+  pitch: 9.924515724182129
+  world-name: ''
+ip-address: 86.210.29.31
+last-account-name: StuntreKGaming
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

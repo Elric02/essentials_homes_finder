@@ -1,0 +1,47 @@
+timestamps:
+  login: 1534162371074
+  lastteleport: 1534162215927
+  logout: 1534162670420
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1672.3190014215425
+  y: 60.0
+  z: -5150.835036168422
+  yaw: 300.89874267578125
+  pitch: 85.20004272460938
+  world-name: ''
+money: '0'
+homes:
+  maison__le:
+    world: world
+    x: 1671.097307452328
+    y: 64.0
+    z: -5151.284428292787
+    yaw: 297.74859619140625
+    pitch: 9.300018310546875
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 1673.457537995431
+  y: 49.0
+  z: -5148.237984744396
+  yaw: -151.05218505859375
+  pitch: 12.00009536743164
+  world-name: ''
+ip-address: 90.26.26.164
+last-account-name: boitier
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

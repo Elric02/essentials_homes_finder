@@ -1,0 +1,55 @@
+timestamps:
+  login: 1599412555943
+  logout: 1599413144643
+  lastteleport: 1599412768594
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5871.131027347528
+  y: 79.0
+  z: -2622.935010948835
+  yaw: 38.74684143066406
+  pitch: 24.29999542236328
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5740.470974239304
+  y: 77.0
+  z: -2631.5469389170357
+  yaw: -158.05874633789062
+  pitch: 29.999893188476562
+  world-name: ''
+money: '0'
+homes:
+  mama91:
+    world: world
+    x: 5700.828737825162
+    y: 83.0
+    z: -2568.6813663546236
+    yaw: -234.1074676513672
+    pitch: 19.79986572265625
+    world-name: ''
+  maison:
+    world: world
+    x: 5854.349560301483
+    y: 85.0
+    z: -2591.2761934402843
+    yaw: -181.75115966796875
+    pitch: 36.899898529052734
+    world-name: ''
+ip-address: 93.7.78.6
+last-account-name: Maxtrunks_ytb
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1501280313840
+  lastteleport: 1501281605826
+  logout: 1501282030701
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3407.462428091623
+  y: 74.0
+  z: 2430.1364443656857
+  yaw: -274.9499816894531
+  pitch: -10.050010681152344
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -3403.5
+    y: 74.0
+    z: 2427.5
+    yaw: -296.3999938964844
+    pitch: 43.94999694824219
+    world-name: ''
+  minage:
+    world: Ressource
+    x: 4841.367382219358
+    y: 56.0
+    z: -1195.445685507488
+    yaw: -330.3001708984375
+    pitch: 83.10000610351562
+    world-name: ''
+  vole:
+    world: world
+    x: -5432.583577171062
+    y: 78.0
+    z: 1606.0865426827656
+    yaw: -258.0528564453125
+    pitch: 27.59998893737793
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -5431.277147311816
+  y: 78.0
+  z: 1605.4483805781133
+  yaw: -258.0528564453125
+  pitch: 27.749988555908203
+  world-name: ''
+afk: false
+muted: false
+ip-address: 77.145.77.23
+last-account-name: 007maxime
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

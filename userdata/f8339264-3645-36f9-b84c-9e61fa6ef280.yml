@@ -1,0 +1,38 @@
+timestamps:
+  login: 1495815023882
+  lastteleport: 1495815066667
+  logout: 1495815082257
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.10379767970073
+  y: 66.0
+  z: -4.811331830232138
+  yaw: -172.84738159179688
+  pitch: -2.452596664428711
+  world-name: ''
+logoutlocation:
+  world: world_the_end
+  x: 0.5
+  y: 62.0
+  z: 0.5
+  yaw: 335.2441711425781
+  pitch: 74.55000305175781
+  world-name: ''
+ip-address: 199.188.236.230
+last-account-name: RosaFleur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

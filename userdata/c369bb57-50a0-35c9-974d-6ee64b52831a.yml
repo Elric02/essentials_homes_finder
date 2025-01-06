@@ -1,0 +1,38 @@
+timestamps:
+  login: 1465402654434
+  logout: 1465403079521
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 163.06350431921885
+  y: 27.0
+  z: 20.564186463335055
+  yaw: -87.7467269897461
+  pitch: 10.916068077087402
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -46.472516084785056
+  y: 62.073264324665075
+  z: -512.5800633171782
+  yaw: 205.76556396484375
+  pitch: -4.798263072967529
+  world-name: ''
+ip-address: 90.12.80.76
+last-account-name: _TaroX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

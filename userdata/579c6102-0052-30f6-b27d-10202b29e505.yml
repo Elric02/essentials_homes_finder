@@ -1,0 +1,38 @@
+timestamps:
+  login: 1682263890761
+  lastteleport: 1630576549783
+  logout: 1682263916516
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 149.66317855313648
+  y: 63.0
+  z: 26.51705363594081
+  yaw: -130.4458465576172
+  pitch: 10.65003490447998
+  world-name: world
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 149.66317855313648
+  y: 63.0
+  z: 26.51705363594081
+  yaw: -130.4458465576172
+  pitch: 10.65003490447998
+  world-name: world
+ip-address: 91.162.122.139
+last-account-name: cocodilyco
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

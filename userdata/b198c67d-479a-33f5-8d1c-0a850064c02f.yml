@@ -1,0 +1,63 @@
+timestamps:
+  login: 1540853878722
+  lastteleport: 1540854085981
+  logout: 1540854100268
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5783.250644464716
+  y: 12.0
+  z: -1053.074999988079
+  yaw: 177.82354736328125
+  pitch: -14.400019645690918
+  world-name: ''
+homes:
+  h:
+    world: world
+    x: -5642.8857242874155
+    y: 64.0
+    z: -1535.0383533168363
+    yaw: -80.86148834228516
+    pitch: 12.149983406066895
+    world-name: ''
+  x:
+    world: world
+    x: -5749.0756618515115
+    y: 68.0625
+    z: -1033.1623918244009
+    yaw: -13.875946044921875
+    pitch: 19.199995040893555
+    world-name: ''
+  c:
+    world: world
+    x: -5906.5139469843425
+    y: 63.0
+    z: -1578.378214138449
+    yaw: 35.538238525390625
+    pitch: 20.999988555908203
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5906.328470254587
+  y: 64.0
+  z: -1568.9606344300853
+  yaw: 183.43812561035156
+  pitch: 10.799986839294434
+  world-name: ''
+afk: false
+ip-address: 82.244.106.175
+last-account-name: Sw0rk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1525976907183
+  lastteleport: 1525977102171
+  logout: 1525977479342
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 207.56070209163136
+  y: 63.0
+  z: -62.01642301410645
+  yaw: -197.03244018554688
+  pitch: 14.637675285339355
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.17525472038272
+  y: 66.5
+  z: 96.12226804860853
+  yaw: 57.16888427734375
+  pitch: 10.822515487670898
+  world-name: ''
+ip-address: 109.88.150.74
+last-account-name: ManoraptorZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

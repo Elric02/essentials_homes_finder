@@ -1,0 +1,38 @@
+timestamps:
+  login: 1544908950753
+  logout: 1544908994160
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.6099510975828
+  y: 65.0
+  z: 88.88800029753354
+  yaw: 144.8469696044922
+  pitch: 45.690670013427734
+  world-name: ''
+ip-address: 88.124.10.86
+last-account-name: jungkook311
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

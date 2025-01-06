@@ -1,0 +1,47 @@
+timestamps:
+  login: 1615054027853
+  lastteleport: 1615055312439
+  logout: 1615055423265
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 3277.7728745233885
+  y: 73.0
+  z: 1764.8343981423372
+  yaw: 24.613037109375
+  pitch: 13.354841232299805
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1438.4013522420078
+    y: 69.0
+    z: -3614.6153124765697
+    yaw: -18.076129913330078
+    pitch: 5.961308002471924
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 3096.7763702920483
+  y: 64.0
+  z: 1705.4398032521021
+  yaw: 124.14501953125
+  pitch: 24.052410125732422
+  world-name: ''
+ip-address: 2.14.177.223
+last-account-name: Renectone
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

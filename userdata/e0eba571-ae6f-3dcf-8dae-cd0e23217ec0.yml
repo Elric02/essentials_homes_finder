@@ -1,0 +1,38 @@
+timestamps:
+  login: 1603288322387
+  lastteleport: 1603288952908
+  logout: 1603289190557
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 130.79153655515213
+  y: 64.0
+  z: 52.164641523609774
+  yaw: 83.224365234375
+  pitch: 78.15010070800781
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 95.24698968332518
+  y: 64.0
+  z: 34.772135097765656
+  yaw: 18.87904167175293
+  pitch: 66.15003204345703
+  world-name: ''
+ip-address: 86.237.214.228
+last-account-name: lebosse1000
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

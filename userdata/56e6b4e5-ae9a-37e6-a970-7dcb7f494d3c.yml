@@ -1,0 +1,38 @@
+timestamps:
+  login: 1603657957910
+  logout: 1603658050419
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.74586230222516
+  y: 63.0
+  z: 59.500704167762095
+  yaw: 179.69168090820312
+  pitch: -1.7070634365081787
+  world-name: ''
+ip-address: 90.49.156.209
+last-account-name: Welloux
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

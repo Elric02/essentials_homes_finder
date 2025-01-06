@@ -1,0 +1,63 @@
+timestamps:
+  login: 1655552354450
+  lastteleport: 1655552660438
+  logout: 1655552715792
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1447.0199589264896
+  y: 53.0625
+  z: -2226.246485372438
+  yaw: -58.371490478515625
+  pitch: 5.0999908447265625
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1487.5930082606767
+  y: 69.0
+  z: -2226.533669997612
+  yaw: -86.0851821899414
+  pitch: 16.64999771118164
+  world-name: world
+money: '0'
+afk: false
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1440.6520575580546
+    y: 64.0
+    z: -2229.760384013076
+    yaw: 187.14697265625
+    pitch: 14.385467529296875
+    world-name: world
+  pou:
+    world: Ressource
+    x: 1464.6141757468504
+    y: 70.0
+    z: -204.57471728561012
+    yaw: 264.44830322265625
+    pitch: 6.9358930587768555
+    world-name: ''
+  sable_:
+    world: world
+    x: -4423.300000011921
+    y: 75.0
+    z: -1372.6448761958839
+    yaw: 93.44782257080078
+    pitch: 7.199998378753662
+    world-name: ''
+ip-address: 88.169.46.82
+last-account-name: evegames73
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

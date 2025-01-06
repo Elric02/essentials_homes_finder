@@ -1,0 +1,38 @@
+timestamps:
+  login: 1518349840783
+  lastteleport: 1518350393924
+  logout: 1518351097207
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.59828273661026
+  y: 64.552625
+  z: 17.140476073242873
+  yaw: -180.621826171875
+  pitch: 23.249990463256836
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2093.3187875792055
+  y: 65.0
+  z: -3916.885138465504
+  yaw: -347.845703125
+  pitch: 37.04999923706055
+  world-name: ''
+money: '0'
+ip-address: 176.154.44.96
+last-account-name: zutagaime
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

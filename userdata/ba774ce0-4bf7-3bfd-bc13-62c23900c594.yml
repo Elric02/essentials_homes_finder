@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617061041465
+  lastteleport: 1617061471728
+  logout: 1617062799672
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2702.016119675939
+  y: 76.5
+  z: -57.88299138516659
+  yaw: 168.5286865234375
+  pitch: 5.471799850463867
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3586.925000011921
+  y: 39.0
+  z: -3650.687107312476
+  yaw: -95.500732421875
+  pitch: 13.712088584899902
+  world-name: ''
+ip-address: 109.12.38.54
+last-account-name: omrane
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

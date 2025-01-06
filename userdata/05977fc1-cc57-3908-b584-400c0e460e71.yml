@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487257744333
+  logout: 1487257888115
+  lastteleport: 1487257555645
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 336.39525973267837
+  y: 78.0
+  z: -183.30000001192093
+  yaw: -275.3108825683594
+  pitch: 79.64991760253906
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 62.834579476062565
+  y: 65.0
+  z: 105.30000001192093
+  yaw: -166.5570068359375
+  pitch: 34.34978103637695
+  world-name: ''
+muted: false
+ip-address: 90.112.249.212
+last-account-name: forzacesare
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

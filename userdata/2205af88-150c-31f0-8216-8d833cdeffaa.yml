@@ -1,0 +1,63 @@
+timestamps:
+  login: 1586775538249
+  lastteleport: 1586775606087
+  logout: 1586775665981
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 159.5
+  y: 63.0
+  z: 61.5
+  yaw: -103.93419647216797
+  pitch: 4.473418235778809
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 584.4665666693303
+    y: 58.0
+    z: 1385.0359987803029
+    yaw: 222.44979858398438
+    pitch: 13.050016403198242
+    world-name: ''
+  acdc_zdnl:
+    world: world
+    x: 154.79871812873574
+    y: 63.0
+    z: 62.692941441268765
+    yaw: -103.93419647216797
+    pitch: 4.473418235778809
+    world-name: ''
+  deux:
+    world: world
+    x: 159.0543193529052
+    y: 63.0
+    z: 61.640729763786695
+    yaw: -103.93419647216797
+    pitch: 4.473418235778809
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 607.6999999880791
+  y: 71.0
+  z: 1304.8889452532815
+  yaw: -86.33819580078125
+  pitch: 25.495361328125
+  world-name: ''
+money: '0'
+ip-address: 88.122.145.18
+last-account-name: foudro
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

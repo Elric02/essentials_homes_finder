@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.94.74.216
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1644094634724
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644098038819
+  login: 1644098014788
+money: '0'
+last-account-name: benji13010
+lastlocation:
+  world: 5ee84d9d-f81d-4fa1-a835-d492026592a9
+  world-name: Ressource
+  x: -4265.430116728298
+  y: 97.0
+  z: -3247.9141195677057
+  yaw: 2.701629638671875
+  pitch: 11.138378143310547
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2805.445156074194
+    y: 50.0
+    z: -4745.626967515681
+    yaw: -78.15008544921875
+    pitch: 9.300003051757812
+  lapin:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6254.388239102009
+    y: 67.0
+    z: -3203.518196583091
+    yaw: 74.28234100341797
+    pitch: 2.4031543731689453
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 2817.22196793244
+  y: 50.0
+  z: -4754.799714329277
+  yaw: -147.70481872558594
+  pitch: 12.438203811645508

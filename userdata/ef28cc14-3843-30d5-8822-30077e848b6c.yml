@@ -1,0 +1,38 @@
+timestamps:
+  login: 1603134535627
+  lastteleport: 1603135005450
+  logout: 1603135166148
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -0.37094167213852697
+  y: 89.5
+  z: 17.511572353431223
+  yaw: -219.44679260253906
+  pitch: 12.935920715332031
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.2307492275243
+  y: 63.0
+  z: 53.98162169157952
+  yaw: -40.88427734375
+  pitch: 8.128730773925781
+  world-name: ''
+ip-address: 85.190.73.1
+last-account-name: Profildepoirreau
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

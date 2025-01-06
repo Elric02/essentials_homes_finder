@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487670251602
+  lastteleport: 1487670646568
+  logout: 1487671698467
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.59886122126886
+  y: 63.0
+  z: 53.07716514134899
+  yaw: -205.1109619140625
+  pitch: 35.69999313354492
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 143.25963971345283
+  y: 64.0
+  z: 17.80397144885914
+  yaw: -285.36090087890625
+  pitch: 3.4745144844055176
+  world-name: ''
+ip-address: 176.190.210.196
+last-account-name: melolili
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

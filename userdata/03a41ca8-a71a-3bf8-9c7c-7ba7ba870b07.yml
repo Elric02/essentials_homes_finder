@@ -1,0 +1,38 @@
+timestamps:
+  login: 1525419916948
+  logout: 1525419952156
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.5
+  y: 65.0
+  z: 100.5
+  yaw: -83.76029968261719
+  pitch: 5.727052211761475
+  world-name: ''
+ip-address: 82.248.157.35
+last-account-name: baltozouzou1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

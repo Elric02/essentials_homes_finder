@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477247324603
+  logout: 1477247388089
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 172.14519371275455
+  y: 63.0
+  z: 19.817977375492205
+  yaw: -274.24737548828125
+  pitch: 2.7973990440368652
+  world-name: ''
+ip-address: 2.0.227.116
+last-account-name: Hypoxx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

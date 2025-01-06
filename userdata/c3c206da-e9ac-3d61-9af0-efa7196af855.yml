@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485523583820
+  logout: 1485523661143
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.97215231778864
+  y: 64.0
+  z: 16.740044968287865
+  yaw: -228.64735412597656
+  pitch: 9.847402572631836
+  world-name: ''
+ip-address: 86.219.117.176
+last-account-name: minecrafi300
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

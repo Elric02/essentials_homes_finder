@@ -1,0 +1,38 @@
+timestamps:
+  login: 1473295295964
+  lastteleport: 1473295357944
+  logout: 1473295430840
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.63768106598494
+  y: 63.0
+  z: 48.15077770440026
+  yaw: 105.23906707763672
+  pitch: -4.625483989715576
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5294.206558866017
+  y: 70.0
+  z: 590.742919283327
+  yaw: -35.43790817260742
+  pitch: 4.303011894226074
+  world-name: ''
+ip-address: 91.181.170.240
+last-account-name: Grindelwac
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

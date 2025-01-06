@@ -1,0 +1,122 @@
+timestamps:
+  login: 1584650272798
+  logout: 1584651094994
+  lastteleport: 1584650585537
+  kits:
+    dtools: 1467415644089
+    vip: 1467415756870
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Test
+  x: 1392.4409812386739
+  y: 4.0
+  z: -2018.380121222129
+  yaw: -158.1876983642578
+  pitch: 16.95001792907715
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 169.8219858954249
+  y: 63.0
+  z: 17.05185429856419
+  yaw: -156.3208465576172
+  pitch: 33.328609466552734
+  world-name: ''
+money: '0'
+socialspy: false
+homes:
+  bryville:
+    world: world
+    x: -509.36220769795136
+    y: 69.0
+    z: -2359.437917877924
+    yaw: -183.705078125
+    pitch: 79.95001220703125
+    world-name: ''
+  spawnminijeu:
+    world: Test
+    x: 956.6505985235764
+    y: 8.0
+    z: 201.60223079138513
+    yaw: -349.1966552734375
+    pitch: 28.94999122619629
+    world-name: ''
+  basecreeper:
+    world: world
+    x: 6377.41152399098
+    y: 64.0
+    z: -411.59978905352756
+    yaw: -7.05029296875
+    pitch: 36.149967193603516
+    world-name: ''
+  testmoderne:
+    world: Test
+    x: 324.5
+    y: 4.0
+    z: 567.5
+    yaw: -174.3004150390625
+    pitch: 6.449991226196289
+    world-name: ''
+  villemoderne:
+    world: world
+    x: 6430.104013848625
+    y: 70.0
+    z: -5105.550377851308
+    yaw: -128.3351287841797
+    pitch: 16.199838638305664
+    world-name: ''
+  villa:
+    world: world
+    x: -3702.3791711235326
+    y: 67.0
+    z: 6997.7600988818285
+    yaw: -0.015462318435311317
+    pitch: 90.0
+    world-name: ''
+  chateaux:
+    world: world
+    x: -730.3788843270991
+    y: 74.0
+    z: -5078.124627899356
+    yaw: -94.05021667480469
+    pitch: 19.050037384033203
+    world-name: ''
+  katset:
+    world: world
+    x: 4835.481929661501
+    y: 78.0
+    z: 4955.751009723548
+    yaw: -98.18282318115234
+    pitch: 22.499967575073242
+    world-name: ''
+  merlin:
+    world: world
+    x: 63.431023829264234
+    y: 94.0
+    z: 59.886064430750174
+    yaw: -180.919921875
+    pitch: 0.6287094950675964
+    world-name: ''
+  endportail:
+    world: Test
+    x: 1391.3989174511726
+    y: 4.0
+    z: -2017.4337456988121
+    yaw: -181.73765563964844
+    pitch: 55.499996185302734
+    world-name: ''
+afk: false
+godmode: false
+ip-address: 90.17.223.82
+last-account-name: ooshadowss
+teleportenabled: true
+teleportauto: false
+muted: false
+jailed: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

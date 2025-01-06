@@ -1,0 +1,38 @@
+timestamps:
+  login: 1628865835392
+  lastteleport: 1628865920123
+  logout: 1628866458766
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.91768671210548
+  y: 63.0
+  z: 61.10326485051202
+  yaw: -91.70364379882812
+  pitch: -1.1093430519104004
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 157.61229320097024
+  y: 64.0
+  z: 20.835109550494373
+  yaw: -123.99543762207031
+  pitch: 26.675870895385742
+  world-name: ''
+ip-address: 88.139.216.208
+last-account-name: mista_bleu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

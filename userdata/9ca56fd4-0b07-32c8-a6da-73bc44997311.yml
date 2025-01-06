@@ -1,0 +1,63 @@
+timestamps:
+  login: 1630583407557
+  lastteleport: 1630585512797
+  logout: 1630585837129
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6638.722332959389
+  y: 60.0
+  z: 351.3412123349925
+  yaw: 102.00140380859375
+  pitch: 40.79998016357422
+  world-name: ''
+homes:
+  base:
+    world: Ressource
+    x: -778.9272052712796
+    y: 64.0
+    z: -1567.5968520092376
+    yaw: 227.75094604492188
+    pitch: 26.699989318847656
+    world-name: ''
+  backup:
+    world: world
+    x: 6644.237500011921
+    y: 64.0
+    z: 346.22417625168805
+    yaw: 93.4503173828125
+    pitch: 21.75001335144043
+    world-name: ''
+  ice:
+    world: Ressource
+    x: 1596.300000011921
+    y: 68.0
+    z: -4279.385527310211
+    yaw: -258.6002502441406
+    pitch: 21.15000343322754
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.33928509403003
+  y: 64.0
+  z: 16.633515832912217
+  yaw: -261.3953857421875
+  pitch: 6.5758748054504395
+  world-name: ''
+ip-address: 86.244.174.211
+last-account-name: Leavain
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

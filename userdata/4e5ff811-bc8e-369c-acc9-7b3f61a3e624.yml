@@ -1,0 +1,38 @@
+timestamps:
+  login: 1592168967237
+  lastteleport: 1592169014134
+  logout: 1592169113033
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.5
+  y: 65.0
+  z: 100.5
+  yaw: 218.95541381835938
+  pitch: 5.949987411499023
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 689.6777505649617
+  y: 61.5
+  z: -5499.384233052534
+  yaw: 336.00677490234375
+  pitch: 42.25297164916992
+  world-name: ''
+ip-address: 92.188.108.161
+last-account-name: EscanorSAMAa
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1488741999651
+  logout: 1488742023188
+  lastteleport: 1483267975897
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2014.1868744007236
+  y: 64.875
+  z: -2654.4637474223287
+  yaw: -67.2249755859375
+  pitch: 47.04975128173828
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4848.603483854914
+  y: 65.09375
+  z: -462.91828258722467
+  yaw: -224.36892700195312
+  pitch: 2.473210334777832
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  shop:
+    world: world
+    x: -4835.718227283572
+    y: 75.0
+    z: -462.58503355061896
+    yaw: -321.4765930175781
+    pitch: 11.031484603881836
+    world-name: ''
+  base:
+    world: world
+    x: 2000.3136245036953
+    y: 64.0
+    z: -2654.794215187018
+    yaw: -312.01751708984375
+    pitch: 8.208368301391602
+    world-name: ''
+ip-address: 86.213.18.125
+last-account-name: Eptac
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

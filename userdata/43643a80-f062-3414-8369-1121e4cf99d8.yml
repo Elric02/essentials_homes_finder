@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614709854085
+  logout: 1614709892645
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.8491631130042
+  y: 63.0
+  z: 53.756399749497305
+  yaw: -180.49951171875
+  pitch: 14.040237426757812
+  world-name: ''
+afk: false
+ip-address: 86.244.28.182
+last-account-name: Billboule
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1467714458865
+  logout: 1467722671347
+  lastteleport: 1467722565221
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: 154.53833762938882
+  y: 72.0
+  z: -82.58152315546793
+  yaw: 342.1486511230469
+  pitch: 2.3999948501586914
+  world-name: ''
+afk: false
+logoutlocation:
+  world: Ressource
+  x: 202.41205898818905
+  y: 63.0
+  z: 405.11430337708066
+  yaw: 163.8831787109375
+  pitch: 16.35001564025879
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 201.88194634350086
+    y: 63.0
+    z: 401.1635866246007
+    yaw: 284.48297119140625
+    pitch: 21.149965286254883
+    world-name: ''
+  nether:
+    world: world_nether
+    x: 144.8392074321969
+    y: 74.0
+    z: -80.94094597771102
+    yaw: -97.95135498046875
+    pitch: 2.2499871253967285
+    world-name: ''
+ip-address: 90.105.209.46
+last-account-name: marshaldu44
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

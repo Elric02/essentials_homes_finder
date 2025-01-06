@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498483628297
+  lastteleport: 1498483876285
+  logout: 1498484061872
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.71423065143082
+  y: 63.0
+  z: 42.17649577757365
+  yaw: -342.2108459472656
+  pitch: 0.4745153784751892
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4907.507123263553
+  y: 71.0
+  z: -509.9794564524338
+  yaw: -174.772705078125
+  pitch: -4.500009059906006
+  world-name: ''
+ip-address: 78.235.94.205
+last-account-name: sasou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

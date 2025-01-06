@@ -1,0 +1,38 @@
+timestamps:
+  login: 1523437014477
+  lastteleport: 1523437537906
+  logout: 1523437651694
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.95231676018963
+  y: 64.0
+  z: 16.72225055312458
+  yaw: -118.22080993652344
+  pitch: 9.778670310974121
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 30.029237420930986
+  y: 17.0
+  z: -24.61896854436372
+  yaw: -6.03515625
+  pitch: 1.5000163316726685
+  world-name: ''
+ip-address: 88.161.156.220
+last-account-name: xolo4
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

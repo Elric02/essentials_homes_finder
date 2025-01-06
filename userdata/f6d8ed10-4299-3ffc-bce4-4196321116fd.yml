@@ -1,0 +1,38 @@
+timestamps:
+  login: 1554586069990
+  logout: 1554586233833
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 179.56422509701574
+  y: 63.0
+  z: 64.07136792205168
+  yaw: 238.89694213867188
+  pitch: 11.100004196166992
+  world-name: ''
+ip-address: 82.238.103.30
+last-account-name: zrazrazfza
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

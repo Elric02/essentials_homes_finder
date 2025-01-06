@@ -1,0 +1,47 @@
+timestamps:
+  login: 1518115204923
+  lastteleport: 1518124172918
+  logout: 1518124587455
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2506.145354764669
+  y: 35.0
+  z: -6611.300000011921
+  yaw: -359.5504150390625
+  pitch: 7.800109386444092
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5352.351387293437
+  y: 64.0
+  z: 611.6022292008719
+  yaw: 195.30230712890625
+  pitch: 36.60009002685547
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 5352.012242949135
+    y: 64.0
+    z: 612.5213976288018
+    yaw: 96.45246124267578
+    pitch: 20.550079345703125
+    world-name: ''
+ip-address: 78.223.115.189
+last-account-name: Waayllander
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

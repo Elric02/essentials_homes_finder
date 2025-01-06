@@ -1,0 +1,38 @@
+timestamps:
+  login: 1562167389542
+  logout: 1562169422829
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -4080.5243389144803
+  y: 17.0
+  z: -3773.699999988079
+  yaw: 203.439453125
+  pitch: 14.70010757446289
+  world-name: ''
+ip-address: 82.252.139.96
+last-account-name: Kazokuu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477488261407
+  lastteleport: 1477159792088
+  mute: 0
+  logout: 1477488863776
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1923.6532002145602
+  y: 55.0
+  z: -2386.699999988079
+  yaw: -210.7006378173828
+  pitch: -64.29121398925781
+  world-name: ''
+muted: true
+logoutlocation:
+  world: world
+  x: 143.63346918521356
+  y: 61.0
+  z: 72.70772061046505
+  yaw: -342.8958435058594
+  pitch: 65.19361114501953
+  world-name: ''
+ip-address: 89.90.37.207
+last-account-name: REMY
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

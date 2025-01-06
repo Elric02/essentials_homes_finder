@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.196.81.174
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682768699611
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682768986989
+  login: 1682768175285
+money: '350.0'
+last-account-name: oeildelynx
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3525.5871290687246
+  y: 216.0625
+  z: 3622.2886950483658
+  yaw: 93.9807357788086
+  pitch: 22.800067901611328
+homes:
+  home:
+    world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+    world-name: plot
+    x: 72.01447288747329
+    y: 65.0
+    z: 362.853852029717
+    yaw: -69.30075073242188
+    pitch: 42.89963912963867
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -396.7837217263721
+  y: 101.0
+  z: 469.9664852739668
+  yaw: -21.0028076171875
+  pitch: 16.050003051757812

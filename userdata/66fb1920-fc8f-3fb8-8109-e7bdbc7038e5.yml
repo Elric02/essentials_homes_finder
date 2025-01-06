@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485358188839
+  lastteleport: 1485358550641
+  logout: 1485359318104
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 206.46174385096674
+  y: 87.0
+  z: -95.7079847517019
+  yaw: -357.6475830078125
+  pitch: 75.24739837646484
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4918.992301251601
+  y: 66.0
+  z: 924.3646315111972
+  yaw: -269.7000427246094
+  pitch: 19.049989700317383
+  world-name: ''
+ip-address: 62.147.194.212
+last-account-name: ptitjoueurdu02
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

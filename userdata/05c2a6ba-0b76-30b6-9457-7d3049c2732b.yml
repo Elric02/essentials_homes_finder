@@ -1,0 +1,63 @@
+timestamps:
+  login: 1513979672138
+  lastteleport: 1513979975368
+  logout: 1513980035054
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1773.9210525439164
+  y: 74.0
+  z: -2997.771874083832
+  yaw: -269.54571533203125
+  pitch: 20.699968338012695
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -3976.5245921906235
+  y: 80.0
+  z: 450.48080328078083
+  yaw: 295.9495849609375
+  pitch: 40.050010681152344
+  world-name: ''
+homes:
+  home:
+    world: Event
+    x: 796.5145799904599
+    y: 6.5
+    z: -1922.8808115181093
+    yaw: 135.9508514404297
+    pitch: 19.347471237182617
+    world-name: ''
+  maison:
+    world: world
+    x: -1771.9574641489403
+    y: 74.0
+    z: -2993.2169723699512
+    yaw: -13.5
+    pitch: 0.899979293346405
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 6439.013168472505
+    y: 12.0
+    z: 959.3000000119209
+    yaw: 96.5908203125
+    pitch: 15.599944114685059
+    world-name: ''
+ip-address: 82.246.233.31
+last-account-name: Acide30
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

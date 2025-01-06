@@ -1,0 +1,38 @@
+timestamps:
+  login: 1473951571171
+  lastteleport: 1473951898041
+  logout: 1473951993558
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: 6018.512613068937
+  y: 64.0
+  z: -2520.3469642744417
+  yaw: -114.892822265625
+  pitch: 30.403207778930664
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5997.300000011921
+  y: 106.0
+  z: 271.57907508777714
+  yaw: 49.76641082763672
+  pitch: 31.632001876831055
+  world-name: ''
+ip-address: 88.181.57.102
+last-account-name: nemenems
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

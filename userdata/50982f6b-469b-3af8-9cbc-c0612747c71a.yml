@@ -1,0 +1,55 @@
+timestamps:
+  login: 1512207907586
+  logout: 1512208210867
+  lastteleport: 1511033859865
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -6931.0
+  y: 61.0
+  z: 3799.0
+  yaw: -69.5999984741211
+  pitch: -0.14999999105930328
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6695.2234510505905
+  y: 80.0
+  z: 4023.7573756325573
+  yaw: 267.5923156738281
+  pitch: 27.600116729736328
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6677.845861207604
+    y: 79.0
+    z: 4018.601663555688
+    yaw: 183.75550842285156
+    pitch: 42.599971771240234
+    world-name: ''
+  asriel:
+    world: world
+    x: 4611.845098736238
+    y: 64.0
+    z: -5273.602255616353
+    yaw: -284.81842041015625
+    pitch: 21.299983978271484
+    world-name: ''
+ip-address: 90.9.218.18
+last-account-name: Danadris
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

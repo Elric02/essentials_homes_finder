@@ -1,0 +1,38 @@
+timestamps:
+  login: 1626098459711
+  logout: 1626098504623
+  lastteleport: 1626098487882
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.5
+  y: 65.0
+  z: 100.5
+  yaw: 325.4469299316406
+  pitch: 72.75001525878906
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -204.24530029296875
+  pitch: 14.075891494750977
+  world-name: ''
+ip-address: 37.170.180.232
+last-account-name: Elsagranger
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

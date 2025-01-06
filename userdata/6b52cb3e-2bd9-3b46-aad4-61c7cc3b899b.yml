@@ -1,0 +1,38 @@
+timestamps:
+  login: 1615662552056
+  lastteleport: 1615666171020
+  logout: 1615669961691
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 93.93289550088917
+  y: 11.0
+  z: -114.69999998807907
+  yaw: 44.03826904296875
+  pitch: 49.79949951171875
+  world-name: ''
+ip-address: 196.178.187.90
+last-account-name: Chikipon1234
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

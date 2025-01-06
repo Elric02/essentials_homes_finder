@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481831059949
+  lastteleport: 1481831104697
+  logout: 1481831115968
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2421.6165967704524
+  y: 63.0
+  z: 5045.757828900908
+  yaw: 229.64999389648438
+  pitch: 24.150007247924805
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: 183.6000213623047
+  pitch: 17.724515914916992
+  world-name: ''
+ip-address: 90.76.85.154
+last-account-name: clement
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

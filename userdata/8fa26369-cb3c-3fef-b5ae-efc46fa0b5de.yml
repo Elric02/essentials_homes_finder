@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514001825506
+  logout: 1514001864027
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 140.58846887540685
+  y: 58.26890298698152
+  z: 106.35908957294122
+  yaw: 142.69635009765625
+  pitch: -22.544157028198242
+  world-name: ''
+ip-address: 81.220.165.76
+last-account-name: juliette
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

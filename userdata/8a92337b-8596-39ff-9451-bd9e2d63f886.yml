@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470669995502
+  lastteleport: 1470669779431
+  logout: 1470670403829
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5296.987638082188
+  y: 70.09375
+  z: 654.7755008983931
+  yaw: 220.16156005859375
+  pitch: -12.150010108947754
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 2859.1167952250294
+  y: 73.0
+  z: -1205.2763299155613
+  yaw: -73.19989013671875
+  pitch: 29.700016021728516
+  world-name: ''
+ip-address: 77.204.137.117
+last-account-name: max816
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471945037314
+  logout: 1471945069039
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 161.56359221754946
+  y: 64.0
+  z: 14.938332233258986
+  yaw: 26.652406692504883
+  pitch: 6.097403526306152
+  world-name: ''
+ip-address: 81.14.114.179
+last-account-name: MTI_tyguan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477838977984
+  logout: 1477839007827
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 164.75043710898342
+  y: 64.0
+  z: 19.22332213538906
+  yaw: 260.50262451171875
+  pitch: 13.59740161895752
+  world-name: ''
+ip-address: 78.220.224.59
+last-account-name: thedivisons
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

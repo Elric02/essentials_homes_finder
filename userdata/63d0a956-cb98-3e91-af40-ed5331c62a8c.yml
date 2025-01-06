@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488648380861
+  lastteleport: 1488649142628
+  logout: 1488649313624
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.55437420742368
+  y: 64.0
+  z: 19.126753760364235
+  yaw: -191.59786987304688
+  pitch: 9.88110637664795
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -560.8202844976424
+  y: 64.0
+  z: -741.3048255267264
+  yaw: -7.178131103515625
+  pitch: 18.288938522338867
+  world-name: ''
+ip-address: 90.51.128.240
+last-account-name: _AtRiX_NuKe_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

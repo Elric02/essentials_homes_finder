@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 102.157.185.201
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675689832683
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1685815823143
+  login: 1685815738933
+money: '0'
+last-account-name: erom32323
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 87.37930673976844
+  y: 102.03778406501331
+  z: 207.70240397592508
+  yaw: 156.451416015625
+  pitch: 46.650264739990234
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -157.5
+  y: 72.0
+  z: 565.5
+  yaw: -98.00131225585938
+  pitch: 57.6000862121582

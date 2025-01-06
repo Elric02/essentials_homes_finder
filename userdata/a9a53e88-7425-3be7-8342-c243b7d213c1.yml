@@ -1,0 +1,47 @@
+timestamps:
+  login: 1594412007161
+  lastteleport: 1594412823601
+  logout: 1594413795937
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5859.884397927744
+  y: 84.0
+  z: 5668.491110173428
+  yaw: -342.8220520019531
+  pitch: -2.797787666320801
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 5839.300000011921
+    y: 91.0
+    z: 5647.840908023478
+    yaw: -52.509891510009766
+    pitch: 85.10232543945312
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -172.62257385253906
+  pitch: -11.14970874786377
+  world-name: ''
+ip-address: 90.45.123.188
+last-account-name: Papabot2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

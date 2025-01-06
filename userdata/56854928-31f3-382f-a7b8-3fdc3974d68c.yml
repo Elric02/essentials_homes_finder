@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.174.192.189
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1633775208054
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633859292635
+  login: 1633859268457
+money: '0'
+last-account-name: StiviStrom
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -520.0124828104053
+  y: 64.0
+  z: -748.7537452668626
+  yaw: 348.0921936035156
+  pitch: 13.049436569213867
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -4797.345615744586
+  y: 71.0
+  z: -617.2013732456011
+  yaw: 31.31784439086914
+  pitch: 17.99978256225586

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1624491260300
+  logout: 1624491311180
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.46429979235336
+  y: 63.0
+  z: 64.49877205072868
+  yaw: 206.94677734375
+  pitch: -6.509335517883301
+  world-name: ''
+ip-address: 90.39.96.22
+last-account-name: Snyzah_PVP
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

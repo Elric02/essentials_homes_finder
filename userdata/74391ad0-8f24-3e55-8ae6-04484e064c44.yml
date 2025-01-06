@@ -1,0 +1,71 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.170.56.152
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713212212643
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713212242772
+  login: 1713201621159
+money: '950.0'
+last-account-name: cxndice
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 245.66513162574753
+  y: 132.0
+  z: 139.07997098910874
+  yaw: -158.37893676757812
+  pitch: 4.95035982131958
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 7499.599072949135
+  y: 94.0
+  z: -6519.645435260698
+  yaw: 179.23403930664062
+  pitch: 20.10002326965332
+homes:
+  tour:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 7699.440761893084
+    y: 77.0
+    z: -6584.294684768085
+    yaw: 83.26666259765625
+    pitch: 16.35003089904785
+  village:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 7534.544613571052
+    y: 102.0625
+    z: -6501.960671660857
+    yaw: 10.773956298828125
+    pitch: 14.100014686584473
+  corail:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4599.286222439085
+    y: 64.0
+    z: 2732.1540718890083
+    yaw: -50.92689514160156
+    pitch: 17.249971389770508
+  creuser:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -660.2886677942337
+    y: 64.0
+    z: 1631.1585953668948
+    yaw: 93.88140869140625
+    pitch: -3.74995756149292

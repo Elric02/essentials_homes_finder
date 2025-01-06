@@ -1,0 +1,38 @@
+timestamps:
+  login: 1475321214242
+  lastteleport: 1475321337381
+  logout: 1475321355226
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.10739220144015
+  y: 63.0
+  z: 50.87138455556944
+  yaw: -278.4473876953125
+  pitch: 6.097397327423096
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -299.53468485784504
+  y: 64.0
+  z: 356.73042909613457
+  yaw: -333.4495544433594
+  pitch: -5.249990463256836
+  world-name: ''
+ip-address: 90.65.96.21
+last-account-name: mohamed9
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

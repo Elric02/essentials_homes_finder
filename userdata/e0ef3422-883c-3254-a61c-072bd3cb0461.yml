@@ -1,0 +1,38 @@
+timestamps:
+  login: 1563928054196
+  logout: 1563928061400
+  lastteleport: 1553963213786
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.8211985498729
+  y: 63.0
+  z: 59.86286541015862
+  yaw: -71.75331115722656
+  pitch: -2.6093568801879883
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1426.329449582329
+  y: 70.0
+  z: -2236.8068573765513
+  yaw: -354.5238037109375
+  pitch: 12.43592643737793
+  world-name: ''
+money: '0'
+ip-address: 172.97.176.166
+last-account-name: limonade23
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

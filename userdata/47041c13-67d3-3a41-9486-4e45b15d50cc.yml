@@ -1,0 +1,47 @@
+timestamps:
+  login: 1587910753672
+  lastteleport: 1587910850091
+  logout: 1587910874444
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.86206160550537
+  y: 64.0
+  z: 28.292042344016256
+  yaw: -256.703125
+  pitch: 2.94064998626709
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 157.27482520711268
+    y: 63.0
+    z: 63.86823315510448
+    yaw: -163.40330505371094
+    pitch: -8.909350395202637
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 155.3439947507806
+  y: 64.0
+  z: 27.53495608648856
+  yaw: -7.37080717086792
+  pitch: 29.278661727905273
+  world-name: ''
+ip-address: 86.235.64.132
+last-account-name: swenmotion
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

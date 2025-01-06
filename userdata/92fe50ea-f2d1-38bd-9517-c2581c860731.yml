@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618925318404
+  logout: 1618925786292
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 110.26408818326783
+  y: 63.0
+  z: 66.81957867578237
+  yaw: -162.0587158203125
+  pitch: 13.649949073791504
+  world-name: ''
+ip-address: 86.254.46.68
+last-account-name: arouf2008
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

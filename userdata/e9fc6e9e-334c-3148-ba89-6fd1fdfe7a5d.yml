@@ -1,0 +1,38 @@
+timestamps:
+  login: 1611744711109
+  lastteleport: 1611745084980
+  logout: 1611745096864
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.095657049604
+  y: 63.0
+  z: 65.58289780950071
+  yaw: -159.6533660888672
+  pitch: 8.790664672851562
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 0.2749096518614581
+  y: 89.5
+  z: -2.866142432569226
+  yaw: 127.79736328125
+  pitch: 28.985797882080078
+  world-name: ''
+ip-address: 139.26.41.35
+last-account-name: UL974
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

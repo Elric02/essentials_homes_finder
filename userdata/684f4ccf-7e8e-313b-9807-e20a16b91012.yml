@@ -1,0 +1,63 @@
+timestamps:
+  login: 1607701279757
+  logout: 1607701502194
+  lastteleport: 1607701361045
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6976.760685905077
+  y: 61.0
+  z: -355.863523113626
+  yaw: -350.85040283203125
+  pitch: 37.350032806396484
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 72.4234930842892
+  y: 64.0
+  z: -3.726201265258793
+  yaw: -147.094482421875
+  pitch: 22.775917053222656
+  world-name: ''
+money: '0'
+homes:
+  j:
+    world: world
+    x: 5772.200023500393
+    y: 63.0
+    z: -1860.439175902435
+    yaw: -342.150390625
+    pitch: 7.4999895095825195
+    world-name: ''
+  g:
+    world: world
+    x: 6847.508123219371
+    y: 76.0
+    z: -537.2823307822614
+    yaw: 1.949986457824707
+    pitch: 20.55002212524414
+    world-name: ''
+  h:
+    world: world
+    x: 6976.339365672942
+    y: 61.0
+    z: -355.69999998807907
+    yaw: 181.19952392578125
+    pitch: -48.150054931640625
+    world-name: ''
+afk: false
+ip-address: 78.212.22.124
+last-account-name: Naos0ledemon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

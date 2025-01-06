@@ -1,0 +1,108 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.198.240.192
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671980931329
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671982395559
+  login: 1671978413377
+  kits:
+    stationaute: 1666705656071
+    vip: 1669835677524
+    color: 1667224444705
+money: '84640.498'
+last-account-name: Yenb3n
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -3021.8139999872674
+  y: -31.0
+  z: 3142.0140404712092
+  yaw: 170.85577392578125
+  pitch: 12.899980545043945
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2811.5802324808474
+    y: 50.0
+    z: -4753.242197858874
+    yaw: -146.93959045410156
+    pitch: 12.449831008911133
+  zombie:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 1424.5672402389498
+    y: -43.0
+    z: -606.8037558276427
+    yaw: -83.43621826171875
+    pitch: 8.288287162780762
+  messa:
+    world: c4aa0be1-96e4-4d26-b064-d4d2526e9bea
+    world-name: AlthiumRessource
+    x: 207.39009950183458
+    y: 95.0
+    z: -1291.7860599895807
+    yaw: 103.49978637695312
+    pitch: 0.14907051622867584
+  base:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -3013.4922820522347
+    y: 66.0
+    z: 3091.3589973685407
+    yaw: -176.70687866210938
+    pitch: 12.301098823547363
+  marais:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 2462.6098867783953
+    y: 75.0
+    z: 3783.0499338792006
+    yaw: 81.586669921875
+    pitch: 16.05029296875
+  xp:
+    world: c57b9e2e-e619-4022-bb8b-7925496d5963
+    world-name: HestiaEnd
+    x: -178.92726167583373
+    y: 59.0
+    z: -47.796153842369215
+    yaw: -8.844268798828125
+    pitch: 13.199872970581055
+  jungle:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 1097.2672196737567
+    y: 98.0
+    z: -916.4690870636981
+    yaw: 173.234130859375
+    pitch: 19.50025749206543
+  bizarre:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 549.734221536291
+    y: 156.0
+    z: -1225.4541328376636
+    yaw: -121.06280517578125
+    pitch: 11.25027847290039
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -3071.6508006243444
+  y: 71.0
+  z: 3152.8415624932504
+  yaw: 170.4228515625
+  pitch: 20.551305770874023
+nickname: §6Yenb§23§6n

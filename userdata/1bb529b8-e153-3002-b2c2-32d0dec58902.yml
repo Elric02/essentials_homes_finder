@@ -1,0 +1,63 @@
+timestamps:
+  login: 1471296892616
+  lastteleport: 1471297339379
+  logout: 1471298286979
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -730.5
+  y: 63.0
+  z: -608.5
+  yaw: -108.00101470947266
+  pitch: 12.607219696044922
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 3361.699999988079
+  y: 59.887729478204264
+  z: 3318.291371481539
+  yaw: -7.8109130859375
+  pitch: 33.99977111816406
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -730.2973002082891
+    y: 63.0
+    z: -608.0982015963032
+    yaw: -96.92498016357422
+    pitch: 9.684350967407227
+    world-name: ''
+  peche:
+    world: world
+    x: 504.333811558473
+    y: 90.0
+    z: -4123.662095854714
+    yaw: -327.32470703125
+    pitch: 26.6866455078125
+    world-name: ''
+  maison2:
+    world: world
+    x: 3329.6045498916405
+    y: 65.0
+    z: 3415.0069249050803
+    yaw: -46.25177001953125
+    pitch: 27.228788375854492
+    world-name: ''
+ip-address: 90.105.34.120
+last-account-name: Kermita
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

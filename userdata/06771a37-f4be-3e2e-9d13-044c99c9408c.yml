@@ -1,0 +1,38 @@
+timestamps:
+  login: 1559675291696
+  lastteleport: 1559675911628
+  logout: 1559675957842
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.040020354984
+  y: 63.0
+  z: 39.74203583069287
+  yaw: -63.470855712890625
+  pitch: 17.428665161132812
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 153.79959977717985
+  y: 64.0
+  z: 29.482540768239552
+  yaw: -46.82086181640625
+  pitch: 13.828670501708984
+  world-name: ''
+ip-address: 88.185.245.114
+last-account-name: Nagisa___
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

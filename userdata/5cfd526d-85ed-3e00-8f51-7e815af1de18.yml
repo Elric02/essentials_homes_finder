@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485101201654
+  lastteleport: 1485100943025
+  logout: 1485103282772
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1577.2139060623354
+  y: 100.99428758071573
+  z: -5748.4277376582395
+  yaw: -174.300048828125
+  pitch: 55.20000457763672
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -1298.363304966855
+  y: 82.54831321568876
+  z: 4024.1358161194
+  yaw: 10.0748291015625
+  pitch: 50.54998779296875
+  world-name: ''
+ip-address: 77.145.87.82
+last-account-name: gregoire_cam
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

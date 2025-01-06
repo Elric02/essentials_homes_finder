@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469735399279
+  logout: 1469735794760
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 274.27512285921443
+  y: 71.5
+  z: 129.94209002294883
+  yaw: 17.14788818359375
+  pitch: 18.218664169311523
+  world-name: ''
+ip-address: 176.189.83.149
+last-account-name: Creepeyes79
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

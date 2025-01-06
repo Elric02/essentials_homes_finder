@@ -1,0 +1,71 @@
+timestamps:
+  login: 1706279613226
+  lastteleport: 1706281336260
+  logout: 1706281957513
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: f6cc7e86-533e-4833-a044-23fb95716522
+  x: 260.4815791806667
+  y: 86.0
+  z: 2470.1191262817974
+  yaw: -78.4686279296875
+  pitch: 30.203601837158203
+  world-name: Ressource
+money: '150.0'
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6060.5
+    y: 67.0
+    z: -4820.5
+    yaw: -54.582637786865234
+    pitch: 23.44045066833496
+    world-name: world
+  ilou:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5397.259499732752
+    y: 58.0
+    z: 1438.88489874493
+    yaw: 188.359375
+    pitch: 16.558151245117188
+    world-name: world
+  alnath:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1626.1347011651656
+    y: 187.0
+    z: -2240.202344445946
+    yaw: -322.5041198730469
+    pitch: 27.132003784179688
+    world-name: world
+  dunkirschen:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2794.0297701522377
+    y: 67.0
+    z: -158.2477930890324
+    yaw: 104.34539794921875
+    pitch: 4.075817108154297
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -6064.962708442062
+  y: 67.0
+  z: -4824.845060701833
+  yaw: 16.25688934326172
+  pitch: 0.8179007172584534
+  world-name: world
+afk: false
+ip-address: 87.64.160.21
+last-account-name: Tr0lgar
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1605458175740
+  lastteleport: 1605458479698
+  logout: 1605458550688
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: 42.99052426823674
+  y: 63.0
+  z: -13.87482642479423
+  yaw: -131.1116485595703
+  pitch: 16.616939544677734
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.6057308934711
+  y: 63.0
+  z: 40.30532221182878
+  yaw: -82.9751205444336
+  pitch: 7.491652488708496
+  world-name: ''
+ip-address: 109.22.251.176
+last-account-name: Ztix1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

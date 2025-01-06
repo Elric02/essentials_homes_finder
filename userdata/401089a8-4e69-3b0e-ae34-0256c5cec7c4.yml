@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498578593420
+  logout: 1498578790545
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.96429917722875
+  y: 64.0
+  z: 7.405200314474504
+  yaw: -357.0316467285156
+  pitch: 16.845441818237305
+  world-name: ''
+ip-address: 176.157.123.117
+last-account-name: Sho0wCraft
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

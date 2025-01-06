@@ -1,0 +1,38 @@
+timestamps:
+  login: 1604271187731
+  logout: 1604271211155
+  lastteleport: 1602276682813
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 15.281583510595201
+  y: 65.0
+  z: 19.42310536356127
+  yaw: -264.2140808105469
+  pitch: 4.485817909240723
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -282.7369170148277
+  y: 65.0
+  z: 367.4784224533344
+  yaw: 19.899200439453125
+  pitch: 10.885787010192871
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 76.104.25.111
+last-account-name: Nandai
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

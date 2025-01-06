@@ -1,0 +1,63 @@
+timestamps:
+  login: 1487968554990
+  logout: 1487969108856
+  lastteleport: 1483358113940
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -6213.857006226122
+  y: 11.0
+  z: -4952.32235471817
+  yaw: -91.247314453125
+  pitch: 4.775239944458008
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4663.900166532778
+  y: 67.0
+  z: -3677.205420713361
+  yaw: -181.908203125
+  pitch: -3.8392786979675293
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 4675.2167969251595
+    y: 66.0
+    z: -3767.1100291628227
+    yaw: -332.333984375
+    pitch: 22.092742919921875
+    world-name: ''
+  water:
+    world: world
+    x: 4622.923199250045
+    y: 63.5
+    z: -3860.719857792227
+    yaw: -295.9296875
+    pitch: 21.081953048706055
+    world-name: ''
+  new:
+    world: world
+    x: 4811.232823091212
+    y: 137.0
+    z: -3847.00883278446
+    yaw: -120.7691650390625
+    pitch: 11.54427719116211
+    world-name: ''
+afk: false
+muted: false
+ip-address: 93.7.24.45
+last-account-name: Emiko_Inuzuka
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616003644392
+  logout: 1616003800635
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.56189499671055
+  y: 64.0
+  z: 14.720500496326986
+  yaw: 236.6472625732422
+  pitch: 9.69062328338623
+  world-name: ''
+ip-address: 88.138.220.76
+last-account-name: NilremEtteiluj
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

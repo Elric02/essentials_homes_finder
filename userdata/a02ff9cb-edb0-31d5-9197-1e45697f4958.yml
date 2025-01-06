@@ -1,0 +1,46 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.169.153.154
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1640623640522
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1640624396658
+  login: 1640623793153
+money: '0'
+last-account-name: Epsi_lone
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.53847754712424
+  y: 64.0
+  z: 20.06537265980512
+  yaw: 185.06008911132812
+  pitch: 14.478317260742188
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 96.5276446586228
+  y: 63.0
+  z: 23.958828438573676
+  yaw: -245.6265869140625
+  pitch: 10.95091438293457
+mail:
+- legacy: false
+  read: false
+  message: Ta recompense est dans ton inventaire (shulker marron)
+  sender-name: naturalizee
+  sender-uuid: cc702e34-b94b-3106-b41f-f357d3bf3dac
+  timestamp: 1640625399115
+  expire: 0

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1484756998164
+  lastteleport: 1484757092533
+  logout: 1484757112764
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -2771.7247098950124
+  y: 65.0
+  z: -2590.1006466341923
+  yaw: 79.47653198242188
+  pitch: 46.79998016357422
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: ressource
+  x: -2776.0136372108273
+  y: 211.0
+  z: -2590.3995188659487
+  yaw: 238.9265594482422
+  pitch: 62.09998321533203
+  world-name: ''
+homes:
+  home:
+    world: ressource
+    x: -2775.591524558974
+    y: 211.0
+    z: -2590.630456135
+    yaw: 303.8764953613281
+    pitch: 79.94998931884766
+    world-name: ''
+ip-address: 78.202.55.174
+last-account-name: CrazyCG
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

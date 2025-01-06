@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488642275196
+  lastteleport: 1488642654662
+  logout: 1488642678618
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.33464587079507
+  y: 67.5
+  z: 11.315722144811339
+  yaw: 345.0882568359375
+  pitch: 61.20005798339844
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 133.99932736954898
+  y: 63.0
+  z: -30.856489334474595
+  yaw: -193.41087341308594
+  pitch: -30.725496292114258
+  world-name: ''
+ip-address: 78.245.130.126
+last-account-name: bibo054
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

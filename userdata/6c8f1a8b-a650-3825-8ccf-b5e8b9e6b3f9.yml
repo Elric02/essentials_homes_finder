@@ -1,0 +1,38 @@
+timestamps:
+  login: 1529587827173
+  logout: 1529587976876
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 566.2795786306784
+  y: 25.0
+  z: -1100.0651489388435
+  yaw: 50.947998046875
+  pitch: 50.99996566772461
+  world-name: ''
+money: '0'
+ip-address: 86.241.36.121
+last-account-name: colinlebosdu33
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

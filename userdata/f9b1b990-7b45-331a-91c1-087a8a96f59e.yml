@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.125.65.17
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1649711388986
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1649713088444
+  login: 1649711117799
+money: '0'
+last-account-name: samsam365
+lastlocation:
+  world: 9ae49fc9-52ed-408c-94a2-ef296500163a
+  world-name: Ressource
+  x: -2101.300000011921
+  y: 47.0
+  z: -167.30000001192093
+  yaw: 139.510498046875
+  pitch: 29.400115966796875
+logoutlocation:
+  world: 9ae49fc9-52ed-408c-94a2-ef296500163a
+  world-name: Ressource
+  x: -2039.6789655210598
+  y: 65.0
+  z: -164.7268877247049
+  yaw: -67.48583984375
+  pitch: -51.14995193481445

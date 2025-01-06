@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.87.208.140
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721235407975
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721235527904
+  login: 1721235272821
+money: '0'
+last-account-name: coolbaby111
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 397.3606423259985
+  y: 81.0
+  z: -3108.8476740303645
+  yaw: 163.02102661132812
+  pitch: 10.101085662841797
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 115.11629559484223
+  y: 49.93480460959873
+  z: 238.07285106059524
+  yaw: -122.0849609375
+  pitch: 17.87013053894043

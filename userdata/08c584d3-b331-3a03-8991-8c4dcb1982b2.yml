@@ -1,0 +1,47 @@
+timestamps:
+  login: 1665942299159
+  lastteleport: 1569706980053
+  logout: 1665942340371
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -344.00591260332754
+  y: 81.0
+  z: -214.70716947550736
+  yaw: 95.65618133544922
+  pitch: 11.034290313720703
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -343.9574824366169
+  y: 81.0
+  z: -214.70465984352205
+  yaw: 166.74998474121094
+  pitch: 8.196595191955566
+  world-name: world
+money: '0'
+afk: false
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -351.6737948057281
+    y: 81.0
+    z: -212.4926900718539
+    yaw: -233.07342529296875
+    pitch: 2.277045726776123
+    world-name: world
+ip-address: 90.12.207.241
+last-account-name: RageOfGaming
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

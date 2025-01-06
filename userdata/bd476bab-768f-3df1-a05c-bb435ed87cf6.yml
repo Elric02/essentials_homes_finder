@@ -1,0 +1,38 @@
+timestamps:
+  login: 1505039268935
+  lastteleport: 1505043529815
+  logout: 1505043613272
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.87441018967655
+  y: 66.0
+  z: 18.789302497667517
+  yaw: -88.99971771240234
+  pitch: -10.868850708007812
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Ressource
+  x: -48.145976697662306
+  y: 57.0
+  z: -100.47380614177008
+  yaw: -293.128662109375
+  pitch: 20.985076904296875
+  world-name: ''
+ip-address: 2.13.33.131
+last-account-name: Fifi44
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

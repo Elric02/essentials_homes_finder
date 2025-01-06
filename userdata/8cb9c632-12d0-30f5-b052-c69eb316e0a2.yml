@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490206602025
+  lastteleport: 1490206616440
+  logout: 1490206669106
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.16331585206828
+  y: 63.0
+  z: 50.06714993025857
+  yaw: -78.2281494140625
+  pitch: 28.0731201171875
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.60088916932654
+  y: 63.0
+  z: 45.8700405881141
+  yaw: -175.4139862060547
+  pitch: 14.142032623291016
+  world-name: ''
+ip-address: 90.105.55.191
+last-account-name: Gaming_RB
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

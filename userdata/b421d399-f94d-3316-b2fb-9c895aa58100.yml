@@ -1,0 +1,38 @@
+timestamps:
+  login: 1465751369196
+  lastteleport: 1465751471897
+  logout: 1465751982096
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.69342591736861
+  y: 27.5
+  z: 23.55726407438916
+  yaw: -336.56207275390625
+  pitch: -5.774928092956543
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 14.300000011920929
+  y: 64.0
+  z: 7.699999988079073
+  yaw: 32.890380859375
+  pitch: -6.915092945098877
+  world-name: ''
+ip-address: 88.125.44.236
+last-account-name: frifri
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

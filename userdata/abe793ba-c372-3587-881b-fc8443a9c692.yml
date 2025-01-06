@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470573415186
+  lastteleport: 1470573497094
+  logout: 1470573723944
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.62986390823144
+  y: 64.0
+  z: 17.835432002031894
+  yaw: -179.010986328125
+  pitch: -7.350003242492676
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 8129.915662560326
+  y: 63.0
+  z: 4237.300000011921
+  yaw: -130.86087036132812
+  pitch: 20.25
+  world-name: ''
+ip-address: 109.218.240.129
+last-account-name: dragoncraft12
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

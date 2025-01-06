@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509051604375
+  logout: 1509056055873
+  lastteleport: 1509055684271
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 136.34153692952032
+  y: 63.0
+  z: -27.200667796611484
+  yaw: 104.22821044921875
+  pitch: 25.228782653808594
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1553.4802959622523
+  y: 47.0
+  z: -2201.5772451861585
+  yaw: 194.07568359375
+  pitch: -13.649731636047363
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 86.247.50.59
+last-account-name: KyRuZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

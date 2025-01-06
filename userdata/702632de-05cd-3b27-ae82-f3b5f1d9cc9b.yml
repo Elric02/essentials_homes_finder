@@ -1,0 +1,38 @@
+timestamps:
+  login: 1514399011565
+  logout: 1514399032674
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.9081341235602
+  y: 66.0
+  z: 96.58397857145056
+  yaw: 182.5241241455078
+  pitch: 23.37469482421875
+  world-name: ''
+ip-address: 81.66.69.153
+last-account-name: tizote2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

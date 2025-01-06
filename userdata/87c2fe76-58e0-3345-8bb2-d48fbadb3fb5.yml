@@ -1,0 +1,55 @@
+timestamps:
+  login: 1494680295393
+  lastteleport: 1494681683908
+  logout: 1494682791470
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5271.912775793853
+  y: 138.00133597911216
+  z: 1762.6241304774528
+  yaw: -74.69815063476562
+  pitch: 23.073863983154297
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4204.928719344875
+  y: 69.0
+  z: -3653.830005261459
+  yaw: 22.33544921875
+  pitch: -14.431577682495117
+  world-name: ''
+homes:
+  blocnote:
+    world: world
+    x: -5257.242776778887
+    y: 133.0
+    z: 1745.0190280005058
+    yaw: -19.865467071533203
+    pitch: 12.958827018737793
+    world-name: ''
+  ban:
+    world: world
+    x: 4639.138283038697
+    y: 77.0
+    z: -3430.8365750491107
+    yaw: 152.03717041015625
+    pitch: 26.737714767456055
+    world-name: ''
+afk: false
+ip-address: 90.60.12.192
+last-account-name: Ipados
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

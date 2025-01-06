@@ -1,0 +1,55 @@
+timestamps:
+  login: 1513082761128
+  lastteleport: 1513085252169
+  logout: 1513085305383
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -1288.3255697732707
+  y: 11.0
+  z: 6743.300000011921
+  yaw: -71.8470458984375
+  pitch: 12.694381713867188
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -4996.47069877033
+    y: 67.0
+    z: -4344.2151145442585
+    yaw: 182.35853576660156
+    pitch: 24.97370147705078
+    world-name: ''
+  homeee:
+    world: world
+    x: -3244.626198599793
+    y: 64.0
+    z: -6955.64710066846
+    yaw: -174.45361328125
+    pitch: 23.201904296875
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -3243.728752372615
+  y: 67.0
+  z: -6949.438869232739
+  yaw: 24.439483642578125
+  pitch: 6.439851760864258
+  world-name: ''
+muted: false
+ip-address: 31.34.0.123
+last-account-name: FlapadinG
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

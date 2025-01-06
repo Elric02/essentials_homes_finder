@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.159.36.60
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1688385507560
+  login: 1688385460595
+money: '0'
+last-account-name: That_Matrix12
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.32758633355763
+  y: 81.0
+  z: -3111.0007150636766
+  yaw: -70.94817352294922
+  pitch: 11.54996395111084
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 407.86250001192093
+  y: 82.0
+  z: -3110.301915948228
+  yaw: 85.19256591796875
+  pitch: 11.099964141845703

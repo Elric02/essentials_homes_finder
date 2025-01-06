@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498727049465
+  lastteleport: 1497807536548
+  logout: 1498727819649
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -157.56998371880755
+  y: 51.0
+  z: 568.2313722312299
+  yaw: 209.45074462890625
+  pitch: 47.298885345458984
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -6034.300000011921
+  y: 66.0
+  z: -5580.620361074448
+  yaw: 277.6417236328125
+  pitch: 27.34311866760254
+  world-name: ''
+money: '0'
+ip-address: 82.240.139.42
+last-account-name: GDGAMING
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

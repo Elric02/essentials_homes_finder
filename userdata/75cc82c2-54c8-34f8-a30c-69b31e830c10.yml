@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467202184167
+  logout: 1467202435000
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -127.69999998807907
+  y: 65.0
+  z: 191.30572775505598
+  yaw: 337.5006103515625
+  pitch: -90.0
+  world-name: ''
+ip-address: 93.31.247.145
+last-account-name: Ichem69
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

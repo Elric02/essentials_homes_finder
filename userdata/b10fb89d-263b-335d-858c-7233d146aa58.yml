@@ -1,0 +1,47 @@
+timestamps:
+  login: 1592343407452
+  logout: 1592344539661
+  jail: 0
+  lastteleport: 1592343941726
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5887.699999988079
+  y: 74.0
+  z: 1048.5651097917216
+  yaw: -297.89617919921875
+  pitch: -69.75006866455078
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 573.2355561958085
+  y: 68.0
+  z: -5182.475197674561
+  yaw: -79.50223541259766
+  pitch: 44.39958572387695
+  world-name: ''
+money: '0'
+jailed: false
+homes:
+  maison:
+    world: world
+    x: 5893.0801222917835
+    y: 75.0
+    z: 1052.5114935861993
+    yaw: -80.55093383789062
+    pitch: 3.9000000953674316
+    world-name: ''
+ip-address: 88.121.219.5
+last-account-name: SkirnexSun
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

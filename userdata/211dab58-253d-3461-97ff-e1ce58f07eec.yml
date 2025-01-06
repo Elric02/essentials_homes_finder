@@ -1,0 +1,616 @@
+timestamps:
+  login: 1735620251073
+  lastteleport: 1735592062937
+  logout: 1735620251637
+  kits:
+    vip: 1680948968453
+    debutant: 1664811786975
+    stadawan: 1664813925593
+    color: 1664814657152
+    spaceranger: 1664814112832
+    ambassadeur: 1664814346670
+    creatif: 1665698363361
+    testattrapeur: 1680951538401
+  jail: 0
+  onlinejail: 0
+  lastheal: 0
+  mute: 0
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: -51.338092587088255
+  y: 150.74319961128992
+  z: 61.313317814116395
+  yaw: -77.69933319091797
+  pitch: 21.599878311157227
+  world-name: Althium
+money: '244365.219696969696965'
+homes:
+  domaine:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6964.674513232679
+    y: 61.0
+    z: 2096.833185323067
+    yaw: -183.20489501953125
+    pitch: 22.736156463623047
+    world-name: world
+  lol:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3051.9366360388312
+    y: 59.0
+    z: 7002.674814452114
+    yaw: -300.8311767578125
+    pitch: 8.850154876708984
+    world-name: world
+  tabaripote:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4443.828637929925
+    y: 64.0
+    z: 1668.5641405837114
+    yaw: -79.34754180908203
+    pitch: 23.699905395507812
+    world-name: world
+  poulet:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4999.373459842283
+    y: 85.5
+    z: -118.97809300499438
+    yaw: -39.16302490234375
+    pitch: 30.424707412719727
+    world-name: world
+  arene:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4866.699999988079
+    y: 84.0
+    z: -129.5249625507326
+    yaw: 225.59771728515625
+    pitch: 10.774925231933594
+    world-name: world
+  redstone:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4985.824457387536
+    y: 55.0
+    z: -99.02628478060421
+    yaw: -186.9230194091797
+    pitch: 1.474897861480713
+    world-name: world
+  dok:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6723.06361379443
+    y: 71.8639271574043
+    z: 7694.946237941128
+    yaw: -63.600830078125
+    pitch: -0.2999694347381592
+    world-name: world
+  domaine2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -5928.570708158885
+    y: 24.0
+    z: -3292.17102436367
+    yaw: 95.12203979492188
+    pitch: 12.449448585510254
+    world-name: world
+  castle:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -863.9570362584124
+    y: 83.0
+    z: -3824.467417381421
+    yaw: -4.503372669219971
+    pitch: 31.499828338623047
+    world-name: world
+  sdc2:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5927.207084903524
+    y: 40.0
+    z: -3278.8820145530744
+    yaw: 179.46641540527344
+    pitch: 13.499805450439453
+  slime:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2123.4230050144733
+    y: 22.0
+    z: -3872.0015222865018
+    yaw: -38.3265380859375
+    pitch: 35.99966049194336
+  glowstone:
+    world: 662d438a-3236-43b5-be72-96a96955dbc4
+    world-name: RessourceNether
+    x: -1287.6206811636166
+    y: 99.0
+    z: 793.159686343636
+    yaw: 321.155517578125
+    pitch: 13.199788093566895
+  nether:
+    world: 662d438a-3236-43b5-be72-96a96955dbc4
+    world-name: RessourceNether
+    x: 590.3000000119209
+    y: 65.0
+    z: 619.4712767198016
+    yaw: 2.998769521713257
+    pitch: 9.750001907348633
+  noel:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -412.7655706258813
+    y: 4.0
+    z: 800.1453821788538
+    yaw: -18.764116287231445
+    pitch: 29.849966049194336
+  anniversaire:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    world-name: Event
+    x: 799.38442982422
+    y: 4.0
+    z: -1951.7772885271631
+    yaw: 291.4970703125
+    pitch: 10.349614143371582
+  laby:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -405.10595309037666
+    y: 71.875
+    z: -539.3000000119209
+    yaw: -148.5052490234375
+    pitch: 31.199949264526367
+  minijeu:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -175.20512020965305
+    y: 66.0
+    z: -5403.140721952914
+    yaw: 0.37908935546875
+    pitch: 6.449734210968018
+  jojoguardian:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7355.604299409244
+    y: 197.78572137072078
+    z: -3761.484551573356
+    yaw: 200.55181884765625
+    pitch: 46.34992599487305
+  jojobase:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6147.758845919163
+    y: 64.5
+    z: -3509.305118655575
+    yaw: -3.2786033153533936
+    pitch: 30.514333724975586
+  cmd:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -294.2579096859892
+    y: 48.0
+    z: 378.16080912625875
+    yaw: 355.0544738769531
+    pitch: 18.599899291992188
+  panda:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -498.5506796913836
+    y: 4.0
+    z: 769.7472660244443
+    yaw: 178.3294219970703
+    pitch: 22.499704360961914
+  galette:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 1236.9248160951013
+    y: 17.534478368183155
+    z: -167.86094862336893
+    yaw: 50.25400924682617
+    pitch: 21.45001983642578
+  verre:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    world-name: Event
+    x: 938.2316519613298
+    y: 4.0
+    z: -2199.439312435518
+    yaw: 83.2998046875
+    pitch: 33.29956817626953
+  commandblocktest:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 1157.9876088218718
+    y: 4.0
+    z: 273.3035750009426
+    yaw: 241.82318115234375
+    pitch: 30.149940490722656
+  pokerun:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    world-name: Event
+    x: 877.671593805232
+    y: 4.0
+    z: -2074.9075333413834
+    yaw: 276.5256652832031
+    pitch: 11.549776077270508
+  rundesrois:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    world-name: Event
+    x: 869.5990722544902
+    y: 4.0
+    z: -2159.6711837292773
+    yaw: 264.6697998046875
+    pitch: 4.949788570404053
+  blaze:
+    world: 662d438a-3236-43b5-be72-96a96955dbc4
+    world-name: RessourceNether
+    x: -1171.104278405236
+    y: 60.0
+    z: 1450.839072929688
+    yaw: -193.96624755859375
+    pitch: 21.600345611572266
+  poulo:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4948.298110156107
+    y: 74.0
+    z: -4223.866107568496
+    yaw: -14.422022819519043
+    pitch: 6.1502509117126465
+  for_t:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 2731.82593637484
+    y: 84.0
+    z: -959.6314522509754
+    yaw: 301.8818359375
+    pitch: 0.1499791145324707
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 44.56376343941463
+    y: 82.0
+    z: -37.42209597306706
+    yaw: 274.4544372558594
+    pitch: 19.949586868286133
+  pvp:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    world-name: Event
+    x: 1430.0547113738476
+    y: 94.0
+    z: -2152.560292889603
+    yaw: -259.6114501953125
+    pitch: 26.399616241455078
+  nope1:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5232.949908497899
+    y: 82.0
+    z: 581.1279407755637
+    yaw: 192.07687377929688
+    pitch: 25.77762794494629
+  atlantis:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3262.2191332486323
+    y: 222.0
+    z: -5236.038076032787
+    yaw: -178.8131103515625
+    pitch: 35.700138092041016
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2885.372380896428
+    y: 111.0
+    z: -3672.4438305395006
+    yaw: 36.90997314453125
+    pitch: 41.39961624145508
+  5jours:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3596.8583396723416
+    y: 184.0
+    z: 3408.3468606323113
+    yaw: 192.0284881591797
+    pitch: 30.60738182067871
+  coco:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7021.914863052619
+    y: 78.0
+    z: 1027.4401019707989
+    yaw: 163.58258056640625
+    pitch: 42.14997863769531
+  degage:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7616.125048554455
+    y: 79.64352831090645
+    z: -2359.693666173356
+    yaw: -193.95513916015625
+    pitch: 27.449642181396484
+  marche:
+    world: b7fb2600-9a6b-4455-aa1e-a8df500c3eeb
+    world-name: Donjon
+    x: 5152.833168147052
+    y: 65.0
+    z: 4869.785429489574
+    yaw: -81.6000747680664
+    pitch: 7.499999046325684
+  un:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    world-name: Event
+    x: 1234.175649913497
+    y: 5.0
+    z: -2462.5041412311866
+    yaw: -74.50934600830078
+    pitch: 63.89971923828125
+  deux:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    world-name: Event
+    x: 1455.419431027367
+    y: 94.0
+    z: -2108.0706927741294
+    yaw: 155.2908172607422
+    pitch: 51.449737548828125
+  arenepvp2:
+    world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+    world-name: pvp
+    x: 2004.2683706553205
+    y: 94.0
+    z: 2016.057430207687
+    yaw: -83.39055633544922
+    pitch: 27.14970588684082
+  arenepvp:
+    world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+    world-name: pvp
+    x: -28.275019975379106
+    y: 56.15908424255205
+    z: 36.97443386838227
+    yaw: -172.1888427734375
+    pitch: 29.102378845214844
+  d:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -940.555508295576
+    y: 91.2565669964823
+    z: -1591.7335672884033
+    yaw: -28.027204513549805
+    pitch: 68.05169677734375
+  particule:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 1155.529634620267
+    y: 4.0
+    z: 249.73768434909593
+    yaw: 138.0039520263672
+    pitch: 15.450018882751465
+  manoir:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5432.260192482371
+    y: 70.0
+    z: -3805.2499652914826
+    yaw: 97.5093994140625
+    pitch: 11.730077743530273
+  hubpvp:
+    world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+    world-name: pvp
+    x: 142.0754126355943
+    y: 83.0
+    z: -104.20408758205625
+    yaw: 178.381591796875
+    pitch: -4.650126934051514
+  althiumtest:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -628.1950301830133
+    y: 4.0
+    z: 555.413047470322
+    yaw: 10.784302711486816
+    pitch: 32.09988021850586
+  althiumnetherwidlcontrol:
+    world: 438b4f3b-f6b3-4095-b3db-751126eef01d
+    world-name: AlthiumNether
+    x: -152.339921603672
+    y: 52.0
+    z: 29.302216071451575
+    yaw: 114.74068450927734
+    pitch: 35.84988784790039
+  althiumressourcewidlcontrol:
+    world: c4aa0be1-96e4-4d26-b064-d4d2526e9bea
+    world-name: AlthiumRessource
+    x: 31.427213642838815
+    y: 231.0
+    z: -13.672064328450741
+    yaw: -169.3455810546875
+    pitch: 29.39930534362793
+  lolilol:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -97.66722536091
+    y: 99.0
+    z: 151.1653110764329
+    yaw: -83.09889221191406
+    pitch: 6.2999114990234375
+  iloupabien:
+    world: d097c14e-8288-4547-88dc-d9590a602c7b
+    world-name: Nether
+    x: 2203.586328141251
+    y: 80.3939591266183
+    z: -255.8624656620063
+    yaw: -63.061187744140625
+    pitch: 25.80028533935547
+  rg_cronox:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 2990.256134996366
+    y: 77.5
+    z: 3008.121195042291
+    yaw: 93.30467224121094
+    pitch: 29.099918365478516
+  rg_dokxym:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 2974.791782213189
+    y: 86.39165012594033
+    z: 2778.4602956095296
+    yaw: 86.55615234375
+    pitch: 37.34992218017578
+  rg_t2o_raya:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 2845.461786800784
+    y: 72.0
+    z: 2636.68571522396
+    yaw: 0.15966796875
+    pitch: 21.299911499023438
+  rg_the_simon:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 2783.4986585429306
+    y: 156.0
+    z: 2802.3611589615416
+    yaw: -46.639610290527344
+    pitch: 24.299591064453125
+  rg_kainovaii:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: 3155.9415022059748
+    y: 91.0
+    z: 3228.896723224121
+    yaw: -19.79046630859375
+    pitch: 10.199922561645508
+  npc:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 76.37702283150038
+    y: 262.0
+    z: 31.854078419999336
+    yaw: 89.98583984375
+    pitch: 4.199581146240234
+  halloween:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -1219.2793259384957
+    y: 4.0
+    z: -302.69999998807907
+    yaw: 171.4527130126953
+    pitch: 7.199928283691406
+  fofodead:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 1057.296790389201
+    y: -12.383496497907702
+    z: -3917.6092575001476
+    yaw: -157.62574768066406
+    pitch: 35.849735260009766
+  planque:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3634.236168302992
+    y: 213.0
+    z: 3402.300000011921
+    yaw: 0.045135498046875
+    pitch: 26.446195602416992
+  testcreateur:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -1132.0073417058886
+    y: 4.0
+    z: 326.1005478179827
+    yaw: 122.4004135131836
+    pitch: -16.050003051757812
+  kitchinette:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4501.162369351773
+    y: 67.0
+    z: 5155.0599588993055
+    yaw: 78.2181396484375
+    pitch: 13.350004196166992
+  glace:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5922.590324083394
+    y: 108.91187320557943
+    z: 384.539810704156
+    yaw: 102.306396484375
+    pitch: 62.54978942871094
+  mauvais:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6758.536349366952
+    y: 55.69114662086443
+    z: 2949.53359865213
+    yaw: -23.62139892578125
+    pitch: 22.49920082092285
+  fermeexempleguardian:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -7283.680322583304
+    y: 155.0
+    z: -3775.2096679278147
+    yaw: 82.20223236083984
+    pitch: 7.949950695037842
+  exemplefermemob:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5317.402333052489
+    y: 166.0
+    z: 1495.3696339869132
+    yaw: 129.08644104003906
+    pitch: 32.86125946044922
+  feu:
+    world: b7fb2600-9a6b-4455-aa1e-a8df500c3eeb
+    world-name: Donjon
+    x: 391.9097680665783
+    y: 24.0
+    z: 458.6279192441297
+    yaw: -76.54542541503906
+    pitch: 27.54991340637207
+  pvplobby:
+    world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+    world-name: pvp
+    x: 143.53528534977596
+    y: 83.0
+    z: -106.26149592775509
+    yaw: -85.49063110351562
+    pitch: -3.299893617630005
+afk: false
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 178.1638736140333
+  y: 166.54999228069272
+  z: -48.34041599119325
+  yaw: 162.92095947265625
+  pitch: 24.00025177001953
+  world-name: world
+jailed: false
+ip-address: 146.70.189.149
+last-account-name: Gaethap
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: true
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+nickname: §4Aderomis
+powertools:
+  ladder:
+  - kill RoiZ
+  black_concrete:
+  - fireball
+  smooth_quartz_slab:
+  - lightning
+  diamond_shovel:
+  - lightning
+  gunpowder:
+  - fireball
+  cobblestone:
+  - lightning
+  command_block:
+  - lightning
+mail:
+- legacy: false
+  read: true
+  message: mrc mon reuf t le sng de la veine (t'occupes je suis fatigué)
+  sender-name: Dokxym_
+  sender-uuid: 88619040-399e-3830-88e9-c22a941ed7a2
+  timestamp: 1667855799641
+  expire: 0

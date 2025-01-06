@@ -1,0 +1,55 @@
+timestamps:
+  login: 1607870097841
+  lastteleport: 1607871012119
+  logout: 1607871265155
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.47653764217145
+  y: 64.0
+  z: 26.18017859553824
+  yaw: -177.69546508789062
+  pitch: -0.02411934733390808
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 4791.356367797135
+    y: 64.0
+    z: -4015.5923444915184
+    yaw: 55.95654296875
+    pitch: 8.564360618591309
+    world-name: ''
+  spawner:
+    world: world
+    x: 4812.548724478117
+    y: 25.0
+    z: -4092.899865715844
+    yaw: -341.27728271484375
+    pitch: 20.49247932434082
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 4789.918629476234
+  y: 58.0
+  z: -4026.22059787312
+  yaw: 77.7679672241211
+  pitch: -5.461967945098877
+  world-name: ''
+ip-address: 82.239.150.54
+last-account-name: BabaCool136
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

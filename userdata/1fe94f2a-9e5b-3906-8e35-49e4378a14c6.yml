@@ -1,0 +1,63 @@
+timestamps:
+  login: 1587760991247
+  lastteleport: 1587758493226
+  logout: 1587761186666
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4104.9168003170635
+  y: 66.0
+  z: -3713.1854308097036
+  yaw: 68.8304443359375
+  pitch: 2.5536487102508545
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 7875.209068604142
+  y: 89.0
+  z: -782.2468345719627
+  yaw: 176.76963806152344
+  pitch: 34.49958038330078
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 4633.32906484008
+    y: 78.0
+    z: 864.5872859527913
+    yaw: -259.04351806640625
+    pitch: 1.8392117023468018
+    world-name: ''
+  maison:
+    world: world
+    x: -4076.406630604235
+    y: 66.0
+    z: -3702.250336491816
+    yaw: -276.92034912109375
+    pitch: 9.903705596923828
+    world-name: ''
+  noel:
+    world: world
+    x: 7924.114959836363
+    y: 77.0
+    z: -794.7147757833036
+    yaw: -98.0328598022461
+    pitch: 12.523239135742188
+    world-name: ''
+ip-address: 86.207.240.129
+last-account-name: Midarek
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

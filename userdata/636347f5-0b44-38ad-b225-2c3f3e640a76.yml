@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609608341139
+  lastteleport: 1609608913468
+  logout: 1609609169368
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3553.8052131849245
+  y: 64.0
+  z: 6257.577087068082
+  yaw: 256.7998962402344
+  pitch: 20.550094604492188
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.7075118159936
+  y: 64.0
+  z: 11.74761333663687
+  yaw: 3.2047502994537354
+  pitch: 9.275834083557129
+  world-name: ''
+ip-address: 90.29.183.184
+last-account-name: Gayarra_Frost
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

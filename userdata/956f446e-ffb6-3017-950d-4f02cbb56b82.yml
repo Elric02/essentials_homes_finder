@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614441848641
+  lastteleport: 1614443379803
+  logout: 1614443702351
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 174.48683552433073
+  y: 63.0
+  z: 36.607248489409045
+  yaw: -144.39425659179688
+  pitch: 3.7259042263031006
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 446.53965851984924
+  y: 67.0
+  z: -3.4519172179023156
+  yaw: 69.89741516113281
+  pitch: 16.385900497436523
+  world-name: ''
+ip-address: 92.184.108.66
+last-account-name: Ynot07
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

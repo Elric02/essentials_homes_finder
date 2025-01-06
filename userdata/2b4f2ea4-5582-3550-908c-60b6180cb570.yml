@@ -1,0 +1,55 @@
+timestamps:
+  login: 1485929718788
+  lastteleport: 1485932112567
+  logout: 1485932166092
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 143.06015337838792
+  y: 64.0
+  z: 23.078065629621733
+  yaw: 224.6390838623047
+  pitch: 6.899983882904053
+  world-name: ''
+money: '0'
+homes:
+  mine:
+    world: ressource
+    x: -6.613606755006301
+    y: 11.0
+    z: 290.977208561912
+    yaw: 177.323974609375
+    pitch: 30.449995040893555
+    world-name: ''
+  maisonette:
+    world: world
+    x: -832.0314557852604
+    y: 69.0
+    z: -3535.378565748781
+    yaw: -1.94927978515625
+    pitch: 19.20003318786621
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -829.7634768577594
+  y: 70.0
+  z: -3534.762499988079
+  yaw: -88.64927673339844
+  pitch: -30.299951553344727
+  world-name: ''
+ip-address: 78.217.127.21
+last-account-name: lolita32
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480240408450
+  logout: 1480240513184
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.95432460939702
+  y: 27.0
+  z: 20.36973850481365
+  yaw: -85.84626770019531
+  pitch: 8.069175720214844
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 187.42118721086138
+  y: 63.0
+  z: 25.210284021566398
+  yaw: 154.35691833496094
+  pitch: 7.8389668464660645
+  world-name: ''
+ip-address: 90.19.41.99
+last-account-name: Goraku
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479141606993
+  logout: 1479141936433
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world_nether
+  x: 75.55354552522299
+  y: 74.0
+  z: -71.51836411905626
+  yaw: -191.72393798828125
+  pitch: -17.444446563720703
+  world-name: ''
+ip-address: 89.86.225.232
+last-account-name: Clasheur98
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

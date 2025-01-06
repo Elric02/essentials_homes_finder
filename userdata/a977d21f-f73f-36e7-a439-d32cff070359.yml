@@ -1,0 +1,38 @@
+timestamps:
+  login: 1619786165042
+  lastteleport: 1619786344972
+  logout: 1619786516211
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 212.67148754627362
+  y: 63.0
+  z: 31.925278013072507
+  yaw: -101.4947738647461
+  pitch: 13.475813865661621
+  world-name: ''
+ip-address: 109.219.81.30
+last-account-name: Vl2ad
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614626263807
+  logout: 1614626622768
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.08126761903483
+  y: 63.0
+  z: -7.237273206134237
+  yaw: 147.81484985351562
+  pitch: 35.38703155517578
+  world-name: ''
+ip-address: 86.220.201.183
+last-account-name: MrCandySpace
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480775950448
+  logout: 1480776020831
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 4068.300000011921
+  y: 69.0
+  z: -3138.4545206156163
+  yaw: 42.29999542236328
+  pitch: 47.99998474121094
+  world-name: ''
+ip-address: 93.11.135.96
+last-account-name: NikoWarriors
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

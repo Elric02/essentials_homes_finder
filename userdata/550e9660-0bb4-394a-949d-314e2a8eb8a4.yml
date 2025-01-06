@@ -1,0 +1,38 @@
+timestamps:
+  login: 1598267933013
+  logout: 1598268369103
+  lastteleport: 1598267976661
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4099.325554935999
+  y: 70.0
+  z: 3877.02341089907
+  yaw: 135.72427368164062
+  pitch: 9.083063125610352
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2801.3148446485225
+  y: 78.0
+  z: -286.66547436358474
+  yaw: -288.1585693359375
+  pitch: 33.6906623840332
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 90.47.216.227
+last-account-name: Swertox
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

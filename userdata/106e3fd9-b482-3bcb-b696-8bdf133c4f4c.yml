@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521663437672
+  lastteleport: 1521663573238
+  logout: 1521663628248
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -202.46681975542475
+  y: 67.0
+  z: 653.1187591129662
+  yaw: 34.03521728515625
+  pitch: 12.81779670715332
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6219.54331771185
+  y: 68.0
+  z: -6254.195713470213
+  yaw: 77.10011291503906
+  pitch: 13.650020599365234
+  world-name: ''
+ip-address: 176.148.225.208
+last-account-name: Michael
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

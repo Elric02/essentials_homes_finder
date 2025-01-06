@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472912399335
+  lastteleport: 1472912466407
+  logout: 1472912814895
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.66873375484766
+  y: 27.0
+  z: 23.932301851145333
+  yaw: -254.29736328125
+  pitch: 26.197399139404297
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 109.70532768983796
+  y: 63.0
+  z: 51.697274269545744
+  yaw: -109.56356811523438
+  pitch: 10.049994468688965
+  world-name: ''
+ip-address: 83.141.195.90
+last-account-name: Dylan67
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

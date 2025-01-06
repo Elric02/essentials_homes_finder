@@ -1,0 +1,63 @@
+timestamps:
+  login: 1501535959843
+  lastteleport: 1501366770163
+  logout: 1501535974108
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -265.6233246003785
+  y: 72.0
+  z: 318.743626128829
+  yaw: -183.092041015625
+  pitch: 10.087215423583984
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -4501.699999988079
+    y: 53.0
+    z: -6637.442321697494
+    yaw: -91.02458190917969
+    pitch: -2.2500250339508057
+    world-name: ''
+  mesa:
+    world: world
+    x: -264.5928262893163
+    y: 72.0
+    z: 317.00348309579016
+    yaw: -174.991943359375
+    pitch: 20.58721160888672
+    world-name: ''
+  bois:
+    world: Ressource
+    x: -2138.699999988079
+    y: 80.0
+    z: 2042.304000519314
+    yaw: 218.24658203125
+    pitch: 39.59999084472656
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -2183.699999988079
+  y: 90.0
+  z: 2007.300000011921
+  yaw: 111.6029281616211
+  pitch: 27.000001907348633
+  world-name: ''
+afk: false
+ip-address: 142.217.98.188
+last-account-name: Danouk10
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

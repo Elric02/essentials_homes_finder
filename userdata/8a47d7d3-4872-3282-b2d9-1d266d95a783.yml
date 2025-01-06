@@ -1,0 +1,38 @@
+timestamps:
+  login: 1620227890038
+  lastteleport: 1620228424190
+  logout: 1620232277946
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6922.564867836935
+  y: 70.0
+  z: 2065.106096128605
+  yaw: 22.86376953125
+  pitch: 14.643630027770996
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3257.300000011921
+  y: 57.0
+  z: 7248.702225699791
+  yaw: 273.41094970703125
+  pitch: 47.110809326171875
+  world-name: ''
+ip-address: 197.200.92.13
+last-account-name: Safkhey
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

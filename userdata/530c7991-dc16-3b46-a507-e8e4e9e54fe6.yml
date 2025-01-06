@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.126.114.37
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701412690758
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701412697593
+  login: 1701412147092
+money: '0'
+last-account-name: Mizunotenshi21
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 245.5
+  y: 133.00133597911216
+  z: 140.5
+  yaw: -34.928955078125
+  pitch: 9.15036392211914
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 590.9566311617497
+  y: 48.657601045701824
+  z: 388.81732681846046
+  yaw: -157.34381103515625
+  pitch: 28.499935150146484

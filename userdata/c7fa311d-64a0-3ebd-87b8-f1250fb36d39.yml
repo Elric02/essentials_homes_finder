@@ -1,0 +1,38 @@
+timestamps:
+  login: 1598010268202
+  lastteleport: 1598012274192
+  logout: 1598012440478
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -271.1880047766448
+  y: 65.0
+  z: 366.7903295430232
+  yaw: 259.65045166015625
+  pitch: 5.700008869171143
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -133.22084045410156
+  pitch: 0.9286696314811707
+  world-name: ''
+ip-address: 92.141.25.199
+last-account-name: Floower
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

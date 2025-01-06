@@ -1,0 +1,38 @@
+timestamps:
+  login: 1622985651323
+  lastteleport: 1622985770870
+  logout: 1622985881319
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6566.7966003073
+  y: 68.0
+  z: -6483.699999988079
+  yaw: -7.650140285491943
+  pitch: 51.449974060058594
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 143.07392176904375
+  y: 77.0
+  z: -3144.842558453522
+  yaw: 275.69964599609375
+  pitch: 24.90003204345703
+  world-name: ''
+ip-address: 81.220.234.223
+last-account-name: blackzetsu2887
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

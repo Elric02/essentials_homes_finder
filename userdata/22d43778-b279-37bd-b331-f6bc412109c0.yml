@@ -1,0 +1,47 @@
+timestamps:
+  login: 1472901972701
+  lastteleport: 1470944044842
+  logout: 1472902037396
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2002.8591290122047
+  y: 72.0
+  z: 5845.497099785971
+  yaw: -243.9002685546875
+  pitch: 65.70001220703125
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 5603.529556088854
+    y: 63.0
+    z: -1861.4401037365772
+    yaw: -190.0501708984375
+    pitch: 18.45000457763672
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 756.2455598584435
+  y: 71.0
+  z: 5411.373124265883
+  yaw: 150.90011596679688
+  pitch: 33.74997329711914
+  world-name: ''
+ip-address: 90.104.107.83
+last-account-name: thedarklordi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

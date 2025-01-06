@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500836859730
+  logout: 1500836884952
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 90.04654378858494
+  y: 63.0
+  z: 38.32866347841608
+  yaw: -334.09820556640625
+  pitch: 0.5474017858505249
+  world-name: ''
+ip-address: 81.49.143.247
+last-account-name: Nemix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

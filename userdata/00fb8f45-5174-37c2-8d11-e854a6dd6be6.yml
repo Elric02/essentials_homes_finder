@@ -1,0 +1,47 @@
+timestamps:
+  login: 1482873114824
+  lastteleport: 1482872412503
+  logout: 1482873835779
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.62392695234877
+  y: 64.0
+  z: 15.52503851845869
+  yaw: -192.98728942871094
+  pitch: 15.599893569946289
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5959.913826087431
+  y: 64.0
+  z: 3631.1002832457816
+  yaw: -201.537353515625
+  pitch: 7.799905300140381
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 6046.623924235226
+    y: 64.0
+    z: 3629.165284144662
+    yaw: 140.57989501953125
+    pitch: 9.032740592956543
+    world-name: ''
+afk: false
+ip-address: 81.254.172.204
+last-account-name: Skiipe
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479228144765
+  lastteleport: 1479229411619
+  logout: 1479231128161
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 832.7959920169093
+  y: 70.5
+  z: 2488.2060079727457
+  yaw: 27.381988525390625
+  pitch: 20.849950790405273
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: ressource
+  x: 121.30000001192091
+  y: 8.0
+  z: 738.3000000119209
+  yaw: -38.592041015625
+  pitch: 27.300025939941406
+  world-name: ''
+ip-address: 90.104.115.174
+last-account-name: thonina
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1496473952899
+  logout: 1496474160156
+  lastteleport: 1496474058664
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3038.8301848463248
+  y: 63.0
+  z: -1543.5670450915218
+  yaw: -321.58148193359375
+  pitch: 25.500015258789062
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 3725.708287619036
+  y: 61.0
+  z: 5760.120632799457
+  yaw: 62.99945068359375
+  pitch: 4.05002498626709
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 3057.3487461769682
+    y: 64.0
+    z: -1537.928602962287
+    yaw: -193.6317138671875
+    pitch: 7.350018501281738
+    world-name: ''
+ip-address: 176.147.101.162
+last-account-name: Dragnyr_84
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.134.24.235
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682171838499
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682171910897
+  login: 1682171767929
+money: '0'
+last-account-name: ayatagrossetante
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.11097034851605
+  y: 81.0
+  z: -3110.4346403963514
+  yaw: -88.04817962646484
+  pitch: 15.89995002746582
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 159.90670287513439
+  y: 63.0
+  z: 8.706099230364908
+  yaw: 133.21524047851562
+  pitch: 4.6503005027771

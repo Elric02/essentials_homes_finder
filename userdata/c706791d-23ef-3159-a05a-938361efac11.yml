@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487092903335
+  logout: 1487093061636
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3921.4621302746905
+  y: 79.0
+  z: -6609.719336016712
+  yaw: -345.4499206542969
+  pitch: 69.14996337890625
+  world-name: ''
+ip-address: 78.237.192.232
+last-account-name: johan
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1540900812627
+  logout: 1540902052528
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1.9552111815466633
+  y: 69.0
+  z: -46.058420893878164
+  yaw: -155.75311279296875
+  pitch: 29.94063377380371
+  world-name: ''
+afk: false
+ip-address: 105.156.112.134
+last-account-name: audry
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

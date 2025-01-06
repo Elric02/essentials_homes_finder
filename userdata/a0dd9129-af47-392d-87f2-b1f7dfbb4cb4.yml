@@ -1,0 +1,39 @@
+timestamps:
+  login: 1565181502826
+  jail: 0
+  logout: 1565182428158
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2647.536819934845
+  y: 64.0
+  z: -707.5929746627808
+  yaw: 27.29950523376465
+  pitch: 40.050079345703125
+  world-name: ''
+jailed: true
+jail: rose1
+logoutlocation:
+  world: world
+  x: -155.6280266507429
+  y: 13.0
+  z: 571.6971053508877
+  yaw: -53.850128173828125
+  pitch: 43.50007247924805
+  world-name: ''
+ip-address: 176.154.55.237
+last-account-name: Superzombie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

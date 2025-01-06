@@ -1,0 +1,114 @@
+timestamps:
+  login: 1484410511751
+  lastteleport: 1484411116261
+  logout: 1484412119107
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4870.582048023978
+  y: 91.91171690427358
+  z: -530.8822050142617
+  yaw: -295.9718017578125
+  pitch: 16.349933624267578
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1157.2810656816844
+  y: 125.47740157255518
+  z: -683.6436186687777
+  yaw: -138.6246337890625
+  pitch: 17.550029754638672
+  world-name: ''
+afk: false
+homes:
+  chateau:
+    world: world
+    x: -635.8284444572961
+    y: 66.0
+    z: -1086.9375538635356
+    yaw: -45.30107498168945
+    pitch: 25.500600814819336
+    world-name: ''
+  home:
+    world: world
+    x: -826.6363196891016
+    y: 137.0
+    z: -1078.8760182991255
+    yaw: -273.1512145996094
+    pitch: 18.750579833984375
+    world-name: ''
+  city:
+    world: world
+    x: 4702.984590419966
+    y: 84.0
+    z: 5071.187446158307
+    yaw: -271.532470703125
+    pitch: 8.69955825805664
+    world-name: ''
+  labo:
+    world: world
+    x: 4676.784523884344
+    y: 7.0
+    z: 5088.2441790197445
+    yaw: -90.2119140625
+    pitch: 16.349809646606445
+    world-name: ''
+  test:
+    world: Test
+    x: 485.14124261499984
+    y: 4.0
+    z: 228.13023520408817
+    yaw: 172.34866333007812
+    pitch: 33.60004425048828
+    world-name: ''
+  graviton:
+    world: world
+    x: -1029.3716690893177
+    y: 69.0
+    z: 1850.9604807134015
+    yaw: -4.466033935546875
+    pitch: 19.95000648498535
+    world-name: ''
+  plan:
+    world: Test
+    x: 954.8883711885735
+    y: 9.0
+    z: 203.3731470035066
+    yaw: 209.4410858154297
+    pitch: -0.011889016255736351
+    world-name: ''
+  arbre:
+    world: world
+    x: -5347.353509547527
+    y: 98.0
+    z: 574.3520287403368
+    yaw: -1.4705810546875
+    pitch: 46.34995651245117
+    world-name: ''
+socialspy: true
+powertools:
+  '293':
+  - thor
+  '2267':
+  - forestgen 20 acacia 1
+  '2266':
+  - forestgen 20 Megaredwood 1
+  '2265':
+  - forestgen 20 darkoak 1
+  '2264':
+  - forestgen 20 big 1
+godmode: true
+ip-address: 2.13.122.154
+last-account-name: Katset
+teleportenabled: true
+teleportauto: false
+muted: false
+jailed: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

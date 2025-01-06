@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.160.143.27
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667591077551
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667693283192
+  login: 1667692514217
+money: '0'
+last-account-name: LeGrandNapoleon
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -535.0
+  y: 69.62380519365318
+  z: 66.17944490788435
+  yaw: 78.21560668945312
+  pitch: 40.42584228515625
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 484.5070158215423
+  y: 77.41766436097326
+  z: -414.1670381506603
+  yaw: -91.31805419921875
+  pitch: 43.43496322631836

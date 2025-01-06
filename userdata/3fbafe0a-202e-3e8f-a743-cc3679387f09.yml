@@ -1,0 +1,63 @@
+timestamps:
+  login: 1586043664249
+  logout: 1586045429668
+  lastteleport: 1586045096853
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5122.065385099403
+  y: 69.5
+  z: 5716.265292728054
+  yaw: -275.30389404296875
+  pitch: 14.226024627685547
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5116.454206405765
+  y: 71.0
+  z: 5716.935324939863
+  yaw: -22.26681137084961
+  pitch: -19.647855758666992
+  world-name: ''
+money: '0'
+homes:
+  i:
+    world: world
+    x: -5111.802173203535
+    y: 81.0
+    z: 5716.147813246912
+    yaw: 41.13714599609375
+    pitch: 22.042884826660156
+    world-name: ''
+  baseeee:
+    world: world
+    x: -5130.709956095063
+    y: 64.0
+    z: 5698.585541285896
+    yaw: 86.09194946289062
+    pitch: 52.152442932128906
+    world-name: ''
+  shop:
+    world: world
+    x: 1494.3004518314337
+    y: 71.0
+    z: -2187.390661882948
+    yaw: 70.64347076416016
+    pitch: 26.885456085205078
+    world-name: ''
+afk: false
+ip-address: 193.250.105.234
+last-account-name: StrangerSkrillex
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

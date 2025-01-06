@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486835869520
+  lastteleport: 1472648817671
+  logout: 1486836016540
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -277.39727783203125
+  pitch: -5.152594566345215
+  world-name: ''
+logoutlocation:
+  world: Test
+  x: 307.3793324593252
+  y: 4.0
+  z: 316.89675506589305
+  yaw: 85.88980102539062
+  pitch: 31.95001983642578
+  world-name: ''
+ip-address: 90.31.16.118
+last-account-name: Cyrillus
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

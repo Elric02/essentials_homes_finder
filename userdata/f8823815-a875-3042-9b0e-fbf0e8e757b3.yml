@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.123.177.117
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698349171701
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698349776138
+  login: 1698348920178
+money: '0'
+last-account-name: elcrado
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 27.588705101755735
+  y: 67.00294751342636
+  z: -751.0
+  yaw: -55.73645782470703
+  pitch: 45.90024185180664
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -126.48830851232866
+  y: 108.11142466768847
+  z: 30.63858404339831
+  yaw: -60.686279296875
+  pitch: -4.04987096786499

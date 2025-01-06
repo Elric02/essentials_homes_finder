@@ -1,0 +1,63 @@
+timestamps:
+  login: 1632069742987
+  logout: 1632070001733
+  lastteleport: 1632069779653
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -6129.517317471838
+  y: 59.0
+  z: -3504.8280044064522
+  yaw: -95.03875732421875
+  pitch: 57.01347732543945
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -861.6901005532126
+  y: 63.0
+  z: 4803.54444036863
+  yaw: -8.796947479248047
+  pitch: 56.268978118896484
+  world-name: world
+money: '0'
+afk: false
+homes:
+  a:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -864.7520297249173
+    y: 63.0
+    z: 4803.548215516021
+    yaw: -78.6165771484375
+    pitch: 74.0643310546875
+    world-name: world
+  c:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -891.8743678746149
+    y: 72.0
+    z: 4887.386811277616
+    yaw: -147.44027709960938
+    pitch: 66.12815856933594
+  b:
+    world: 3a659668-fcff-4428-954b-56a5ff3c2757
+    world-name: End
+    x: -1207.8974609407446
+    y: 59.0
+    z: 395.32299685401443
+    yaw: -265.6143798828125
+    pitch: 23.15898895263672
+ip-address: 90.59.236.248
+last-account-name: antilope256
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

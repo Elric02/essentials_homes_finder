@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477229996471
+  logout: 1477230676182
+  lastteleport: 1477230395154
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 3856.903917429339
+  y: 73.0
+  z: 1483.369265341467
+  yaw: 31.95147705078125
+  pitch: 23.699899673461914
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.8862406183125
+  y: 64.0
+  z: 16.576365867841723
+  yaw: -90.77935791015625
+  pitch: 20.686965942382812
+  world-name: ''
+ip-address: 2.12.97.167
+last-account-name: LeDiscordia
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

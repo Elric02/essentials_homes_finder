@@ -1,0 +1,38 @@
+timestamps:
+  login: 1591966136444
+  lastteleport: 1591966348580
+  logout: 1591967031176
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.95945683666417
+  y: 63.0
+  z: 58.19112650889417
+  yaw: 317.43896484375
+  pitch: 4.372195720672607
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -3.4536150347522168
+  y: 64.0
+  z: 132.12644031505573
+  yaw: 142.88168334960938
+  pitch: 25.135845184326172
+  world-name: ''
+ip-address: 91.167.49.103
+last-account-name: X_LeGenDs_X
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471699131834
+  logout: 1471700274847
+  lastteleport: 1471700056525
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5381.00332494451
+  y: 67.0
+  z: 537.3232261342819
+  yaw: 125.0634765625
+  pitch: 3.1500144004821777
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -218.2834483303146
+  y: 47.0
+  z: 507.2574398308498
+  yaw: 300.24810791015625
+  pitch: 6.749999046325684
+  world-name: ''
+ip-address: 90.108.163.58
+last-account-name: Argawen
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1544818898423
+  lastteleport: 1544819885442
+  logout: 1544820065845
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1672.0926167139187
+  y: 4.0
+  z: -148.30000001192093
+  yaw: 343.1988220214844
+  pitch: 5.250512599945068
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 2529.9688432357925
+  y: 62.0
+  z: -2784.6278662131035
+  yaw: -45.44419860839844
+  pitch: 20.827150344848633
+  world-name: ''
+homes:
+  village:
+    world: Ressource
+    x: 68.93439207178848
+    y: 67.0
+    z: -247.28695287462608
+    yaw: 357.91497802734375
+    pitch: 25.650005340576172
+    world-name: ''
+  m:
+    world: world
+    x: 2533.560093504459
+    y: 67.0
+    z: -2793.7727378450263
+    yaw: -25.7941951751709
+    pitch: 56.22715377807617
+    world-name: ''
+  m2:
+    world: Ressource
+    x: 2005.4684202399396
+    y: 7.0
+    z: 1433.699999988079
+    yaw: -133.79913330078125
+    pitch: 22.050260543823242
+    world-name: ''
+ip-address: 92.135.177.69
+last-account-name: _HTM_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

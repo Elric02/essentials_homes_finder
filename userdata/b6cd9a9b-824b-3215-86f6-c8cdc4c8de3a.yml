@@ -1,0 +1,63 @@
+timestamps:
+  login: 1525519929099
+  lastteleport: 1515874713085
+  logout: 1525521478642
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5375.5
+  y: 64.0
+  z: -1240.5
+  yaw: -301.18487548828125
+  pitch: 19.20001983642578
+  world-name: ''
+homes:
+  joris:
+    world: world
+    x: 5467.605310432486
+    y: 64.5
+    z: -1129.4731612467028
+    yaw: 117.76534271240234
+    pitch: 10.500021934509277
+    world-name: ''
+  baudry:
+    world: world
+    x: 5375.756426259403
+    y: 64.0
+    z: -1240.0761681925464
+    yaw: -299.68487548828125
+    pitch: 18.30002212524414
+    world-name: ''
+  candice:
+    world: world
+    x: 5418.259210295311
+    y: 63.0
+    z: -1153.9174233023361
+    yaw: 247.95645141601562
+    pitch: 18.899961471557617
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: 5379.5
+  y: 67.5625
+  z: -1232.5
+  yaw: 340.0653076171875
+  pitch: 39.75000762939453
+  world-name: ''
+muted: false
+ip-address: 88.122.217.84
+last-account-name: Cancan1885
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

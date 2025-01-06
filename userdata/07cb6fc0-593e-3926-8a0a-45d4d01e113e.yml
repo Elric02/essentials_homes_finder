@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469644502735
+  logout: 1469644649836
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 115.8810407765038
+  y: 70.0
+  z: -87.99830004165142
+  yaw: -237.01502990722656
+  pitch: 3.3695969581604004
+  world-name: ''
+ip-address: 95.141.49.217
+last-account-name: JeanRenerKiDanse
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

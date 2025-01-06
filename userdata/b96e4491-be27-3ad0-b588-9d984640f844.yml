@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509882096400
+  lastteleport: 1509883877339
+  logout: 1509883980556
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -29.369668770269424
+  y: 17.0
+  z: 15.229714072181618
+  yaw: -59.585506439208984
+  pitch: 10.983124732971191
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 5644.202846438774
+  y: 89.0
+  z: -2588.03006786696
+  yaw: 116.91090393066406
+  pitch: 84.0000228881836
+  world-name: ''
+ip-address: 89.93.246.86
+last-account-name: jojolol
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

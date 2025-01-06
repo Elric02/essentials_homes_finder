@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482431235567
+  lastteleport: 1482431520197
+  logout: 1482434281594
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5471153839669
+  y: 63.0
+  z: 48.69820388033291
+  yaw: -282.19769287109375
+  pitch: 20.100008010864258
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: ressource
+  x: 417.3208478365268
+  y: 57.0
+  z: 32.69999998807907
+  yaw: -4.948333740234375
+  pitch: 12.299983024597168
+  world-name: ''
+ip-address: 109.22.153.214
+last-account-name: MiyuOona
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

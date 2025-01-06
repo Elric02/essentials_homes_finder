@@ -1,0 +1,38 @@
+timestamps:
+  login: 1625489153263
+  logout: 1625489259950
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 29.156512628624032
+  y: 70.0
+  z: 68.21944159567954
+  yaw: 55.518165588378906
+  pitch: 3.64005184173584
+  world-name: ''
+ip-address: 86.236.129.177
+last-account-name: NautilusXVIII
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

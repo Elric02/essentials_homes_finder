@@ -1,0 +1,47 @@
+timestamps:
+  login: 1556348377237
+  lastteleport: 1556348423389
+  logout: 1556348617517
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 149.68543770406205
+  y: 86.57969854367613
+  z: -108.69999998807909
+  yaw: -159.29669189453125
+  pitch: 32.54993438720703
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -2415.6299106077904
+    y: 70.0
+    z: -1958.7125456144265
+    yaw: -254.9805908203125
+    pitch: -30.289335250854492
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 155.71661825670657
+  y: 63.0
+  z: 62.704440094931186
+  yaw: -175.3456573486328
+  pitch: 11.25
+  world-name: ''
+ip-address: 88.172.46.200
+last-account-name: darckblabla88
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

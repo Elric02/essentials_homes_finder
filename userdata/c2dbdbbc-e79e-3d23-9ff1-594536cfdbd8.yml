@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586268713581
+  lastteleport: 1586268893052
+  logout: 1586268924176
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 89.01249998807907
+  y: 63.0
+  z: -50.69999998807907
+  yaw: 33.571044921875
+  pitch: 0.2570292353630066
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.33604528625864
+  y: 64.0
+  z: 10.214057842472831
+  yaw: -197.53594970703125
+  pitch: 24.958683013916016
+  world-name: ''
+ip-address: 91.168.215.136
+last-account-name: Titidung
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

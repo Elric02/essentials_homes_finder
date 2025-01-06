@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477929792141
+  logout: 1477929860876
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 184.78266786485165
+  y: 63.0
+  z: -22.330194615688928
+  yaw: -94.50820922851562
+  pitch: 10.666126251220703
+  world-name: ''
+ip-address: 90.7.51.210
+last-account-name: KowzeSurYoutube
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1463481187372
+  lastteleport: 1463481398273
+  logout: 1463481662558
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 555.8428054476138
+  y: 59.5211072114622
+  z: -475.24449334425094
+  yaw: 330.453857421875
+  pitch: -1.7998027801513672
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 572.6485784854125
+  y: 103.0
+  z: -450.22857566289144
+  yaw: -104.68994140625
+  pitch: 58.35001754760742
+  world-name: ''
+ip-address: 78.199.26.137
+last-account-name: Gobul68Tkt
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

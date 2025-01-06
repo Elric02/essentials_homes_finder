@@ -1,0 +1,47 @@
+timestamps:
+  login: 1499086035911
+  lastteleport: 1499090936827
+  logout: 1499091455509
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51886849428075
+  y: 64.0
+  z: 30.398913971197842
+  yaw: -179.96673583984375
+  pitch: 10.86328125
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1855.4948895774885
+    y: 54.0
+    z: -4278.49473702731
+    yaw: 16.145355224609375
+    pitch: 28.050098419189453
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -3717.699999988079
+  y: 57.0
+  z: -2172.8029836991996
+  yaw: 282.19757080078125
+  pitch: 23.781097412109375
+  world-name: ''
+ip-address: 92.147.54.140
+last-account-name: RRCR3
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

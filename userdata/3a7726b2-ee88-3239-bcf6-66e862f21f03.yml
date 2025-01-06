@@ -1,0 +1,63 @@
+timestamps:
+  login: 1537805698100
+  lastteleport: 1537806261751
+  logout: 1537806370972
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -41.145963610962745
+  y: 64.0
+  z: 4.641370969936152
+  yaw: -213.920654296875
+  pitch: 49.94992446899414
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 102.11177775563755
+  y: 63.0
+  z: 23.754745429041446
+  yaw: -135.32089233398438
+  pitch: -3.5713162422180176
+  world-name: ''
+homes:
+  caca:
+    world: world
+    x: 132.0056831026819
+    y: 80.0
+    z: -1453.7395252008687
+    yaw: -231.30006408691406
+    pitch: 26.250022888183594
+    world-name: ''
+  mine:
+    world: world
+    x: 139.37780392927675
+    y: 13.0
+    z: -1494.9331827161448
+    yaw: 34.05061340332031
+    pitch: 57.45000457763672
+    world-name: ''
+  mineshaft:
+    world: world
+    x: 191.71560371967342
+    y: 11.0
+    z: -1479.4399478735618
+    yaw: 55.64805221557617
+    pitch: 79.1999740600586
+    world-name: ''
+afk: false
+ip-address: 88.189.146.157
+last-account-name: blockkiwi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

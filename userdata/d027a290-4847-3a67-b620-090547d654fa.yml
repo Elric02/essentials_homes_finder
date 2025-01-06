@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618047967584
+  lastteleport: 1618049967855
+  logout: 1618050402260
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 170.94094351192422
+  y: 138.0
+  z: -133.4483335671398
+  yaw: 29.99951171875
+  pitch: -22.42957305908203
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 35.53787712037231
+  y: 121.0
+  z: -6065.83791198156
+  yaw: -344.343994140625
+  pitch: 0.8633086085319519
+  world-name: ''
+ip-address: 90.73.114.62
+last-account-name: codnight
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,67 @@
+timestamps:
+  login: 1590002856337
+  lastteleport: 1590001002397
+  logout: 1590002920216
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5380.699524615708
+  y: 55.0
+  z: 1442.0871156561943
+  yaw: -178.3140869140625
+  pitch: 39.449745178222656
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2617.3363473265667
+    y: 67.0
+    z: -1982.9017460795358
+    yaw: -292.64984130859375
+    pitch: 55.20001983642578
+    world-name: ''
+  ilou:
+    world: world
+    x: -5271.5
+    y: 79.0
+    z: 1340.5
+    yaw: -0.46112060546875
+    pitch: 48.727394104003906
+    world-name: ''
+  luka:
+    world: world
+    x: 2622.567346916191
+    y: 65.0
+    z: -1982.4731822998249
+    yaw: -17.699920654296875
+    pitch: 32.850013732910156
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 2609.0265777481977
+  y: 61.0
+  z: -1997.2522409007154
+  yaw: -249.7498321533203
+  pitch: 14.54996109008789
+  world-name: ''
+ip-address: 94.239.101.11
+last-account-name: madara94
+mail:
+- legacy: true
+  read: false
+  message: §e[§rilou§e] §rbonjour, faut qu'on discute tout les 2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

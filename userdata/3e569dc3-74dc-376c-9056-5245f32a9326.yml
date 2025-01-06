@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.91.113.37
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1669554401158
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669554611416
+  login: 1669554321299
+money: '0'
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -106.93078707991144
+  y: 65.0
+  z: 58.80103702573317
+  yaw: -174.2509765625
+  pitch: 6.3391828536987305
+last-account-name: saussice_empire
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 3238.2240728176566
+  y: 80.0
+  z: 2819.7814772661172
+  yaw: -61.6884765625
+  pitch: 11.049042701721191

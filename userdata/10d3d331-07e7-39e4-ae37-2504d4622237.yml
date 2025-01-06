@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.204.28.217
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1680556818444
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680558285566
+  login: 1680556777268
+money: '0'
+last-account-name: HugoelLoco
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 395.69292620535794
+  y: 81.0
+  z: -3108.883949778037
+  yaw: -139.2001190185547
+  pitch: 11.999969482421875
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 189.33565600282583
+  y: 104.53701869432273
+  z: 248.26134683317244
+  yaw: 103.4345703125
+  pitch: 14.700103759765625

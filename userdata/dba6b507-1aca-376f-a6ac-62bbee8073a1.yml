@@ -1,0 +1,63 @@
+timestamps:
+  login: 1515878263319
+  logout: 1515879183182
+  lastteleport: 1515879169344
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5415.216554487123
+  y: 71.0
+  z: -5138.124308923468
+  yaw: 78.87802124023438
+  pitch: 2.306818962097168
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 5389.300000011921
+  y: 58.0625
+  z: -5161.300000011921
+  yaw: 263.6959228515625
+  pitch: 8.872568130493164
+  world-name: ''
+money: '0'
+homes:
+  end:
+    world: world_the_end
+    x: -2581.0585141054476
+    y: 63.0
+    z: 1772.02840232958
+    yaw: 35.80748748779297
+    pitch: 32.35432815551758
+    world-name: ''
+  sdc:
+    world: world
+    x: 5403.87939187198
+    y: 58.0625
+    z: -5149.964235079145
+    yaw: 269.0196228027344
+    pitch: 4.347511291503906
+    world-name: ''
+  minage:
+    world: Ressource
+    x: -6339.391750918827
+    y: 79.0
+    z: -4187.353233143822
+    yaw: 177.0143280029297
+    pitch: 13.339913368225098
+    world-name: ''
+afk: false
+ip-address: 88.180.18.130
+last-account-name: thibounet
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

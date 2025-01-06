@@ -1,0 +1,47 @@
+timestamps:
+  login: 1516547811242
+  logout: 1516553084294
+  lastteleport: 1516552784707
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -6429.300732864416
+  y: 34.0
+  z: 1883.3520135047513
+  yaw: 0.426025390625
+  pitch: 55.79999923706055
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 141.30000001192093
+  y: 66.5
+  z: 101.48093043381724
+  yaw: -83.52421569824219
+  pitch: 27.483030319213867
+  world-name: ''
+money: '0'
+homes:
+  zombie:
+    world: Ressource
+    x: -6429.98889820918
+    y: 43.0
+    z: 1881.405922844003
+    yaw: 13.498809814453125
+    pitch: -37.01359939575195
+    world-name: ''
+ip-address: 217.136.20.23
+last-account-name: Laeila
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1463844409976
+  lastteleport: 1463845836480
+  logout: 1463845902670
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: -27.69999998807907
+  y: 35.0
+  z: 40.69999998807907
+  yaw: -319.8015441894531
+  pitch: 7.9507293701171875
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 207.49033183450928
+  y: 63.0
+  z: 19.188264454449047
+  yaw: -93.2770004272461
+  pitch: 8.841931343078613
+  world-name: ''
+money: '0'
+ip-address: 90.73.10.213
+last-account-name: TDS_TheDarkSun
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

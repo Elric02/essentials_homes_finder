@@ -1,0 +1,63 @@
+timestamps:
+  login: 1490277926971
+  lastteleport: 1490277750821
+  logout: 1490277949813
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: -4174.699999988079
+  y: 92.0
+  z: 4234.92087289297
+  yaw: 246.07540893554688
+  pitch: 51.45000457763672
+  world-name: ''
+logoutlocation:
+  world: world_the_end
+  x: -4.550267087501883
+  y: 64.0
+  z: 1.334857258116474
+  yaw: -1.3726806640625
+  pitch: 33.75381851196289
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world_nether
+    x: -4150.0503954177275
+    y: 94.0
+    z: 4214.7747855891
+    yaw: 180.8253631591797
+    pitch: 16.949939727783203
+    world-name: ''
+  bois:
+    world: world
+    x: 1812.572584755889
+    y: 69.0
+    z: -6609.619755160397
+    yaw: -16.964111328125
+    pitch: 18.707805633544922
+    world-name: ''
+  spawner:
+    world: Ressource
+    x: 3982.5638454988534
+    y: 28.0
+    z: 4788.5496222261845
+    yaw: 267.3035888671875
+    pitch: 8.400001525878906
+    world-name: ''
+afk: false
+ip-address: 86.236.21.238
+last-account-name: Erosloustic
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

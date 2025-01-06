@@ -1,0 +1,47 @@
+timestamps:
+  login: 1539523676897
+  logout: 1539524297784
+  lastteleport: 1539522008367
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3420.6667032933515
+  y: 63.0
+  z: -1702.3641249562713
+  yaw: -88.01224517822266
+  pitch: 22.950090408325195
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3401.5280680821793
+  y: 73.0
+  z: -1718.335851081779
+  yaw: 174.3393096923828
+  pitch: -16.80000114440918
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 3402.855600576722
+    y: 63.5
+    z: -1709.2843682605085
+    yaw: 90.7877197265625
+    pitch: 3.150076389312744
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 77.154.202.109
+last-account-name: DokT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

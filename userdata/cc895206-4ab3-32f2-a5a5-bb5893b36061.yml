@@ -1,0 +1,63 @@
+timestamps:
+  login: 1493930427395
+  logout: 1493930438123
+  lastteleport: 1493663962554
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4942.03959755904
+  y: 67.0
+  z: -1827.2709701326692
+  yaw: 131.25424194335938
+  pitch: 12.899852752685547
+  world-name: ''
+money: '0'
+homes:
+  m:
+    world: world
+    x: -5600.549595854063
+    y: 64.0
+    z: 6233.504308304164
+    yaw: 271.5637512207031
+    pitch: 26.700008392333984
+    world-name: ''
+  g:
+    world: world
+    x: 3069.7637029550087
+    y: 64.0
+    z: 4753.611033227058
+    yaw: 270.9032287597656
+    pitch: -4.200327396392822
+    world-name: ''
+  i:
+    world: world
+    x: -5365.741578367273
+    y: 63.0
+    z: 4635.340761003545
+    yaw: 354.1544189453125
+    pitch: 23.999935150146484
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 7200.7784698149235
+  y: 71.0
+  z: 6580.702602526528
+  yaw: -27.000486373901367
+  pitch: 13.950013160705566
+  world-name: ''
+afk: false
+ip-address: 84.98.13.181
+last-account-name: Ruby975
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517244637051
+  logout: 1517244761648
+  lastteleport: 1517244654788
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 187.94007116940568
+  y: 63.0
+  z: 28.091096413410117
+  yaw: -251.9029541015625
+  pitch: 36.00001907348633
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 160.2864460883585
+  y: 60.69418994014667
+  z: 90.94640200873941
+  yaw: -188.27088928222656
+  pitch: 0.4786447584629059
+  world-name: ''
+ip-address: 88.187.94.190
+last-account-name: EnzoPilati
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

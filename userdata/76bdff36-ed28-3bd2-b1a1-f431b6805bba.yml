@@ -1,0 +1,38 @@
+timestamps:
+  login: 1599240467770
+  logout: 1599240551749
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -293.5631282192899
+  y: 62.0
+  z: -123.69999998807907
+  yaw: -164.90985107421875
+  pitch: 23.550073623657227
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 107.7602076850083
+  y: 63.0
+  z: -49.83614701802624
+  yaw: -204.6146240234375
+  pitch: 21.178735733032227
+  world-name: ''
+money: '0'
+ip-address: 81.254.34.38
+last-account-name: Make_Haron_YT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

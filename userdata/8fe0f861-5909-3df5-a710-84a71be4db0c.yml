@@ -1,0 +1,38 @@
+timestamps:
+  login: 1524992541315
+  logout: 1524992544455
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 158.679769414884
+  y: 65.875
+  z: 97.87108294985228
+  yaw: 188.94692993164062
+  pitch: 15.99065113067627
+  world-name: ''
+ip-address: 82.240.176.189
+last-account-name: TheKriger
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

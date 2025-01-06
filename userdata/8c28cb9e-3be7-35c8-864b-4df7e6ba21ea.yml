@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490875768236
+  lastteleport: 1490875859775
+  logout: 1490876179897
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.0764608760875
+  y: 64.0
+  z: 28.77745022596126
+  yaw: -124.49365234375
+  pitch: 24.466293334960938
+  world-name: ''
+ip-address: 93.7.24.45
+last-account-name: Emiko_Dokkou
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

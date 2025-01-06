@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.112.83.126
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1637267358536
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1637269326635
+  login: 1637264736726
+money: '0'
+last-account-name: Snakest3r
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 154.01768396833273
+  y: 64.0
+  z: 21.008837036788076
+  yaw: 83.9002685546875
+  pitch: 5.894357681274414
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 218.5678721459729
+  y: 64.5
+  z: 28.550920930146283
+  yaw: 329.41839599609375
+  pitch: 13.473992347717285

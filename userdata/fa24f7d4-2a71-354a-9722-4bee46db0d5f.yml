@@ -1,0 +1,55 @@
+timestamps:
+  login: 1494845973974
+  logout: 1494846988311
+  lastteleport: 1494846964283
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2819.316346335083
+  y: 43.0
+  z: 29.672060455637553
+  yaw: -113.31845092773438
+  pitch: -33.49441146850586
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2817.9256996908243
+  y: 68.0
+  z: 33.4244435051898
+  yaw: 20.62083625793457
+  pitch: 31.01760482788086
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -6890.836049779682
+    y: 68.0
+    z: -2004.0001415235663
+    yaw: -284.71820068359375
+    pitch: 35.31840896606445
+    world-name: ''
+  maison2:
+    world: world
+    x: -6893.028453446253
+    y: 70.5
+    z: -2052.4112614260666
+    yaw: 108.6514892578125
+    pitch: 59.27999496459961
+    world-name: ''
+afk: false
+ip-address: 82.249.253.46
+last-account-name: FlyZ3r
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

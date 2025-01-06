@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479060748109
+  lastteleport: 1479060945431
+  logout: 1479061433649
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 194.94226247156243
+  y: 63.0
+  z: 10.001755105389156
+  yaw: -258.8678283691406
+  pitch: 8.226009368896484
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2086.8934562796376
+  y: 97.0
+  z: -5372.315753185116
+  yaw: -100.96649169921875
+  pitch: 20.952882766723633
+  world-name: ''
+ip-address: 92.171.106.171
+last-account-name: rafafouille63
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

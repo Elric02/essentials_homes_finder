@@ -1,0 +1,63 @@
+timestamps:
+  login: 1488651254205
+  logout: 1488651263586
+  lastteleport: 1488651261157
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2426.130966800938
+  y: 28.0
+  z: -6315.687311552346
+  yaw: -327.8500061035156
+  pitch: 17.42763328552246
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1712.7811533227402
+  y: 100.0
+  z: -3453.4079581740875
+  yaw: 11.249670028686523
+  pitch: 13.2000093460083
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 1714.3691861912826
+    y: 100.0
+    z: -3452.7689929156504
+    yaw: -69.15032958984375
+    pitch: 7.350003719329834
+    world-name: ''
+  vincent:
+    world: world
+    x: 1542.8407277797592
+    y: 63.0
+    z: -3413.300572029981
+    yaw: -337.35015869140625
+    pitch: 12.299992561340332
+    world-name: ''
+  benji:
+    world: world
+    x: 2379.4962072286303
+    y: 90.0
+    z: -6283.80792222386
+    yaw: -268.8743896484375
+    pitch: 15.449995994567871
+    world-name: ''
+afk: false
+ip-address: 80.201.183.246
+last-account-name: Laelia__
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

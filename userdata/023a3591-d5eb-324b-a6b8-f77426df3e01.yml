@@ -1,0 +1,63 @@
+timestamps:
+  login: 1516560429368
+  lastteleport: 1516561296934
+  logout: 1516561367963
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5172.0
+  y: 71.0
+  z: 652.0
+  yaw: -308.699951171875
+  pitch: 19.200008392333984
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -4010.311047460383
+  y: 68.0
+  z: 4022.12531268108
+  yaw: -259.4606628417969
+  pitch: -6.300049781799316
+  world-name: ''
+money: '0'
+homes:
+  to:
+    world: world
+    x: -4002.408926629661
+    y: 68.0
+    z: 4029.444425492464
+    yaw: -100.0113754272461
+    pitch: 9.599943161010742
+    world-name: ''
+  ta:
+    world: world
+    x: -3870.607874651228
+    y: 91.0
+    z: 4099.837327751765
+    yaw: 329.8900146484375
+    pitch: 36.299983978271484
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 2087.0416512284737
+    y: 81.0
+    z: -21.666462783275907
+    yaw: 25.200347900390625
+    pitch: 25.50007438659668
+    world-name: ''
+afk: false
+ip-address: 90.23.212.146
+last-account-name: Totem_404
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1506779256377
+  logout: 1506780977630
+  lastteleport: 1506779544335
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 547.4391521015958
+  y: 63.0
+  z: 2358.232273405428
+  yaw: 274.777099609375
+  pitch: 8.25
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 3537.7731727076375
+    y: 63.0
+    z: -1441.5615712532212
+    yaw: -156.6685333251953
+    pitch: 15.149996757507324
+    world-name: ''
+  diams:
+    world: Ressource
+    x: -4582.27979108949
+    y: 64.0
+    z: -3589.180508879699
+    yaw: 72.15349578857422
+    pitch: 0.899956464767456
+    world-name: ''
+  exido:
+    world: world
+    x: 614.324773532378
+    y: 96.0
+    z: 2439.677264408376
+    yaw: 190.4774169921875
+    pitch: 20.2499942779541
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3600.699999988079
+  y: 64.0
+  z: -1481.300000011921
+  yaw: 135.2305908203125
+  pitch: 23.999929428100586
+  world-name: ''
+afk: false
+ip-address: 92.153.233.44
+last-account-name: ILovBack
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

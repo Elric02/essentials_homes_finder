@@ -1,0 +1,38 @@
+timestamps:
+  login: 1623434126115
+  logout: 1623434193064
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.72260996576017
+  y: 64.0
+  z: 16.81325337284305
+  yaw: 214.597900390625
+  pitch: 16.140621185302734
+  world-name: ''
+ip-address: 91.182.3.89
+last-account-name: inata3
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

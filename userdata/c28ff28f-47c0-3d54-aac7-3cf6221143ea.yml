@@ -1,0 +1,87 @@
+timestamps:
+  login: 1728350808189
+  logout: 1728350808326
+  lastteleport: 1724942029919
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 6859.946402395848
+  y: 108.0
+  z: -3844.917706457661
+  yaw: -173.10015869140625
+  pitch: 6.449898719787598
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 6840.8883341063765
+  y: 6.0
+  z: -3849.7064431276335
+  yaw: -61.198211669921875
+  pitch: 15.450035095214844
+  world-name: world
+money: '16265.079999999999950'
+homes:
+  coffre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6849.016514535298
+    y: 108.0
+    z: -3840.594045278459
+    yaw: 106.49981689453125
+    pitch: 4.649896621704102
+  retal:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6810.2692297932035
+    y: 59.0
+    z: -3893.830543165746
+    yaw: 107.22021484375
+    pitch: 13.800008773803711
+  enterprise:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6789.590914613497
+    y: 139.0
+    z: -3921.4816041530353
+    yaw: 42.000030517578125
+    pitch: 64.19989013671875
+  cyclotron:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6809.300000011921
+    y: -22.0
+    z: -3929.699999988079
+    yaw: 100.76998901367188
+    pitch: 16.499982833862305
+  glace:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -1717.699999988079
+    y: 63.0
+    z: -341.69999998807907
+    yaw: 171.5972442626953
+    pitch: 33.93577575683594
+  sable:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -690.517907614591
+    y: 72.0
+    z: 2678.186233804912
+    yaw: -178.20272827148438
+    pitch: 49.085811614990234
+afk: false
+ip-address: 193.32.126.138
+last-account-name: GoldSix
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

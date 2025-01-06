@@ -1,0 +1,38 @@
+timestamps:
+  login: 1622201756250
+  lastteleport: 1622201897689
+  logout: 1622201911390
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 210.12206229425587
+  y: 63.0
+  z: 20.969463774865233
+  yaw: 163.44737243652344
+  pitch: 12.84065055847168
+  world-name: ''
+logoutlocation:
+  world: Donjon
+  x: 2060.3689150654127
+  y: 4.9375
+  z: 1990.8928794142798
+  yaw: -58.26554489135742
+  pitch: 9.222813606262207
+  world-name: ''
+ip-address: 176.177.147.244
+last-account-name: Rasco298
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

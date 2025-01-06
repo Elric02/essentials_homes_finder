@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 165.51.34.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1702209329032
+  login: 1702209324630
+money: '0'
+last-account-name: darko
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9911091972151
+  y: 81.0
+  z: -3111.0069669381955
+  yaw: -66.44802856445312
+  pitch: 11.550025939941406
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 345.6113396881767
+  y: -37419.035821786325
+  z: -3210.9583675650374
+  yaw: -74.73307037353516
+  pitch: 21.299510955810547

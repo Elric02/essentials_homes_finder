@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.196.216.86
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663100668408
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663100677024
+  login: 1663093836738
+money: '0'
+last-account-name: Matmat28
+lastlocation:
+  world: 886c7d43-b736-498b-8648-cad06b6b21d1
+  world-name: Event
+  x: 861.3170446596405
+  y: 4.737753700677251
+  z: -2058.6680931751735
+  yaw: 75.40802001953125
+  pitch: 0.29986685514450073
+logoutlocation:
+  world: 886c7d43-b736-498b-8648-cad06b6b21d1
+  world-name: Event
+  x: 942.6604670019894
+  y: 60.0
+  z: -2058.4822315863066
+  yaw: -0.219512939453125
+  pitch: 19.199867248535156

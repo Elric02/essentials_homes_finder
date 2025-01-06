@@ -1,0 +1,78 @@
+timestamps:
+  login: 1719837450804
+  lastteleport: 1719838961647
+  logout: 1719839299515
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1507.4757381077548
+  y: 72.0
+  z: -2100.0259431105
+  yaw: -80.95751953125
+  pitch: 27.78801727294922
+  world-name: world
+afk: false
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 245.5
+  y: 132.0
+  z: 140.5
+  yaw: 179.72105407714844
+  pitch: 7.500364303588867
+  world-name: world
+homes:
+  h:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6261.571812167343
+    y: 98.0
+    z: -6141.062636079417
+    yaw: 125.86781311035156
+    pitch: 25.944852828979492
+    world-name: world
+  g:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3621.1751528355635
+    y: 72.5
+    z: 2771.39096696749
+    yaw: -143.46176147460938
+    pitch: 10.046392440795898
+    world-name: world
+  s:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1507.5541394861466
+    y: 66.0
+    z: -2109.9788140561072
+    yaw: 0.7901592254638672
+    pitch: 22.53793716430664
+    world-name: world
+muted: false
+ip-address: 88.122.112.4
+last-account-name: clemcube
+mail:
+- legacy: true
+  read: true
+  message: §e[§rServer§e] §rSalut, je t'invite à rejoindre notre discord ( https://discord.gg/9GX644E
+    ) pour être au courant en temps réel de ce qui se passe sur le serveur. Merci
+    de jouer sur Station 47!
+- legacy: true
+  read: true
+  message: §e[§rSeSe§e] §rrappelle-moi que je dois encore te donner ta récompense
+    ;)
+- legacy: true
+  read: true
+  message: §e[§rkillian971317§e] §rAlors comme ça tu te prend pour un modo a ban des
+    joueur si ils te donnent pas leur stuff ? Je te conseille d'arrêter tout de suite
+    sinon c'est toit qui va être ban. Bonne journée.
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

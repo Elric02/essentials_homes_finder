@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.212.101.226
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1645386481171
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1645387159406
+  login: 1645386308672
+money: '0'
+last-account-name: BananaKush07
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 152.49424335803855
+  y: 63.0
+  z: 49.346339301398054
+  yaw: -79.26129150390625
+  pitch: 14.330732345581055
+logoutlocation:
+  world: 3a8d725c-ae06-42d4-9c06-df77329a4b5c
+  world-name: Ressource
+  x: -3481.6604695717792
+  y: 64.0
+  z: 898.0616796705848
+  yaw: -66.49468994140625
+  pitch: 29.7276611328125

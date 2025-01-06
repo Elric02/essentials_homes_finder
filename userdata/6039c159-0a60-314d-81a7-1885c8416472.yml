@@ -1,0 +1,38 @@
+timestamps:
+  login: 1585683665041
+  logout: 1585683932389
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2946.4184766199814
+  y: 68.0
+  z: 1733.2969469561872
+  yaw: 15.300000190734863
+  pitch: 5.250000476837158
+  world-name: ''
+ip-address: 77.148.50.12
+last-account-name: TheBlackCreeper0
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

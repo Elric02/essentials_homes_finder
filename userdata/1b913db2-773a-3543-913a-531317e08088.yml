@@ -1,0 +1,38 @@
+timestamps:
+  login: 1507988918798
+  lastteleport: 1507989110497
+  logout: 1507989332572
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6238.942007299938
+  y: 63.0
+  z: 992.6999999880791
+  yaw: -6.90045166015625
+  pitch: 7.4999542236328125
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.28136300975956
+  y: 64.0
+  z: 22.63865799951476
+  yaw: -181.71095275878906
+  pitch: 6.774514198303223
+  world-name: ''
+money: '0'
+ip-address: 81.38.240.64
+last-account-name: freedizie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

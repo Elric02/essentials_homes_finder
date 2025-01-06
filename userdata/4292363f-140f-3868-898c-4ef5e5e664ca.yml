@@ -1,0 +1,38 @@
+timestamps:
+  login: 1612097634751
+  lastteleport: 1612100359023
+  logout: 1612101624456
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6955.2723826928295
+  y: 67.0
+  z: 2080.301922149036
+  yaw: 313.092041015625
+  pitch: 16.240209579467773
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6239.915478865052
+  y: 64.0
+  z: -4355.301816541961
+  yaw: -99.43958282470703
+  pitch: 10.688711166381836
+  world-name: ''
+ip-address: 176.177.4.118
+last-account-name: hawk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

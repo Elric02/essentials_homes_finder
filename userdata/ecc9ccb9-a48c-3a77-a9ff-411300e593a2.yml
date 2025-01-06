@@ -1,0 +1,63 @@
+timestamps:
+  login: 1564594998303
+  lastteleport: 1557583458618
+  logout: 1564595987937
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 249.5
+  y: 66.0
+  z: 2620.5
+  yaw: -76.322265625
+  pitch: 30.306528091430664
+  world-name: ''
+homes:
+  manoir:
+    world: world
+    x: -6890.5
+    y: 68.0
+    z: -2004.5
+    yaw: -166.8897705078125
+    pitch: 26.156583786010742
+    world-name: ''
+  tortuga:
+    world: world
+    x: 249.5
+    y: 66.0
+    z: 2620.5
+    yaw: -76.322265625
+    pitch: 30.306528091430664
+    world-name: ''
+  phare:
+    world: world
+    x: 252.5
+    y: 130.0
+    z: 2639.5
+    yaw: -269.8349609375
+    pitch: 38.5870475769043
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 245.08796660502458
+  y: 74.0
+  z: 2620.288826256907
+  yaw: -99.17727661132812
+  pitch: 33.56584930419922
+  world-name: ''
+afk: false
+ip-address: 91.169.11.31
+last-account-name: zirkonya
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

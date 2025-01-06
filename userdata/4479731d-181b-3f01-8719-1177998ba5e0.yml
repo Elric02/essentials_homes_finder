@@ -1,0 +1,55 @@
+timestamps:
+  login: 1488103753007
+  lastteleport: 1487191813370
+  logout: 1488103808341
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1690.4601609006686
+  y: 67.0
+  z: 4126.1789234169
+  yaw: -171.5996551513672
+  pitch: 26.549930572509766
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -1600.977989161956
+    y: 89.0
+    z: 4153.555413236913
+    yaw: 18.150054931640625
+    pitch: 13.199969291687012
+    world-name: ''
+  r:
+    world: Ressource
+    x: 205.08906904620292
+    y: 71.0
+    z: 488.38760996499036
+    yaw: -159.65170288085938
+    pitch: 12.599983215332031
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1643.0416253296196
+  y: 77.875
+  z: 4130.898641422046
+  yaw: 16.50010871887207
+  pitch: 48.749961853027344
+  world-name: ''
+afk: false
+ip-address: 91.176.173.216
+last-account-name: cyrillesoen
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

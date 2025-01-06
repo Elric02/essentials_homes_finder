@@ -1,0 +1,47 @@
+timestamps:
+  login: 1557574009922
+  lastteleport: 1556823632580
+  logout: 1557574136367
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -265.6802507489425
+  y: 69.0
+  z: -203.59732080505614
+  yaw: 80.99991607666016
+  pitch: 28.499980926513672
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -3736.9946121762614
+    y: 63.0
+    z: -2182.0904648215705
+    yaw: 162.90020751953125
+    pitch: 24.30002212524414
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3720.42741540213
+  y: 64.5
+  z: -2178.13061737211
+  yaw: -355.49249267578125
+  pitch: 10.799545288085938
+  world-name: ''
+afk: false
+ip-address: 79.81.92.217
+last-account-name: Stealiie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

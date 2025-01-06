@@ -1,0 +1,38 @@
+timestamps:
+  login: 1560367162961
+  logout: 1560367360801
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.3659495368185
+  y: 65.0
+  z: 99.37729177973205
+  yaw: -7.173868179321289
+  pitch: 17.23914337158203
+  world-name: ''
+ip-address: 78.218.189.6
+last-account-name: SmallIshMink
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

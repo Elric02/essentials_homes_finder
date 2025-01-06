@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616531818718
+  lastteleport: 1616531923690
+  logout: 1616532228517
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressourcenether
+  x: 0.5
+  y: 37.0
+  z: -1.5
+  yaw: -178.04226684570312
+  pitch: 7.049990177154541
+  world-name: ''
+logoutlocation:
+  world: Ressourcenether
+  x: 1.0293629945653728
+  y: 3.0
+  z: 10.622127985044019
+  yaw: 198.748779296875
+  pitch: 8.700040817260742
+  world-name: ''
+ip-address: 81.185.162.96
+last-account-name: bedosensei
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

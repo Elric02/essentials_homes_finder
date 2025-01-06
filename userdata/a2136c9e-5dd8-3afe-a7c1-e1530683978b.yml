@@ -1,0 +1,55 @@
+timestamps:
+  login: 1498748464099
+  lastteleport: 1498748579049
+  logout: 1498748859657
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 678.4400412225283
+  y: 63.0
+  z: 463.043553249568
+  yaw: 88.80023193359375
+  pitch: 6.149958610534668
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 855.7767177317156
+  y: 70.0
+  z: 2500.170001151689
+  yaw: 70.9415283203125
+  pitch: 7.650008201599121
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 853.1685191460766
+    y: 70.0
+    z: 2508.7836928452457
+    yaw: 93.13685607910156
+    pitch: 22.79999542236328
+    world-name: ''
+  foret:
+    world: ressource
+    x: 686.3019464817831
+    y: 66.0
+    z: 467.2821580270048
+    yaw: 249.3001708984375
+    pitch: 11.699959754943848
+    world-name: ''
+afk: false
+muted: false
+ip-address: 176.152.86.176
+last-account-name: Inkorporate
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

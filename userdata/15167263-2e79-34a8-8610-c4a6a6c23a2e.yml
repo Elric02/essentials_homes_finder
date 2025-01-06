@@ -1,0 +1,47 @@
+timestamps:
+  login: 1566916861429
+  lastteleport: 1566566394633
+  logout: 1566917004013
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 161.94999998807907
+  y: 65.0
+  z: 11.515528324872822
+  yaw: -140.83120727539062
+  pitch: 30.176191329956055
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Ressource
+  x: 348.8335090484896
+  y: 67.0
+  z: -647.3688593346958
+  yaw: 87.9010009765625
+  pitch: 24.209325790405273
+  world-name: ''
+homes:
+  v:
+    world: Ressource
+    x: 352.97994371622536
+    y: 70.0
+    z: -674.7346923374251
+    yaw: 0.48779296875
+    pitch: 25.331296920776367
+    world-name: ''
+ip-address: 84.6.185.206
+last-account-name: lug4ming
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,115 @@
+timestamps:
+  login: 1716140873465
+  logout: 1716140882224
+  lastteleport: 1707062711075
+  jail: 0
+  kits:
+    color: 1618253966571
+    vip: 1666104407166
+  onlinejail: 0
+  lastheal: 0
+  mute: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 246.17404711675556
+  y: 132.1090999984741
+  z: 139.5975943764623
+  yaw: -110.52894592285156
+  pitch: 23.100364685058594
+  world-name: world
+homes:
+  vip:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -6659.485208657183
+    y: 65.0
+    z: -4065.3260060117423
+    yaw: 202.062744140625
+    pitch: 16.146066665649414
+    world-name: world
+  inte:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -7231.551430415769
+    y: 72.0
+    z: -5601.6239301712185
+    yaw: 142.28341674804688
+    pitch: 53.69975662231445
+    world-name: world
+  maison:
+    world: 6b791b62-b860-492a-aa67-db025bcd5247
+    world-name: world2
+    x: -3929.0261845771647
+    y: 64.0
+    z: 2118.4176720930677
+    yaw: 133.35296630859375
+    pitch: 24.000215530395508
+  coffre:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4515.539319801962
+    y: 63.0
+    z: -4884.104864880881
+    yaw: -4.647369384765625
+    pitch: 8.999731063842773
+  admin:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 111.88999765640435
+    y: 9.0
+    z: 169.8500742439262
+    yaw: 90.35304260253906
+    pitch: 17.549535751342773
+  creep_ferme:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 478.6936868728057
+    y: 64.0
+    z: -2312.6148884026147
+    yaw: 35.705810546875
+    pitch: 89.4000473022461
+  groot:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1361.6731966240839
+    y: 37.0
+    z: -3370.302139139347
+    yaw: 20.3050537109375
+    pitch: 28.7080078125
+  minee:
+    world: f6cc7e86-533e-4833-a044-23fb95716522
+    world-name: Ressource
+    x: -4316.6063470411655
+    y: 6.0
+    z: -4113.756481457021
+    yaw: 161.744873046875
+    pitch: 25.637235641479492
+  pnj:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4625.928327415157
+    y: 55.0
+    z: -4876.922596241556
+    yaw: -106.19743347167969
+    pitch: 22.949705123901367
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 1361.9435812040813
+  y: 63.0
+  z: -2227.3255342386456
+  yaw: -171.85235595703125
+  pitch: 11.0426607131958
+  world-name: world
+money: '44211.94'
+afk: false
+jailed: false
+nickname: §dCronox54
+ip-address: 109.215.25.5
+last-account-name: Cronox54
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

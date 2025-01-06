@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476202757779
+  lastteleport: 1476203783686
+  logout: 1476204111667
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1462.8676684606253
+  y: 63.0
+  z: -1754.0114215815233
+  yaw: 69.447509765625
+  pitch: 0.8980064392089844
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -158.52058548355993
+  y: 64.0
+  z: -210.52665356209218
+  yaw: 70.77976989746094
+  pitch: 8.979382514953613
+  world-name: ''
+ip-address: 176.144.41.198
+last-account-name: okami14
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

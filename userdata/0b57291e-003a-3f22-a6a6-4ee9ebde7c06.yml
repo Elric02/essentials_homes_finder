@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490481728357
+  logout: 1490482159705
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.6944326102543
+  y: 63.0
+  z: 7.398120455044117
+  yaw: 143.05250549316406
+  pitch: 18.247413635253906
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 171.86169719662175
+  y: 130.0625
+  z: -124.0013656543752
+  yaw: 202.9033203125
+  pitch: 16.200002670288086
+  world-name: ''
+ip-address: 5.49.120.194
+last-account-name: DarkySpark
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.64.49.62
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668956493230
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668956619570
+  login: 1668956137132
+money: '0'
+last-account-name: RobCraft2009
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -4848.936043336773
+  y: 64.0
+  z: -1179.9112463972683
+  yaw: -96.888427734375
+  pitch: 12.149839401245117
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3073.2626475351135
+  y: 66.0
+  z: -2112.0979637462615
+  yaw: -118.03515625
+  pitch: 27.449886322021484

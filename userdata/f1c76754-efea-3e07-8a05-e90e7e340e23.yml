@@ -1,0 +1,38 @@
+timestamps:
+  login: 1480781423952
+  lastteleport: 1480782032206
+  logout: 1480782170399
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -41.95218884643982
+  y: 67.0
+  z: 6640.962605748624
+  yaw: -70.6051025390625
+  pitch: 11.735411643981934
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -170.62317649263102
+  y: 72.0
+  z: 6767.589575713931
+  yaw: 141.487548828125
+  pitch: 7.896823883056641
+  world-name: ''
+ip-address: 86.252.166.196
+last-account-name: epicbumface
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

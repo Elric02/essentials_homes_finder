@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.171.22.198
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1640963464734
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1640963485182
+  login: 1640955764424
+money: '0'
+last-account-name: Ayzeu
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 3780.8649279203837
+  y: 110.5
+  z: 4992.141918328794
+  yaw: -7.1056809425354
+  pitch: 20.937824249267578
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 4964.5
+  y: 63.0
+  z: -2133.5
+  yaw: 16.33441162109375
+  pitch: 21.15062713623047
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 4964.031067494232
+    y: 63.0
+    z: -2133.2146687613717
+    yaw: 359.23443603515625
+    pitch: 16.35065460205078
+  fleurs:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 567.9125467245589
+    y: 64.0
+    z: 1345.5149652277328
+    yaw: 12.900875091552734
+    pitch: 23.400074005126953

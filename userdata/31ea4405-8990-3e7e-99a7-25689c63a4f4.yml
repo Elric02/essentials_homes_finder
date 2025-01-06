@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614023710748
+  logout: 1614024715274
+  lastteleport: 1614024642188
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -89.79697687294299
+  y: 72.0
+  z: 7.1820418556176415
+  yaw: -176.98158264160156
+  pitch: 37.95056915283203
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.5842289698531
+  y: 65.5
+  z: 102.79376682527328
+  yaw: -270.39410400390625
+  pitch: 20.075891494750977
+  world-name: ''
+money: '0'
+ip-address: 91.172.236.142
+last-account-name: gabycraft
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

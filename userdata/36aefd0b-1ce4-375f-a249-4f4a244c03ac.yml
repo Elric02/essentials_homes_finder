@@ -1,0 +1,63 @@
+timestamps:
+  login: 1508171200609
+  lastteleport: 1507664733256
+  logout: 1508172368207
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5062.38165767404
+  y: 60.0
+  z: 1521.6472435484798
+  yaw: -278.733642578125
+  pitch: -23.529638290405273
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -5071.603795044816
+    y: 63.0
+    z: 1520.3158480404668
+    yaw: -28.063058853149414
+    pitch: 7.163349628448486
+    world-name: ''
+  wood:
+    world: Ressource
+    x: -5310.714795437504
+    y: 63.0
+    z: 325.25135314135343
+    yaw: 76.28043365478516
+    pitch: 9.089447975158691
+    world-name: ''
+  mesa:
+    world: Ressource
+    x: -4839.864264479267
+    y: 88.0
+    z: 6937.515303584909
+    yaw: -106.96466064453125
+    pitch: 2.316938638687134
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -5078.100466975527
+  y: 63.0
+  z: 1535.3761266289935
+  yaw: 214.9376220703125
+  pitch: -7.667574882507324
+  world-name: ''
+afk: false
+ip-address: 78.116.162.153
+last-account-name: Shocco31
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

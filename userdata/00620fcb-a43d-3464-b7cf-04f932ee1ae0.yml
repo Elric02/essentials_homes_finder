@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 197.157.210.199
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1676666003342
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1676679099573
+  login: 1676679088240
+money: '0'
+last-account-name: dmt888
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -72.20183528562346
+  y: 66.0
+  z: 34.34419889439023
+  yaw: 36.746917724609375
+  pitch: 1.6500983238220215
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -285.2792905794229
+  y: 64.0
+  z: -310.42290214221924
+  yaw: -68.85055541992188
+  pitch: 16.34990692138672

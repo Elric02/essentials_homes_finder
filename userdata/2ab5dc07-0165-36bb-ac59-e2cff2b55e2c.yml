@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.18.59.214
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1645907552533
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1703346457218
+  login: 1703346451475
+money: '0'
+last-account-name: deathflyer985
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 13.052335127516974
+  y: 69.0
+  z: -63.037011901655575
+  yaw: -87.44934844970703
+  pitch: 4.199832439422607
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 12.996238201736535
+  y: 69.0
+  z: -63.037011901655575
+  yaw: -135.74935913085938
+  pitch: 2.5498251914978027

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1471381025507
+  lastteleport: 1471172081325
+  logout: 1471381097237
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2131.1661922350477
+  y: 11.0
+  z: -1408.0398783761764
+  yaw: -263.6199951171875
+  pitch: 7.158479690551758
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -7224.905754390423
+  y: 63.0
+  z: -5592.579680711508
+  yaw: 74.55863189697266
+  pitch: 10.507574081420898
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressource
+    x: 81914.08976371976
+    y: 77.0
+    z: 78667.72953683048
+    yaw: -199.55535888671875
+    pitch: 25.822521209716797
+    world-name: ''
+  kfc:
+    world: world
+    x: -7279.848377999767
+    y: 67.0
+    z: -5518.987327626967
+    yaw: 95.53704833984375
+    pitch: 15.76647663116455
+    world-name: ''
+  glass:
+    world: Ressource
+    x: -666.6931068303459
+    y: 66.0
+    z: 789.6184602067242
+    yaw: -152.03668212890625
+    pitch: 20.215167999267578
+    world-name: ''
+afk: false
+ip-address: 212.84.58.73
+last-account-name: XxDJfunkxX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

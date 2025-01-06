@@ -1,0 +1,55 @@
+timestamps:
+  login: 1634479497688
+  logout: 1634479659418
+  lastteleport: 1614870465679
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 117.49932351983249
+  y: 87.0
+  z: -98.71013497451813
+  yaw: 179.60470581054688
+  pitch: 41.075862884521484
+  world-name: ''
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -1344.0628917746824
+  y: 8.0
+  z: 6674.725676281596
+  yaw: -254.10447692871094
+  pitch: 19.799875259399414
+  world-name: world
+money: '0'
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -1339.203311665085
+    y: 63.0
+    z: 6657.699999988079
+    yaw: 169.50013732910156
+    pitch: -5.25
+    world-name: world
+  tableenchant:
+    world: world
+    x: 117.33676193266295
+    y: 87.0
+    z: -98.48065692996387
+    yaw: 17.304716110229492
+    pitch: -9.774138450622559
+    world-name: ''
+afk: false
+ip-address: 88.127.239.204
+last-account-name: Brioche841
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

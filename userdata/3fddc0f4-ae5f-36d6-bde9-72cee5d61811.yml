@@ -1,0 +1,38 @@
+timestamps:
+  login: 1568815318884
+  lastteleport: 1568815429590
+  logout: 1568815475570
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 126.74302625758
+  y: 63.0
+  z: 20.52738009448276
+  yaw: 76.89691162109375
+  pitch: 9.39064884185791
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -660.7702777843676
+  y: 67.0
+  z: -1719.7398930467477
+  yaw: 70.80001068115234
+  pitch: 29.249990463256836
+  world-name: ''
+ip-address: 88.174.5.23
+last-account-name: Rousskouflow
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

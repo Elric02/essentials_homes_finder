@@ -1,0 +1,63 @@
+timestamps:
+  login: 1478080773083
+  lastteleport: 1478094770805
+  logout: 1478094832441
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -231.74869551173254
+  y: 12.0
+  z: 633.318019743776
+  yaw: -86.95928955078125
+  pitch: 11.399998664855957
+  world-name: ''
+homes:
+  home:
+    world: ressource
+    x: -314.69999998807907
+    y: 16.0
+    z: 644.2318692879261
+    yaw: -11.960617065429688
+    pitch: 68.40000915527344
+    world-name: ''
+  minage:
+    world: ressource
+    x: -302.15115114883537
+    y: 17.0
+    z: 634.6888750702436
+    yaw: -178.9100341796875
+    pitch: 19.79995346069336
+    world-name: ''
+  foret:
+    world: ressource
+    x: -6497.6008299054965
+    y: 86.0
+    z: 1080.9519646865172
+    yaw: -151.49978637695312
+    pitch: 1.9499989748001099
+    world-name: ''
+muted: false
+afk: false
+logoutlocation:
+  world: ressource
+  x: -302.36494354395677
+  y: 17.0
+  z: 634.2375000119209
+  yaw: -296.3599853515625
+  pitch: 36.74995803833008
+  world-name: ''
+money: '0'
+ip-address: 86.211.110.22
+last-account-name: alex101
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1478079504023
+  logout: 1478080384902
+  lastteleport: 1478080280975
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -187.11093139648438
+  pitch: 7.224514961242676
+  world-name: ''
+logoutlocation:
+  world: world_nether
+  x: 56.156638454567386
+  y: 75.17675927506424
+  z: -69.39540301657406
+  yaw: -89.39985656738281
+  pitch: 8.100005149841309
+  world-name: ''
+homes:
+  natura:
+    world: world
+    x: -5166.893074622019
+    y: 68.0
+    z: 585.9991018114787
+    yaw: -325.0489501953125
+    pitch: 8.003240585327148
+    world-name: ''
+  shop:
+    world: world
+    x: -552.307570120823
+    y: 64.0
+    z: -751.3682302849555
+    yaw: -191.96990966796875
+    pitch: 31.350008010864258
+    world-name: ''
+  aimery:
+    world: ressource
+    x: 6374.773611768567
+    y: 80.0
+    z: -1721.5438549276498
+    yaw: -23.3990478515625
+    pitch: 10.200016975402832
+    world-name: ''
+afk: false
+money: '0'
+ip-address: 78.200.228.93
+last-account-name: Matox65
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

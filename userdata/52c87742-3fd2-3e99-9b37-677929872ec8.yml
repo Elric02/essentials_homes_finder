@@ -1,0 +1,38 @@
+timestamps:
+  login: 1463250072559
+  lastteleport: 1463250463873
+  logout: 1463250551221
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 172.49484433153822
+  y: 136.0
+  z: -123.79759477620192
+  yaw: -1.1214768886566162
+  pitch: 67.13401794433594
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: ressource
+  x: -126.5733696351778
+  y: 65.0
+  z: 52.38875412054438
+  yaw: -317.66937255859375
+  pitch: 4.4611968994140625
+  world-name: ''
+ip-address: 31.32.0.183
+last-account-name: DeiZxDraK
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

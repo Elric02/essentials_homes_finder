@@ -1,0 +1,47 @@
+timestamps:
+  login: 1564143114143
+  lastteleport: 1564144378166
+  logout: 1564144406387
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5445184816498
+  y: 64.0
+  z: 23.180944662705496
+  yaw: -213.77078247070312
+  pitch: 12.628667831420898
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4302.699999988079
+  y: 71.0
+  z: -3391.699999988079
+  yaw: -39.28216552734375
+  pitch: 27.45001792907715
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4301.122432568901
+    y: 71.0
+    z: -3379.0396809611516
+    yaw: -178.7822265625
+    pitch: -13.950002670288086
+    world-name: ''
+afk: false
+ip-address: 88.189.125.125
+last-account-name: Tyrron
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

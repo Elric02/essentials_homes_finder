@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526766242562
+  logout: 1526766294540
+  lastteleport: 1526766270846
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 148.3979735391502
+  y: 68.00652478748952
+  z: 0.6999999880790702
+  yaw: -219.02090454101562
+  pitch: 26.578655242919922
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 3002.5
+  y: 63.0
+  z: -988.5
+  yaw: 279.0935974121094
+  pitch: 8.341312408447266
+  world-name: ''
+money: '0'
+ip-address: 89.81.2.55
+last-account-name: TheShOoTeR27
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

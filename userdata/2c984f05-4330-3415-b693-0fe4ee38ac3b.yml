@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490207126807
+  lastteleport: 1465129319148
+  logout: 1490207616107
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -217.91507248496362
+  y: 64.0
+  z: 317.12577626014854
+  yaw: 91.4548568725586
+  pitch: -0.6079744696617126
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6362.488789106299
+  y: 68.0
+  z: 4501.181198961472
+  yaw: -180.1496124267578
+  pitch: 7.9500322341918945
+  world-name: ''
+ip-address: 77.132.222.104
+last-account-name: Hiwatte
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1488708589185
+  logout: 1488711323792
+  lastteleport: 1488711184346
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6036.033219713059
+  y: 59.5
+  z: 5298.223448272159
+  yaw: 130.34622192382812
+  pitch: 9.750096321105957
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world_nether
+  x: -4339.27674448646
+  y: 104.0
+  z: 5647.607403144827
+  yaw: 24.427490234375
+  pitch: 63.29999542236328
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -6068.778716138944
+    y: 68.0
+    z: 5313.285742367034
+    yaw: 234.29989624023438
+    pitch: 16.049991607666016
+    world-name: ''
+  farm:
+    world: world_nether
+    x: 279.27400458263963
+    y: 47.0
+    z: -182.04967003249126
+    yaw: 305.52587890625
+    pitch: 31.35007667541504
+    world-name: ''
+  ressource:
+    world: Ressource
+    x: 713.6557006147066
+    y: 11.0
+    z: -176.25920989396894
+    yaw: 234.97303771972656
+    pitch: 43.799991607666016
+    world-name: ''
+afk: false
+ip-address: 109.132.111.25
+last-account-name: ByCrystal
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

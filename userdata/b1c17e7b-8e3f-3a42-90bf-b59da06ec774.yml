@@ -1,0 +1,38 @@
+timestamps:
+  login: 1463190963277
+  logout: 1463192127737
+  lastteleport: 1463179493124
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1614.5169387820088
+  y: 70.70000004768372
+  z: -976.6999999880791
+  yaw: 15.899566650390625
+  pitch: 6.299892425537109
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 580.6999999880791
+  y: 73.0
+  z: -1980.8735671751947
+  yaw: 141.288818359375
+  pitch: 14.250025749206543
+  world-name: ''
+afk: false
+godmode: false
+socialspy: true
+ip-address: 86.215.46.171
+last-account-name: _Super_Pingouin_
+teleportenabled: true
+teleportauto: false
+muted: false
+jailed: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

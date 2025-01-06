@@ -1,0 +1,38 @@
+timestamps:
+  login: 1609173430931
+  lastteleport: 1609173721392
+  logout: 1609173797012
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.9547664141363
+  y: 64.0
+  z: 28.070888704562577
+  yaw: -255.09552001953125
+  pitch: -4.824120044708252
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 144.89747691126456
+  y: 188.0
+  z: 21.062911691393893
+  yaw: -147.0957794189453
+  pitch: 68.82591247558594
+  world-name: ''
+ip-address: 88.121.25.251
+last-account-name: Phoenix_Youtube
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1492099278219
+  lastteleport: 1492100021714
+  logout: 1492100439143
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 55.300000011920915
+  y: 64.0
+  z: 237.30000001192093
+  yaw: -43.6854248046875
+  pitch: 59.09999465942383
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -6627.0
+  y: 75.0
+  z: 2464.0
+  yaw: 19.950000762939453
+  pitch: 18.44999885559082
+  world-name: ''
+ip-address: 196.229.39.0
+last-account-name: raguen
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

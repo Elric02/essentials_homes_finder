@@ -1,0 +1,38 @@
+timestamps:
+  login: 1578333481954
+  lastteleport: 1578335443311
+  logout: 1578335446861
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1802.699999988079
+  y: 24.0
+  z: -260.69999998807907
+  yaw: -174.30076599121094
+  pitch: 17.55002784729004
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.47080993652344
+  pitch: 2.128668785095215
+  world-name: ''
+ip-address: 90.47.163.225
+last-account-name: rober0000
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1540223056065
+  lastteleport: 1540223572319
+  logout: 1540223712136
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.5469868354782
+  y: 64.0
+  z: 7.078314121960242
+  yaw: -195.79029846191406
+  pitch: 29.22916030883789
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -1767.9145086299352
+  y: 69.0
+  z: 1375.0985220510613
+  yaw: -297.8890380859375
+  pitch: 24.605438232421875
+  world-name: ''
+ip-address: 82.232.17.197
+last-account-name: Eliisouille
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

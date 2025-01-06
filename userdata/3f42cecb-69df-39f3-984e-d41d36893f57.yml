@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.236.169.255
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1707756984574
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1707757044388
+  login: 1707756886998
+money: '0'
+last-account-name: Max_Dx37
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -405.7942183108852
+  y: 62.239990910799676
+  z: 19.485384450592804
+  yaw: 175.70777893066406
+  pitch: 22.649017333984375
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 500.8906900403172
+  y: 40.71189846602773
+  z: -424.77082768209914
+  yaw: 10.800018310546875
+  pitch: 3.1499667167663574

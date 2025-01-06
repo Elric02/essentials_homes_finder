@@ -1,0 +1,63 @@
+timestamps:
+  login: 1626456858928
+  lastteleport: 1626457025731
+  logout: 1626457077757
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2988.8020804859
+  y: 67.0
+  z: -3668.751471833021
+  yaw: -179.8685302734375
+  pitch: 29.879783630371094
+  world-name: ''
+afk: false
+homes:
+  base:
+    world: world
+    x: -2988.5761234115157
+    y: 67.0
+    z: -3667.410546714528
+    yaw: 73.28594970703125
+    pitch: 37.776031494140625
+    world-name: ''
+  bababababa:
+    world: world
+    x: 1837.3525949941475
+    y: 8.0
+    z: 2634.300000011921
+    yaw: -178.93890380859375
+    pitch: 37.16160583496094
+    world-name: ''
+  recherche:
+    world: world
+    x: 2105.805045794772
+    y: 63.5
+    z: 4854.450134599348
+    yaw: -166.39224243164062
+    pitch: 8.284775733947754
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 153.35722367271856
+  y: 64.0
+  z: 21.079870969451616
+  yaw: -92.6766128540039
+  pitch: 34.434879302978516
+  world-name: ''
+ip-address: 176.157.125.130
+last-account-name: Extazii
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

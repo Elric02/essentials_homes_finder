@@ -1,0 +1,63 @@
+timestamps:
+  login: 1467249705025
+  lastteleport: 1467249950463
+  logout: 1467249957615
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5890.35210830586
+  y: 112.0
+  z: -1362.3507263669976
+  yaw: -56.43179702758789
+  pitch: 61.20005798339844
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5919.37741172803
+  y: 49.0
+  z: -1277.0152034911978
+  yaw: 168.57786560058594
+  pitch: 23.69997215270996
+  world-name: ''
+homes:
+  maisonile:
+    world: world
+    x: -5900.976370911283
+    y: 67.0
+    z: -1269.2879593490702
+    yaw: 128.0752410888672
+    pitch: 30.66183853149414
+    world-name: ''
+  phare:
+    world: world
+    x: -5889.607132260727
+    y: 70.0
+    z: -1362.5965435633807
+    yaw: -344.4254150390625
+    pitch: 17.549989700317383
+    world-name: ''
+  oduphare:
+    world: world
+    x: -5890.816292227517
+    y: 112.0
+    z: -1362.606048745858
+    yaw: -44.73179626464844
+    pitch: 46.95005798339844
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 90.107.161.163
+last-account-name: Guetotake
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

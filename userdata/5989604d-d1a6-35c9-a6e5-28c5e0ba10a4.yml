@@ -1,0 +1,47 @@
+timestamps:
+  login: 1554633742827
+  logout: 1554635069994
+  lastteleport: 1549114397496
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1555.300000011921
+  y: 60.0
+  z: 2825.300977152656
+  yaw: 78.446533203125
+  pitch: 87.1500015258789
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1548.300000011921
+  y: 60.0
+  z: 2796.9735709492566
+  yaw: -244.62403869628906
+  pitch: 49.476070404052734
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -1553.5717900408658
+    y: 64.0
+    z: 2793.359623606201
+    yaw: -86.1448974609375
+    pitch: 26.055564880371094
+    world-name: ''
+afk: false
+ip-address: 78.218.88.85
+last-account-name: _Diony
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

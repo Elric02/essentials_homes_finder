@@ -1,0 +1,55 @@
+timestamps:
+  login: 1515519793445
+  lastteleport: 1515524649485
+  logout: 1515525001374
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 249.74104352426303
+  y: 10.0
+  z: 70.35195773537271
+  yaw: -269.72607421875
+  pitch: 19.350074768066406
+  world-name: ''
+homes:
+  bibi:
+    world: world
+    x: -2833.3656496798585
+    y: 69.0
+    z: -3584.299718368589
+    yaw: -329.607177734375
+    pitch: 23.699953079223633
+    world-name: ''
+  secret:
+    world: world
+    x: -2917.8834275668532
+    y: 65.0
+    z: -3660.409923184503
+    yaw: -262.345703125
+    pitch: 13.80003547668457
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2833.036533232288
+  y: 69.0
+  z: -3584.2560763795195
+  yaw: -90.80746459960938
+  pitch: 9.749946594238281
+  world-name: ''
+afk: false
+ip-address: 77.207.212.70
+last-account-name: Skeggi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1515704767339
+  lastteleport: 1469545231796
+  logout: 1515704849501
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.5866777369064
+  y: 64.0
+  z: 14.564559098921826
+  yaw: -292.4971618652344
+  pitch: 9.374178886413574
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -6529.289217144935
+  y: 73.0
+  z: -3226.552753469611
+  yaw: 176.5167236328125
+  pitch: 27.149980545043945
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -6530.339308034414
+    y: 69.0
+    z: -3218.5806258207576
+    yaw: 181.64901733398438
+    pitch: 15.299860954284668
+    world-name: ''
+  miss:
+    world: world
+    x: 3075.386180157639
+    y: 70.0
+    z: -4241.3501313446495
+    yaw: -49.801204681396484
+    pitch: 30.899995803833008
+    world-name: ''
+ip-address: 5.48.192.61
+last-account-name: Ythac
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

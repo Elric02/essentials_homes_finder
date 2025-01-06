@@ -1,0 +1,82 @@
+timestamps:
+  login: 1492260703548
+  lastteleport: 1492260775984
+  logout: 1492261399521
+  kits:
+    vip: 1490293758566
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5598.613902027383
+  y: 65.0
+  z: 2167.7542999941575
+  yaw: -0.1809769868850708
+  pitch: 46.00303268432617
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 157.53120470555132
+  y: 64.0
+  z: 19.965147672730065
+  yaw: -46.2491455078125
+  pitch: 19.543710708618164
+  world-name: ''
+afk: false
+nickname: §3Arm
+homes:
+  armfire:
+    world: world
+    x: 10663.699999988079
+    y: 65.0
+    z: 9788.940592347744
+    yaw: 293.01507568359375
+    pitch: 18.108034133911133
+    world-name: ''
+  maison:
+    world: world
+    x: -5604.329646207773
+    y: 69.0
+    z: 2123.699999988079
+    yaw: 51.869972229003906
+    pitch: 4.520159721374512
+    world-name: ''
+  natu:
+    world: world
+    x: -500.545037477949
+    y: 58.0
+    z: -36.77602786653268
+    yaw: 338.98138427734375
+    pitch: 10.434274673461914
+    world-name: ''
+  end:
+    world: world_the_end
+    x: 4197.547216780026
+    y: 66.58638583814209
+    z: -3487.982393298553
+    yaw: -120.20196533203125
+    pitch: 21.966310501098633
+    world-name: ''
+  messa:
+    world: Ressource
+    x: -4043.6423361906195
+    y: 92.0
+    z: 1153.7077000989957
+    yaw: 187.6357879638672
+    pitch: 17.635723114013672
+    world-name: ''
+ip-address: 84.7.83.98
+last-account-name: ArmFire
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

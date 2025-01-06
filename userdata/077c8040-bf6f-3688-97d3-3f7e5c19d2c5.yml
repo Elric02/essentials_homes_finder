@@ -1,0 +1,38 @@
+timestamps:
+  login: 1478747187263
+  lastteleport: 1478747270853
+  logout: 1478747352228
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.28135762289514
+  y: 63.0
+  z: 44.299942290205024
+  yaw: -343.5472412109375
+  pitch: 2.197413444519043
+  world-name: ''
+logoutlocation:
+  world: ressource
+  x: -43.75130194875029
+  y: 63.0
+  z: 639.3423931292774
+  yaw: -248.099609375
+  pitch: -8.3999662399292
+  world-name: ''
+ip-address: 90.40.86.93
+last-account-name: L0rdFail
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

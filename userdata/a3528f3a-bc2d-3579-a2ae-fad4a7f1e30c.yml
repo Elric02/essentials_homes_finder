@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477424052293
+  lastteleport: 1477425654467
+  logout: 1477426186689
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 754.1941830019462
+  y: 5.0
+  z: -1308.2505337286711
+  yaw: -22.0426025390625
+  pitch: 23.061250686645508
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.0388390798168
+  y: 64.0
+  z: 30.421740869999535
+  yaw: -191.61082458496094
+  pitch: 18.624591827392578
+  world-name: ''
+ip-address: 78.216.181.70
+last-account-name: MANI
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

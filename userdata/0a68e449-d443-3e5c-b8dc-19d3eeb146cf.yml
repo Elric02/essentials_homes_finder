@@ -1,0 +1,63 @@
+timestamps:
+  login: 1521887518338
+  logout: 1521889493866
+  lastteleport: 1521888665236
+  jail: 0
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 63.752634022576025
+  y: 94.0
+  z: 59.191288319092955
+  yaw: -204.1715850830078
+  pitch: 11.849987983703613
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -6557.916329509059
+  y: 67.0
+  z: 2798.791827676912
+  yaw: -337.65673828125
+  pitch: 21.214614868164062
+  world-name: ''
+homes:
+  lol:
+    world: world
+    x: 215.65981606305186
+    y: 100.0
+    z: -99.43243893563641
+    yaw: -178.82232666015625
+    pitch: 14.249995231628418
+    world-name: ''
+  maison:
+    world: world
+    x: -6567.628748559999
+    y: 80.0
+    z: 2781.467117338267
+    yaw: -21.31439208984375
+    pitch: 88.71479034423828
+    world-name: ''
+  jungle:
+    world: world
+    x: 65.10511170458452
+    y: 94.0
+    z: 60.06058339286995
+    yaw: -217.9715576171875
+    pitch: 15.749987602233887
+    world-name: ''
+money: '0'
+afk: false
+jailed: false
+muted: false
+ip-address: 77.203.4.164
+last-account-name: Pampaki
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1561632597048
+  lastteleport: 1561632645341
+  logout: 1561632700897
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.79702977979528
+  y: 63.0
+  z: 49.84325705395949
+  yaw: 80.6484375
+  pitch: 3.084775686264038
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.4898248076206
+  y: 64.0
+  z: 22.454168997469935
+  yaw: 24.398513793945312
+  pitch: -5.702221870422363
+  world-name: ''
+ip-address: 79.93.175.51
+last-account-name: Faozen
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

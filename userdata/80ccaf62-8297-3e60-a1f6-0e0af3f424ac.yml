@@ -1,0 +1,47 @@
+timestamps:
+  login: 1528207262915
+  lastteleport: 1528112788390
+  logout: 1528207275413
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 64.5
+  z: 0.5
+  yaw: -2.586395263671875
+  pitch: 8.524303436279297
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -1838.0564040468014
+  y: 8.0
+  z: 495.4458957338116
+  yaw: 178.49942016601562
+  pitch: 25.3499698638916
+  world-name: ''
+afk: false
+homes:
+  maison:
+    world: world
+    x: -2637.423490188913
+    y: 64.0
+    z: 4864.561096839599
+    yaw: -5.249848365783691
+    pitch: 37.04999542236328
+    world-name: ''
+ip-address: 128.79.22.173
+last-account-name: Narcotique
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

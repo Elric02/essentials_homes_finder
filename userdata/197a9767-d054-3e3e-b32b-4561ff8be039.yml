@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482335439789
+  logout: 1482335446488
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.0934556261663
+  y: 63.0
+  z: 49.31285394520711
+  yaw: -252.94737243652344
+  pitch: 2.7974016666412354
+  world-name: ''
+ip-address: 92.136.52.179
+last-account-name: arkados27
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617807932855
+  logout: 1617807986986
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 170.19150883697588
+  y: 63.0
+  z: 124.15043047410362
+  yaw: -73.10302734375
+  pitch: 5.490658760070801
+  world-name: ''
+ip-address: 78.244.37.93
+last-account-name: revoscop
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

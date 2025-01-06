@@ -1,0 +1,38 @@
+timestamps:
+  login: 1511898996906
+  logout: 1511902352834
+  lastteleport: 1511901746095
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 72.14768942060086
+  y: 64.0
+  z: 0.6055836800036183
+  yaw: 171.72927856445312
+  pitch: 13.349995613098145
+  world-name: ''
+money: '0'
+ip-address: 90.0.45.166
+last-account-name: Sombra66620
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

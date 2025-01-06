@@ -1,0 +1,38 @@
+timestamps:
+  login: 1463861398081
+  lastteleport: 1463861538373
+  logout: 1463861653778
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.8462809010289
+  y: 64.0
+  z: 17.725013159331098
+  yaw: -81.14720153808594
+  pitch: -0.6758145093917847
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -86.46487499967823
+  y: 70.0
+  z: -69.75535070810844
+  yaw: 16.653032302856445
+  pitch: -63.975826263427734
+  world-name: ''
+ip-address: 86.196.67.220
+last-account-name: Buch45
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

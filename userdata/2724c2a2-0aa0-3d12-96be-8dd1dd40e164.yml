@@ -1,0 +1,38 @@
+timestamps:
+  login: 1486210967979
+  lastteleport: 1486212380672
+  logout: 1486212401891
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -551.4879134816053
+  y: 65.0
+  z: -757.0553946061553
+  yaw: -274.59716796875
+  pitch: 15.626315116882324
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 160.89999095632353
+  y: 63.5
+  z: 30.775725353862633
+  yaw: -152.01092529296875
+  pitch: 16.07450294494629
+  world-name: ''
+ip-address: 83.205.15.111
+last-account-name: hugotorloisyt
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

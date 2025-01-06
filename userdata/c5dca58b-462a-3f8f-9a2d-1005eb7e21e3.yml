@@ -1,0 +1,38 @@
+timestamps:
+  login: 1495929535094
+  lastteleport: 1495927741068
+  logout: 1495929778087
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 174.641790294257
+  y: 150.0
+  z: -121.70677244311626
+  yaw: 69.4039306640625
+  pitch: 25.7474422454834
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 179.00826458789408
+  y: 64.0
+  z: 25.05428974235762
+  yaw: -155.0109100341797
+  pitch: 6.774509429931641
+  world-name: ''
+ip-address: 184.18.71.196
+last-account-name: Bobis32
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

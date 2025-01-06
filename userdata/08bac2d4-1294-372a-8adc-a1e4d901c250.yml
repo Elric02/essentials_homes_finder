@@ -1,0 +1,38 @@
+timestamps:
+  login: 1513866316850
+  lastteleport: 1513866425087
+  logout: 1513866457828
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 197.20965580973075
+  y: 66.0
+  z: -4.947794002839586
+  yaw: -196.3707275390625
+  pitch: 8.578664779663086
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -196.67083740234375
+  pitch: -23.82132911682129
+  world-name: ''
+ip-address: 109.222.137.51
+last-account-name: nathanbida
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

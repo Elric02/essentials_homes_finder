@@ -1,0 +1,38 @@
+timestamps:
+  login: 1536432573909
+  lastteleport: 1536435999638
+  logout: 1536436625581
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -962.1590317038853
+  y: 88.5
+  z: -1552.0951121333987
+  yaw: 8.744873046875
+  pitch: 41.404640197753906
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 119.57459353531803
+  y: 63.0625
+  z: -9.248663732417828
+  yaw: -303.3511962890625
+  pitch: -12.312692642211914
+  world-name: ''
+afk: false
+ip-address: 90.118.45.228
+last-account-name: LeCoin
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1474542381893
+  lastteleport: 1474544157093
+  logout: 1474544199176
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: 158.95848168337145
+  y: 69.0
+  z: 599.7340489999125
+  yaw: 23.5068359375
+  pitch: 12.461004257202148
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: Ressources
+    x: 306.0576863040133
+    y: 19.0
+    z: 668.3000000119209
+    yaw: -19.51702880859375
+    pitch: 32.88003921508789
+    world-name: ''
+  b:
+    world: Ressources
+    x: 286.42087484594543
+    y: 23.0
+    z: 698.7690867825136
+    yaw: 11.116504669189453
+    pitch: 11.382258415222168
+    world-name: ''
+afk: false
+logoutlocation:
+  world: Ressources
+  x: 288.4782074978679
+  y: 24.0
+  z: 698.3362494765315
+  yaw: 189.14918518066406
+  pitch: 37.0518684387207
+  world-name: ''
+ip-address: 82.229.19.170
+last-account-name: TheAmazing
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1498219898917
+  lastteleport: 1498220305569
+  logout: 1498220357954
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.08531704552527
+  y: 63.0
+  z: 45.055441736377325
+  yaw: -299.4607849121094
+  pitch: 5.124515533447266
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -1413.082395189708
+  y: 93.0
+  z: 962.5862775631851
+  yaw: -163.4996795654297
+  pitch: 14.100028991699219
+  world-name: ''
+ip-address: 87.66.44.108
+last-account-name: Tisoki
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1628543661989
+  lastteleport: 1628536144164
+  logout: 1628543858368
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6013.612968376396
+  y: 70.0
+  z: -5023.092000123532
+  yaw: 252.50289916992188
+  pitch: 36.64100646972656
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -904.0449570775255
+  y: 69.0
+  z: 2073.617742387616
+  yaw: 276.1962890625
+  pitch: 48.732479095458984
+  world-name: ''
+ip-address: 176.135.123.108
+last-account-name: _Ghaster_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

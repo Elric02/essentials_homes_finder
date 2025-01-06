@@ -1,0 +1,71 @@
+timestamps:
+  login: 1496425446273
+  lastteleport: 1496425953458
+  logout: 1496426006328
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+money: '0'
+homes:
+  base:
+    world: world
+    x: -1752.969576774272
+    y: 68.0
+    z: -1398.7158718388812
+    yaw: -173.92742919921875
+    pitch: 16.487133026123047
+    world-name: ''
+  bois:
+    world: Ressource
+    x: -6240.162937288773
+    y: 72.0
+    z: 6975.575045145433
+    yaw: -266.6495361328125
+    pitch: 11.673605918884277
+    world-name: ''
+  maison:
+    world: world
+    x: 5105.03616476432
+    y: 72.0
+    z: 7606.842961006004
+    yaw: -50.552581787109375
+    pitch: 13.88640022277832
+    world-name: ''
+  mine:
+    world: Ressource
+    x: -5360.331546655244
+    y: 11.0
+    z: -6417.7072923429605
+    yaw: 125.33926391601562
+    pitch: 65.44335174560547
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5101.699999988079
+  y: 65.0
+  z: 7623.053683121715
+  yaw: -154.419921875
+  pitch: -5.212821006774902
+  world-name: ''
+afk: false
+ip-address: 87.65.50.96
+last-account-name: Mrbiscotte98
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469565981260
+  lastteleport: 1469566282636
+  logout: 1469566300930
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -606.4432464771601
+  y: 65.0
+  z: -718.3092652190792
+  yaw: -269.3474426269531
+  pitch: 5.126340389251709
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -277.6667779188836
+  y: 73.0
+  z: 320.9493911605247
+  yaw: 245.79058837890625
+  pitch: 14.774917602539062
+  world-name: ''
+ip-address: 78.229.208.239
+last-account-name: mystre
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

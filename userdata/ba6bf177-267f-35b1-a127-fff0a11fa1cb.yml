@@ -1,0 +1,38 @@
+timestamps:
+  login: 1489224598696
+  lastteleport: 1489225191103
+  logout: 1489225576176
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6311.281776155384
+  y: 67.0
+  z: -2530.8443245432013
+  yaw: 286.908203125
+  pitch: 10.307449340820312
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 168.91841169105035
+  y: 64.0
+  z: -16.608058430611784
+  yaw: -98.76055908203125
+  pitch: 35.724491119384766
+  world-name: ''
+ip-address: 86.204.147.55
+last-account-name: LePsYYcHoPatte
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

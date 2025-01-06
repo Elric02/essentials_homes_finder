@@ -1,0 +1,63 @@
+timestamps:
+  login: 1482067363114
+  lastteleport: 1482067442884
+  logout: 1482067442687
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -638.8851664506886
+  y: 69.0
+  z: -698.5840406765996
+  yaw: 277.253662109375
+  pitch: 33.776336669921875
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: 1875.923641809455
+    y: 71.0
+    z: 6727.780490820523
+    yaw: 88.201171875
+    pitch: 1.9499906301498413
+    world-name: ''
+  shop:
+    world: world
+    x: -623.6131404675436
+    y: 64.0
+    z: -770.2098925103
+    yaw: 265.4032897949219
+    pitch: 12.176328659057617
+    world-name: ''
+  mine:
+    world: Event
+    x: 740.6296971720136
+    y: 40.0
+    z: -1248.699999988079
+    yaw: -179.76220703125
+    pitch: 53.87453842163086
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+afk: false
+muted: false
+ip-address: 74.59.69.59
+last-account-name: Ellutran
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

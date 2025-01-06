@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482529052803
+  lastteleport: 1482529516580
+  logout: 1482529603239
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1008.5011728051652
+  y: 64.0
+  z: -1381.0254102800711
+  yaw: 25.1253662109375
+  pitch: 17.24999237060547
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 880.9267069856948
+  y: 64.0
+  z: -1174.8892848171438
+  yaw: -139.80419921875
+  pitch: 18.264625549316406
+  world-name: ''
+ip-address: 109.222.4.113
+last-account-name: Loris52
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

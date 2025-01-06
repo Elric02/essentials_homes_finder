@@ -1,0 +1,63 @@
+timestamps:
+  login: 1495216620782
+  lastteleport: 1495217104243
+  logout: 1495217370470
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 166.6450899896333
+  y: 63.0
+  z: 3.699999988079072
+  yaw: -319.1102294921875
+  pitch: 49.8244514465332
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world_the_end
+  x: 1118.89854285785
+  y: -31.085160313845385
+  z: 728.1934013881992
+  yaw: -265.0559997558594
+  pitch: 87.1500015258789
+  world-name: ''
+homes:
+  lave:
+    world: ressource
+    x: 192.33937121702547
+    y: 66.0
+    z: 735.7192575918795
+    yaw: -32.21308135986328
+    pitch: 26.850000381469727
+    world-name: ''
+  shop:
+    world: world
+    x: -559.5474719880108
+    y: 64.0
+    z: -770.3863219299744
+    yaw: -89.347412109375
+    pitch: 17.550071716308594
+    world-name: ''
+  base:
+    world: world
+    x: 441.6558061051102
+    y: 68.0
+    z: 6319.872968943593
+    yaw: -272.2500305175781
+    pitch: 4.050015449523926
+    world-name: ''
+afk: false
+ip-address: 78.214.54.27
+last-account-name: Braise0909
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

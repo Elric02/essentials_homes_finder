@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.142.24.70
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1695469587269
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1695474921821
+  login: 1695469555313
+money: '50.0'
+last-account-name: alikorn8
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 313.4428657830528
+  y: 67.49390748022948
+  z: 260.3841049657265
+  yaw: 154.3494873046875
+  pitch: 30.149974822998047
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: 326.81341161690744
+  y: 66.77470755013822
+  z: 274.016100993783
+  yaw: -154.525390625
+  pitch: 69.89990997314453

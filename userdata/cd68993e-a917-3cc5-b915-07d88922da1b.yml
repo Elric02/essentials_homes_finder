@@ -1,0 +1,82 @@
+timestamps:
+  login: 1533469403369
+  lastteleport: 1533469513159
+  logout: 1533469657441
+  kits:
+    vip: 1532186899843
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4859.937891369269
+  y: 71.0
+  z: -510.4007241456388
+  yaw: -182.688720703125
+  pitch: 2.099698543548584
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -341.77069510194644
+  y: 72.0
+  z: 330.9789366475511
+  yaw: -5.463134765625
+  pitch: 1.2723815441131592
+  world-name: ''
+afk: false
+money: '0'
+homes:
+  home:
+    world: world
+    x: -554.5430155135316
+    y: 71.0625
+    z: -447.6340260569359
+    yaw: 269.218994140625
+    pitch: -2.1600446701049805
+    world-name: ''
+  c:
+    world: world
+    x: -169.9167406806231
+    y: 65.0
+    z: 318.04776526211015
+    yaw: -277.7012634277344
+    pitch: 74.6400146484375
+    world-name: ''
+  v:
+    world: world
+    x: 308.820327754521
+    y: 69.0
+    z: -5547.557698301264
+    yaw: 242.48193359375
+    pitch: 18.98401641845703
+    world-name: ''
+  b:
+    world: world
+    x: 311.9100670560013
+    y: 71.0
+    z: -5803.08008549159
+    yaw: -79.913818359375
+    pitch: 7.67041015625
+    world-name: ''
+  m:
+    world: world
+    x: -911.7591439077817
+    y: 89.0
+    z: -2172.300000011921
+    yaw: 175.8370361328125
+    pitch: 18.748794555664062
+    world-name: ''
+nickname: §acreucreu
+ip-address: 86.198.166.137
+last-account-name: creubocube
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

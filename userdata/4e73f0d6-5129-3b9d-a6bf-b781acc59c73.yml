@@ -1,0 +1,38 @@
+timestamps:
+  login: 1574621168513
+  lastteleport: 1574622504037
+  logout: 1574622647061
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: -3.370568530283877
+  y: 3.0
+  z: -10.252242523165979
+  yaw: 24.5118408203125
+  pitch: -13.650020599365234
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 150.8300956733191
+  y: 63.0
+  z: 34.18384510913526
+  yaw: -356.5709228515625
+  pitch: 28.649993896484375
+  world-name: ''
+ip-address: 86.206.137.32
+last-account-name: HAZARD1979
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

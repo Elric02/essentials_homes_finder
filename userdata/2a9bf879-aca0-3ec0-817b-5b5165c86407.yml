@@ -1,0 +1,38 @@
+timestamps:
+  login: 1481223774771
+  lastteleport: 1481223164196
+  logout: 1481224781369
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 133.57876725237378
+  y: 63.0
+  z: -31.35561680256898
+  yaw: 8.2120361328125
+  pitch: 5.989930152893066
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 103.62060502091373
+  y: 63.0
+  z: 9.678283654223836
+  yaw: 30.6461181640625
+  pitch: -2.17838454246521
+  world-name: ''
+ip-address: 176.154.105.166
+last-account-name: brandon70
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

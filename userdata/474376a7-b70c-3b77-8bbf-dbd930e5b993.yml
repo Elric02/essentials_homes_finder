@@ -1,0 +1,63 @@
+timestamps:
+  login: 1465647968596
+  lastteleport: 1465648005574
+  logout: 1465648147074
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -439.42240838965387
+  y: 68.0
+  z: 298.2867617645577
+  yaw: 234.6006317138672
+  pitch: -0.14998868107795715
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -526.56001117491
+  y: 69.0
+  z: 244.06601457400384
+  yaw: 145.05206298828125
+  pitch: 12.300000190734863
+  world-name: ''
+homes:
+  desert:
+    world: world
+    x: -500.02773714337997
+    y: 70.0
+    z: 368.8507415346628
+    yaw: 358.9507751464844
+    pitch: 1.1999839544296265
+    world-name: ''
+  maison:
+    world: world
+    x: -538.3045760752468
+    y: 68.0
+    z: 226.9095846589715
+    yaw: -222.4490509033203
+    pitch: 45.150054931640625
+    world-name: ''
+  temple:
+    world: world
+    x: 1149.7571182376462
+    y: 64.0
+    z: 142.588452461529
+    yaw: 254.03367614746094
+    pitch: 4.499958515167236
+    world-name: ''
+ip-address: 109.197.104.201
+last-account-name: Boomspad
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

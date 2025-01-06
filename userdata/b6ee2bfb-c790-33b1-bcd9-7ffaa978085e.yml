@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.20.169.23
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1686702071844
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686702147819
+  login: 1686698979089
+money: '200.0'
+last-account-name: JustYumi
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 2502.316896985872
+  y: 77.0
+  z: -2401.4068609915967
+  yaw: -107.63037109375
+  pitch: -17.850095748901367
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 2279.9658761602886
+  y: 66.0
+  z: -2325.8264019797593
+  yaw: 87.585205078125
+  pitch: 7.650252819061279
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2453.4214009429747
+    y: 63.0
+    z: -2337.0226544359352
+    yaw: 143.68280029296875
+    pitch: 10.500248908996582

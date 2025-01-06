@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 142.118.155.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731550947144
+  login: 1731550827186
+money: '0'
+last-account-name: zackobaka
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.76668481305495
+  y: 81.0
+  z: -3111.0440570030773
+  yaw: -38.097904205322266
+  pitch: 14.39988899230957
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.18837688234174
+  y: 81.0
+  z: -3111.320294047041
+  yaw: -67.94772338867188
+  pitch: 19.049985885620117

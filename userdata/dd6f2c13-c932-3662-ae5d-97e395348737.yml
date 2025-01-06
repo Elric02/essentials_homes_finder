@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470318155100
+  lastteleport: 1470318256240
+  logout: 1470319248454
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: -12.442881037592473
+  y: 67.0625
+  z: -3.188120072719553
+  yaw: -2.925508737564087
+  pitch: 70.63796997070312
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 436.30000001192093
+  y: 8.0
+  z: 622.2566563915772
+  yaw: -178.02044677734375
+  pitch: 14.399937629699707
+  world-name: ''
+ip-address: 109.88.107.134
+last-account-name: The_Beast69
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

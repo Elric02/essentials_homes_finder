@@ -1,0 +1,38 @@
+timestamps:
+  login: 1658055375218
+  lastteleport: 1640173540583
+  logout: 1658055391728
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 16.39956473399838
+  y: 65.03584062504456
+  z: 28.30000001192093
+  yaw: 179.7063751220703
+  pitch: -2.8501698970794678
+  world-name: world
+money: '0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -3457.30785928325
+  y: 196.5
+  z: 3634.0785650868934
+  yaw: 0.7586669921875
+  pitch: 8.399677276611328
+  world-name: world
+ip-address: 165.169.162.56
+last-account-name: tototatsuk
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

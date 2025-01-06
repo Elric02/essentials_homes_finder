@@ -1,0 +1,38 @@
+timestamps:
+  login: 1491237620299
+  lastteleport: 1491237684187
+  logout: 1491237871506
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.83177912967577
+  y: 63.0
+  z: 53.07199117205318
+  yaw: -213.76181030273438
+  pitch: 3.489745616912842
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -216.76288027789627
+  y: 77.0
+  z: 594.653761534425
+  yaw: -154.73617553710938
+  pitch: 25.93697166442871
+  world-name: ''
+ip-address: 94.110.13.243
+last-account-name: loic28
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

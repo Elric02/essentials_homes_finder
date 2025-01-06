@@ -1,0 +1,38 @@
+timestamps:
+  login: 1550771457160
+  lastteleport: 1550771532509
+  logout: 1550771536043
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.71480013007937
+  y: 64.0
+  z: 17.836327534305898
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.48447888391092
+  y: 64.0
+  z: 21.957894580476637
+  yaw: -156.12986755371094
+  pitch: -35.10655212402344
+  world-name: ''
+ip-address: 77.151.104.3
+last-account-name: sewunder
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

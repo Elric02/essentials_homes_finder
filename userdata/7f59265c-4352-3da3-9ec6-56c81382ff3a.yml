@@ -1,0 +1,63 @@
+timestamps:
+  login: 1527347216678
+  logout: 1527348542389
+  lastteleport: 1527347948878
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5745.963598212251
+  y: 64.0
+  z: 5872.494124308487
+  yaw: -245.4896240234375
+  pitch: 2.8499393463134766
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5743.306850489513
+  y: 64.0
+  z: 5865.555116736264
+  yaw: -300.2373046875
+  pitch: 34.499942779541016
+  world-name: ''
+muted: false
+afk: false
+homes:
+  terre:
+    world: world
+    x: -4118.699999988079
+    y: 73.0
+    z: -6758.300000011921
+    yaw: -14.550201416015625
+    pitch: 64.64999389648438
+    world-name: ''
+  home:
+    world: world
+    x: -5776.4802027813475
+    y: 77.0
+    z: 5787.584305650137
+    yaw: -155.7904815673828
+    pitch: 12.750005722045898
+    world-name: ''
+  pierre:
+    world: world
+    x: -5881.553658584036
+    y: 74.0
+    z: 6301.911704419016
+    yaw: -299.78955078125
+    pitch: 25.649999618530273
+    world-name: ''
+money: '0'
+jailed: false
+ip-address: 185.73.234.149
+last-account-name: malisimo
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

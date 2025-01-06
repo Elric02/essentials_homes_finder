@@ -1,0 +1,38 @@
+timestamps:
+  login: 1585955052059
+  logout: 1585955262908
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.8261259147602
+  y: 63.0
+  z: 7.400017746487339
+  yaw: 120.8479232788086
+  pitch: 12.240639686584473
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 201.97453310693976
+  y: 64.5
+  z: -33.31397133137941
+  yaw: -0.20184926688671112
+  pitch: -1.8593984842300415
+  world-name: ''
+ip-address: 185.128.25.238
+last-account-name: celeastine
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

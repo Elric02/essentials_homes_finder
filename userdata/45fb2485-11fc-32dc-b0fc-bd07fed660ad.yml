@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467402743436
+  logout: 1467402811343
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 196.7231746813609
+  y: 63.0
+  z: 9.72061950763607
+  yaw: -102.61949920654297
+  pitch: -0.6253195405006409
+  world-name: ''
+ip-address: 90.38.75.33
+last-account-name: PeriodAnxi0
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

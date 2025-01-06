@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.129.4.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682090632793
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682202010641
+  login: 1682201947333
+money: '100.0'
+last-account-name: dark_shadow81600
+lastlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 148.48141973885774
+  y: 83.0
+  z: -109.10968727522479
+  yaw: -178.0500946044922
+  pitch: 63.44999313354492
+logoutlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 2077.0188050220345
+  y: 29.0
+  z: 2124.9066651261696
+  yaw: -169.34890747070312
+  pitch: 12.900023460388184

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1487080754768
+  logout: 1487080824735
+  lastteleport: 1487080783772
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5808.110360748978
+  y: 72.0
+  z: 2385.221113416297
+  yaw: 336.89892578125
+  pitch: 23.400020599365234
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1884.3736620343507
+  y: 80.0
+  z: -2333.2095498425315
+  yaw: 322.9757080078125
+  pitch: 14.584095001220703
+  world-name: ''
+money: '0'
+muted: false
+ip-address: 79.82.2.163
+last-account-name: Sheepolatas
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

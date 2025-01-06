@@ -1,0 +1,55 @@
+timestamps:
+  login: 1480701848985
+  lastteleport: 1480702447975
+  logout: 1480702852751
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4251.300000011921
+  y: 66.0
+  z: -3561.9318871928967
+  yaw: 16.110445022583008
+  pitch: 27.30007553100586
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: ressource
+  x: 502.45268754620525
+  y: 15.0
+  z: 646.1450155584668
+  yaw: 357.15289306640625
+  pitch: 9.750031471252441
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4253.4406959754415
+    y: 66.0
+    z: -3559.599536633518
+    yaw: 223.2604217529297
+    pitch: 19.05006980895996
+    world-name: ''
+  mine:
+    world: ressource
+    x: 632.5872405082275
+    y: 6.0
+    z: 628.6925156835191
+    yaw: 33.30306625366211
+    pitch: 40.04999923706055
+    world-name: ''
+ip-address: 62.197.125.69
+last-account-name: Snip3r_K1ng
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

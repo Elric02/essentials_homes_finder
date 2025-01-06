@@ -1,0 +1,38 @@
+timestamps:
+  login: 1510434798797
+  lastteleport: 1510435053928
+  logout: 1510435124816
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 158.79156052719682
+  y: 63.0
+  z: 59.07327923267712
+  yaw: -6.620810508728027
+  pitch: -1.921333909034729
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -5432.67040489474
+  y: 65.0
+  z: -1829.6418477703373
+  yaw: -45.449981689453125
+  pitch: -82.64999389648438
+  world-name: ''
+ip-address: 90.31.166.41
+last-account-name: thekillerazerty
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

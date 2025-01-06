@@ -1,0 +1,47 @@
+timestamps:
+  login: 1563637542749
+  lastteleport: 1557928490954
+  logout: 1563637688661
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.56704768690173
+  y: 64.0
+  z: 12.119890815261318
+  yaw: -2.42083740234375
+  pitch: -3.721337080001831
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -3899.089056790383
+    y: 64.0
+    z: 2826.3401233395493
+    yaw: -141.8989715576172
+    pitch: 23.85000228881836
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -3906.6110169085337
+  y: 51.0
+  z: 2819.5231845410535
+  yaw: -95.5494384765625
+  pitch: 8.528290748596191
+  world-name: ''
+afk: false
+ip-address: 78.227.213.186
+last-account-name: thestephFR
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

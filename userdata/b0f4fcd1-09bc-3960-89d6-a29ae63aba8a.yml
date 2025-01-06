@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618147403133
+  lastteleport: 1618147431239
+  logout: 1618147452243
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.21632105229867
+  y: 63.0
+  z: 46.84591567052421
+  yaw: -149.45448303222656
+  pitch: 11.940643310546875
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 144.33686017316887
+  y: 64.0
+  z: 24.09674010750112
+  yaw: -38.49395751953125
+  pitch: -7.374114513397217
+  world-name: ''
+ip-address: 37.168.225.33
+last-account-name: pixels_cosmo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

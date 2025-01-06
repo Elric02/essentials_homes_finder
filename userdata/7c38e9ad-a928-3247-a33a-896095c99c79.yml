@@ -1,0 +1,38 @@
+timestamps:
+  login: 1549215821815
+  logout: 1549215868545
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.89447065038416
+  y: 65.0
+  z: 80.98779485513572
+  yaw: -223.8818817138672
+  pitch: 38.290260314941406
+  world-name: ''
+ip-address: 86.241.95.139
+last-account-name: Lebgdu190
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

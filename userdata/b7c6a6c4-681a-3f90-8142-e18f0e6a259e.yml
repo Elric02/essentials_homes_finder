@@ -1,0 +1,55 @@
+timestamps:
+  login: 1516192102170
+  logout: 1516192354106
+  lastteleport: 1516025027556
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 64.82218783260424
+  y: 94.0
+  z: 59.26403162126298
+  yaw: -268.500244140625
+  pitch: 12.449930191040039
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -0.17766679834044447
+  y: 64.0
+  z: -369.6377598632519
+  yaw: -135.25753784179688
+  pitch: 28.799795150756836
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -59.06317947446874
+    y: 64.0
+    z: -352.3809988615024
+    yaw: 238.0954132080078
+    pitch: 16.34999656677246
+    world-name: ''
+  home2:
+    world: Ressource
+    x: -922.6184774508242
+    y: 63.0
+    z: -1388.1736296732813
+    yaw: 182.5496368408203
+    pitch: 17.69992446899414
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 81.53.22.200
+last-account-name: Magoh
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

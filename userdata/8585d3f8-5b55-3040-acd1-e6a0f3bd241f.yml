@@ -1,0 +1,55 @@
+timestamps:
+  login: 1495277930220
+  lastteleport: 1495284521895
+  logout: 1495284569985
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1070.662626293516
+  y: 63.5
+  z: 3930.3790365893487
+  yaw: 149.5237274169922
+  pitch: 11.999983787536621
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 139.23750001192093
+  y: 63.0
+  z: 23.45676416962294
+  yaw: 155.33901977539062
+  pitch: 49.974517822265625
+  world-name: ''
+homes:
+  cool:
+    world: world
+    x: 1113.7302951742754
+    y: 73.0
+    z: 3827.0989654609143
+    yaw: 29.548477172851562
+    pitch: 56.549991607666016
+    world-name: ''
+  crevasse:
+    world: world
+    x: -4296.624806214652
+    y: 46.0
+    z: -1145.9614756361766
+    yaw: 57.60003662109375
+    pitch: 40.350013732910156
+    world-name: ''
+ip-address: 81.242.124.163
+last-account-name: _8The_Shadow8_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

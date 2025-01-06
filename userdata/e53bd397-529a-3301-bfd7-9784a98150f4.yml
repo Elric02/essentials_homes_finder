@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.185.9.59
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1669670528184
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669670701563
+  login: 1669670348187
+money: '0'
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3546.35095804761
+  y: 46.0
+  z: 3617.8477383472796
+  yaw: -73.03471374511719
+  pitch: 63.60016632080078
+last-account-name: Dezuli
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 161.451237339665
+  y: 63.5
+  z: 17.894035263583117
+  yaw: -130.33453369140625
+  pitch: -4.049842834472656

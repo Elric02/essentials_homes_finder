@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618572409057
+  logout: 1618572583096
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -1954.97971430692
+  y: 70.0
+  z: -4658.348532521629
+  yaw: 243.01028442382812
+  pitch: 16.500024795532227
+  world-name: ''
+money: '0'
+ip-address: 83.77.150.78
+last-account-name: Xivedd
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.205.13.61
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1694794758371
+  login: 1694794638426
+money: '0'
+last-account-name: BlgAnne
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9995239968831
+  y: 81.0
+  z: -3111.2013119808007
+  yaw: -42.14812469482422
+  pitch: 12.74994945526123
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.9612533843689
+  y: 81.0
+  z: -3111.243598566845
+  yaw: -148.79827880859375
+  pitch: 20.549957275390625

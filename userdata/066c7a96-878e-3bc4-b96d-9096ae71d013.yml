@@ -1,0 +1,38 @@
+timestamps:
+  login: 1482769177218
+  lastteleport: 1482769785466
+  logout: 1482769902494
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.47179235185556
+  y: 64.0
+  z: 29.5960689145225
+  yaw: -174.81092834472656
+  pitch: 9.174514770507812
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 136.71334722856594
+  y: 63.0
+  z: 38.655292852019166
+  yaw: -230.3108673095703
+  pitch: 14.874515533447266
+  world-name: ''
+money: '0'
+ip-address: 92.135.220.75
+last-account-name: DarkPoulet
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

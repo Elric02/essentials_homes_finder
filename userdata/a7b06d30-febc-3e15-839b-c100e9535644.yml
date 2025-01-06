@@ -1,0 +1,38 @@
+timestamps:
+  login: 1541077461760
+  lastteleport: 1541077590841
+  logout: 1541077638544
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.37340505943624
+  y: 63.0
+  z: -16.62106477391014
+  yaw: 24.546968460083008
+  pitch: 16.290658950805664
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 62.9026520713804
+  y: 67.0
+  z: 63.34124657511711
+  yaw: -183.020751953125
+  pitch: 27.00003433227539
+  world-name: ''
+ip-address: 91.165.206.216
+last-account-name: TheGameRacer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

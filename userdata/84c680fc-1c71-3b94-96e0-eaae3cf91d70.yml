@@ -1,0 +1,38 @@
+timestamps:
+  login: 1525621347936
+  lastteleport: 1525287932437
+  logout: 1525621680010
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -202.69999998807907
+  y: 15.0
+  z: -55.69999998807907
+  yaw: 90.06793975830078
+  pitch: 2.5499441623687744
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 6268.699999988079
+  y: 118.0
+  z: 4426.699999988079
+  yaw: -231.20494079589844
+  pitch: 24.749975204467773
+  world-name: ''
+ip-address: 85.218.38.29
+last-account-name: Aub1576
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

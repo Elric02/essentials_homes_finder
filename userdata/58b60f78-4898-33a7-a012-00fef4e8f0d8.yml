@@ -1,0 +1,63 @@
+timestamps:
+  login: 1626270971192
+  lastteleport: 1626271137655
+  logout: 1626271146834
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.35905502739664
+  y: 64.0
+  z: 21.208286643269304
+  yaw: -195.9144744873047
+  pitch: 44.37841033935547
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  maison:
+    world: world
+    x: -5114.911854789018
+    y: 86.0
+    z: -2939.755477435778
+    yaw: 33.830474853515625
+    pitch: 13.200002670288086
+    world-name: ''
+  merlin:
+    world: world
+    x: 61.92450907519915
+    y: 94.0
+    z: 58.902954360978846
+    yaw: -71.965087890625
+    pitch: -3.9839959144592285
+    world-name: ''
+  shop:
+    world: world
+    x: -581.8192418447056
+    y: 65.0
+    z: -710.1073947063037
+    yaw: -50.06719970703125
+    pitch: 44.553619384765625
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -582.6750275630831
+  y: 64.9375
+  z: -708.4324742029934
+  yaw: 177.46546936035156
+  pitch: 16.47760009765625
+  world-name: ''
+ip-address: 176.157.125.130
+last-account-name: jb2828
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

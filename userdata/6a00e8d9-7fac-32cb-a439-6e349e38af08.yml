@@ -1,0 +1,38 @@
+timestamps:
+  login: 1520618498955
+  lastteleport: 1520618604512
+  logout: 1520618662324
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.60303948733684
+  y: 63.0
+  z: 65.05763481481026
+  yaw: -104.30309295654297
+  pitch: 24.39065933227539
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1443.0719799226965
+  y: 64.0
+  z: -2249.16341827758
+  yaw: 170.3270721435547
+  pitch: 19.485950469970703
+  world-name: ''
+ip-address: 90.35.245.76
+last-account-name: maelgame08
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

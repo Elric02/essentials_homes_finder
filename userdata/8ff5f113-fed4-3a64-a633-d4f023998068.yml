@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499256665542
+  lastteleport: 1499257064091
+  logout: 1499257343081
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.87077326453294
+  y: 66.0
+  z: 20.323015771032725
+  yaw: -99.19574737548828
+  pitch: -13.922685623168945
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+ip-address: 176.153.128.118
+last-account-name: hellochica
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

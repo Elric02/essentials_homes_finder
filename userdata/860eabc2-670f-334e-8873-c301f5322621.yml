@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472065266284
+  lastteleport: 1472065697063
+  logout: 1472066321735
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: -9.300000011920929
+  y: 67.0625
+  z: -5.215004159800201
+  yaw: 124.72440338134766
+  pitch: 17.237998962402344
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 195.22310854513526
+  y: 63.0
+  z: -11.505674889934156
+  yaw: 143.86798095703125
+  pitch: 27.30006217956543
+  world-name: ''
+ip-address: 78.206.58.65
+last-account-name: bglife
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

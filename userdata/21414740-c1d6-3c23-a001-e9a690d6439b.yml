@@ -1,0 +1,48 @@
+timestamps:
+  login: 1479038738326
+  lastteleport: 1479039715561
+  logout: 1479039816550
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -220.7670239453593
+  y: 63.0
+  z: 401.6642535184669
+  yaw: -189.15040588378906
+  pitch: 1.6501590013504028
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 5092.508256002861
+    y: 64.0
+    z: -5279.832308737056
+    yaw: -91.65174865722656
+    pitch: 25.34994888305664
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5089.300000011921
+  y: 65.0625
+  z: -5275.80873437906
+  yaw: 111.29813385009766
+  pitch: 8.999939918518066
+  world-name: ''
+afk: false
+nickname: CaporalHellmist
+ip-address: 90.33.127.30
+last-account-name: hellmist
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

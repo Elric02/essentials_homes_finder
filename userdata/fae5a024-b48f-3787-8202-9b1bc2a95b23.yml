@@ -1,0 +1,63 @@
+timestamps:
+  login: 1509542467853
+  lastteleport: 1509542595249
+  logout: 1509542932527
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.41689724013702
+  y: 64.0
+  z: 20.444611404639215
+  yaw: -186.10693359375
+  pitch: 10.86047649383545
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 4411.625410653941
+  y: 64.0
+  z: -2907.8068339839756
+  yaw: -139.49163818359375
+  pitch: 55.07279586791992
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  bp:
+    world: world
+    x: 2882.3217563438134
+    y: 71.0
+    z: -2546.768927847265
+    yaw: -8.617776870727539
+    pitch: 25.53057861328125
+    world-name: ''
+  cobble:
+    world: world
+    x: 2865.6783498417776
+    y: 72.0
+    z: -2520.964739753717
+    yaw: -1.3927648067474365
+    pitch: 6.356479644775391
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 821.6999999880791
+    y: 16.0
+    z: -1586.300000011921
+    yaw: 136.79833984375
+    pitch: 36.15385818481445
+    world-name: ''
+muted: false
+ip-address: 81.254.219.158
+last-account-name: Thecochonz
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

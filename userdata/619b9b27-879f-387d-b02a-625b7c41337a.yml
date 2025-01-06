@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.149.21.116
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1669399920086
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669400177417
+  login: 1669399655341
+money: '0'
+lastlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -21.757277197206257
+  y: 68.0
+  z: 45.59309174412957
+  yaw: -42.00456619262695
+  pitch: 57.48562240600586
+last-account-name: moitah
+logoutlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -47.363132695968474
+  y: 80.0
+  z: 4.142083455698459
+  yaw: 169.19593811035156
+  pitch: -70.05068969726562

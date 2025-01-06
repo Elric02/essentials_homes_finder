@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.246.210.159
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1688338721066
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1688338794048
+  login: 1688338338050
+money: '0'
+last-account-name: Metisayen
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -643.0
+  y: 62.87689772798226
+  z: 201.9752813103046
+  yaw: 19.769115447998047
+  pitch: 14.578198432922363
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: -2.0019642423383406
+  y: 33.0
+  z: 416.66371806910587
+  yaw: 9.073596954345703
+  pitch: 5.021883487701416

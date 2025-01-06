@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516810790303
+  lastteleport: 1516811308008
+  logout: 1516812573300
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.10796825262446
+  y: 63.0
+  z: 63.512483456226335
+  yaw: 229.74710083007812
+  pitch: 8.640641212463379
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -176.57081604003906
+  pitch: 1.6786695718765259
+  world-name: ''
+ip-address: 37.168.183.93
+last-account-name: Shonisuke
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

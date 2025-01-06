@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.184.108.204
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1688981574893
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1688981682207
+  login: 1688980845611
+  kits:
+    stationaute: 1688980898933
+money: '200.0'
+last-account-name: Healexia
+lastlocation:
+  world: 813c82cd-b0d8-4b2f-bdff-f3b2b9aef2e9
+  world-name: Ressource
+  x: -0.5
+  y: 90.0
+  z: 0.5
+  yaw: 100.94728088378906
+  pitch: 6.635798454284668
+logoutlocation:
+  world: 813c82cd-b0d8-4b2f-bdff-f3b2b9aef2e9
+  world-name: Ressource
+  x: 1400.699999988079
+  y: 30.0
+  z: 1028.300000011921
+  yaw: 133.04837036132812
+  pitch: 39.899967193603516
+homes:
+  port:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 347.37464363653174
+    y: 64.0
+    z: -2967.6535448410054
+    yaw: 85.51699829101562
+    pitch: 26.249820709228516

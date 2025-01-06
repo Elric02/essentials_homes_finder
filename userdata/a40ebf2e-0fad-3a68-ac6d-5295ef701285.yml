@@ -1,0 +1,38 @@
+timestamps:
+  login: 1567221274453
+  lastteleport: 1567221356513
+  logout: 1567221536391
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 179.14421863874156
+  y: 63.0
+  z: 19.85358025803217
+  yaw: 268.2966613769531
+  pitch: 28.29060173034668
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -1272.373607510542
+  y: 68.0
+  z: -979.5381129298182
+  yaw: 31.350187301635742
+  pitch: 2.399585247039795
+  world-name: ''
+ip-address: 109.23.76.54
+last-account-name: Hakiu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

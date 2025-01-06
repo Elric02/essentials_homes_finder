@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499955223657
+  lastteleport: 1499172390463
+  logout: 1499955296073
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.4455492727842
+  y: 28.0
+  z: 22.25672747665587
+  yaw: 18.966842651367188
+  pitch: 8.87590217590332
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 133.89673340299157
+  y: 63.0
+  z: -28.05000001192094
+  yaw: -16.710697174072266
+  pitch: 13.674510955810547
+  world-name: ''
+money: '0'
+ip-address: 88.184.25.89
+last-account-name: acedog15
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

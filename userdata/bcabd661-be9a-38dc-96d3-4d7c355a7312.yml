@@ -1,0 +1,47 @@
+timestamps:
+  login: 1562160985599
+  lastteleport: 1562162767620
+  logout: 1562165050936
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 139.06821846873788
+  y: 63.0
+  z: 17.622144269056527
+  yaw: 121.9291763305664
+  pitch: 41.42867660522461
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: Ressource
+    x: -402.51249998807907
+    y: 63.0
+    z: -273.30000001192093
+    yaw: 264.14935302734375
+    pitch: 18.59998321533203
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -402.2773469969111
+  y: 63.0
+  z: -273.48750001192093
+  yaw: 255.89926147460938
+  pitch: 18.299972534179688
+  world-name: ''
+ip-address: 86.244.184.84
+last-account-name: yaunis2010
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

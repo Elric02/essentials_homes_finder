@@ -1,0 +1,63 @@
+timestamps:
+  login: 1489431255156
+  lastteleport: 1489431660855
+  logout: 1489431973758
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 92.08039090462289
+  y: 74.0
+  z: -4907.644518378074
+  yaw: -19.05181884765625
+  pitch: -16.04999542236328
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -807.6999999880791
+    y: 66.96455249140338
+    z: -565.8637278297384
+    yaw: -187.63226318359375
+    pitch: 18.150009155273438
+    world-name: ''
+  vu:
+    world: world
+    x: -831.9788582789623
+    y: 109.0
+    z: -565.6861062692342
+    yaw: -259.9063720703125
+    pitch: 37.799991607666016
+    world-name: ''
+  deux:
+    world: world
+    x: 104.95983285290399
+    y: 67.0
+    z: -2484.9632955266557
+    yaw: 26.999542236328125
+    pitch: -2.849999189376831
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 2331.032703463365
+  y: 73.0
+  z: -6319.73756475542
+  yaw: 136.79891967773438
+  pitch: 40.20000457763672
+  world-name: ''
+muted: false
+ip-address: 90.1.225.30
+last-account-name: Saoc0
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1472912461809
+  logout: 1472912556726
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 138.21784210362532
+  y: 63.0
+  z: 20.01475278219187
+  yaw: -253.16253662109375
+  pitch: 23.87371826171875
+  world-name: ''
+ip-address: 87.89.66.156
+last-account-name: Chronos1993
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 130.79.220.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1678208021181
+  login: 1678207701676
+money: '0'
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 418.9662319614301
+  y: 80.0
+  z: -3229.873285216521
+  yaw: -126.75140380859375
+  pitch: 59.100040435791016
+last-account-name: Xenium67
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 309.69544225247546
+  y: -2530.7225108088896
+  z: -3217.335175095768
+  yaw: -141.75149536132812
+  pitch: 41.70009994506836

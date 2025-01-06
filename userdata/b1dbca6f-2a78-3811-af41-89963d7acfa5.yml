@@ -1,0 +1,38 @@
+timestamps:
+  login: 1513195624746
+  lastteleport: 1497883140572
+  logout: 1513195711354
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -424.1767577837331
+  y: 87.02442408821369
+  z: 259.6284258083401
+  yaw: 89.50019836425781
+  pitch: 35.69987487792969
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -475.71772312638905
+  y: 66.0
+  z: -5.368601600128419
+  yaw: -32.880340576171875
+  pitch: 7.8284759521484375
+  world-name: ''
+afk: false
+ip-address: 78.248.55.40
+last-account-name: Stacha
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.95.157.117
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1660336249478
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1664978872202
+  login: 1664978854257
+money: '0'
+last-account-name: saumonchauve
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 158.76555678983854
+  y: 63.0
+  z: 10.328184613858463
+  yaw: -26.998565673828125
+  pitch: 9.149972915649414
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -52.17064689426021
+  y: 65.0
+  z: -99.69999998807907
+  yaw: -63.93091583251953
+  pitch: 90.0

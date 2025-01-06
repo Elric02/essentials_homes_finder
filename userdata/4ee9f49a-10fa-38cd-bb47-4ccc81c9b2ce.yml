@@ -1,0 +1,63 @@
+timestamps:
+  login: 1521654299026
+  lastteleport: 1521569073519
+  logout: 1521655048207
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -702.0500000119209
+  y: 63.0
+  z: -721.0500000119209
+  yaw: -14.399155616760254
+  pitch: -21.05801773071289
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  egypte:
+    world: Ressource
+    x: 6685.317269525199
+    y: 75.0
+    z: -2230.0045177784696
+    yaw: 111.44943237304688
+    pitch: 12.318788528442383
+    world-name: ''
+  desert:
+    world: world
+    x: 2742.6217925831716
+    y: 71.0
+    z: -4563.480389969467
+    yaw: 37.15643310546875
+    pitch: 24.894235610961914
+    world-name: ''
+  station:
+    world: world
+    x: 2645.7228343325073
+    y: 192.0
+    z: -6668.108724520336
+    yaw: 253.49993896484375
+    pitch: 58.43318557739258
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4867.889162091999
+  y: 69.0
+  z: -363.83030724042146
+  yaw: 0.09992638230323792
+  pitch: 15.736047744750977
+  world-name: ''
+ip-address: 88.173.99.111
+last-account-name: Nebride_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

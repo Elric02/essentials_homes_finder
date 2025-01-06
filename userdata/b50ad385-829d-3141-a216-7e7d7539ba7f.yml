@@ -1,0 +1,38 @@
+timestamps:
+  login: 1726801715090
+  logout: 1726801715110
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 155.07829039233013
+  y: 64.0625
+  z: 19.11065925437836
+  yaw: 271.0523986816406
+  pitch: 0.7499755620956421
+  world-name: world
+ip-address: 51.158.164.250
+last-account-name: Notch
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

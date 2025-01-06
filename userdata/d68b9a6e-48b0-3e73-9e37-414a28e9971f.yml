@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509464857941
+  lastteleport: 1509465079014
+  logout: 1509465089656
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.04417028417228
+  y: 63.5
+  z: 32.56152548728563
+  yaw: 0.26061534881591797
+  pitch: 1.7846049070358276
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.4697469753446
+  y: 64.0
+  z: 19.549990127647053
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+ip-address: 90.23.22.52
+last-account-name: Ansbert18
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

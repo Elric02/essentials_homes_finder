@@ -1,0 +1,38 @@
+timestamps:
+  login: 1610403379076
+  logout: 1610406299715
+  lastteleport: 1610405646996
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.38603304986202
+  y: 64.0
+  z: 28.522114702793914
+  yaw: -223.4808807373047
+  pitch: 50.24491500854492
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3628.300000011921
+  y: 11.0
+  z: 1177.542802867027
+  yaw: -351.226318359375
+  pitch: -20.591772079467773
+  world-name: ''
+money: '0'
+ip-address: 41.251.52.110
+last-account-name: ayoubix008
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

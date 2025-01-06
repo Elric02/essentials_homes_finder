@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477683451871
+  logout: 1477685921787
+  lastteleport: 1477685675143
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4482.130530319328
+  y: 67.0
+  z: 5642.858668202033
+  yaw: -14.700003623962402
+  pitch: 37.35001754760742
+  world-name: ''
+logoutlocation:
+  world: Event
+  x: 810.7855801668594
+  y: 4.0
+  z: -1492.6516568373615
+  yaw: 161.6328125
+  pitch: 3.0717153549194336
+  world-name: ''
+money: '0'
+ip-address: 88.169.41.181
+last-account-name: M2aAsK
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

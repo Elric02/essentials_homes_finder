@@ -1,0 +1,38 @@
+timestamps:
+  login: 1622971748296
+  lastteleport: 1622971917363
+  logout: 1622971932207
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 3599.5517696882857
+  y: 72.0
+  z: 4115.714041808971
+  yaw: -87.14286804199219
+  pitch: 43.33745193481445
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 149.60306193492477
+  y: 64.0
+  z: 22.103593994159503
+  yaw: -85.22418212890625
+  pitch: 18.26072883605957
+  world-name: ''
+ip-address: 77.145.227.107
+last-account-name: Grizard
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

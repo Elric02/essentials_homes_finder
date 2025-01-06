@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508336653852
+  logout: 1508337567068
+  jail: 0
+  lastteleport: 1508337556061
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.56688700977494
+  y: 64.0
+  z: 22.876078368556776
+  yaw: 162.20057678222656
+  pitch: 27.669443130493164
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: 137.3274383544922
+  pitch: 34.65517807006836
+  world-name: ''
+jailed: false
+ip-address: 2.8.242.179
+last-account-name: hardbggamer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

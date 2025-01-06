@@ -1,0 +1,47 @@
+timestamps:
+  login: 1554311719356
+  lastteleport: 1552496315816
+  logout: 1554311793178
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -173.72084045410156
+  pitch: 1.0786696672439575
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 1610.2941774089954
+    y: 113.0
+    z: 2910.112930940932
+    yaw: 2.850250244140625
+    pitch: 81.14997100830078
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 1605.0559223607447
+  y: 113.0
+  z: 2912.811193789412
+  yaw: -46.34971618652344
+  pitch: 14.099992752075195
+  world-name: ''
+money: '0'
+ip-address: 88.163.215.27
+last-account-name: jmax
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

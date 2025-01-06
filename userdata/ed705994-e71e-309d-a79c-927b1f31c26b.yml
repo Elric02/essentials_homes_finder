@@ -1,0 +1,132 @@
+timestamps:
+  login: 1698686731247
+  lastteleport: 1688459603280
+  logout: 1698687381365
+  kits:
+    vip: 1675032390803
+    color: 1674933068151
+    stationaute: 1675032454843
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -4975.46975645604
+  y: 71.0
+  z: -531.495264681207
+  yaw: 90.57805633544922
+  pitch: 17.55004119873047
+  world-name: world
+money: '500.0'
+homes:
+  h:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4976.02658996834
+    y: 71.0
+    z: -531.4189492732359
+    yaw: 90.57805633544922
+    pitch: 17.55004119873047
+    world-name: world
+  c:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1475.8549283448617
+    y: 66.0
+    z: -4319.307809351092
+    yaw: -276.151611328125
+    pitch: 27.14995574951172
+    world-name: world
+  min:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3877.3222084197746
+    y: 51.0
+    z: -1617.1225476060145
+    yaw: -293.0996398925781
+    pitch: 36.7499885559082
+    world-name: world
+  bois:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4767.310405568357
+    y: 67.0
+    z: -3811.7570063508456
+    yaw: -319.0076904296875
+    pitch: 35.51960372924805
+    world-name: world
+  canio:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -2662.699999988079
+    y: 79.0
+    z: -903.1293982106689
+    yaw: -216.2400665283203
+    pitch: 36.498634338378906
+    world-name: world
+  ville:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3780.83520047218
+    y: 63.0
+    z: -1070.7053898638653
+    yaw: -185.81126403808594
+    pitch: 22.902681350708008
+    world-name: world
+  modo:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 151.13795925890574
+    y: 118.0625
+    z: 19.689009048562927
+    yaw: -32.49896240234375
+    pitch: 20.98871612548828
+  bordur:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3924.2745806105754
+    y: 121.0
+    z: -1213.5329827122096
+    yaw: -46.0966796875
+    pitch: 54.371253967285156
+  mineur:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 213.20187704540996
+    y: 63.0
+    z: -66.57603398345668
+    yaw: -90.93412017822266
+    pitch: 19.12786102294922
+  banque:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 117.1411679592861
+    y: 63.0
+    z: 44.2315785061467
+    yaw: 0.9193115234375
+    pitch: 10.595434188842773
+  merlin:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 66.5084051979184
+    y: 94.0
+    z: 59.8252645069388
+    yaw: 126.37551879882812
+    pitch: 25.81133460998535
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -3793.5352959744023
+  y: 55.5
+  z: -1137.3901821852762
+  yaw: 76.49072265625
+  pitch: 22.278270721435547
+  world-name: world
+afk: false
+nickname: §1vic
+jailed: false
+ip-address: 176.151.104.45
+last-account-name: VICTONIO
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

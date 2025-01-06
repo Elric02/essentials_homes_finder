@@ -1,0 +1,71 @@
+timestamps:
+  login: 1693240015380
+  lastteleport: 1693240602902
+  logout: 1693240611623
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3362.074999988079
+  y: 66.0
+  z: -3030.9116353358127
+  yaw: 117.47509002685547
+  pitch: 14.570028305053711
+  world-name: world
+money: '104.68'
+afk: false
+homes:
+  e:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 3376.318919960021
+    y: 67.0
+    z: -3027.1913758713176
+    yaw: 96.07108306884766
+    pitch: 54.28289031982422
+    world-name: world
+  f:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3795.398445239199
+    y: 63.0
+    z: 854.215268219387
+    yaw: 0.8722983598709106
+    pitch: 12.555843353271484
+    world-name: world
+  salle:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3383.725276224699
+    y: 48.0
+    z: -3025.22044549733
+    yaw: -174.97039794921875
+    pitch: 7.802882671356201
+  ressource:
+    world: 72904504-567d-4815-8388-f0d7ca583f74
+    world-name: Ressource
+    x: -2590.4266276649832
+    y: -30.0
+    z: -272.5812060162429
+    yaw: 79.03955078125
+    pitch: 13.789989471435547
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 3375.61524391337
+  y: 68.0
+  z: -3030.300000011921
+  yaw: 163.83181762695312
+  pitch: 19.8049373626709
+  world-name: world
+jailed: false
+ip-address: 89.156.178.115
+last-account-name: Prandit
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

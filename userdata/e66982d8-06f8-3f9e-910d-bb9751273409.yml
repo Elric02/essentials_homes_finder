@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.66.6.152
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1659458529341
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1659458687277
+  login: 1659455374518
+money: '0'
+last-account-name: jojojolarico_YT
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -7620.488572773318
+  y: 89.0
+  z: 975.0015489356607
+  yaw: -16.64569091796875
+  pitch: 37.500274658203125
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -2239.5
+  y: 71.0
+  z: -2068.5
+  yaw: -13.124021530151367
+  pitch: 64.50001525878906
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2284.0667959808134
+    y: 72.0
+    z: -2069.366391781287
+    yaw: 24.375732421875
+    pitch: 33.4498291015625
+  villagois:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6830.1228555902935
+    y: 68.0
+    z: -1882.0736627072563
+    yaw: -11.92127513885498
+    pitch: 45.000064849853516

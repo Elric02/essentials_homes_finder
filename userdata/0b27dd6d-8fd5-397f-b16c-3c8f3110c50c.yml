@@ -1,0 +1,47 @@
+timestamps:
+  login: 1585832767847
+  lastteleport: 1585832984716
+  logout: 1585832732964
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3.4458003526636505
+  y: 58.0
+  z: -2299.160180902334
+  yaw: -257.10296630859375
+  pitch: 14.999140739440918
+  world-name: ''
+afk: false
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -54.96097035512102
+  y: 63.76495566503687
+  z: 5.889991723894151
+  yaw: -356.5516052246094
+  pitch: -1.1640485525131226
+  world-name: ''
+homes:
+  leo250:
+    world: world
+    x: 2.234752669867051
+    y: 58.0
+    z: -2299.1541420718117
+    yaw: 22.347679138183594
+    pitch: 21.89940071105957
+    world-name: ''
+ip-address: 92.141.139.90
+last-account-name: Leo250
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

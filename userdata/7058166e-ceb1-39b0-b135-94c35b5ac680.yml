@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614286331935
+  lastteleport: 1614287835672
+  logout: 1614287882025
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 64.60321687343352
+  y: 94.0
+  z: 59.397230267986714
+  yaw: -214.7430419921875
+  pitch: 5.82594633102417
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5641445748617
+  y: 64.0
+  z: 17.925570683733866
+  yaw: 183.2047576904297
+  pitch: -6.924116134643555
+  world-name: ''
+ip-address: 91.177.138.9
+last-account-name: Keleshe
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

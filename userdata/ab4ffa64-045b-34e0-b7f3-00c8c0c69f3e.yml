@@ -1,0 +1,38 @@
+timestamps:
+  login: 1476480100105
+  logout: 1476480347661
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 162.84724618437696
+  y: 27.0
+  z: 20.33246375681392
+  yaw: -83.44671630859375
+  pitch: 4.84652042388916
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2548.30231133115
+  y: 56.0
+  z: 2020.300000011921
+  yaw: 0.23037831485271454
+  pitch: 63.06782913208008
+  world-name: ''
+ip-address: 74.56.64.16
+last-account-name: simon_vig
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

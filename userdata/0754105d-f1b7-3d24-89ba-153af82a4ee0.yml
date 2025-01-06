@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485096053110
+  logout: 1485096307171
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1432.328881057341
+  y: 64.0
+  z: -5106.0573542356515
+  yaw: 176.10052490234375
+  pitch: 13.949955940246582
+  world-name: ''
+ip-address: 88.180.125.45
+last-account-name: fufu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

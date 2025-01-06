@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471990302561
+  logout: 1471990340859
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.62219219174813
+  y: 63.0
+  z: -16.788113376594737
+  yaw: -166.84765625
+  pitch: 12.697394371032715
+  world-name: ''
+ip-address: 85.201.85.146
+last-account-name: Phantonium
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

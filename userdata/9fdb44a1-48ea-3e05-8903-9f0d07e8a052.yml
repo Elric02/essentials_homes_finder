@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471340159560
+  lastteleport: 1471174033577
+  logout: 1471340169217
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.94156629751242
+  y: 64.0
+  z: 6.869116657901781
+  yaw: -171.36097717285156
+  pitch: 26.874515533447266
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -202.30000001192093
+  y: 14.0
+  z: 188.66719779675952
+  yaw: 243.4615020751953
+  pitch: 8.700221061706543
+  world-name: ''
+ip-address: 90.55.92.59
+last-account-name: mathbapt
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.214.121.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1636238083457
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1636480060874
+  login: 1636480017416
+money: '0'
+last-account-name: Miss_Gaming
+lastlocation:
+  world: d2e59b71-a6cc-46c3-9366-582a12c8b4fb
+  world-name: Ressource
+  x: 671.2299607745117
+  y: 60.0
+  z: 4030.689505804946
+  yaw: -97.31430053710938
+  pitch: 13.209229469299316
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 4286.949359507396
+  y: 115.0
+  z: -1522.1096193445987
+  yaw: -7.579681396484375
+  pitch: 31.61939811706543
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 4286.696942655862
+    y: 108.9375
+    z: -1514.1580420071234
+    yaw: -0.6091023683547974
+    pitch: 22.205358505249023
+  end:
+    world: d1664d30-9fc4-42ee-82cf-43bb1c142a8b
+    world-name: End
+    x: 35.4910412357321
+    y: 28.0
+    z: -371.6917104449557
+    yaw: 14.16094970703125
+    pitch: 37.98088836669922

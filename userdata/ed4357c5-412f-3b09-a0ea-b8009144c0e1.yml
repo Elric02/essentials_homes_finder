@@ -1,0 +1,38 @@
+timestamps:
+  login: 1465667891668
+  logout: 1465667967844
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 202.66547781901454
+  y: 64.0
+  z: 37.417641413716126
+  yaw: 76.50275421142578
+  pitch: 11.474213600158691
+  world-name: ''
+ip-address: 109.214.111.172
+last-account-name: Joceanspi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

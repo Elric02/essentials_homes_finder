@@ -1,0 +1,38 @@
+timestamps:
+  login: 1526138505595
+  lastteleport: 1526138807917
+  logout: 1526138810732
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.05424332081233
+  y: 65.0
+  z: 68.85518229945166
+  yaw: -179.99667358398438
+  pitch: 6.001167297363281
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 24.5
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+money: '0'
+ip-address: 109.21.223.47
+last-account-name: foxydu77
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

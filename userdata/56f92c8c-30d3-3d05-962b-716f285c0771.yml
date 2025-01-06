@@ -1,0 +1,47 @@
+timestamps:
+  login: 1483900371206
+  logout: 1483901402831
+  lastteleport: 1483901401045
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 508.2034963035186
+    y: 72.0
+    z: -5274.511700203795
+    yaw: 288.6024169921875
+    pitch: 19.80002784729004
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -180.06092834472656
+  pitch: 6.624515056610107
+  world-name: ''
+money: '0'
+ip-address: 90.51.145.6
+last-account-name: Marsien
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

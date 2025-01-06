@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.195.4.182
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1666620598556
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1666622818452
+  login: 1666619120152
+  kits:
+    stationaute: 1666545920177
+money: '452.69'
+last-account-name: Napoleo3
+lastlocation:
+  world: bd63a69b-f162-438e-8437-fbdb5ea04361
+  world-name: Ressource
+  x: -1.141638777831799
+  y: 90.0
+  z: 0.5069615132518724
+  yaw: 88.79715728759766
+  pitch: 11.88578987121582
+logoutlocation:
+  world: bd63a69b-f162-438e-8437-fbdb5ea04361
+  world-name: Ressource
+  x: -4182.8870726960295
+  y: 83.0
+  z: 1123.7071690575413
+  yaw: -28.944732666015625
+  pitch: 21.600004196166992

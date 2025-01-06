@@ -1,0 +1,63 @@
+timestamps:
+  login: 1521654060852
+  logout: 1521658113348
+  lastteleport: 1521655922838
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2969.838832520211
+  y: 64.0
+  z: -5654.746065969973
+  yaw: 91.16360473632812
+  pitch: 6.692774772644043
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3086.951407404656
+  y: 88.0
+  z: -5626.202457687102
+  yaw: 214.9978790283203
+  pitch: 9.300039291381836
+  world-name: ''
+homes:
+  tom:
+    world: world
+    x: 3191.699999988079
+    y: 65.0
+    z: -5671.949999988079
+    yaw: 56.185001373291016
+    pitch: 8.399918556213379
+    world-name: ''
+  noel:
+    world: Ressource
+    x: -23.840138013233183
+    y: 25.0
+    z: -821.3884176650441
+    yaw: -311.1615905761719
+    pitch: 51.4504280090332
+    world-name: ''
+  maison:
+    world: world
+    x: -4212.416441840069
+    y: 63.0
+    z: 4863.486941618845
+    yaw: -271.52911376953125
+    pitch: 16.393630981445312
+    world-name: ''
+money: '0'
+afk: false
+muted: false
+jailed: false
+ip-address: 78.251.149.32
+last-account-name: Balou89440
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

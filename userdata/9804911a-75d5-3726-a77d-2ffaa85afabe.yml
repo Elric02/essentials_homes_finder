@@ -1,0 +1,47 @@
+timestamps:
+  login: 1473968626489
+  logout: 1473968685601
+  lastteleport: 1473963448151
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4746.390650855571
+  y: 81.0
+  z: -427.87971523409794
+  yaw: -122.23345947265625
+  pitch: 13.050053596496582
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -5006.735726350388
+    y: 64.0
+    z: -4330.922642161203
+    yaw: -144.679931640625
+    pitch: 31.19994354248047
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -5005.800896991292
+  y: 67.0
+  z: -4332.063438358985
+  yaw: -182.93043518066406
+  pitch: 38.0999641418457
+  world-name: ''
+afk: false
+ip-address: 176.148.159.129
+last-account-name: ghostKiller
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

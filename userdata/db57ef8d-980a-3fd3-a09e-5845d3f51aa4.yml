@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.48.251.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1684615942814
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684617276161
+  login: 1684615798457
+money: '50.0'
+last-account-name: mastercassoulet
+lastlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: -105.5
+  y: 99.0
+  z: 147.5
+  yaw: -82.34888458251953
+  pitch: 35.69991683959961
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  world-name: Althium
+  x: 3413.2535913856996
+  y: 66.0
+  z: -107.39198677895207
+  yaw: 16.5675048828125
+  pitch: -4.650183200836182

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471730638317
+  logout: 1471730729225
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 118.52197138314976
+  y: 63.0
+  z: 54.41686311547888
+  yaw: -179.1480712890625
+  pitch: 88.5
+  world-name: ''
+ip-address: 208.114.164.52
+last-account-name: Kyzach
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

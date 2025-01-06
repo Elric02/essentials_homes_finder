@@ -1,0 +1,38 @@
+timestamps:
+  login: 1534178950579
+  lastteleport: 1534179079538
+  logout: 1534180688474
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 85.0277707717794
+  y: 64.0
+  z: -20.46352525508532
+  yaw: -134.2175750732422
+  pitch: 29.261062622070312
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -861.1638031629669
+  y: 39.0
+  z: 123.80869714502187
+  yaw: 209.55126953125
+  pitch: 1.4115400314331055
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 91.160.40.12
+last-account-name: SkyLegendsYT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

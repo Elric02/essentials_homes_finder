@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.157.65.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1678282867401
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1678282916902
+  login: 1678282542481
+money: '0'
+last-account-name: dragonmattou38
+lastlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 148.89253399873928
+  y: 83.0
+  z: -109.52906938832966
+  yaw: 100.80007934570312
+  pitch: 63.30001449584961
+logoutlocation:
+  world: 1ae606ba-6432-4a86-829b-b3a0fe0cb7d1
+  world-name: pvp
+  x: 2073.2361115367858
+  y: 21.0
+  z: 2260.6008245379867
+  yaw: -76.2000732421875
+  pitch: 25.499940872192383

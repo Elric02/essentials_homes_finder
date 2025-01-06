@@ -1,0 +1,63 @@
+timestamps:
+  login: 1524992862112
+  lastteleport: 1524994320880
+  logout: 1524994378169
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 11122.42119838933
+  y: 69.0
+  z: -10966.772251014407
+  yaw: -56.91000747680664
+  pitch: -44.549991607666016
+  world-name: ''
+money: '0'
+homes:
+  mine:
+    world: Ressource
+    x: 306.10211020620875
+    y: 11.0
+    z: -40.69999998807907
+    yaw: -239.16397094726562
+    pitch: 40.20026397705078
+    world-name: ''
+  home:
+    world: world_nether
+    x: 920.890752262162
+    y: 128.0
+    z: -654.0503820308896
+    yaw: -135.5973358154297
+    pitch: 17.549989700317383
+    world-name: ''
+  voyage:
+    world: world_nether
+    x: 4891.1823872945915
+    y: 128.0
+    z: -12543.191421171134
+    yaw: -306.8099670410156
+    pitch: 25.95001792907715
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 231.28822571270382
+  y: 64.0
+  z: -47.37448194620649
+  yaw: -133.07357788085938
+  pitch: 18.947221755981445
+  world-name: ''
+afk: false
+ip-address: 109.219.219.61
+last-account-name: Lenruot
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

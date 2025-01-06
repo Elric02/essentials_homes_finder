@@ -1,0 +1,38 @@
+timestamps:
+  login: 1470301156114
+  logout: 1470301604369
+  lastteleport: 1470135433877
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3251.0
+  y: 62.0
+  z: -6993.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 90.56554709456525
+  y: 63.0
+  z: 45.184204284174584
+  yaw: 295.32928466796875
+  pitch: 43.79971694946289
+  world-name: ''
+ip-address: 81.48.67.78
+last-account-name: tanshi35
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

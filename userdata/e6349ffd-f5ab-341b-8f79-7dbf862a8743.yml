@@ -1,0 +1,38 @@
+timestamps:
+  login: 1589039281246
+  logout: 1589039403306
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -897.2201584526904
+  y: 63.0
+  z: -267.7169575948469
+  yaw: -61.499549865722656
+  pitch: 2.400000810623169
+  world-name: ''
+ip-address: 83.194.76.185
+last-account-name: benj
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

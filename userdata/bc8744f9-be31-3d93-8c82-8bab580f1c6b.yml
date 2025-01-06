@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.171.128.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1683158765504
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683202117747
+  login: 1683202072744
+money: '0'
+last-account-name: Zouzi_
+lastlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 166.0081625730031
+  y: 33.0
+  z: 438.1166803142448
+  yaw: 0.450531005859375
+  pitch: 20.250003814697266
+logoutlocation:
+  world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+  world-name: grosPlot
+  x: 166.0081625730031
+  y: 33.0
+  z: 438.1166803142448
+  yaw: 0.450531005859375
+  pitch: 20.250003814697266

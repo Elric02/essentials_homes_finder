@@ -1,0 +1,63 @@
+timestamps:
+  login: 1479726175223
+  lastteleport: 1479726371548
+  logout: 1479726556003
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2680.05551632782
+  y: 65.0
+  z: 455.9424105973561
+  yaw: 179.0610809326172
+  pitch: 16.019575119018555
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 6587.5711829711245
+  y: 87.0
+  z: -25.937321487110093
+  yaw: 0.941619873046875
+  pitch: 52.76513671875
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: 6533.643847737952
+    y: 100.0
+    z: 12.646948848809808
+    yaw: 175.31643676757812
+    pitch: 17.046642303466797
+    world-name: ''
+  end:
+    world: world_the_end
+    x: 3809.4616226562516
+    y: 58.0
+    z: 5520.247871712797
+    yaw: -72.24068450927734
+    pitch: 22.823875427246094
+    world-name: ''
+  beacon:
+    world: world
+    x: 6531.724872234199
+    y: 69.0
+    z: 14.55982725157252
+    yaw: -336.47369384765625
+    pitch: -1.7725732326507568
+    world-name: ''
+ip-address: 78.223.33.52
+last-account-name: Erisium_eydens
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

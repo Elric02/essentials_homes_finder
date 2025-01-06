@@ -1,0 +1,55 @@
+timestamps:
+  login: 1477128565525
+  logout: 1477129407540
+  lastteleport: 1477084807399
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressources
+  x: 199.7133863702461
+  y: 73.5
+  z: 480.8534088973703
+  yaw: 87.82172393798828
+  pitch: 7.37762451171875
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 535.1863040601002
+  y: 68.0
+  z: -4941.311023005881
+  yaw: 352.93310546875
+  pitch: 35.550079345703125
+  world-name: ''
+money: '0'
+homes:
+  bouf:
+    world: world
+    x: -5212.121036555483
+    y: 68.0
+    z: 682.4439341167857
+    yaw: 278.3619384765625
+    pitch: 20.550003051757812
+    world-name: ''
+  base:
+    world: world
+    x: 551.275612670651
+    y: 67.0
+    z: -4934.499968299656
+    yaw: 89.39966583251953
+    pitch: 45.59998321533203
+    world-name: ''
+afk: false
+ip-address: 82.126.207.137
+last-account-name: truedows
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

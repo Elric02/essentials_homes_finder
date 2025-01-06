@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.233.109.167
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1673632971204
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673633075002
+  login: 1673631441135
+money: '500.0'
+last-account-name: Factionsss
+lastlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: -5.805792282721114
+  y: 89.5
+  z: -1.158887186550845
+  yaw: 132.5973663330078
+  pitch: 10.235794067382812
+logoutlocation:
+  world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+  world-name: Ressource
+  x: 2348.2147690130064
+  y: 38.0
+  z: -4184.302658476707
+  yaw: -116.2681884765625
+  pitch: 19.08658790588379

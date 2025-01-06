@@ -1,0 +1,38 @@
+timestamps:
+  login: 1467195240915
+  logout: 1467195302208
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 150.81364027097482
+  y: 64.0
+  z: -36.87204464872841
+  yaw: -80.07613372802734
+  pitch: 10.572355270385742
+  world-name: ''
+ip-address: 109.211.250.187
+last-account-name: Mwghost24
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

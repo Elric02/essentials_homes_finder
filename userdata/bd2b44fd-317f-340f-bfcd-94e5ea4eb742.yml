@@ -1,0 +1,90 @@
+timestamps:
+  login: 1669472262656
+  lastteleport: 1669479233671
+  logout: 1669482053320
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  kits:
+    stationaute: 1669416267143
+lastlocation:
+  world: c57b9e2e-e619-4022-bb8b-7925496d5963
+  x: -51.92332478515873
+  y: 60.0
+  z: -12.648294720306879
+  yaw: -142.34982299804688
+  pitch: 40.799781799316406
+  world-name: HestiaEnd
+logoutlocation:
+  world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+  x: -2387.419358483405
+  y: -25.0
+  z: -2864.70657292739
+  yaw: -75.1826171875
+  pitch: 22.199790954589844
+  world-name: Althium
+ip-address: 90.22.214.5
+last-account-name: SOJKENSWP
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'
+homes:
+  jap:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -1368.6349450559028
+    y: 69.875
+    z: -3703.5732362234435
+    yaw: -93.13320922851562
+    pitch: 24.450307846069336
+  mine:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: 1166.689456489563
+    y: 12.0
+    z: 1292.3000000119212
+    yaw: -179.59124755859375
+    pitch: 1.351619839668274
+  mesa:
+    world: cf34a74b-d3d0-4374-9784-f3f3b894cc08
+    world-name: Ressource
+    x: -2959.483967424766
+    y: 68.0
+    z: -667.5601081145307
+    yaw: 23.40097427368164
+    pitch: 31.949949264526367
+  addrose:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -1545.0689098898179
+    y: 62.0
+    z: -173.95757354323342
+    yaw: -47.23968505859375
+    pitch: 25.3501033782959
+  grote:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -2379.9916039604323
+    y: -25.9375
+    z: -2858.758897945903
+    yaw: 36.4503173828125
+    pitch: 7.349818706512451
+  nether:
+    world: df07db1e-b199-46d9-9d37-2fe95ae52b01
+    world-name: Ressourcenether
+    x: -387.30000001192093
+    y: 69.0
+    z: 1576.300000011921
+    yaw: 26.5828857421875
+    pitch: 24.14971351623535
+nickname: Truc

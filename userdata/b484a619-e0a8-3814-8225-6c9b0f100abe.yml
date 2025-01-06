@@ -1,0 +1,63 @@
+timestamps:
+  login: 1516455026777
+  lastteleport: 1515881400728
+  logout: 1516455040237
+  jail: 0
+  mute: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 198.48744983757823
+  y: 74.0
+  z: 18.516908154051997
+  yaw: -270.57415771484375
+  pitch: 17.883726119995117
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 772.7220660952695
+    y: 76.0
+    z: 6558.150378254818
+    yaw: -272.3890686035156
+    pitch: 18.255386352539062
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 198.48744983757823
+  y: 74.0
+  z: 18.516908154051997
+  yaw: -249.57415771484375
+  pitch: -11.400002479553223
+  world-name: ''
+money: '0'
+jailed: false
+muted: false
+ip-address: 90.24.19.204
+last-account-name: arthur
+mail:
+- legacy: true
+  read: false
+  message: §e[§rkillian971317§e] §rta maison que tu as fait avec lockiye est à 37
+    blocs de ma ville, tu a fait une mine en plus ce qui est formellement interdit
+    donc je te laisse 1 semaine à partir du 13/01 pour partir et pour la mine on verra
+    avec les admin
+- legacy: true
+  read: false
+  message: §e[§rkillian971317§e] §rtu te fout vraiment de moi !!! tu dégage de cet
+    endroit et tu va t'installer ailleurs en faisant /wild la prochaine fois je te
+    jail et tu t'expliquera avec les admin !!
+- legacy: true
+  read: false
+  message: §e[§rkillian971317§e] §rla grotte ou tu as 3 coffres je l'avais pas vu
+    avant mais c'est pareil qu'avant c'est beaucoup trop près donc je te prie de partir
+teleportenabled: true
+teleportauto: false
+godmode: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

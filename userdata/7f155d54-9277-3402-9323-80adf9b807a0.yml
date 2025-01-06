@@ -1,0 +1,55 @@
+timestamps:
+  login: 1522862311701
+  lastteleport: 1522864234250
+  logout: 1522864247506
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 3579.926123999353
+  y: 18.0
+  z: 3743.300000011921
+  yaw: -23.8502197265625
+  pitch: 15.450042724609375
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -5377.260544657476
+    y: 63.0
+    z: 2204.200454877082
+    yaw: 149.25064086914062
+    pitch: 12.000027656555176
+    world-name: ''
+  glace:
+    world: Ressource
+    x: 6752.434911549724
+    y: 70.0
+    z: 2380.2182991655277
+    yaw: 158.70001220703125
+    pitch: -1.2000000476837158
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -5376.5
+  y: 63.0
+  z: 2203.5
+  yaw: 88.20065307617188
+  pitch: 4.350027561187744
+  world-name: ''
+ip-address: 92.152.162.249
+last-account-name: Hugobobo76
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

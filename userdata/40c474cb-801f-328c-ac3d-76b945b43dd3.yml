@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471904904923
+  lastteleport: 1471905192659
+  logout: 1471905370790
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 109.56861873703379
+  y: 70.0
+  z: -70.26470814448184
+  yaw: -194.3054656982422
+  pitch: 8.58203411102295
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -206.86272499648354
+  y: 47.0
+  z: 428.9352493664868
+  yaw: 82.44906616210938
+  pitch: 6.067793369293213
+  world-name: ''
+ip-address: 66.130.249.36
+last-account-name: Alexis1919
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

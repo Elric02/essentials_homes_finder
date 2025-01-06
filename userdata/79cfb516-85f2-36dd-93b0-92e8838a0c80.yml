@@ -1,0 +1,38 @@
+timestamps:
+  login: 1614778923800
+  lastteleport: 1614779458436
+  logout: 1614779939449
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.4839270671458
+  y: 63.0
+  z: 54.98847687016057
+  yaw: 206.629638671875
+  pitch: 6.293717861175537
+  world-name: ''
+afk: false
+logoutlocation:
+  world: Ressource
+  x: 62.538476485564956
+  y: 69.0
+  z: -1990.233383794975
+  yaw: -17.92242431640625
+  pitch: 28.270450592041016
+  world-name: ''
+ip-address: 92.140.42.4
+last-account-name: zenyty
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

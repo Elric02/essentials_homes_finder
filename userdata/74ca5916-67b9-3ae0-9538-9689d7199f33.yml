@@ -1,0 +1,63 @@
+timestamps:
+  login: 1559683308198
+  lastteleport: 1559237409026
+  logout: 1559683516730
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 1633.3596403602694
+  y: 70.0
+  z: 1239.6785289162142
+  yaw: -232.0552978515625
+  pitch: 7.650004863739014
+  world-name: ''
+money: '0'
+homes:
+  four:
+    world: Ressource
+    x: -723.4606601723665
+    y: 11.0
+    z: 1555.5959488172525
+    yaw: -357.0104064941406
+    pitch: 90.0
+    world-name: ''
+  a:
+    world: world
+    x: -4109.412076980074
+    y: 64.0
+    z: -7861.614031796673
+    yaw: -189.60546875
+    pitch: 87.5999755859375
+    world-name: ''
+  bois:
+    world: Ressource
+    x: -1993.2954965279916
+    y: 67.0
+    z: 1435.432982504945
+    yaw: -258.4503173828125
+    pitch: 36.749794006347656
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4083.639078970533
+  y: 64.0
+  z: -7826.059501500143
+  yaw: 88.94110870361328
+  pitch: 19.349933624267578
+  world-name: ''
+afk: false
+ip-address: 46.193.4.135
+last-account-name: antho3899
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

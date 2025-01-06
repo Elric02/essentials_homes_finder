@@ -1,0 +1,38 @@
+timestamps:
+  login: 1559811792065
+  logout: 1559812355373
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1464.2556082697342
+  y: 64.0
+  z: -4711.743082652274
+  yaw: 297.90057373046875
+  pitch: 2.700040578842163
+  world-name: ''
+ip-address: 86.203.44.68
+last-account-name: Aeropteryx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

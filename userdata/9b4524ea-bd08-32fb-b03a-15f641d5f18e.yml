@@ -1,0 +1,38 @@
+timestamps:
+  login: 1489316764030
+  lastteleport: 1489310493656
+  logout: 1489316786426
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 151.86512345247965
+  y: 63.0
+  z: 48.47479019646151
+  yaw: 88.92955780029297
+  pitch: 6.505873680114746
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 2114.410398043073
+  y: 58.0
+  z: -5342.699999988079
+  yaw: -182.2841033935547
+  pitch: 30.241281509399414
+  world-name: ''
+ip-address: 92.134.185.153
+last-account-name: Atlandis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

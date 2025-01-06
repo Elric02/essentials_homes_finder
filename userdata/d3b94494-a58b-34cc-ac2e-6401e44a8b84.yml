@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.205.116.121
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1669561456206
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1669561658611
+  login: 1669561246387
+money: '100.0'
+last-account-name: Kayaaba
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 397.68885549912164
+  y: 81.0
+  z: -3110.139901265453
+  yaw: 104.15292358398438
+  pitch: 7.358958721160889
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 178.53952977592004
+  y: 73.0
+  z: 189.8578124273132
+  yaw: 120.3917236328125
+  pitch: 17.29163932800293

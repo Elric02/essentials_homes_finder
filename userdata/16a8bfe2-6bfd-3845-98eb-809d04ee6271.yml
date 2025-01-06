@@ -1,0 +1,38 @@
+timestamps:
+  login: 1566668319006
+  logout: 1566668663781
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.0914958469934
+  y: 63.0
+  z: 64.76035174945338
+  yaw: -255.20330810546875
+  pitch: 8.940654754638672
+  world-name: ''
+ip-address: 89.88.231.194
+last-account-name: Teragons
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1495817263844
+  lastteleport: 1495817374119
+  logout: 1495821586509
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.7261706543617
+  y: 66.0
+  z: 19.930575818190533
+  yaw: 268.0030212402344
+  pitch: 10.59738540649414
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 114.26739808147589
+  y: 14.753199980521202
+  z: 273.40389263648103
+  yaw: -145.2919921875
+  pitch: 6.299930572509766
+  world-name: ''
+ip-address: 41.109.90.5
+last-account-name: adam_light
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

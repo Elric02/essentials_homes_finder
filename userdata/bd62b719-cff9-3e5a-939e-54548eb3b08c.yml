@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490469358833
+  logout: 1490470732544
+  lastteleport: 1490470656164
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 553.5805966096017
+  y: 83.0
+  z: 2192.790774344771
+  yaw: 162.9515380859375
+  pitch: 32.250030517578125
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 149.80741696358493
+  y: 63.0
+  z: 33.37725430669513
+  yaw: -335.01123046875
+  pitch: 47.87449645996094
+  world-name: ''
+money: '0'
+ip-address: 2.5.219.235
+last-account-name: Ajane62
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1598355048676
+  lastteleport: 1598356261254
+  logout: 1598356615416
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -358.448345299738
+  y: 72.0
+  z: 391.91325600838405
+  yaw: -159.4152374267578
+  pitch: 15.60036849975586
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 150.85152593535082
+  y: 63.0
+  z: 54.82636941090172
+  yaw: -83.41900634765625
+  pitch: 6.62844705581665
+  world-name: ''
+ip-address: 77.147.88.93
+last-account-name: Dixit
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

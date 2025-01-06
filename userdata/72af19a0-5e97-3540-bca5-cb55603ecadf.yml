@@ -1,0 +1,55 @@
+timestamps:
+  login: 1487087260681
+  lastteleport: 1487087561058
+  logout: 1487087620731
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -5026.269133719346
+  y: 73.0
+  z: 577.9554937059244
+  yaw: -345.9378662109375
+  pitch: 32.053043365478516
+  world-name: ''
+money: '0'
+homes:
+  ville:
+    world: world
+    x: -6433.569187281722
+    y: 82.0
+    z: -171.76365417000244
+    yaw: 255.4482421875
+    pitch: 31.04999542236328
+    world-name: ''
+  fleur:
+    world: world
+    x: -5243.5
+    y: 69.0
+    z: 589.5
+    yaw: 89.66217041015625
+    pitch: 29.65301513671875
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: -6433.867702101684
+  y: 82.0
+  z: -171.8114766046069
+  yaw: 269.5483093261719
+  pitch: 3.2999937534332275
+  world-name: ''
+ip-address: 83.198.38.245
+last-account-name: Fire_geeck
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

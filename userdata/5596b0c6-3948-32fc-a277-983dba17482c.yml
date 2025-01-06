@@ -1,0 +1,38 @@
+timestamps:
+  login: 1551118772074
+  logout: 1551119007718
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.71464960762086
+  y: 64.0
+  z: 15.657747495498736
+  yaw: 239.08819580078125
+  pitch: -28.64402198791504
+  world-name: ''
+ip-address: 109.31.178.68
+last-account-name: JizzCraft1010
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

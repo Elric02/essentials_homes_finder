@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488718896385
+  lastteleport: 1488719319464
+  logout: 1488719359703
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.70855144727136
+  y: 63.0
+  z: 50.33060280863947
+  yaw: -249.79864501953125
+  pitch: 0.5474545359611511
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 31.5
+  yaw: -117.21089935302734
+  pitch: -34.62548065185547
+  world-name: ''
+ip-address: 88.168.208.84
+last-account-name: simon21000
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

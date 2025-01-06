@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477823281378
+  logout: 1477823407878
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 107.93457493229472
+  y: 63.0
+  z: -63.27260380406779
+  yaw: -176.09005737304688
+  pitch: 13.937335968017578
+  world-name: ''
+ip-address: 90.33.111.75
+last-account-name: Ichoupi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

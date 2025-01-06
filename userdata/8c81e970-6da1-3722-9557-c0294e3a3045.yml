@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.68.66.208
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1675012824140
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675013275083
+  login: 1675013199728
+money: '0'
+last-account-name: Kayzz29
+lastlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -49.159606294129354
+  y: 65.5
+  z: 55.760958961398295
+  yaw: 5.249646186828613
+  pitch: 3.450025796890259
+logoutlocation:
+  world: 3da2593d-aa8a-40e0-9e7d-11b52db7b885
+  world-name: plot
+  x: -317.1594801838001
+  y: 65.0
+  z: -284.4171618961451
+  yaw: 97.95050048828125
+  pitch: 33.44997787475586

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1483719493629
+  lastteleport: 1483032243082
+  logout: 1483719913046
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: -271.94017378028633
+  y: 30.0
+  z: -720.8989413676005
+  yaw: 253.823486328125
+  pitch: 12.529952049255371
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -1221.575804724053
+    y: 73.0625
+    z: 3945.565435587926
+    yaw: 90.75049591064453
+    pitch: -0.44994381070137024
+    world-name: ''
+  ressource:
+    world: ressource
+    x: -271.69101564250207
+    y: 48.0
+    z: -719.8794731298239
+    yaw: 272.6662902832031
+    pitch: 4.199985980987549
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1174.300000011921
+  y: 61.0
+  z: 3959.653813617615
+  yaw: 143.91253662109375
+  pitch: -1.735257625579834
+  world-name: ''
+money: '0'
+muted: false
+ip-address: 82.233.223.29
+last-account-name: Castornio
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

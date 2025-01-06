@@ -1,0 +1,38 @@
+timestamps:
+  login: 1623356320970
+  logout: 1623356401160
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.30000001192093
+  y: 80.0
+  z: 147.41886010777563
+  yaw: 87.25033569335938
+  pitch: 18.240875244140625
+  world-name: ''
+ip-address: 176.180.89.161
+last-account-name: Lurmog
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

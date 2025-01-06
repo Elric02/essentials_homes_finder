@@ -1,0 +1,47 @@
+timestamps:
+  login: 1523211351032
+  lastteleport: 1521580925002
+  logout: 1523211357347
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 74.61672267236796
+  y: 64.0
+  z: -35.496542721393034
+  yaw: -99.8658447265625
+  pitch: 18.031930923461914
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 3548.654282275791
+    y: 63.0
+    z: -3631.9912417911974
+    yaw: -297.749755859375
+    pitch: 11.550017356872559
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3614.438960420434
+  y: 68.0
+  z: -3606.143804807671
+  yaw: -226.0484619140625
+  pitch: -24.750089645385742
+  world-name: ''
+afk: false
+ip-address: 90.54.154.81
+last-account-name: Anubiis_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

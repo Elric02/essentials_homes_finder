@@ -1,0 +1,38 @@
+timestamps:
+  login: 1493880402039
+  lastteleport: 1493880438082
+  logout: 1493880791827
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.71322033086278
+  y: 64.0
+  z: 18.459572962589466
+  yaw: -55.71091079711914
+  pitch: 19.524518966674805
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -151.77156030192197
+  y: 63.41999998688698
+  z: 100.1210033279369
+  yaw: -156.338623046875
+  pitch: 9.599998474121094
+  world-name: ''
+ip-address: 83.192.220.98
+last-account-name: MuZ_z
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

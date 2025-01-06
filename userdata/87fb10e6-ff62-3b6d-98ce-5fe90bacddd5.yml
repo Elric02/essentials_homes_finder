@@ -1,0 +1,38 @@
+timestamps:
+  login: 1618667238740
+  logout: 1618667590641
+  lastteleport: 1618564689288
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.5219706617853
+  y: 64.0
+  z: 24.59015183032405
+  yaw: -181.14532470703125
+  pitch: 9.575874328613281
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.5219706617853
+  y: 64.0
+  z: 24.59015183032405
+  yaw: -131.7573699951172
+  pitch: 35.26420974731445
+  world-name: ''
+ip-address: 217.225.194.165
+last-account-name: Lilfrost
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

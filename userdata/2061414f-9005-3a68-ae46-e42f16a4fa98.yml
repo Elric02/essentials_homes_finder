@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.104.166.143
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1684064604519
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684064677428
+  login: 1684064457794
+money: '0'
+last-account-name: OxIlann
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.99592236805626
+  y: 81.0
+  z: -3111.375103500612
+  yaw: -59.09774398803711
+  pitch: 9.149967193603516
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -269.5396799616192
+  y: 73.0
+  z: 306.8509645011536
+  yaw: -119.54470825195312
+  pitch: 14.550267219543457

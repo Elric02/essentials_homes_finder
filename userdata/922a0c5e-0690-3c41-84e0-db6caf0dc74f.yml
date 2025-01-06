@@ -1,0 +1,47 @@
+timestamps:
+  login: 1501514797855
+  lastteleport: 1501093953587
+  logout: 1501515527886
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1443.611866502597
+  y: 64.0
+  z: -647.1806937056901
+  yaw: 64.245361328125
+  pitch: 21.900087356567383
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -1489.9723326911508
+    y: 63.0
+    z: -578.467029318988
+    yaw: 1.3974609375
+    pitch: 16.950077056884766
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -1489.250677778685
+  y: 63.0
+  z: -576.917368127566
+  yaw: 12.728759765625
+  pitch: -46.53164291381836
+  world-name: ''
+afk: false
+ip-address: 88.174.141.16
+last-account-name: tintin879
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

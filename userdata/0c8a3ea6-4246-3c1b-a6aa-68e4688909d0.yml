@@ -1,0 +1,63 @@
+timestamps:
+  login: 1675625030704
+  lastteleport: 1675625462428
+  logout: 1675625872354
+  mute: 0
+  jail: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -3154.360308290466
+  y: 6.0
+  z: -2273.6669881501152
+  yaw: 110.68167114257812
+  pitch: 20.099700927734375
+  world-name: world
+money: '100.0'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -3100.9554867862144
+  y: 64.0
+  z: -2271.3669919760773
+  yaw: 80.9609375
+  pitch: 14.548757553100586
+  world-name: world
+afk: false
+homes:
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -3171.9945045734057
+    y: 65.0
+    z: -2289.2158521581537
+    yaw: -1.227508544921875
+    pitch: 40.799129486083984
+    world-name: world
+  missponey:
+    world: world
+    x: -2527.300000011921
+    y: 77.0
+    z: -1083.583220212814
+    yaw: -266.24932861328125
+    pitch: 7.349991798400879
+    world-name: ''
+  ville:
+    world: world
+    x: 562.0166017153148
+    y: 63.0
+    z: -3064.931399974382
+    yaw: 172.8833770751953
+    pitch: -8.69985294342041
+    world-name: ''
+muted: false
+jailed: false
+ip-address: 176.136.86.28
+last-account-name: GoldMonster338
+teleportenabled: true
+teleportauto: false
+godmode: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1513717709939
+  lastteleport: 1513471638000
+  logout: 1513718399179
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2339.7035259799745
+  y: 64.0
+  z: -5697.136998512041
+  yaw: -181.3016357421875
+  pitch: 13.334004402160645
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 6170.293203530952
+    y: 63.0
+    z: -2880.6668265652024
+    yaw: -15.53851318359375
+    pitch: 15.397239685058594
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -6628.19105679312
+  y: 55.74806381424121
+  z: 6912.739315211099
+  yaw: 175.75521850585938
+  pitch: -16.831619262695312
+  world-name: ''
+ip-address: 81.50.47.48
+last-account-name: SkySwordMc
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

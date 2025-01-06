@@ -1,0 +1,63 @@
+timestamps:
+  login: 1532548822279
+  lastteleport: 1532549360039
+  logout: 1532549441611
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2245.7455447710354
+  y: 64.0
+  z: 6523.681552988773
+  yaw: -156.67262268066406
+  pitch: 25.549753189086914
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -2244.9033915838104
+    y: 64.0
+    z: 6523.162636713888
+    yaw: -141.2182159423828
+    pitch: 28.436845779418945
+    world-name: ''
+  base3:
+    world: world
+    x: -413.55197629930865
+    y: 36.0
+    z: 3637.0999988170474
+    yaw: 186.79595947265625
+    pitch: 4.809909820556641
+    world-name: ''
+  lave:
+    world: world
+    x: 2642.3173312942527
+    y: 73.0
+    z: -5553.301153534513
+    yaw: 231.8068389892578
+    pitch: 41.37102127075195
+    world-name: ''
+money: '0'
+jailed: false
+logoutlocation:
+  world: world
+  x: -416.32449187958633
+  y: 36.0
+  z: 3638.971553425905
+  yaw: -140.12454223632812
+  pitch: 15.678938865661621
+  world-name: ''
+ip-address: 176.167.88.206
+last-account-name: DreadLord
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

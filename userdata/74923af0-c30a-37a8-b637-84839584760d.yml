@@ -1,0 +1,71 @@
+timestamps:
+  login: 1484601757942
+  lastteleport: 1475771570988
+  logout: 1484601862162
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Event
+  x: 720.307806864148
+  y: 6.0
+  z: -1311.300000011921
+  yaw: -21.92681884765625
+  pitch: 15.906961441040039
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -519.2531178930985
+    y: 68.0
+    z: 596.5511898672431
+    yaw: 353.7914733886719
+    pitch: 15.974926948547363
+    world-name: ''
+  maison:
+    world: world
+    x: -2718.0751057480124
+    y: 78.0
+    z: -6705.750190121127
+    yaw: 34.650299072265625
+    pitch: 19.94997787475586
+    world-name: ''
+  mine:
+    world: Ressources
+    x: 157.0491065075114
+    y: 11.0
+    z: 750.2729617467094
+    yaw: 354.06719970703125
+    pitch: 19.79998779296875
+    world-name: ''
+  nether:
+    world: world_nether
+    x: 5589.512400089646
+    y: 61.0
+    z: -5875.164300364496
+    yaw: 160.34930419921875
+    pitch: 9.599930763244629
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 153.95922708576256
+  y: 64.0
+  z: 14.011421261493357
+  yaw: -166.11073303222656
+  pitch: 8.274531364440918
+  world-name: ''
+afk: false
+ip-address: 78.112.211.86
+last-account-name: luckylukedu33
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

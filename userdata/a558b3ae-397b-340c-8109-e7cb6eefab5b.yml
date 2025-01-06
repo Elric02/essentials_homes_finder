@@ -1,0 +1,63 @@
+timestamps:
+  login: 1596989896295
+  lastteleport: 1596973149321
+  logout: 1596991001259
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2608.3142674637256
+  y: 66.125
+  z: -4623.558573369538
+  yaw: -238.10919189453125
+  pitch: 9.299931526184082
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 2604.643496404491
+  y: 70.0
+  z: -4627.414759814105
+  yaw: 30.240280151367188
+  pitch: 4.513341903686523
+  world-name: ''
+money: '0'
+homes:
+  ami:
+    world: world
+    x: -5358.190302650804
+    y: 64.0
+    z: 1416.6756253696783
+    yaw: 72.89678955078125
+    pitch: 11.550064086914062
+    world-name: ''
+  ch:
+    world: world
+    x: 2608.699999988079
+    y: 72.0
+    z: -4622.3336029345
+    yaw: 131.79046630859375
+    pitch: 38.863250732421875
+    world-name: ''
+  ville:
+    world: world
+    x: -5559.3407621066
+    y: 64.0
+    z: 271.52458230287664
+    yaw: -200.209716796875
+    pitch: 6.148340702056885
+    world-name: ''
+afk: false
+ip-address: 83.197.108.225
+last-account-name: J20
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

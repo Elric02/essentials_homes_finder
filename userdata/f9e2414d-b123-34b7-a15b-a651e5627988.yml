@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516379500585
+  lastteleport: 1516383052271
+  logout: 1516384089116
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.7462692361364
+  y: 66.0
+  z: 19.69994219410613
+  yaw: -84.02079772949219
+  pitch: 0.17866840958595276
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 159.23882950729333
+  y: 64.0
+  z: 16.401924652084645
+  yaw: -323.7208557128906
+  pitch: -1.049990177154541
+  world-name: ''
+money: '0'
+ip-address: 78.229.58.44
+last-account-name: Grujab
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

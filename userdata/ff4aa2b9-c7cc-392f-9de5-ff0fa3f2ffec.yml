@@ -1,0 +1,38 @@
+timestamps:
+  login: 1491498544618
+  lastteleport: 1491498557773
+  logout: 1491498687888
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -268.847412109375
+  pitch: -6.20259952545166
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -593.5280945992826
+  y: 64.0
+  z: -748.306216453846
+  yaw: -2.49737548828125
+  pitch: -2.6736598014831543
+  world-name: ''
+ip-address: 109.30.149.227
+last-account-name: philippe1
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

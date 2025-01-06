@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508857441989
+  lastteleport: 1508857835997
+  logout: 1508858340855
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -592.3464450214583
+  y: 64.0
+  z: -649.1679732076213
+  yaw: -312.512939453125
+  pitch: 2.7539095878601074
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -133.92139378235396
+  y: 62.9375
+  z: -129.65575787135228
+  yaw: -225.89376831054688
+  pitch: 14.559571266174316
+  world-name: ''
+afk: false
+money: '0'
+ip-address: 88.178.23.148
+last-account-name: Arisuu
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

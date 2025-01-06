@@ -1,0 +1,38 @@
+timestamps:
+  login: 1616946990720
+  lastteleport: 1616783680274
+  logout: 1616947057609
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -3513.865626632206
+  y: 48.75252914842195
+  z: 3621.8031528040465
+  yaw: 312.3802490234375
+  pitch: -37.199981689453125
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -3417.2471135232818
+  y: 50.85183685203366
+  z: 3616.0643230603087
+  yaw: 156.2340087890625
+  pitch: 61.79999542236328
+  world-name: ''
+ip-address: 92.141.114.211
+last-account-name: Dawciu69
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

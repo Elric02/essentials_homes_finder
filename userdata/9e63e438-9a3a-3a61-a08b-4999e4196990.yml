@@ -1,0 +1,38 @@
+timestamps:
+  login: 1521231539264
+  logout: 1521231543106
+  mute: 0
+  jail: 0
+  lastteleport: 0
+  lastheal: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 198.48744983757823
+  y: 74.001
+  z: 18.516908154051997
+  yaw: -73.0
+  pitch: -2.0
+  world-name: ''
+jailed: false
+logoutlocation:
+  world: world
+  x: 198.5
+  y: 74.0
+  z: 18.5
+  yaw: -73.0
+  pitch: -2.0
+  world-name: ''
+muted: true
+ip-address: 82.102.26.100
+last-account-name: mdrbanmoiFDP
+teleportenabled: true
+teleportauto: false
+godmode: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

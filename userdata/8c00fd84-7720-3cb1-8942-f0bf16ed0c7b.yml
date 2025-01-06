@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488618075609
+  lastteleport: 1488618046994
+  logout: 1488618145294
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.81965659240203
+  y: 64.0
+  z: 16.703141077351972
+  yaw: -153.87472534179688
+  pitch: 58.054874420166016
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 177.11865031566774
+  y: 63.0
+  z: -19.850912858754416
+  yaw: -267.9447021484375
+  pitch: 54.758056640625
+  world-name: ''
+ip-address: 92.145.99.252
+last-account-name: ZeMaxX
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

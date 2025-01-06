@@ -1,0 +1,63 @@
+timestamps:
+  login: 1490189827536
+  logout: 1490190118166
+  lastteleport: 1487705467900
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 297.50584442378386
+  y: 64.0
+  z: 56.67025770585607
+  yaw: -236.47869873046875
+  pitch: 6.911621570587158
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 188.89817233841117
+  y: 63.0
+  z: 18.25448922565856
+  yaw: 268.249755859375
+  pitch: 2.9638891220092773
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  b_b_:
+    world: world
+    x: -2243.8623289989896
+    y: 70.0
+    z: 5085.782172204546
+    yaw: 10.503509521484375
+    pitch: 5.808384895324707
+    world-name: ''
+  nether:
+    world: world_nether
+    x: -5541.027636545693
+    y: 46.0
+    z: 5219.652128103541
+    yaw: 319.5538330078125
+    pitch: 28.43712043762207
+    world-name: ''
+  wither:
+    world: world
+    x: 219.62889231993742
+    y: 76.54911705952894
+    z: -96.40383900078518
+    yaw: -208.34613037109375
+    pitch: 82.8297119140625
+    world-name: ''
+ip-address: 82.122.62.158
+last-account-name: Yukkigi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

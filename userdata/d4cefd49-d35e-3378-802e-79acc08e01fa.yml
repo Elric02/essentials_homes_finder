@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508134431075
+  logout: 1508134522059
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.41223328905676
+  y: 64.0
+  z: 17.67288743462722
+  yaw: -141.6473388671875
+  pitch: 9.397397994995117
+  world-name: ''
+ip-address: 129.122.102.181
+last-account-name: LaCrazyStreet
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

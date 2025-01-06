@@ -1,0 +1,38 @@
+timestamps:
+  login: 1519142864976
+  logout: 1519142922686
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 153.81675386487487
+  y: 65.0
+  z: 68.97212016724168
+  yaw: 189.697021484375
+  pitch: 18.99064826965332
+  world-name: ''
+ip-address: 185.178.50.105
+last-account-name: Copodebois
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

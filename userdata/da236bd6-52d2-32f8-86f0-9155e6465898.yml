@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490293561239
+  lastteleport: 1490293659446
+  logout: 1490294017827
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.6288566889667
+  y: 64.0
+  z: 24.762855502930847
+  yaw: -176.49464416503906
+  pitch: 13.749349594116211
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5617.878315964163
+  y: 74.0
+  z: 2128.9301798612955
+  yaw: -68.98968505859375
+  pitch: 25.868173599243164
+  world-name: ''
+ip-address: 176.149.232.43
+last-account-name: MissKokona
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1477916192364
+  lastteleport: 1477916627069
+  logout: 1477917069622
+  mute: 0
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 256.144762231228
+  y: 68.0
+  z: 1148.6859912359434
+  yaw: -114.9012451171875
+  pitch: 41.85000991821289
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: ressource
+    x: 271.6183937880769
+    y: 69.0
+    z: 1154.190867427124
+    yaw: -308.401611328125
+    pitch: 75.30000305175781
+    world-name: ''
+  ressource:
+    world: ressource
+    x: 256.144762231228
+    y: 68.0
+    z: 1148.6859912359434
+    yaw: -114.9012451171875
+    pitch: 41.85000991821289
+    world-name: ''
+  maison:
+    world: world
+    x: -5650.469566567184
+    y: 64.0
+    z: 5905.873809563312
+    yaw: -266.74188232421875
+    pitch: 18.150012969970703
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -5653.129852964932
+  y: 64.0
+  z: 5906.1138504939
+  yaw: 82.7581558227539
+  pitch: 13.500021934509277
+  world-name: ''
+muted: true
+ip-address: 88.172.69.98
+last-account-name: Tazered
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

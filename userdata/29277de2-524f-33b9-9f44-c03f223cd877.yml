@@ -1,0 +1,47 @@
+timestamps:
+  login: 1578504801356
+  lastteleport: 1578505555171
+  logout: 1578506939742
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: 52.69622116509345
+  y: 36.0
+  z: -44.58092384517493
+  yaw: 358.5506591796875
+  pitch: 38.06584167480469
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 848.362311657197
+  y: 64.0
+  z: -1642.2321446215492
+  yaw: -96.85130310058594
+  pitch: 20.27176284790039
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: 870.8182624441403
+    y: 64.0
+    z: -1657.8396876993045
+    yaw: -103.12716674804688
+    pitch: 33.23807144165039
+    world-name: ''
+ip-address: 92.146.164.34
+last-account-name: gabriel82
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

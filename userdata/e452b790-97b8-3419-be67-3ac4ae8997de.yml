@@ -1,0 +1,63 @@
+timestamps:
+  login: 1507220785404
+  lastteleport: 1507221866130
+  logout: 1507222031705
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 72.46641603478143
+  y: 64.0
+  z: -2.7160028570636316
+  yaw: -251.94586181640625
+  pitch: 37.34450912475586
+  world-name: ''
+money: '0'
+homes:
+  loll:
+    world: Ressource
+    x: -4313.251874007499
+    y: 67.0
+    z: -344.1381191187794
+    yaw: -100.92892456054688
+    pitch: 9.513595581054688
+    world-name: ''
+  mine:
+    world: Ressource
+    x: -4199.486779620334
+    y: 5.0
+    z: -410.87661910367615
+    yaw: 93.87335205078125
+    pitch: 16.88641929626465
+    world-name: ''
+  maison001:
+    world: world
+    x: 3156.004808479111
+    y: 64.0
+    z: 6505.093956030577
+    yaw: -133.36282348632812
+    pitch: 58.05119705200195
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 3168.113477797942
+  y: 64.0
+  z: 6497.717900522117
+  yaw: -163.54522705078125
+  pitch: 23.030380249023438
+  world-name: ''
+afk: false
+ip-address: 82.250.53.100
+last-account-name: Fuze
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

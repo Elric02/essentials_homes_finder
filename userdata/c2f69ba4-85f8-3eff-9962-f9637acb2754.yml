@@ -1,0 +1,38 @@
+timestamps:
+  login: 1490913324942
+  lastteleport: 1490913385818
+  logout: 1490913543511
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.5
+  y: 63.0
+  z: 48.5
+  yaw: -268.847412109375
+  pitch: -6.20259952545166
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 0.4661787098739296
+  y: 89.5
+  z: 3.873063970179712
+  yaw: -322.0856628417969
+  pitch: 18.033090591430664
+  world-name: ''
+ip-address: 84.100.60.102
+last-account-name: Zuliie
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

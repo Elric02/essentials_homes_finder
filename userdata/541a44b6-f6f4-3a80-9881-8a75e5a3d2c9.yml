@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 62.202.190.145
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1633263564983
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633264936068
+  login: 1633264694482
+money: '0'
+last-account-name: davidishere08
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 129.90735172487462
+  y: 64.0
+  z: -36.39219990902506
+  yaw: 342.60479736328125
+  pitch: 8.462484359741211
+homes:
+  end:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 152.4101671306831
+    y: 64.0
+    z: 20.2619735860031
+    yaw: -180.5207061767578
+    pitch: 14.073131561279297
+  vend:
+    world: 32927a96-bbc5-4c1f-99d4-ff633cb0f27a
+    world-name: End
+    x: 122.30000001192093
+    y: 136.0
+    z: -1535.300000011921
+    yaw: -139.15219116210938
+    pitch: 19.340450286865234
+logoutlocation:
+  world: 9f558405-e9a0-48ce-9c3e-d633a67539fd
+  world-name: Ressource
+  x: -104.38183351939065
+  y: 23.0
+  z: -103.48199996762007
+  yaw: 123.50906372070312
+  pitch: 14.285072326660156

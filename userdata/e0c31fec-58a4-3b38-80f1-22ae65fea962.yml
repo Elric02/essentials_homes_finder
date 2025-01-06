@@ -1,0 +1,63 @@
+timestamps:
+  login: 1567102492511
+  lastteleport: 1567103426975
+  logout: 1567103584580
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.1332679621659
+  y: 64.0
+  z: 23.918529639559726
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+afk: false
+homes:
+  a:
+    world: world
+    x: -1001.5
+    y: 79.0
+    z: -3502.5
+    yaw: 103.17951965332031
+    pitch: 16.91929054260254
+    world-name: ''
+  b:
+    world: world
+    x: -840.5
+    y: 65.0
+    z: -3615.685571439472
+    yaw: -102.32217407226562
+    pitch: 20.8500919342041
+    world-name: ''
+  c:
+    world: world
+    x: -893.5
+    y: 79.0
+    z: -3462.5
+    yaw: 143.2288360595703
+    pitch: 14.819326400756836
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -996.2539162135101
+  y: 85.0
+  z: -3498.0921184371086
+  yaw: -218.721435546875
+  pitch: 25.16927719116211
+  world-name: ''
+ip-address: 78.248.31.109
+last-account-name: Netrox_Iroh54
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

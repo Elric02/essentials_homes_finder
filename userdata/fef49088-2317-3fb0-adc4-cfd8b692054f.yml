@@ -1,0 +1,63 @@
+timestamps:
+  login: 1569516267506
+  lastteleport: 1568209387367
+  logout: 1569516417032
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -4894.584056739832
+  y: 59.0
+  z: -1667.2253678217908
+  yaw: 250.62730407714844
+  pitch: 26.834064483642578
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4823.686835867763
+  y: 65.0
+  z: -1707.572766079688
+  yaw: -12.2669677734375
+  pitch: 87.99855041503906
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -4853.4536246635325
+    y: 64.0
+    z: -1681.9076942419192
+    yaw: -96.6221923828125
+    pitch: 16.447084426879883
+    world-name: ''
+  stuff:
+    world: world
+    x: -4895.714360243456
+    y: 59.0
+    z: -1666.0481539404127
+    yaw: 93.51420593261719
+    pitch: 28.585325241088867
+    world-name: ''
+  farm:
+    world: world
+    x: -4833.500802826825
+    y: 65.0
+    z: -1625.82341390928
+    yaw: 0.481689453125
+    pitch: 0.9358477592468262
+    world-name: ''
+afk: false
+ip-address: 90.48.122.236
+last-account-name: mycreepydiams
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485114483466
+  lastteleport: 1485011909452
+  logout: 1485114873254
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.7482999265652
+  y: 63.0
+  z: 7.914923350576704
+  yaw: -214.11094665527344
+  pitch: 21.774520874023438
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 2946.3585143116425
+  y: 24.0
+  z: 4648.300000011921
+  yaw: -6.599636554718018
+  pitch: 4.6501874923706055
+  world-name: ''
+ip-address: 78.253.120.40
+last-account-name: 3lodia20
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

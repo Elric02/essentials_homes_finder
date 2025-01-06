@@ -1,0 +1,63 @@
+timestamps:
+  login: 1594475175829
+  lastteleport: 1594477066339
+  logout: 1594477200941
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -189.27804565429688
+  pitch: -1.6771900653839111
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -2683.409605998533
+    y: 63.0
+    z: 548.5116040584713
+    yaw: 285.8485107421875
+    pitch: 90.0
+    world-name: ''
+  tunel:
+    world: Ressource
+    x: 1099.6696455348836
+    y: 22.0
+    z: 64.35400805938552
+    yaw: 275.31842041015625
+    pitch: 20.593793869018555
+    world-name: ''
+  h:
+    world: Ressource
+    x: -1577.77374446441
+    y: 18.0
+    z: -3521.9239789835
+    yaw: 253.76170349121094
+    pitch: 32.912078857421875
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -2679.671782398488
+  y: 106.5
+  z: 539.2625727746372
+  yaw: -133.2530975341797
+  pitch: 48.35933303833008
+  world-name: ''
+afk: false
+jailed: false
+ip-address: 91.167.163.218
+last-account-name: Artelion_mor
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

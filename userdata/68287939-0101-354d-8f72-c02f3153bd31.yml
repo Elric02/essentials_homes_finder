@@ -1,0 +1,63 @@
+timestamps:
+  login: 1643386369679
+  logout: 1643386510062
+  lastteleport: 1643386377079
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -5039.17031320808
+  y: 71.0
+  z: -552.3927339381748
+  yaw: 168.76422119140625
+  pitch: 3.035943031311035
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 2258.67463586465
+  y: 67.0
+  z: -2336.416234377152
+  yaw: -310.0892333984375
+  pitch: 3.472743511199951
+  world-name: world
+money: '0'
+homes:
+  home:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 1910.1477498600625
+    y: 67.0625
+    z: -2162.300120275999
+    yaw: -90.45848083496094
+    pitch: 19.799869537353516
+    world-name: world
+  ville:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -212.5258455083472
+    y: 66.0
+    z: -3656.795887707683
+    yaw: 188.0148468017578
+    pitch: 17.85240936279297
+    world-name: world
+  muraille:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -197.53267740620984
+    y: 108.0
+    z: -3441.5940288662227
+    yaw: 155.0157470703125
+    pitch: 79.2000503540039
+    world-name: world
+afk: false
+ip-address: 86.209.54.252
+last-account-name: BearLegends
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,39 @@
+timestamps:
+  login: 1586526351949
+  lastteleport: 1586375112221
+  logout: 1586527326606
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2732.281587756974
+  y: 64.1212968405392
+  z: -192.30000001192093
+  yaw: -48.218257904052734
+  pitch: -49.05012512207031
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 66.65153368821234
+  y: 70.5
+  z: 112.02355235241328
+  yaw: 172.73822021484375
+  pitch: 74.55005645751953
+  world-name: ''
+jailed: true
+jail: pirate
+ip-address: 88.123.225.250
+last-account-name: Eniteir_59
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

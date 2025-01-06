@@ -1,0 +1,38 @@
+timestamps:
+  login: 1588360304373
+  logout: 1588360329754
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 151.44712049646347
+  y: 65.5
+  z: 98.68825630108569
+  yaw: 209.7977752685547
+  pitch: 14.340630531311035
+  world-name: ''
+ip-address: 31.34.26.165
+last-account-name: FloweredSunSet
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

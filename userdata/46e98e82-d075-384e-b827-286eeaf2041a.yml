@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.112.144.92
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681119582413
+  login: 1681119541959
+money: '0'
+last-account-name: Saphir_Hellflamm
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.3444993614963
+  y: 81.0
+  z: -3110.9874929865855
+  yaw: -36.870445251464844
+  pitch: 26.362714767456055
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 394.33273930148215
+  y: 81.0
+  z: -3111.00317181385
+  yaw: -112.49735260009766
+  pitch: 90.0

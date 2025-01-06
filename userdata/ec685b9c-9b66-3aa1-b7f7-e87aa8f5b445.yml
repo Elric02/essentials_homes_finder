@@ -1,0 +1,47 @@
+timestamps:
+  login: 1483880489029
+  lastteleport: 1483883641260
+  logout: 1483883752652
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.29378260173905
+  y: 63.0
+  z: 39.13433380753246
+  yaw: -359.6109313964844
+  pitch: 1.9745149612426758
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -1971.699999988079
+    y: 63.0
+    z: -2262.686292723531
+    yaw: -91.3516845703125
+    pitch: 23.849990844726562
+    world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: world
+  x: -157.84271520934178
+  y: 47.0
+  z: 460.9552980567913
+  yaw: 329.79931640625
+  pitch: 5.1677632331848145
+  world-name: ''
+ip-address: 88.120.119.184
+last-account-name: LeCrafter93
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

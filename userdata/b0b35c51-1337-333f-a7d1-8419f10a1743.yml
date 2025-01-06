@@ -1,0 +1,326 @@
+timestamps:
+  login: 1691428453754
+  lastteleport: 1691428957662
+  logout: 1691429027628
+  jail: 0
+  onlinejail: 0
+  kits:
+    color: 1618430953150
+    vip: 1667064336925
+    creatif: 1672836408185
+    stationaute: 1665840383435
+    explorateur: 1666038168826
+  lastheal: 0
+  mute: 0
+lastlocation:
+  world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+  x: -1141.944680637018
+  y: 4.0
+  z: 321.69999998807907
+  yaw: -58.04487228393555
+  pitch: 15.000219345092773
+  world-name: Test
+money: '480684.132'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -5811.699999988079
+  y: 72.11577347631776
+  z: -3078.7108449310826
+  yaw: 87.54275512695312
+  pitch: 13.949979782104492
+  world-name: world
+homes:
+  troglodite:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 7481.543967439409
+    y: 77.0
+    z: 2487.7369819513588
+    yaw: 20.58679962158203
+    pitch: 10.050021171569824
+    world-name: world
+  tabaripote:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: -4441.788355702508
+    y: 64.0
+    z: 1668.473528135012
+    yaw: 264.51116943359375
+    pitch: 30.816436767578125
+    world-name: world
+  enderman:
+    world: e39c0c1b-239d-48a2-83d2-2b675c9793f8
+    x: -396.7556076899052
+    y: 1.0
+    z: 0.7777834450480603
+    yaw: 139.62518310546875
+    pitch: -0.3615075647830963
+    world-name: End
+  event:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    x: 1336.148404462989
+    y: 21.0
+    z: -2204.3558067561976
+    yaw: 10.175811767578125
+    pitch: 19.474781036376953
+    world-name: Event
+  natu:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6950.617863976389
+    y: 67.0
+    z: 2073.9638993413296
+    yaw: 181.0936279296875
+    pitch: 40.916873931884766
+    world-name: world
+  slime:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 42.69999998807907
+    y: 47.0
+    z: -868.0881296652527
+    yaw: -66.43860626220703
+    pitch: -8.75057601928711
+    world-name: world
+  concours:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    x: 1548.7197892084362
+    y: 4.0
+    z: -1073.2007037211874
+    yaw: -130.578125
+    pitch: 29.898273468017578
+    world-name: Event
+  eopia:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3541.300000011921
+    y: 197.0
+    z: 3756.6951651816485
+    yaw: 41.73577117919922
+    pitch: 44.44628143310547
+  builder:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -812.3370188057714
+    y: 9.0
+    z: -271.8697983522908
+    yaw: 19.4970703125
+    pitch: 30.150068283081055
+  spawn2:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -1237.8641450543496
+    y: 11.9375
+    z: -1747.9350147678063
+    yaw: -311.56005859375
+    pitch: 70.2999038696289
+  t_te:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5916.524419760102
+    y: 54.0
+    z: -3377.300000011921
+    yaw: -28.285675048828125
+    pitch: 8.432901382446289
+  dac:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -4276.982082210617
+    y: 297.0
+    z: -7799.293530799983
+    yaw: 90.10546875
+    pitch: 78.9000244140625
+  concours2:
+    world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+    world-name: grosPlot
+    x: -269.40973453565846
+    y: 61.743819717584635
+    z: 220.0101204003888
+    yaw: 0.067243292927742
+    pitch: 15.89957046508789
+  halloween:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -748.5906730952648
+    y: 41.0625
+    z: -651.7125393753356
+    yaw: 133.8000030517578
+    pitch: 40.2000846862793
+  althium:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 34.80037887211609
+    y: 66.10843007759682
+    z: 1331.9177702812726
+    yaw: -81.14875793457031
+    pitch: 11.850116729736328
+  ederman2:
+    world: c57b9e2e-e619-4022-bb8b-7925496d5963
+    world-name: HestiaEnd
+    x: 18.757857483727935
+    y: 55.0
+    z: 253.32760121766353
+    yaw: -13.644339561462402
+    pitch: 12.475295066833496
+  boss:
+    world: b7fb2600-9a6b-4455-aa1e-a8df500c3eeb
+    world-name: Donjon
+    x: 861.3000000119209
+    y: 15.0
+    z: 166.30000001192093
+    yaw: 11.986616134643555
+    pitch: -4.652766227722168
+  zoo:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -2962.75509870617
+    y: 67.0
+    z: 6890.581299230649
+    yaw: -12.42431640625
+    pitch: 41.10020446777344
+  oozeman:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1313.980992010892
+    y: 77.0
+    z: 2888.7824476368405
+    yaw: -154.2406463623047
+    pitch: 50.24995803833008
+  dragon:
+    world: 6563d6e0-8b82-4203-9071-c8829a7a6845
+    world-name: grosPlot
+    x: 37.502916025581634
+    y: 120.0
+    z: 145.6051158423054
+    yaw: -9.29079532623291
+    pitch: 35.05571365356445
+  minenin:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -6867.920304721256
+    y: 68.0
+    z: -653.8270463954417
+    yaw: -64.16279602050781
+    pitch: 26.249866485595703
+  moderne:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5819.838817092563
+    y: 72.55272287714716
+    z: 6041.447536654028
+    yaw: -77.6658935546875
+    pitch: 2.5501043796539307
+  maison:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1424.396515907461
+    y: 75.0
+    z: 3268.806019656842
+    yaw: 104.20925903320312
+    pitch: 14.850056648254395
+  event_halloween:
+    world: 7ed6cd7a-5308-4d6f-be72-6919769ec8ab
+    world-name: Test
+    x: -1143.1411861720958
+    y: 4.0
+    z: 315.5269549177091
+    yaw: 57.7552490234375
+    pitch: 23.100215911865234
+  admsh_p:
+    world: bb5e31e4-8d90-4a30-9af3-6449fb787f03
+    world-name: Builder
+    x: -578.0632507634137
+    y: 4.0
+    z: -592.0785558736447
+    yaw: 62.10302734375
+    pitch: -1.3500339984893799
+  benji:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -3036.690703920086
+    y: 65.0
+    z: 3145.8409435044478
+    yaw: 32.700836181640625
+    pitch: 37.20005416870117
+  7ans:
+    world: 886c7d43-b736-498b-8648-cad06b6b21d1
+    world-name: Event
+    x: 6981.645395442805
+    y: 7.0
+    z: 6978.905402938986
+    yaw: 179.3482666015625
+    pitch: 35.6998291015625
+  plan1:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 822.0601518652393
+    y: 127.860984835029
+    z: -1359.1174844911966
+    yaw: -119.6982421875
+    pitch: 46.35004425048828
+  plan2:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: 1236.164232087018
+    y: 83.05984781804044
+    z: 2392.5525374394933
+    yaw: 153.15330505371094
+    pitch: 26.249900817871094
+  plan3:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -1308.1932281609256
+    y: 107.92650136126643
+    z: 3439.7217206377004
+    yaw: -108.5985107421875
+    pitch: 48.59992218017578
+  plan4:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -2405.631967498521
+    y: 82.43973054178281
+    z: 3593.6592632780844
+    yaw: 13.501394271850586
+    pitch: 29.24967384338379
+  plan5:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -2691.0235682699326
+    y: 88.08104216092268
+    z: 2278.79171605488
+    yaw: 74.69879150390625
+    pitch: 2.399658679962158
+  plan6:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -553.478289213246
+    y: 89.57877572679101
+    z: 2795.9144890980647
+    yaw: 132.296875
+    pitch: 37.04969787597656
+  plan7:
+    world: 15269e4b-e554-4ca6-a1f2-2672670f37ad
+    world-name: Althium
+    x: -530.771872639718
+    y: 149.52900756604126
+    z: 3496.805095038221
+    yaw: 36.447235107421875
+    pitch: -5.250249862670898
+  nathapcity:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5853.901162844049
+    y: 83.0
+    z: -3046.945556352194
+    yaw: -177.51416015625
+    pitch: 51.30006408691406
+afk: false
+nickname: Bonboncornichon
+jailed: false
+ip-address: 90.25.35.44
+last-account-name: Bonsim
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

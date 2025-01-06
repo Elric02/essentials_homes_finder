@@ -1,0 +1,38 @@
+timestamps:
+  login: 1531063112003
+  logout: 1531063154827
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.02311775142562
+  y: 65.0
+  z: 73.61095990174792
+  yaw: -183.35330200195312
+  pitch: 13.199979782104492
+  world-name: ''
+ip-address: 81.48.57.76
+last-account-name: anthony50bikes
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

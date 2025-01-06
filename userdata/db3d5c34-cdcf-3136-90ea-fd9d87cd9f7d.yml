@@ -1,0 +1,38 @@
+timestamps:
+  login: 1535910679301
+  lastteleport: 1535907902673
+  logout: 1535910723673
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.86022433257355
+  y: 67.04133597821807
+  z: 19.88306097755555
+  yaw: -86.2708511352539
+  pitch: 1.3786699771881104
+  world-name: ''
+money: '0'
+afk: false
+logoutlocation:
+  world: Ressource
+  x: 3.294605696008971
+  y: 89.5
+  z: -17.798775066858777
+  yaw: -281.8525390625
+  pitch: -2.400015354156494
+  world-name: ''
+ip-address: 109.222.83.68
+last-account-name: vdz_raptor
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

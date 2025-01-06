@@ -1,0 +1,42 @@
+timestamps:
+  login: 1603105820425
+  lastteleport: 1603106313419
+  logout: 1603106784998
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 157.09976600565741
+  y: 63.0
+  z: 41.908305316066894
+  yaw: 218.200439453125
+  pitch: 10.290421485900879
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: -4070.8175585245226
+  y: 70.0
+  z: 3183.379004368519
+  yaw: 76.5103759765625
+  pitch: 42.899940490722656
+  world-name: ''
+ip-address: 176.131.97.8
+last-account-name: LaZyNK
+mail:
+- legacy: true
+  read: false
+  message: §e[§rmevennou§e] §rbonne nouvelle :) tu peut stream
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

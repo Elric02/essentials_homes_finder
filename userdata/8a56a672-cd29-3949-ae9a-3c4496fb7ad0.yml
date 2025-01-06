@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499095809765
+  logout: 1499096123748
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.40347147640261
+  y: 63.0
+  z: 47.10821152989098
+  yaw: 153.4083251953125
+  pitch: -10.402507781982422
+  world-name: ''
+ip-address: 88.178.60.126
+last-account-name: Futurixel
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

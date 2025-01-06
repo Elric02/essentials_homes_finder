@@ -1,0 +1,55 @@
+timestamps:
+  login: 1536770354584
+  lastteleport: 1536437536902
+  logout: 1536770544313
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2302.5748560282227
+  y: 52.0
+  z: -2302.7299021163767
+  yaw: 81.83979034423828
+  pitch: 69.14986419677734
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 136.20564466805524
+  y: 63.0
+  z: -20.47071502137401
+  yaw: -142.6708221435547
+  pitch: 18.028675079345703
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 2290.959992315468
+    y: 52.0
+    z: -2303.0140864189593
+    yaw: 91.5894775390625
+    pitch: 13.349876403808594
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 179.30000001192093
+    y: 12.0
+    z: -1604.74787580208
+    yaw: -220.10191345214844
+    pitch: 38.09999465942383
+    world-name: ''
+ip-address: 96.23.145.40
+last-account-name: Ptitlink54Bis
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

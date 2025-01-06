@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500582315192
+  lastteleport: 1500582401896
+  logout: 1500582409251
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2.549399401470009
+  y: 89.5
+  z: 2.5554085819316428
+  yaw: -358.6856689453125
+  pitch: 4.833090305328369
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.2284894310185
+  y: 63.0
+  z: 33.33391716141517
+  yaw: -164.4610137939453
+  pitch: 18.77451515197754
+  world-name: ''
+ip-address: 88.184.75.51
+last-account-name: KalswoEditing
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1586032274861
+  lastteleport: 1581523349173
+  logout: 1586032300485
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.09153354411117
+  y: 28.0
+  z: 20.388235266377464
+  yaw: -37.1279296875
+  pitch: 8.249977111816406
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.43803805924114
+  y: 63.0
+  z: -16.670966976647826
+  yaw: -52.557952880859375
+  pitch: -2.7209131717681885
+  world-name: ''
+ip-address: 93.24.233.60
+last-account-name: RedLotus_FR
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

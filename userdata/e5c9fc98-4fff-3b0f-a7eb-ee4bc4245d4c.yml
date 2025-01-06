@@ -1,0 +1,47 @@
+timestamps:
+  login: 1501324697509
+  lastteleport: 1501326445525
+  logout: 1501326928938
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 25.300000011920922
+  y: 68.0
+  z: 67.4817689950414
+  yaw: 168.23956298828125
+  pitch: 11.700007438659668
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -297.5
+    y: 64.0
+    z: 358.5
+    yaw: -100.19960021972656
+    pitch: 24.749998092651367
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 236.24049124566864
+  y: 64.0
+  z: -45.300695077362704
+  yaw: -266.015869140625
+  pitch: 2.274493455886841
+  world-name: ''
+ip-address: 77.145.41.225
+last-account-name: kyky
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

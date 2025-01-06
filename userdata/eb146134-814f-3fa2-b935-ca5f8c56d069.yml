@@ -1,0 +1,47 @@
+timestamps:
+  login: 1486394052669
+  lastteleport: 1486394363177
+  logout: 1486394924597
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: ressource
+  x: 194.49360123591393
+  y: 66.5
+  z: 95.88515949371858
+  yaw: 325.9871826171875
+  pitch: 25.02611541748047
+  world-name: ''
+afk: false
+homes:
+  home:
+    world: world
+    x: -5864.822080119307
+    y: 61.5
+    z: -2868.8499246246083
+    yaw: 95.8514175415039
+    pitch: 7.049911022186279
+    world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -5874.300000011921
+  y: 67.5
+  z: -2870.3833182099934
+  yaw: 87.30094909667969
+  pitch: -11.850111961364746
+  world-name: ''
+ip-address: 87.91.92.234
+last-account-name: entimo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,55 @@
+timestamps:
+  login: 1504102086242
+  logout: 1504102192157
+  lastteleport: 1504102117267
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 4808.535344264968
+  y: 75.0
+  z: -2884.1877823203463
+  yaw: -180.6169891357422
+  pitch: 12.90001106262207
+  world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 115.73489809372285
+  y: 63.0
+  z: 19.05388010398288
+  yaw: -78.66091918945312
+  pitch: 8.57451057434082
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 4823.386045601275
+    y: 75.0
+    z: -2886.328557811564
+    yaw: 91.63262939453125
+    pitch: 0.6624130606651306
+    world-name: ''
+  xp:
+    world: Ressource
+    x: 4510.084320948779
+    y: 43.0
+    z: -2286.5498111633533
+    yaw: -86.6964340209961
+    pitch: 10.19989013671875
+    world-name: ''
+money: '0'
+ip-address: 81.251.186.249
+last-account-name: ELLIOTKLEIN
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

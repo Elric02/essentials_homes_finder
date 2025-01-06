@@ -1,0 +1,63 @@
+timestamps:
+  login: 1621526697421
+  lastteleport: 1614777149035
+  logout: 1621526795075
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1341.140667982294
+  y: 7.5
+  z: 6663.554498080555
+  yaw: -183.68231201171875
+  pitch: 8.700016021728516
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -1302.6545716071
+  y: 63.0
+  z: 6627.066262130786
+  yaw: -334.99249267578125
+  pitch: 21.450353622436523
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: -1338.9857570467336
+    y: 63.0
+    z: 6658.343668904284
+    yaw: 24.50335693359375
+    pitch: 20.999916076660156
+    world-name: ''
+  ice:
+    world: Ressource
+    x: 2100.54489635692
+    y: 63.0
+    z: -1612.5489320161796
+    yaw: -60.0264892578125
+    pitch: 2.407057762145996
+    world-name: ''
+  corail:
+    world: Ressource
+    x: -2914.4248327815276
+    y: 62.0
+    z: -3656.76519800327
+    yaw: -24.90386962890625
+    pitch: 20.849977493286133
+    world-name: ''
+afk: false
+ip-address: 77.128.111.199
+last-account-name: NitroX___
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

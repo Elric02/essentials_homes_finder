@@ -1,0 +1,38 @@
+timestamps:
+  login: 1504103243572
+  logout: 1504103428721
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.0
+  y: 64.0
+  z: 20.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 133.58600783882133
+  y: 63.0
+  z: -22.78166519607534
+  yaw: -23.75445556640625
+  pitch: -4.775637626647949
+  world-name: ''
+ip-address: 78.227.125.16
+last-account-name: b22kil3ur
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

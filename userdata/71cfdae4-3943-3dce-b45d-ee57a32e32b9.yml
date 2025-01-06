@@ -1,0 +1,55 @@
+timestamps:
+  login: 1551704008100
+  lastteleport: 1551462654329
+  logout: 1551704017697
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -224.57178475521087
+  y: 94.0
+  z: 21.784773221623656
+  yaw: 223.04705810546875
+  pitch: 50.135704040527344
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -6143.133520395706
+    y: 68.875
+    z: 162.60399607577375
+    yaw: 15.109582901000977
+    pitch: 45.00001907348633
+    world-name: ''
+  foret:
+    world: Ressource
+    x: -1518.2779776639438
+    y: 76.0
+    z: 2110.886236527467
+    yaw: -21.149574279785156
+    pitch: 19.799949645996094
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -6120.146350842982
+  y: 67.0
+  z: 75.81441165720572
+  yaw: -341.1497497558594
+  pitch: 33.29985046386719
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 93.21.106.115
+last-account-name: Louernos
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

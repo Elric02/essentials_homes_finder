@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468598534808
+  logout: 1468598738626
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 155.5
+  y: 64.0
+  z: 19.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.6775647143939
+  y: 64.0
+  z: 9.020527552509707
+  yaw: 0.4528757929801941
+  pitch: 24.37418556213379
+  world-name: ''
+ip-address: 83.199.18.122
+last-account-name: VinmarDu35
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

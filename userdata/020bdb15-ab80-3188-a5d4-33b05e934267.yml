@@ -1,0 +1,47 @@
+timestamps:
+  login: 1501840183389
+  lastteleport: 1501841628493
+  logout: 1501841853839
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 203.60660319283858
+  y: 64.0
+  z: 3.9037125817385068
+  yaw: -17.334623336791992
+  pitch: 9.619539260864258
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 5458.830012468331
+    y: 79.0
+    z: -2164.990609907527
+    yaw: -107.57463836669922
+    pitch: 25.44198226928711
+    world-name: ''
+logoutlocation:
+  world: world
+  x: 5457.696624090252
+  y: 79.0
+  z: -2178.6479295649856
+  yaw: 24.2038631439209
+  pitch: 2.813258409500122
+  world-name: ''
+ip-address: 81.244.75.58
+last-account-name: _MissGirly_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

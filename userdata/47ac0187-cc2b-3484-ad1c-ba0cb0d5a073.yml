@@ -1,0 +1,38 @@
+timestamps:
+  login: 1548361283535
+  lastteleport: 1548361419105
+  logout: 1548361464188
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 198.12457643021466
+  y: 66.0
+  z: 43.85408968268176
+  yaw: 5.030731201171875
+  pitch: 2.2296297550201416
+  world-name: ''
+logoutlocation:
+  world: Nether
+  x: -3.2157379735590776
+  y: 37.0
+  z: -17.390168818068087
+  yaw: 246.18170166015625
+  pitch: 34.331722259521484
+  world-name: ''
+ip-address: 86.235.31.186
+last-account-name: zeubi
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

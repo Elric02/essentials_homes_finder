@@ -1,0 +1,38 @@
+timestamps:
+  login: 1546225225290
+  logout: 1546225253537
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.64041344670238
+  y: 65.0
+  z: 69.25161450850985
+  yaw: 189.2347412109375
+  pitch: -6.308530807495117
+  world-name: ''
+ip-address: 90.109.48.175
+last-account-name: Ar0x_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

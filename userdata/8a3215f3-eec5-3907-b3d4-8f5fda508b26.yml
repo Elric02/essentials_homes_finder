@@ -1,0 +1,38 @@
+timestamps:
+  login: 1468530641799
+  lastteleport: 1468529508984
+  logout: 1468530722372
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_the_end
+  x: -11.340981557873175
+  y: 69.0
+  z: 0.22918804489515573
+  yaw: -115.5966796875
+  pitch: 39.94640350341797
+  world-name: ''
+logoutlocation:
+  world: world_the_end
+  x: -757.5508423409888
+  y: 76.0
+  z: 1030.4432494242149
+  yaw: -261.39739990234375
+  pitch: 38.41999435424805
+  world-name: ''
+ip-address: 84.102.162.83
+last-account-name: theo2054
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

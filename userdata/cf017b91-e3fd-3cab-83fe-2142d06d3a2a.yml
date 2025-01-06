@@ -1,0 +1,47 @@
+timestamps:
+  login: 1514900758527
+  logout: 1514900883090
+  lastteleport: 1509386318591
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 153.4928420663627
+  y: 64.0
+  z: 22.732960863967918
+  yaw: -241.3712158203125
+  pitch: 4.97868013381958
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.46724788373103
+  y: 64.0
+  z: 24.613515440260066
+  yaw: -180.7708282470703
+  pitch: 2.128669500350952
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 2620.835366694672
+    y: 64.0
+    z: 392.94670797403654
+    yaw: 345.7283020019531
+    pitch: 20.99992561340332
+    world-name: ''
+ip-address: 90.120.205.148
+last-account-name: Morakador
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

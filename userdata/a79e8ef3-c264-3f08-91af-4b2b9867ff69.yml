@@ -1,0 +1,47 @@
+timestamps:
+  login: 1469781703444
+  logout: 1469782584664
+  lastteleport: 1469733702544
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 110.52113712602191
+  y: 63.0
+  z: 17.450263851363065
+  yaw: -125.75534057617188
+  pitch: 31.37640953063965
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -2785.6922709651303
+  y: 67.9375
+  z: 2326.712146809458
+  yaw: 223.03558349609375
+  pitch: 72.48155212402344
+  world-name: ''
+money: '0'
+afk: false
+homes:
+  home:
+    world: world
+    x: -4862.892163474552
+    y: 64.0
+    z: -2654.2786343820208
+    yaw: -262.74530029296875
+    pitch: 25.711341857910156
+    world-name: ''
+ip-address: 92.134.50.168
+last-account-name: El_TyR3X
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

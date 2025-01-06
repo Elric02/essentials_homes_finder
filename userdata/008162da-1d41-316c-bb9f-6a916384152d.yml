@@ -1,0 +1,38 @@
+timestamps:
+  login: 1585326072635
+  logout: 1585326178981
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 167.09933393573664
+  y: 63.0
+  z: 71.2223191222102
+  yaw: 141.39682006835938
+  pitch: 19.890567779541016
+  world-name: ''
+ip-address: 81.254.153.128
+last-account-name: Machouard62
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

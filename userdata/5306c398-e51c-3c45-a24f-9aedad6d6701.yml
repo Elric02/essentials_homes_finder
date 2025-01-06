@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 93.30.216.80
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1639385821517
+  login: 1639385644464
+money: '0'
+last-account-name: Olthoo
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -19.142983337293213
+  y: 64.0
+  z: 7.9966709747682465
+  yaw: -183.6143341064453
+  pitch: 4.921947002410889
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 156.2638144709736
+  y: 64.0
+  z: 18.373370909264885
+  yaw: 76.88069152832031
+  pitch: 0.5433087944984436

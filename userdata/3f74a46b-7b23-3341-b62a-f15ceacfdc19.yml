@@ -1,0 +1,38 @@
+timestamps:
+  login: 1471612379300
+  lastteleport: 1471612538619
+  logout: 1471612708882
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 3758.888078032704
+  y: 63.0
+  z: -5356.180133028027
+  yaw: 183.45005798339844
+  pitch: 14.549994468688965
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 176.09307950647474
+  y: 82.28271854438606
+  z: 414.62937730157057
+  yaw: 105.23945617675781
+  pitch: 30.899988174438477
+  world-name: ''
+ip-address: 91.179.182.146
+last-account-name: Riton01
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

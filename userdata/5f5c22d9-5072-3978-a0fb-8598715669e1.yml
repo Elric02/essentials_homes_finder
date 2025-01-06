@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.161.104.207
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643301550887
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1651090588995
+  login: 1651090230493
+money: '0'
+last-account-name: MizuNori_
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3264.8712975869125
+  y: 63.0
+  z: 2898.9992777712096
+  yaw: -140.675048828125
+  pitch: 13.049877166748047
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -3264.8508648636443
+    y: 63.0
+    z: 2899.1960555048504
+    yaw: 9.471343994140625
+    pitch: 25.499942779541016
+  village:
+    world: 53088384-c7c2-4056-b289-104b018f6c26
+    world-name: Ressource
+    x: 166.29464117578937
+    y: 72.0
+    z: 225.9521970672836
+    yaw: -65.41088104248047
+    pitch: 71.24993896484375
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -3266.4528316983174
+  y: 63.5625
+  z: 2900.0588598122563
+  yaw: 68.8785400390625
+  pitch: 7.79988956451416

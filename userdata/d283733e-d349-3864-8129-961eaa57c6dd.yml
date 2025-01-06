@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617798557759
+  lastteleport: 1617718840351
+  logout: 1617798670035
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.7973148454729
+  y: 63.5
+  z: 66.3115760400653
+  yaw: -172.6749725341797
+  pitch: 10.801880836486816
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -606.5801198294242
+  y: 66.0
+  z: -844.0532563589511
+  yaw: -354.8702087402344
+  pitch: 54.862953186035156
+  world-name: ''
+ip-address: 176.148.213.240
+last-account-name: Lebgdenants
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

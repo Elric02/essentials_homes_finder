@@ -1,0 +1,38 @@
+timestamps:
+  login: 1565023992498
+  logout: 1565024335967
+  lastteleport: 1565023648742
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 2861.0
+  y: 74.0
+  z: 4285.64181864349
+  yaw: -199.9429931640625
+  pitch: 5.034784317016602
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3418.6261086968193
+  y: 72.0
+  z: 2711.391301000671
+  yaw: 131.75384521484375
+  pitch: 14.483646392822266
+  world-name: ''
+money: '0'
+ip-address: 109.16.209.2
+last-account-name: CoXo1559
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

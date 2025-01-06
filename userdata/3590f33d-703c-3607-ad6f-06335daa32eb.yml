@@ -1,0 +1,38 @@
+timestamps:
+  login: 1500489119562
+  lastteleport: 1500489624896
+  logout: 1500490146918
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 150.76400778445517
+  y: 63.0
+  z: 46.118473949662835
+  yaw: 22.177499771118164
+  pitch: 1.1487482786178589
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 3344.300000011921
+  y: 68.0
+  z: 6119.317000197429
+  yaw: -141.095947265625
+  pitch: 10.601350784301758
+  world-name: ''
+ip-address: 90.31.138.102
+last-account-name: Emzii
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

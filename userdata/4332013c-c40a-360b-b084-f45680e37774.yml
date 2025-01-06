@@ -1,0 +1,47 @@
+timestamps:
+  login: 1511045941698
+  lastteleport: 1511045991123
+  logout: 1511046070388
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.42594017543064
+  y: 63.0
+  z: 58.494145547692604
+  yaw: -178.02688598632812
+  pitch: 12.161832809448242
+  world-name: ''
+homes:
+  bp:
+    world: world
+    x: -4501.6887529675905
+    y: 53.0
+    z: -6637.490439839354
+    yaw: -94.50778198242188
+    pitch: 10.424087524414062
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -4496.462431976734
+  y: 53.0
+  z: -6637.300000011921
+  yaw: -224.70193481445312
+  pitch: 23.69655990600586
+  world-name: ''
+ip-address: 66.130.203.81
+last-account-name: Veilleux_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

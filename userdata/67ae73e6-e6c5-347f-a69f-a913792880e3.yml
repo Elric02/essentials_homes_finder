@@ -1,0 +1,38 @@
+timestamps:
+  login: 1565644566441
+  lastteleport: 1565648401760
+  logout: 1565644446216
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 779.1699676658502
+  y: 76.0
+  z: 1931.1055408159873
+  yaw: -110.09228515625
+  pitch: 14.902182579040527
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.4873338220059
+  y: 64.0
+  z: 19.734477072485813
+  yaw: -199.59967041015625
+  pitch: 14.644974708557129
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 78.196.0.209
+last-account-name: LemonHells
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

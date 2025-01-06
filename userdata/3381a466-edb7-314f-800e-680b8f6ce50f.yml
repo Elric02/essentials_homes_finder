@@ -1,0 +1,38 @@
+timestamps:
+  login: 1469729219100
+  logout: 1469729278849
+  lastteleport: 1469351232836
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 104.56234033415278
+  y: 63.0
+  z: 26.127004005977252
+  yaw: 68.09955596923828
+  pitch: -4.724484443664551
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 455.69999998807907
+  y: 65.0
+  z: 4.976887874638841
+  yaw: -107.25115203857422
+  pitch: 3.30000901222229
+  world-name: ''
+money: '0'
+ip-address: 88.188.146.142
+last-account-name: JeiKoo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

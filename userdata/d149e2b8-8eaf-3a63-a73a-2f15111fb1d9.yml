@@ -1,0 +1,63 @@
+timestamps:
+  login: 1473185930148
+  lastteleport: 1473186719784
+  logout: 1473187137038
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 713.5075247552322
+  y: 67.0
+  z: -952.0492794077339
+  yaw: 3.3068959712982178
+  pitch: -5.249777793884277
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 155.8754128879563
+  y: 64.0
+  z: 30.0354995362325
+  yaw: -174.0609893798828
+  pitch: -1.325485348701477
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: 753.1364252639622
+    y: 67.0
+    z: -917.4341214988826
+    yaw: 230.09967041015625
+    pitch: 19.650060653686523
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 5080.168295197604
+    y: 11.0
+    z: 503.32105107580225
+    yaw: 102.401611328125
+    pitch: 36.449928283691406
+    world-name: ''
+  zombie:
+    world: Ressource
+    x: 5069.192158201281
+    y: 17.0
+    z: 571.214770969969
+    yaw: 245.49365234375
+    pitch: 24.149995803833008
+    world-name: ''
+afk: false
+ip-address: 78.239.225.86
+last-account-name: DEXTER7782
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

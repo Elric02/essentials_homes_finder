@@ -1,0 +1,105 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.58.20.176
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735825347626
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735825395663
+  login: 1735823584942
+  kits:
+    stationaute: 1667235256390
+money: '32832.6699999999997563'
+last-account-name: _Patin
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: -5144.83171415947
+  y: -29.0
+  z: -3413.468965039213
+  yaw: -18.7760009765625
+  pitch: 6.299979209899902
+homes:
+  ile:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 3529.5674570083793
+    y: 103.0
+    z: -6382.263792813335
+    yaw: -10.58038330078125
+    pitch: 40.19990158081055
+  maison_jungle:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 5545.5
+    y: 82.0
+    z: -1518.5
+    yaw: -52.50566482543945
+    pitch: 90.0
+  _patinpalais:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1957.4983693117358
+    y: 96.0
+    z: 5067.503493578439
+    yaw: 89.88507080078125
+    pitch: -90.0
+  sdc:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1957.4866217006856
+    y: 10.0
+    z: 5067.485307589078
+    yaw: 89.28528594970703
+    pitch: -90.0
+  temporaire:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 362.4824695626897
+    y: 44.0
+    z: 90.69999998807907
+    yaw: -105.74479675292969
+    pitch: 75.00001525878906
+  remi:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: -5991.300000011921
+    y: 67.0
+    z: 1152.300000011921
+    yaw: 84.452392578125
+    pitch: 22.350027084350586
+  lauryne:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 2530.4017391278326
+    y: 71.0
+    z: 5549.634548324806
+    yaw: -177.26654052734375
+    pitch: 88.49999237060547
+  ensab:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6630.576997660835
+    y: 66.0
+    z: 904.4572124161593
+    yaw: -104.25053405761719
+    pitch: 90.0
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1962.6882247527578
+  y: 10.0
+  z: 5066.766863739433
+  yaw: -139.7651824951172
+  pitch: 26.39995765686035

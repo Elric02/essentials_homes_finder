@@ -1,0 +1,38 @@
+timestamps:
+  login: 1582995926553
+  lastteleport: 1582996252516
+  logout: 1582996358621
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -10.334660968876367
+  y: 89.5
+  z: -4.009039628732667
+  yaw: -92.25262451171875
+  pitch: 53.285858154296875
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 152.65458842884067
+  y: 64.0
+  z: 21.552022404469326
+  yaw: -181.97080993652344
+  pitch: 2.128669500350952
+  world-name: ''
+ip-address: 154.70.81.96
+last-account-name: Alphra
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

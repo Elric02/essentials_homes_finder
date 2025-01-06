@@ -1,0 +1,38 @@
+timestamps:
+  login: 1588185076575
+  logout: 1588185236834
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 3217.7005358822253
+  y: 67.0
+  z: -3868.492551331609
+  yaw: -263.39910888671875
+  pitch: 87.14997100830078
+  world-name: ''
+ip-address: 196.74.39.159
+last-account-name: OXINOR
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.29.204.76
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697942029175
+  login: 1697942003076
+money: '0'
+last-account-name: Michoucroutte
+lastlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 419.69999998807907
+  y: 80.0
+  z: -3229.903369469837
+  yaw: -169.95098876953125
+  pitch: 15.59995174407959
+logoutlocation:
+  world: e6cc7796-4b48-4b16-b5ec-0cbf02341883
+  world-name: station
+  x: 318.8593372876623
+  y: -5396.939945062125
+  z: -3221.7863252801803
+  yaw: 25.649873733520508
+  pitch: 30.45033073425293

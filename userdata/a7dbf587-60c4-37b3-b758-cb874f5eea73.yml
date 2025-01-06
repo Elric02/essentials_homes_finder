@@ -1,0 +1,38 @@
+timestamps:
+  login: 1551886186147
+  lastteleport: 1551886309096
+  logout: 1551886321257
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: 1.500771475874293
+  y: 37.0
+  z: -0.5345685315007457
+  yaw: 175.63111877441406
+  pitch: 10.016916275024414
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 157.54110200008856
+  y: 63.0
+  z: 38.89270643690063
+  yaw: -275.96343994140625
+  pitch: -36.40007019042969
+  world-name: ''
+ip-address: 90.73.129.89
+last-account-name: DevorerOfBinaire
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

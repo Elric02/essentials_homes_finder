@@ -1,0 +1,55 @@
+timestamps:
+  login: 1472457040120
+  lastteleport: 1472458808280
+  logout: 1472458873340
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 103.8417776388398
+  y: 68.0
+  z: 375.98413772456934
+  yaw: -28.489521026611328
+  pitch: 26.716819763183594
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: -358.5
+    y: 64.0
+    z: -470.5
+    yaw: -102.2803955078125
+    pitch: 61.20002746582031
+    world-name: ''
+  g:
+    world: Ressource
+    x: 5.088611661201424
+    y: 108.0
+    z: 170.39644644036747
+    yaw: -120.81084442138672
+    pitch: 16.27199363708496
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 5.088611661201424
+  y: 108.0
+  z: 170.39644644036747
+  yaw: -120.81084442138672
+  pitch: 16.27199363708496
+  world-name: ''
+ip-address: 109.217.148.217
+last-account-name: nocub
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1673462870119
+  logout: 1673462878872
+  lastteleport: 1564009129875
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 886c7d43-b736-498b-8648-cad06b6b21d1
+  x: 9967.5
+  y: -64.0
+  z: 10036.5
+  yaw: 34.108367919921875
+  pitch: -57.72425079345703
+  world-name: Event
+logoutlocation:
+  world: 886c7d43-b736-498b-8648-cad06b6b21d1
+  x: 9967.5
+  y: -491.7363560008077
+  z: 10036.5
+  yaw: 34.108367919921875
+  pitch: -57.72425079345703
+  world-name: Event
+afk: false
+ip-address: 37.65.15.199
+last-account-name: Febreeze
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

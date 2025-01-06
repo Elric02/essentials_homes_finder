@@ -1,0 +1,38 @@
+timestamps:
+  login: 1626983743969
+  logout: 1626983822720
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 156.35446279707432
+  y: 64.0
+  z: 19.431348813369958
+  yaw: 175.74630737304688
+  pitch: 14.490682601928711
+  world-name: ''
+ip-address: 88.169.220.9
+last-account-name: witonek
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

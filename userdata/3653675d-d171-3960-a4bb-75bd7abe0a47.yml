@@ -1,0 +1,38 @@
+timestamps:
+  login: 1488571176475
+  lastteleport: 1488571909229
+  logout: 1488572193955
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -156.30210796830434
+  y: 47.0
+  z: 536.7113398857163
+  yaw: 88.29840087890625
+  pitch: 26.01776695251465
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 154.51860541663729
+  y: 64.0
+  z: 31.25608318496824
+  yaw: -173.01092529296875
+  pitch: -3.5754849910736084
+  world-name: ''
+ip-address: 78.201.180.117
+last-account-name: NAth2796
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

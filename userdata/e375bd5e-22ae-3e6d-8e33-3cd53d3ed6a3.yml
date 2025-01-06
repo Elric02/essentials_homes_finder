@@ -1,0 +1,38 @@
+timestamps:
+  login: 1485610305839
+  logout: 1485610317250
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.9997076473468
+  y: 64.0
+  z: 24.958232048976438
+  yaw: -182.5975341796875
+  pitch: 23.19739532470703
+  world-name: ''
+ip-address: 176.134.107.74
+last-account-name: hd_glitcher222
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

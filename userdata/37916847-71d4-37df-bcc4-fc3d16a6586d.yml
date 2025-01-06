@@ -1,0 +1,38 @@
+timestamps:
+  login: 1547751327523
+  logout: 1547751495768
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 7.5662999515276255
+  y: 67.0
+  z: 10.892171765990739
+  yaw: 179.19691467285156
+  pitch: 20.490652084350586
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 1577.1716221221286
+  y: 70.0
+  z: -2148.5196473122787
+  yaw: -5.1531662940979
+  pitch: -3.8093502521514893
+  world-name: ''
+ip-address: 163.172.226.60
+last-account-name: TheeBlackGuy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

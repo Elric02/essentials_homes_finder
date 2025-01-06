@@ -1,0 +1,38 @@
+timestamps:
+  login: 1508701105912
+  logout: 1508701112833
+  lastteleport: 1508664035977
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.28131835039048
+  y: 64.0
+  z: 23.43792299147661
+  yaw: -185.26806640625
+  pitch: 23.240819931030273
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 155.71430335542556
+  y: 64.0
+  z: 32.296870625996604
+  yaw: -120.96307373046875
+  pitch: 13.621673583984375
+  world-name: ''
+ip-address: 213.111.39.224
+last-account-name: Dobrien
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

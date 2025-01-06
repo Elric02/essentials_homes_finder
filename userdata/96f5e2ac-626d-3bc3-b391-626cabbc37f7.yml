@@ -1,0 +1,38 @@
+timestamps:
+  login: 1499178565087
+  lastteleport: 1499179009309
+  logout: 1499179284380
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 221.81837780695224
+  y: 66.0
+  z: 20.594688073970012
+  yaw: -88.0973129272461
+  pitch: -9.502613067626953
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 58.28635770084214
+  y: 67.0
+  z: 54.94532001963668
+  yaw: -304.7108459472656
+  pitch: 7.074503421783447
+  world-name: ''
+ip-address: 90.37.169.128
+last-account-name: robpcb13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

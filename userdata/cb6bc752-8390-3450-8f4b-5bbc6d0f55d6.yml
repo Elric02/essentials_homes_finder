@@ -1,0 +1,63 @@
+timestamps:
+  login: 1540762967663
+  lastteleport: 1540751056946
+  logout: 1540764385573
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -2698.418507121307
+  y: 64.0
+  z: 1088.6720298650953
+  yaw: -349.7996826171875
+  pitch: 30.66951560974121
+  world-name: ''
+money: '0'
+homes:
+  a:
+    world: world
+    x: -2306.421630423221
+    y: 86.0
+    z: 1726.7399543794857
+    yaw: -219.0572509765625
+    pitch: 24.765527725219727
+    world-name: ''
+  b:
+    world: world
+    x: 4880.699999988079
+    y: 62.0
+    z: 844.2623812030296
+    yaw: 336.8594970703125
+    pitch: 10.892709732055664
+    world-name: ''
+  c:
+    world: world
+    x: -2420.43909607713
+    y: 20.0
+    z: 1734.973803090718
+    yaw: -317.9420166015625
+    pitch: 26.163949966430664
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -2446.564536749884
+  y: 68.0
+  z: 1712.881163463725
+  yaw: -85.29027557373047
+  pitch: 11.891546249389648
+  world-name: ''
+afk: false
+ip-address: 90.100.30.58
+last-account-name: alfrelien
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

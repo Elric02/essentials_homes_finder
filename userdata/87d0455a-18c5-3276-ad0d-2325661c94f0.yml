@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617656172424
+  lastteleport: 1617656259432
+  logout: 1617657952472
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.65606802327267
+  y: 63.5
+  z: 5.724436236996098
+  yaw: 62.34927749633789
+  pitch: 5.699521064758301
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: Ressource
+  x: 4268.724679049118
+  y: 25.0
+  z: -4348.298481000095
+  yaw: -275.85107421875
+  pitch: 10.350484848022461
+  world-name: ''
+ip-address: 92.184.118.174
+last-account-name: Craftermonster
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

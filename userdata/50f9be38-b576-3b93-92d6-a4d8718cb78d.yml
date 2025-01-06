@@ -1,0 +1,38 @@
+timestamps:
+  login: 1483867867769
+  lastteleport: 1483868431901
+  logout: 1483868446460
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -282.8818484432799
+  y: 65.0
+  z: 366.7194686197944
+  yaw: 8.09869384765625
+  pitch: 27.158199310302734
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -602.171331033591
+  y: 64.0
+  z: -749.8901342458012
+  yaw: -339.8780517578125
+  pitch: 15.591476440429688
+  world-name: ''
+ip-address: 82.240.132.53
+last-account-name: The_Girl_SkyZ
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

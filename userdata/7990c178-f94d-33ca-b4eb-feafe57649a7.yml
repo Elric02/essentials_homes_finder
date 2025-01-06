@@ -1,0 +1,47 @@
+timestamps:
+  login: 1613213140691
+  lastteleport: 1613214820226
+  logout: 1613216510621
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -1545.8750114279585
+  y: 88.0
+  z: 4207.058009010807
+  yaw: 300.76361083984375
+  pitch: 16.012226104736328
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -496.07279206687474
+    y: 79.0
+    z: 4046.5236808230707
+    yaw: 277.6314697265625
+    pitch: 14.431699752807617
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -496.07279206687474
+  y: 79.0
+  z: 4046.5236808230707
+  yaw: 277.6314697265625
+  pitch: 14.431699752807617
+  world-name: ''
+ip-address: 80.215.113.202
+last-account-name: Pletho_R
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

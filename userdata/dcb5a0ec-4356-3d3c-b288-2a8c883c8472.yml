@@ -1,0 +1,47 @@
+timestamps:
+  login: 1592342800150
+  lastteleport: 1592344478279
+  logout: 1592344597402
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 5867.727201867685
+  y: 78.0
+  z: 1053.2243075468086
+  yaw: -301.98223876953125
+  pitch: 22.7993221282959
+  world-name: ''
+logoutlocation:
+  world: Ressource
+  x: -1370.6901224500482
+  y: 69.0
+  z: -2189.699999988079
+  yaw: -199.7939453125
+  pitch: 23.10043716430664
+  world-name: ''
+money: '0'
+homes:
+  b1:
+    world: Ressource
+    x: -1354.4464995463
+    y: 67.0
+    z: -2209.338025802825
+    yaw: -305.8461608886719
+    pitch: 8.550202369689941
+    world-name: ''
+ip-address: 88.121.219.36
+last-account-name: Pepedu04
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

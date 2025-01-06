@@ -1,0 +1,38 @@
+timestamps:
+  login: 1710541986976
+  logout: 1710541989139
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -1318.8810434064064
+  y: 55.63066889308334
+  z: 5245.218248359483
+  yaw: -109.49913787841797
+  pitch: -8.40003490447998
+  world-name: world
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: -1318.8810434064064
+  y: 46.96566839478871
+  z: 5245.218248359483
+  yaw: -74.99915313720703
+  pitch: -12.450034141540527
+  world-name: world
+ip-address: 81.65.146.84
+last-account-name: MagnaJulius
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

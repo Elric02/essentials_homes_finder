@@ -1,0 +1,38 @@
+timestamps:
+  login: 1575293636768
+  logout: 1575293685805
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.32178885444165
+  y: 66.5
+  z: 94.9111980644472
+  yaw: 181.29689025878906
+  pitch: 25.2906494140625
+  world-name: ''
+ip-address: 90.120.224.153
+last-account-name: Typtooe
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

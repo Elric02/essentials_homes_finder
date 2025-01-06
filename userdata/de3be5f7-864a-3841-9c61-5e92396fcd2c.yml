@@ -1,0 +1,38 @@
+timestamps:
+  login: 1509637702537
+  lastteleport: 1509637898867
+  logout: 1509638130924
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world_nether
+  x: -4496.100937984504
+  y: 39.0
+  z: 5661.09763416212
+  yaw: 252.6258087158203
+  pitch: 15.15352725982666
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 143.03971443898038
+  y: 64.0
+  z: 21.80200764883446
+  yaw: -291.4305725097656
+  pitch: 24.225828170776367
+  world-name: ''
+ip-address: 81.64.132.87
+last-account-name: Yanis34
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

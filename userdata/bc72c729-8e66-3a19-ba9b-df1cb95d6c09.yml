@@ -1,0 +1,38 @@
+timestamps:
+  login: 1535528559661
+  logout: 1535529548792
+  lastteleport: 1535529195729
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -175.4416726153483
+  y: 39.0
+  z: 25.18767642921763
+  yaw: 198.5819091796875
+  pitch: 19.05000114440918
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 67.89797711683349
+  y: 63.0
+  z: 50.25561911643763
+  yaw: -278.5497131347656
+  pitch: 18.44998550415039
+  world-name: ''
+money: '0'
+ip-address: 109.0.174.122
+last-account-name: minster__2__2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

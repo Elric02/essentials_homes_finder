@@ -1,0 +1,38 @@
+timestamps:
+  login: 1617985297197
+  lastteleport: 1617986120671
+  logout: 1617989085467
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 0.5
+  y: 90.0
+  z: 0.5
+  yaw: 90.2972640991211
+  pitch: 5.285839080810547
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -518.5912942036757
+  y: 68.0
+  z: 42.882660086245664
+  yaw: -0.4007568359375
+  pitch: 69.30022430419922
+  world-name: ''
+ip-address: 91.166.243.76
+last-account-name: Gunt3r
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1626185780143
+  lastteleport: 1626186126853
+  logout: 1626186146803
+  jail: 0
+  lastheal: 0
+  mute: 0
+  onlinejail: 0
+lastlocation:
+  world: End
+  x: -52.82284920708775
+  y: 59.0
+  z: -10.920808208617016
+  yaw: -282.3661804199219
+  pitch: 6.931360244750977
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 110.45807774859179
+  y: 63.0
+  z: -37.9518185879659
+  yaw: -259.7451171875
+  pitch: 1.3258910179138184
+  world-name: ''
+money: '20.0'
+homes:
+  hugo:
+    world: world
+    x: 4897.497001237738
+    y: 64.0
+    z: 5735.325443524901
+    yaw: -142.04428100585938
+    pitch: 41.85040283203125
+    world-name: ''
+  nether:
+    world: Nether
+    x: -875.4789143842384
+    y: 60.0
+    z: -2963.05545719732
+    yaw: 338.1844482421875
+    pitch: 37.199947357177734
+    world-name: ''
+  home:
+    world: Event
+    x: 949.715050784456
+    y: 4.0
+    z: 986.6425213146883
+    yaw: -24.00820541381836
+    pitch: 20.699512481689453
+    world-name: ''
+afk: false
+jailed: false
+ip-address: 81.242.147.143
+last-account-name: hddh3232
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

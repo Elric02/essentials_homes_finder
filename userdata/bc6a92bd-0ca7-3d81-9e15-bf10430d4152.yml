@@ -1,0 +1,162 @@
+timestamps:
+  login: 1728350765606
+  lastteleport: 1727041728384
+  logout: 1728350765793
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  kits:
+    color: 1723840826783
+    stationaute: 1723840839945
+    vip: 1724939760980
+lastlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 6859.699999988079
+  y: -9.799999952316284
+  z: -3935.699999988079
+  yaw: 55.385772705078125
+  pitch: 19.649978637695312
+  world-name: world
+homes:
+  house:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    x: 6795.106489933226
+    y: 59.0
+    z: -3894.6381265748664
+    yaw: 18.4810791015625
+    pitch: 7.200014114379883
+    world-name: world
+  sdc:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6860.438275841103
+    y: 108.0
+    z: -3819.534051895581
+    yaw: -179.96900939941406
+    pitch: 4.049998760223389
+  cyclotron:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6841.853590914617
+    y: -13.0
+    z: -3933.044771473806
+    yaw: 3.935429573059082
+    pitch: 29.549768447875977
+  topenter:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6888.435605956178
+    y: 320.0
+    z: -3825.457275488375
+    yaw: 154.83106994628906
+    pitch: 42.5999755859375
+  enter:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6872.394041816847
+    y: 138.0
+    z: -3887.5011899627516
+    yaw: 63.03091049194336
+    pitch: 0.14998991787433624
+  smnle:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6755.850305192209
+    y: 75.0
+    z: -3632.9916750574616
+    yaw: -91.80008697509766
+    pitch: 49.20005416870117
+  enether:
+    world: 662d438a-3236-43b5-be72-96a96955dbc4
+    world-name: RessourceNether
+    x: -991.6999999880791
+    y: 50.0
+    z: 455.7482514034302
+    yaw: 123.15127563476562
+    pitch: 63.000003814697266
+  admshop:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 123.09209448587492
+    y: 49.0
+    z: 54.38692757155001
+    yaw: -179.2329559326172
+    pitch: 1.350124478340149
+  cyclotrontop:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6845.157501654146
+    y: -7.0
+    z: -3915.699999988079
+    yaw: 82.98543548583984
+    pitch: 60.59965515136719
+  tophouse:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6794.755761943434
+    y: 67.0
+    z: -3899.8557795075662
+    yaw: -162.8689422607422
+    pitch: 24.000015258789062
+  monument:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: -2373.3536534929885
+    y: 87.0
+    z: -941.1688044742893
+    yaw: 71.69656372070312
+    pitch: 72.00016784667969
+  clay:
+    world: 1c5ecae9-0331-471a-b4f1-02a6857928e0
+    world-name: Ressource
+    x: 743.0197731658648
+    y: -21.0
+    z: -1773.499205839779
+    yaw: 97.83905029296875
+    pitch: 9.300019264221191
+  village:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 6838.869450431369
+    y: 66.0
+    z: -4048.33363469163
+    yaw: -176.8187255859375
+    pitch: 2.4000163078308105
+money: '88891.93'
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  x: 6822.549037593681
+  y: 59.5
+  z: -3892.5169620762094
+  yaw: -86.81889343261719
+  pitch: 18.300020217895508
+  world-name: world
+afk: false
+ip-address: 193.32.126.138
+last-account-name: RetalOne
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+mail:
+- legacy: false
+  read: true
+  message: met un msg sur le discord du serveur
+  sender-name: naturalizee
+  sender-uuid: cc702e34-b94b-3106-b41f-f357d3bf3dac
+  timestamp: 1694612796747
+  expire: 0
+- legacy: false
+  read: true
+  message: merci :)
+  sender-name: naturalizee
+  sender-uuid: cc702e34-b94b-3106-b41f-f357d3bf3dac
+  timestamp: 1687812396772
+  expire: 0

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1479050436070
+  logout: 1479050473092
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 160.5
+  y: 64.0
+  z: 20.5
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world_nether
+  x: 75.8641287669472
+  y: 74.0
+  z: -61.797547876067014
+  yaw: 175.7140655517578
+  pitch: 36.1629524230957
+  world-name: ''
+ip-address: 109.20.172.15
+last-account-name: Quentinja13
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

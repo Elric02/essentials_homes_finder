@@ -1,0 +1,38 @@
+timestamps:
+  login: 1559915585225
+  logout: 1559915594873
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 146.36795083504842
+  y: 68.5
+  z: 99.89935112494264
+  yaw: 108.72261047363281
+  pitch: 6.677479267120361
+  world-name: ''
+ip-address: 78.190.61.41
+last-account-name: SavaGerT
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

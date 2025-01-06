@@ -1,0 +1,38 @@
+timestamps:
+  login: 1516134824747
+  lastteleport: 1515440684474
+  mute: 0
+  logout: 1516135869955
+  lastheal: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -6807.848134084407
+  y: 66.0
+  z: -3892.300000011921
+  yaw: 302.3597412109375
+  pitch: 8.916004180908203
+  world-name: ''
+money: '0'
+muted: false
+logoutlocation:
+  world: world
+  x: -6856.575051334533
+  y: 63.0
+  z: -3796.3125540093597
+  yaw: -348.84918212890625
+  pitch: 17.735034942626953
+  world-name: ''
+ip-address: 109.131.79.127
+last-account-name: Melio_King
+teleportenabled: true
+teleportauto: false
+godmode: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

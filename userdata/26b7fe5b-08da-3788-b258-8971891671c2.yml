@@ -1,0 +1,47 @@
+timestamps:
+  login: 1558204351907
+  lastteleport: 1558210042923
+  logout: 1558210095039
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Nether
+  x: 112.80152821281504
+  y: 53.0
+  z: -206.30086412990931
+  yaw: 87.43022918701172
+  pitch: 8.09982967376709
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 3146.9864474946885
+  y: 99.0
+  z: -3958.220086455079
+  yaw: -323.4022521972656
+  pitch: 20.099958419799805
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 3157.457726021399
+    y: 101.0
+    z: -3943.0040330155753
+    yaw: -70.35235595703125
+    pitch: 38.39994430541992
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 109.31.128.165
+last-account-name: MrColo
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

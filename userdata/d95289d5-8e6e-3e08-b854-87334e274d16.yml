@@ -1,0 +1,55 @@
+timestamps:
+  login: 1526814500605
+  lastteleport: 1526718951274
+  logout: 1526814505385
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 219.48750001192093
+  y: 76.148642257241
+  z: -96.62374571503426
+  yaw: 88.18243408203125
+  pitch: -38.249385833740234
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 169.16283749959703
+  y: 63.0
+  z: 18.977239031435108
+  yaw: -57.17079162597656
+  pitch: 21.17864418029785
+  world-name: ''
+homes:
+  base:
+    world: world
+    x: 2029.9772411349115
+    y: 100.0
+    z: -3762.7143255351375
+    yaw: 163.2024383544922
+    pitch: 8.24979019165039
+    world-name: ''
+  quete:
+    world: world
+    x: 213.19558180095487
+    y: 100.0
+    z: -103.72875424807721
+    yaw: -15.919998168945312
+    pitch: 18.60003089904785
+    world-name: ''
+afk: false
+ip-address: 88.174.68.117
+last-account-name: _Bastion_2_OP_
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

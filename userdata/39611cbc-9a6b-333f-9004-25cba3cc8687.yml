@@ -1,0 +1,55 @@
+timestamps:
+  login: 1614522416795
+  lastteleport: 1614522524035
+  logout: 1614522857473
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressourcenether
+  x: -214.69999998807907
+  y: 11.0
+  z: -101.87916822340262
+  yaw: 343.746337890625
+  pitch: 23.445314407348633
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: Ressource
+    x: 675.2939590304139
+    y: 21.0
+    z: -1147.528386215235
+    yaw: -20.092226028442383
+    pitch: -60.71607971191406
+    world-name: ''
+  farm:
+    world: End
+    x: -289.54180965908165
+    y: 1.0
+    z: 746.9339839387911
+    yaw: -2.905146598815918
+    pitch: 23.522348403930664
+    world-name: ''
+logoutlocation:
+  world: Ressource
+  x: 681.204395821642
+  y: 22.419999986886978
+  z: -1141.9461898276597
+  yaw: -79.99112701416016
+  pitch: 1.14949631690979
+  world-name: ''
+ip-address: 78.243.2.14
+last-account-name: necrosxx
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1607188809046
+  logout: 1607188998114
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 165.8362495038782
+  y: 64.0
+  z: 18.720392625539795
+  yaw: -278.07330322265625
+  pitch: 4.740724086761475
+  world-name: ''
+ip-address: 2.10.133.63
+last-account-name: mevennou2
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

@@ -1,0 +1,30 @@
+timestamps:
+  login: 1534259699751
+  logout: 1534259762376
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+logoutlocation:
+  world: world
+  x: 151.87449309207742
+  y: 63.0
+  z: 50.02718514396727
+  yaw: 111.50448608398438
+  pitch: -11.537635803222656
+  world-name: ''
+ip-address: 88.162.61.48
+last-account-name: Chokusola
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

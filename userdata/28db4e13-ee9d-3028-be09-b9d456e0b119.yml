@@ -1,0 +1,47 @@
+timestamps:
+  login: 1559851570266
+  logout: 1559852036902
+  lastteleport: 1559851988418
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 152.67124183361895
+  y: 64.0
+  z: 29.076608066164784
+  yaw: -193.82081604003906
+  pitch: 7.978658199310303
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -3288.093531633389
+  y: 69.0
+  z: -2486.1445936986433
+  yaw: -354.8997802734375
+  pitch: 23.549951553344727
+  world-name: ''
+homes:
+  maison:
+    world: world
+    x: -3263.84174677433
+    y: 69.0
+    z: -2464.051551559735
+    yaw: -76.650146484375
+    pitch: 12.899994850158691
+    world-name: ''
+ip-address: 79.93.114.50
+last-account-name: antonin22
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

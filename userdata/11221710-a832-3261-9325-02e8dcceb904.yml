@@ -1,0 +1,38 @@
+timestamps:
+  login: 1566754047457
+  lastteleport: 1566754350786
+  logout: 1566755043053
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -568.6743792767063
+  y: 64.0
+  z: -649.5136803358404
+  yaw: 97.18596649169922
+  pitch: 9.600507736206055
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 1277.3669342363953
+  y: 83.0
+  z: -1946.8456758584298
+  yaw: -137.72488403320312
+  pitch: 20.935516357421875
+  world-name: ''
+ip-address: 78.215.59.225
+last-account-name: Terrodon08
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

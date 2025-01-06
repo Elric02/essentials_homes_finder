@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.117.100.95
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643912794716
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643912796810
+  login: 1643907823614
+money: '0'
+last-account-name: minicordo
+lastlocation:
+  world: 53088384-c7c2-4056-b289-104b018f6c26
+  world-name: Ressource
+  x: 3061.9524831333147
+  y: 65.0
+  z: 2226.570655939718
+  yaw: 220.94996643066406
+  pitch: 29.850006103515625
+logoutlocation:
+  world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+  world-name: world
+  x: 1722.5
+  y: 65.0
+  z: -4235.5
+  yaw: 21.89961051940918
+  pitch: 20.400005340576172
+homes:
+  base:
+    world: 0d3982ce-45a9-4163-9f51-c5997ae4b00a
+    world-name: world
+    x: 1722.5478189935918
+    y: 65.0
+    z: -4236.66047928836
+    yaw: 21.89961051940918
+    pitch: 20.400005340576172

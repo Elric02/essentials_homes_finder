@@ -1,0 +1,55 @@
+timestamps:
+  login: 1465553338738
+  logout: 1465553576791
+  lastteleport: 1465553525434
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 228.03483904843134
+  y: 96.0
+  z: -171.7476247883205
+  yaw: -274.53326416015625
+  pitch: 20.427993774414062
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.5
+  y: 64.0
+  z: 19.5
+  yaw: -178.647216796875
+  pitch: -11.475815773010254
+  world-name: ''
+money: '0'
+homes:
+  maiison:
+    world: world
+    x: 228.42127559445652
+    y: 96.0
+    z: -173.0518157730228
+    yaw: 200.63662719726562
+    pitch: 22.830568313598633
+    world-name: ''
+  enhaut:
+    world: world
+    x: 212.438916683663
+    y: 118.0
+    z: -186.69999998807907
+    yaw: 198.1407470703125
+    pitch: 18.81500244140625
+    world-name: ''
+afk: false
+ip-address: 86.196.250.201
+last-account-name: oyoyoy
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,47 @@
+timestamps:
+  login: 1464619171725
+  lastteleport: 1464619356865
+  logout: 1464619634711
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -226.14293682031973
+  y: 68.0
+  z: -12.671409256133765
+  yaw: -12.271881103515625
+  pitch: 14.78170394897461
+  world-name: ''
+money: '0'
+homes:
+  home:
+    world: world
+    x: -226.14293682031973
+    y: 68.0
+    z: -12.671409256133765
+    yaw: -12.271881103515625
+    pitch: 14.78170394897461
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -225.3757918237677
+  y: 60.0
+  z: -12.300548715735204
+  yaw: -88.75601196289062
+  pitch: 51.51536178588867
+  world-name: ''
+ip-address: 90.16.14.105
+last-account-name: NonoLegends
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

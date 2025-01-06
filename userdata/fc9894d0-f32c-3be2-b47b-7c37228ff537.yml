@@ -1,0 +1,38 @@
+timestamps:
+  login: 1537294955416
+  lastteleport: 1537294701097
+  logout: 1537295877769
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 6.383538462942014
+  y: 65.0
+  z: 37.11767247436951
+  yaw: -13.2210693359375
+  pitch: 69.62867736816406
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -679.289916057984
+  y: 64.0
+  z: -749.613667652565
+  yaw: 312.4300231933594
+  pitch: 28.37860107421875
+  world-name: ''
+money: '0'
+ip-address: 31.37.241.27
+last-account-name: Shuzen_n
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

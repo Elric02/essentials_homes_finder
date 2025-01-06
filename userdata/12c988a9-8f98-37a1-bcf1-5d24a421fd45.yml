@@ -1,0 +1,38 @@
+timestamps:
+  login: 1465669504205
+  lastteleport: 1465669631722
+  logout: 1465669700586
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -17.663043501635048
+  y: 37.0
+  z: 37.365827720055314
+  yaw: 93.91704559326172
+  pitch: 12.890731811523438
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: 95.79131800317609
+  y: 63.0
+  z: -31.300000011920925
+  yaw: -12.483162879943848
+  pitch: 29.613080978393555
+  world-name: ''
+ip-address: 78.193.54.223
+last-account-name: Volroad
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1591601442279
+  lastteleport: 1591603115775
+  logout: 1591604743139
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: -2682.5034722368723
+  y: 69.0
+  z: -2373.2821934496465
+  yaw: -1.6495972871780396
+  pitch: 29.700096130371094
+  world-name: ''
+money: '0'
+homes:
+  maison:
+    world: world
+    x: -2051.5948519838116
+    y: 71.0
+    z: -6235.368452810918
+    yaw: 356.8472900390625
+    pitch: 41.399940490722656
+    world-name: ''
+  blaze:
+    world: Nether
+    x: -1080.4374301236753
+    y: 60.0
+    z: -449.2827307994553
+    yaw: 266.285888671875
+    pitch: 18.449935913085938
+    world-name: ''
+  mine:
+    world: Ressource
+    x: 1926.0593877887147
+    y: 11.0
+    z: -3955.384844837457
+    yaw: 88.65274810791016
+    pitch: 33.1508674621582
+    world-name: ''
+logoutlocation:
+  world: world
+  x: -2051.7276142983123
+  y: 78.0
+  z: -6230.77377166607
+  yaw: 95.5435791015625
+  pitch: 36.44989013671875
+  world-name: ''
+afk: false
+ip-address: 82.232.54.62
+last-account-name: Dwemswef
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

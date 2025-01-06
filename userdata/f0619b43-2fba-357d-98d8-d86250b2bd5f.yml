@@ -1,0 +1,47 @@
+timestamps:
+  login: 1595359171445
+  lastteleport: 1595349094125
+  logout: 1595359367246
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 2042.9860283852486
+  y: 11.0
+  z: -395.5413700370342
+  yaw: 88.19568634033203
+  pitch: 20.999826431274414
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 176.83390000321788
+  y: 63.0
+  z: -2879.061984442144
+  yaw: 105.60541534423828
+  pitch: -17.7000675201416
+  world-name: ''
+homes:
+  home:
+    world: world
+    x: 176.92598707189612
+    y: 63.0
+    z: -2872.207659912966
+    yaw: -173.54393005371094
+    pitch: 10.049928665161133
+    world-name: ''
+money: '0'
+afk: false
+ip-address: 83.196.128.69
+last-account-name: skypepito16
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

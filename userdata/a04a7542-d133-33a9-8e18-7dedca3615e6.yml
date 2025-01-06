@@ -1,0 +1,38 @@
+timestamps:
+  login: 1477826391736
+  logout: 1477826522912
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.72178055577544
+  y: 63.0
+  z: 8.061361751269278
+  yaw: -207.79766845703125
+  pitch: 21.097396850585938
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.62853492583668
+  y: 63.0
+  z: 47.38245678756105
+  yaw: -178.2603759765625
+  pitch: 18.474531173706055
+  world-name: ''
+ip-address: 86.76.75.189
+last-account-name: 333pokemon
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

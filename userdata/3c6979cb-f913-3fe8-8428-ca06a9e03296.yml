@@ -1,0 +1,38 @@
+timestamps:
+  login: 1503851621275
+  lastteleport: 1503848009976
+  logout: 1503852408542
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: -594.8079762767869
+  y: 64.0
+  z: -795.3015137740272
+  yaw: 23.902374267578125
+  pitch: 31.199960708618164
+  world-name: ''
+money: '0'
+logoutlocation:
+  world: world
+  x: -4848.775480321581
+  y: 86.0
+  z: -455.6600517841554
+  yaw: -86.57269287109375
+  pitch: 17.849964141845703
+  world-name: ''
+ip-address: 88.126.49.41
+last-account-name: Dragons_Slayer
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

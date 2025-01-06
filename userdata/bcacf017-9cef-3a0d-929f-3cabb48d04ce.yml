@@ -1,0 +1,38 @@
+timestamps:
+  login: 1591370643313
+  logout: 1591370646813
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 142.60453565806415
+  y: 63.0
+  z: 8.150117663774317
+  yaw: -168.9542236328125
+  pitch: 35.040706634521484
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 91.59134961069626
+  y: 63.0
+  z: 62.61882146660244
+  yaw: -120.7732925415039
+  pitch: 1.8286468982696533
+  world-name: ''
+money: '0'
+afk: false
+ip-address: 86.237.207.195
+last-account-name: Dureeeex
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

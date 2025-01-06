@@ -1,0 +1,38 @@
+timestamps:
+  login: 1556877138820
+  logout: 1556877208520
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 154.0
+  y: 64.0
+  z: 24.0
+  yaw: 0.0
+  pitch: 0.0
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 101.13576592881641
+  y: 63.0
+  z: -42.545441581162805
+  yaw: 110.79686737060547
+  pitch: 10.29065227508545
+  world-name: ''
+ip-address: 37.165.197.117
+last-account-name: Mr_DraGoNixS
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

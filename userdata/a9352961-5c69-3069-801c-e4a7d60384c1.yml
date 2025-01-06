@@ -1,0 +1,38 @@
+timestamps:
+  login: 1517251340822
+  lastteleport: 1517251392642
+  logout: 1517251448841
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 156.06602986366002
+  y: 63.0
+  z: 63.06392766759352
+  yaw: 231.3885040283203
+  pitch: -6.560952186584473
+  world-name: ''
+logoutlocation:
+  world: world
+  x: -5037.597463586318
+  y: 71.0
+  z: -457.7283851547993
+  yaw: -321.637451171875
+  pitch: 57.9984130859375
+  world-name: ''
+ip-address: 83.205.65.167
+last-account-name: Yteews76
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+money: '0'

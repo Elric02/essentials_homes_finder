@@ -1,0 +1,38 @@
+timestamps:
+  login: 1600013635846
+  logout: 1600013709075
+  lastteleport: 1600013680127
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: world
+  x: 1012.5435677759904
+  y: 60.82399177053707
+  z: 515.6232727106733
+  yaw: 144.5498809814453
+  pitch: 18.74988555908203
+  world-name: ''
+logoutlocation:
+  world: world
+  x: 154.19873805781953
+  y: 64.0
+  z: 25.70254777048406
+  yaw: 174.27915954589844
+  pitch: -9.871331214904785
+  world-name: ''
+money: '0'
+ip-address: 88.125.33.134
+last-account-name: mortix88
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false

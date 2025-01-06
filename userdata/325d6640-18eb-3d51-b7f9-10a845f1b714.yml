@@ -1,0 +1,63 @@
+timestamps:
+  login: 1522342469359
+  lastteleport: 1522229405541
+  logout: 1522343787706
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+lastlocation:
+  world: Ressource
+  x: 4828.713737674482
+  y: 68.0
+  z: -5114.874720738451
+  yaw: 108.0399169921875
+  pitch: 10.294206619262695
+  world-name: ''
+money: '0'
+homes:
+  s:
+    world: world
+    x: 2097.9277819117387
+    y: 64.0
+    z: -3911.051721892704
+    yaw: -94.6502685546875
+    pitch: 11.249967575073242
+    world-name: ''
+  sss:
+    world: world
+    x: -955.4875000119209
+    y: 144.0
+    z: -5828.513249818671
+    yaw: 89.39701080322266
+    pitch: 0.6027370095252991
+    world-name: ''
+  ss:
+    world: world
+    x: 1537.32831840909
+    y: 66.0
+    z: -2128.8767417166996
+    yaw: -179.79092407226562
+    pitch: -1.2930463552474976
+    world-name: ''
+afk: false
+logoutlocation:
+  world: world
+  x: 5221.149423608593
+  y: 64.0
+  z: -6471.418505511385
+  yaw: -206.24664306640625
+  pitch: 25.634563446044922
+  world-name: ''
+ip-address: 78.202.140.157
+last-account-name: Streep_Tease
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
