@@ -38,7 +38,7 @@ async function readYMLFiles(folderPath, targetAccountName) {
 document.getElementById('processButton').addEventListener('click', async () => {
     const targetAccountName = prompt("Enter the value of 'last-account-name' to search for:");
 
-    const folderPath = "userdata";
+    const folderPath = "/userdata";
 
     var results = await readYMLFiles(folderPath, targetAccountName);
 
