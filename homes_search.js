@@ -44,6 +44,7 @@ document.getElementById('processButton').addEventListener('click', async () => {
 
     console.log("\nFound the following matches:");
     console.log(results);
+    console.log(filenames);
 	
 	var homes = Object.keys(results);
 	var table = document.getElementById("results").innerHTML;
