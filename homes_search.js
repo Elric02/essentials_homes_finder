@@ -15,27 +15,27 @@ document.getElementById('processButton').addEventListener('click', async () => {
 				
 				var table = document.getElementById("results").innerHTML;
 				
-				/*for (var i = 0; i < homes.length; i++) {
+				for (var j = 0; j < homes.length; j++) {
 					table += "<tr>"
 					table += "<td>"
-					table += homes[i].split("':")[0].substring(1);
+					table += homes[j].split("':")[0].substring(1);
 					table += "</td>"
 					table += "<td>"
-					table += homes[i].split("'world-name': '")[1].split("'}")[0];
+					table += homes[j].split("'world-name': '")[1].split("'}")[0];
 					table += "</td>"
 					table += "<td>"
-					table += homes[i].split("'x': ")[1].split(",")[0];
+					table += homes[j].split("'x': ")[1].split(",")[0];
 					table += "</td>"
 					table += "<td>"
-					table += homes[i].split("'y': ")[1].split(",")[0];
+					table += homes[j].split("'y': ")[1].split(",")[0];
 					table += "</td>"
 					table += "<td>"
-					table += homes[i].split("'z': ")[1].split(",")[0];
+					table += homes[j].split("'z': ")[1].split(",")[0];
 					table += "</td>"
 					table += "</tr>"
 				}
 				
-				document.getElementById("results").innerHTML = table;*/
+				document.getElementById("results").innerHTML = table;
 			}
 		}
 	});
