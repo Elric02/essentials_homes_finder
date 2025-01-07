@@ -4,19 +4,18 @@ document.getElementById('processButton').addEventListener('click', async () => {
 	var results;
 	d3.csv("homes.csv", function(data) {
 		for (var i = 0; i < data.length; i++) {
-			console.log("test");
-			/*if (i%100 == 0) {
+			if (i%100 == 0) {
 				console.log(i);
 			}
 			if (data[i][1] == targetAccountName) {
 				console.log(i);
-				console.log(data[i][2]);
+				//console.log(data[i][2]);
 				results = data[i][2];
 				var homes = results.split('},');
 				
 				var table = document.getElementById("results").innerHTML;
 				
-				for (var i = 0; i < homes.length; i++) {
+				/*for (var i = 0; i < homes.length; i++) {
 					table += "<tr>"
 					table += "<td>"
 					table += homes[i].split("':")[0].substring(1);
@@ -36,8 +35,8 @@ document.getElementById('processButton').addEventListener('click', async () => {
 					table += "</tr>"
 				}
 				
-				document.getElementById("results").innerHTML = table;
-			}*/
+				document.getElementById("results").innerHTML = table;*/
+			}
 		}
 	});
 	
