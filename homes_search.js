@@ -10,6 +10,7 @@ document.getElementById('processButton').addEventListener('click', async () => {
 				results.replace("'", '%%temp%%');
 				results.replace('"', "'");
 				results.replace("%%temp%%", '"');
+				console.log(results);
 				results = JSON.parse(results);
 				
 				var homes = Object.keys(results);
