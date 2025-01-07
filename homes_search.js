@@ -9,7 +9,7 @@ document.getElementById('processButton').addEventListener('click', async () => {
 				results = data[i][2];
 				var homes = results.split('},');
 				
-				var table = document.getElementById("results").innerHTML;
+				var table = "<tr><th>Nom du home</th><th>Monde</th><th>X</th><th>Y</th><th>Z</th></tr>";
 				
 				for (var j = 0; j < homes.length; j++) {
 					table += "<tr>"
