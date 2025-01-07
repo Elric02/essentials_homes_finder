@@ -3,9 +3,9 @@ document.getElementById('processButton').addEventListener('click', async () => {
 
 	var results;
 	d3.csv("homes.csv", function(data) {
-		console.log("test");
-		/*for (var i = 0; i < data.length; i++) {
-			if (i%100 == 0) {
+		for (var i = 0; i < data.length; i++) {
+			console.log("test");
+			/*if (i%100 == 0) {
 				console.log(i);
 			}
 			if (data[i][1] == targetAccountName) {
@@ -37,8 +37,8 @@ document.getElementById('processButton').addEventListener('click', async () => {
 				}
 				
 				document.getElementById("results").innerHTML = table;
-			}
-		}*/
+			}*/
+		}
 	});
 	
 });
