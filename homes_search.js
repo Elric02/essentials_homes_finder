@@ -12,28 +12,26 @@ document.getElementById('processButton').addEventListener('click', async () => {
 				//results.replace("%%temp%%", '"');
 				//console.log(results);
 				//results = JSON.parse(results);
-				var homes = jsyaml.load(results);
+				var homes = results.split('},');
 				
-				//var homes = Object.keys(results);
 				var table = document.getElementById("results").innerHTML;
 				
 				for (var i = 0; i < homes.length; i++) {
-					console.log(results[homes[i]])
 					table += "<tr>"
 					table += "<td>"
-					table += homes[i];
+					table += homes[i].split("':")[0].substring(1);
 					table += "</td>"
 					table += "<td>"
-					table += results[homes[i]]["world-name"];
+					table += homes[i].split("'world-name': '")[1].split("'}")[0];
 					table += "</td>"
 					table += "<td>"
-					table += results[homes[i]].x;
+					table += homes[i].split("'x': '")[1].split(",")[0];
 					table += "</td>"
 					table += "<td>"
-					table += results[homes[i]].y;
+					table += homes[i].split("'y': '")[1].split(",")[0];
 					table += "</td>"
 					table += "<td>"
-					table += results[homes[i]].z;
+					table += homes[i].split("'z': '")[1].split(",")[0];
 					table += "</td>"
 					table += "</tr>"
 				}
