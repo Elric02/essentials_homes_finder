@@ -1,3 +1,5 @@
+# Eventually this file was simply used to generate the CSV file containing all the yaml data
+
 import os
 import yaml
 import pandas as pd
