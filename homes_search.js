@@ -3,7 +3,8 @@ document.getElementById('processButton').addEventListener('click', async () => {
 
 	var results;
 	d3.csv("homes.csv", function(data) {
-		for (var i = 0; i &lt; data.length; i++) {
+		console.log("test");
+		/*for (var i = 0; i < data.length; i++) {
 			if (i%100 == 0) {
 				console.log(i);
 			}
@@ -37,7 +38,7 @@ document.getElementById('processButton').addEventListener('click', async () => {
 				
 				document.getElementById("results").innerHTML = table;
 			}
-		}
+		}*/
 	});
 	
 });
