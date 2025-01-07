@@ -4,10 +4,11 @@ document.getElementById('processButton').addEventListener('click', async () => {
 	var results;
 	d3.csv("homes.csv", function(data) {
 		for (var i = 0; i < data.length; i++) {
-			console.log(data[i][1]);
-			console.log(targetAccountName);
-			console.log(data[i][1] == targetAccountName);
+			if (i%100 == 0) {
+				console.log(i);
+			}
 			if (data[i][1] == targetAccountName) {
+				console.log(i);
 				console.log(data[i][2]);
 				results = data[i][2];
 				var homes = results.split('},');
