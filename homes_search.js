@@ -7,13 +7,14 @@ document.getElementById('processButton').addEventListener('click', async () => {
 			if (data[i][1] == targetAccountName) {
 				console.log(data[i]);
 				results = data[i][2];
-				results.replace("'", '%%temp%%');
-				results.replace('"', "'");
-				results.replace("%%temp%%", '"');
-				console.log(results);
-				results = JSON.parse(results);
+				//results.replace("'", '%%temp%%');
+				//results.replace('"', "'");
+				//results.replace("%%temp%%", '"');
+				//console.log(results);
+				//results = JSON.parse(results);
+				var homes = jsyaml.load(results);
 				
-				var homes = Object.keys(results);
+				//var homes = Object.keys(results);
 				var table = document.getElementById("results").innerHTML;
 				
 				for (var i = 0; i < homes.length; i++) {
