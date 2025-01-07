@@ -36,17 +36,21 @@ async function readYMLFiles(folderPath, targetAccountName) {
 }
 
 document.getElementById('processButton').addEventListener('click', async () => {
-    const targetAccountName = prompt("Enter the value of 'last-account-name' to search for:");
+    //const targetAccountName = prompt("Enter the value of 'last-account-name' to search for:");
 
-    const folderPath = "/userdata";
+    //const folderPath = "/userdata";
 
-    var results = await readYMLFiles(folderPath, targetAccountName);
+    //var results = await readYMLFiles(folderPath, targetAccountName);
+	d3.csv("homes.csv", function(data) {
+		for (var i = 0; i < data.length; i++) {
+			console.log(data[i]);
+		}
+	});
 
     console.log("\nFound the following matches:");
-    console.log(results);
-    console.log(filenames);
+    console.log(data);
 	
-	var homes = Object.keys(results);
+	/*var homes = Object.keys(results);
 	var table = document.getElementById("results").innerHTML;
 	
 	for (var i = 0; i < homes.length; i++) {
@@ -70,5 +74,5 @@ document.getElementById('processButton').addEventListener('click', async () => {
 		table += "</tr>"
 	}
 	
-	document.getElementById("results").innerHTML = table;
+	document.getElementById("results").innerHTML = table;*/
 });
