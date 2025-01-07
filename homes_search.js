@@ -3,7 +3,7 @@ document.getElementById('processButton').addEventListener('click', async () => {
 
 	var results;
 	d3.csv("homes.csv", function(data) {
-		for (var i = 0; i < data.length; i++) {
+		for (var i = 0; i &lt; data.length; i++) {
 			if (i%100 == 0) {
 				console.log(i);
 			}
